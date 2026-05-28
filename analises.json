@@ -1,0 +1,72 @@
+[
+  {
+    "source": "BTG Pactual",
+    "date": "Junho 2026",
+    "title": "Carteira Recomendada de Ações — Junho 2026",
+    "summary": "Top picks: PETR4, ITUB4, WEGE3, VALE3, BBAS3. Setor financeiro deve se beneficiar com queda de juros. Recomendação de aumento em energia e redução em varejo.",
+    "tickers": ["PETR4", "ITUB4", "WEGE3", "VALE3", "BBAS3"],
+    "rec": "buy",
+    "url": "",
+    "categoria": "carteira"
+  },
+  {
+    "source": "BTG Pactual",
+    "date": "Junho 2026",
+    "title": "Morning Call BTG — Abertura de Mercado",
+    "summary": "Ibovespa deve operar com volatilidade. EUA divulga dados de emprego hoje. Destaque para resultados do setor financeiro. Câmbio estável próximo de R$ 5,00.",
+    "tickers": ["BBAS3", "ITUB4", "BBDC4"],
+    "rec": "hold",
+    "url": "",
+    "categoria": "morning-call"
+  },
+  {
+    "source": "XP Investimentos",
+    "date": "Junho 2026",
+    "title": "Top 10 Ações para Junho — Ibovespa a caminho dos 145k",
+    "summary": "Preferência por empresas com forte geração de caixa e exposição ao ciclo de queda de juros. Destaques: RENT3, LREN3 e ELET3.",
+    "tickers": ["RENT3", "LREN3", "ELET3"],
+    "rec": "buy",
+    "url": "",
+    "categoria": "carteira"
+  },
+  {
+    "source": "BTG Pactual",
+    "date": "Junho 2026",
+    "title": "Carteira de FIIs — Melhores Fundos para o Mês",
+    "summary": "Recomendação de FIIs de tijolo com desconto sobre VP. HGLG11, XPLG11 e VISC11 como principais apostas do mês.",
+    "tickers": ["HGLG11", "XPLG11", "VISC11"],
+    "rec": "buy",
+    "url": "",
+    "categoria": "fiis"
+  },
+  {
+    "source": "Goldman Sachs",
+    "date": "Maio 2026",
+    "title": "Dólar pode cair para R$ 4,70 até o fim do ano",
+    "summary": "Fluxo estrangeiro e política monetária dovish nos EUA devem pressionar moeda americana frente ao real. Carry trade favorece Brasil.",
+    "tickers": [],
+    "rec": "hold",
+    "url": "",
+    "categoria": "macro"
+  },
+  {
+    "source": "BTG Pactual",
+    "date": "Junho 2026",
+    "title": "MGLU3 — Rebaixamento para Venda",
+    "summary": "Reestruturação insuficiente. Margens seguem pressionadas e competição com Mercado Livre e Amazon intensifica. Preço-alvo reduzido para R$ 1,80.",
+    "tickers": ["MGLU3"],
+    "rec": "sell",
+    "url": "",
+    "categoria": "acao"
+  },
+  {
+    "source": "Suno Research",
+    "date": "Junho 2026",
+    "title": "FIIs de Papel vs Tijolo: O que comprar agora?",
+    "summary": "Com a queda da Selic, FIIs de tijolo ganham atratividade relativa. Recomendação de migração gradual de CRIs para galpões e shoppings.",
+    "tickers": ["MXRF11", "IRDM11", "XPML11"],
+    "rec": "buy",
+    "url": "",
+    "categoria": "fiis"
+  }
+]

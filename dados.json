@@ -1,0 +1,485 @@
+{
+  "stocks": {
+    "PETR4": {
+      "stock": "PETR4",
+      "name": "Petróleo Brasileiro S.A. - Petrobras",
+      "close": 42.46,
+      "change": -0.84,
+      "volume": 27537200,
+      "market_cap": 580151607296,
+      "sector": "Energy",
+      "type": "stock"
+    },
+    "VALE3": {
+      "stock": "VALE3",
+      "name": "Vale S.A.",
+      "close": 83.84,
+      "change": 0.47,
+      "volume": 7421000,
+      "market_cap": 357422563328,
+      "sector": "Basic Materials",
+      "type": "stock"
+    },
+    "ITUB4": {
+      "stock": "ITUB4",
+      "name": "Itaú Unibanco Holding S.A.",
+      "close": 40.16,
+      "change": -0.4,
+      "volume": 10935200,
+      "market_cap": 442627227648,
+      "sector": "Financial Services",
+      "type": "stock"
+    },
+    "BBDC4": {
+      "stock": "BBDC4",
+      "name": "Banco Bradesco S.A.",
+      "close": 18.03,
+      "change": 0.17,
+      "volume": 19174000,
+      "market_cap": 190589943808,
+      "sector": "Financial Services",
+      "type": "stock"
+    },
+    "ABEV3": {
+      "stock": "ABEV3",
+      "name": "Ambev S.A.",
+      "close": 16.44,
+      "change": -1.02,
+      "volume": 14456800,
+      "market_cap": 256015106048,
+      "sector": "Consumer Defensive",
+      "type": "stock"
+    },
+    "WEGE3": {
+      "stock": "WEGE3",
+      "name": "WEG S.A.",
+      "close": 43.85,
+      "change": 0.92,
+      "volume": 2130200,
+      "market_cap": 183987126272,
+      "sector": "Industrials",
+      "type": "stock"
+    },
+    "RENT3": {
+      "stock": "RENT3",
+      "name": "Localiza Rent a Car S.A.",
+      "close": 43.16,
+      "change": 0.79,
+      "volume": 4398000,
+      "market_cap": 47281819648,
+      "sector": "Industrials",
+      "type": "stock"
+    },
+    "BBAS3": {
+      "stock": "BBAS3",
+      "name": "Banco do Brasil S.A.",
+      "close": 20.89,
+      "change": -0.85,
+      "volume": 9162400,
+      "market_cap": 119254532096,
+      "sector": "Financial Services",
+      "type": "stock"
+    },
+    "MGLU3": {
+      "stock": "MGLU3",
+      "name": "Magazine Luiza S.A.",
+      "close": 6.55,
+      "change": -0.76,
+      "volume": 10279500,
+      "market_cap": 5075634176,
+      "sector": "Consumer Cyclical",
+      "type": "stock"
+    },
+    "SUZB3": {
+      "stock": "SUZB3",
+      "name": "Suzano S.A.",
+      "close": 41.86,
+      "change": -0.55,
+      "volume": 1759000,
+      "market_cap": 51740868608,
+      "sector": "Basic Materials",
+      "type": "stock"
+    },
+    "B3SA3": {
+      "stock": "B3SA3",
+      "name": "B3 S.A. - Brasil, Bolsa, Balcão",
+      "close": 16.63,
+      "change": 0.91,
+      "volume": 13303200,
+      "market_cap": 83330359296,
+      "sector": "Financial Services",
+      "type": "stock"
+    },
+    "RADL3": {
+      "stock": "RADL3",
+      "name": "Raia Drogasil S.A.",
+      "close": 19.11,
+      "change": 3.3,
+      "volume": 11472800,
+      "market_cap": 33414526976,
+      "sector": "Healthcare",
+      "type": "stock"
+    },
+    "LREN3": {
+      "stock": "LREN3",
+      "name": "Lojas Renner S.A.",
+      "close": 15.13,
+      "change": 1.75,
+      "volume": 3138200,
+      "market_cap": 14771801088,
+      "sector": "Consumer Cyclical",
+      "type": "stock"
+    }
+  },
+  "fiis": {
+    "HGLG11": {
+      "stock": "HGLG11",
+      "name": "Cshg Logistica - Fundo De Investimento Imobiliario",
+      "close": 154.92,
+      "change": -0.03,
+      "volume": 69724,
+      "market_cap": 5234371072,
+      "sector": "Real Estate",
+      "type": "fii"
+    },
+    "XPLG11": {
+      "stock": "XPLG11",
+      "name": "Xp Log Fundo Investimento Imobiliario FII",
+      "close": 96.87,
+      "change": -0.31,
+      "volume": 46644,
+      "market_cap": 3876319744,
+      "sector": "Real Estate",
+      "type": "fii"
+    },
+    "KNRI11": {
+      "stock": "KNRI11",
+      "name": "Kinea Renda Imobiliária Fundo de Investimento Imobiliário",
+      "close": 162.05,
+      "change": 0.01,
+      "volume": 21349,
+      "market_cap": 4570466304,
+      "sector": "Real Estate",
+      "type": "fii"
+    },
+    "MXRF11": {
+      "stock": "MXRF11",
+      "name": "Maxi Renda Fundo De Investimento Imobiliaro - FII",
+      "close": 9.94,
+      "change": 0.3,
+      "volume": 669839,
+      "market_cap": 4575078912,
+      "sector": "Real Estate",
+      "type": "fii"
+    },
+    "VISC11": {
+      "stock": "VISC11",
+      "name": "Vinci Shopping Centers Fundo Investimento Imobiliario - Fii",
+      "close": 106.4,
+      "change": -0.0,
+      "volume": 50197,
+      "market_cap": 3067367424,
+      "sector": "Real Estate",
+      "type": "fii"
+    },
+    "HGRE11": {
+      "stock": "HGRE11",
+      "name": "CSHG Real Estate - Fundo de Investimento Imobiliario - FII",
+      "close": 130.44,
+      "change": -0.27,
+      "volume": 9727,
+      "market_cap": 1541509504,
+      "sector": "Real Estate",
+      "type": "fii"
+    },
+    "XPML11": {
+      "stock": "XPML11",
+      "name": "Xp Malls Fundo Investimentos Imobiliarios",
+      "close": 106.68,
+      "change": -0.01,
+      "volume": 87811,
+      "market_cap": 6052027392,
+      "sector": "Real Estate",
+      "type": "fii"
+    },
+    "VILG11": {
+      "stock": "VILG11",
+      "name": "Vinci Logistica Fundo Investimento Imobiliario FII",
+      "close": 95.72,
+      "change": -0.3,
+      "volume": 15781,
+      "market_cap": 1435550720,
+      "sector": "Financial Services",
+      "type": "fii"
+    }
+  },
+  "etfs": {
+    "BOVA11": {
+      "stock": "BOVA11",
+      "name": "iShares Ibovespa Index Fund",
+      "close": 172.63,
+      "change": 0.05,
+      "volume": 874916,
+      "market_cap": 0,
+      "sector": "",
+      "type": "etf"
+    },
+    "SMAL11": {
+      "stock": "SMAL11",
+      "name": "iShares BM&FBovespa Small Cap Fundo de Índice",
+      "close": 113.15,
+      "change": 0.77,
+      "volume": 681611,
+      "market_cap": 0,
+      "sector": "",
+      "type": "etf"
+    },
+    "IVVB11": {
+      "stock": "IVVB11",
+      "name": "iShares S&P 500 Fundo de Investimento - Investimento No Exterior",
+      "close": 428.55,
+      "change": -0.15,
+      "volume": 90693,
+      "market_cap": 0,
+      "sector": "",
+      "type": "etf"
+    },
+    "HASH11": {
+      "stock": "HASH11",
+      "name": "Hashdex Nasdaq Crypto Index Fundo De Indice",
+      "close": 47.52,
+      "change": -3.12,
+      "volume": 235803,
+      "market_cap": 0,
+      "sector": "",
+      "type": "etf"
+    },
+    "GOLD11": {
+      "stock": "GOLD11",
+      "name": "Trend Etf Lbma Ouro Fundo Investimento Cotas De Fundo De Andice Investimento Exterior",
+      "close": 23.56,
+      "change": 0.51,
+      "volume": 773586,
+      "market_cap": 0,
+      "sector": "",
+      "type": "etf"
+    },
+    "DIVO11": {
+      "stock": "DIVO11",
+      "name": "It Now IDIV Index Fund",
+      "close": 124.58,
+      "change": -0.13,
+      "volume": 39740,
+      "market_cap": 0,
+      "sector": "",
+      "type": "etf"
+    },
+    "XFIX11": {
+      "stock": "XFIX11",
+      "name": "TREND ETF IFIX-L CLASSE DE ÍNDICE - RESPONSABILIDADE LIMITADA",
+      "close": 13.6,
+      "change": 0.07,
+      "volume": 3825,
+      "market_cap": 0,
+      "sector": "",
+      "type": "etf"
+    },
+    "BOVV11": {
+      "stock": "BOVV11",
+      "name": "It Now Ibovespa Fundo de Indice",
+      "close": 181.16,
+      "change": -0.0,
+      "volume": 19684,
+      "market_cap": 0,
+      "sector": "",
+      "type": "etf"
+    },
+    "NASD11": {
+      "stock": "NASD11",
+      "name": "Trend Etf Nasdaq 100 Fundo De Investimento De Indice - Investimento No Exterior",
+      "close": 21.19,
+      "change": 0.28,
+      "volume": 171109,
+      "market_cap": 0,
+      "sector": "",
+      "type": "etf"
+    },
+    "SPXI11": {
+      "stock": "SPXI11",
+      "name": "It Now S&P500 TRN Fundo de Índice",
+      "close": 52.09,
+      "change": 0.15,
+      "volume": 26963,
+      "market_cap": 0,
+      "sector": "",
+      "type": "etf"
+    },
+    "MATB11": {
+      "stock": "MATB11",
+      "name": "It Now IMAT Index Fund",
+      "close": 63.33,
+      "change": 0.22,
+      "volume": 995,
+      "market_cap": 0,
+      "sector": "",
+      "type": "etf"
+    },
+    "TECK11": {
+      "stock": "TECK11",
+      "name": "It Now Nyse Fang+ Fundo De Indice",
+      "close": 117.68,
+      "change": 0.84,
+      "volume": 142649,
+      "market_cap": 0,
+      "sector": "",
+      "type": "etf"
+    }
+  },
+  "us_stocks": {
+    "AAPL": {
+      "stock": "AAPL",
+      "name": "Apple Inc.",
+      "close": 310.42,
+      "change": -0.14,
+      "volume": 20460564,
+      "market_cap": 4559395618816,
+      "sector": "Technology",
+      "type": "us"
+    },
+    "MSFT": {
+      "stock": "MSFT",
+      "name": "Microsoft Corporation",
+      "close": 427.43,
+      "change": 3.58,
+      "volume": 26071514,
+      "market_cap": 3175247511552,
+      "sector": "Technology",
+      "type": "us"
+    },
+    "NVDA": {
+      "stock": "NVDA",
+      "name": "NVIDIA Corporation",
+      "close": 215.09,
+      "change": 1.17,
+      "volume": 83471115,
+      "market_cap": 5209072336896,
+      "sector": "Technology",
+      "type": "us"
+    },
+    "GOOGL": {
+      "stock": "GOOGL",
+      "name": "Alphabet Inc.",
+      "close": 389.8,
+      "change": 0.25,
+      "volume": 10321254,
+      "market_cap": 4722539364352,
+      "sector": "Communication Services",
+      "type": "us"
+    },
+    "AMZN": {
+      "stock": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "close": 272.37,
+      "change": 0.19,
+      "volume": 22129482,
+      "market_cap": 2929806278656,
+      "sector": "Consumer Cyclical",
+      "type": "us"
+    },
+    "META": {
+      "stock": "META",
+      "name": "Meta Platforms, Inc.",
+      "close": 631.16,
+      "change": -0.65,
+      "volume": 10737727,
+      "market_cap": 1602138669056,
+      "sector": "Communication Services",
+      "type": "us"
+    },
+    "TSLA": {
+      "stock": "TSLA",
+      "name": "Tesla, Inc.",
+      "close": 442.33,
+      "change": 0.45,
+      "volume": 22340849,
+      "market_cap": 1661269311488,
+      "sector": "Consumer Cyclical",
+      "type": "us"
+    }
+  },
+  "crypto": {
+    "BTC": {
+      "stock": "BTC",
+      "name": "Bitcoin USD",
+      "close": 73445.19,
+      "change": -1.21,
+      "volume": 42330705920,
+      "market_cap": 1470429790208,
+      "sector": "CRYPTO",
+      "type": "crypto"
+    },
+    "ETH": {
+      "stock": "ETH",
+      "name": "Ethereum USD",
+      "close": 2017.6,
+      "change": -0.23,
+      "volume": 19232665600,
+      "market_cap": 243294797824,
+      "sector": "CRYPTO",
+      "type": "crypto"
+    },
+    "SOL": {
+      "stock": "SOL",
+      "name": "Solana USD",
+      "close": 82.22,
+      "change": -0.18,
+      "volume": 3855897600,
+      "market_cap": 47525621760,
+      "sector": "CRYPTO",
+      "type": "crypto"
+    },
+    "ADA": {
+      "stock": "ADA",
+      "name": "Cardano USD",
+      "close": 0.23,
+      "change": -2.98,
+      "volume": 561033472,
+      "market_cap": 8483084288,
+      "sector": "CRYPTO",
+      "type": "crypto"
+    },
+    "XRP": {
+      "stock": "XRP",
+      "name": "XRP USD",
+      "close": 1.32,
+      "change": 1.06,
+      "volume": 2663131904,
+      "market_cap": 81946435584,
+      "sector": "CRYPTO",
+      "type": "crypto"
+    }
+  },
+  "indices": {
+    "IBOV": {
+      "stock": "IBOV",
+      "close": 175814.25,
+      "change": 0.04
+    },
+    "SP500": {
+      "stock": "SP500",
+      "close": 7564.36,
+      "change": 0.59
+    },
+    "NASDAQ": {
+      "stock": "NASDAQ",
+      "close": 26911.45,
+      "change": 0.89
+    }
+  },
+  "dolar": {
+    "stock": "USD/BRL",
+    "close": 5.0445,
+    "change": 0.68
+  },
+  "atualizado_em": "28/05/2026 14:58"
+}
