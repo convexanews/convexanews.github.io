@@ -1017,6 +1017,16 @@
         <p class="table-page-subtitle">Cotações, DY e dividendos</p>
       </div>
     </div>
+    <!-- Barra de categorias FII -->
+    <div class="setor-bar-wrap">
+      <div class="setor-bar" id="fiiBar">
+        <button class="setor-chip active" onclick="filterFiis('todas')" data-cat="todas">
+          <span class="chip-dot" style="background:#18181b"></span>
+          Todos
+          <span class="chip-count" id="countFiiTodas"></span>
+        </button>
+      </div>
+    </div>
     <div class="stock-table-wrap">
       <table class="stock-table">
         <thead>
@@ -1579,28 +1589,107 @@ function loadBRStocks() {
   filterAcoes(acoesSetorAtivo); // mantém filtro ativo entre refreshes
 }
 
+// ===== CATEGORIAS DE FII (mapeamento manual) =====
+const FII_CAT_MAP = {
+  'HGLG11': 'Galpões',
+  'XPLG11': 'Galpões',
+  'VILG11': 'Galpões',
+  'KNRI11': 'Diversificado',
+  'VISC11': 'Shoppings',
+  'XPML11': 'Shoppings',
+  'HGRE11': 'Lajes',
+  'MXRF11': 'Papel',
+  'IRDM11': 'Papel',
+  'BCFF11': 'Fundo de Fundos',
+};
+
+const FII_CAT_COR = {
+  'Galpões':         { dot: '#059669', bg: 'rgba(5,150,105,0.09)'    },
+  'Shoppings':       { dot: '#7c3aed', bg: 'rgba(124,58,237,0.09)'   },
+  'Lajes':           { dot: '#2563eb', bg: 'rgba(37,99,235,0.09)'    },
+  'Papel':           { dot: '#ea580c', bg: 'rgba(234,88,12,0.09)'    },
+  'Fundo de Fundos': { dot: '#71717a', bg: 'rgba(113,113,122,0.09)'  },
+  'Diversificado':   { dot: '#0891b2', bg: 'rgba(8,145,178,0.09)'    },
+};
+
+let fiisData = [];
+let fiisCategoria = 'todas';
+
+function getFiiCat(ticker) {
+  return FII_CAT_MAP[ticker] || 'Outros';
+}
+
+function buildFiiBar(data) {
+  const contagem = {};
+  data.forEach(s => {
+    const cat = getFiiCat(s.stock);
+    contagem[cat] = (contagem[cat] || 0) + 1;
+  });
+
+  const bar = document.getElementById('fiiBar');
+  const countEl = document.getElementById('countFiiTodas');
+  if (countEl) countEl.textContent = data.length;
+
+  bar.querySelectorAll('[data-cat]:not([data-cat="todas"])').forEach(c => c.remove());
+
+  Object.entries(contagem)
+    .sort((a, b) => b[1] - a[1])
+    .forEach(([cat, qtd]) => {
+      const cor = FII_CAT_COR[cat] || { dot: '#71717a', bg: 'rgba(0,0,0,0.05)' };
+      const chip = document.createElement('button');
+      chip.className = 'setor-chip' + (fiisCategoria === cat ? ' active' : '');
+      chip.dataset.cat = cat;
+      chip.onclick = () => filterFiis(cat);
+      chip.innerHTML = `
+        <span class="chip-dot" style="background:${cor.dot}"></span>
+        ${cat}
+        <span class="chip-count">${qtd}</span>`;
+      bar.appendChild(chip);
+    });
+}
+
+function filterFiis(cat) {
+  fiisCategoria = cat;
+  document.querySelectorAll('#fiiBar .setor-chip').forEach(c => {
+    c.classList.toggle('active', c.dataset.cat === cat);
+  });
+  const filtered = cat === 'todas' ? fiisData : fiisData.filter(s => getFiiCat(s.stock) === cat);
+  document.getElementById('tbFiis').innerHTML = filtered.length
+    ? filtered.map(s => renderFiiRow(s)).join('')
+    : `<tr><td colspan="5" class="loading-text">Nenhum FII nesta categoria</td></tr>`;
+}
+
+function renderFiiRow(s) {
+  const up = (s.change || 0) >= 0;
+  const cat = getFiiCat(s.stock);
+  const cor = FII_CAT_COR[cat] || { dot: '#71717a', bg: 'rgba(0,0,0,0.05)' };
+  return `<tr onclick="openBrapiDetail('${s.stock}')">
+    <td><div class="stock-cell">
+      <div class="stock-icon" style="background:#e8f4ff;color:#2563eb;">${(s.stock||'').slice(0,4)}</div>
+      <div class="stock-name-wrap">
+        <span class="stock-ticker">${s.stock}</span>
+        <span class="stock-name">${s.name || ''}</span>
+      </div>
+    </div></td>
+    <td><span class="stock-price">R$ ${s.close?.toFixed(2) || '—'}</span></td>
+    <td><span class="stock-change ${up?'up':'down'}">${up?'↗':'↘'} ${up?'+':''}${s.change?.toFixed(2) || '0.00'}%</span></td>
+    <td>
+      <span style="display:inline-flex;align-items:center;gap:5px;background:${cor.bg};color:${cor.dot};padding:3px 10px;border-radius:20px;font-size:12px;font-weight:600;">
+        <span style="width:5px;height:5px;border-radius:50%;background:${cor.dot};flex-shrink:0;"></span>
+        ${cat}
+      </span>
+    </td>
+    <td><span class="perf-value">${s.volume ? formatVol(s.volume) : '—'}</span></td>
+  </tr>`;
+}
+
 // ===== LOAD FIIs =====
 function loadFIIs() {
   const data = getAtivos(FII_TICKERS, 'fiis');
   data.forEach(s => { state.stockData[s.stock] = s; state.fiiData[s.stock] = s; });
-  document.getElementById('tbFiis').innerHTML = data.length
-    ? data.map(s => {
-        const up = (s.change || 0) >= 0;
-        return `<tr onclick="openBrapiDetail('${s.stock}')">
-          <td><div class="stock-cell">
-            <div class="stock-icon" style="background:#e8f4ff;color:#2563eb;">${(s.stock||'').slice(0,4)}</div>
-            <div class="stock-name-wrap">
-              <span class="stock-ticker">${s.stock}</span>
-              <span class="stock-name">${s.name || ''}</span>
-            </div>
-          </div></td>
-          <td><span class="stock-price">R$ ${s.close?.toFixed(2) || '—'}</span></td>
-          <td><span class="stock-change ${up?'up':'down'}">${up?'↗':'↘'} ${up?'+':''}${s.change?.toFixed(2) || '0.00'}%</span></td>
-          <td><span style="background:rgba(37,99,235,0.1);color:#2563eb;padding:2px 10px;border-radius:20px;font-size:12px;font-weight:600;">${s.sector || 'FII'}</span></td>
-          <td><span class="perf-value">${s.volume ? formatVol(s.volume) : '—'}</span></td>
-        </tr>`;
-      }).join('')
-    : LOADING_ROW(5);
+  fiisData = data;
+  buildFiiBar(data);
+  filterFiis(fiisCategoria);
 }
 
 // ===== LOAD US STOCKS =====
