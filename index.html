@@ -1613,16 +1613,30 @@ function loadBRStocks() {
 
 // ===== CATEGORIAS DE FII (mapeamento manual) =====
 const FII_CAT_MAP = {
-  'HGLG11': 'Galpões',
-  'XPLG11': 'Galpões',
-  'VILG11': 'Galpões',
-  'KNRI11': 'Diversificado',
-  'VISC11': 'Shoppings',
-  'XPML11': 'Shoppings',
-  'HGRE11': 'Lajes',
-  'MXRF11': 'Papel',
-  'IRDM11': 'Papel',
-  'BCFF11': 'Fundo de Fundos',
+  // Galpões Logísticos
+  'HGLG11':'Galpões','XPLG11':'Galpões','VILG11':'Galpões','BRCO11':'Galpões',
+  'GLOG11':'Galpões','ALZR11':'Galpões','LVBI11':'Galpões','GGRC11':'Galpões',
+  'PATL11':'Galpões','BTLG11':'Galpões','VGIP11':'Galpões','SDIL11':'Galpões',
+  'TRXF11':'Galpões','JRDM11':'Galpões',
+  // Shoppings
+  'VISC11':'Shoppings','XPML11':'Shoppings','HSML11':'Shoppings','MALL11':'Shoppings',
+  'BPML11':'Shoppings','ATSA11':'Shoppings','FVPQ11':'Shoppings',
+  // Lajes Corporativas
+  'HGRE11':'Lajes','BRCR11':'Lajes','RCRB11':'Lajes','PATC11':'Lajes',
+  'PVBI11':'Lajes','VINO11':'Lajes','JSRE11':'Lajes','TGAR11':'Lajes','BBPO11':'Lajes',
+  // Papel / CRI
+  'MXRF11':'Papel','IRDM11':'Papel','KNCR11':'Papel','KNHY11':'Papel',
+  'MCCI11':'Papel','VRTA11':'Papel','HABT11':'Papel','RECR11':'Papel',
+  'VGIR11':'Papel','CPTS11':'Papel','KNIP11':'Papel','RBRR11':'Papel',
+  'OUJP11':'Papel','HCTR11':'Papel',
+  // Fundo de Fundos
+  'BCFF11':'Fundo de Fundos','RBFF11':'Fundo de Fundos','HFOF11':'Fundo de Fundos',
+  'TFOF11':'Fundo de Fundos','FUND11':'Fundo de Fundos',
+  // Residencial
+  'BLMG11':'Residencial','RBVA11':'Residencial','RZAK11':'Residencial',
+  // Diversificado / Híbrido
+  'KNRI11':'Diversificado','HGPO11':'Diversificado','BTRA11':'Diversificado',
+  'RBRP11':'Diversificado','VVPR11':'Diversificado',
 };
 
 const FII_CAT_COR = {
@@ -1632,6 +1646,7 @@ const FII_CAT_COR = {
   'Papel':           { dot: '#ea580c', bg: 'rgba(234,88,12,0.09)'    },
   'Fundo de Fundos': { dot: '#71717a', bg: 'rgba(113,113,122,0.09)'  },
   'Diversificado':   { dot: '#0891b2', bg: 'rgba(8,145,178,0.09)'    },
+  'Residencial':     { dot: '#db2777', bg: 'rgba(219,39,119,0.09)'   },
 };
 
 let fiisData = [];
