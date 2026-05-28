@@ -343,6 +343,74 @@
     gap: 4px;
     overflow-x: auto;
   }
+  /* ===== SETOR FILTER BAR (Ações) ===== */
+  .setor-bar-wrap {
+    position: relative;
+    margin: 0 0 24px 0;
+  }
+  .setor-bar {
+    display: flex;
+    gap: 8px;
+    overflow-x: auto;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    padding: 4px 2px 8px;
+    scroll-behavior: smooth;
+  }
+  .setor-bar::-webkit-scrollbar { display: none; }
+  .setor-bar::after {
+    content: '';
+    position: absolute;
+    right: 0; top: 0; bottom: 8px;
+    width: 48px;
+    background: linear-gradient(to right, transparent, var(--bg));
+    pointer-events: none;
+  }
+  .setor-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 7px 16px;
+    border-radius: 50px;
+    border: 1.5px solid var(--border);
+    background: var(--bg-card);
+    color: var(--text-secondary);
+    font-size: 13px;
+    font-weight: 500;
+    font-family: var(--font-sans);
+    cursor: pointer;
+    white-space: nowrap;
+    transition: all 0.18s ease;
+    flex-shrink: 0;
+    letter-spacing: 0.1px;
+  }
+  .setor-chip:hover {
+    border-color: var(--text-muted);
+    color: var(--text);
+    background: rgba(0,0,0,0.03);
+    transform: translateY(-1px);
+  }
+  .setor-chip.active {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: #fff;
+    font-weight: 600;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.15);
+  }
+  .setor-chip .chip-dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+  .setor-chip .chip-count {
+    font-size: 11px;
+    font-weight: 600;
+    opacity: 0.6;
+    font-family: 'SF Mono','Consolas',monospace;
+  }
+  .setor-chip.active .chip-count { opacity: 0.8; }
+
   .cat-btn {
     padding: 6px 16px;
     border-radius: 50px;
@@ -911,6 +979,16 @@
         <p class="table-page-subtitle">Cotações em tempo real via BrAPI</p>
       </div>
     </div>
+    <!-- Barra de categorias por setor -->
+    <div class="setor-bar-wrap">
+      <div class="setor-bar" id="setorBar">
+        <button class="setor-chip active" onclick="filterAcoes('todas')" data-setor="todas">
+          <span class="chip-dot" style="background:#18181b"></span>
+          Todas
+          <span class="chip-count" id="countTodas"></span>
+        </button>
+      </div>
+    </div>
     <div class="stock-table-wrap">
       <table class="stock-table">
         <thead>
@@ -1376,13 +1454,129 @@ function getAtivos(tickers, categoria) {
 
 const LOADING_ROW = cols => `<tr><td colspan="${cols}" class="loading-text">Atualizando dados...</td></tr>`;
 
+// ===== MAPEAMENTO DE SETORES (Yahoo Finance EN → PT) =====
+const SETOR_PT = {
+  'Financial Services': 'Bancos',
+  'Banking': 'Bancos',
+  'Energy': 'Energia',
+  'Utilities': 'Energia',
+  'Basic Materials': 'Mineração',
+  'Consumer Cyclical': 'Varejo',
+  'Consumer Defensive': 'Consumo',
+  'Industrials': 'Industrial',
+  'Healthcare': 'Saúde',
+  'Technology': 'Tecnologia',
+  'Communication Services': 'Telecom',
+  'Real Estate': 'Imóveis',
+};
+
+const SETOR_COR = {
+  'Bancos':      { dot: '#2563eb', bg: 'rgba(37,99,235,0.08)'   },
+  'Energia':     { dot: '#ea580c', bg: 'rgba(234,88,12,0.08)'   },
+  'Mineração':   { dot: '#854d0e', bg: 'rgba(133,77,14,0.08)'   },
+  'Varejo':      { dot: '#7c3aed', bg: 'rgba(124,58,237,0.08)'  },
+  'Consumo':     { dot: '#0891b2', bg: 'rgba(8,145,178,0.08)'   },
+  'Industrial':  { dot: '#059669', bg: 'rgba(5,150,105,0.08)'   },
+  'Saúde':       { dot: '#dc2626', bg: 'rgba(220,38,38,0.08)'   },
+  'Tecnologia':  { dot: '#6366f1', bg: 'rgba(99,102,241,0.08)'  },
+  'Telecom':     { dot: '#0284c7', bg: 'rgba(2,132,199,0.08)'   },
+  'Imóveis':     { dot: '#16a34a', bg: 'rgba(22,163,74,0.08)'   },
+};
+
+let acoesData = [];       // todos os dados carregados
+let acoesSetorAtivo = 'todas';
+
+function traduzirSetor(s) {
+  return SETOR_PT[s] || s || 'Outros';
+}
+
+function buildSetorBar(data) {
+  // Conta quantos ativos por setor (em PT)
+  const contagem = {};
+  data.forEach(s => {
+    const pt = traduzirSetor(s.sector);
+    contagem[pt] = (contagem[pt] || 0) + 1;
+  });
+
+  const bar = document.getElementById('setorBar');
+  // Atualiza contador do "Todas"
+  const countEl = document.getElementById('countTodas');
+  if (countEl) countEl.textContent = data.length;
+
+  // Remove chips antigos (mantém o "Todas")
+  const chips = bar.querySelectorAll('[data-setor]:not([data-setor="todas"])');
+  chips.forEach(c => c.remove());
+
+  // Adiciona um chip por setor, ordenados por quantidade
+  Object.entries(contagem)
+    .sort((a, b) => b[1] - a[1])
+    .forEach(([setor, qtd]) => {
+      const cor = SETOR_COR[setor] || { dot: '#71717a', bg: 'rgba(0,0,0,0.05)' };
+      const chip = document.createElement('button');
+      chip.className = 'setor-chip' + (acoesSetorAtivo === setor ? ' active' : '');
+      chip.dataset.setor = setor;
+      chip.onclick = () => filterAcoes(setor);
+      chip.innerHTML = `
+        <span class="chip-dot" style="background:${cor.dot}"></span>
+        ${setor}
+        <span class="chip-count">${qtd}</span>`;
+      bar.appendChild(chip);
+    });
+}
+
+function filterAcoes(setor) {
+  acoesSetorAtivo = setor;
+
+  // Atualiza estado visual das chips
+  document.querySelectorAll('#setorBar .setor-chip').forEach(c => {
+    c.classList.toggle('active', c.dataset.setor === setor);
+  });
+
+  // Filtra e renderiza tabela
+  const filtered = setor === 'todas'
+    ? acoesData
+    : acoesData.filter(s => traduzirSetor(s.sector) === setor);
+
+  document.getElementById('tbAcoes').innerHTML = filtered.length
+    ? filtered.map(s => renderAcoesRow(s)).join('')
+    : `<tr><td colspan="6" class="loading-text">Nenhuma ação nesta categoria</td></tr>`;
+}
+
+function renderAcoesRow(s) {
+  const up = (s.change || 0) >= 0;
+  const setor_pt = traduzirSetor(s.sector);
+  const cor = SETOR_COR[setor_pt] || { dot: '#71717a', bg: 'rgba(0,0,0,0.05)' };
+  const priceStr = s.close > 1000
+    ? s.close?.toLocaleString('pt-BR', { maximumFractionDigits: 2 })
+    : s.close?.toFixed(2);
+  return `<tr onclick="openBrapiDetail('${s.stock}')">
+    <td><div class="stock-cell">
+      <div class="stock-icon">${(s.stock||'').slice(0,4)}</div>
+      <div class="stock-name-wrap">
+        <span class="stock-ticker">${s.stock}</span>
+        <span class="stock-name">${s.name || ''}</span>
+      </div>
+    </div></td>
+    <td><span class="stock-price">R$ ${priceStr || '—'}</span></td>
+    <td><span class="stock-change ${up?'up':'down'}">${up?'↗':'↘'} ${up?'+':''}${s.change?.toFixed(2) || '0.00'}%</span></td>
+    <td><span class="perf-value">${s.volume ? formatVol(s.volume) : '—'}</span></td>
+    <td><span class="perf-value">${s.market_cap ? formatMktCap(s.market_cap) : '—'}</span></td>
+    <td>
+      <span style="display:inline-flex;align-items:center;gap:5px;background:${cor.bg};color:${cor.dot};padding:3px 10px;border-radius:20px;font-size:12px;font-weight:600;">
+        <span style="width:5px;height:5px;border-radius:50%;background:${cor.dot};flex-shrink:0;"></span>
+        ${setor_pt}
+      </span>
+    </td>
+  </tr>`;
+}
+
 // ===== LOAD BR STOCKS =====
 function loadBRStocks() {
   const data = getAtivos(BR_TICKERS, 'stocks');
   data.forEach(s => state.stockData[s.stock] = s);
-  document.getElementById('tbAcoes').innerHTML = data.length
-    ? data.map(s => renderBrapiRow(s, 'stock')).join('')
-    : LOADING_ROW(6);
+  acoesData = data;
+  buildSetorBar(data);
+  filterAcoes(acoesSetorAtivo); // mantém filtro ativo entre refreshes
 }
 
 // ===== LOAD FIIs =====
