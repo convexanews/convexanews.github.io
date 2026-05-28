@@ -2017,9 +2017,16 @@ function switchPageGated(page) {
   _originalSwitchPage(page);
 }
 
-// Mostra login ao clicar em qualquer lugar se ainda não logado
-document.addEventListener('click', function() {
-  if (!isLoggedIn()) requireLogin();
+// Mostra login imediatamente se não estiver logado
+if (!isLoggedIn()) requireLogin();
+
+// Bloqueia qualquer clique fora do modal enquanto não logado
+document.addEventListener('click', function(e) {
+  if (!isLoggedIn() && !document.getElementById('loginGate').contains(e.target)) {
+    e.stopPropagation();
+    e.preventDefault();
+    requireLogin();
+  }
 }, true);
 
 updateAccessBtn();
