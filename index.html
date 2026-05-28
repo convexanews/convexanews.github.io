@@ -874,6 +874,19 @@
     font-family: inherit;
   }
   .login-skip:hover { color: rgba(255,255,255,0.6); }
+
+  /* ===== LOGIN: FIELD WRAPPER + INLINE ERROR ===== */
+  .login-field { position: relative; margin-bottom: 12px; }
+  .login-field .login-input { margin-bottom: 0; }
+  .login-field.has-error .login-input { border-color: #f87171 !important; }
+  .field-error {
+    display: none;
+    font-size: 11px;
+    color: #f87171;
+    margin-top: 4px;
+    padding-left: 2px;
+  }
+  .login-field.has-error .field-error { display: block; }
 </style>
 </head>
 <body>
@@ -886,13 +899,23 @@
     <div class="login-box">
       <h3>Acesse o portal</h3>
       <p>Cadastre-se para acompanhar cotações, notícias e análises</p>
-      <form id="loginForm" onsubmit="return handleLogin(event)">
-        <input class="login-input" type="text" id="loginName" placeholder="Seu nome" required>
-        <input class="login-input" type="email" id="loginEmail" placeholder="Seu melhor e-mail" required>
-        <input class="login-input" type="tel" id="loginPhone" placeholder="Telefone (opcional)">
+
+      <form id="loginForm" onsubmit="return handleLogin(event)" novalidate>
+        <div class="login-field">
+          <input class="login-input" type="text" id="loginName" placeholder="Nome completo *" autocomplete="name">
+          <span class="field-error" id="errName">Informe seu nome completo</span>
+        </div>
+        <div class="login-field">
+          <input class="login-input" type="email" id="loginEmail" placeholder="Seu melhor e-mail *" autocomplete="email">
+          <span class="field-error" id="errEmail">Informe um e-mail válido</span>
+        </div>
+        <div class="login-field">
+          <input class="login-input" type="tel" id="loginPhone" placeholder="WhatsApp / Telefone *" autocomplete="tel">
+          <span class="field-error" id="errPhone">Informe seu telefone</span>
+        </div>
         <button class="login-submit" type="submit" id="loginBtn">Entrar</button>
       </form>
-      <div class="login-error" id="loginError">Erro ao registrar. Tente novamente.</div>
+      <div class="login-error" id="loginError" style="display:none;">Erro ao registrar. Tente novamente.</div>
       <button class="login-skip" onclick="closeLoginGate()">Continuar sem cadastro</button>
     </div>
   </div>
@@ -1897,6 +1920,7 @@ async function init() {
 }
 
 // ===== LOGIN GATE =====
+// Para forçar re-login de todos os usuários, incremente este número
 const LOGIN_VERSION = 1;
 const SHEETS_URL = 'https://script.google.com/macros/s/AKfycbwrzREM1n8exDkGWLrnxAZJds3p7JccVyPS_nrO-UbMuWMYwh-d2sIt5bj4TtF6if8/exec';
 const GATED_PAGES = ['acoes','fiis','etfs','internacional','cripto','analises'];
@@ -1924,19 +1948,29 @@ function closeLoginGate() {
   setTimeout(() => { gate.style.display = 'none'; gate.classList.remove('closing'); }, 400);
 }
 
+function setFieldError(inputId, hasError) {
+  const field = document.getElementById(inputId).closest('.login-field');
+  if (hasError) field.classList.add('has-error');
+  else field.classList.remove('has-error');
+}
+
 async function handleLogin(e) {
   e.preventDefault();
-  const btn = document.getElementById('loginBtn');
-  const errEl = document.getElementById('loginError');
-  const name = document.getElementById('loginName').value.trim();
+  const name  = document.getElementById('loginName').value.trim();
   const email = document.getElementById('loginEmail').value.trim();
   const phone = document.getElementById('loginPhone').value.trim();
 
-  if (!name || !email) return;
+  const nameErr  = !name;
+  const emailErr = !email || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
+  const phoneErr = !phone;
+  setFieldError('loginName',  nameErr);
+  setFieldError('loginEmail', emailErr);
+  setFieldError('loginPhone', phoneErr);
+  if (nameErr || emailErr || phoneErr) return false;
 
+  const btn = document.getElementById('loginBtn');
   btn.disabled = true;
   btn.textContent = 'Entrando...';
-  errEl.style.display = 'none';
 
   try {
     await fetch(SHEETS_URL, {
@@ -1949,7 +1983,7 @@ async function handleLogin(e) {
     console.warn('Sheets error (non-blocking):', err);
   }
 
-  localStorage.setItem('convexanews_login', JSON.stringify({ name, email, version: LOGIN_VERSION, ts: Date.now() }));
+  localStorage.setItem('convexanews_login', JSON.stringify({ name, email, phone, version: LOGIN_VERSION, ts: Date.now() }));
   btn.textContent = '✓ Bem-vindo!';
 
   setTimeout(() => {
@@ -1964,6 +1998,7 @@ async function handleLogin(e) {
 
 function updateAccessBtn() {
   const btn = document.querySelector('.access-btn');
+  if (!btn) return;
   if (isLoggedIn()) {
     const data = JSON.parse(localStorage.getItem('convexanews_login'));
     const firstName = data.name.split(' ')[0];
@@ -1973,7 +2008,7 @@ function updateAccessBtn() {
   }
 }
 
-// Override switchPage to gate protected pages
+// Override switchPage para exigir login nas páginas protegidas
 const _originalSwitchPage = switchPage;
 function switchPageGated(page) {
   if (GATED_PAGES.includes(page) && !isLoggedIn()) {
@@ -1982,9 +2017,8 @@ function switchPageGated(page) {
   }
   _originalSwitchPage(page);
 }
-// Check login on load
-updateAccessBtn();
 
+updateAccessBtn();
 init();
 </script>
 </body>
