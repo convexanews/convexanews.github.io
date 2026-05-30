@@ -908,6 +908,25 @@
     font-family: inherit;
   }
   .login-skip:hover { color: rgba(255,255,255,0.6); }
+  .login-close-btn {
+    position: absolute;
+    top: 20px;
+    right: 24px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 1px solid rgba(255,255,255,0.12);
+    background: rgba(255,255,255,0.06);
+    color: rgba(255,255,255,0.5);
+    font-size: 18px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s;
+    z-index: 10;
+  }
+  .login-close-btn:hover { background: rgba(255,255,255,0.12); color: #fff; }
 
   /* ===== LOGIN: FIELD WRAPPER + INLINE ERROR ===== */
   .login-field { position: relative; margin-bottom: 12px; }
@@ -927,6 +946,7 @@
 
 <!-- LOGIN GATE -->
 <div class="login-overlay" id="loginGate" style="display:none;">
+  <button class="login-close-btn" onclick="closeLoginGate();switchPage('noticias');" title="Fechar">✕</button>
   <div class="login-container">
     <div class="login-brand">Convexa<span class="login-brand-accent">News</span></div>
     <div class="login-subtitle">Mercado financeiro em tempo real</div>
@@ -1376,14 +1396,17 @@ async function loadTickerData() {
 // ===== NEWS DATA ESTÁTICO (fallback quando noticias.json não estiver disponível) =====
 const NEWS_DATA_STATIC = {
   headline: {
-    title: 'Atualizando notícias do mercado financeiro...',
-    summary: 'As notícias são coletadas automaticamente de InfoMoney, Money Times, Suno, FIIs.com e outras fontes. Recarregue em instantes.',
-    source: 'Convexa News',
-    time: 'agora',
-    tickers: [],
+    title: 'BNDES vende R$ 3 bilhões em ações da Petrobras e amplia desinvestimentos em maio',
+    summary: 'Banco de fomento também vendeu posições em Axia (R$ 500 mi) e Copel (R$ 280 mi). Mercadante afirma que recursos serão direcionados para inovação, IA e transição digital.',
+    source: 'InfoMoney',
+    time: '2026-05-29T14:00:00Z',
+    tickers: ['PETR4', 'CPLE3'],
     url: '',
   },
-  featured: [],
+  featured: [
+    { title: 'Bitcoin estabiliza em US$ 77 mil com volatilidade em mínima de 9 meses', summary: 'Mercado cripto aguarda definição sobre tensão EUA-Irã. ETFs de BTC registram saída de US$ 1,26 bi.', source: 'Exame', time: '2026-05-29T12:00:00Z', tickers: ['BTC', 'ETH'], url: '' },
+    { title: 'Focus: mercado eleva IPCA 2026 para 5,04% pela 11ª semana consecutiva', summary: 'Expectativa de Selic terminal sobe para 14,75%. Dólar oscila entre R$ 4,99 e R$ 5,05.', source: 'Valor Econômico', time: '2026-05-29T10:30:00Z', tickers: ['ITUB4', 'BBDC4'], url: '' },
+  ],
   categories: [
     { id: 'todas', label: 'Todas' },
     { id: 'acoes', label: 'Ações' },
@@ -1393,7 +1416,20 @@ const NEWS_DATA_STATIC = {
     { id: 'cripto', label: 'Cripto' },
     { id: 'analise', label: 'Análises' },
   ],
-  all: [],
+  all: [
+    { title: 'BNDES vende R$ 3 bi em Petrobras, R$ 500 mi em Axia e R$ 280 mi em Copel', source: 'Money Times', time: '2026-05-29T14:00:00Z', cat: 'acoes', url: '' },
+    { title: 'Ibovespa opera com baixa liquidez; bancos avançam e Petrobras recua', source: 'InfoMoney', time: '2026-05-29T13:30:00Z', cat: 'acoes', url: '' },
+    { title: 'CACR11 despenca após informar que não pagará dividendos de abril', source: 'FIIs.com', time: '2026-05-29T12:00:00Z', cat: 'fundos', url: '' },
+    { title: '32 fundos imobiliários pagam dividendos na última semana de maio', source: 'FIIs.com', time: '2026-05-29T11:00:00Z', cat: 'fundos', url: '' },
+    { title: 'LRDI11 distribui R$ 29,71 por cota com dividend yield de 19,94%', source: 'FIIs.com', time: '2026-05-29T10:30:00Z', cat: 'fundos', url: '' },
+    { title: 'Dólar oscila entre R$ 4,99 e R$ 5,05; Focus eleva IPCA para 5,04%', source: 'CNN Brasil', time: '2026-05-29T10:00:00Z', cat: 'economia', url: '' },
+    { title: 'Mercado prevê Selic terminal de 14,75%; curva de juros pressionada', source: 'Valor Econômico', time: '2026-05-29T09:30:00Z', cat: 'economia', url: '' },
+    { title: 'Bitcoin negocia de lado em US$ 77 mil com volatilidade em mínima de 9 meses', source: 'Exame', time: '2026-05-29T12:00:00Z', cat: 'cripto', url: '' },
+    { title: 'ETFs de Bitcoin à vista nos EUA registram saída líquida de US$ 1,26 bi', source: 'CoinDesk', time: '2026-05-29T11:30:00Z', cat: 'cripto', url: '' },
+    { title: 'Tensão entre EUA e Irã mantém petróleo próximo a US$ 100', source: 'Reuters', time: '2026-05-29T13:00:00Z', cat: 'internacional', url: '' },
+    { title: 'BTG reduz HSML11 e monta posição em VISC11 na carteira de FIIs', source: 'Money Times', time: '2026-05-29T09:00:00Z', cat: 'analise', url: '' },
+    { title: 'XP recomenda 16 FIIs para maio com foco em tijolo e desconto sobre VP', source: 'Money Times', time: '2026-05-29T08:00:00Z', cat: 'analise', url: '' },
+  ],
 };
 
 // Notícias ativas (substituídas pelo noticias.json quando disponível)
@@ -2227,15 +2263,6 @@ function switchPageGated(page) {
   }
   _originalSwitchPage(page);
 }
-
-// Abre o login no primeiro clique em qualquer parte da tela (se não estiver logado)
-document.addEventListener('click', function(e) {
-  if (!isLoggedIn() && !document.getElementById('loginGate').contains(e.target)) {
-    e.stopPropagation();
-    e.preventDefault();
-    requireLogin();
-  }
-}, true);
 
 updateAccessBtn();
 init();
