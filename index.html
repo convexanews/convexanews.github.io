@@ -100,72 +100,113 @@
     50% { opacity: 0.4; }
   }
 
-  /* ===== BANNER ASSESSOR (TOPO) ===== */
+  /* ===== BANNER ASSESSOR (TOPO) — PREMIUM ===== */
   .assessor-banner {
-    background: #001a41;
+    background: #001233;
     color: #fff;
     display: flex;
     align-items: center;
-    justify-content: center;
-    gap: 16px;
-    padding: 11px 24px;
-    font-size: 13px;
     position: relative;
+    overflow: hidden;
+    height: 52px;
+  }
+  .assessor-banner .ab-bg {
+    position: absolute;
+    left: 0; top: 0; bottom: 0;
+    width: 220px;
+    background: url('btg-logo.png') center/contain no-repeat;
+    opacity: 0.12;
+    pointer-events: none;
+  }
+  .assessor-banner .ab-inner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 18px;
+    width: 100%;
+    padding: 0 48px 0 24px;
+    position: relative;
+    z-index: 1;
   }
   .assessor-banner .ab-logo {
-    height: 32px;
+    height: 30px;
     flex-shrink: 0;
-    border-radius: 2px;
+    filter: brightness(0) invert(1);
   }
-  .assessor-banner .ab-divider {
+  .assessor-banner .ab-line {
     width: 1px;
-    height: 18px;
+    height: 24px;
     background: rgba(255,255,255,0.15);
     flex-shrink: 0;
   }
   .assessor-banner .ab-text {
+    font-size: 13px;
     font-weight: 400;
-    letter-spacing: 0.2px;
-    color: rgba(255,255,255,0.85);
+    color: rgba(255,255,255,0.8);
+    letter-spacing: 0.1px;
   }
   .assessor-banner .ab-text strong {
     font-weight: 700;
     color: #fff;
   }
   .assessor-banner .ab-cta {
-    padding: 7px 22px;
+    padding: 8px 24px;
     border-radius: 4px;
     background: #fff;
-    color: #0a1a3a;
+    color: #001233;
     font-size: 11px;
     font-weight: 800;
     text-transform: uppercase;
-    letter-spacing: 1.2px;
+    letter-spacing: 1.5px;
     text-decoration: none;
     border: none;
     cursor: pointer;
-    transition: all 0.2s;
+    transition: all 0.25s;
     white-space: nowrap;
     flex-shrink: 0;
+    position: relative;
+    overflow: hidden;
   }
-  .assessor-banner .ab-cta:hover { background: #e8e8e8; transform: scale(1.03); box-shadow: 0 2px 12px rgba(255,255,255,0.15); }
+  .assessor-banner .ab-cta::after {
+    content: '';
+    position: absolute;
+    top: 0; left: -100%;
+    width: 100%; height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255,255,255,0.4), transparent);
+    animation: ctaShine 3s infinite;
+  }
+  @keyframes ctaShine {
+    0% { left: -100%; }
+    30% { left: 100%; }
+    100% { left: 100%; }
+  }
+  .assessor-banner .ab-cta:hover {
+    background: #e0e7ff;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 16px rgba(255,255,255,0.2);
+  }
   .assessor-banner .ab-close {
     position: absolute;
-    right: 12px;
+    right: 14px;
     top: 50%;
     transform: translateY(-50%);
     background: none;
     border: none;
-    color: rgba(255,255,255,0.25);
-    font-size: 16px;
+    color: rgba(255,255,255,0.2);
+    font-size: 14px;
     cursor: pointer;
-    padding: 2px;
+    padding: 4px;
+    z-index: 2;
+    transition: color 0.2s;
   }
-  .assessor-banner .ab-close:hover { color: rgba(255,255,255,0.7); }
+  .assessor-banner .ab-close:hover { color: rgba(255,255,255,0.6); }
   @media (max-width: 768px) {
-    .assessor-banner { flex-wrap: wrap; gap: 10px; padding: 12px 36px 12px 16px; justify-content: center; }
+    .assessor-banner { height: auto; }
+    .assessor-banner .ab-inner { flex-wrap: wrap; gap: 10px; padding: 12px 40px 12px 16px; justify-content: center; }
     .assessor-banner .ab-text { text-align: center; font-size: 12px; }
-    .assessor-banner .ab-divider { display: none; }
+    .assessor-banner .ab-line { display: none; }
+    .assessor-banner .ab-bg { width: 140px; }
+    .assessor-banner .ab-logo { height: 24px; }
   }
 
   /* ===== HEADER ===== */
@@ -1359,10 +1400,13 @@
 
 <!-- BANNER ASSESSOR BTG -->
 <div class="assessor-banner" id="assessorBanner">
-  <img class="ab-logo" src="btg-logo.png" alt="BTG Pactual">
-  <div class="ab-divider"></div>
-  <div class="ab-text">Invista com o <strong>maior banco de investimentos da América Latina</strong> — assessoria exclusiva</div>
-  <a class="ab-cta" href="https://investimentos.btgpactual.com/cadastro/?assessor=6349331" target="_blank" rel="noopener">Abra sua conta</a>
+  <div class="ab-bg"></div>
+  <div class="ab-inner">
+    <img class="ab-logo" src="btg-logo.png" alt="BTG Pactual">
+    <div class="ab-line"></div>
+    <div class="ab-text">Invista com o <strong>maior banco de investimentos da América Latina</strong> — assessoria exclusiva e personalizada</div>
+    <a class="ab-cta" href="https://investimentos.btgpactual.com/cadastro/?assessor=6349331" target="_blank" rel="noopener">Abra sua conta</a>
+  </div>
   <button class="ab-close" onclick="this.parentElement.style.display='none'" title="Fechar">✕</button>
 </div>
 
