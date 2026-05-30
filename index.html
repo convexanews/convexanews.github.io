@@ -2824,21 +2824,25 @@ function renderRaioXTable(bancos) {
 
 // ===== BANNER PROMO =====
 function showPromo() {
-  if (sessionStorage.getItem('promo_closed')) return;
+  // Só esconde por 24h depois de fechar
+  const closed = localStorage.getItem('promo_raiox_closed');
+  if (closed && (Date.now() - parseInt(closed)) < 86400000) return;
   const banner = document.getElementById('promoBanner');
+  if (!banner) return;
   banner.style.display = 'flex';
   banner.classList.remove('hidden');
 }
 
 function closePromo() {
   const banner = document.getElementById('promoBanner');
+  if (!banner) return;
   banner.classList.add('hidden');
-  sessionStorage.setItem('promo_closed', '1');
+  localStorage.setItem('promo_raiox_closed', Date.now().toString());
   setTimeout(() => { banner.style.display = 'none'; }, 400);
 }
 
-// Mostra o banner 15s depois do carregamento (não ser invasivo)
-setTimeout(showPromo, 15000);
+// Mostra o banner 8s depois do carregamento
+setTimeout(showPromo, 8000);
 
 // Adicionar raiox às GATED_PAGES
 GATED_PAGES.push('raiox');
