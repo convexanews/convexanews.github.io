@@ -1,0 +1,492 @@
+{
+  "atualizado_em": "30/05/2026 00:17",
+  "fonte": "Banco Central do Brasil (IF.data) + Yahoo Finance",
+  "bancos": [
+    {
+      "nome": "Itaú Unibanco",
+      "tipo": "Banco Múltiplo",
+      "basileia": 15.95,
+      "imobilizacao": 8.2,
+      "liquidez": 182,
+      "inadimplencia": 2.7,
+      "patrimonio_liquido": 441600000000.0
+    },
+    {
+      "nome": "Bradesco",
+      "tipo": "Banco Múltiplo",
+      "basileia": 15.65,
+      "imobilizacao": 11.8,
+      "liquidez": 168,
+      "inadimplencia": 4.0,
+      "patrimonio_liquido": 175800000000.0
+    },
+    {
+      "nome": "Banco do Brasil",
+      "tipo": "Banco Público",
+      "basileia": 14.56,
+      "imobilizacao": 6.0,
+      "liquidez": 190,
+      "inadimplencia": 2.4,
+      "patrimonio_liquido": 116300000000.0
+    },
+    {
+      "nome": "Santander Brasil",
+      "tipo": "Banco Múltiplo",
+      "basileia": 14.99,
+      "imobilizacao": 14.8,
+      "liquidez": 158,
+      "inadimplencia": 3.1,
+      "patrimonio_liquido": 101700000000.0
+    },
+    {
+      "nome": "BTG Pactual",
+      "tipo": "Banco de Investimento",
+      "basileia": 15.65,
+      "imobilizacao": 3.5,
+      "liquidez": 210,
+      "inadimplencia": 1.1,
+      "patrimonio_liquido": 258600000000.0
+    },
+    {
+      "nome": "Banrisul",
+      "tipo": "Banco Público",
+      "basileia": 17.35,
+      "imobilizacao": 21.0,
+      "liquidez": 135,
+      "inadimplencia": 3.8,
+      "patrimonio_liquido": 6550000000.0
+    },
+    {
+      "nome": "ABC Brasil",
+      "tipo": "Banco Múltiplo",
+      "basileia": 16.87,
+      "imobilizacao": 4.0,
+      "liquidez": 188,
+      "inadimplencia": 1.4,
+      "patrimonio_liquido": 6350000000.0
+    },
+    {
+      "nome": "BR Partners",
+      "tipo": "Banco de Investimento",
+      "basileia": 20.63,
+      "imobilizacao": 2.5,
+      "liquidez": 215,
+      "inadimplencia": 0.8,
+      "patrimonio_liquido": 1680000000.0
+    },
+    {
+      "nome": "Mercantil de Investimentos",
+      "tipo": "Banco Múltiplo",
+      "basileia": 16.4,
+      "imobilizacao": 18.5,
+      "liquidez": 125,
+      "inadimplencia": 4.2,
+      "patrimonio_liquido": 100900000.0
+    },
+    {
+      "nome": "Mercantil do Brasil",
+      "tipo": "Banco Múltiplo",
+      "basileia": 15.75,
+      "imobilizacao": 23.0,
+      "liquidez": 120,
+      "inadimplencia": 4.5,
+      "patrimonio_liquido": 8600000000.0
+    },
+    {
+      "nome": "Banestes",
+      "tipo": "Banco Público",
+      "basileia": 14.09,
+      "imobilizacao": 18.5,
+      "liquidez": 155,
+      "inadimplencia": 2.6,
+      "patrimonio_liquido": 3060000000.0
+    },
+    {
+      "nome": "Pine",
+      "tipo": "Banco Comercial",
+      "basileia": 14.09,
+      "imobilizacao": 13.8,
+      "liquidez": 128,
+      "inadimplencia": 4.6,
+      "patrimonio_liquido": 3660000000.0
+    },
+    {
+      "nome": "Banco da Amazônia",
+      "tipo": "Banco Público",
+      "basileia": 13.83,
+      "imobilizacao": 16.0,
+      "liquidez": 148,
+      "inadimplencia": 3.0,
+      "patrimonio_liquido": 3880000000.0
+    },
+    {
+      "nome": "BRB",
+      "tipo": "Banco Público",
+      "basileia": 13.7,
+      "imobilizacao": 15.5,
+      "liquidez": 150,
+      "inadimplencia": 3.0,
+      "patrimonio_liquido": 1840000000.0
+    },
+    {
+      "nome": "Banco do Nordeste",
+      "tipo": "Banco Público",
+      "basileia": 13.48,
+      "imobilizacao": 14.2,
+      "liquidez": 152,
+      "inadimplencia": 3.3,
+      "patrimonio_liquido": 10560000000.0
+    },
+    {
+      "nome": "Banese",
+      "tipo": "Banco Público",
+      "basileia": 12.85,
+      "imobilizacao": 19.8,
+      "liquidez": 142,
+      "inadimplencia": 3.3,
+      "patrimonio_liquido": 897500000.0
+    },
+    {
+      "nome": "BMG",
+      "tipo": "Banco Múltiplo",
+      "basileia": 12.81,
+      "imobilizacao": 27.0,
+      "liquidez": 118,
+      "inadimplencia": 5.3,
+      "patrimonio_liquido": 3020000000.0
+    },
+    {
+      "nome": "Caixa Econômica",
+      "tipo": "Banco Público",
+      "basileia": 14.2,
+      "imobilizacao": 18.0,
+      "liquidez": 148,
+      "inadimplencia": 3.4,
+      "patrimonio_liquido": 110000000000.0
+    },
+    {
+      "nome": "Safra",
+      "tipo": "Banco Múltiplo",
+      "basileia": 15.4,
+      "imobilizacao": 8.8,
+      "liquidez": 178,
+      "inadimplencia": 1.7,
+      "patrimonio_liquido": 22000000000.0
+    },
+    {
+      "nome": "Votorantim",
+      "tipo": "Banco Múltiplo",
+      "basileia": 15.1,
+      "imobilizacao": 10.2,
+      "liquidez": 172,
+      "inadimplencia": 2.8,
+      "patrimonio_liquido": 18000000000.0
+    },
+    {
+      "nome": "Nubank",
+      "tipo": "Banco Digital",
+      "basileia": 18.5,
+      "imobilizacao": 1.8,
+      "liquidez": 225,
+      "inadimplencia": 5.6,
+      "patrimonio_liquido": 28000000000.0
+    },
+    {
+      "nome": "Inter",
+      "tipo": "Banco Digital",
+      "basileia": 19.2,
+      "imobilizacao": 1.4,
+      "liquidez": 198,
+      "inadimplencia": 4.3,
+      "patrimonio_liquido": 6200000000.0
+    },
+    {
+      "nome": "C6 Bank",
+      "tipo": "Banco Digital",
+      "basileia": 12.8,
+      "imobilizacao": 5.0,
+      "liquidez": 142,
+      "inadimplencia": 6.0,
+      "patrimonio_liquido": 4100000000.0
+    },
+    {
+      "nome": "PicPay",
+      "tipo": "Banco Digital",
+      "basileia": 13.5,
+      "imobilizacao": 4.5,
+      "liquidez": 138,
+      "inadimplencia": 5.3,
+      "patrimonio_liquido": 3500000000.0
+    },
+    {
+      "nome": "Original",
+      "tipo": "Banco Digital",
+      "basileia": 14.1,
+      "imobilizacao": 6.5,
+      "liquidez": 152,
+      "inadimplencia": 4.8,
+      "patrimonio_liquido": 2800000000.0
+    },
+    {
+      "nome": "Neon",
+      "tipo": "Banco Digital",
+      "basileia": 12.1,
+      "imobilizacao": 3.6,
+      "liquidez": 122,
+      "inadimplencia": 6.9,
+      "patrimonio_liquido": 1200000000.0
+    },
+    {
+      "nome": "PagBank (PagSeguro)",
+      "tipo": "Banco Digital",
+      "basileia": 15.8,
+      "imobilizacao": 3.0,
+      "liquidez": 178,
+      "inadimplencia": 4.0,
+      "patrimonio_liquido": 7500000000.0
+    },
+    {
+      "nome": "Will Bank",
+      "tipo": "Banco Digital",
+      "basileia": 11.5,
+      "imobilizacao": 4.8,
+      "liquidez": 118,
+      "inadimplencia": 6.5,
+      "patrimonio_liquido": 800000000.0
+    },
+    {
+      "nome": "Agibank",
+      "tipo": "Banco Digital",
+      "basileia": 13.8,
+      "imobilizacao": 7.2,
+      "liquidez": 145,
+      "inadimplencia": 5.0,
+      "patrimonio_liquido": 2200000000.0
+    },
+    {
+      "nome": "Next (Bradesco)",
+      "tipo": "Banco Digital",
+      "basileia": 15.65,
+      "imobilizacao": 3.8,
+      "liquidez": 168,
+      "inadimplencia": 3.6,
+      "patrimonio_liquido": 1500000000.0
+    },
+    {
+      "nome": "Iti (Itaú)",
+      "tipo": "Banco Digital",
+      "basileia": 15.95,
+      "imobilizacao": 2.2,
+      "liquidez": 182,
+      "inadimplencia": 2.8,
+      "patrimonio_liquido": 1000000000.0
+    },
+    {
+      "nome": "Modal",
+      "tipo": "Banco de Investimento",
+      "basileia": 18.3,
+      "imobilizacao": 2.8,
+      "liquidez": 205,
+      "inadimplencia": 1.0,
+      "patrimonio_liquido": 3800000000.0
+    },
+    {
+      "nome": "Daycoval",
+      "tipo": "Banco Múltiplo",
+      "basileia": 16.8,
+      "imobilizacao": 7.0,
+      "liquidez": 165,
+      "inadimplencia": 2.0,
+      "patrimonio_liquido": 5800000000.0
+    },
+    {
+      "nome": "Pan",
+      "tipo": "Banco Múltiplo",
+      "basileia": 13.4,
+      "imobilizacao": 11.5,
+      "liquidez": 140,
+      "inadimplencia": 5.7,
+      "patrimonio_liquido": 8200000000.0
+    },
+    {
+      "nome": "Banpará",
+      "tipo": "Banco Público",
+      "basileia": 15.2,
+      "imobilizacao": 17.0,
+      "liquidez": 155,
+      "inadimplencia": 2.5,
+      "patrimonio_liquido": 2500000000.0
+    },
+    {
+      "nome": "Sofisa",
+      "tipo": "Banco Múltiplo",
+      "basileia": 17.5,
+      "imobilizacao": 5.2,
+      "liquidez": 190,
+      "inadimplencia": 1.8,
+      "patrimonio_liquido": 2300000000.0
+    },
+    {
+      "nome": "Paraná Banco",
+      "tipo": "Banco Múltiplo",
+      "basileia": 16.1,
+      "imobilizacao": 8.5,
+      "liquidez": 165,
+      "inadimplencia": 2.3,
+      "patrimonio_liquido": 1700000000.0
+    },
+    {
+      "nome": "Tribanco",
+      "tipo": "Banco Múltiplo",
+      "basileia": 15.6,
+      "imobilizacao": 10.8,
+      "liquidez": 160,
+      "inadimplencia": 2.6,
+      "patrimonio_liquido": 1300000000.0
+    },
+    {
+      "nome": "Banco Master",
+      "tipo": "Banco Múltiplo",
+      "basileia": 10.5,
+      "imobilizacao": 34.0,
+      "liquidez": 98,
+      "inadimplencia": 7.5,
+      "patrimonio_liquido": 2100000000.0
+    },
+    {
+      "nome": "Banco Voiter",
+      "tipo": "Banco Múltiplo",
+      "basileia": 11.2,
+      "imobilizacao": 18.0,
+      "liquidez": 110,
+      "inadimplencia": 5.7,
+      "patrimonio_liquido": 900000000.0
+    },
+    {
+      "nome": "Sicredi",
+      "tipo": "Cooperativa",
+      "basileia": 18.9,
+      "imobilizacao": 6.5,
+      "liquidez": 208,
+      "inadimplencia": 1.5,
+      "patrimonio_liquido": 42000000000.0
+    },
+    {
+      "nome": "Sicoob",
+      "tipo": "Cooperativa",
+      "basileia": 19.5,
+      "imobilizacao": 6.8,
+      "liquidez": 212,
+      "inadimplencia": 1.3,
+      "patrimonio_liquido": 38000000000.0
+    },
+    {
+      "nome": "Cresol",
+      "tipo": "Cooperativa",
+      "basileia": 17.8,
+      "imobilizacao": 8.8,
+      "liquidez": 180,
+      "inadimplencia": 1.9,
+      "patrimonio_liquido": 5500000000.0
+    },
+    {
+      "nome": "Unicred",
+      "tipo": "Cooperativa",
+      "basileia": 20.1,
+      "imobilizacao": 5.0,
+      "liquidez": 218,
+      "inadimplencia": 1.1,
+      "patrimonio_liquido": 4800000000.0
+    },
+    {
+      "nome": "BS2",
+      "tipo": "Banco Digital",
+      "basileia": 15.3,
+      "imobilizacao": 4.2,
+      "liquidez": 170,
+      "inadimplencia": 2.4,
+      "patrimonio_liquido": 1800000000.0
+    },
+    {
+      "nome": "Banco Alfa",
+      "tipo": "Banco Múltiplo",
+      "basileia": 19.8,
+      "imobilizacao": 3.5,
+      "liquidez": 200,
+      "inadimplencia": 1.2,
+      "patrimonio_liquido": 3400000000.0
+    },
+    {
+      "nome": "Banco Rendimento",
+      "tipo": "Banco Comercial",
+      "basileia": 16.4,
+      "imobilizacao": 6.0,
+      "liquidez": 175,
+      "inadimplencia": 1.6,
+      "patrimonio_liquido": 1900000000.0
+    },
+    {
+      "nome": "Banco Rodobens",
+      "tipo": "Banco Múltiplo",
+      "basileia": 14.6,
+      "imobilizacao": 9.8,
+      "liquidez": 155,
+      "inadimplencia": 3.2,
+      "patrimonio_liquido": 1400000000.0
+    },
+    {
+      "nome": "Banco Cetelem",
+      "tipo": "Banco de Crédito",
+      "basileia": 13.2,
+      "imobilizacao": 8.0,
+      "liquidez": 135,
+      "inadimplencia": 6.3,
+      "patrimonio_liquido": 1600000000.0
+    },
+    {
+      "nome": "Banco Fibra",
+      "tipo": "Banco Múltiplo",
+      "basileia": 12.9,
+      "imobilizacao": 13.0,
+      "liquidez": 130,
+      "inadimplencia": 3.6,
+      "patrimonio_liquido": 1100000000.0
+    },
+    {
+      "nome": "Banco Industrial",
+      "tipo": "Banco Comercial",
+      "basileia": 14.3,
+      "imobilizacao": 12.5,
+      "liquidez": 148,
+      "inadimplencia": 2.9,
+      "patrimonio_liquido": 2600000000.0
+    },
+    {
+      "nome": "Banco Ourinvest",
+      "tipo": "Banco Múltiplo",
+      "basileia": 13.7,
+      "imobilizacao": 15.0,
+      "liquidez": 140,
+      "inadimplencia": 3.5,
+      "patrimonio_liquido": 700000000.0
+    },
+    {
+      "nome": "Banco Paulista",
+      "tipo": "Banco Múltiplo",
+      "basileia": 11.9,
+      "imobilizacao": 20.5,
+      "liquidez": 115,
+      "inadimplencia": 4.9,
+      "patrimonio_liquido": 600000000.0
+    },
+    {
+      "nome": "Banco Ribeirão Preto",
+      "tipo": "Banco Múltiplo",
+      "basileia": 12.6,
+      "imobilizacao": 19.0,
+      "liquidez": 125,
+      "inadimplencia": 4.2,
+      "patrimonio_liquido": 500000000.0
+    }
+  ]
+}
