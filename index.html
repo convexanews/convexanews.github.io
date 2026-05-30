@@ -100,6 +100,74 @@
     50% { opacity: 0.4; }
   }
 
+  /* ===== BANNER ASSESSOR (TOPO) ===== */
+  .assessor-banner {
+    background: linear-gradient(135deg, #0d1b2a 0%, #1b2838 40%, #243447 100%);
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 14px;
+    padding: 10px 24px;
+    font-size: 13px;
+    position: relative;
+  }
+  .assessor-banner .ab-icon {
+    width: 20px; height: 20px;
+    background: linear-gradient(135deg, #c9a84c, #f0d78c);
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 10px;
+    font-weight: 900;
+    color: #0d1b2a;
+    flex-shrink: 0;
+  }
+  .assessor-banner .ab-text {
+    font-weight: 400;
+    letter-spacing: 0.2px;
+  }
+  .assessor-banner .ab-text strong {
+    font-weight: 700;
+    color: #f0d78c;
+  }
+  .assessor-banner .ab-cta {
+    padding: 6px 18px;
+    border-radius: 4px;
+    background: linear-gradient(135deg, #c9a84c, #dfc06a);
+    color: #0d1b2a;
+    font-size: 12px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    transition: all 0.2s;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .assessor-banner .ab-cta:hover { transform: scale(1.05); box-shadow: 0 2px 12px rgba(201,168,76,0.4); }
+  .assessor-banner .ab-close {
+    position: absolute;
+    right: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    color: rgba(255,255,255,0.3);
+    font-size: 16px;
+    cursor: pointer;
+    padding: 2px;
+  }
+  .assessor-banner .ab-close:hover { color: #fff; }
+  @media (max-width: 768px) {
+    .assessor-banner { flex-wrap: wrap; gap: 8px; padding: 10px 36px 10px 16px; justify-content: center; }
+    .assessor-banner .ab-text { text-align: center; font-size: 12px; }
+    .assessor-banner .ab-icon { display: none; }
+  }
+
   /* ===== HEADER ===== */
   .header {
     background: var(--bg-card);
@@ -1184,7 +1252,6 @@
   .raiox-toolbar {
     display: flex;
     align-items: center;
-    justify-content: space-between;
     gap: 12px;
     margin-bottom: 16px;
     flex-wrap: wrap;
@@ -1288,6 +1355,14 @@
       <div class="login-error" id="loginError" style="display:none;">Erro ao registrar. Tente novamente.</div>
     </div>
   </div>
+</div>
+
+<!-- BANNER ASSESSOR BTG -->
+<div class="assessor-banner" id="assessorBanner">
+  <div class="ab-icon">BTG</div>
+  <div class="ab-text">Invista com o <strong>maior banco de investimentos da América Latina</strong> — assessoria exclusiva e personalizada</div>
+  <a class="ab-cta" href="https://investimentos.btgpactual.com/cadastro/?assessor=6349331" target="_blank" rel="noopener">Abra sua conta</a>
+  <button class="ab-close" onclick="this.parentElement.style.display='none'" title="Fechar">✕</button>
 </div>
 
 <!-- TICKER BAR -->
@@ -1550,16 +1625,14 @@
     </div>
 
     <div class="raiox-toolbar">
-      <input class="raiox-search" type="text" id="raiox-search" placeholder="Buscar banco..." oninput="filterRaioX()">
-      <div style="display:flex;align-items:center;gap:12px;flex-wrap:wrap;">
-        <span class="raiox-count" id="raiox-count"></span>
-        <div class="raiox-sort-group">
-          <button class="raiox-sort-btn active" onclick="sortRaioX('score')" data-sort="score">Score <span class="sort-arrow">▼</span></button>
-          <button class="raiox-sort-btn" onclick="sortRaioX('nome')" data-sort="nome">A-Z <span class="sort-arrow">▼</span></button>
-          <button class="raiox-sort-btn" onclick="sortRaioX('basileia')" data-sort="basileia">Basileia <span class="sort-arrow">▼</span></button>
-          <button class="raiox-sort-btn" onclick="sortRaioX('patrimonio')" data-sort="patrimonio">Patrimônio <span class="sort-arrow">▼</span></button>
-        </div>
+      <div class="raiox-sort-group">
+        <button class="raiox-sort-btn active" onclick="sortRaioX('score')" data-sort="score">Score <span class="sort-arrow">▼</span></button>
+        <button class="raiox-sort-btn" onclick="sortRaioX('nome')" data-sort="nome">A-Z <span class="sort-arrow">▼</span></button>
+        <button class="raiox-sort-btn" onclick="sortRaioX('basileia')" data-sort="basileia">Basileia <span class="sort-arrow">▼</span></button>
+        <button class="raiox-sort-btn" onclick="sortRaioX('patrimonio')" data-sort="patrimonio">Patrimônio <span class="sort-arrow">▼</span></button>
       </div>
+      <input class="raiox-search" type="text" id="raiox-search" placeholder="Buscar banco..." oninput="filterRaioX()">
+      <span class="raiox-count" id="raiox-count" style="margin-left:auto;"></span>
     </div>
 
     <div class="raiox-table-wrap">
