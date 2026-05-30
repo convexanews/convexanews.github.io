@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/05/2026 00:17",
+  "atualizado_em": "30/05/2026 13:42",
   "fonte": "Banco Central do Brasil (IF.data) + Yahoo Finance",
   "bancos": [
     {
@@ -9,7 +9,7 @@
       "imobilizacao": 8.2,
       "liquidez": 182,
       "inadimplencia": 2.7,
-      "patrimonio_liquido": 441600000000.0
+      "patrimonio_liquido": 441304661678.37134
     },
     {
       "nome": "Bradesco",
@@ -18,7 +18,7 @@
       "imobilizacao": 11.8,
       "liquidez": 168,
       "inadimplencia": 4.0,
-      "patrimonio_liquido": 175800000000.0
+      "patrimonio_liquido": 175888570334.5
     },
     {
       "nome": "Banco do Brasil",
@@ -27,7 +27,7 @@
       "imobilizacao": 6.0,
       "liquidez": 190,
       "inadimplencia": 2.4,
-      "patrimonio_liquido": 116300000000.0
+      "patrimonio_liquido": 115886396026.81543
     },
     {
       "nome": "Santander Brasil",
@@ -36,7 +36,7 @@
       "imobilizacao": 14.8,
       "liquidez": 158,
       "inadimplencia": 3.1,
-      "patrimonio_liquido": 101700000000.0
+      "patrimonio_liquido": 128206649338.20084
     },
     {
       "nome": "BTG Pactual",
@@ -45,7 +45,7 @@
       "imobilizacao": 3.5,
       "liquidez": 210,
       "inadimplencia": 1.1,
-      "patrimonio_liquido": 258600000000.0
+      "patrimonio_liquido": 179637620010.0
     },
     {
       "nome": "Banrisul",
@@ -54,7 +54,7 @@
       "imobilizacao": 21.0,
       "liquidez": 135,
       "inadimplencia": 3.8,
-      "patrimonio_liquido": 6550000000.0
+      "patrimonio_liquido": 5983296645.313415
     },
     {
       "nome": "ABC Brasil",
@@ -63,7 +63,7 @@
       "imobilizacao": 4.0,
       "liquidez": 188,
       "inadimplencia": 1.4,
-      "patrimonio_liquido": 6350000000.0
+      "patrimonio_liquido": 6319642063.0
     },
     {
       "nome": "BR Partners",
@@ -81,7 +81,7 @@
       "imobilizacao": 18.5,
       "liquidez": 125,
       "inadimplencia": 4.2,
-      "patrimonio_liquido": 100900000.0
+      "patrimonio_liquido": 86129821.84066772
     },
     {
       "nome": "Mercantil do Brasil",
@@ -90,7 +90,7 @@
       "imobilizacao": 23.0,
       "liquidez": 120,
       "inadimplencia": 4.5,
-      "patrimonio_liquido": 8600000000.0
+      "patrimonio_liquido": 10519389806.328384
     },
     {
       "nome": "Banestes",
@@ -99,7 +99,7 @@
       "imobilizacao": 18.5,
       "liquidez": 155,
       "inadimplencia": 2.6,
-      "patrimonio_liquido": 3060000000.0
+      "patrimonio_liquido": 3071936703.6649246
     },
     {
       "nome": "Pine",
@@ -108,7 +108,7 @@
       "imobilizacao": 13.8,
       "liquidez": 128,
       "inadimplencia": 4.6,
-      "patrimonio_liquido": 3660000000.0
+      "patrimonio_liquido": 1002511128.2140789
     },
     {
       "nome": "Banco da Amazônia",
@@ -117,7 +117,7 @@
       "imobilizacao": 16.0,
       "liquidez": 148,
       "inadimplencia": 3.0,
-      "patrimonio_liquido": 3880000000.0
+      "patrimonio_liquido": 3878674951.7111206
     },
     {
       "nome": "BRB",
@@ -126,7 +126,7 @@
       "imobilizacao": 15.5,
       "liquidez": 150,
       "inadimplencia": 3.0,
-      "patrimonio_liquido": 1840000000.0
+      "patrimonio_liquido": 1789146432.616089
     },
     {
       "nome": "Banco do Nordeste",
@@ -135,7 +135,7 @@
       "imobilizacao": 14.2,
       "liquidez": 152,
       "inadimplencia": 3.3,
-      "patrimonio_liquido": 10560000000.0
+      "patrimonio_liquido": 10560873143.0
     },
     {
       "nome": "Banese",
@@ -144,7 +144,7 @@
       "imobilizacao": 19.8,
       "liquidez": 142,
       "inadimplencia": 3.3,
-      "patrimonio_liquido": 897500000.0
+      "patrimonio_liquido": 733999314.3900299
     },
     {
       "nome": "BMG",
@@ -153,7 +153,7 @@
       "imobilizacao": 27.0,
       "liquidez": 118,
       "inadimplencia": 5.3,
-      "patrimonio_liquido": 3020000000.0
+      "patrimonio_liquido": 3260203815.7376647
     },
     {
       "nome": "Caixa Econômica",
