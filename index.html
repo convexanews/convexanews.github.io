@@ -343,74 +343,6 @@
     gap: 4px;
     overflow-x: auto;
   }
-  /* ===== SETOR FILTER BAR (Ações) ===== */
-  .setor-bar-wrap {
-    position: relative;
-    margin: 0 0 24px 0;
-  }
-  .setor-bar {
-    display: flex;
-    gap: 8px;
-    overflow-x: auto;
-    scrollbar-width: none;
-    -ms-overflow-style: none;
-    padding: 4px 2px 8px;
-    scroll-behavior: smooth;
-  }
-  .setor-bar::-webkit-scrollbar { display: none; }
-  .setor-bar::after {
-    content: '';
-    position: absolute;
-    right: 0; top: 0; bottom: 8px;
-    width: 48px;
-    background: linear-gradient(to right, transparent, var(--bg));
-    pointer-events: none;
-  }
-  .setor-chip {
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-    padding: 7px 16px;
-    border-radius: 50px;
-    border: 1.5px solid var(--border);
-    background: var(--bg-card);
-    color: var(--text-secondary);
-    font-size: 13px;
-    font-weight: 500;
-    font-family: var(--font-sans);
-    cursor: pointer;
-    white-space: nowrap;
-    transition: all 0.18s ease;
-    flex-shrink: 0;
-    letter-spacing: 0.1px;
-  }
-  .setor-chip:hover {
-    border-color: var(--text-muted);
-    color: var(--text);
-    background: rgba(0,0,0,0.03);
-    transform: translateY(-1px);
-  }
-  .setor-chip.active {
-    background: var(--accent);
-    border-color: var(--accent);
-    color: #fff;
-    font-weight: 600;
-    box-shadow: 0 2px 10px rgba(0,0,0,0.15);
-  }
-  .setor-chip .chip-dot {
-    width: 6px;
-    height: 6px;
-    border-radius: 50%;
-    flex-shrink: 0;
-  }
-  .setor-chip .chip-count {
-    font-size: 11px;
-    font-weight: 600;
-    opacity: 0.6;
-    font-family: 'SF Mono','Consolas',monospace;
-  }
-  .setor-chip.active .chip-count { opacity: 0.8; }
-
   .cat-btn {
     padding: 6px 16px;
     border-radius: 50px;
@@ -662,40 +594,6 @@
   .detail-stat-label { font-size: 11px; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.5px; font-weight: 600; }
   .detail-stat-value { font-size: 18px; font-weight: 700; margin-top: 4px; font-family: 'SF Mono', 'Consolas', monospace; }
 
-  /* ===== MODAL: PERÍODOS DE VALORIZAÇÃO ===== */
-  .detail-perf-section { margin: 24px 0; }
-  .detail-perf-title { font-size: 11px; font-weight: 700; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.8px; margin-bottom: 14px; }
-  .detail-perf-row {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    margin-bottom: 10px;
-  }
-  .detail-perf-label { font-size: 12px; color: var(--text-secondary); width: 54px; flex-shrink: 0; font-weight: 500; }
-  .detail-perf-bar-wrap {
-    flex: 1;
-    height: 6px;
-    background: var(--border);
-    border-radius: 4px;
-    overflow: hidden;
-  }
-  .detail-perf-bar { height: 100%; border-radius: 4px; transition: width 0.6s ease; }
-  .detail-perf-pct { font-size: 13px; font-weight: 700; font-family: 'SF Mono','Consolas',monospace; width: 62px; text-align: right; flex-shrink: 0; }
-  .detail-perf-pct.up   { color: var(--green); }
-  .detail-perf-pct.down { color: var(--red); }
-
-  /* ===== MODAL: DESCRIÇÃO ===== */
-  .detail-desc {
-    margin-top: 20px;
-    padding: 14px 16px;
-    background: #f8f8f7;
-    border-radius: 10px;
-    font-size: 13px;
-    color: var(--text-secondary);
-    line-height: 1.6;
-    border-left: 3px solid var(--border);
-  }
-
   /* ===== ANALYSIS PAGE ===== */
   .analysis-page {
     max-width: 1280px;
@@ -908,19 +806,6 @@
     font-family: inherit;
   }
   .login-skip:hover { color: rgba(255,255,255,0.6); }
-
-  /* ===== LOGIN: FIELD WRAPPER + INLINE ERROR ===== */
-  .login-field { position: relative; margin-bottom: 12px; }
-  .login-field .login-input { margin-bottom: 0; }
-  .login-field.has-error .login-input { border-color: #f87171 !important; }
-  .field-error {
-    display: none;
-    font-size: 11px;
-    color: #f87171;
-    margin-top: 4px;
-    padding-left: 2px;
-  }
-  .login-field.has-error .field-error { display: block; }
 </style>
 </head>
 <body>
@@ -933,23 +818,14 @@
     <div class="login-box">
       <h3>Acesse o portal</h3>
       <p>Cadastre-se para acompanhar cotações, notícias e análises</p>
-
-      <form id="loginForm" onsubmit="return handleLogin(event)" novalidate>
-        <div class="login-field">
-          <input class="login-input" type="text" id="loginName" placeholder="Nome completo *" autocomplete="name">
-          <span class="field-error" id="errName">Informe seu nome completo</span>
-        </div>
-        <div class="login-field">
-          <input class="login-input" type="email" id="loginEmail" placeholder="Seu melhor e-mail *" autocomplete="email">
-          <span class="field-error" id="errEmail">Informe um e-mail válido</span>
-        </div>
-        <div class="login-field">
-          <input class="login-input" type="tel" id="loginPhone" placeholder="WhatsApp / Telefone *" autocomplete="tel">
-          <span class="field-error" id="errPhone">Informe seu telefone</span>
-        </div>
+      <form id="loginForm" onsubmit="return handleLogin(event)">
+        <input class="login-input" type="text" id="loginName" placeholder="Seu nome" required>
+        <input class="login-input" type="email" id="loginEmail" placeholder="Seu melhor e-mail" required>
+        <input class="login-input" type="tel" id="loginPhone" placeholder="Telefone (opcional)">
         <button class="login-submit" type="submit" id="loginBtn">Entrar</button>
       </form>
-      <div class="login-error" id="loginError" style="display:none;">Erro ao registrar. Tente novamente.</div>
+      <div class="login-error" id="loginError">Erro ao registrar. Tente novamente.</div>
+      <button class="login-skip" onclick="closeLoginGate()">Continuar sem cadastro</button>
     </div>
   </div>
 </div>
@@ -1035,16 +911,6 @@
         <p class="table-page-subtitle">Cotações em tempo real via BrAPI</p>
       </div>
     </div>
-    <!-- Barra de categorias por setor -->
-    <div class="setor-bar-wrap">
-      <div class="setor-bar" id="setorBar">
-        <button class="setor-chip active" onclick="filterAcoes('todas')" data-setor="todas">
-          <span class="chip-dot" style="background:#18181b"></span>
-          Todas
-          <span class="chip-count" id="countTodas"></span>
-        </button>
-      </div>
-    </div>
     <div class="stock-table-wrap">
       <table class="stock-table">
         <thead>
@@ -1071,16 +937,6 @@
       <div>
         <h1 class="table-page-title">Fundos Imobiliários</h1>
         <p class="table-page-subtitle">Cotações, DY e dividendos</p>
-      </div>
-    </div>
-    <!-- Barra de categorias FII -->
-    <div class="setor-bar-wrap">
-      <div class="setor-bar" id="fiiBar">
-        <button class="setor-chip active" onclick="filterFiis('todas')" data-cat="todas">
-          <span class="chip-dot" style="background:#18181b"></span>
-          Todos
-          <span class="chip-count" id="countFiiTodas"></span>
-        </button>
       </div>
     </div>
     <div class="stock-table-wrap">
@@ -1216,62 +1072,6 @@ const state = {
   fiiData: {},
 };
 
-// dados.json carregado pelo coletor.py via GitHub Actions
-let dadosJson = null;
-
-async function loadDadosJson() {
-  try {
-    const resp = await fetch('./dados.json?t=' + Date.now());
-    dadosJson = await resp.json();
-    // Popula state.stockData e state.fiiData para compatibilidade com openBrapiDetail
-    const all = [
-      ...Object.values(dadosJson.stocks || {}),
-      ...Object.values(dadosJson.fiis || {}),
-      ...Object.values(dadosJson.etfs || {}),
-      ...Object.values(dadosJson.us_stocks || {}),
-      ...Object.values(dadosJson.crypto || {}),
-    ];
-    all.forEach(s => {
-      state.stockData[s.stock] = s;
-      state.fiiData[s.stock] = s;
-    });
-    return true;
-  } catch (e) {
-    console.warn('dados.json não encontrado, usando BrAPI como fallback.');
-    return false;
-  }
-}
-
-async function loadNoticias() {
-  try {
-    const resp = await fetch('./noticias.json?t=' + Date.now());
-    const data = await resp.json();
-    if (data && data.all && data.all.length > 0) {
-      renderNewsDynamic(data);
-      return;
-    }
-  } catch (e) {
-    console.warn('noticias.json não encontrado, usando dados estáticos.');
-  }
-  renderNews(); // fallback com dados hardcoded
-}
-
-async function loadAnalises() {
-  try {
-    const resp = await fetch('./analises.json?t=' + Date.now());
-    const data = await resp.json();
-    if (Array.isArray(data) && data.length > 0) {
-      renderAnalysesDynamic(data);
-      return;
-    }
-  } catch (e) {
-    console.warn('analises.json não encontrado, usando dados estáticos.');
-  }
-  renderAnalyses(); // fallback com dados hardcoded
-}
-
-// ===== NAVIGATION =====
-// ... (o resto do seu código de navegação continua aqui para baixo) ...
 // ===== NAVIGATION =====
 function switchPage(page) {
   state.currentPage = page;
@@ -1356,17 +1156,19 @@ async function loadTickerData() {
   track.innerHTML = html || track.innerHTML;
 }
 
-// ===== NEWS DATA ESTÁTICO (fallback quando noticias.json não estiver disponível) =====
-const NEWS_DATA_STATIC = {
+// ===== NEWS DATA (27/05/2026) =====
+const NEWS_DATA = {
   headline: {
-    title: 'Atualizando notícias do mercado financeiro...',
-    summary: 'As notícias são coletadas automaticamente de InfoMoney, Money Times, Suno, FIIs.com e outras fontes. Recarregue em instantes.',
-    source: 'Convexa News',
-    time: 'agora',
-    tickers: [],
-    url: '',
+    title: 'Câmara vota PEC do fim da escala 6×1 hoje; jornada cai para 40h semanais',
+    summary: 'Governo e lideranças da Câmara acordaram extinção da escala 6×1, com descanso remunerado de dois dias por semana. Votação na comissão especial acontece nesta quarta-feira, plenário na quinta.',
+    source: 'Agência Brasil',
+    time: '5 min de leitura',
+    tickers: ['B3SA3', 'MGLU3', 'LREN3']
   },
-  featured: [],
+  featured: [
+    { title: 'BNDES vende R$ 3 bilhões em ações da Petrobras em maio; Mercadante confirma operação', summary: 'Banco de fomento também desfez posições em Axia e Copel. Recursos irão para inovação e transição digital.', source: 'InfoMoney', time: '1h', exclusive: true, tickers: ['PETR4', 'AXIA3', 'CPLE3'] },
+    { title: 'Bitcoin estabiliza em US$ 77 mil após duas semanas de correção; ETFs registram saída de US$ 1,26 bi', summary: 'Índice de Medo e Ganância sobe para 34 pontos. Mercado aguarda acordo EUA-Irã.', source: 'Exame', time: '2h', tickers: ['BTC', 'ETH'] },
+  ],
   categories: [
     { id: 'todas', label: 'Todas' },
     { id: 'acoes', label: 'Ações' },
@@ -1376,55 +1178,57 @@ const NEWS_DATA_STATIC = {
     { id: 'cripto', label: 'Cripto' },
     { id: 'analise', label: 'Análises' },
   ],
-  all: [],
+  all: [
+    { title: 'Ibovespa opera com baixa liquidez; bancos avançam e Petrobras recua após venda do BNDES', source: 'InfoMoney', time: '25 min', cat: 'acoes' },
+    { title: 'BNDES vende R$ 3 bi em Petrobras, R$ 500 mi em Axia e R$ 280 mi em Copel em maio', source: 'Money Times', time: '1h', cat: 'acoes' },
+    { title: 'CACR11 despenca após fundo informar que não pagará dividendos de abril', source: 'FIIs.com', time: '35 min', cat: 'fundos' },
+    { title: '32 fundos imobiliários pagam dividendos na última semana de maio; veja valores', source: 'FIIs.com', time: '1h', cat: 'fundos' },
+    { title: 'BOVA11 bate recorde de volume diário acima de R$ 1 bi no 1º trimestre de 2026', source: 'Investidor10', time: '2h', cat: 'acoes' },
+    { title: 'LRDI11 distribui R$ 29,71 por cota com dividend yield de 19,94%', source: 'FIIs.com', time: '1h 30min', cat: 'fundos' },
+    { title: 'BTG reduz exposição em HSML11 e monta posição em VISC11 na carteira de FIIs', source: 'Money Times', time: '3h', cat: 'fundos' },
+    { title: 'Dólar oscila entre R$ 4,99 e R$ 5,05; Focus eleva IPCA 2026 para 5,04% pela 11ª vez', source: 'CNN Brasil', time: '30 min', cat: 'economia' },
+    { title: 'Governo e Câmara acordam fim da 6×1 e jornada de 40 horas semanais', source: 'Agência Brasil', time: '45 min', cat: 'economia' },
+    { title: 'Expectativas de inflação sobem no Boletim Focus e mercado eleva projeção do IPCA', source: 'Valor Econômico', time: '1h', cat: 'economia' },
+    { title: 'Bitcoin negocia de lado em US$ 77 mil com volatilidade em mínima de 9 meses', source: 'Exame', time: '2h', cat: 'cripto' },
+    { title: 'ETFs de Bitcoin à vista nos EUA registram saída líquida de US$ 1,26 bi na semana', source: 'CoinDesk', time: '2h 30min', cat: 'cripto' },
+    { title: 'Ethereum se mantém abaixo de US$ 2 mil; mercado cripto aguarda tensão EUA-Irã', source: 'Decrypt', time: '3h', cat: 'cripto' },
+    { title: 'Tensão entre EUA e Irã mantém petróleo próximo a US$ 100 e pressiona mercados', source: 'Reuters', time: '1h', cat: 'internacional' },
+    { title: 'Memorial Day reduz liquidez global; Wall Street opera em compasso de espera', source: 'Bloomberg', time: '2h', cat: 'internacional' },
+    { title: 'XP recomenda 16 FIIs para maio com foco em tijolo e desconto sobre VP', source: 'Money Times', time: '4h', cat: 'analise' },
+    { title: 'BTG Pactual divulga carteira recomendada de ações para junho 2026', source: 'BTG Pactual', time: '3h', cat: 'analise' },
+    { title: 'Os 10 FIIs que mais subiram em 2026: XPML11 lidera o ranking do IFIX', source: 'FIIs.com', time: '5h', cat: 'analise' },
+    { title: 'Mercado prevê Selic terminal de 14,75%; curva de juros segue pressionada', source: 'Valor Econômico', time: '1h 30min', cat: 'economia' },
+    { title: 'GARE11 anuncia rendimento de R$ 0,083 por cota referente a maio', source: 'Suno', time: '4h', cat: 'fundos' },
+  ]
 };
 
-// Notícias ativas (substituídas pelo noticias.json quando disponível)
-let NEWS_DATA = Object.assign({}, NEWS_DATA_STATIC);
-
-// ===== RENDERIZAÇÃO DINÂMICA DE NOTÍCIAS (a partir de noticias.json) =====
-function renderNewsDynamic(data) {
-  NEWS_DATA = {
-    headline: data.headline || NEWS_DATA_STATIC.headline,
-    featured: data.featured || [],
-    categories: NEWS_DATA_STATIC.categories,
-    all: data.all || [],
-    atualizado_em: data.atualizado_em || '',
-  };
-  renderNews();
-}
-
 function renderNews() {
+  // Hero
   const h = NEWS_DATA.headline;
-  if (!h) return;
-
   document.getElementById('heroTitle').textContent = h.title;
   document.getElementById('heroSummary').textContent = h.summary;
-  const tickersHtml = (h.tickers || []).map(t => `<span class="ticker-tag">${t}</span>`).join('');
-  const urlAttr = h.url ? `onclick="window.open('${h.url}','_blank')" style="cursor:pointer"` : '';
   document.getElementById('heroMeta').innerHTML = `
     <span class="hero-source">${h.source}</span><span>·</span><span>${h.time}</span>
-    ${tickersHtml ? `<span>·</span><div class="hero-tickers">${tickersHtml}</div>` : ''}`;
-  if (h.url) {
-    document.getElementById('heroTitle').style.cursor = 'pointer';
-    document.getElementById('heroTitle').onclick = () => window.open(h.url, '_blank');
-  }
+    <span>·</span><div class="hero-tickers">${h.tickers.map(t => `<span class="ticker-tag">${t}</span>`).join('')}</div>`;
 
-  document.getElementById('featuredCards').innerHTML = (NEWS_DATA.featured || []).map(f => `
-    <div class="featured-card" ${f.url ? `onclick="window.open('${f.url}','_blank')"` : ''} style="${f.url ? 'cursor:pointer' : ''}">
+  // Featured
+  document.getElementById('featuredCards').innerHTML = NEWS_DATA.featured.map(f => `
+    <div class="featured-card">
       <div class="featured-meta">
         <span>${f.source}</span><span>·</span><span>${f.time}</span>
         ${f.exclusive ? '<span class="exclusive-badge">EXCLUSIVO</span>' : ''}
       </div>
       <div class="featured-title">${f.title}</div>
-      <div class="featured-summary">${f.summary || ''}</div>
-      ${(f.tickers || []).length ? `<div class="featured-tickers">${f.tickers.map(t => `<span class="ticker-tag">${t}</span>`).join('')}</div>` : ''}
+      <div class="featured-summary">${f.summary}</div>
+      ${f.tickers ? `<div class="featured-tickers">${f.tickers.map(t => `<span class="ticker-tag">${t}</span>`).join('')}</div>` : ''}
     </div>`).join('');
 
+  // Category filters
   document.getElementById('catFilters').innerHTML = NEWS_DATA.categories.map(c =>
     `<button class="cat-btn ${c.id === state.newsCategory ? 'active' : ''}" onclick="filterNews('${c.id}')">${c.label}</button>`
   ).join('');
 
+  // News grid
   renderNewsList();
 }
 
@@ -1435,17 +1239,9 @@ function filterNews(cat) {
 }
 
 function renderNewsList() {
-  const items = state.newsCategory === 'todas'
-    ? NEWS_DATA.all
-    : NEWS_DATA.all.filter(n => n.cat === state.newsCategory);
-
-  if (!items.length) {
-    document.getElementById('newsGrid').innerHTML = '<div style="grid-column:1/-1;text-align:center;padding:40px;color:var(--text-secondary)">Nenhuma notícia disponível ainda. O robô atualiza a cada hora.</div>';
-    return;
-  }
-
+  const items = state.newsCategory === 'todas' ? NEWS_DATA.all : NEWS_DATA.all.filter(n => n.cat === state.newsCategory);
   document.getElementById('newsGrid').innerHTML = items.map(n => `
-    <div class="news-item" ${n.url ? `onclick="window.open('${n.url}','_blank')"` : ''} style="${n.url ? 'cursor:pointer' : ''}">
+    <div class="news-item">
       <div class="news-item-meta">
         <span class="news-item-source">${n.source}</span>
         <span>·</span>
@@ -1510,300 +1306,87 @@ function updateTableHeaders() {
     '<th style="text-align:left">Cripto</th><th>Preço (USD)</th><th>Dia</th><th>Volume</th><th>Mkt Cap</th><th>Tipo</th>';
 }
 
-// Retorna lista de ativos de uma categoria: tenta dadosJson primeiro, fallback BrAPI
-function getAtivos(tickers, categoria) {
-  if (dadosJson && dadosJson[categoria] && Object.keys(dadosJson[categoria]).length) {
-    return Object.values(dadosJson[categoria]); // todos os ativos do dados.json
-  }
-  return tickers.map(t => findStock(t)).filter(Boolean); // fallback BrAPI
-}
-
-const LOADING_ROW = cols => `<tr><td colspan="${cols}" class="loading-text">Atualizando dados...</td></tr>`;
-
-// ===== MAPEAMENTO DE SETORES (Yahoo Finance EN → PT) =====
-const SETOR_PT = {
-  'Financial Services': 'Bancos',
-  'Banking': 'Bancos',
-  'Energy': 'Energia',
-  'Utilities': 'Energia',
-  'Basic Materials': 'Mineração',
-  'Consumer Cyclical': 'Varejo',
-  'Consumer Defensive': 'Consumo',
-  'Industrials': 'Industrial',
-  'Healthcare': 'Saúde',
-  'Technology': 'Tecnologia',
-  'Communication Services': 'Telecom',
-  'Real Estate': 'Imóveis',
-};
-
-const SETOR_COR = {
-  'Bancos':      { dot: '#2563eb', bg: 'rgba(37,99,235,0.08)'   },
-  'Energia':     { dot: '#ea580c', bg: 'rgba(234,88,12,0.08)'   },
-  'Mineração':   { dot: '#854d0e', bg: 'rgba(133,77,14,0.08)'   },
-  'Varejo':      { dot: '#7c3aed', bg: 'rgba(124,58,237,0.08)'  },
-  'Consumo':     { dot: '#0891b2', bg: 'rgba(8,145,178,0.08)'   },
-  'Industrial':  { dot: '#059669', bg: 'rgba(5,150,105,0.08)'   },
-  'Saúde':       { dot: '#dc2626', bg: 'rgba(220,38,38,0.08)'   },
-  'Tecnologia':  { dot: '#6366f1', bg: 'rgba(99,102,241,0.08)'  },
-  'Telecom':     { dot: '#0284c7', bg: 'rgba(2,132,199,0.08)'   },
-  'Imóveis':     { dot: '#16a34a', bg: 'rgba(22,163,74,0.08)'   },
-};
-
-let acoesData = [];       // todos os dados carregados
-let acoesSetorAtivo = 'todas';
-
-function traduzirSetor(s) {
-  return SETOR_PT[s] || s || 'Outros';
-}
-
-function buildSetorBar(data) {
-  // Conta quantos ativos por setor (em PT)
-  const contagem = {};
-  data.forEach(s => {
-    const pt = traduzirSetor(s.sector);
-    contagem[pt] = (contagem[pt] || 0) + 1;
-  });
-
-  const bar = document.getElementById('setorBar');
-  // Atualiza contador do "Todas"
-  const countEl = document.getElementById('countTodas');
-  if (countEl) countEl.textContent = data.length;
-
-  // Remove chips antigos (mantém o "Todas")
-  const chips = bar.querySelectorAll('[data-setor]:not([data-setor="todas"])');
-  chips.forEach(c => c.remove());
-
-  // Adiciona um chip por setor, ordenados por quantidade
-  Object.entries(contagem)
-    .sort((a, b) => b[1] - a[1])
-    .forEach(([setor, qtd]) => {
-      const cor = SETOR_COR[setor] || { dot: '#71717a', bg: 'rgba(0,0,0,0.05)' };
-      const chip = document.createElement('button');
-      chip.className = 'setor-chip' + (acoesSetorAtivo === setor ? ' active' : '');
-      chip.dataset.setor = setor;
-      chip.onclick = () => filterAcoes(setor);
-      chip.innerHTML = `
-        <span class="chip-dot" style="background:${cor.dot}"></span>
-        ${setor}
-        <span class="chip-count">${qtd}</span>`;
-      bar.appendChild(chip);
-    });
-}
-
-function filterAcoes(setor) {
-  acoesSetorAtivo = setor;
-
-  // Atualiza estado visual das chips
-  document.querySelectorAll('#setorBar .setor-chip').forEach(c => {
-    c.classList.toggle('active', c.dataset.setor === setor);
-  });
-
-  // Filtra e renderiza tabela
-  const filtered = setor === 'todas'
-    ? acoesData
-    : acoesData.filter(s => traduzirSetor(s.sector) === setor);
-
-  document.getElementById('tbAcoes').innerHTML = filtered.length
-    ? filtered.map(s => renderAcoesRow(s)).join('')
-    : `<tr><td colspan="6" class="loading-text">Nenhuma ação nesta categoria</td></tr>`;
-}
-
-function renderAcoesRow(s) {
-  const up = (s.change || 0) >= 0;
-  const setor_pt = traduzirSetor(s.sector);
-  const cor = SETOR_COR[setor_pt] || { dot: '#71717a', bg: 'rgba(0,0,0,0.05)' };
-  const priceStr = s.close > 1000
-    ? s.close?.toLocaleString('pt-BR', { maximumFractionDigits: 2 })
-    : s.close?.toFixed(2);
-  return `<tr onclick="openBrapiDetail('${s.stock}')">
-    <td><div class="stock-cell">
-      <div class="stock-icon">${(s.stock||'').slice(0,4)}</div>
-      <div class="stock-name-wrap">
-        <span class="stock-ticker">${s.stock}</span>
-        <span class="stock-name">${s.name || ''}</span>
-      </div>
-    </div></td>
-    <td><span class="stock-price">R$ ${priceStr || '—'}</span></td>
-    <td><span class="stock-change ${up?'up':'down'}">${up?'↗':'↘'} ${up?'+':''}${s.change?.toFixed(2) || '0.00'}%</span></td>
-    <td><span class="perf-value">${s.volume ? formatVol(s.volume) : '—'}</span></td>
-    <td><span class="perf-value">${s.market_cap ? formatMktCap(s.market_cap) : '—'}</span></td>
-    <td>
-      <span style="display:inline-flex;align-items:center;gap:5px;background:${cor.bg};color:${cor.dot};padding:3px 10px;border-radius:20px;font-size:12px;font-weight:600;">
-        <span style="width:5px;height:5px;border-radius:50%;background:${cor.dot};flex-shrink:0;"></span>
-        ${setor_pt}
-      </span>
-    </td>
-  </tr>`;
-}
-
-// ===== LOAD BR STOCKS =====
+// ===== LOAD BR STOCKS from brapiAllStocks =====
 function loadBRStocks() {
-  const data = getAtivos(BR_TICKERS, 'stocks');
-  data.forEach(s => state.stockData[s.stock] = s);
-  acoesData = data;
-  buildSetorBar(data);
-  filterAcoes(acoesSetorAtivo); // mantém filtro ativo entre refreshes
-}
-
-// ===== CATEGORIAS DE FII (mapeamento manual) =====
-const FII_CAT_MAP = {
-  // Galpões Logísticos
-  'HGLG11':'Galpões','XPLG11':'Galpões','VILG11':'Galpões','BRCO11':'Galpões',
-  'GLOG11':'Galpões','ALZR11':'Galpões','LVBI11':'Galpões','GGRC11':'Galpões',
-  'PATL11':'Galpões','BTLG11':'Galpões','VGIP11':'Galpões','SDIL11':'Galpões',
-  'TRXF11':'Galpões','JRDM11':'Galpões',
-  // Shoppings
-  'VISC11':'Shoppings','XPML11':'Shoppings','HSML11':'Shoppings','MALL11':'Shoppings',
-  'BPML11':'Shoppings','ATSA11':'Shoppings','FVPQ11':'Shoppings',
-  // Lajes Corporativas
-  'HGRE11':'Lajes','BRCR11':'Lajes','RCRB11':'Lajes','PATC11':'Lajes',
-  'PVBI11':'Lajes','VINO11':'Lajes','JSRE11':'Lajes','TGAR11':'Lajes','BBPO11':'Lajes',
-  // Papel / CRI
-  'MXRF11':'Papel','IRDM11':'Papel','KNCR11':'Papel','KNHY11':'Papel',
-  'MCCI11':'Papel','VRTA11':'Papel','HABT11':'Papel','RECR11':'Papel',
-  'VGIR11':'Papel','CPTS11':'Papel','KNIP11':'Papel','RBRR11':'Papel',
-  'OUJP11':'Papel','HCTR11':'Papel',
-  // Fundo de Fundos
-  'BCFF11':'Fundo de Fundos','RBFF11':'Fundo de Fundos','HFOF11':'Fundo de Fundos',
-  'TFOF11':'Fundo de Fundos','FUND11':'Fundo de Fundos',
-  // Residencial
-  'BLMG11':'Residencial','RBVA11':'Residencial','RZAK11':'Residencial',
-  // Diversificado / Híbrido
-  'KNRI11':'Diversificado','HGPO11':'Diversificado','BTRA11':'Diversificado',
-  'RBRP11':'Diversificado','VVPR11':'Diversificado',
-};
-
-const FII_CAT_COR = {
-  'Galpões':         { dot: '#059669', bg: 'rgba(5,150,105,0.09)'    },
-  'Shoppings':       { dot: '#7c3aed', bg: 'rgba(124,58,237,0.09)'   },
-  'Lajes':           { dot: '#2563eb', bg: 'rgba(37,99,235,0.09)'    },
-  'Papel':           { dot: '#ea580c', bg: 'rgba(234,88,12,0.09)'    },
-  'Fundo de Fundos': { dot: '#71717a', bg: 'rgba(113,113,122,0.09)'  },
-  'Diversificado':   { dot: '#0891b2', bg: 'rgba(8,145,178,0.09)'    },
-  'Residencial':     { dot: '#db2777', bg: 'rgba(219,39,119,0.09)'   },
-};
-
-let fiisData = [];
-let fiisCategoria = 'todas';
-
-function getFiiCat(ticker) {
-  return FII_CAT_MAP[ticker] || 'Outros';
-}
-
-function buildFiiBar(data) {
-  const contagem = {};
-  data.forEach(s => {
-    const cat = getFiiCat(s.stock);
-    contagem[cat] = (contagem[cat] || 0) + 1;
-  });
-
-  const bar = document.getElementById('fiiBar');
-  const countEl = document.getElementById('countFiiTodas');
-  if (countEl) countEl.textContent = data.length;
-
-  bar.querySelectorAll('[data-cat]:not([data-cat="todas"])').forEach(c => c.remove());
-
-  Object.entries(contagem)
-    .sort((a, b) => b[1] - a[1])
-    .forEach(([cat, qtd]) => {
-      const cor = FII_CAT_COR[cat] || { dot: '#71717a', bg: 'rgba(0,0,0,0.05)' };
-      const chip = document.createElement('button');
-      chip.className = 'setor-chip' + (fiisCategoria === cat ? ' active' : '');
-      chip.dataset.cat = cat;
-      chip.onclick = () => filterFiis(cat);
-      chip.innerHTML = `
-        <span class="chip-dot" style="background:${cor.dot}"></span>
-        ${cat}
-        <span class="chip-count">${qtd}</span>`;
-      bar.appendChild(chip);
-    });
-}
-
-function filterFiis(cat) {
-  fiisCategoria = cat;
-  document.querySelectorAll('#fiiBar .setor-chip').forEach(c => {
-    c.classList.toggle('active', c.dataset.cat === cat);
-  });
-  const filtered = cat === 'todas' ? fiisData : fiisData.filter(s => getFiiCat(s.stock) === cat);
-  document.getElementById('tbFiis').innerHTML = filtered.length
-    ? filtered.map(s => renderFiiRow(s)).join('')
-    : `<tr><td colspan="5" class="loading-text">Nenhum FII nesta categoria</td></tr>`;
-}
-
-function renderFiiRow(s) {
-  const up = (s.change || 0) >= 0;
-  const cat = getFiiCat(s.stock);
-  const cor = FII_CAT_COR[cat] || { dot: '#71717a', bg: 'rgba(0,0,0,0.05)' };
-  return `<tr onclick="openBrapiDetail('${s.stock}')">
-    <td><div class="stock-cell">
-      <div class="stock-icon" style="background:#e8f4ff;color:#2563eb;">${(s.stock||'').slice(0,4)}</div>
-      <div class="stock-name-wrap">
-        <span class="stock-ticker">${s.stock}</span>
-        <span class="stock-name">${s.name || ''}</span>
-      </div>
-    </div></td>
-    <td><span class="stock-price">R$ ${s.close?.toFixed(2) || '—'}</span></td>
-    <td><span class="stock-change ${up?'up':'down'}">${up?'↗':'↘'} ${up?'+':''}${s.change?.toFixed(2) || '0.00'}%</span></td>
-    <td>
-      <span style="display:inline-flex;align-items:center;gap:5px;background:${cor.bg};color:${cor.dot};padding:3px 10px;border-radius:20px;font-size:12px;font-weight:600;">
-        <span style="width:5px;height:5px;border-radius:50%;background:${cor.dot};flex-shrink:0;"></span>
-        ${cat}
-      </span>
-    </td>
-    <td><span class="perf-value">${s.volume ? formatVol(s.volume) : '—'}</span></td>
-  </tr>`;
+  const data = BR_TICKERS.map(t => findStock(t)).filter(Boolean);
+  if (data.length) {
+    data.forEach(s => state.stockData[s.stock] = s);
+    document.getElementById('tbAcoes').innerHTML = data.map(s => renderBrapiRow(s, 'stock')).join('');
+  } else {
+    document.getElementById('tbAcoes').innerHTML = '<tr><td colspan="6" class="loading-text">Nenhum dado encontrado</td></tr>';
+  }
 }
 
 // ===== LOAD FIIs =====
 function loadFIIs() {
-  const data = getAtivos(FII_TICKERS, 'fiis');
-  data.forEach(s => { state.stockData[s.stock] = s; state.fiiData[s.stock] = s; });
-  fiisData = data;
-  buildFiiBar(data);
-  filterFiis(fiisCategoria);
+  const data = FII_TICKERS.map(t => findStock(t)).filter(Boolean);
+  if (data.length) {
+    data.forEach(s => state.fiiData[s.stock] = s);
+    document.getElementById('tbFiis').innerHTML = data.map(s => {
+      const up = (s.change || 0) >= 0;
+      return `<tr onclick="openBrapiDetail('${s.stock}')">
+        <td><div class="stock-cell">
+          <div class="stock-icon" style="background:#e8f4ff;color:#2563eb;">${(s.stock||'').slice(0,4)}</div>
+          <div class="stock-name-wrap">
+            <span class="stock-ticker">${s.stock}</span>
+            <span class="stock-name">${s.name || ''}</span>
+          </div>
+        </div></td>
+        <td><span class="stock-price">R$ ${s.close?.toFixed(2) || '—'}</span></td>
+        <td><span class="stock-change ${up?'up':'down'}">${up?'↗':'↘'} ${up?'+':''}${s.change?.toFixed(2) || '0.00'}%</span></td>
+        <td><span style="background:rgba(37,99,235,0.1);color:#2563eb;padding:2px 10px;border-radius:20px;font-size:12px;font-weight:600;">${s.sector || 'FII'}</span></td>
+        <td><span class="perf-value">${s.volume ? formatVol(s.volume) : '—'}</span></td>
+      </tr>`;
+    }).join('');
+  }
 }
 
-// ===== LOAD US STOCKS =====
+// ===== LOAD US & CRYPTO from brapiAllStocks =====
 function loadUSStocks() {
-  const data = getAtivos(US_TICKERS, 'us_stocks');
-  data.forEach(s => state.stockData[s.stock] = s);
-  document.getElementById('tbGlobal').innerHTML = data.length
-    ? data.map(s => renderBrapiRow(s, 'us')).join('')
-    : LOADING_ROW(6);
+  const data = US_TICKERS.map(t => findStock(t)).filter(Boolean);
+  if (data.length) {
+    data.forEach(s => state.stockData[s.stock] = s);
+    document.getElementById('tbGlobal').innerHTML = data.map(s => renderBrapiRow(s, 'us')).join('');
+  } else {
+    document.getElementById('tbGlobal').innerHTML = '<tr><td colspan="6" class="loading-text">Dados indisponíveis no momento</td></tr>';
+  }
 }
 
-// ===== LOAD CRYPTO =====
 function loadCrypto() {
-  const data = getAtivos(CRYPTO_TICKERS, 'crypto');
-  data.forEach(s => state.stockData[s.stock] = s);
-  document.getElementById('tbCripto').innerHTML = data.length
-    ? data.map(s => renderBrapiRow(s, 'crypto')).join('')
-    : LOADING_ROW(6);
+  const data = CRYPTO_TICKERS.map(t => findStock(t)).filter(Boolean);
+  if (data.length) {
+    data.forEach(s => state.stockData[s.stock] = s);
+    document.getElementById('tbCripto').innerHTML = data.map(s => renderBrapiRow(s, 'crypto')).join('');
+  } else {
+    document.getElementById('tbCripto').innerHTML = '<tr><td colspan="6" class="loading-text">Dados indisponíveis no momento</td></tr>';
+  }
 }
 
 // ===== LOAD ETFs =====
 function loadETFs() {
-  const data = getAtivos(ETF_TICKERS, 'etfs');
-  data.forEach(s => state.stockData[s.stock] = s);
-  document.getElementById('tbEtfs').innerHTML = data.length
-    ? data.map(s => {
-        const up = (s.change || 0) >= 0;
-        return `<tr onclick="openBrapiDetail('${s.stock}')">
-          <td><div class="stock-cell">
-            <div class="stock-icon" style="background:#f0fdf4;color:#16a34a;">${(s.stock||'').slice(0,4)}</div>
-            <div class="stock-name-wrap">
-              <span class="stock-ticker">${s.stock}</span>
-              <span class="stock-name">${s.name || ''}</span>
-            </div>
-          </div></td>
-          <td><span class="stock-price">R$ ${s.close?.toFixed(2) || '—'}</span></td>
-          <td><span class="stock-change ${up?'up':'down'}">${up?'↗':'↘'} ${up?'+':''}${s.change?.toFixed(2) || '0.00'}%</span></td>
-          <td><span class="perf-value">${s.volume ? formatVol(s.volume) : '—'}</span></td>
-          <td><span class="perf-value">${s.market_cap ? formatMktCap(s.market_cap) : '—'}</span></td>
-          <td><span class="perf-value">${s.sector || 'ETF'}</span></td>
-        </tr>`;
-      }).join('')
-    : LOADING_ROW(6);
+  const data = ETF_TICKERS.map(t => findStock(t)).filter(Boolean);
+  if (data.length) {
+    data.forEach(s => state.stockData[s.stock] = s);
+    document.getElementById('tbEtfs').innerHTML = data.map(s => {
+      const up = (s.change || 0) >= 0;
+      return `<tr onclick="openBrapiDetail('${s.stock}')">
+        <td><div class="stock-cell">
+          <div class="stock-icon" style="background:#f0fdf4;color:#16a34a;">${(s.stock||'').slice(0,4)}</div>
+          <div class="stock-name-wrap">
+            <span class="stock-ticker">${s.stock}</span>
+            <span class="stock-name">${s.name || ''}</span>
+          </div>
+        </div></td>
+        <td><span class="stock-price">R$ ${s.close?.toFixed(2) || '—'}</span></td>
+        <td><span class="stock-change ${up?'up':'down'}">${up?'↗':'↘'} ${up?'+':''}${s.change?.toFixed(2) || '0.00'}%</span></td>
+        <td><span class="perf-value">${s.volume ? formatVol(s.volume) : '—'}</span></td>
+        <td><span class="perf-value">${s.market_cap ? formatMktCap(s.market_cap) : '—'}</span></td>
+        <td><span class="perf-value">${s.sector || 'ETF'}</span></td>
+      </tr>`;
+    }).join('');
+  } else {
+    document.getElementById('tbEtfs').innerHTML = '<tr><td colspan="6" class="loading-text">Dados indisponíveis no momento</td></tr>';
+  }
 }
 
 // ===== DETAIL MODAL =====
@@ -1811,175 +1394,30 @@ function openBrapiDetail(ticker) {
   const s = state.stockData[ticker] || state.fiiData[ticker];
   if (!s) return;
   const up = (s.change || 0) >= 0;
-  const currency = (s.type === 'us' || s.type === 'crypto') ? 'US$' : 'R$';
-  const priceStr = s.close > 1000
-    ? s.close.toLocaleString('pt-BR', { maximumFractionDigits: 2 })
-    : s.close?.toFixed(2);
-
-  // Nome completo no header (name vem do coletor agora)
-  const nomeCompleto = (s.name && s.name !== s.stock) ? s.name : s.stock;
-  const subtitulo    = (s.name && s.name !== s.stock) ? s.stock : '';
-
-  // Setor traduzido
-  const setorPt = traduzirSetor(s.sector) || s.sector || '—';
-
-  // Tipo legível
-  const tipoLabel = { stock:'Ação BR', fii:'FII', etf:'ETF', us:'Ação EUA', crypto:'Cripto' }[s.type] || s.type || '—';
-
-  // Descrição automática por tipo/setor
-  const desc = gerarDescricao(s);
-
-  // Períodos de valorização
-  const periodos = [
-    { label: '1 dia',   val: s.change },
-    { label: '1 mês',   val: s.perf_1m },
-    { label: '3 meses', val: s.perf_3m },
-    { label: '6 meses', val: s.perf_6m },
-    { label: '12 meses',val: s.perf_12m },
-  ];
-  const maxAbs = Math.max(...periodos.map(p => Math.abs(p.val || 0)), 1);
-
-  function perfRow(p) {
-    if (p.val == null) return '';
-    const isUp  = p.val >= 0;
-    const width = Math.min((Math.abs(p.val) / maxAbs) * 100, 100).toFixed(1);
-    const color = isUp ? 'var(--green)' : 'var(--red)';
-    return `
-      <div class="detail-perf-row">
-        <span class="detail-perf-label">${p.label}</span>
-        <div class="detail-perf-bar-wrap">
-          <div class="detail-perf-bar" style="width:${width}%;background:${color}"></div>
-        </div>
-        <span class="detail-perf-pct ${isUp ? 'up' : 'down'}">${isUp ? '+' : ''}${p.val.toFixed(2)}%</span>
-      </div>`;
-  }
-
   const modal = document.getElementById('detailModal');
   modal.innerHTML = `
     <button class="detail-close" onclick="closeDetail()">✕</button>
-
     <div class="detail-header">
       <div class="detail-icon">${(s.stock||'').slice(0,4)}</div>
       <div class="detail-title-wrap">
-        <h2>${nomeCompleto}</h2>
-        ${subtitulo ? `<p>${subtitulo}</p>` : ''}
+        <h2>${s.stock}</h2>
+        <p>${s.name || ''}</p>
       </div>
     </div>
-
     <div class="detail-price-row">
-      <span class="detail-price">${currency} ${priceStr}</span>
+      <span class="detail-price">R$ ${s.close?.toFixed(2)}</span>
       <span class="detail-change" style="color:${up ? 'var(--green)' : 'var(--red)'}">
-        ${up ? '+' : ''}${s.change?.toFixed(2)}%
+        ${up?'+':''}${s.change?.toFixed(2)}%
       </span>
     </div>
-
-    <div class="detail-perf-section">
-      <div class="detail-perf-title">Valorização</div>
-      ${periodos.map(perfRow).join('')}
-    </div>
-
     <div class="detail-grid">
-      <div class="detail-stat">
-        <div class="detail-stat-label">Volume</div>
-        <div class="detail-stat-value">${s.volume ? formatVol(s.volume) : '—'}</div>
-      </div>
-      <div class="detail-stat">
-        <div class="detail-stat-label">Mkt Cap</div>
-        <div class="detail-stat-value">${s.market_cap ? formatMktCap(s.market_cap) : '—'}</div>
-      </div>
-      <div class="detail-stat">
-        <div class="detail-stat-label">Setor</div>
-        <div class="detail-stat-value" style="font-size:13px;font-family:var(--font-sans)">${setorPt}</div>
-      </div>
-      <div class="detail-stat">
-        <div class="detail-stat-label">Tipo</div>
-        <div class="detail-stat-value" style="font-size:13px;font-family:var(--font-sans)">${tipoLabel}</div>
-      </div>
+      <div class="detail-stat"><div class="detail-stat-label">Volume</div><div class="detail-stat-value">${s.volume ? formatVol(s.volume) : '—'}</div></div>
+      <div class="detail-stat"><div class="detail-stat-label">Mkt Cap</div><div class="detail-stat-value">${s.market_cap ? formatMktCap(s.market_cap) : '—'}</div></div>
+      <div class="detail-stat"><div class="detail-stat-label">Setor</div><div class="detail-stat-value" style="font-size:13px;font-family:var(--font-sans);">${s.sector || '—'}</div></div>
+      <div class="detail-stat"><div class="detail-stat-label">Tipo</div><div class="detail-stat-value" style="font-size:13px;font-family:var(--font-sans);">${s.type || '—'}</div></div>
     </div>
-
-    <div class="detail-desc">${desc}</div>`;
-
+    ${s.logo ? `<div style="text-align:center;margin-top:20px;"><img src="${s.logo}" alt="${s.stock}" style="height:40px;border-radius:8px;"></div>` : ''}`;
   document.getElementById('detailOverlay').classList.add('open');
-}
-
-function gerarDescricao(s) {
-  const setor = traduzirSetor(s.sector) || '';
-  if (s.type === 'fii') {
-    const cat = typeof getFiiCat === 'function' ? getFiiCat(s.stock) : 'Imobiliário';
-    const descs = {
-      'Galpões':         'Fundo imobiliário focado em galpões logísticos e industriais, com renda proveniente de contratos de locação de longo prazo.',
-      'Shoppings':       'Fundo imobiliário com participação em shopping centers, com receita atrelada ao fluxo de vendas dos lojistas.',
-      'Lajes':           'Fundo imobiliário de lajes corporativas, com imóveis comerciais de alto padrão locados para grandes empresas.',
-      'Papel':           'Fundo imobiliário de recebíveis (CRI/LCI/LCA), com rendimentos indexados ao CDI ou IPCA.',
-      'Fundo de Fundos': 'Fundo que investe em cotas de outros FIIs, oferecendo diversificação com gestão ativa da carteira.',
-      'Residencial':     'Fundo imobiliário com foco em empreendimentos residenciais para renda.',
-      'Diversificado':   'Fundo imobiliário com portfólio diversificado entre diferentes segmentos do mercado imobiliário.',
-    };
-    return descs[cat] || 'Fundo de Investimento Imobiliário listado na B3.';
-  }
-  if (s.type === 'crypto') {
-    const cryptoDescs = {
-      'BTC':'Bitcoin é a primeira criptomoeda descentralizada, criada em 2009. Funciona como reserva de valor digital e meio de troca sem intermediários.',
-      'ETH':'Ethereum é uma plataforma blockchain com contratos inteligentes. Seu token nativo, o Ether, alimenta aplicações descentralizadas (DApps).',
-      'SOL':'Solana é uma blockchain de alta velocidade e baixo custo, voltada para DeFi, NFTs e aplicações Web3.',
-      'XRP':'XRP é o token da Ripple, usado para transferências internacionais rápidas e de baixo custo entre instituições financeiras.',
-      'BNB':'BNB é o token nativo da Binance, utilizado para pagar taxas na exchange e em serviços do ecossistema Binance.',
-      'ADA':'Cardano é uma blockchain com foco em segurança e sustentabilidade, desenvolvida com base em pesquisa acadêmica.',
-      'DOGE':'Dogecoin começou como meme mas se tornou uma das criptomoedas mais populares, com forte comunidade e baixo valor unitário.',
-    };
-    return cryptoDescs[s.stock] || 'Criptoativo negociado globalmente, sujeito a alta volatilidade.';
-  }
-  if (s.type === 'etf') {
-    if (s.stock === 'BOVA11') return 'ETF que replica o Ibovespa, o principal índice da Bolsa brasileira, com as ações de maior liquidez e volume.';
-    if (s.stock === 'SMAL11') return 'ETF de small caps brasileiras, empresas de menor capitalização com potencial de crescimento acelerado.';
-    if (s.stock === 'IVVB11') return 'ETF que replica o S&P 500, índice com as 500 maiores empresas americanas, negociado em reais na B3.';
-    if (s.stock === 'HASH11') return 'ETF de criptoativos, expondo o investidor ao desempenho de Bitcoin, Ethereum e outras criptomoedas.';
-    if (s.stock === 'GOLD11') return 'ETF lastreado em ouro físico, permitindo exposição ao metal precioso sem precisar comprá-lo diretamente.';
-    if (s.stock === 'NASD11') return 'ETF que replica o índice Nasdaq 100, com as maiores empresas de tecnologia dos Estados Unidos.';
-    if (s.stock === 'IMAB11') return 'ETF de renda fixa atrelado ao IMA-B, índice de títulos públicos indexados ao IPCA (NTN-B).';
-    return `ETF (fundo de índice) negociado na B3${setor ? ', com exposição a ' + setor.toLowerCase() : ''}.`;
-  }
-  if (s.type === 'us') {
-    const usDescs = {
-      'AAPL':'Apple é a maior empresa do mundo por valor de mercado, conhecida por iPhone, Mac e serviços digitais como App Store e iCloud.',
-      'MSFT':'Microsoft domina o mercado de software corporativo, cloud (Azure) e produtividade (Office 365), além de ser dona do LinkedIn e GitHub.',
-      'NVDA':'NVIDIA lidera o mercado de GPUs, componente essencial para inteligência artificial, data centers e jogos digitais.',
-      'GOOGL':'Alphabet (Google) controla o maior mecanismo de busca do mundo, YouTube, Android e uma das principais plataformas de publicidade digital.',
-      'AMZN':'Amazon é líder global em e-commerce e computação em nuvem (AWS), além de atuar em streaming (Prime Video) e logística.',
-      'META':'Meta Platforms opera Facebook, Instagram e WhatsApp, as maiores redes sociais do mundo, com bilhões de usuários ativos.',
-      'TSLA':'Tesla é pioneira em veículos elétricos e energia limpa, com negócios em baterias, software automotivo e inteligência artificial.',
-      'NVDA':'NVIDIA domina o mercado de chips para IA, data centers e jogos, sendo uma das empresas mais valiosas do mundo.',
-      'JPM':'JPMorgan Chase é o maior banco americano por ativos, com atuação em banco de investimento, crédito e gestão de patrimônio.',
-      'V':'Visa opera a maior rede de pagamentos eletrônicos do mundo, processando trilhões de dólares em transações anualmente.',
-      'MA':'Mastercard é uma das maiores redes de pagamento global, conectando consumidores, bancos e comerciantes em mais de 200 países.',
-      'BRK-B':'Berkshire Hathaway é o conglomerado de Warren Buffett, com participações em seguros, ferrovias, energia e ações de grandes empresas.',
-      'LLY':'Eli Lilly é uma das maiores farmacêuticas do mundo, com destaque para medicamentos para diabetes e obesidade (Ozempic/Mounjaro).',
-      'UNH':'UnitedHealth é o maior plano de saúde dos EUA, com operações em seguros, gestão de benefícios e serviços de saúde.',
-      'XOM':'ExxonMobil é uma das maiores petroleiras do mundo, com atuação em exploração, refino e distribuição de combustíveis.',
-      'WMT':'Walmart é o maior varejista do mundo, com mais de 10.000 lojas em 24 países e liderança crescente no e-commerce.',
-    };
-    return usDescs[s.stock] || `Empresa americana listada na ${s.stock.includes('TSM') ? 'NYSE' : 'NASDAQ/NYSE'}${setor ? ', setor de ' + setor.toLowerCase() : ''}.`;
-  }
-  // Ação BR
-  const setorDescs = {
-    'Energia':       'empresa do setor de petróleo, gás e energia, com operações de exploração, produção e/ou distribuição de combustíveis',
-    'Mineração':     'empresa do setor de mineração e siderurgia, com produção de minério de ferro, aço ou outros metais',
-    'Bancos':        'instituição financeira do setor bancário, com serviços de crédito, investimento e soluções financeiras',
-    'Financeiro':    'empresa do setor financeiro, atuando em seguros, pagamentos ou serviços de capital',
-    'Energia Elétrica':'empresa do setor de energia elétrica, com geração, transmissão e/ou distribuição de eletricidade',
-    'Saneamento':    'empresa do setor de saneamento básico, responsável por abastecimento de água e tratamento de esgoto',
-    'Telecom':       'empresa de telecomunicações, oferecendo serviços de telefonia, internet e dados',
-    'Varejo':        'empresa do setor varejista, com lojas físicas e/ou e-commerce voltado ao consumidor final',
-    'Saúde':         'empresa do setor de saúde, com atuação em hospitais, planos de saúde, diagnósticos ou farmácias',
-    'Construção':    'empresa do setor de construção civil, com foco em incorporação e desenvolvimento imobiliário',
-    'Logística':     'empresa do setor de logística e transporte, com operações em rodovias, ferrovias ou navegação',
-    'Tecnologia':    'empresa do setor de tecnologia, com soluções em software, plataformas digitais ou hardware',
-    'Agro':          'empresa do agronegócio, com atuação em produção agrícola, processamento ou distribuição de commodities',
-    'Industrial':    'empresa do setor industrial, com produção de bens de capital, máquinas ou equipamentos',
-  };
-  const descSetor = setorDescs[setor] || 'empresa listada na B3';
-  const nome = s.name && s.name !== s.stock ? s.name : s.stock;
-  return `${nome} é uma ${descSetor}, negociada na Bolsa de Valores do Brasil (B3).`;
 }
 
 function closeDetail() {
@@ -1987,13 +1425,19 @@ function closeDetail() {
 }
 document.addEventListener('keydown', e => { if (e.key === 'Escape') closeDetail(); });
 
-// ===== ANÁLISES =====
-function renderAnalysesData(list) {
-  document.getElementById('analysisCards').innerHTML = list.map(a => {
-    const recLabel = a.rec === 'buy' ? '🟢 Compra' : a.rec === 'sell' ? '🔴 Venda' : '🟡 Neutro';
-    const cardClick = a.url ? `onclick="window.open('${a.url}','_blank')" style="cursor:pointer"` : '';
-    return `
-    <div class="analysis-card" ${cardClick}>
+// ===== ANALYSIS DATA =====
+const ANALYSES = [
+  { source: 'BTG Pactual', date: 'Junho 2026', title: 'Carteira Recomendada de Ações — Junho 2026', summary: 'Top picks: PETR4, ITUB4, WEGE3, VALE3, BBAS3. Setor financeiro deve se beneficiar com queda de juros. Recomendação de aumento em energia e redução em varejo.', tickers: ['PETR4','ITUB4','WEGE3','VALE3','BBAS3'], rec: 'buy' },
+  { source: 'XP Investimentos', date: 'Junho 2026', title: 'Top 10 Ações para Junho — Ibovespa a caminho dos 145k', summary: 'Preferência por empresas com forte geração de caixa e exposição ao ciclo de queda de juros. Destaques: RENT3, LREN3 e ELET3.', tickers: ['RENT3','LREN3','ELET3'], rec: 'buy' },
+  { source: 'BTG Pactual', date: 'Junho 2026', title: 'Carteira de FIIs — Melhores Fundos para o Mês', summary: 'Recomendação de FIIs de tijolo com desconto sobre VP. HGLG11, XPLG11 e VISC11 como principais apostas do mês.', tickers: ['HGLG11','XPLG11','VISC11'], rec: 'buy' },
+  { source: 'Goldman Sachs', date: 'Maio 2026', title: 'Dólar pode cair para R$ 4,70 até o fim do ano', summary: 'Fluxo estrangeiro e política monetária dovish nos EUA devem pressionar moeda americana frente ao real. Carry trade favorece Brasil.', tickers: [], rec: 'hold' },
+  { source: 'BTG Pactual', date: 'Junho 2026', title: 'MGLU3 — Rebaixamento para Venda', summary: 'Reestruturação insuficiente. Margens seguem pressionadas e competição com Mercado Livre e Amazon intensifica. Preço-alvo reduzido para R$ 1,80.', tickers: ['MGLU3'], rec: 'sell' },
+  { source: 'Suno Research', date: 'Junho 2026', title: 'FIIs de Papel vs Tijolo: O que comprar agora?', summary: 'Com a queda da Selic, FIIs de tijolo ganham atratividade relativa. Recomendação de migração gradual de CRIs para galpões e shoppings.', tickers: ['MXRF11','IRDM11','XPML11'], rec: 'buy' },
+];
+
+function renderAnalyses() {
+  document.getElementById('analysisCards').innerHTML = ANALYSES.map(a => `
+    <div class="analysis-card">
       <div class="analysis-header">
         <span class="analysis-source">${a.source}</span>
         <span class="analysis-date">${a.date}</span>
@@ -2001,93 +1445,22 @@ function renderAnalysesData(list) {
       <div class="analysis-title">${a.title}</div>
       <div class="analysis-summary">${a.summary}</div>
       <div style="display:flex;align-items:center;gap:10px;margin-top:12px;flex-wrap:wrap;">
-        <span class="rec-badge ${a.rec}">${recLabel}</span>
-        ${(a.tickers||[]).length ? `<div class="analysis-tickers">${a.tickers.map(t => `<span class="ticker-tag">${t}</span>`).join('')}</div>` : ''}
+        <span class="rec-badge ${a.rec}">${a.rec === 'buy' ? '🟢 Compra' : a.rec === 'sell' ? '🔴 Venda' : '🟡 Neutro'}</span>
+        ${a.tickers.length ? `<div class="analysis-tickers">${a.tickers.map(t => `<span class="ticker-tag">${t}</span>`).join('')}</div>` : ''}
       </div>
-    </div>`;
-  }).join('');
-}
-
-function renderAnalyses() {
-  // fallback hardcoded — substitui-se por analises.json quando disponível
-  renderAnalysesData([
-    { source: 'BTG Pactual', date: 'Junho 2026', title: 'Carteira Recomendada de Ações — Junho 2026', summary: 'Top picks: PETR4, ITUB4, WEGE3, VALE3, BBAS3. Setor financeiro deve se beneficiar com queda de juros.', tickers: ['PETR4','ITUB4','WEGE3','VALE3','BBAS3'], rec: 'buy', url: '' },
-    { source: 'XP Investimentos', date: 'Junho 2026', title: 'Top 10 Ações para Junho — Ibovespa a caminho dos 145k', summary: 'Preferência por empresas com forte geração de caixa. Destaques: RENT3, LREN3 e ELET3.', tickers: ['RENT3','LREN3','ELET3'], rec: 'buy', url: '' },
-    { source: 'BTG Pactual', date: 'Junho 2026', title: 'Carteira de FIIs — Melhores Fundos para o Mês', summary: 'Recomendação de FIIs de tijolo com desconto sobre VP. HGLG11, XPLG11 e VISC11 como apostas.', tickers: ['HGLG11','XPLG11','VISC11'], rec: 'buy', url: '' },
-    { source: 'Goldman Sachs', date: 'Maio 2026', title: 'Dólar pode cair para R$ 4,70 até o fim do ano', summary: 'Fluxo estrangeiro e política monetária dovish nos EUA devem pressionar moeda americana.', tickers: [], rec: 'hold', url: '' },
-    { source: 'Suno Research', date: 'Junho 2026', title: 'FIIs de Papel vs Tijolo: O que comprar agora?', summary: 'Com queda da Selic, FIIs de tijolo ganham atratividade. Migração gradual de CRIs para galpões e shoppings.', tickers: ['MXRF11','IRDM11','XPML11'], rec: 'buy', url: '' },
-  ]);
-}
-
-function renderAnalysesDynamic(data) {
-  renderAnalysesData(data);
-}
-
-// ===== TICKER BAR com dados do dadosJson + fallback BrAPI =====
-function loadTickerDataFromJson() {
-  if (!dadosJson) return false;
-  const tickerList = ['PETR4','VALE3','ITUB4','BBDC4','WEGE3','BBAS3','ABEV3','SUZB3'];
-  const track = document.getElementById('tickerTrack');
-  const items = [];
-
-  // Índices
-  if (dadosJson.indices) {
-    Object.values(dadosJson.indices).forEach(idx => items.push({ symbol: idx.stock, price: idx.close, change: idx.change }));
-  }
-  // Dólar
-  if (dadosJson.dolar && dadosJson.dolar.close) {
-    items.push({ symbol: 'USD/BRL', price: dadosJson.dolar.close, change: dadosJson.dolar.change });
-  }
-  // Ações
-  if (dadosJson.stocks) {
-    tickerList.forEach(t => {
-      const s = dadosJson.stocks[t];
-      if (s) items.push({ symbol: s.stock, price: s.close, change: s.change });
-    });
-  }
-
-  if (!items.length) return false;
-
-  let html = '';
-  for (let rep = 0; rep < 2; rep++) {
-    items.forEach(s => {
-      const up = (s.change || 0) >= 0;
-      const priceStr = s.price > 1000
-        ? s.price.toLocaleString('pt-BR', { maximumFractionDigits: 0 })
-        : s.price?.toFixed(2);
-      html += `<div class="ticker-item">
-        <span class="ticker-symbol">${s.symbol}</span>
-        <span class="ticker-price">${priceStr}</span>
-        <span class="ticker-change ${up ? 'up' : 'down'}">${up ? '↗' : '↘'}${up ? '+' : ''}${s.change?.toFixed(2)}%</span>
-      </div><div class="ticker-divider"></div>`;
-    });
-  }
-  if (html) track.innerHTML = html;
-  return true;
+    </div>`).join('');
 }
 
 // ===== INIT =====
 async function init() {
+  renderNews();
+  renderAnalyses();
   updateTableHeaders();
 
-  // 1. Notícias e análises dinâmicas (carrega do JSON gerado pelo Python)
-  loadNoticias();
-  loadAnalises();
-
-  // 2. Ticker bar: BrAPI sempre em tempo real (atualiza a cada 2 min)
-  const brapiOk = await loadBrapiList();
-  if (brapiOk) loadTickerData();
-
-  // 3. Tabelas: dadosJson (Yahoo Finance, atualizado pelo GitHub Actions)
-  const dadosOk = await loadDadosJson();
-  if (!dadosOk && brapiOk) {
-    // fallback: se dados.json não existir ainda, usa BrAPI nas tabelas
-    loadBRStocks();
-    loadFIIs();
-    loadETFs();
-    loadUSStocks();
-    loadCrypto();
-  } else if (dadosOk) {
+  // Load all data from single BrAPI call
+  const ok = await loadBrapiList();
+  if (ok) {
+    loadTickerData();
     loadBRStocks();
     loadFIIs();
     loadETFs();
@@ -2095,25 +1468,21 @@ async function init() {
     loadCrypto();
   }
 
-  // 4. Ticker bar: atualiza a cada 2 minutos via BrAPI (tempo real durante o pregão)
+  // Refresh every 2 minutes
   setInterval(async () => {
     const ok = await loadBrapiList();
-    if (ok) loadTickerData();
+    if (ok) {
+      loadTickerData();
+      loadBRStocks();
+      loadFIIs();
+      loadETFs();
+      loadUSStocks();
+      loadCrypto();
+    }
   }, 120000);
-
-  // 5. Tabelas: recarrega dadosJson a cada 15 minutos (sincronizado com o GitHub Actions)
-  setInterval(async () => {
-    await loadDadosJson();
-    loadBRStocks();
-    loadFIIs();
-    loadETFs();
-    loadUSStocks();
-    loadCrypto();
-  }, 900000);
 }
 
 // ===== LOGIN GATE =====
-// Para forçar re-login de todos os usuários, incremente este número
 const LOGIN_VERSION = 1;
 const SHEETS_URL = 'https://script.google.com/macros/s/AKfycbwrzREM1n8exDkGWLrnxAZJds3p7JccVyPS_nrO-UbMuWMYwh-d2sIt5bj4TtF6if8/exec';
 const GATED_PAGES = ['acoes','fiis','etfs','internacional','cripto','analises'];
@@ -2141,29 +1510,19 @@ function closeLoginGate() {
   setTimeout(() => { gate.style.display = 'none'; gate.classList.remove('closing'); }, 400);
 }
 
-function setFieldError(inputId, hasError) {
-  const field = document.getElementById(inputId).closest('.login-field');
-  if (hasError) field.classList.add('has-error');
-  else field.classList.remove('has-error');
-}
-
 async function handleLogin(e) {
   e.preventDefault();
-  const name  = document.getElementById('loginName').value.trim();
+  const btn = document.getElementById('loginBtn');
+  const errEl = document.getElementById('loginError');
+  const name = document.getElementById('loginName').value.trim();
   const email = document.getElementById('loginEmail').value.trim();
   const phone = document.getElementById('loginPhone').value.trim();
 
-  const nameErr  = !name;
-  const emailErr = !email || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
-  const phoneErr = !phone;
-  setFieldError('loginName',  nameErr);
-  setFieldError('loginEmail', emailErr);
-  setFieldError('loginPhone', phoneErr);
-  if (nameErr || emailErr || phoneErr) return false;
+  if (!name || !email) return;
 
-  const btn = document.getElementById('loginBtn');
   btn.disabled = true;
   btn.textContent = 'Entrando...';
+  errEl.style.display = 'none';
 
   try {
     await fetch(SHEETS_URL, {
@@ -2176,7 +1535,7 @@ async function handleLogin(e) {
     console.warn('Sheets error (non-blocking):', err);
   }
 
-  localStorage.setItem('convexanews_login', JSON.stringify({ name, email, phone, version: LOGIN_VERSION, ts: Date.now() }));
+  localStorage.setItem('convexanews_login', JSON.stringify({ name, email, version: LOGIN_VERSION, ts: Date.now() }));
   btn.textContent = '✓ Bem-vindo!';
 
   setTimeout(() => {
@@ -2191,7 +1550,6 @@ async function handleLogin(e) {
 
 function updateAccessBtn() {
   const btn = document.querySelector('.access-btn');
-  if (!btn) return;
   if (isLoggedIn()) {
     const data = JSON.parse(localStorage.getItem('convexanews_login'));
     const firstName = data.name.split(' ')[0];
@@ -2201,7 +1559,7 @@ function updateAccessBtn() {
   }
 }
 
-// Override switchPage para exigir login nas páginas protegidas
+// Override switchPage to gate protected pages
 const _originalSwitchPage = switchPage;
 function switchPageGated(page) {
   if (GATED_PAGES.includes(page) && !isLoggedIn()) {
@@ -2210,17 +1568,9 @@ function switchPageGated(page) {
   }
   _originalSwitchPage(page);
 }
-
-// Abre o login no primeiro clique em qualquer parte da tela (se não estiver logado)
-document.addEventListener('click', function(e) {
-  if (!isLoggedIn() && !document.getElementById('loginGate').contains(e.target)) {
-    e.stopPropagation();
-    e.preventDefault();
-    requireLogin();
-  }
-}, true);
-
+// Check login on load
 updateAccessBtn();
+
 init();
 </script>
 </body>
