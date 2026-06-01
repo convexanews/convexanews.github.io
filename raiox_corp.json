@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/06/2026 03:23",
+  "atualizado_em": "01/06/2026 03:32",
   "fonte": "Yahoo Finance (Balanços CVM)",
   "total": 50,
   "empresas": [
@@ -57,26 +57,7 @@
       "fcf": 224799000.0,
       "patrimonio_liquido": 2467887000.0,
       "market_cap": 2045368733.439065,
-      "score": 25,
-      "situacao": "vermelho"
-    },
-    {
-      "ticker": "MRVE3",
-      "nome": "MRV",
-      "setor": "Construção",
-      "div_ebitda": null,
-      "liq_corrente": 2.03,
-      "cob_juros": -0.36,
-      "margem_ebitda": 0.2,
-      "roe": -19.6,
-      "endividamento": 1.61,
-      "divida_liquida": 8346143000.0,
-      "caixa": 255863000.0,
-      "ebitda": 27014000.0,
-      "fcf": 241967000.0,
-      "patrimonio_liquido": 5327812000.0,
-      "market_cap": 3292581320.8739266,
-      "score": 35,
+      "score": 37,
       "situacao": "vermelho"
     },
     {
@@ -153,6 +134,25 @@
       "patrimonio_liquido": 25751539000.0,
       "market_cap": 48508989887.51309,
       "score": 45,
+      "situacao": "amarelo"
+    },
+    {
+      "ticker": "MRVE3",
+      "nome": "MRV",
+      "setor": "Construção",
+      "div_ebitda": null,
+      "liq_corrente": 2.03,
+      "cob_juros": -0.36,
+      "margem_ebitda": 0.2,
+      "roe": -19.6,
+      "endividamento": 1.61,
+      "divida_liquida": 8346143000.0,
+      "caixa": 255863000.0,
+      "ebitda": 27014000.0,
+      "fcf": 241967000.0,
+      "patrimonio_liquido": 5327812000.0,
+      "market_cap": 3292581320.8739266,
+      "score": 47,
       "situacao": "amarelo"
     },
     {
