@@ -339,6 +339,19 @@ def main():
         'empresas': resultados,
     }
 
+    # Limpar NaN/Infinity que quebram JSON no browser
+    import math
+    def limpar_nan(obj):
+        if isinstance(obj, dict):
+            return {k: limpar_nan(v) for k, v in obj.items()}
+        if isinstance(obj, list):
+            return [limpar_nan(v) for v in obj]
+        if isinstance(obj, float) and (math.isnan(obj) or math.isinf(obj)):
+            return None
+        return obj
+
+    dados = limpar_nan(dados)
+
     with open('raiox_corp.json', 'w', encoding='utf-8') as f:
         json.dump(dados, f, ensure_ascii=False, indent=2)
 
