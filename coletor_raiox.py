@@ -38,44 +38,50 @@ def load_ratings():
 
 RATINGS = load_ratings()
 
-# Bancos que queremos (filtro por nome parcial)
-BANCOS_ALVO = {
-    'ITAU': {'nome_display': 'Itaú Unibanco', 'tipo_display': 'Banco Múltiplo'},
-    'BRADESCO': {'nome_display': 'Bradesco', 'tipo_display': 'Banco Múltiplo'},
-    'BB': {'nome_display': 'Banco do Brasil', 'tipo_display': 'Banco Público', 'exact': True},
-    'SANTANDER': {'nome_display': 'Santander Brasil', 'tipo_display': 'Banco Múltiplo'},
-    'CAIXA ECON': {'nome_display': 'Caixa Econômica', 'tipo_display': 'Banco Público'},
-    'BTG PACTUAL': {'nome_display': 'BTG Pactual', 'tipo_display': 'Banco de Investimento'},
-    'SAFRA': {'nome_display': 'Safra', 'tipo_display': 'Banco Múltiplo'},
-    'VOTORANTIM': {'nome_display': 'Votorantim', 'tipo_display': 'Banco Múltiplo'},
-    'DAYCOVAL': {'nome_display': 'Daycoval', 'tipo_display': 'Banco Múltiplo'},
-    'NU PAGAM': {'nome_display': 'Nubank', 'tipo_display': 'Banco Digital'},
-    'INTER': {'nome_display': 'Inter', 'tipo_display': 'Banco Digital', 'exclude': ['INTERCAM', 'INTERNATIONAL', 'INTESA']},
-    'BANCO C6': {'nome_display': 'C6 Bank', 'tipo_display': 'Banco Digital'},
-    'PICPAY': {'nome_display': 'PicPay', 'tipo_display': 'Banco Digital'},
-    'ORIGINAL': {'nome_display': 'Original', 'tipo_display': 'Banco Digital'},
-    'NEON': {'nome_display': 'Neon', 'tipo_display': 'Banco Digital'},
-    'PAGSEGURO': {'nome_display': 'PagBank (PagSeguro)', 'tipo_display': 'Banco Digital'},
-    'AGIBANK': {'nome_display': 'Agibank', 'tipo_display': 'Banco Digital'},
-    'MASTER': {'nome_display': 'Banco Master', 'tipo_display': 'Banco Múltiplo'},
-    'BANRISUL': {'nome_display': 'Banrisul', 'tipo_display': 'Banco Público'},
-    'BRB': {'nome_display': 'BRB', 'tipo_display': 'Banco Público', 'exact': True},
-    'BANESTES': {'nome_display': 'Banestes', 'tipo_display': 'Banco Público'},
-    'BANESE': {'nome_display': 'Banese', 'tipo_display': 'Banco Público'},
-    'BMG': {'nome_display': 'BMG', 'tipo_display': 'Banco Múltiplo'},
-    'PINE': {'nome_display': 'Pine', 'tipo_display': 'Banco Comercial'},
-    'SOFISA': {'nome_display': 'Sofisa', 'tipo_display': 'Banco Múltiplo'},
-    'MERCANTIL DO BRASIL': {'nome_display': 'Mercantil do Brasil', 'tipo_display': 'Banco Múltiplo'},
-    'ABC-BRASIL': {'nome_display': 'ABC Brasil', 'tipo_display': 'Banco Múltiplo'},
-    'MODAL': {'nome_display': 'Modal', 'tipo_display': 'Banco de Investimento'},
-    'RODOBENS': {'nome_display': 'Rodobens', 'tipo_display': 'Banco Múltiplo'},
-    'BS2': {'nome_display': 'BS2', 'tipo_display': 'Banco Digital'},
-    'BCO DO NORDESTE': {'nome_display': 'Banco do Nordeste', 'tipo_display': 'Banco Público'},
-    'BCO DA AMAZONIA': {'nome_display': 'Banco da Amazônia', 'tipo_display': 'Banco Público'},
-    'BANPAR': {'nome_display': 'Banpará', 'tipo_display': 'Banco Público'},
-    'BCO COOPERATIVO SICREDI': {'nome_display': 'Sicredi', 'tipo_display': 'Cooperativa'},
-    'BANCO SICOOB': {'nome_display': 'Sicoob', 'tipo_display': 'Cooperativa'},
-    'PAN': {'nome_display': 'Pan', 'tipo_display': 'Banco Múltiplo', 'exclude': ['JAPAN', 'PANAMER']},
+# Bancos por ID fixo no cadastro 1009 (Conglomerado Prudencial)
+# IDs verificados no BCB IF.data período 202512
+# IDs podem mudar entre períodos — usar busca por nome como principal
+BANCOS_ALVO_IDS = {}
+
+# Bancos por nome (match parcial no nome do BCB) — para os que não temos ID fixo
+BANCOS_ALVO_NOME = {
+    # Grandes bancos
+    'ITAU': {'nome': 'Itaú Unibanco', 'tipo': 'Banco Múltiplo', 'exclude': ['ITAU CORPBANCA','ITAU COLOMBIA']},
+    'BRADESCO': {'nome': 'Bradesco', 'tipo': 'Banco Múltiplo'},
+    'BB': {'nome': 'Banco do Brasil', 'tipo': 'Banco Público', 'exact': True},
+    'SANTANDER': {'nome': 'Santander Brasil', 'tipo': 'Banco Múltiplo', 'exclude': ['CONSUMER']},
+    'CAIXA ECON': {'nome': 'Caixa Econômica', 'tipo': 'Banco Público'},
+    'BTG PACTUAL': {'nome': 'BTG Pactual', 'tipo': 'Banco de Investimento'},
+    'SAFRA': {'nome': 'Safra', 'tipo': 'Banco Múltiplo', 'exclude': ['GERAL']},
+    'VOTORANTIM': {'nome': 'Votorantim', 'tipo': 'Banco Múltiplo', 'exact': True},
+    'DAYCOVAL': {'nome': 'Daycoval', 'tipo': 'Banco Múltiplo'},
+    'BANRISUL': {'nome': 'Banrisul', 'tipo': 'Banco Público', 'exclude': ['COOPERATIVA']},
+    'MERCANTIL DO BRASIL': {'nome': 'Mercantil do Brasil', 'tipo': 'Banco Múltiplo'},
+    'ABC-BRASIL': {'nome': 'ABC Brasil', 'tipo': 'Banco Múltiplo'},
+    'BRB': {'nome': 'BRB', 'tipo': 'Banco Público', 'exact': True},
+    # Digitais
+    'NU PAGAM': {'nome': 'Nubank', 'tipo': 'Banco Digital'},
+    'INTER': {'nome': 'Inter', 'tipo': 'Banco Digital', 'exclude': ['INTERCAM', 'INTERNATIONAL', 'INTESA', 'INTERESTADOS']},
+    'BANCO C6': {'nome': 'C6 Bank', 'tipo': 'Banco Digital'},
+    'PICPAY': {'nome': 'PicPay', 'tipo': 'Banco Digital'},
+    'ORIGINAL': {'nome': 'Original', 'tipo': 'Banco Digital'},
+    'NEON': {'nome': 'Neon', 'tipo': 'Banco Digital'},
+    'PAGSEGURO': {'nome': 'PagBank (PagSeguro)', 'tipo': 'Banco Digital'},
+    'AGIBANK': {'nome': 'Agibank', 'tipo': 'Banco Digital'},
+    'MASTER': {'nome': 'Banco Master', 'tipo': 'Banco Múltiplo'},
+    # Públicos
+    'BANESTES': {'nome': 'Banestes', 'tipo': 'Banco Público'},
+    'BMG': {'nome': 'BMG', 'tipo': 'Banco Múltiplo'},
+    'PINE': {'nome': 'Pine', 'tipo': 'Banco Comercial'},
+    'SOFISA': {'nome': 'Sofisa', 'tipo': 'Banco Múltiplo'},
+    'RODOBENS': {'nome': 'Rodobens', 'tipo': 'Banco Múltiplo'},
+    'BS2': {'nome': 'BS2', 'tipo': 'Banco Digital'},
+    'BCO DO NORDESTE': {'nome': 'Banco do Nordeste', 'tipo': 'Banco Público'},
+    'BCO DA AMAZONIA': {'nome': 'Banco da Amazônia', 'tipo': 'Banco Público'},
+    'BANCO PAN': {'nome': 'Pan', 'tipo': 'Banco Múltiplo'},
+    # Cooperativas
+    'BCO COOPERATIVO SICREDI': {'nome': 'Sicredi', 'tipo': 'Cooperativa'},
+    'BANCO SICOOB': {'nome': 'Sicoob', 'tipo': 'Cooperativa'},
 }
 
 
@@ -84,8 +90,11 @@ def match_banco(nome_bcb, keyword, config):
     nome_up = nome_bcb.upper().strip()
     kw_up = keyword.upper().strip()
 
-    # Match exato: nome deve ser exatamente o keyword
-    if config.get('exact'):
+    # Match exato no início (ex: "BB -" deve ser o início do nome)
+    if config.get('exact_start'):
+        if not nome_up.startswith(kw_up):
+            return False
+    elif config.get('exact'):
         if nome_up != kw_up:
             return False
     else:
@@ -195,13 +204,11 @@ def main():
             elif ind == IND_PL and val:
                 bancos_raw[e]['pl'] = val * 1000  # R$ mil -> R$
 
-    # 4. Mapear para bancos alvo (iterar por alvo, buscar nos dados)
-    print(f"  Processando {len(BANCOS_ALVO)} bancos...\n")
+    # 4. Mapear por nome
+    print(f"  Processando {len(BANCOS_ALVO_NOME)} bancos...\n")
     resultados = []
-    matched = set()
 
-    for keyword, config in BANCOS_ALVO.items():
-        # Procurar este banco nos dados do BCB
+    for keyword, config in BANCOS_ALVO_NOME.items():
         found = False
         for e, d in bancos_raw.items():
             nome_bcb = d.get('nome_bcb', '')
@@ -213,14 +220,12 @@ def main():
                 pl = d.get('pl', 0)
                 score = calc_score(bas, imob)
                 situacao = get_semaforo(bas)
-
-                # Rating de crédito
-                rating_data = RATINGS.get(config['nome_display'], {})
+                rating_data = RATINGS.get(config['nome'], {})
 
                 banco = {
-                    'nome': config['nome_display'],
+                    'nome': config['nome'],
                     'nome_bcb': nome_bcb,
-                    'tipo': config['tipo_display'],
+                    'tipo': config['tipo'],
                     'basileia': bas,
                     'imobilizacao': imob,
                     'patrimonio_liquido': pl,
@@ -230,17 +235,15 @@ def main():
                     'rating_fitch': rating_data.get('fitch', ''),
                     'rating_sp': rating_data.get('sp', ''),
                     'rating_perspectiva': rating_data.get('perspectiva', ''),
-                    'rating_fonte': rating_data.get('fonte', rating_data.get('agencia_ref', '')),
+                    'rating_fonte': rating_data.get('fonte', ''),
                 }
                 resultados.append(banco)
-                matched.add(keyword)
                 found = True
-
                 sit_emoji = {'verde': '🟢', 'amarelo': '🟡', 'vermelho': '🔴'}[situacao]
-                print(f"  {sit_emoji} {config['nome_display']:<25} Bas={bas:>6.2f}%  Imob={imob:>6.2f}%  Score={score}")
+                print(f"  {sit_emoji} {config['nome']:<25} Bas={bas:>6.2f}%  Imob={imob:>6.2f}%  Score={score}")
                 break
         if not found:
-            print(f"  ⚠️  {config['nome_display']:<25} NÃO ENCONTRADO")
+            print(f"  ⚠️  {config['nome']:<25} NÃO ENCONTRADO")
 
     # Ordenar por score
     resultados.sort(key=lambda x: x['score'], reverse=True)
@@ -273,9 +276,11 @@ def main():
     print(f"\n  raiox.json salvo — {len(resultados)} bancos")
     print(f"  Saudável: {verdes} | Atenção: {amarelos} | Risco: {vermelhos}")
 
-    not_found = set(BANCOS_ALVO.keys()) - matched
+    all_names = {c['nome'] for c in BANCOS_ALVO_IDS.values()} | {c['nome'] for c in BANCOS_ALVO_NOME.values()}
+    found_names = {b['nome'] for b in resultados}
+    not_found = all_names - found_names
     if not_found:
-        print(f"\n  ⚠️  Não encontrados no BCB: {', '.join(BANCOS_ALVO[k]['nome_display'] for k in not_found)}")
+        print(f"\n  ⚠️  Não encontrados no BCB: {', '.join(not_found)}")
 
     print("\n  Concluído!")
 

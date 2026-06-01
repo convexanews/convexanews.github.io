@@ -2,23 +2,8 @@
   "atualizado_em": "12/2025 (IF.data BCB)",
   "fonte": "Banco Central do Brasil — IF.data",
   "periodo": "202512",
-  "total": 31,
+  "total": 30,
   "bancos": [
-    {
-      "nome": "Votorantim",
-      "nome_bcb": "COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DOS SERVIDORES DA PREFEITURA MUNICIPAL DE VOTORANTIM",
-      "tipo": "Banco Múltiplo",
-      "basileia": 112.43,
-      "imobilizacao": 0.5,
-      "patrimonio_liquido": 0,
-      "score": 100,
-      "situacao": "verde",
-      "rating_moodys": "Ba1",
-      "rating_fitch": "",
-      "rating_sp": "",
-      "rating_perspectiva": "Estável",
-      "rating_fonte": "Moody's (Out/2025)"
-    },
     {
       "nome": "Inter",
       "nome_bcb": "COOPERATIVA DE CREDITO E INVESTIMENTO COM INTERACAO SOLIDARIA PIONEIRA - CRESOL PIONEIRA",
@@ -28,11 +13,11 @@
       "patrimonio_liquido": 0,
       "score": 100,
       "situacao": "verde",
-      "rating_moodys": "AA+.br",
+      "rating_moodys": "a",
       "rating_fitch": "",
-      "rating_sp": "AA+ Nacional",
-      "rating_perspectiva": "Positiva",
-      "rating_fonte": "Moody's Local + S&P Nacional (investors.inter.co)"
+      "rating_sp": "a",
+      "rating_perspectiva": "Estável",
+      "rating_fonte": "RI oficial (investors.inter.co)"
     },
     {
       "nome": "Original",
@@ -65,21 +50,6 @@
       "rating_fonte": ""
     },
     {
-      "nome": "Banrisul",
-      "nome_bcb": "COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DOS EMPREGADOS DO BANRISUL",
-      "tipo": "Banco Público",
-      "basileia": 59.79,
-      "imobilizacao": 0.75,
-      "patrimonio_liquido": 0,
-      "score": 100,
-      "situacao": "verde",
-      "rating_moodys": "Ba3",
-      "rating_fitch": "BB-",
-      "rating_sp": "BB-",
-      "rating_perspectiva": "Positiva/Estável",
-      "rating_fonte": "RI Banrisul (Moody's Ba3/Pos, Fitch BB-/Est, S&P BB-/Est)"
-    },
-    {
       "nome": "Sicredi",
       "nome_bcb": "BCO COOPERATIVO SICREDI",
       "tipo": "Cooperativa",
@@ -91,23 +61,8 @@
       "rating_moodys": "Ba1",
       "rating_fitch": "",
       "rating_sp": "",
-      "rating_perspectiva": "Positiva",
+      "rating_perspectiva": "Estável",
       "rating_fonte": "Moody's (Out/2025)"
-    },
-    {
-      "nome": "Pan",
-      "nome_bcb": "COOPERATIVA DE CRÉDITO, POUPANÇA E SERVIÇOS FINANCEIROS DE AGRICULTORES E AEROPORTUÁRIOS DO BRASIL - CREHNOR",
-      "tipo": "Banco Múltiplo",
-      "basileia": 36.59,
-      "imobilizacao": 7.58,
-      "patrimonio_liquido": 0,
-      "score": 100,
-      "situacao": "verde",
-      "rating_moodys": "",
-      "rating_fitch": "",
-      "rating_sp": "",
-      "rating_perspectiva": "",
-      "rating_fonte": ""
     },
     {
       "nome": "Caixa Econômica",
@@ -140,6 +95,51 @@
       "rating_fonte": "Moody's (Out/2025)"
     },
     {
+      "nome": "Votorantim",
+      "nome_bcb": "VOTORANTIM",
+      "tipo": "Banco Múltiplo",
+      "basileia": 16.7,
+      "imobilizacao": 4.87,
+      "patrimonio_liquido": 11417797320.0,
+      "score": 90,
+      "situacao": "verde",
+      "rating_moodys": "Ba1",
+      "rating_fitch": "",
+      "rating_sp": "",
+      "rating_perspectiva": "Estável",
+      "rating_fonte": "Moody's (Out/2025)"
+    },
+    {
+      "nome": "Banrisul",
+      "nome_bcb": "BANRISUL",
+      "tipo": "Banco Público",
+      "basileia": 19.54,
+      "imobilizacao": 10.2,
+      "patrimonio_liquido": 4479633560.0,
+      "score": 90,
+      "situacao": "verde",
+      "rating_moodys": "Ba3",
+      "rating_fitch": "BB-",
+      "rating_sp": "b",
+      "rating_perspectiva": "Estável",
+      "rating_fonte": "RI oficial (ri.banrisul.com.br)"
+    },
+    {
+      "nome": "ABC Brasil",
+      "nome_bcb": "ABC-BRASIL",
+      "tipo": "Banco Múltiplo",
+      "basileia": 16.28,
+      "imobilizacao": 0.49,
+      "patrimonio_liquido": 0,
+      "score": 90,
+      "situacao": "verde",
+      "rating_moodys": "Ba1",
+      "rating_fitch": "",
+      "rating_sp": "",
+      "rating_perspectiva": "Estável",
+      "rating_fonte": "Moody's (Out/2025)"
+    },
+    {
       "nome": "Nubank",
       "nome_bcb": "NU PAGAMENTOS",
       "tipo": "Banco Digital",
@@ -148,11 +148,11 @@
       "patrimonio_liquido": 0,
       "score": 90,
       "situacao": "verde",
-      "rating_moodys": "Ba1",
+      "rating_moodys": "",
       "rating_fitch": "",
-      "rating_sp": "BB",
-      "rating_perspectiva": "Estável",
-      "rating_fonte": "Moody's Ba1 + S&P BB (investidores.nu)"
+      "rating_sp": "",
+      "rating_perspectiva": "",
+      "rating_fonte": ""
     },
     {
       "nome": "Sofisa",
@@ -168,21 +168,6 @@
       "rating_sp": "",
       "rating_perspectiva": "",
       "rating_fonte": ""
-    },
-    {
-      "nome": "ABC Brasil",
-      "nome_bcb": "ABC-BRASIL",
-      "tipo": "Banco Múltiplo",
-      "basileia": 16.28,
-      "imobilizacao": 0.49,
-      "patrimonio_liquido": 0,
-      "score": 90,
-      "situacao": "verde",
-      "rating_moodys": "Ba1",
-      "rating_fitch": "",
-      "rating_sp": "",
-      "rating_perspectiva": "Positiva",
-      "rating_fonte": "Moody's (Out/2025)"
     },
     {
       "nome": "Sicoob",
@@ -212,7 +197,7 @@
       "rating_fitch": "BB+",
       "rating_sp": "",
       "rating_perspectiva": "Estável",
-      "rating_fonte": "Moody's (Jun/2025), Fitch (Dez/2025)"
+      "rating_fonte": "Moody's (Out/2025)"
     },
     {
       "nome": "Banco do Brasil",
@@ -223,11 +208,11 @@
       "patrimonio_liquido": 119701064540.0,
       "score": 80,
       "situacao": "verde",
-      "rating_moodys": "Ba1",
-      "rating_fitch": "BB",
-      "rating_sp": "BB",
-      "rating_perspectiva": "Estável",
-      "rating_fonte": "Fonte: RI Banco do Brasil (Mar/2026)"
+      "rating_moodys": "Ba2",
+      "rating_fitch": "BB-",
+      "rating_sp": "BB-",
+      "rating_perspectiva": "",
+      "rating_fonte": "RI oficial (ri.bb.com.br)"
     },
     {
       "nome": "Santander Brasil",
@@ -286,7 +271,7 @@
       "rating_moodys": "Ba1",
       "rating_fitch": "",
       "rating_sp": "",
-      "rating_perspectiva": "Positiva",
+      "rating_perspectiva": "Estável",
       "rating_fonte": "Moody's (Out/2025)"
     },
     {
@@ -301,7 +286,7 @@
       "rating_moodys": "Ba1",
       "rating_fitch": "",
       "rating_sp": "",
-      "rating_perspectiva": "Positiva",
+      "rating_perspectiva": "Estável",
       "rating_fonte": "Moody's (Out/2025)"
     },
     {
@@ -317,7 +302,7 @@
       "rating_fitch": "BB+",
       "rating_sp": "",
       "rating_perspectiva": "Estável",
-      "rating_fonte": "Fitch (Dez/2025), Moody's"
+      "rating_fonte": "Moody's (Out/2025)"
     },
     {
       "nome": "Daycoval",
@@ -331,15 +316,15 @@
       "rating_moodys": "Ba1",
       "rating_fitch": "",
       "rating_sp": "",
-      "rating_perspectiva": "Positiva",
+      "rating_perspectiva": "Estável",
       "rating_fonte": "Moody's (Out/2025)"
     },
     {
-      "nome": "C6 Bank",
-      "nome_bcb": "BANCO C6",
-      "tipo": "Banco Digital",
-      "basileia": 13.12,
-      "imobilizacao": 13.7,
+      "nome": "Mercantil do Brasil",
+      "nome_bcb": "MERCANTIL DO BRASIL",
+      "tipo": "Banco Múltiplo",
+      "basileia": 13.53,
+      "imobilizacao": 19.32,
       "patrimonio_liquido": 0,
       "score": 70,
       "situacao": "verde",
@@ -350,11 +335,11 @@
       "rating_fonte": ""
     },
     {
-      "nome": "Mercantil do Brasil",
-      "nome_bcb": "MERCANTIL DO BRASIL",
-      "tipo": "Banco Múltiplo",
-      "basileia": 13.53,
-      "imobilizacao": 19.32,
+      "nome": "C6 Bank",
+      "nome_bcb": "BANCO C6",
+      "tipo": "Banco Digital",
+      "basileia": 13.12,
+      "imobilizacao": 13.7,
       "patrimonio_liquido": 0,
       "score": 70,
       "situacao": "verde",
@@ -407,7 +392,7 @@
       "rating_fitch": "BB+",
       "rating_sp": "",
       "rating_perspectiva": "Positiva",
-      "rating_fonte": "Moody's (Out/2025), Fitch (Mar/2026)"
+      "rating_fonte": "Moody's (Out/2025)"
     },
     {
       "nome": "Banestes",
@@ -437,7 +422,7 @@
       "rating_fitch": "B+",
       "rating_sp": "",
       "rating_perspectiva": "Estável",
-      "rating_fonte": "Fitch (B+ Estável)"
+      "rating_fonte": "Fitch (Fitch)"
     },
     {
       "nome": "Agibank",
