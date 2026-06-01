@@ -1024,6 +1024,26 @@
     line-height: 1.4;
   }
   .nav-raiox.active { background: rgba(220,38,38,0.08) !important; }
+  .nav-raiox-corp {
+    font-weight: 700 !important;
+    color: #7c3aed !important;
+    position: relative;
+  }
+  .nav-raiox-corp::before {
+    content: 'NOVO';
+    position: absolute;
+    top: -2px;
+    right: -4px;
+    font-size: 8px;
+    font-weight: 800;
+    background: #7c3aed;
+    color: #fff;
+    padding: 1px 5px;
+    border-radius: 4px;
+    letter-spacing: 0.5px;
+    line-height: 1.4;
+  }
+  .nav-raiox-corp.active { background: rgba(124,58,237,0.08) !important; }
 
   /* ===== BANNER PROMO (ticker bar) ===== */
   .promo-banner {
@@ -1369,6 +1389,7 @@
       <button class="nav-item" data-page="cripto">Cripto</button>
       <button class="nav-item" data-page="analises">Análises</button>
       <button class="nav-item nav-raiox" data-page="raiox">Raio-X Bancário</button>
+      <button class="nav-item nav-raiox-corp" data-page="raiox-corp">Raio-X Corporativo</button>
     </nav>
     <div class="header-right">
       <button class="search-btn" title="Buscar">
@@ -1390,6 +1411,7 @@
     <button class="mobile-nav-item" data-page="cripto">Cripto</button>
     <button class="mobile-nav-item" data-page="analises">Análises</button>
     <button class="mobile-nav-item nav-raiox" data-page="raiox">Raio-X Bancário</button>
+    <button class="mobile-nav-item nav-raiox-corp" data-page="raiox-corp">Raio-X Corp.</button>
   </div>
 </div>
 
@@ -1624,6 +1646,50 @@
       </table>
     </div>
     <div class="raiox-atualizado" id="raiox-atualizado"></div>
+  </div>
+</section>
+
+<!-- ===== PAGE: RAIO-X CORPORATIVO ===== -->
+<section class="page-section" id="page-raiox-corp">
+  <div class="raiox-page">
+    <div class="raiox-hero" style="background: linear-gradient(135deg, #1e1b4b 0%, #312e81 50%, #4338ca 100%);">
+      <div class="raiox-hero-badge" style="color:#a78bfa;">
+        <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 12l2-2 4 4 4-6 3 3"/><rect x="1" y="1" width="14" height="14" rx="2"/></svg>
+        Balanços oficiais — CVM / Yahoo Finance
+      </div>
+      <h1>Raio-X Corporativo</h1>
+      <p>Análise de saúde financeira das empresas listadas na B3. Antes de comprar uma ação, debênture, CRI ou CRA — veja se a empresa tem caixa para pagar suas dívidas.</p>
+    </div>
+
+    <div class="raiox-legenda">
+      <div class="raiox-legenda-item"><div class="semaforo-dot verde"></div> Saudável — Score acima de 65</div>
+      <div class="raiox-legenda-item"><div class="semaforo-dot amarelo"></div> Atenção — Score 40 a 65</div>
+      <div class="raiox-legenda-item"><div class="semaforo-dot vermelho"></div> Risco — Score abaixo de 40</div>
+    </div>
+
+    <div class="raiox-toolbar">
+      <input class="raiox-search" type="text" id="corp-search" placeholder="Buscar empresa por nome, ticker ou setor..." oninput="filterCorp()">
+      <span class="raiox-count" id="corp-count"></span>
+    </div>
+
+    <div class="raiox-table-wrap">
+      <table class="raiox-table">
+        <thead>
+          <tr>
+            <th style="text-align:left;cursor:pointer;" onclick="sortCorp('nome')">Empresa <span class="th-corp-arrow" data-col="nome">▼</span></th>
+            <th style="cursor:pointer;" onclick="sortCorp('div_ebitda')">Dív/EBITDA <span class="th-corp-arrow" data-col="div_ebitda">▼</span></th>
+            <th style="cursor:pointer;" onclick="sortCorp('liq_corrente')">Liquidez <span class="th-corp-arrow" data-col="liq_corrente">▼</span></th>
+            <th style="cursor:pointer;" onclick="sortCorp('cob_juros')">Cob. Juros <span class="th-corp-arrow" data-col="cob_juros">▼</span></th>
+            <th style="cursor:pointer;" onclick="sortCorp('score')">Score <span class="th-corp-arrow active" data-col="score">▲</span></th>
+            <th>Situação</th>
+          </tr>
+        </thead>
+        <tbody id="tbCorpRaiox">
+          <tr><td colspan="6" class="loading-text">Carregando dados financeiros...</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="raiox-atualizado" id="corp-atualizado"></div>
   </div>
 </section>
 
@@ -2866,6 +2932,119 @@ function renderRaioXTable(bancos) {
   }).join('') : '<tr><td colspan="6" class="loading-text">Nenhum banco encontrado</td></tr>';
 }
 
+// ===== RAIO-X CORPORATIVO =====
+let corpEmpresas = [];
+let corpSortBy = 'score';
+let corpSortDir = 'asc'; // pior primeiro por padrão
+
+async function loadCorpRaioX() {
+  try {
+    const resp = await fetch('./raiox_corp.json?t=' + Date.now());
+    const data = await resp.json();
+    if (data && data.empresas && data.empresas.length) {
+      corpEmpresas = data.empresas;
+      filterCorp();
+      if (data.atualizado_em) {
+        document.getElementById('corp-atualizado').textContent = 'Dados atualizados em ' + data.atualizado_em + ' — Fonte: Balanços CVM via Yahoo Finance';
+      }
+      return;
+    }
+  } catch (e) {
+    console.warn('raiox_corp.json não encontrado.');
+  }
+  document.getElementById('tbCorpRaiox').innerHTML = '<tr><td colspan="6" class="loading-text">Dados sendo coletados pelo robô. Volte em breve!</td></tr>';
+}
+
+function sortCorp(campo) {
+  if (corpSortBy === campo) {
+    corpSortDir = corpSortDir === 'desc' ? 'asc' : 'desc';
+  } else {
+    corpSortBy = campo;
+    corpSortDir = campo === 'nome' ? 'asc' : 'desc';
+  }
+  document.querySelectorAll('.th-corp-arrow').forEach(a => {
+    const isActive = a.dataset.col === campo;
+    a.classList.toggle('active', isActive);
+    a.textContent = isActive ? (corpSortDir === 'desc' ? '▼' : '▲') : '▼';
+  });
+  filterCorp();
+}
+
+function filterCorp() {
+  const query = (document.getElementById('corp-search').value || '').toLowerCase().trim();
+  let filtered = corpEmpresas.filter(e =>
+    !query || e.nome.toLowerCase().includes(query) || (e.ticker||'').toLowerCase().includes(query) || (e.setor||'').toLowerCase().includes(query)
+  );
+
+  filtered.sort((a, b) => {
+    let va, vb;
+    if (corpSortBy === 'nome') { va = a.nome.toLowerCase(); vb = b.nome.toLowerCase(); }
+    else if (corpSortBy === 'div_ebitda') { va = a.div_ebitda ?? 999; vb = b.div_ebitda ?? 999; }
+    else if (corpSortBy === 'liq_corrente') { va = a.liq_corrente ?? 0; vb = b.liq_corrente ?? 0; }
+    else if (corpSortBy === 'cob_juros') { va = a.cob_juros ?? 0; vb = b.cob_juros ?? 0; }
+    else { va = a.score ?? 0; vb = b.score ?? 0; }
+
+    if (corpSortBy === 'nome') {
+      return corpSortDir === 'asc' ? va.localeCompare(vb) : vb.localeCompare(va);
+    }
+    return corpSortDir === 'desc' ? vb - va : va - vb;
+  });
+
+  renderCorpTable(filtered);
+  const countEl = document.getElementById('corp-count');
+  if (countEl) countEl.textContent = filtered.length + ' empresa' + (filtered.length !== 1 ? 's' : '');
+}
+
+function renderCorpTable(empresas) {
+  document.getElementById('tbCorpRaiox').innerHTML = empresas.length ? empresas.map(e => {
+    const sit = e.situacao || (e.score >= 65 ? 'verde' : e.score >= 40 ? 'amarelo' : 'vermelho');
+    const sitLabel = sit === 'verde' ? 'Saudável' : sit === 'amarelo' ? 'Atenção' : 'Risco';
+    const sitColor = sit === 'verde' ? '#16a34a' : sit === 'amarelo' ? '#ca8a04' : '#dc2626';
+    const sitBg = sit === 'verde' ? 'background:#16a34a' : sit === 'amarelo' ? 'background:#eab308' : 'background:#dc2626';
+
+    const scoreColor = e.score >= 65 ? '#16a34a' : e.score >= 40 ? '#eab308' : '#dc2626';
+
+    // Dív/EBITDA cor
+    const de = e.div_ebitda;
+    const deStr = de != null ? de.toFixed(1) + 'x' : '—';
+    const deColor = de == null ? '' : de <= 2 ? 'color:#16a34a' : de <= 3 ? 'color:#ca8a04' : de <= 5 ? 'color:#ea580c' : 'color:#dc2626';
+
+    // Liquidez cor
+    const lc = e.liq_corrente;
+    const lcStr = lc != null ? lc.toFixed(2) : '—';
+    const lcColor = lc == null ? '' : lc >= 1.5 ? 'color:#16a34a' : lc >= 1 ? 'color:#ca8a04' : 'color:#dc2626';
+
+    // Cobertura Juros
+    const cj = e.cob_juros;
+    const cjStr = cj != null ? cj.toFixed(1) + 'x' : '—';
+    const cjColor = cj == null ? '' : cj >= 3 ? 'color:#16a34a' : cj >= 1.5 ? 'color:#ca8a04' : 'color:#dc2626';
+
+    return `<tr>
+      <td><div class="banco-cell">
+        <div class="banco-semaforo" style="${sitBg}"></div>
+        <div>
+          <div class="banco-nome">${e.ticker || ''} — ${e.nome}</div>
+          <div class="banco-tipo">${e.setor || ''}</div>
+        </div>
+      </div></td>
+      <td><span style="font-family:'SF Mono','Consolas',monospace;font-size:13px;font-weight:600;${deColor}">${deStr}</span></td>
+      <td><span style="font-family:'SF Mono','Consolas',monospace;font-size:13px;font-weight:600;${lcColor}">${lcStr}</span></td>
+      <td><span style="font-family:'SF Mono','Consolas',monospace;font-size:13px;font-weight:600;${cjColor}">${cjStr}</span></td>
+      <td><div class="score-bar-wrap">
+        <div class="score-bar"><div class="score-bar-fill" style="width:${e.score}%;background:${scoreColor}"></div></div>
+        <span class="score-value" style="color:${scoreColor}">${e.score}</span>
+      </div></td>
+      <td><span style="display:inline-flex;align-items:center;gap:5px;font-size:12px;font-weight:600;color:${sitColor}">
+        <span style="width:6px;height:6px;border-radius:50%;${sitBg};flex-shrink:0;"></span>
+        ${sitLabel}
+      </span></td>
+    </tr>`;
+  }).join('') : '<tr><td colspan="6" class="loading-text">Nenhuma empresa encontrada</td></tr>';
+}
+
+// Adicionar raiox-corp às GATED_PAGES
+GATED_PAGES.push('raiox-corp');
+
 // ===== BANNER PROMO =====
 function showPromo() {
   const banner = document.getElementById('promoBanner');
@@ -2897,6 +3076,9 @@ switchPageGated = function(page) {
   _origSwitch(page);
   if (page === 'raiox' && document.getElementById('tbRaiox').querySelector('.loading-text')) {
     loadRaioX();
+  }
+  if (page === 'raiox-corp' && document.getElementById('tbCorpRaiox').querySelector('.loading-text')) {
+    loadCorpRaioX();
   }
 };
 </script>
