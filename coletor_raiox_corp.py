@@ -219,17 +219,27 @@ def analisar_empresa(ticker):
     disponibilidades = parse_number(buscar('Disponibilidades'))
     ult_balanco = buscar('lt balan') or ''
 
-    # EV/EBITDA é a melhor proxy para Dív/EBITDA no Fundamentus
-    # Limitar valores absurdos
+    # Limitar EV/EBITDA absurdo
     if ev_ebitda is not None and (ev_ebitda > 50 or ev_ebitda < -10):
         ev_ebitda = None
 
+    # Calcular EBITDA real a partir de EV e EV/EBITDA
+    # EV = Valor de Mercado + Dívida Líquida (Valor da Firma no Fundamentus)
+    valor_firma = parse_number(buscar('Valor da firma'))
+    ebitda = None
+    if valor_firma and ev_ebitda and ev_ebitda > 0:
+        ebitda = round(valor_firma / ev_ebitda)
+
+    # Calcular Dív.Líquida / EBITDA (o indicador CORRETO de endividamento)
+    div_liq_ebitda = None
+    if ebitda and ebitda > 0 and div_liquida is not None:
+        div_liq_ebitda = round(div_liquida / ebitda, 2)
+        if div_liq_ebitda > 50 or div_liq_ebitda < -10:
+            div_liq_ebitda = None
+
     # Calcular cobertura de juros aproximada
-    # EBIT / Despesa Financeira. Fundamentus não dá juros direto,
-    # mas podemos estimar: se div_liq_patrim e EBIT existem
     cob_juros = None
     if ebit and div_bruta and div_bruta > 0:
-        # Estimar juros como ~12% da dívida bruta (taxa média BR)
         juros_estimados = div_bruta * 0.12
         if juros_estimados > 0:
             cob_juros = round(ebit / juros_estimados, 2)
@@ -241,6 +251,8 @@ def analisar_empresa(ticker):
         'nome': nome,
         'setor': setor,
         'ev_ebitda': round(ev_ebitda, 2) if ev_ebitda else None,
+        'div_ebitda': div_liq_ebitda,  # Dív.Líq/EBITDA — o indicador certo
+        'ebitda': ebitda,
         'liq_corrente': round(liq_corrente, 2) if liq_corrente else None,
         'cob_juros': cob_juros,
         'margem_ebit': round(margem_ebit, 1) if margem_ebit else None,
@@ -255,8 +267,6 @@ def analisar_empresa(ticker):
         'patrimonio_liquido': patrim_liq,
         'valor_mercado': valor_mercado,
         'ult_balanco': ult_balanco,
-        # Renomear pra manter compatibilidade com o frontend
-        'div_ebitda': round(ev_ebitda, 2) if ev_ebitda else None,
     }
 
 
@@ -264,8 +274,8 @@ def calcular_score(emp):
     """Calcula score de saúde corporativa (0-100) com dados do Fundamentus."""
     score = 0
 
-    # EV/EBITDA (30 pontos) — menor é melhor
-    de = emp.get('ev_ebitda')
+    # Dív.Líq/EBITDA (30 pontos) — menor é melhor (indicador real de dívida)
+    de = emp.get('div_ebitda')
     if de is not None:
         if de < 0:
             score += 5   # negativo = empresa com prejuízo operacional ou dívida líq negativa

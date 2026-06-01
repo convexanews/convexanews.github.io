@@ -1727,15 +1727,15 @@
         <thead>
           <tr>
             <th style="text-align:left;cursor:pointer;" onclick="sortCorp('nome')">Empresa <span class="th-corp-arrow" data-col="nome">▼</span></th>
-            <th style="cursor:pointer;" onclick="sortCorp('div_ebitda')">Dív/EBITDA <span class="th-info" onclick="event.stopPropagation()">i<span class="tip">Dívida Líquida / EBITDA<br>Abaixo de 2x = saudável<br>2x a 3x = aceitável<br>Acima de 3x = alavancada<br>Acima de 5x = risco alto</span></span> <span class="th-corp-arrow" data-col="div_ebitda">▼</span></th>
+            <th style="cursor:pointer;" onclick="sortCorp('div_ebitda')">Dív/EBITDA <span class="th-info" onclick="event.stopPropagation()">i<span class="tip">Dívida Líquida / EBITDA<br>Quanto menor, melhor<br>Abaixo de 1x = baixo endividamento<br>1x a 2x = saudável<br>2x a 3x = aceitável<br>Acima de 3x = alavancada<br>Acima de 5x = risco alto</span></span> <span class="th-corp-arrow" data-col="div_ebitda">▼</span></th>
+            <th style="cursor:pointer;" onclick="sortCorp('ebitda')">EBITDA <span class="th-info" onclick="event.stopPropagation()">i<span class="tip">Geração de caixa operacional<br>Quanto a empresa gera de dinheiro<br>com sua operação — quanto maior, melhor</span></span> <span class="th-corp-arrow" data-col="ebitda">▼</span></th>
             <th style="cursor:pointer;" onclick="sortCorp('liq_corrente')">Liquidez <span class="th-info" onclick="event.stopPropagation()">i<span class="tip">Ativo Circulante / Passivo Circulante<br>Acima de 1.5 = confortável<br>Entre 1.0 e 1.5 = aceitável<br>Abaixo de 1.0 = não paga as contas</span></span> <span class="th-corp-arrow" data-col="liq_corrente">▼</span></th>
-            <th style="cursor:pointer;" onclick="sortCorp('cob_juros')">Cob. Juros <span class="th-info" onclick="event.stopPropagation()">i<span class="tip">Lucro Operacional / Despesa com Juros<br>Acima de 3x = paga juros tranquilo<br>Entre 1x e 3x = apertado<br>Abaixo de 1x = lucro não cobre os juros</span></span> <span class="th-corp-arrow" data-col="cob_juros">▼</span></th>
             <th style="cursor:pointer;" onclick="sortCorp('score')">Score <span class="th-info" onclick="event.stopPropagation()">i<span class="tip">Nota de saúde financeira (0-100)<br>Combina: dívida, liquidez, juros,<br>margem operacional e geração de caixa<br>Acima de 65 = saudável<br>40 a 65 = atenção<br>Abaixo de 40 = risco</span></span> <span class="th-corp-arrow active" data-col="score">▲</span></th>
             <th>Situação</th>
           </tr>
         </thead>
         <tbody id="tbCorpRaiox">
-          <tr><td colspan="6" class="loading-text">Carregando dados financeiros...</td></tr>
+          <tr><td colspan="7" class="loading-text">Carregando dados financeiros...</td></tr>
         </tbody>
       </table>
     </div>
@@ -3035,8 +3035,8 @@ function filterCorp() {
     let va, vb;
     if (corpSortBy === 'nome') { va = a.nome.toLowerCase(); vb = b.nome.toLowerCase(); }
     else if (corpSortBy === 'div_ebitda') { va = (a.div_ebitda != null ? a.div_ebitda : 999); vb = (b.div_ebitda != null ? b.div_ebitda : 999); }
+    else if (corpSortBy === 'ebitda') { va = a.ebitda || 0; vb = b.ebitda || 0; }
     else if (corpSortBy === 'liq_corrente') { va = a.liq_corrente || 0; vb = b.liq_corrente || 0; }
-    else if (corpSortBy === 'cob_juros') { va = a.cob_juros || 0; vb = b.cob_juros || 0; }
     else { va = a.score || 0; vb = b.score || 0; }
 
     if (corpSortBy === 'nome') {
@@ -3059,20 +3059,24 @@ function renderCorpTable(empresas) {
 
     const scoreColor = e.score >= 65 ? '#16a34a' : e.score >= 40 ? '#eab308' : '#dc2626';
 
-    // Dív/EBITDA cor
+    // Dív.Líq/EBITDA cor
     const de = e.div_ebitda;
     const deStr = de != null ? de.toFixed(1) + 'x' : '—';
-    const deColor = de == null ? '' : de <= 2 ? 'color:#16a34a' : de <= 3 ? 'color:#ca8a04' : de <= 5 ? 'color:#ea580c' : 'color:#dc2626';
+    const deColor = de == null ? '' : de < 0 ? 'color:#16a34a' : de <= 2 ? 'color:#16a34a' : de <= 3 ? 'color:#ca8a04' : de <= 5 ? 'color:#ea580c' : 'color:#dc2626';
+
+    // EBITDA formatado
+    const eb = e.ebitda;
+    let ebStr = '—';
+    if (eb != null) {
+      if (Math.abs(eb) >= 1e9) ebStr = 'R$ ' + (eb/1e9).toFixed(1) + ' bi';
+      else if (Math.abs(eb) >= 1e6) ebStr = 'R$ ' + (eb/1e6).toFixed(0) + ' mi';
+      else ebStr = 'R$ ' + eb.toLocaleString('pt-BR');
+    }
 
     // Liquidez cor
     const lc = e.liq_corrente;
     const lcStr = lc != null ? lc.toFixed(2) : '—';
     const lcColor = lc == null ? '' : lc >= 1.5 ? 'color:#16a34a' : lc >= 1 ? 'color:#ca8a04' : 'color:#dc2626';
-
-    // Cobertura Juros
-    const cj = e.cob_juros;
-    const cjStr = cj != null ? cj.toFixed(1) + 'x' : '—';
-    const cjColor = cj == null ? '' : cj >= 3 ? 'color:#16a34a' : cj >= 1.5 ? 'color:#ca8a04' : 'color:#dc2626';
 
     return `<tr>
       <td><div class="banco-cell">
@@ -3083,8 +3087,8 @@ function renderCorpTable(empresas) {
         </div>
       </div></td>
       <td><span style="font-family:'SF Mono','Consolas',monospace;font-size:13px;font-weight:600;${deColor}">${deStr}</span></td>
+      <td><span style="font-family:'SF Mono','Consolas',monospace;font-size:13px;font-weight:500;">${ebStr}</span></td>
       <td><span style="font-family:'SF Mono','Consolas',monospace;font-size:13px;font-weight:600;${lcColor}">${lcStr}</span></td>
-      <td><span style="font-family:'SF Mono','Consolas',monospace;font-size:13px;font-weight:600;${cjColor}">${cjStr}</span></td>
       <td><div class="score-bar-wrap">
         <div class="score-bar"><div class="score-bar-fill" style="width:${e.score}%;background:${scoreColor}"></div></div>
         <span class="score-value" style="color:${scoreColor}">${e.score}</span>
