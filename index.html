@@ -2966,10 +2966,11 @@ function renderRaioXTable(bancos) {
     // Rating tooltip
     const rm = b.rating_moodys || '';
     const rf = b.rating_fitch || '';
+    const rs = b.rating_sp || '';
     const rp = b.rating_perspectiva || '';
     const rsrc = b.rating_fonte || '';
-    const hasRating = rm || rf;
-    const ratingTip = hasRating ? `<span class="th-info" style="margin-left:6px;">i<span class="tip" style="text-align:left;white-space:normal;width:220px;">${rm ? "Moody's: " + rm + '<br>' : ''}${rf ? 'Fitch: ' + rf + '<br>' : ''}${rp ? 'Perspectiva: ' + rp + '<br>' : ''}${rsrc ? '<span style="opacity:0.6;font-size:10px;">' + rsrc + '</span>' : ''}</span></span>` : '';
+    const hasRating = rm || rf || rs;
+    const ratingTip = hasRating ? `<span class="th-info" style="margin-left:6px;">i<span class="tip" style="text-align:left;white-space:normal;width:240px;">${rm ? "Moody's: " + rm + '<br>' : ''}${rf ? 'Fitch: ' + rf + '<br>' : ''}${rs ? "S&P: " + rs + '<br>' : ''}${rp ? 'Perspectiva: ' + rp + '<br>' : ''}${rsrc ? '<span style="opacity:0.6;font-size:10px;">' + rsrc + '</span>' : ''}</span></span>` : '';
 
     return `<tr>
       <td><div class="banco-cell">

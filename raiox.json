@@ -14,7 +14,8 @@
       "score": 100,
       "situacao": "verde",
       "rating_moodys": "Ba1",
-      "rating_fitch": "BB+",
+      "rating_fitch": "",
+      "rating_sp": "",
       "rating_perspectiva": "Estável",
       "rating_fonte": "Moody's (Out/2025)"
     },
@@ -27,10 +28,11 @@
       "patrimonio_liquido": 0,
       "score": 100,
       "situacao": "verde",
-      "rating_moodys": "Ba2",
-      "rating_fitch": "BB-",
+      "rating_moodys": "AA+.br",
+      "rating_fitch": "",
+      "rating_sp": "AA+ Nacional",
       "rating_perspectiva": "Positiva",
-      "rating_fonte": "Moody's (Out/2025)"
+      "rating_fonte": "Moody's Local + S&P Nacional (investors.inter.co)"
     },
     {
       "nome": "Original",
@@ -43,6 +45,7 @@
       "situacao": "verde",
       "rating_moodys": "",
       "rating_fitch": "",
+      "rating_sp": "",
       "rating_perspectiva": "",
       "rating_fonte": ""
     },
@@ -56,9 +59,10 @@
       "score": 100,
       "situacao": "verde",
       "rating_moodys": "",
-      "rating_fitch": "BB-",
-      "rating_perspectiva": "Estável",
-      "rating_fonte": "Fitch"
+      "rating_fitch": "",
+      "rating_sp": "",
+      "rating_perspectiva": "",
+      "rating_fonte": ""
     },
     {
       "nome": "Banrisul",
@@ -69,10 +73,11 @@
       "patrimonio_liquido": 0,
       "score": 100,
       "situacao": "verde",
-      "rating_moodys": "",
+      "rating_moodys": "Ba3",
       "rating_fitch": "BB-",
-      "rating_perspectiva": "Estável",
-      "rating_fonte": "Fitch"
+      "rating_sp": "BB-",
+      "rating_perspectiva": "Positiva/Estável",
+      "rating_fonte": "RI Banrisul (Moody's Ba3/Pos, Fitch BB-/Est, S&P BB-/Est)"
     },
     {
       "nome": "Sicredi",
@@ -85,6 +90,7 @@
       "situacao": "verde",
       "rating_moodys": "Ba1",
       "rating_fitch": "",
+      "rating_sp": "",
       "rating_perspectiva": "Positiva",
       "rating_fonte": "Moody's (Out/2025)"
     },
@@ -99,6 +105,7 @@
       "situacao": "verde",
       "rating_moodys": "",
       "rating_fitch": "",
+      "rating_sp": "",
       "rating_perspectiva": "",
       "rating_fonte": ""
     },
@@ -112,8 +119,9 @@
       "score": 90,
       "situacao": "verde",
       "rating_moodys": "Ba1",
-      "rating_fitch": "BB",
-      "rating_perspectiva": "Positiva",
+      "rating_fitch": "",
+      "rating_sp": "",
+      "rating_perspectiva": "Estável",
       "rating_fonte": "Moody's (Out/2025)"
     },
     {
@@ -126,8 +134,9 @@
       "score": 90,
       "situacao": "verde",
       "rating_moodys": "Ba1",
-      "rating_fitch": "BB+",
-      "rating_perspectiva": "Positiva",
+      "rating_fitch": "",
+      "rating_sp": "",
+      "rating_perspectiva": "Estável",
       "rating_fonte": "Moody's (Out/2025)"
     },
     {
@@ -140,9 +149,10 @@
       "score": 90,
       "situacao": "verde",
       "rating_moodys": "Ba1",
-      "rating_fitch": "BB",
+      "rating_fitch": "",
+      "rating_sp": "BB",
       "rating_perspectiva": "Estável",
-      "rating_fonte": "Moody's (Out/2025), Moody's Local AAA.br (Jan/2026)"
+      "rating_fonte": "Moody's Ba1 + S&P BB (investidores.nu)"
     },
     {
       "nome": "Sofisa",
@@ -154,9 +164,10 @@
       "score": 90,
       "situacao": "verde",
       "rating_moodys": "",
-      "rating_fitch": "BB-",
-      "rating_perspectiva": "Estável",
-      "rating_fonte": "Fitch"
+      "rating_fitch": "",
+      "rating_sp": "",
+      "rating_perspectiva": "",
+      "rating_fonte": ""
     },
     {
       "nome": "ABC Brasil",
@@ -169,6 +180,7 @@
       "situacao": "verde",
       "rating_moodys": "Ba1",
       "rating_fitch": "",
+      "rating_sp": "",
       "rating_perspectiva": "Positiva",
       "rating_fonte": "Moody's (Out/2025)"
     },
@@ -182,9 +194,10 @@
       "score": 90,
       "situacao": "verde",
       "rating_moodys": "",
-      "rating_fitch": "BB",
-      "rating_perspectiva": "Estável",
-      "rating_fonte": "Fitch"
+      "rating_fitch": "",
+      "rating_sp": "",
+      "rating_perspectiva": "",
+      "rating_fonte": ""
     },
     {
       "nome": "Itaú Unibanco",
@@ -197,8 +210,9 @@
       "situacao": "verde",
       "rating_moodys": "Ba1",
       "rating_fitch": "BB+",
-      "rating_perspectiva": "Positiva",
-      "rating_fonte": "Moody's (Out/2025), Fitch (Mar/2026)"
+      "rating_sp": "",
+      "rating_perspectiva": "Estável",
+      "rating_fonte": "Moody's (Jun/2025), Fitch (Dez/2025)"
     },
     {
       "nome": "Banco do Brasil",
@@ -211,8 +225,9 @@
       "situacao": "verde",
       "rating_moodys": "Ba1",
       "rating_fitch": "BB",
-      "rating_perspectiva": "Positiva",
-      "rating_fonte": "Moody's (Out/2025), Fitch (Mar/2026)"
+      "rating_sp": "BB",
+      "rating_perspectiva": "Estável",
+      "rating_fonte": "Fonte: RI Banco do Brasil (Mar/2026)"
     },
     {
       "nome": "Santander Brasil",
@@ -224,8 +239,9 @@
       "score": 80,
       "situacao": "verde",
       "rating_moodys": "Ba1",
-      "rating_fitch": "BB+",
-      "rating_perspectiva": "Positiva",
+      "rating_fitch": "",
+      "rating_sp": "",
+      "rating_perspectiva": "Estável",
       "rating_fonte": "Moody's (Out/2025)"
     },
     {
@@ -239,6 +255,7 @@
       "situacao": "verde",
       "rating_moodys": "",
       "rating_fitch": "",
+      "rating_sp": "",
       "rating_perspectiva": "",
       "rating_fonte": ""
     },
@@ -252,9 +269,10 @@
       "score": 80,
       "situacao": "verde",
       "rating_moodys": "",
-      "rating_fitch": "B+",
-      "rating_perspectiva": "Estável",
-      "rating_fonte": "Fitch"
+      "rating_fitch": "",
+      "rating_sp": "",
+      "rating_perspectiva": "",
+      "rating_fonte": ""
     },
     {
       "nome": "Banco do Nordeste",
@@ -267,6 +285,7 @@
       "situacao": "verde",
       "rating_moodys": "Ba1",
       "rating_fitch": "",
+      "rating_sp": "",
       "rating_perspectiva": "Positiva",
       "rating_fonte": "Moody's (Out/2025)"
     },
@@ -281,6 +300,7 @@
       "situacao": "verde",
       "rating_moodys": "Ba1",
       "rating_fitch": "",
+      "rating_sp": "",
       "rating_perspectiva": "Positiva",
       "rating_fonte": "Moody's (Out/2025)"
     },
@@ -295,8 +315,9 @@
       "situacao": "verde",
       "rating_moodys": "Ba1",
       "rating_fitch": "BB+",
+      "rating_sp": "",
       "rating_perspectiva": "Estável",
-      "rating_fonte": "Moody's (Out/2025), Fitch (Mar/2026)"
+      "rating_fonte": "Fitch (Dez/2025), Moody's"
     },
     {
       "nome": "Daycoval",
@@ -309,6 +330,7 @@
       "situacao": "verde",
       "rating_moodys": "Ba1",
       "rating_fitch": "",
+      "rating_sp": "",
       "rating_perspectiva": "Positiva",
       "rating_fonte": "Moody's (Out/2025)"
     },
@@ -322,9 +344,10 @@
       "score": 70,
       "situacao": "verde",
       "rating_moodys": "",
-      "rating_fitch": "BB-",
-      "rating_perspectiva": "Estável",
-      "rating_fonte": "Fitch"
+      "rating_fitch": "",
+      "rating_sp": "",
+      "rating_perspectiva": "",
+      "rating_fonte": ""
     },
     {
       "nome": "Mercantil do Brasil",
@@ -337,6 +360,7 @@
       "situacao": "verde",
       "rating_moodys": "",
       "rating_fitch": "",
+      "rating_sp": "",
       "rating_perspectiva": "",
       "rating_fonte": ""
     },
@@ -351,6 +375,7 @@
       "situacao": "verde",
       "rating_moodys": "",
       "rating_fitch": "",
+      "rating_sp": "",
       "rating_perspectiva": "",
       "rating_fonte": ""
     },
@@ -364,9 +389,10 @@
       "score": 65,
       "situacao": "amarelo",
       "rating_moodys": "",
-      "rating_fitch": "B+",
-      "rating_perspectiva": "Estável",
-      "rating_fonte": "Fitch"
+      "rating_fitch": "",
+      "rating_sp": "",
+      "rating_perspectiva": "",
+      "rating_fonte": ""
     },
     {
       "nome": "BTG Pactual",
@@ -379,6 +405,7 @@
       "situacao": "verde",
       "rating_moodys": "Ba1",
       "rating_fitch": "BB+",
+      "rating_sp": "",
       "rating_perspectiva": "Positiva",
       "rating_fonte": "Moody's (Out/2025), Fitch (Mar/2026)"
     },
@@ -393,6 +420,7 @@
       "situacao": "verde",
       "rating_moodys": "",
       "rating_fitch": "",
+      "rating_sp": "",
       "rating_perspectiva": "",
       "rating_fonte": ""
     },
@@ -407,8 +435,9 @@
       "situacao": "verde",
       "rating_moodys": "",
       "rating_fitch": "B+",
+      "rating_sp": "",
       "rating_perspectiva": "Estável",
-      "rating_fonte": "Fitch"
+      "rating_fonte": "Fitch (B+ Estável)"
     },
     {
       "nome": "Agibank",
@@ -421,6 +450,7 @@
       "situacao": "verde",
       "rating_moodys": "",
       "rating_fitch": "",
+      "rating_sp": "",
       "rating_perspectiva": "",
       "rating_fonte": ""
     },
@@ -435,6 +465,7 @@
       "situacao": "verde",
       "rating_moodys": "",
       "rating_fitch": "",
+      "rating_sp": "",
       "rating_perspectiva": "",
       "rating_fonte": ""
     }
