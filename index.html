@@ -3071,15 +3071,12 @@ updateAccessBtn();
 init();
 
 // Carrega Raio-X quando a página é acessada (lazy load)
-const _origSwitch = switchPageGated;
-switchPageGated = function(page) {
-  _origSwitch(page);
-  if (page === 'raiox' && document.getElementById('tbRaiox').querySelector('.loading-text')) {
-    loadRaioX();
-  }
-  if (page === 'raiox-corp' && document.getElementById('tbCorpRaiox').querySelector('.loading-text')) {
-    loadCorpRaioX();
-  }
+// Injeta no switchPage original para garantir que funciona
+const _baseSwitch = switchPage;
+switchPage = function(page) {
+  _baseSwitch(page);
+  if (page === 'raiox') loadRaioX();
+  if (page === 'raiox-corp') loadCorpRaioX();
 };
 </script>
 </body>
