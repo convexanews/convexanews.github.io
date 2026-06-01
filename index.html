@@ -2653,6 +2653,10 @@ async function init() {
     loadUSStocks();
     loadCrypto();
   }, 900000);
+
+  // 6. Raio-X: carrega dados dos JSONs
+  loadRaioX();
+  loadCorpRaioX();
 }
 
 // ===== LOGIN GATE =====
@@ -2940,6 +2944,7 @@ let corpSortDir = 'asc'; // pior primeiro por padrão
 async function loadCorpRaioX() {
   try {
     const resp = await fetch('./raiox_corp.json?t=' + Date.now());
+    if (!resp.ok) throw new Error('HTTP ' + resp.status);
     const data = await resp.json();
     if (data && data.empresas && data.empresas.length) {
       corpEmpresas = data.empresas;
@@ -2950,7 +2955,7 @@ async function loadCorpRaioX() {
       return;
     }
   } catch (e) {
-    console.warn('raiox_corp.json não encontrado.');
+    console.error('Erro Raio-X Corp:', e);
   }
   document.getElementById('tbCorpRaiox').innerHTML = '<tr><td colspan="6" class="loading-text">Dados sendo coletados pelo robô. Volte em breve!</td></tr>';
 }
@@ -2979,10 +2984,10 @@ function filterCorp() {
   filtered.sort((a, b) => {
     let va, vb;
     if (corpSortBy === 'nome') { va = a.nome.toLowerCase(); vb = b.nome.toLowerCase(); }
-    else if (corpSortBy === 'div_ebitda') { va = a.div_ebitda ?? 999; vb = b.div_ebitda ?? 999; }
-    else if (corpSortBy === 'liq_corrente') { va = a.liq_corrente ?? 0; vb = b.liq_corrente ?? 0; }
-    else if (corpSortBy === 'cob_juros') { va = a.cob_juros ?? 0; vb = b.cob_juros ?? 0; }
-    else { va = a.score ?? 0; vb = b.score ?? 0; }
+    else if (corpSortBy === 'div_ebitda') { va = (a.div_ebitda != null ? a.div_ebitda : 999); vb = (b.div_ebitda != null ? b.div_ebitda : 999); }
+    else if (corpSortBy === 'liq_corrente') { va = a.liq_corrente || 0; vb = b.liq_corrente || 0; }
+    else if (corpSortBy === 'cob_juros') { va = a.cob_juros || 0; vb = b.cob_juros || 0; }
+    else { va = a.score || 0; vb = b.score || 0; }
 
     if (corpSortBy === 'nome') {
       return corpSortDir === 'asc' ? va.localeCompare(vb) : vb.localeCompare(va);
