@@ -1204,6 +1204,20 @@
       "perf_6m": -29.85,
       "perf_12m": null
     },
+    "SEER3": {
+      "stock": "SEER3",
+      "name": "SER Educacional",
+      "close": 11.09,
+      "change": -5.29,
+      "volume": 906400,
+      "market_cap": 0,
+      "sector": "Consumer Cyclical",
+      "type": "stock",
+      "perf_1m": -17.3,
+      "perf_3m": -0.47,
+      "perf_6m": 21.52,
+      "perf_12m": null
+    },
     "WEGE3": {
       "stock": "WEGE3",
       "name": "WEG",
@@ -3035,100 +3049,100 @@
     "BTC": {
       "stock": "BTC",
       "name": "BTC",
-      "close": 63272.82,
-      "change": -1.16,
-      "volume": 65018343424,
+      "close": 63664.95,
+      "change": -0.55,
+      "volume": 64161472512,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
-      "perf_1m": -21.93,
-      "perf_3m": -5.41,
-      "perf_6m": -25.18,
-      "perf_12m": -41.98
+      "perf_1m": -21.45,
+      "perf_3m": -4.82,
+      "perf_6m": -24.71,
+      "perf_12m": -41.62
     },
     "ETH": {
       "stock": "ETH",
       "name": "ETH",
-      "close": 1758.06,
-      "change": -2.96,
-      "volume": 27732293632,
+      "close": 1766.59,
+      "change": -2.49,
+      "volume": 27195789312,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
-      "perf_1m": -22.92,
-      "perf_3m": -14.53,
-      "perf_6m": -37.62,
-      "perf_12m": -54.55
+      "perf_1m": -22.55,
+      "perf_3m": -14.11,
+      "perf_6m": -37.32,
+      "perf_12m": -54.33
     },
     "SOL": {
       "stock": "SOL",
       "name": "SOL",
-      "close": 67.94,
-      "change": -5.13,
-      "volume": 5502737920,
+      "close": 68.61,
+      "change": -4.19,
+      "volume": 5536534016,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
-      "perf_1m": -26.27,
-      "perf_3m": -13.95,
-      "perf_6m": -42.23,
-      "perf_12m": -64.68
+      "perf_1m": -25.54,
+      "perf_3m": -13.1,
+      "perf_6m": -41.66,
+      "perf_12m": -64.34
     },
     "ADA": {
       "stock": "ADA",
       "name": "ADA",
       "close": 0.18,
-      "change": -9.46,
-      "volume": 950205440,
+      "change": -10.25,
+      "volume": 942861312,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
-      "perf_1m": -32.82,
-      "perf_3m": -24.17,
-      "perf_6m": -45.66,
-      "perf_12m": -76.21
+      "perf_1m": -33.41,
+      "perf_3m": -24.84,
+      "perf_6m": -46.14,
+      "perf_12m": -76.42
     },
     "XRP": {
       "stock": "XRP",
       "name": "XRP",
-      "close": 1.16,
-      "change": -3.37,
-      "volume": 3375144192,
+      "close": 1.17,
+      "change": -2.91,
+      "volume": 3376566528,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
-      "perf_1m": -21.85,
-      "perf_3m": -12.05,
-      "perf_6m": -35.75,
-      "perf_12m": -57.71
+      "perf_1m": -21.48,
+      "perf_3m": -11.63,
+      "perf_6m": -35.44,
+      "perf_12m": -57.51
     },
     "BNB": {
       "stock": "BNB",
       "name": "BNB",
-      "close": 600.31,
-      "change": -3.19,
-      "volume": 2354784256,
+      "close": 603.14,
+      "change": -2.73,
+      "volume": 2309367808,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
-      "perf_1m": -11.45,
-      "perf_3m": 2.94,
-      "perf_6m": -30.77,
-      "perf_12m": -36.52
+      "perf_1m": -11.03,
+      "perf_3m": 3.43,
+      "perf_6m": -30.44,
+      "perf_12m": -36.22
     },
     "DOGE": {
       "stock": "DOGE",
       "name": "DOGE",
       "close": 0.09,
-      "change": -4.37,
-      "volume": 1458949632,
+      "change": -3.43,
+      "volume": 1457850240,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
-      "perf_1m": -24.22,
-      "perf_3m": -3.32,
-      "perf_6m": -25.39,
-      "perf_12m": -60.77
+      "perf_1m": -23.48,
+      "perf_3m": -2.38,
+      "perf_6m": -24.66,
+      "perf_12m": -60.39
     }
   },
   "indices": {
@@ -3155,8 +3169,8 @@
   },
   "dolar": {
     "stock": "USD/BRL",
-    "close": 5.077,
-    "change": -0.01
+    "close": 5.0636,
+    "change": -0.27
   },
-  "atualizado_em": "04/06/2026 22:22"
+  "atualizado_em": "04/06/2026 23:45"
 }
