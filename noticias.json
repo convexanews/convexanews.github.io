@@ -1,34 +1,61 @@
 {
   "headline": {
-    "title": "Ibovespa abre semana em alerta após 8 quedas seguidas e perda dos 170 mil",
-    "summary": "Mercado monitora juros americanos, dólar e risco geopolítico depois de forte correção desde a máxima histórica de abril",
+    "title": "Futuros de NY abrem em queda com ataque do Irã a Israel e pressão sobre ações tech",
+    "summary": "Dow Jones Futuro, SP 500 Futuro e Nasdaq Futuro recuam na noite deste domingo, em meio à alta do petróleo e à cautela após forte queda em Wall Street",
     "source": "InfoMoney",
-    "url": "https://www.infomoney.com.br/mercados/ibovespa-abre-semana-em-alerta-apos-8-quedas-seguidas-e-perda-dos-170-mil/",
-    "time": "2026-06-07T20:55:54Z",
+    "url": "https://www.infomoney.com.br/mercados/futuros-de-ny-abrem-em-queda-com-ataque-do-ira-a-israel-e-pressao-sobre-acoes-tech/",
+    "time": "2026-06-07T23:24:40Z",
     "cat": "acoes",
     "tickers": []
   },
   "featured": [
     {
-      "title": "Ibovespa vai reagir ou cair mais? Semana-chave tem Nasdaq e Bitcoin sob pressão",
-      "summary": "Após oito semanas de baixa, Ibovespa tenta reação em meio à pressão do dólar, correção das bolsas americanas e queda do Bitcoin",
+      "title": "Agência vê risco de nova alta do combustível de aviação e normalização apenas em 2028",
+      "summary": "SP Global estima que a oferta disponível de combustível de aviação tenha caído entre 20% e 30% desde o início do fechamento do Estreito de Ormuz",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-amplia-perdas-historicas-nasdaq-corrige-e-bitcoin-afunda-o-que-esperar/",
-      "time": "2026-06-07T20:45:00Z",
-      "cat": "cripto",
+      "url": "https://www.infomoney.com.br/mercados/agencia-ve-risco-de-nova-alta-do-combustivel-de-aviacao-e-normalizacao-apenas-em-2028/",
+      "time": "2026-06-07T22:00:00Z",
+      "cat": "acoes",
       "tickers": []
     },
     {
-      "title": "Embraer (EMBJ3) espera que Índia avance com licitação de jatos militares de carga",
-      "summary": "Embraer espera que Índia avance com licitação de jatos militares de carga nos próximos meses",
+      "title": "TCU arquiva representação de Flávio Bolsonaro sobre ex-nora de Lula",
+      "summary": "Ação pedia apuração sobre o papel desempenhado por Carla Ariane Trindade, ex-mulher do filho do presidente, em esquema de fraudes de licitações no interior de São Paulo por empresa de educação",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/embraer-embj3-espera-que-india-avance-com-licitacao-de-jatos-militares-de-carga/",
-      "time": "2026-06-07T20:40:54Z",
+      "url": "https://www.infomoney.com.br/politica/tcu-arquiva-representacao-de-flavio-bolsonaro-sobre-ex-nora-de-lula/",
+      "time": "2026-06-07T21:48:39Z",
       "cat": "acoes",
       "tickers": []
     }
   ],
   "all": [
+    {
+      "title": "Futuros de NY abrem em queda com ataque do Irã a Israel e pressão sobre ações tech",
+      "summary": "Dow Jones Futuro, SP 500 Futuro e Nasdaq Futuro recuam na noite deste domingo, em meio à alta do petróleo e à cautela após forte queda em Wall Street",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/futuros-de-ny-abrem-em-queda-com-ataque-do-ira-a-israel-e-pressao-sobre-acoes-tech/",
+      "time": "2026-06-07T23:24:40Z",
+      "cat": "acoes",
+      "tickers": []
+    },
+    {
+      "title": "Agência vê risco de nova alta do combustível de aviação e normalização apenas em 2028",
+      "summary": "SP Global estima que a oferta disponível de combustível de aviação tenha caído entre 20% e 30% desde o início do fechamento do Estreito de Ormuz",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/agencia-ve-risco-de-nova-alta-do-combustivel-de-aviacao-e-normalizacao-apenas-em-2028/",
+      "time": "2026-06-07T22:00:00Z",
+      "cat": "acoes",
+      "tickers": []
+    },
+    {
+      "title": "TCU arquiva representação de Flávio Bolsonaro sobre ex-nora de Lula",
+      "summary": "Ação pedia apuração sobre o papel desempenhado por Carla Ariane Trindade, ex-mulher do filho do presidente, em esquema de fraudes de licitações no interior de São Paulo por empresa de educação",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/tcu-arquiva-representacao-de-flavio-bolsonaro-sobre-ex-nora-de-lula/",
+      "time": "2026-06-07T21:48:39Z",
+      "cat": "acoes",
+      "tickers": []
+    },
     {
       "title": "Ibovespa abre semana em alerta após 8 quedas seguidas e perda dos 170 mil",
       "summary": "Mercado monitora juros americanos, dólar e risco geopolítico depois de forte correção desde a máxima histórica de abril",
@@ -45,42 +72,6 @@
       "url": "https://www.infomoney.com.br/mercados/ibovespa-amplia-perdas-historicas-nasdaq-corrige-e-bitcoin-afunda-o-que-esperar/",
       "time": "2026-06-07T20:45:00Z",
       "cat": "cripto",
-      "tickers": []
-    },
-    {
-      "title": "Embraer (EMBJ3) espera que Índia avance com licitação de jatos militares de carga",
-      "summary": "Embraer espera que Índia avance com licitação de jatos militares de carga nos próximos meses",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/embraer-embj3-espera-que-india-avance-com-licitacao-de-jatos-militares-de-carga/",
-      "time": "2026-06-07T20:40:54Z",
-      "cat": "acoes",
-      "tickers": []
-    },
-    {
-      "title": "Carnes: Faep critica suspensão europeia e exige envio urgente de dados pelo governo",
-      "summary": "Federação vai cobrar do governo federal envio urgente de todas informações necessárias para sanar exigências do bloco europeu para evitar interrupção das vendas em setembro",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/carnes-faep-critica-suspensao-europeia-e-exige-envio-urgente-de-dados-pelo-governo/",
-      "time": "2026-06-07T20:25:19Z",
-      "cat": "acoes",
-      "tickers": []
-    },
-    {
-      "title": "Calendário econômico da semana: inflação será destaque no Brasil e nos EUA",
-      "summary": "Tudo o que o investidor precisa saber antes de operar na semana",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/calendario-economico-da-semana-inflacao-sera-destaque-no-brasil-e-nos-eua/",
-      "time": "2026-06-07T20:00:00Z",
-      "cat": "economia",
-      "tickers": []
-    },
-    {
-      "title": "O que trava o potencial da aviação no Brasil? Veja algumas respostas",
-      "summary": "Combater distorções na precificação do combustível de aviação, reduzir a litigação no setor e rediscutir a taxação imposta às companhias são alguns dos temas mais urgentes, segundo a IATA",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/economia/o-que-trava-o-potencial-da-aviacao-no-brasil-veja-algumas-respostas/",
-      "time": "2026-06-07T19:26:33Z",
-      "cat": "acoes",
       "tickers": []
     },
     {
@@ -210,21 +201,48 @@
       "tickers": []
     },
     {
-      "title": "Naufrágio perto de Malta deixa ao menos 10 mortos",
-      "summary": "Embarcação que partiu da Líbia transportava cerca de 60 pessoas; operações de resgate seguem no Mediterrâneo",
-      "source": "Exame",
-      "url": "https://exame.com/mundo/naufragio-perto-de-malta-deixa-ao-menos-10-mortos/",
-      "time": "2026-06-07T16:59:13Z",
+      "title": "Ibovespa e dólar hoje: juros altos e geopolítica pressionam mercados",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-juros-altos-e-geopolitica-pressionam-mercados-1964433",
+      "time": "2026-06-08T10:30:00Z",
       "cat": "economia",
       "tickers": []
     },
     {
-      "title": "Peru vai às urnas em eleição marcada por crise",
-      "summary": "Keiko Fujimori e Roberto Sánchez disputam segundo turno em meio à instabilidade política e avanço da criminalidade",
-      "source": "Exame",
-      "url": "https://exame.com/mundo/peru-vai-as-urnas-em-eleicao-marcada-por-crise/",
-      "time": "2026-06-07T16:53:00Z",
-      "cat": "economia",
+      "title": "Bolsas asiáticas caem com KOSPI afundando em perdas com IA; escalada no Irã pesa",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/bolsas-asiaticas-caem-com-kospi-afundando-em-perdas-com-ia-escalada-no-ira-pesa-1965047",
+      "time": "2026-06-08T03:33:28Z",
+      "cat": "internacional",
+      "tickers": []
+    },
+    {
+      "title": "Curefoods desiste de IPO na Índia por preocupações com valuation",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/curefoods-desiste-de-ipo-na-india-por-preocupacoes-com-valuation-1965036",
+      "time": "2026-06-08T01:52:18Z",
+      "cat": "internacional",
+      "tickers": []
+    },
+    {
+      "title": "KOSPI despenca mais de 8% e aciona circuit breaker em meio à queda de semicondutores",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/kospi-despenca-mais-de-8-e-aciona-circuit-breaker-em-meio-a-queda-de-semicondutores-1965032",
+      "time": "2026-06-08T00:56:54Z",
+      "cat": "internacional",
+      "tickers": []
+    },
+    {
+      "title": "Rússia - Ações fecharam o pregão em queda e o Índice MOEX Russia Index terminou sem alterações",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/russia--acoes-fecharam-o-pregao-em-queda-e-o-indice-moex-russia-index-terminou-sem-alteracoes-1965001",
+      "time": "2026-06-07T21:20:25Z",
+      "cat": "internacional",
       "tickers": []
     },
     {
@@ -244,43 +262,7 @@
       "time": "2026-06-07T20:27:32Z",
       "cat": "internacional",
       "tickers": []
-    },
-    {
-      "title": "Preços  dos combustíveis não atrapalham privatização da TAP, diz presidente do conselho",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/precos--dos-combustiveis-nao-atrapalham-privatizacao-da-tap-dizpresidente-do-conselho-1964995",
-      "time": "2026-06-07T20:21:28Z",
-      "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "O checklist de mercado baixista do Citi: os 18 fatores a observar",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/o-checklist-de-mercado-baixista-do-citi-os-18-fatores-a-observar-1964988",
-      "time": "2026-06-07T19:11:46Z",
-      "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "OpenAI planeja reformular ChatGPT como “superapp” antes de abertura de capital, diz FT",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/openai-planeja-reformular-chatgpt-como-superapp-antes-de-abertura-de-capital-diz-ft-1964968",
-      "time": "2026-06-07T16:21:52Z",
-      "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "Nvidia e SK detalham plano de cooperação enquanto Huang sinaliza escassez prolongada de chips",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/nvidia-e-sk-detalham-plano-de-cooperacao-enquanto-huang-sinaliza-escassez-prolongada-de-chips-1964967",
-      "time": "2026-06-07T16:21:29Z",
-      "cat": "internacional",
-      "tickers": []
     }
   ],
-  "atualizado_em": "07/06/2026 21:15"
+  "atualizado_em": "08/06/2026 03:58"
 }

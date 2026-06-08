@@ -1162,6 +1162,20 @@
       "perf_6m": 12.79,
       "perf_12m": null
     },
+    "MLAS3": {
+      "stock": "MLAS3",
+      "name": "Multilaser",
+      "close": 1.55,
+      "change": -1.27,
+      "volume": 1150000,
+      "market_cap": 0,
+      "sector": "Technology",
+      "type": "stock",
+      "perf_1m": -1.9,
+      "perf_3m": 21.09,
+      "perf_6m": 24.58,
+      "perf_12m": null
+    },
     "COGN3": {
       "stock": "COGN3",
       "name": "Cogna",
@@ -3035,100 +3049,100 @@
     "BTC": {
       "stock": "BTC",
       "name": "BTC",
-      "close": 61955.22,
-      "change": 1.79,
-      "volume": 31405422592,
+      "close": 63100.81,
+      "change": 3.67,
+      "volume": 36377776128,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
-      "perf_1m": -19.98,
-      "perf_3m": -10.19,
-      "perf_6m": -19.51,
-      "perf_12m": -44.74
+      "perf_1m": -18.51,
+      "perf_3m": -8.53,
+      "perf_6m": -18.02,
+      "perf_12m": -43.72
     },
     "ETH": {
       "stock": "ETH",
       "name": "ETH",
-      "close": 1630.3,
-      "change": 3.92,
-      "volume": 13923572736,
+      "close": 1678.25,
+      "change": 6.98,
+      "volume": 16047225856,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
-      "perf_1m": -23.38,
-      "perf_3m": -22.7,
-      "perf_6m": -28.12,
-      "perf_12m": -60.63
+      "perf_1m": -21.12,
+      "perf_3m": -20.42,
+      "perf_6m": -26.0,
+      "perf_12m": -59.48
     },
     "SOL": {
       "stock": "SOL",
       "name": "SOL",
-      "close": 64.77,
-      "change": 4.15,
-      "volume": 2433741056,
+      "close": 66.3,
+      "change": 6.61,
+      "volume": 2742545664,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
-      "perf_1m": -23.95,
-      "perf_3m": -20.87,
-      "perf_6m": -35.78,
-      "perf_12m": -69.27
+      "perf_1m": -22.16,
+      "perf_3m": -19.0,
+      "perf_6m": -34.26,
+      "perf_12m": -68.54
     },
     "ADA": {
       "stock": "ADA",
       "name": "ADA",
       "close": 0.16,
-      "change": 2.25,
-      "volume": 494541056,
+      "change": 4.16,
+      "volume": 534886528,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
-      "perf_1m": -36.16,
-      "perf_3m": -35.79,
-      "perf_6m": -43.78,
-      "perf_12m": -80.1
+      "perf_1m": -34.97,
+      "perf_3m": -34.59,
+      "perf_6m": -42.73,
+      "perf_12m": -79.73
     },
     "XRP": {
       "stock": "XRP",
       "name": "XRP",
-      "close": 1.13,
-      "change": 3.49,
-      "volume": 1916124288,
+      "close": 1.15,
+      "change": 5.21,
+      "volume": 2171528448,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
-      "perf_1m": -19.23,
-      "perf_3m": -14.63,
-      "perf_6m": -28.89,
-      "perf_12m": -60.52
+      "perf_1m": -17.88,
+      "perf_3m": -13.21,
+      "perf_6m": -27.71,
+      "perf_12m": -59.87
     },
     "BNB": {
       "stock": "BNB",
       "name": "BNB",
-      "close": 594.9,
-      "change": 3.55,
-      "volume": 1253076736,
+      "close": 602.88,
+      "change": 4.94,
+      "volume": 1317955328,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
-      "perf_1m": -8.31,
-      "perf_3m": -1.1,
-      "perf_6m": -21.56,
-      "perf_12m": -40.11
+      "perf_1m": -7.08,
+      "perf_3m": 0.22,
+      "perf_6m": -20.51,
+      "perf_12m": -39.31
     },
     "DOGE": {
       "stock": "DOGE",
       "name": "DOGE",
-      "close": 0.08,
-      "change": 2.76,
-      "volume": 685093120,
+      "close": 0.09,
+      "change": 4.87,
+      "volume": 839057536,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
-      "perf_1m": -22.68,
-      "perf_3m": -8.84,
-      "perf_6m": -19.39,
-      "perf_12m": -64.57
+      "perf_1m": -21.08,
+      "perf_3m": -6.97,
+      "perf_6m": -17.73,
+      "perf_12m": -63.84
     }
   },
   "indices": {
@@ -3155,8 +3169,8 @@
   },
   "dolar": {
     "stock": "USD/BRL",
-    "close": 5.1512,
-    "change": 1.79
+    "close": 5.1711,
+    "change": 2.18
   },
-  "atualizado_em": "07/06/2026 21:15"
+  "atualizado_em": "08/06/2026 03:58"
 }
