@@ -1,77 +1,131 @@
 {
   "headline": {
-    "title": "Futuros de NY abrem em queda com ataque do Irã a Israel e pressão sobre ações tech",
-    "summary": "Dow Jones Futuro, SP 500 Futuro e Nasdaq Futuro recuam na noite deste domingo, em meio à alta do petróleo e à cautela após forte queda em Wall Street",
+    "title": "Dow Jones Futuro cai com escalada no Oriente Médio e pressão sobre ações de IA",
+    "summary": "O Irã disparou mísseis contra Israel, colocando em risco um frágil cessar-fogo",
     "source": "InfoMoney",
-    "url": "https://www.infomoney.com.br/mercados/futuros-de-ny-abrem-em-queda-com-ataque-do-ira-a-israel-e-pressao-sobre-acoes-tech/",
-    "time": "2026-06-07T23:24:40Z",
-    "cat": "acoes",
+    "url": "https://www.infomoney.com.br/mercados/dow-jones-futuro-cai-com-escalada-no-oriente-medio-e-pressao-sobre-acoes-de-ia/",
+    "time": "2026-06-08T08:43:53Z",
+    "cat": "internacional",
     "tickers": []
   },
   "featured": [
     {
-      "title": "Agência vê risco de nova alta do combustível de aviação e normalização apenas em 2028",
-      "summary": "SP Global estima que a oferta disponível de combustível de aviação tenha caído entre 20% e 30% desde o início do fechamento do Estreito de Ormuz",
+      "title": "Rali da Usiminas contrasta com fraqueza da SLC Agrícola no Ibovespa",
+      "summary": "Indicador da análise técnica, IFR aponta euforia em um papel e sinaliza possível oportunidade de entrada em outro",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/agencia-ve-risco-de-nova-alta-do-combustivel-de-aviacao-e-normalizacao-apenas-em-2028/",
-      "time": "2026-06-07T22:00:00Z",
+      "url": "https://www.infomoney.com.br/mercados/rali-da-usiminas-contrasta-com-fraqueza-da-slc-agricola-no-ibovespa/",
+      "time": "2026-06-08T08:12:00Z",
       "cat": "acoes",
       "tickers": []
     },
     {
-      "title": "TCU arquiva representação de Flávio Bolsonaro sobre ex-nora de Lula",
-      "summary": "Ação pedia apuração sobre o papel desempenhado por Carla Ariane Trindade, ex-mulher do filho do presidente, em esquema de fraudes de licitações no interior de São Paulo por empresa de educação",
+      "title": "Minidólar (WDON26): alta acelera após payroll; onde estão os próximos alvos?",
+      "summary": "Saiba o que esperar para o minidólar nesta segunda (08)",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/tcu-arquiva-representacao-de-flavio-bolsonaro-sobre-ex-nora-de-lula/",
-      "time": "2026-06-07T21:48:39Z",
-      "cat": "acoes",
+      "url": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdon26-08062026/",
+      "time": "2026-06-08T08:06:00Z",
+      "cat": "economia",
       "tickers": []
     }
   ],
   "all": [
     {
-      "title": "Futuros de NY abrem em queda com ataque do Irã a Israel e pressão sobre ações tech",
-      "summary": "Dow Jones Futuro, SP 500 Futuro e Nasdaq Futuro recuam na noite deste domingo, em meio à alta do petróleo e à cautela após forte queda em Wall Street",
+      "title": "Dow Jones Futuro cai com escalada no Oriente Médio e pressão sobre ações de IA",
+      "summary": "O Irã disparou mísseis contra Israel, colocando em risco um frágil cessar-fogo",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/futuros-de-ny-abrem-em-queda-com-ataque-do-ira-a-israel-e-pressao-sobre-acoes-tech/",
-      "time": "2026-06-07T23:24:40Z",
+      "url": "https://www.infomoney.com.br/mercados/dow-jones-futuro-cai-com-escalada-no-oriente-medio-e-pressao-sobre-acoes-de-ia/",
+      "time": "2026-06-08T08:43:53Z",
+      "cat": "internacional",
+      "tickers": []
+    },
+    {
+      "title": "Rali da Usiminas contrasta com fraqueza da SLC Agrícola no Ibovespa",
+      "summary": "Indicador da análise técnica, IFR aponta euforia em um papel e sinaliza possível oportunidade de entrada em outro",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/rali-da-usiminas-contrasta-com-fraqueza-da-slc-agricola-no-ibovespa/",
+      "time": "2026-06-08T08:12:00Z",
       "cat": "acoes",
       "tickers": []
     },
     {
-      "title": "Agência vê risco de nova alta do combustível de aviação e normalização apenas em 2028",
-      "summary": "SP Global estima que a oferta disponível de combustível de aviação tenha caído entre 20% e 30% desde o início do fechamento do Estreito de Ormuz",
+      "title": "Minidólar (WDON26): alta acelera após payroll; onde estão os próximos alvos?",
+      "summary": "Saiba o que esperar para o minidólar nesta segunda (08)",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/agencia-ve-risco-de-nova-alta-do-combustivel-de-aviacao-e-normalizacao-apenas-em-2028/",
-      "time": "2026-06-07T22:00:00Z",
+      "url": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdon26-08062026/",
+      "time": "2026-06-08T08:06:00Z",
+      "cat": "economia",
+      "tickers": []
+    },
+    {
+      "title": "Mini-índice (WINM26): após nova queda, onde estão os próximos alvos?",
+      "summary": "Confira o que a análise técnica aponta para o mini-índice hoje (08 de junho)",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winm26-08062026/",
+      "time": "2026-06-08T08:03:00Z",
       "cat": "acoes",
       "tickers": []
     },
     {
-      "title": "TCU arquiva representação de Flávio Bolsonaro sobre ex-nora de Lula",
-      "summary": "Ação pedia apuração sobre o papel desempenhado por Carla Ariane Trindade, ex-mulher do filho do presidente, em esquema de fraudes de licitações no interior de São Paulo por empresa de educação",
+      "title": "Day Trade hoje (08): Ibovespa em queda histórica; vem repique ou mais baixa?",
+      "summary": "Confira os pontos de suporte e resistência do mini-índice e minidólar",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/tcu-arquiva-representacao-de-flavio-bolsonaro-sobre-ex-nora-de-lula/",
-      "time": "2026-06-07T21:48:39Z",
+      "url": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-08062026/",
+      "time": "2026-06-08T08:00:00Z",
       "cat": "acoes",
       "tickers": []
     },
     {
-      "title": "Ibovespa abre semana em alerta após 8 quedas seguidas e perda dos 170 mil",
-      "summary": "Mercado monitora juros americanos, dólar e risco geopolítico depois de forte correção desde a máxima histórica de abril",
+      "title": "Como o novo CEO da Boeing tirou empresa da crise de acidentes e prejuízos bilionários",
+      "summary": "Kelly Ortberg chegou em um dos piores momentos e trouxe disciplina operacional, foco na engenharia e mudança cultural",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-abre-semana-em-alerta-apos-8-quedas-seguidas-e-perda-dos-170-mil/",
-      "time": "2026-06-07T20:55:54Z",
+      "url": "https://www.infomoney.com.br/business/global/como-o-novo-ceo-da-boeing-tirou-empresa-da-crise-de-acidentes-e-prejuizos-bilionarios/",
+      "time": "2026-06-08T08:00:00Z",
       "cat": "acoes",
       "tickers": []
     },
     {
-      "title": "Ibovespa vai reagir ou cair mais? Semana-chave tem Nasdaq e Bitcoin sob pressão",
-      "summary": "Após oito semanas de baixa, Ibovespa tenta reação em meio à pressão do dólar, correção das bolsas americanas e queda do Bitcoin",
+      "title": "Small caps chegam a junho no maior desconto da Bolsa; veja as 5 mais recomendadas",
+      "summary": "Em um mês marcado por saída de capital estrangeiro e pressão nos juros, o índice de small caps recuou 3,7% em maio, mas corretoras mantêm apostas no segmento, que negocia com o maior desconto histórico entre todos os rec",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-amplia-perdas-historicas-nasdaq-corrige-e-bitcoin-afunda-o-que-esperar/",
-      "time": "2026-06-07T20:45:00Z",
-      "cat": "cripto",
+      "url": "https://www.infomoney.com.br/onde-investir/carteira-recomendada-small-caps-junho-2026/",
+      "time": "2026-06-08T08:00:00Z",
+      "cat": "acoes",
+      "tickers": []
+    },
+    {
+      "title": "Nvidia e SK detalham plano de cooperação enquanto Huang sinaliza escassez prolongada de chips",
+      "summary": "Espera-se que a Nvidia e a SK da Coreia do Sul anunciem um plano de cooperação entre as duas empresas nesta segunda-feira (8), com o chefe da fabricante de chips dos Estados Unidos dizendo que a atual escassez de memória",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/nvidia-e-sk-detalham-plano-de-cooperacao-enquanto-huang-sinaliza-escassez-prolongada-de-chips-fets/",
+      "time": "2026-06-08T08:38:00Z",
+      "cat": "acoes",
+      "tickers": []
+    },
+    {
+      "title": "OpenAI planeja reformular ChatGPT como “superapp” antes de abertura de capital",
+      "summary": "A OpenAI está planejando a maior reformulação do ChatGPT até o momento, com o objetivo de transformá-lo em um superapp, integrando ferramentas de codificação e agentes de IA para aumentar a receita antes de uma possível ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/openai-planeja-reformular-chatgpt-como-superapp-antes-de-abertura-de-capital-fets/",
+      "time": "2026-06-08T08:19:59Z",
+      "cat": "acoes",
+      "tickers": []
+    },
+    {
+      "title": "Petróleo dispara e sobe acima 4% após ataques israelenses ao Irã e ao Líbano",
+      "summary": "Os preços do petróleo saltam mais de 4% nesta segunda-feira (8), com investidores alarmados por novos ataques israelenses contra o Irã, além da retomada dos ataques ao Líbano no dia anterior. Os contratos futuros do petr",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/petroleo-dispara-e-sobe-acima-4-apos-ataques-israelenses-ao-ira-e-ao-libano-fets/",
+      "time": "2026-06-08T07:49:49Z",
+      "cat": "internacional",
+      "tickers": []
+    },
+    {
+      "title": "Projeto de resolução dos EUA na AIEA exige que Irã revele instalações e estoques de urânio",
+      "summary": "Os Estados Unidos estão pressionando outros países do Conselho de Governadores do órgão de vigilância nuclear da ONU para que apoiem um projeto de resolução exigindo que o Irã informe à agência o que aconteceu com suas i",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/projeto-de-resolucao-dos-eua-na-aiea-exige-que-ira-revele-instalacoes-e-estoques-de-uranio-fets/",
+      "time": "2026-06-08T07:05:00Z",
+      "cat": "internacional",
       "tickers": []
     },
     {
@@ -81,51 +135,6 @@
       "url": "https://www.moneytimes.com.br/dividendos-da-semana-3-6-26-apsa/",
       "time": "2026-06-07T16:00:00Z",
       "cat": "fundos",
-      "tickers": []
-    },
-    {
-      "title": "Kinea Infra (KDIF11) está entre recomendações de analista para buscar renda extra; veja mais",
-      "summary": "A tensão no Irã, as alterações nas expectativas para os juros globais e as oscilações no mercado de commodities e câmbio trouxeram dificuldades para os investidores durante o mês de maio. Para quem quer investir com foco",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/conteudo-de-marca/kinea-infra-kdif11-esta-entre-recomendacoes-de-analista-para-buscar-renda-extra-veja-mais-lbrdjm005/",
-      "time": "2026-06-07T15:00:00Z",
-      "cat": "acoes",
-      "tickers": []
-    },
-    {
-      "title": "Agenda: IPCA no Brasil, inflação nos EUA e juros na zona do euro mexem com a semana; confira",
-      "summary": "A agenda econômica da semana promete manter os investidores atentos a dados de inflação, atividade e decisões de política monetária no exterior e Brasil. Na segunda-feira (8), o mercado dá a largada acompanhando a divulg",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/agenda-ipca-no-brasil-inflacao-nso-eua-e-juros-na-zona-do-euro-mexem-com-a-semana-confira/",
-      "time": "2026-06-07T15:00:00Z",
-      "cat": "economia",
-      "tickers": []
-    },
-    {
-      "title": "O ‘marinheiro’ abandonou o navio do Bitcoin (BTC) — e você, deveria? Esses e outros destaques do Crypto Times",
-      "summary": "Olá, investidor e investidora de cripto! Sejam muito bem-vindos a mais uma edição da nossa coluna semanal do Crypto Times, a editoria de criptomoedas do Money Times. Para se inscrever e receber em primeira mão em todas a",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/o-marinheiro-abandonou-o-navio-do-bitcoin-btc-e-voce-deveria-esses-e-outros-destaques-do-crypto-times-rens/",
-      "time": "2026-06-07T14:00:00Z",
-      "cat": "cripto",
-      "tickers": []
-    },
-    {
-      "title": "Bitcoin e ethereum tentam se recuperar neste domingo (7), mas ainda acumulam perdas na semana",
-      "summary": "As principais criptomoedas operam em alta neste domingo (7), recuperando parte das fortes perdas registradas nos últimos dias. O movimento ocorre após a aversão ao risco que atingiu os mercados globais na sexta-feira (5)",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bitcoin-e-ethereum-tentam-se-recuperam-neste-domingo-7-mas-ainda-acumulam-perdas-na-semana/",
-      "time": "2026-06-07T13:14:45Z",
-      "cat": "cripto",
-      "tickers": []
-    },
-    {
-      "title": "A partir de amanhã (8): reserve já seu acesso ao lançamento do Delta IA, automação que busca retornos de até R$ 1.960 semanais",
-      "summary": "Falta pouco: a partir desta segunda-feira (8), o Delta IA vai agitar aqueles que vivem conectados com o mercado de criptomoedas. A ferramenta que busca lucros milionários de forma 100% automatizada, será liberada para in",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/conteudo-de-marca/a-partir-de-amanha-8-reserve-ja-seu-acesso-ao-lancamento-do-delta-ia-automacao-que-busca-retornos-de-ate-r-1-960-semanais-lato-lbrdcp155/",
-      "time": "2026-06-07T13:01:00Z",
-      "cat": "acoes",
       "tickers": []
     },
     {
@@ -192,12 +201,30 @@
       "tickers": []
     },
     {
-      "title": "China muda cálculo e mascara metade da alta recente em suas emissões de carbono",
-      "summary": "Estudo aponta como, sem falsificar dados, o país adotou definição que facilita metas do Acordo de Paris e dificulta medir o progresso real",
+      "title": "Focus, inflação nos EUA e entrevista de Durigan: o que move os mercados",
+      "summary": "A agenda desta segunda, 7, também é mercado pela indústia na Alemanha, varejo no Reino Unido e balança comercial do Brasil",
       "source": "Exame",
-      "url": "https://exame.com/esg/china-muda-calculo-e-mascara-metade-da-alta-recente-em-suas-emissoes-de-carbono/",
-      "time": "2026-06-07T18:00:09Z",
-      "cat": "internacional",
+      "url": "https://exame.com/invest/mercados/focus-inflacao-nos-eua-e-entrevista-de-durigan-o-que-move-os-mercados/",
+      "time": "2026-06-08T05:30:07Z",
+      "cat": "economia",
+      "tickers": []
+    },
+    {
+      "title": "Exclusivo: Mercado Livre e MIDR levam produtores da bioeconomia ao e-commerce",
+      "summary": "Parceria com o Ministério da Integração vai capacitar 70 pequenos empreendimentos de cadeias como café, cacau, mel, mandioca e biodiversidade para vender online",
+      "source": "Exame",
+      "url": "https://exame.com/esg/exclusivo-mercado-livre-e-midr-levam-produtores-da-bioeconomia-ao-e-commerce/",
+      "time": "2026-06-08T05:00:42Z",
+      "cat": "economia",
+      "tickers": []
+    },
+    {
+      "title": "Nordeste supera Sul e vira 2º maior mercado de FIDC do Brasil, diz estudo",
+      "summary": "Juros elevados e demanda por financiamento impulsionam avanço dos FIDCs",
+      "source": "Exame",
+      "url": "https://exame.com/invest/onde-investir/nordeste-supera-sul-e-vira-2o-maior-mercado-de-fidc-do-brasil-diz-iox/",
+      "time": "2026-06-08T05:00:05Z",
+      "cat": "economia",
       "tickers": []
     },
     {
@@ -210,59 +237,59 @@
       "tickers": []
     },
     {
-      "title": "Bolsas asiáticas caem com KOSPI afundando em perdas com IA; escalada no Irã pesa",
+      "title": "Preços do carvão coqueificável na China sobem com distúrbios de oferta em Shanxi",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/bolsas-asiaticas-caem-com-kospi-afundando-em-perdas-com-ia-escalada-no-ira-pesa-1965047",
-      "time": "2026-06-08T03:33:28Z",
+      "url": "https://br.investing.com/news/stock-market-news/precos-do-carvao-coqueificavel-na-china-sobem-com-disturbios-de-oferta-em-shanxi-93CH-1965209",
+      "time": "2026-06-08T08:54:20Z",
       "cat": "internacional",
       "tickers": []
     },
     {
-      "title": "Curefoods desiste de IPO na Índia por preocupações com valuation",
+      "title": "Ações da Novo Nordisk caem após conferência da ADA",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/curefoods-desiste-de-ipo-na-india-por-preocupacoes-com-valuation-1965036",
-      "time": "2026-06-08T01:52:18Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-novo-nordisk-caem-apos-conferencia-da-ada-93CH-1965208",
+      "time": "2026-06-08T08:53:21Z",
       "cat": "internacional",
       "tickers": []
     },
     {
-      "title": "KOSPI despenca mais de 8% e aciona circuit breaker em meio à queda de semicondutores",
+      "title": "Por que as ações da Nurix Therapeutics estão disparando hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/kospi-despenca-mais-de-8-e-aciona-circuit-breaker-em-meio-a-queda-de-semicondutores-1965032",
-      "time": "2026-06-08T00:56:54Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-nurix-therapeutics-estao-disparando-hoje-93CH-1965203",
+      "time": "2026-06-08T08:44:10Z",
       "cat": "internacional",
       "tickers": []
     },
     {
-      "title": "Rússia - Ações fecharam o pregão em queda e o Índice MOEX Russia Index terminou sem alterações",
+      "title": "Por que as ações da Alvotech estão subindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/russia--acoes-fecharam-o-pregao-em-queda-e-o-indice-moex-russia-index-terminou-sem-alteracoes-1965001",
-      "time": "2026-06-07T21:20:25Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-alvotech-estao-subindo-hoje-93CH-1965202",
+      "time": "2026-06-08T08:43:54Z",
       "cat": "internacional",
       "tickers": []
     },
     {
-      "title": "Embraer espera que Índia avance com licitação de jatos militares de carga nos próximos meses",
+      "title": "Ações de companhias aéreas europeias caem após IATA reduzir à metade previsão de lucro para 2026",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/embraer-espera-que-india-avance-com-licitacao-de-jatos-militares-de-carga-nos-proximos-meses-1964998",
-      "time": "2026-06-07T20:35:27Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-de-companhias-aereas-europeias-caem-apos-iata-reduzir-a-metade-previsao-de-lucro-para-2026-1965198",
+      "time": "2026-06-08T08:39:17Z",
       "cat": "internacional",
       "tickers": []
     },
     {
-      "title": "Copa do Mundo 2026: qual o impacto real nas ações?",
+      "title": "Ações da Alvotech disparam com análise da FDA sobre biossimilar do Entyvio",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/copa-do-mundo-2026-qual-o-impacto-real-nas-acoes-1964996",
-      "time": "2026-06-07T20:27:32Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-alvotech-disparam-com-analise-da-fda-sobre-biossimilar-do-entyvio-93CH-1965196",
+      "time": "2026-06-08T08:38:23Z",
       "cat": "internacional",
       "tickers": []
     }
   ],
-  "atualizado_em": "08/06/2026 03:58"
+  "atualizado_em": "08/06/2026 09:00"
 }
