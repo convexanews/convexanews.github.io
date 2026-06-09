@@ -1,14 +1,23 @@
 {
   "headline": {
-    "title": "STJ nega pedido de liberdade de Deolane Bezerra em investigação sobre o PCC",
-    "summary": "Quinta Turma rejeitou por unanimidade recurso da defesa e manteve prisão preventiva da influenciadora",
+    "title": "Após anos cortejando Trump, Fifa vê relação atingir ápice na Copa",
+    "summary": "Gianni Infantino, presidente da Fifa, buscou sem constrangimento a simpatia do presidente. Nos bastidores, dirigentes do futebol se perguntam: quem realmente se beneficia disso?",
     "source": "InfoMoney",
-    "url": "https://www.infomoney.com.br/brasil/stj-nega-pedido-de-liberdade-de-deolane-bezerra-em-investigacao-sobre-o-pcc/",
-    "time": "2026-06-09T21:51:41Z",
-    "cat": "acoes",
+    "url": "https://www.infomoney.com.br/business/global/apos-anos-cortejando-trump-fifa-ve-relacao-atingir-apice-na-copa/",
+    "time": "2026-06-09T22:23:10Z",
+    "cat": "internacional",
     "tickers": []
   },
   "featured": [
+    {
+      "title": "STJ nega pedido de liberdade de Deolane Bezerra em investigação sobre o PCC",
+      "summary": "Quinta Turma rejeitou por unanimidade recurso da defesa e manteve prisão preventiva da influenciadora",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/brasil/stj-nega-pedido-de-liberdade-de-deolane-bezerra-em-investigacao-sobre-o-pcc/",
+      "time": "2026-06-09T21:51:41Z",
+      "cat": "acoes",
+      "tickers": []
+    },
     {
       "title": "Carney anuncia inauguração de ponte entre Canadá e EUA, apesar de Trump",
       "summary": "Em fevereiro, o presidente americano, Donald Trump, ameaçou atrasar a abertura da nova Ponte Internacional Gordie Howe",
@@ -17,18 +26,18 @@
       "time": "2026-06-09T21:32:38Z",
       "cat": "internacional",
       "tickers": []
-    },
-    {
-      "title": "IA pode salvar governos da crise fiscal? XP vê saída na produtividade",
-      "summary": "Com juros longos em alta e governos sem espaço para cortar gastos, CIO da XP vê na inteligência artificial uma possível resposta para a pressão sobre as dívidas públicas",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/onde-investir/ia-pode-salvar-governos-da-crise-fiscal-xp-ve-saida-na-produtividade/",
-      "time": "2026-06-09T21:13:57Z",
-      "cat": "economia",
-      "tickers": []
     }
   ],
   "all": [
+    {
+      "title": "Após anos cortejando Trump, Fifa vê relação atingir ápice na Copa",
+      "summary": "Gianni Infantino, presidente da Fifa, buscou sem constrangimento a simpatia do presidente. Nos bastidores, dirigentes do futebol se perguntam: quem realmente se beneficia disso?",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/business/global/apos-anos-cortejando-trump-fifa-ve-relacao-atingir-apice-na-copa/",
+      "time": "2026-06-09T22:23:10Z",
+      "cat": "internacional",
+      "tickers": []
+    },
     {
       "title": "STJ nega pedido de liberdade de Deolane Bezerra em investigação sobre o PCC",
       "summary": "Quinta Turma rejeitou por unanimidade recurso da defesa e manteve prisão preventiva da influenciadora",
@@ -48,12 +57,30 @@
       "tickers": []
     },
     {
-      "title": "IA pode salvar governos da crise fiscal? XP vê saída na produtividade",
-      "summary": "Com juros longos em alta e governos sem espaço para cortar gastos, CIO da XP vê na inteligência artificial uma possível resposta para a pressão sobre as dívidas públicas",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/onde-investir/ia-pode-salvar-governos-da-crise-fiscal-xp-ve-saida-na-produtividade/",
-      "time": "2026-06-09T21:13:57Z",
-      "cat": "economia",
+      "title": "Iguatemi (IGTI11) aprova novo programa de recompra de ações de até R$ 60,3 milhões",
+      "summary": "A Iguatemi (IGTI11) informou nesta terça-feira (9) que seu Conselho de Administração aprovou um novo programa de recompra de ações e encerrou antecipadamente o programa anterior, que havia sido aprovado em fevereiro de 2",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/iguatemi-igti11-aprova-novo-programa-de-recompra-de-acoes-de-ate-r-603-milhoes/",
+      "time": "2026-06-09T22:44:47Z",
+      "cat": "acoes",
+      "tickers": []
+    },
+    {
+      "title": "Anthropic anuncia novo modelo mais capaz da IA Mythos, em preparação para IPO",
+      "summary": "A Anthropic anunciou na terça-feira, 9, que lançou um novo modelo altamente capaz antes da oferta pública inicial (IPO, em inglês) da empresa de inteligência artificial (IA). A Anthropic disse em um post no blog que lanç",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/anthropic-anuncia-novo-modelo-mais-capaz-da-ia-mythos-em-preparacao-para-ipo/",
+      "time": "2026-06-09T22:38:14Z",
+      "cat": "acoes",
+      "tickers": []
+    },
+    {
+      "title": "Irã nega ter mirado em helicóptero dos EUA, que anunciam ataque de retaliação como ‘autodefesa’",
+      "summary": "O Irã teria informado aos mediadores que não derrubou um helicóptero dos Estados Unidos de maneira intencional, segundo uma fonte ouvida pela Al Arabiya. Apesar disso, os EUA anunciaram que realizaram ataques contra os i",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ira-nega-ter-mirado-em-helicoptero-dos-eua-que-anunciam-ataque-de-retaliacao-como-autodefesa/",
+      "time": "2026-06-09T22:34:48Z",
+      "cat": "internacional",
       "tickers": []
     },
     {
@@ -93,21 +120,12 @@
       "tickers": []
     },
     {
-      "title": "Wall Street fecha sem direção única com nova ameaça de Trump ao Irã e à espera de inflação",
-      "summary": "Os índices de Wall Street encerraram o pregão sem direção única com novos desdobramentos no Oriente Médio e expectativa sobre a trajetória de juros antes de novos dados de inflação. Confira o fechamento dos índices: O qu",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/wall-street-9-6-26-lils/",
-      "time": "2026-06-09T20:07:01Z",
-      "cat": "economia",
-      "tickers": []
-    },
-    {
-      "title": "Dólar registra leve recuo a R$ 5,17 de olho no Oriente Médio",
-      "summary": "O dólar à vista fechou próximo à estabilidade, com ligeiro recuo, diante da instabilidade do cenário geopolítico das negociações entre Estados Unidos e Irã. Nesta terça-feira (9), o dólar à vista (USDBRL) terminou as neg",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/dolar-9-6-26-apsa/",
-      "time": "2026-06-09T20:05:13Z",
-      "cat": "economia",
+      "title": "RNGO11 fecha nova locação e reduz vacância no CA Rio Negro",
+      "summary": "O fundo imobiliário RNGO11 reduziu sua vacância física após firmar um novo contrato de locação no Edifício CA Rio Negro, em Barueri. A assinatura ocorreu em 1º de junho de 2026, com a Familhão Engajamento e Intermediação",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/rngo11-reduz-vacancia-ca-rio-negro/",
+      "time": "2026-06-09T23:25:07Z",
+      "cat": "acoes",
       "tickers": []
     },
     {
@@ -147,48 +165,39 @@
       "tickers": []
     },
     {
-      "title": "GLOG11 vende participação e inicia processo de encerramento",
-      "summary": "O fundo imobiliário GLOG11 concluiu a venda de sua participação integral no Parque Logístico Pernambuco (PLPE), em Ipojuca (PE), por R$ 56,177 milhões. A operação foi formalizada por escritura pública de compra e venda, ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/glog11-vende-participacao-inicia-liquidacao/",
-      "time": "2026-06-09T17:15:07Z",
-      "cat": "acoes",
-      "tickers": []
-    },
-    {
-      "title": "'A Casa do Dragão' já tem data para acabar, confirma criador da série",
-      "summary": "Showrunner revelou detalhes sobre o futuro da produção e classificou a temporada final como a mais ambiciosa já realizada",
+      "title": "Na reserva e com poucos minutos: a situação de Memphis na seleção holandesa",
+      "summary": "Jogador do Corinthians atuou em apenas um dos dois amistosos preparatórios e não deve começar a Copa do Mundo entre os titulares",
       "source": "Exame",
-      "url": "https://exame.com/pop/a-casa-do-dragao-ja-tem-data-para-acabar-confirma-criador-da-serie/",
-      "time": "2026-06-09T19:00:19Z",
+      "url": "https://exame.com/esporte/na-reserva-e-com-poucos-minutos-a-situacao-de-memphis-na-selecao-holandesa/",
+      "time": "2026-06-09T20:49:36Z",
       "cat": "economia",
       "tickers": []
     },
     {
-      "title": "Extração de urânio do mar marca nova fase no uso dos recursos oceânicos da China",
-      "summary": "Além da dessalinização para produção de água potável, a China amplia investimentos em tecnologias voltadas à extração de elementos presentes na água do mar, como urânio, lítio e deutério",
+      "title": "Petróleo avança 2% após novos ataques dos EUA ao Irã por abate de helicóptero",
+      "summary": "Ataques ocorreram horas após ameaça feita pelo presidente americano Donald Trump",
       "source": "Exame",
-      "url": "https://exame.com/mundo/extracao-de-uranio-do-mar-marca-nova-fase-no-uso-dos-recursos-oceanicos-da-china/",
-      "time": "2026-06-09T18:53:43Z",
+      "url": "https://exame.com/invest/mercados/petroleo-avanca-2-apos-novos-ataques-dos-eua-ao-ira-por-abate-de-helicoptero/",
+      "time": "2026-06-09T20:12:36Z",
       "cat": "internacional",
       "tickers": []
     },
     {
-      "title": "O que a China está criando além dos carros elétricos",
-      "summary": "Com trens de levitação magnética, interfaces cérebro-computador e Sol artificial, o país inova tecnologicamente",
-      "source": "Exame",
-      "url": "https://exame.com/mundo/o-que-a-china-esta-criando-alem-dos-carros-eletricos/",
-      "time": "2026-06-09T18:47:57Z",
+      "title": "SpaceX quer lançar testes de computação com IA em órbita até final de 2027, dizem fontes",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/spacex-quer-lancar-testes-de-computacao-com-ia-em-orbita-ate-final-de-2027-dizem-fontes-1967969",
+      "time": "2026-06-09T22:49:10Z",
       "cat": "internacional",
       "tickers": []
     },
     {
-      "title": "Ethena faz parceria com gestora que administra US$ 480 bilhões",
-      "summary": "Pelo acordo, a empresa emissora do USDe deverá alocar recursos e auxiliar na distribuição de fundos tokenizados",
-      "source": "Exame",
-      "url": "https://exame.com/future-of-money/ethena-faz-parceria-com-gestora-que-administra-us-480-bilhoes/",
-      "time": "2026-06-09T18:38:28Z",
-      "cat": "cripto",
+      "title": "S&P eleva rating da Urban One para CCC+ após recompra de dívida",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/sp-eleva-rating-da-urban-one-para-ccc-apos-recompra-de-divida-93CH-1967933",
+      "time": "2026-06-09T22:07:44Z",
+      "cat": "internacional",
       "tickers": []
     },
     {
@@ -235,34 +244,7 @@
       "time": "2026-06-09T21:31:26Z",
       "cat": "internacional",
       "tickers": []
-    },
-    {
-      "title": "México - Ações fecharam o pregão em queda e o Índice S&P/BMV IPC recuou 0,37%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/mexico--acoes-fecharam-o-pregao-em-queda-e-o-indice-spbmv-ipc-recuou-037-1967888",
-      "time": "2026-06-09T21:30:20Z",
-      "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "Colômbia - Ações fecharam o pregão em alta e o Índice COLCAP avançou 2,71%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/colombia--acoes-fecharam-o-pregao-em-alta-e-o-indice-colcap-avancou-271-1967881",
-      "time": "2026-06-09T21:25:18Z",
-      "cat": "fundos",
-      "tickers": []
-    },
-    {
-      "title": "Anac espera certificação de Boeing MAX 10 este ano",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/anac-espera-certificacao-de-boeing-max-10-este-ano-1967877",
-      "time": "2026-06-09T21:21:06Z",
-      "cat": "internacional",
-      "tickers": []
     }
   ],
-  "atualizado_em": "09/06/2026 22:08"
+  "atualizado_em": "09/06/2026 23:51"
 }
