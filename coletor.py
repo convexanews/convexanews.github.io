@@ -710,6 +710,30 @@ def coletar_di_futuro():
 dados['di_futuro'] = coletar_di_futuro()
 print(f"  DI futuro: {len(dados['di_futuro'])} contratos")
 
+# ==================== COMMODITIES (futuros, Yahoo Finance) ====================
+COMMODITIES = {
+    'OURO':    {'yf': 'GC=F',  'nome': 'Ouro',             'unidade': 'US$/onça'},
+    'PRATA':   {'yf': 'SI=F',  'nome': 'Prata',            'unidade': 'US$/onça'},
+    'BRENT':   {'yf': 'BZ=F',  'nome': 'Petróleo Brent',   'unidade': 'US$/barril'},
+    'WTI':     {'yf': 'CL=F',  'nome': 'Petróleo WTI',     'unidade': 'US$/barril'},
+    'GAS':     {'yf': 'NG=F',  'nome': 'Gás Natural',      'unidade': 'US$/MMBtu'},
+    'COBRE':   {'yf': 'HG=F',  'nome': 'Cobre',            'unidade': 'US$/libra'},
+    'MINERIO': {'yf': 'TIO=F', 'nome': 'Minério de Ferro', 'unidade': 'US$/tonelada'},
+    'SOJA':    {'yf': 'ZS=F',  'nome': 'Soja',             'unidade': '¢/bushel'},
+    'MILHO':   {'yf': 'ZC=F',  'nome': 'Milho',            'unidade': '¢/bushel'},
+    'CAFE':    {'yf': 'KC=F',  'nome': 'Café',             'unidade': '¢/libra'},
+    'ACUCAR':  {'yf': 'SB=F',  'nome': 'Açúcar',           'unidade': '¢/libra'},
+}
+
+print("Commodities...")
+dados['commodities'] = {}
+for chave, info in COMMODITIES.items():
+    r = coletar_indice(info['yf'], info['nome'])
+    if r:
+        r['unidade'] = info['unidade']
+        dados['commodities'][chave] = r
+print(f"  OK: {len(dados['commodities'])} commodities")
+
 print("Enriquecendo dados...")
 enriquecer_market_cap_brapi(dados)
 enriquecer_market_cap_us(dados)

@@ -11332,5 +11332,73 @@
       "ant": 14.449,
       "contratos": 1446060
     }
-  ]
+  ],
+  "commodities": {
+    "OURO": {
+      "stock": "Ouro",
+      "close": 4234.5,
+      "change": 3.07,
+      "unidade": "US$/onça"
+    },
+    "PRATA": {
+      "stock": "Prata",
+      "close": 67.46,
+      "change": 4.43,
+      "unidade": "US$/onça"
+    },
+    "BRENT": {
+      "stock": "Petróleo Brent",
+      "close": 88.81,
+      "change": -4.61,
+      "unidade": "US$/barril"
+    },
+    "WTI": {
+      "stock": "Petróleo WTI",
+      "close": 86.13,
+      "change": -4.33,
+      "unidade": "US$/barril"
+    },
+    "GAS": {
+      "stock": "Gás Natural",
+      "close": 3.08,
+      "change": -3.3,
+      "unidade": "US$/MMBtu"
+    },
+    "COBRE": {
+      "stock": "Cobre",
+      "close": 6.39,
+      "change": 2.26,
+      "unidade": "US$/libra"
+    },
+    "MINERIO": {
+      "stock": "Minério de Ferro",
+      "close": 101.7,
+      "change": 0.33,
+      "unidade": "US$/tonelada"
+    },
+    "SOJA": {
+      "stock": "Soja",
+      "close": 1115.75,
+      "change": -0.65,
+      "unidade": "¢/bushel"
+    },
+    "MILHO": {
+      "stock": "Milho",
+      "close": 411.0,
+      "change": -1.91,
+      "unidade": "¢/bushel"
+    },
+    "CAFE": {
+      "stock": "Café",
+      "close": 251.25,
+      "change": 1.15,
+      "unidade": "¢/libra"
+    },
+    "ACUCAR": {
+      "stock": "Açúcar",
+      "close": 14.37,
+      "change": 3.23,
+      "unidade": "¢/libra"
+    }
+  }
 }

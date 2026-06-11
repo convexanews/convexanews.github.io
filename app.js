@@ -886,9 +886,29 @@ function renderIndicadoresMercados() {
   if (dadosJson.euro?.close) cards.push(indCardVar('💶 Euro', 'R$ ' + dadosJson.euro.close.toFixed(4), dadosJson.euro.change));
   const btc = dadosJson.crypto?.BTC;
   if (btc) cards.push(indCardVar('₿ Bitcoin', 'US$ ' + fmt(btc.close), btc.change));
-  const ouro = dadosJson.etfs?.GOLD11;
-  if (ouro) cards.push(indCardVar('🥇 Ouro (GOLD11)', 'R$ ' + ouro.close.toFixed(2), ouro.change));
 
+  grid.innerHTML = cards.join('') || '<div class="loading-text">Sem dados no momento</div>';
+
+  renderCommodities();
+}
+
+const COMMODITY_ICONE = {
+  OURO: '🥇', PRATA: '🥈', BRENT: '🛢️', WTI: '🛢️', GAS: '🔥',
+  COBRE: '🔶', MINERIO: '⛏️', SOJA: '🌱', MILHO: '🌽', CAFE: '☕', ACUCAR: '🍬',
+};
+
+function renderCommodities() {
+  const grid = document.getElementById('indGridCommodities');
+  if (!grid) return;
+  const coms = dadosJson?.commodities || {};
+  const cards = Object.entries(coms).map(([chave, c]) => {
+    const up = (c.change || 0) >= 0;
+    const valor = c.close >= 1000
+      ? c.close.toLocaleString('pt-BR', { maximumFractionDigits: 2 })
+      : c.close.toFixed(2).replace('.', ',');
+    const sub = `${up ? '▲' : '▼'} ${up ? '+' : ''}${(c.change || 0).toFixed(2)}% hoje · ${c.unidade || ''}`;
+    return indCard((COMMODITY_ICONE[chave] || '') + ' ' + esc(c.stock), valor, sub, up ? 'up' : 'down');
+  });
   grid.innerHTML = cards.join('') || '<div class="loading-text">Sem dados no momento</div>';
 }
 
