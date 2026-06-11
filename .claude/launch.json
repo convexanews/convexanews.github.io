@@ -4,7 +4,7 @@
     {
       "name": "convexa-news",
       "runtimeExecutable": "python",
-      "runtimeArgs": ["-m", "http.server", "3457", "--directory", "C:/Users/Pc Maicon/Desktop/convexa-news"],
+      "runtimeArgs": ["-m", "http.server", "3457", "--directory", "C:/Users/Pc Maicon/Desktop/convexanews.github.io"],
       "port": 3457
     }
   ]
