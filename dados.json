@@ -11274,5 +11274,49 @@
     "close": 5.9586,
     "change": -0.37
   },
-  "atualizado_iso": "2026-06-11T09:28:38Z"
+  "atualizado_iso": "2026-06-11T09:28:38Z",
+  "di_futuro": [
+    {
+      "symb": "DI1F27",
+      "venc": "2027-01-04",
+      "taxa": 14.305,
+      "ant": 14.331,
+      "contratos": 6885688
+    },
+    {
+      "symb": "DI1F28",
+      "venc": "2028-01-03",
+      "taxa": 14.495,
+      "ant": 14.556,
+      "contratos": 4039609
+    },
+    {
+      "symb": "DI1F29",
+      "venc": "2029-01-02",
+      "taxa": 14.5,
+      "ant": 14.559,
+      "contratos": 3265272
+    },
+    {
+      "symb": "DI1F30",
+      "venc": "2030-01-02",
+      "taxa": 14.475,
+      "ant": 14.526,
+      "contratos": 1547508
+    },
+    {
+      "symb": "DI1F31",
+      "venc": "2031-01-02",
+      "taxa": 14.42,
+      "ant": 14.462,
+      "contratos": 2909974
+    },
+    {
+      "symb": "DI1F32",
+      "venc": "2032-01-02",
+      "taxa": 14.43,
+      "ant": 14.449,
+      "contratos": 1446060
+    }
+  ]
 }

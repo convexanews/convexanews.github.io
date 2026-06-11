@@ -221,6 +221,8 @@ function loadTickerDataFromJson() {
   }
   if (dadosJson.dolar?.close) items.push({ symbol: 'USD/BRL', price: dadosJson.dolar.close, change: dadosJson.dolar.change });
   if (dadosJson.euro?.close) items.push({ symbol: 'EUR/BRL', price: dadosJson.euro.close, change: dadosJson.euro.change });
+  const di = diTickerItem();
+  if (di) items.push(di);
   if (dadosJson.stocks) {
     tickerList.forEach(t => {
       const s = dadosJson.stocks[t];
@@ -236,6 +238,8 @@ function loadTickerData() {
   if (!brapiAllStocks.length) return;
   const tickerList = ['PETR4', 'VALE3', 'ITUB4', 'BBDC4', 'WEGE3', 'BBAS3', 'ABEV3', 'SUZB3', 'RENT3', 'B3SA3', 'MGLU3', 'LREN3'];
   const items = [];
+  const di = diTickerItem();
+  if (di) items.push(di);
   tickerList.forEach(t => {
     const s = findStock(t);
     if (s) items.push({ symbol: s.stock, price: s.close, change: s.change });
@@ -770,6 +774,73 @@ function loadETFs() {
 }
 tableRefreshers.tbEtfs = renderEtfsTable;
 
+// ===== DI FUTURO (B3, tempo real) =====
+let diFuturoCache = [];
+const MES_PT = ['jan', 'fev', 'mar', 'abr', 'mai', 'jun', 'jul', 'ago', 'set', 'out', 'nov', 'dez'];
+
+function labelVencDI(venc) {
+  const [ano, mes] = venc.split('-');
+  return MES_PT[parseInt(mes, 10) - 1] + '/' + ano.slice(2);
+}
+
+async function fetchDIFuturo() {
+  try {
+    const resp = await fetch('https://cotacao.b3.com.br/mds/api/v1/DerivativeQuotation/DI1');
+    const data = await resp.json();
+    const contratos = (data.Scty || []).map(s => {
+      const qtn = s.SctyQtn || {};
+      const summ = s.asset?.AsstSummry || {};
+      return {
+        symb: s.symb || '',
+        venc: summ.mtrtyCode || '',
+        taxa: qtn.curPrc ?? qtn.prvsDayAdjstmntPric,
+        ant: qtn.prvsDayAdjstmntPric ?? null,
+        contratos: summ.opnCtrcts || 0,
+      };
+    }).filter(c => c.taxa && c.venc);
+    // Prioriza contratos de janeiro (DI1F = benchmark); completa com os mais líquidos
+    const jans = contratos.filter(c => c.symb.startsWith('DI1F'));
+    const outros = contratos.filter(c => !c.symb.startsWith('DI1F')).sort((a, b) => b.contratos - a.contratos);
+    const sel = (jans.length >= 4 ? jans : [...jans, ...outros]).slice(0, 12);
+    sel.sort((a, b) => a.venc.localeCompare(b.venc));
+    diFuturoCache = sel.slice(0, 6);
+    return diFuturoCache.length > 0;
+  } catch (e) {
+    console.warn('DI futuro B3:', e);
+    return false;
+  }
+}
+
+function renderDIFuturo() {
+  const grid = document.getElementById('indGridDI');
+  if (!grid) return;
+  const src = diFuturoCache.length ? diFuturoCache : (dadosJson?.di_futuro || []);
+  if (!src.length) {
+    grid.innerHTML = '<div class="loading-text">Sem dados da B3 no momento</div>';
+    return;
+  }
+  grid.innerHTML = src.map(c => {
+    const varPp = c.ant != null ? c.taxa - c.ant : null;
+    const up = (varPp || 0) >= 0;
+    const sub = varPp != null
+      ? `${up ? '▲' : '▼'} ${up ? '+' : ''}${varPp.toFixed(2).replace('.', ',')} p.p. hoje`
+      : 'taxa do contrato';
+    return indCard('DI ' + labelVencDI(c.venc), c.taxa.toFixed(2).replace('.', ',') + '%', sub, up ? 'up' : 'down');
+  }).join('');
+}
+
+async function loadDIFuturo() {
+  await fetchDIFuturo();
+  renderDIFuturo();
+}
+
+function diTickerItem() {
+  const src = diFuturoCache.length ? diFuturoCache : (dadosJson?.di_futuro || []);
+  const c = src[0];
+  if (!c) return null;
+  return { symbol: 'DI ' + labelVencDI(c.venc).toUpperCase(), price: c.taxa, change: c.ant != null ? c.taxa - c.ant : null };
+}
+
 // ===== PÁGINA: INDICADORES =====
 let indicadoresCarregado = false;
 
@@ -821,6 +892,7 @@ function renderIndicadoresMercados() {
 
 async function loadIndicadores() {
   renderIndicadoresMercados();
+  loadDIFuturo(); // tempo real, atualiza a cada visita e a cada 2 min
   if (indicadoresCarregado) return;
 
   const grid = document.getElementById('indGridJuros');
@@ -1318,7 +1390,10 @@ async function init() {
   setupSorting();
   setupSearch();
 
-  // 3. Dados das tabelas: dados.json (GitHub Actions) com fallback BrAPI
+  // 3. DI futuro (B3, tempo real) — alimenta ticker e pagina Indicadores
+  await fetchDIFuturo();
+
+  // 4. Dados das tabelas: dados.json (GitHub Actions) com fallback BrAPI
   const dadosOk = await loadDadosJson();
   if (dadosOk) {
     loadTickerDataFromJson();
@@ -1333,10 +1408,13 @@ async function init() {
   loadUSStocks();
   loadCrypto();
 
-  // 4. Ticker bar em tempo real durante o pregão (BrAPI a cada 2 min)
+  // 5. Tempo real a cada 2 min: DI futuro (B3) + ticker bar (BrAPI)
   setInterval(async () => {
+    await fetchDIFuturo();
+    if (state.currentPage === 'indicadores') renderDIFuturo();
     const ok = await loadBrapiList();
     if (ok) loadTickerData();
+    else loadTickerDataFromJson();
   }, 120000);
 
   // 5. Tabelas: recarrega dados.json a cada 15 min (sincronizado com o robô)

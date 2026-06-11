@@ -673,6 +673,43 @@ def coletar_cambio(ticker_yf, label):
 dados['dolar'] = coletar_cambio('USDBRL=X', 'USD/BRL') or {}
 dados['euro']  = coletar_cambio('EURBRL=X', 'EUR/BRL') or {}
 
+# ==================== DI FUTURO (B3) ====================
+def coletar_di_futuro():
+    """Contratos DI1 da B3 (curva de juros futura) — endpoint público de market data."""
+    if not HAS_REQUESTS:
+        return []
+    try:
+        resp = requests.get('https://cotacao.b3.com.br/mds/api/v1/DerivativeQuotation/DI1',
+                            headers=UA_HEADERS, timeout=30)
+        contratos = []
+        for s in resp.json().get('Scty', []):
+            qtn = s.get('SctyQtn', {})
+            summ = (s.get('asset') or {}).get('AsstSummry', {})
+            taxa = qtn.get('curPrc') or qtn.get('prvsDayAdjstmntPric')
+            venc = summ.get('mtrtyCode', '')
+            if not taxa or not venc:
+                continue
+            contratos.append({
+                'symb': s.get('symb', ''),
+                'venc': venc,
+                'taxa': round(float(taxa), 3),
+                'ant': round(float(qtn.get('prvsDayAdjstmntPric') or 0), 3) or None,
+                'contratos': int(summ.get('opnCtrcts') or 0),
+            })
+        # Prioriza contratos de janeiro (DI1F = benchmark); completa com os mais líquidos
+        jans = [c for c in contratos if c['symb'].startswith('DI1F')]
+        outros = sorted([c for c in contratos if not c['symb'].startswith('DI1F')],
+                        key=lambda c: -c['contratos'])
+        sel = (jans if len(jans) >= 4 else jans + outros)[:12]
+        sel.sort(key=lambda c: c['venc'])
+        return sel[:6]
+    except Exception as e:
+        print(f"  DI futuro B3: {e}")
+        return []
+
+dados['di_futuro'] = coletar_di_futuro()
+print(f"  DI futuro: {len(dados['di_futuro'])} contratos")
+
 print("Enriquecendo dados...")
 enriquecer_market_cap_brapi(dados)
 enriquecer_market_cap_us(dados)
