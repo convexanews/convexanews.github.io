@@ -1,301 +1,267 @@
 {
   "headline": {
-    "title": "Ibovespa e dólar hoje: BCE abre decisões de juros em meio a novas tensões com Irã",
-    "summary": "",
-    "source": "Investing.com",
-    "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-bce-abre-decisoes-de-juros-em-meio-a-novas-tensoes-com-ira-1969217",
-    "time": "2026-06-11T10:15:00Z",
+    "title": "Ibovespa sobe 1,7% e dólar cai a R$ 5,10 após sinal de acordo entre EUA e Irã",
+    "summary": "Em Wall Street, os principais índices também fecharam em alta com o alívio externo",
+    "source": "Exame",
+    "url": "https://exame.com/invest/mercados/ibovespa-sobe-17-e-dolar-cai-a-r-510-apos-sinal-de-acordo-entre-eua-e-ira/",
+    "time": "2026-06-11T17:39:28Z",
     "cat": "economia",
     "tickers": []
   },
   "featured": [
     {
-      "title": "Tempo Real: Ibovespa acompanha juros na Europa e dados nos EUA",
-      "summary": "Resumo: O Ibovespa (IBOV) acompanha a decisão de política monetária do Banco Central Europeu (BCE) e sua coletiva, além do relatório mensal da Opep, dados do setor de serviços no Brasil e indicadores de inflação e empreg",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/tempo-real-ibovespa-hoje-mercado-ao-vivo-11-06-2026-jals-lils-apsa/",
-      "time": "2026-06-11T09:00:00Z",
-      "cat": "economia",
-      "tickers": []
+      "title": "PetroReconcavo (RECV3) dispara após Citi elevar recomendação; veja detalhes",
+      "summary": "As ações da PetroReconcavo (RECV3) lideram as altas do Ibovespa nesta quinta-feira (11), após o Citi elevar a recomendação para os papéis. Por volta das 16h30, os ativos avançavam 6,39%, a R$ 11,16, depois de chegarem a ",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/petroreconcavo-recv3-sobe-citi-eleva-recomendacao-compra-go/",
+      "time": "2026-06-11T19:45:08Z",
+      "cat": "analise",
+      "tickers": [
+        "RECV3"
+      ]
     },
     {
-      "title": "Serviços no Brasil, PPI nos EUA, decisão de juros do BCE e mais destaques desta 5ª",
-      "summary": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta quinta-feira (11)",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/servicos-brasil-ppi-eua-decisao-de-juros-do-bce-11062026/",
-      "time": "2026-06-11T08:57:05Z",
+      "title": "Itaú Asset lança ETF atrelado ao CDI com IR de 15% e mira reserva de emergência",
+      "summary": "A Itaú Asset anunciou o lançamento do CDIB11, novo ETF de renda fixa voltado a investidores que buscam uma alternativa conservadora para a reserva de liquidez. O produto estreia na B3 com taxa de administração de 0,15% a",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/itau-asset-lanca-etf-atrelado-cdi-ir-mira-reserva-emergencia/",
+      "time": "2026-06-11T21:35:10Z",
       "cat": "economia",
       "tickers": []
     }
   ],
   "all": [
     {
-      "title": "Irã anuncia fechamento do Estreito de Ormuz após ataques dos EUA",
-      "summary": "Teerã afirmou ​que ​qualquer embarcação que ⁠tentar ​passar será ​alvejada",
+      "title": "Tribunal de apelações dos EUA autoriza Trump a manter tarifa global de 10%",
+      "summary": "Inicialmente, o Tribunal de Comércio Internacional havia decidido que as novas tarifas não eram válidas",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mundo/ira-anuncia-fechamento-do-estreito-de-ormuz-apos-ataques-dos-eua/",
-      "time": "2026-06-11T09:07:47Z",
+      "url": "https://www.infomoney.com.br/mundo/tribunal-de-apelacoes-dos-eua-autoriza-trump-a-manter-tarifa-global-de-10/",
+      "time": "2026-06-11T21:34:44Z",
       "cat": "internacional",
       "tickers": []
     },
     {
-      "title": "Serviços no Brasil, PPI nos EUA, decisão de juros do BCE e mais destaques desta 5ª",
-      "summary": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta quinta-feira (11)",
+      "title": "Ministra anuncia lançamento de fundo imobiliário da União, administrado pela Caixa",
+      "summary": "A ideia é que imóveis públicos sem potencial de uso para políticas públicas possam alavancar investimentos",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/servicos-brasil-ppi-eua-decisao-de-juros-do-bce-11062026/",
-      "time": "2026-06-11T08:57:05Z",
-      "cat": "economia",
+      "url": "https://www.infomoney.com.br/mercados/ministra-anuncia-lancamento-de-fundo-imobiliario-da-uniao-administrado-pela-caixa/",
+      "time": "2026-06-11T21:18:08Z",
+      "cat": "fundos",
       "tickers": []
     },
     {
-      "title": "Dow Jones Futuro sobe após EUA anunciarem fim dos ataques ao Irã",
-      "summary": "Anúncio elevou as expectativas de que as negociações para a reabertura do Estreito de Ormuz sejam retomadas",
+      "title": "PetroRecôncavo: Citi eleva RECV3 a compra com visão de mais dividendos e ação sobe 6%",
+      "summary": "A elevação de recomendação é sustentada pela alta probabilidade de um perfil de fluxo de caixa livre (FCF) mais forte se converter em dividendos",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/dow-jones-futuro-sobe-apos-eua-anunciarem-fim-dos-ataques-ao-ira/",
-      "time": "2026-06-11T08:36:49Z",
-      "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "Minidólar (WDON26): veja os pontos de atenção para o day trade nesta quinta",
-      "summary": "Saiba o que esperar para o minidólar nesta quinta (11)",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdon26-11062026/",
-      "time": "2026-06-11T08:06:00Z",
-      "cat": "economia",
-      "tickers": []
-    },
-    {
-      "title": "Day Trade hoje (11): Ibovespa volta ao radar dos vendedores; o que observar?",
-      "summary": "Confira os pontos de suporte e resistência do mini-índice e minidólar",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-11062026/",
-      "time": "2026-06-11T08:00:00Z",
-      "cat": "acoes",
-      "tickers": []
-    },
-    {
-      "title": "Bolsas da Ásia fecham mistas após queda de ações de IA em NY e troca de ataques EUA-Irã",
-      "summary": "As bolsas asiáticas fecharam sem direção única nesta quinta-feira (11), após uma nova liquidação de ações ligadas à inteligência artificial, que derrubou os mercados em Nova York, e a mais recente troca de ataques entre ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bolsas-da-asia-fecham-mistas-apos-queda-de-acoes-de-ia-em-ny-e-troca-de-ataques-eua-ira-fets/",
-      "time": "2026-06-11T09:18:08Z",
-      "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "Tempo Real: Ibovespa acompanha juros na Europa e dados nos EUA",
-      "summary": "Resumo: O Ibovespa (IBOV) acompanha a decisão de política monetária do Banco Central Europeu (BCE) e sua coletiva, além do relatório mensal da Opep, dados do setor de serviços no Brasil e indicadores de inflação e empreg",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/tempo-real-ibovespa-hoje-mercado-ao-vivo-11-06-2026-jals-lils-apsa/",
-      "time": "2026-06-11T09:00:00Z",
-      "cat": "economia",
-      "tickers": []
-    },
-    {
-      "title": "Banco Central inclui ativos virtuais em remessas de informações por instituições",
-      "summary": "O Banco Central ampliou nesta quarta-feira (10) a norma que versa sobre os procedimentos para a remessa de informações sobre a apuração de limites e padrões regulamentares, pelas instituições financeiras, à autoridade mo",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/banco-central-inclui-ativos-virtuais-em-remessas-de-informacoes-por-instituicoes-fets/",
-      "time": "2026-06-11T08:48:00Z",
-      "cat": "economia",
-      "tickers": []
-    },
-    {
-      "title": "Cerimônia de abertura e primeira partida da Copa do Mundo 2026 ocorrem hoje; veja onde assistir",
-      "summary": "A seleção brasileira só vai estrear na Copa do Mundo de 2026 no fim de semana, mas o maior torneio de seleções de futebol do mundo começa nesta quinta-feira (11). A cerimônia de abertura oficial do campeonato começa às 1",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/cerimonia-de-abertura-primeira-partida-da-copa-do-mundo-2026-ocorrem-hoje-garg/",
-      "time": "2026-06-11T08:45:00Z",
-      "cat": "acoes",
-      "tickers": []
-    },
-    {
-      "title": "Motiva (MOTV3) tem alta no fluxo de veículos em maio",
-      "summary": "A operadora de rodovias e transporte ferroviário de passageiros Motiva (MOTV3) anunciou nesta quarta-feira (10) que o tráfego de veículos equivalentes em maio cresceu 2,6% sobre um ano antes, acumulando expansão de 3% es",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/motiva-motv3-tem-alta-no-fluxo-de-veiculos-em-maio-fets/",
-      "time": "2026-06-11T08:29:00Z",
-      "cat": "acoes",
-      "tickers": []
-    },
-    {
-      "title": "Petróleo oscila com escalada de guerra no Golfo, mas mercado ainda avalia impacto real sobre a oferta",
-      "summary": "Os preços do petróleo oscilam nesta quinta-feira (11) em meio à escalada das hostilidades entre Estados Unidos e Irã, à medida que os investidores avaliam o impacto efetivo sobre as interrupções no fornecimento global. T",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/petroleo-oscila-com-escalada-de-guerra-no-golfo-mas-mercado-ainda-avalia-impacto-real-sobre-a-oferta-fets/",
-      "time": "2026-06-11T08:23:06Z",
-      "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "Toffoli propõe prazo de 60 dias para big techs aplicarem obrigações de remoção de conteúdo",
-      "summary": "O ministro Dias Toffoli, do Supremo Tribunal Federal (STF), propôs fixar um prazo de 60 dias para que as big techs apliquem as obrigações estruturais determinadas pela Corte no julgamento do Marco Civil da Internet. O pr",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/toffoli-propoe-prazo-de-60-dias-para-big-techs-aplicarem-obrigacoes-de-remocao-de-conteudo-fets/",
-      "time": "2026-06-11T07:58:00Z",
-      "cat": "acoes",
-      "tickers": []
-    },
-    {
-      "title": "Pode haver prejuízos aos agricultores e restrição de crédito, diz ministro da Fazenda após aprovação de projeto no Senado",
-      "summary": "Depois da aprovação do projeto que prevê a renegociação de dívidas rurais com uso de recursos do Fundo Social do Pré-Sal, o ministro da Fazenda, Dario Durigan, afirmou que poderá haver restrição de crédito ao agronegócio",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/pode-haver-prejuizos-aos-agricultores-e-restricao-de-credito-diz-ministro-da-fazenda-apos-aprovacao-de-projeto-no-senado/",
-      "time": "2026-06-10T23:20:10Z",
-      "cat": "acoes",
-      "tickers": []
-    },
-    {
-      "title": "RBRR11 anuncia R$ 0,95 por cota e reforça carteira indexada ao IPCA",
-      "summary": "O fundo de investimento imobiliário RBRR11 anunciou a distribuição de R$ 0,95 por cota referente aos resultados de maio de 2026, o maior rendimento em 10 meses, desde agosto de 2025. O pagamento ocorrerá em 17 de junho d",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/rbrr11-distribuicao-095-junho-2026-ipca/",
-      "time": "2026-06-11T00:45:05Z",
+      "url": "https://www.infomoney.com.br/mercados/petroreconcavo-citi-eleva-recv3-a-compra-com-visao-de-mais-dividendos-e-acoes-saltam/",
+      "time": "2026-06-11T20:54:06Z",
       "cat": "fundos",
       "tickers": [
-        "RBRR11"
+        "RECV3"
       ]
     },
     {
-      "title": "Mato Grosso reduz exportação de soja, mas mantém liderança",
-      "summary": "O estado de Mato Grosso registrou retração nas vendas externas de soja em maio, mas preserva um desempenho robusto no acumulado do ano e reforça seu papel como pilar do agronegócio nacional. Dados da Secex, compilados pe",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/mato-grosso-reduz-exportacao-soja-mantem-lideranca/",
-      "time": "2026-06-11T00:15:05Z",
+      "title": "Inflação de maio deve desacelerar com alívio dos combustíveis, mas deve ficar acima da meta",
+      "summary": "A inflação oficial deve perder força em maio, mas ainda permanecer em um patamar que mantém o Banco Central em estado de alerta. O Índice Nacional de Preços ao Consumidor Amplo (IPCA), que será divulgado pelo Instituto B",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/inflacao-de-maio-deve-desacelerar-com-alivio-dos-combustiveis-mas-deve-ficar-acima-da-meta/",
+      "time": "2026-06-11T22:00:00Z",
+      "cat": "economia",
+      "tickers": []
+    },
+    {
+      "title": "Oi (OIBR3) tem suspensão de dívidas prorrogada enquanto liquidação de ativos continua",
+      "summary": "A Oi (OIBR3) informou na noite desta quinta-feira (11) que o Tribunal de Justiça do Rio de Janeiro (TJRJ) prorrogou a suspensão da exigibilidade de obrigações extraconcursais da companhia e de suas subsidiárias em recupe",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/oi-oibr3-tem-suspensao-de-dividas-prorrogada-enquanto-liquidacao-de-ativos-continua-vtra/",
+      "time": "2026-06-11T21:30:45Z",
       "cat": "acoes",
       "tickers": []
     },
     {
-      "title": "XPML11 remunera cotistas e mostra alta de 22% no resultado",
-      "summary": "O fundo imobiliário XPML11 pagou R$ 0,92 por cota em 25 de maio de 2026, aos investidores com posição em 18 de maio. O provento reflete o desempenho operacional de abril e consolida a política de distribuição do fundo, q",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/xpml11-paga-092-por-cota-yield-1032-abr-resultado/",
-      "time": "2026-06-10T23:45:06Z",
+      "title": "Governo autoriza saída de funcionários mais cedo em dias de jogos da seleção, mas cobra compensação",
+      "summary": "O governo federal publicou as regras de funcionamento da Esplanada dos Ministérios nos dias de jogos da seleção brasileira de futebol na Copa do Mundo de 2026. Portaria do Ministério da Gestão e da Inovação em Serviços P",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/governo-publica-autoriza-saida-de-funcionarios-mais-cedo-em-dias-de-jogos-da-selecao-mas-cobra-compensacao-gaep/",
+      "time": "2026-06-11T20:58:41Z",
       "cat": "acoes",
+      "tickers": []
+    },
+    {
+      "title": "Milho tem mínima de contrato em Chicago por tempo favorável nos EUA e oferta abundante",
+      "summary": "Os futuros de milho negociados na bolsa de Chicago caíram para os níveis mais baixos do contrato nesta quinta-feira, depois que um relatório mensal do governo dos EUA sobre a safra destacou a abundância de estoques de gr",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/milho-tem-minima-de-contrato-em-chicago-por-tempo-favoravel-nos-eua-e-oferta-abundante-pads/",
+      "time": "2026-06-11T20:56:05Z",
+      "cat": "internacional",
+      "tickers": []
+    },
+    {
+      "title": "Flávio Bolsonaro divulga notícia-crime protocolada no STF contra Lula por ameaça e incitação ao crime",
+      "summary": "O senador e pré-candidato Flávio Bolsonaro (PL) divulgou nesta quinta-feira (11) o documento protocolado há uma semana no Supremo Tribunal Federal (STF) com a notícia-crime prometida contra o presidente Luiz Inácio Lula ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/flavio-bolsonaro-protocola-noticia-crime-no-stf-contra-lula-por-ameaca-e-incitacao-ao-crime/",
+      "time": "2026-06-11T20:37:36Z",
+      "cat": "acoes",
+      "tickers": []
+    },
+    {
+      "title": "Armazenamento e data centers impulsionam SNEL11 na B3",
+      "summary": "O avanço acelerado dos data centers e de tecnologias de armazenamento vem impulsionando o mercado brasileiro de energia limpa e abrindo espaço para fundos focados na transição energética, como o SNEL11. A tese ganha traç",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/snel11-data-centers-armazenamento-renovaveis/",
+      "time": "2026-06-11T21:55:05Z",
+      "cat": "acoes",
+      "tickers": []
+    },
+    {
+      "title": "Itaú Asset lança ETF atrelado ao CDI com IR de 15% e mira reserva de emergência",
+      "summary": "A Itaú Asset anunciou o lançamento do CDIB11, novo ETF de renda fixa voltado a investidores que buscam uma alternativa conservadora para a reserva de liquidez. O produto estreia na B3 com taxa de administração de 0,15% a",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/itau-asset-lanca-etf-atrelado-cdi-ir-mira-reserva-emergencia/",
+      "time": "2026-06-11T21:35:10Z",
+      "cat": "economia",
+      "tickers": []
+    },
+    {
+      "title": "PetroReconcavo (RECV3) dispara após Citi elevar recomendação; veja detalhes",
+      "summary": "As ações da PetroReconcavo (RECV3) lideram as altas do Ibovespa nesta quinta-feira (11), após o Citi elevar a recomendação para os papéis. Por volta das 16h30, os ativos avançavam 6,39%, a R$ 11,16, depois de chegarem a ",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/petroreconcavo-recv3-sobe-citi-eleva-recomendacao-compra-go/",
+      "time": "2026-06-11T19:45:08Z",
+      "cat": "analise",
       "tickers": [
-        "XPML11"
+        "RECV3"
       ]
     },
     {
-      "title": "MXRF11 encerra hoje votação para emissão de R$ 1 bi",
-      "summary": "O MXRF11 submeteu aos cotistas uma consulta formal que se encerra nesta quarta-feira (10), propondo a autorização para uma nova oferta de cotas por meio de AGE não presencial. A gestora reforça que a operação, se aprovad",
+      "title": "Ex-executivo da Gerdau assume comando da Abramat em meio à queda nas vendas",
+      "summary": "Executivo da Gerdau, assumirá a presidência da Abramat com foco nos desafios da indústria de materiais de construção.Foto: PixabayA Associação Brasileira da Indústria de Materiais de Construção (Abramat) terá o executivo",
       "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/mxrf11-votacao-emissao-1-bi-encerra-hoje/",
-      "time": "2026-06-10T22:55:06Z",
+      "url": "https://www.suno.com.br/noticias/abramat-mauro-franco-gerdau-novo-presidente-mtae/",
+      "time": "2026-06-11T19:17:11Z",
       "cat": "acoes",
+      "tickers": []
+    },
+    {
+      "title": "Braskem (BRKM5) dispara com OPA, mas oferta não é em dinheiro; entenda",
+      "summary": "A Braskem (BRKM5) disparou na Bolsa nesta quinta-feira (11), após informar que recebeu correspondência do Shine I Fundo de Investimento em Participações sobre o protocolo do pedido de registro de uma oferta pública de aq",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/braskem-brkm5-opa-shine-fip-debentures-mt/",
+      "time": "2026-06-11T17:45:08Z",
+      "cat": "acoes",
+      "tickers": []
+    },
+    {
+      "title": "HSML11 salta 6x em maio com venda e reforça dividendos",
+      "summary": "O fundo imobiliário HSML11 reportou resultado de R$ 64,897 milhões em maio, um salto de aproximadamente seis vezes em relação ao mês anterior. O desempenho foi impulsionado, sobretudo, pela receita de capital derivada da",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/hsml11-resultado-6x-venda-patio-maceio-maio-2026/",
+      "time": "2026-06-11T17:15:04Z",
+      "cat": "fundos",
       "tickers": [
-        "MXRF11"
+        "HSML11"
       ]
     },
     {
-      "title": "Onde assistir e que horas começa a cerimônia de abertura da Copa do Mundo",
-      "summary": "Pela primeira vez na história, torneio terá três cerimônias diferentes, uma em cada país-sede",
+      "title": "Itaúsa (ITSA4) conclui recompra de 5 milhões de ações para plano de incentivos; entenda",
+      "summary": "A Itaúsa (ITSA4) informou ao mercado que concluiu a recompra de 5 milhões de ações preferenciais de sua própria emissão, conforme previsto no programa aprovado pelo conselho de administração em maio deste ano. Os papéis ",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/itausa-itsa4-conclui-recompra-5-milhoes-acoes-plano-incentivos-go/",
+      "time": "2026-06-11T16:45:16Z",
+      "cat": "acoes",
+      "tickers": []
+    },
+    {
+      "title": "RBRY11 mantém R$ 1,00 por cota e reforça foco em CDI",
+      "summary": "O fundo de investimento imobiliário RBRY11 anunciou a distribuição de R$ 1,00 por cota referente ao período de abril de 2026, mantendo o mesmo patamar do mês anterior. O pagamento será efetuado em 17 de junho de 2026 aos",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/rbry11-dividendos-1-real-cdi-junho-2026/",
+      "time": "2026-06-11T15:45:08Z",
+      "cat": "fundos",
+      "tickers": []
+    },
+    {
+      "title": "Web Summit Rio 2026 decreta: a convergência venceu a especialização",
+      "summary": "Antropólogos, produtores musicais, cineastas e executivos da OpenAI chegam à mesma conclusão: as fronteiras entre disciplinas estão desaparecendo mais rápido do que imaginávamos",
       "source": "Exame",
-      "url": "https://exame.com/esporte/onde-assistir-e-que-horas-comeca-a-cerimonia-de-abertura-hoje/",
-      "time": "2026-06-11T06:23:47Z",
+      "url": "https://exame.com/marketing/web-summit-rio-2026-decreta-a-convergencia-venceu-a-especializacao/",
+      "time": "2026-06-11T18:34:04Z",
       "cat": "economia",
       "tickers": []
     },
     {
-      "title": "Petróleo recua após ataques dos EUA ao Irã e alívio no mercado",
-      "summary": "Futuros do SP 500 sobem 0,7% e Nasdaq 100 avança 1,2% enquanto expectativa é de retomada das negociações no Estreito de Ormuz",
+      "title": "Da fábrica ao campo: as três frentes do Grupo Boticário para mitigar a crise hídrica",
+      "summary": "Fabricante de produtos de beleza adapta estruturas internas, melhora os produtos para serem mais biodegradáveis e financia projetos de restauração em nascentes estratégicas",
       "source": "Exame",
-      "url": "https://exame.com/invest/mercados/petroleo-recua-apos-ataques-dos-eua-ao-ira-e-alivio-no-mercado/",
-      "time": "2026-06-11T06:17:52Z",
-      "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "Copa do Mundo 2026: quanto custa o ingresso da abertura e como o preço dinâmico influencia",
-      "summary": "Historicamente, as Copas do Mundo já apresentavam variações significativas de preço, mas a edição de 2026 marca um ponto de inflexão",
-      "source": "Exame",
-      "url": "https://exame.com/esporte/copa-do-mundo-2026-quanto-custa-o-ingresso-da-abertura-e-como-o-preco-dinamico-influencia/",
-      "time": "2026-06-11T06:10:46Z",
+      "url": "https://exame.com/esg/da-fabrica-ao-campo-as-tres-frentes-do-grupo-boticario-para-mitigar-a-crise-hidrica/",
+      "time": "2026-06-11T18:24:13Z",
       "cat": "economia",
       "tickers": []
     },
     {
-      "title": "Companheiros virtuais: a transformação das relações entre humanos e chatbots",
-      "summary": "Aplicativos de inteligência artificial que simulam amizade, apoio emocional e relacionamentos românticos atraem milhões de usuários e levantam debates sobre solidão, saúde mental e o futuro das conexões humanas",
+      "title": "Ibovespa sobe 1,7% e dólar cai a R$ 5,10 após sinal de acordo entre EUA e Irã",
+      "summary": "Em Wall Street, os principais índices também fecharam em alta com o alívio externo",
       "source": "Exame",
-      "url": "https://exame.com/inteligencia-artificial/companheiros-virtuais-a-transformacao-das-relacoes-entre-humanos-e-chatbots/",
-      "time": "2026-06-11T06:05:23Z",
+      "url": "https://exame.com/invest/mercados/ibovespa-sobe-17-e-dolar-cai-a-r-510-apos-sinal-de-acordo-entre-eua-e-ira/",
+      "time": "2026-06-11T17:39:28Z",
       "cat": "economia",
       "tickers": []
     },
     {
-      "title": "Ibovespa e dólar hoje: BCE abre decisões de juros em meio a novas tensões com Irã",
+      "title": "México - Ações fecharam o pregão em alta e o Índice S&P/BMV IPC avançou 3,33%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-bce-abre-decisoes-de-juros-em-meio-a-novas-tensoes-com-ira-1969217",
-      "time": "2026-06-11T10:15:00Z",
-      "cat": "economia",
-      "tickers": []
-    },
-    {
-      "title": "IPO da SpaceX de US$ 1,75 tri: veja o que nossa IA diz sobre isso",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ipo-da-spacex-de-us-175-tri-veja-o-que-nossa-ia-diz-sobre-isso-1969726",
-      "time": "2026-06-11T09:10:25Z",
+      "url": "https://br.investing.com/news/stock-market-news/mexico--acoes-fecharam-o-pregao-em-alta-e-o-indice-spbmv-ipc-avancou-333-1970906",
+      "time": "2026-06-11T21:30:20Z",
       "cat": "internacional",
       "tickers": []
     },
     {
-      "title": "Engie Brasil aprova oferta de ações vinculada à participação na Jirau; suspende projeções",
+      "title": "Colômbia - Ações fecharam o pregão em alta e o Índice COLCAP avançou 3,90%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/engie-brasil-aprova-oferta-de-acoes-vinculada-a-participacao-na-jirau-suspende-projecoes-1969712",
-      "time": "2026-06-11T09:07:06Z",
+      "url": "https://br.investing.com/news/stock-market-news/colombia--acoes-fecharam-o-pregao-em-alta-e-o-indice-colcap-avancou-390-1970900",
+      "time": "2026-06-11T21:25:17Z",
+      "cat": "fundos",
+      "tickers": []
+    },
+    {
+      "title": "Ações da First Advantage sobem com inclusão no S&P SmallCap 600",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-first-advantage-sobem-com-inclusao-no-sp-smallcap-600-93CH-1970899",
+      "time": "2026-06-11T21:25:17Z",
+      "cat": "fundos",
+      "tickers": []
+    },
+    {
+      "title": "Rússia - Ações fecharam o pregão em queda e o Índice MOEX Russia Index recuou 0,29%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/russia--acoes-fecharam-o-pregao-em-queda-e-o-indice-moex-russia-index-recuou-029-1970898",
+      "time": "2026-06-11T21:20:21Z",
       "cat": "internacional",
       "tickers": []
     },
     {
-      "title": "Por que as ações da Norcros estão subindo hoje?",
+      "title": "Lockheed Martin recebe modificação de contrato de US$ 514 milhões",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-norcros-estao-subindo-hoje-93CH-1969701",
-      "time": "2026-06-11T08:54:02Z",
+      "url": "https://br.investing.com/news/stock-market-news/lockheed-martin-recebe-modificacao-de-contrato-de-us-514-milhoes-93CH-1970876",
+      "time": "2026-06-11T21:10:02Z",
       "cat": "internacional",
       "tickers": []
     },
     {
-      "title": "Por que as ações da RWS estão caindo hoje?",
+      "title": "S&P Global eleva rating da NVIDIA para AA com demanda explosiva por IA",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-rws-estao-caindo-hoje-93CH-1969700",
-      "time": "2026-06-11T08:49:04Z",
-      "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "Indonésia - Ações fecharam o pregão em queda e o Índice IDX Composite recuou 0,24%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/indonesia--acoes-fecharam-o-pregao-em-queda-e-o-indice-idx-composite-recuou-024-1969690",
-      "time": "2026-06-11T08:30:19Z",
-      "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "Por que as ações da NCC estão caindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-ncc-estao-caindo-hoje-93CH-1969683",
-      "time": "2026-06-11T08:16:15Z",
-      "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "Por que a ação da Kontron está subindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-a-acao-da-kontron-esta-subindo-hoje-93CH-1969681",
-      "time": "2026-06-11T08:13:06Z",
+      "url": "https://br.investing.com/news/stock-market-news/sp-global-eleva-rating-da-nvidia-para-aa-com-demanda-explosiva-por-ia-1970839",
+      "time": "2026-06-11T20:44:17Z",
       "cat": "internacional",
       "tickers": []
     }
   ],
-  "atualizado_em": "11/06/2026 06:28"
+  "atualizado_em": "11/06/2026 22:02"
 }
