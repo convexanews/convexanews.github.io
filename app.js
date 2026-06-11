@@ -798,12 +798,14 @@ async function fetchDIFuturo() {
         contratos: summ.opnCtrcts || 0,
       };
     }).filter(c => c.taxa && c.venc);
-    // Prioriza contratos de janeiro (DI1F = benchmark); completa com os mais líquidos
-    const jans = contratos.filter(c => c.symb.startsWith('DI1F'));
-    const outros = contratos.filter(c => !c.symb.startsWith('DI1F')).sort((a, b) => b.contratos - a.contratos);
-    const sel = (jans.length >= 4 ? jans : [...jans, ...outros]).slice(0, 12);
+    // Curto prazo: os 2 vencimentos mais próximos com alta liquidez (melhor proxy do CDI)
+    // Longo prazo: contratos de janeiro (DI1F), os benchmarks da curva
+    contratos.sort((a, b) => a.venc.localeCompare(b.venc));
+    const curtos = contratos.filter(c => !c.symb.startsWith('DI1F') && c.contratos >= 1000000).slice(0, 2);
+    const jans = contratos.filter(c => c.symb.startsWith('DI1F')).slice(0, 6);
+    const sel = [...curtos, ...jans];
     sel.sort((a, b) => a.venc.localeCompare(b.venc));
-    diFuturoCache = sel.slice(0, 6);
+    diFuturoCache = sel.slice(0, 8);
     return diFuturoCache.length > 0;
   } catch (e) {
     console.warn('DI futuro B3:', e);
@@ -823,9 +825,9 @@ function renderDIFuturo() {
     const varPp = c.ant != null ? c.taxa - c.ant : null;
     const up = (varPp || 0) >= 0;
     const sub = varPp != null
-      ? `${up ? '▲' : '▼'} ${up ? '+' : ''}${varPp.toFixed(2).replace('.', ',')} p.p. hoje`
-      : 'taxa do contrato';
-    return indCard('DI ' + labelVencDI(c.venc), c.taxa.toFixed(2).replace('.', ',') + '%', sub, up ? 'up' : 'down');
+      ? `${up ? '▲' : '▼'} ${up ? '+' : ''}${varPp.toFixed(2).replace('.', ',')} p.p. hoje · taxa anualizada`
+      : 'taxa anualizada do contrato';
+    return indCard('DI ' + labelVencDI(c.venc), c.taxa.toFixed(2).replace('.', ',') + '% <span style="font-size:13px;font-weight:600;color:var(--text-secondary)">a.a.</span>', sub, up ? 'up' : 'down');
   }).join('');
 }
 

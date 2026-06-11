@@ -696,13 +696,13 @@ def coletar_di_futuro():
                 'ant': round(float(qtn.get('prvsDayAdjstmntPric') or 0), 3) or None,
                 'contratos': int(summ.get('opnCtrcts') or 0),
             })
-        # Prioriza contratos de janeiro (DI1F = benchmark); completa com os mais líquidos
-        jans = [c for c in contratos if c['symb'].startswith('DI1F')]
-        outros = sorted([c for c in contratos if not c['symb'].startswith('DI1F')],
-                        key=lambda c: -c['contratos'])
-        sel = (jans if len(jans) >= 4 else jans + outros)[:12]
-        sel.sort(key=lambda c: c['venc'])
-        return sel[:6]
+        # Curto prazo: 2 vencimentos mais próximos com alta liquidez (proxy do CDI)
+        # Longo prazo: contratos de janeiro (DI1F), benchmarks da curva
+        contratos.sort(key=lambda c: c['venc'])
+        curtos = [c for c in contratos if not c['symb'].startswith('DI1F') and c['contratos'] >= 1_000_000][:2]
+        jans = [c for c in contratos if c['symb'].startswith('DI1F')][:6]
+        sel = sorted(curtos + jans, key=lambda c: c['venc'])
+        return sel[:8]
     except Exception as e:
         print(f"  DI futuro B3: {e}")
         return []
