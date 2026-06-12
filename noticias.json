@@ -1,95 +1,198 @@
 {
   "headline": {
-    "title": "SpaceX de Elon Musk estreia em Wall Street com IPO recorde; veja valor por ação",
-    "summary": "A SpaceX estreou nesta sexta-feira (12) na Nasdaq, Bolsa de Valores de Nova York, em uma operação que entrou para a história de Wall Street pelo tamanho da captação. A companhia de Elon Musk realizou o maior IPO já regis",
-    "source": "Suno",
-    "url": "https://www.suno.com.br/noticias/spacex-elon-musk-estreia-wall-street-com-ipo-recorde-veja-valor-por-acao-jj/",
-    "time": "2026-06-12T14:35:07Z",
-    "cat": "internacional",
+    "title": "Ibovespa cai com IPCA acima do esperado e negociações entre EUA e Irã em foco; dólar cai a R$ 5,06",
+    "summary": "O Ibovespa (IBOV) destoou do tom positivo de Wall Street em um movimento de realização dos ganhos da véspera, em meio à expectativa de acordo entre EUA e Irã e calibração das apostas para a próxima decisão de juros no Br",
+    "source": "Money Times",
+    "url": "https://www.moneytimes.com.br/ibovespa-12-6-26-lils/",
+    "time": "2026-06-12T20:21:59Z",
+    "cat": "economia",
     "tickers": []
   },
   "featured": [
     {
-      "title": "Por que a ação da High Trend International está despencando hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-a-acao-da-high-trend-international-esta-despencando-hoje-93CH-1971916",
-      "time": "2026-06-12T18:15:38Z",
-      "cat": "internacional",
+      "title": "Ibovespa fecha em queda com baixa de Petrobras, mas tem 1º ganho semanal desde abril",
+      "summary": "A última sessão da semana não teve ⁠uma ‌direção única, com ⁠investidores atentos ao noticiário geopolítico e à estreia das ações da SpaceX",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-fecha-em-queda-com-baixa-de-petrobras-mas-tem-1o-ganho-semanal-desde-abril/",
+      "time": "2026-06-12T20:27:09Z",
+      "cat": "acoes",
       "tickers": []
     },
     {
-      "title": "Ações da SpaceX sobem mais de 25% na estreia e valor de mercado supera os US$ 2 tri",
-      "summary": "Papéis abrem com alta com base nos US$ 135 estimados no IPO",
+      "title": "Juros futuros caem em dia de IPCA e expectativa de acordo entre EUA e Irã",
+      "summary": "A perspectiva de um acordo iminente entre EUA e Irã e a melhora nas medidas subjacentes de inflação em maio reduziram os prêmios na curva a termo, apesar de o IPCA cheio ter superado as projeções",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/spacex-acoes-estreia-12062026/",
-      "time": "2026-06-12T18:19:03Z",
-      "cat": "acoes",
+      "url": "https://www.infomoney.com.br/mercados/juros-futuros-caem-em-dia-de-ipca-e-expectativa-de-acordo-entre-eua-e-ira/",
+      "time": "2026-06-12T20:09:59Z",
+      "cat": "economia",
       "tickers": []
     }
   ],
   "all": [
     {
-      "title": "Ações da SpaceX sobem mais de 25% na estreia e valor de mercado supera os US$ 2 tri",
-      "summary": "Papéis abrem com alta com base nos US$ 135 estimados no IPO",
+      "title": "JPMorgan eleva Tupy e Iochpe para compra e corta Randoncorp para venda; ações reagem",
+      "summary": "JPMorgan manteve uma visão cautelosa para o setor brasileiro de autopeças",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/jpmorgan-eleva-tupy-e-iochpe-para-compra-e-corta-randoncorp-para-venda-acoes-reagem/",
+      "time": "2026-06-12T20:29:47Z",
+      "cat": "acoes",
+      "tickers": []
+    },
+    {
+      "title": "Embraer em alta: companhia tem boas notícias sobre carteira de pedidos e EMBJ3 sobe",
+      "summary": "Conforme ressalta o JPMorgan, a aprovação pelo Parlamento da Grécia da compra de três aeronaves militares C-390 Millennium, da Embraer, pode adicionar mais de US$ 360 milhões à carteira de pedidos da fabricante brasileir",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/embraer-em-alta-companhia-tem-boas-noticias-sobre-carteira-de-pedidos-e-embj3-sobe/",
+      "time": "2026-06-12T20:27:46Z",
+      "cat": "analise",
+      "tickers": [
+        "EMBJ3"
+      ]
+    },
+    {
+      "title": "Ibovespa fecha em queda com baixa de Petrobras, mas tem 1º ganho semanal desde abril",
+      "summary": "A última sessão da semana não teve ⁠uma ‌direção única, com ⁠investidores atentos ao noticiário geopolítico e à estreia das ações da SpaceX",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-fecha-em-queda-com-baixa-de-petrobras-mas-tem-1o-ganho-semanal-desde-abril/",
+      "time": "2026-06-12T20:27:09Z",
+      "cat": "acoes",
+      "tickers": []
+    },
+    {
+      "title": "Wall Street sobe com esperança de acordo de paz EUA-Irã e estreia histórica da SpaceX",
+      "summary": "As ações da Tesla, outra ​empresa de Musk que é negociada com um prêmio em relação aos seus lucros, fecharam em alta",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/wall-street-sobe-com-esperanca-de-acordo-de-paz-eua-ira-e-estreia-historica-da-spacex/",
+      "time": "2026-06-12T20:23:37Z",
+      "cat": "internacional",
+      "tickers": []
+    },
+    {
+      "title": "Dólar hoje cai 0,76%, a R$ 5,06, com espera por possível acordo entre EUA e Irã",
+      "summary": "Na semana, a divisa acumulou baixa de 1,83% e, no ano, queda de 7,80% ante o real",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-12062026/",
+      "time": "2026-06-12T20:17:31Z",
+      "cat": "economia",
+      "tickers": []
+    },
+    {
+      "title": "Ações da SpaceX têm salto de 19% na estreia e valor de mercado supera os US$ 2,1 tri",
+      "summary": "A estreia da empresa é amplamente vista como um ensaio geral para uma nova geração de mega IPOs",
       "source": "InfoMoney",
       "url": "https://www.infomoney.com.br/mercados/spacex-acoes-estreia-12062026/",
-      "time": "2026-06-12T18:19:03Z",
+      "time": "2026-06-12T20:12:15Z",
       "cat": "acoes",
       "tickers": []
     },
     {
-      "title": "Show de abertura da Copa no Canadá tem Alessia Cara, Sanjoy e a palestina Elyanna",
-      "summary": "Após uma apresentação e saudação de representantes de tribos Indígenas do Canadá, a primeira apresentação musical coube a Alessia Cara, natural de Toronto",
+      "title": "Petróleo brent cai 3%, no menor nível desde março, com expectativa por acordo Irã-EUA",
+      "summary": "Na semana, os barris do brent e WTI caíram mais de 6%",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/esportes/abertura-copa-do-mundo-2026/",
-      "time": "2026-06-12T18:16:46Z",
-      "cat": "acoes",
-      "tickers": []
-    },
-    {
-      "title": "SpaceX reescreve ranking dos maiores IPOs da história; veja comparação",
-      "summary": "O recorde anterior foi estabelecido há mais de seis anos. Agora, a SpaceX, que estreou na bolsa nesta sexta-feira, deve captar dezenas de bilhões de dólares a mais",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/business/global/spacex-reescreve-ranking-dos-maiores-ipos-da-historia-veja-comparacao/",
-      "time": "2026-06-12T18:14:05Z",
-      "cat": "acoes",
-      "tickers": []
-    },
-    {
-      "title": "Mega IPOS nos EUA vão espantar gringos da B3 ou trazer mais fluxo para o Brasil?",
-      "summary": "Para analistas, a alocação de investimentos em escala global pode passar por reconfiguração a partir das ofertas públicas de gigantes de tecnologia",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/mega-ipos-nos-eua-vao-espantar-gringos-da-b3-ou-trazer-mais-fluxo-para-o-brasil/",
-      "time": "2026-06-12T18:11:20Z",
+      "url": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-12062026/",
+      "time": "2026-06-12T20:11:42Z",
       "cat": "internacional",
       "tickers": []
     },
     {
-      "title": "STF inicia análise de recursos de condenados pelo assassinato de Marielle Franco",
-      "summary": "O colegiado vai examinar embargos de declaração protocolados pelas defesas",
+      "title": "Juros futuros caem em dia de IPCA e expectativa de acordo entre EUA e Irã",
+      "summary": "A perspectiva de um acordo iminente entre EUA e Irã e a melhora nas medidas subjacentes de inflação em maio reduziram os prêmios na curva a termo, apesar de o IPCA cheio ter superado as projeções",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/stf-inicia-analise-de-recursos-de-condenados-pelo-assassinato-de-marielle-franco/",
-      "time": "2026-06-12T18:02:55Z",
+      "url": "https://www.infomoney.com.br/mercados/juros-futuros-caem-em-dia-de-ipca-e-expectativa-de-acordo-entre-eua-e-ira/",
+      "time": "2026-06-12T20:09:59Z",
+      "cat": "economia",
+      "tickers": []
+    },
+    {
+      "title": "Putin diz Rússia avança “gradualmente” na Ucrânia e anuncia intensificação de ataques",
+      "summary": "\"As forças russas estão obtendo avanços sistemáticos diários e conseguirão libertar todos os territórios\", especificou ele",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mundo/putin-diz-russia-avanca-gradualmente-na-ucrania-e-anuncia-intensificacao-de-ataques/",
+      "time": "2026-06-12T19:49:27Z",
       "cat": "acoes",
       "tickers": []
     },
     {
-      "title": "Qual o melhor investimento para fazer a dois? Veja dicas",
-      "summary": "A vida financeira de um casal envolve objetivos compartilhados",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/minhas-financas/qual-melhor-investimento-fazer-dois/",
-      "time": "2026-06-12T18:00:00Z",
-      "cat": "acoes",
+      "title": "Ibovespa cai com IPCA acima do esperado e negociações entre EUA e Irã em foco; dólar cai a R$ 5,06",
+      "summary": "O Ibovespa (IBOV) destoou do tom positivo de Wall Street em um movimento de realização dos ganhos da véspera, em meio à expectativa de acordo entre EUA e Irã e calibração das apostas para a próxima decisão de juros no Br",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ibovespa-12-6-26-lils/",
+      "time": "2026-06-12T20:21:59Z",
+      "cat": "economia",
       "tickers": []
     },
     {
-      "title": "Bolsas da Europa fecham em alta firme com expectativas por um acordo entre EUA e Irã",
-      "summary": "Os principais índices do continente foram impulsionados pelo alívio geopolítico e pela queda nos preços do petróleo, que reduziu os temores inflacionários e estimulou forte rali nos setores de turismo, bancos e consumo",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/bolsas-da-europa-fecham-em-alta-firme-com-expectativas-por-um-acordo-entre-eua-e-ira/",
-      "time": "2026-06-12T17:46:15Z",
+      "title": "Wall Street fecha em alta à espera de acordo entre EUA e Irã; ações da SpaceX ‘decolam’ na estreia",
+      "summary": "Os índices de Wall Street registraram novos ganhos diante da expectativa de que um acordo entre Estados Unidos e Irã seja formalizado nos próximos dias, enquanto a oferta pública inicial de ações da SpaceX (SPCX) movimen",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/wall-street-12-6-26-apsa/",
+      "time": "2026-06-12T20:11:41Z",
       "cat": "internacional",
+      "tickers": []
+    },
+    {
+      "title": "Dólar cai a R$ 5,06 na expectativa de acordo entre EUA e Irã; moeda recua quase 2% na semana",
+      "summary": "O dólar à vista completou o terceiro dia de quedas consecutivas com a expectativa de assinatura de um acordo de paz entre Estados Unidos e Irã ainda neste fim de semana. Nesta sexta-feira (12), o dólar à vista terminou a",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/dolar-12-6-26-lils/",
+      "time": "2026-06-12T20:04:12Z",
+      "cat": "economia",
+      "tickers": []
+    },
+    {
+      "title": "Abaixo dos US$ 88: petróleo recua 6% na semana com otimismo de acordo entre EUA e Irã",
+      "summary": "Os preços do petróleo encerraram o pregão desta sexta-feira (12) em queda com otimismo do mercado em relação a um acordo de paz entre Estados Unidos e Irã. O contrato mais líquido do petróleo Brent, referência para o mer",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/petroleo-12-6-26-apsa/",
+      "time": "2026-06-12T19:25:53Z",
+      "cat": "internacional",
+      "tickers": []
+    },
+    {
+      "title": "Governo e BNDES anunciam financiamento de até 40 anos para ferrovias e estimam R$ 600 bilhões em investimentos",
+      "summary": "O governo federal e o Banco Nacional de Desenvolvimento Econômico e Social (BNDES) apresentaram uma nova linha de financiamento desenhada exclusivamente para o setor ferroviário. O anúncio ocorreu nesta quinta-feira (11)",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/governo-e-bndes-lancam-financiamento-de-ate-40-anos-para-ferrovias-e-estimam-r-600-bilhoes-em-investimentos-gaep/",
+      "time": "2026-06-12T19:14:55Z",
+      "cat": "acoes",
+      "tickers": []
+    },
+    {
+      "title": "Governo lança linha de crédito para financiamento de motocicletas com juros subsidiados",
+      "summary": "O governo do presidente Luiz Inácio Lula da Silva anunciou nesta sexta-feira (12) uma linha de crédito com garantia da União destinada ao financiamento de motocicletas e bicicletas elétricas com taxas de juros abaixo das",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/governo-lanca-linha-de-credito-para-financiamento-de-motocicletas-com-juros-subsidiados-jcav/",
+      "time": "2026-06-12T19:06:39Z",
+      "cat": "economia",
+      "tickers": []
+    },
+    {
+      "title": "Erro de informação em rótulo leva Anvisa a mandar recolher marca de milho para pipoca",
+      "summary": "A Agência Nacional de Vigilância Sanitária (Anvisa) ordenou nesta sexta-feira (12) o recolhimento do milho para pipoca da marca Provatti. De acordo com a Anvisa, o rótulo dizia que o produto “não contém glúten”. Contradi",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/anvisa-recolhe-marca-de-milho-para-pipoca-isca/",
+      "time": "2026-06-12T18:33:16Z",
+      "cat": "acoes",
+      "tickers": []
+    },
+    {
+      "title": "RECR11 tem lucro recorde em 2026 e eleva retorno ao cotista",
+      "summary": "O fundo imobiliário RECR11 registrou em maio lucro líquido de caixa de R$ 29,56 milhões, o melhor desempenho de 2026, sustentado por receitas de R$ 32,954 milhões com CRIs e FIIs ante despesas de R$ 2,601 milhões. Esse a",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/recr11-lucro-recorde-e-dividendo-1-118/",
+      "time": "2026-06-12T19:15:08Z",
+      "cat": "acoes",
+      "tickers": [
+        "RECR11"
+      ]
+    },
+    {
+      "title": "SpaceX supera US$ 2 trilhões após maior IPO da história",
+      "summary": "SpaceX supera US$ 2 trilhões após maior IPO da históriaA SpaceX (NASDAQ: SPCX) ultrapassou a marca de US$ 2 trilhões em valor de mercado nesta sexta-feira (12), impulsionada pela forte valorização de suas ações na estrei",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/spacex-supera-us-2-trilhoes-maior-ipo-da-historia-go/",
+      "time": "2026-06-12T19:10:00Z",
+      "cat": "acoes",
       "tickers": []
     },
     {
@@ -141,131 +244,131 @@
       "tickers": []
     },
     {
-      "title": "Genial atualiza carteiras de ETFs com retorno acima do CDI; veja",
-      "summary": "As carteiras recomendadas de ETFs para junho da Genial Investimentos trouxeram mudanças pontuais, mas mantiveram a diversificação entre renda fixa, mercados internacionais e ativos ligados à economia digital. O principal",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/genial-atualiza-carteiras-etfs-aposta-chips-coreia-sul-cripto-veja/",
-      "time": "2026-06-12T13:55:34Z",
+      "title": "Heineken vê na era da moderação o futuro do mercado de cerveja",
+      "summary": "Para Cecília Bottai, vice-presidente de Marketing do Grupo Heineken no Brasil, consumidores querem manter a socialização, mas com escolhas mais equilibradas",
+      "source": "Exame",
+      "url": "https://exame.com/marketing/heineken-ve-na-era-da-moderacao-o-futuro-do-mercado-de-cerveja/",
+      "time": "2026-06-12T17:06:31Z",
       "cat": "economia",
       "tickers": []
     },
     {
-      "title": "Aneel prevê aumento de 8,6% na conta de luz em 2026, acima da inflação",
-      "summary": "Técnicos apontaram elevação dos custos de energia, em razão de um regime de chuvas desfavorável no ciclo 2025/2026",
+      "title": "No primeiro dia de negociação, BDRs da SpaceX chegam a subir quase 30%",
+      "summary": "Com a venda de 555,6 milhões de ações a US$ 135 cada, a SpaceX estreou no mercado avaliada em aproximadamente US$ 1,77 trilhão",
       "source": "Exame",
-      "url": "https://exame.com/economia/aneel-preve-aumento-de-86-na-conta-de-luz-em-2026-acima-da-inflacao/",
-      "time": "2026-06-12T15:15:57Z",
+      "url": "https://exame.com/invest/mercados/no-primeiro-dia-de-negociacao-bdrs-da-spacex-chegam-a-subir-quase-30/",
+      "time": "2026-06-12T17:01:31Z",
       "cat": "economia",
       "tickers": []
     },
     {
-      "title": "Política Brasileira voltada às IAs tem investimento bilionário até 2028",
-      "summary": "Conhecida como PBIA, ela prevê cerca de R$23 bilhões em incentivos na área",
+      "title": "Que horas começa o show de Anitta na abertura da Copa do Mundo nos EUA? Veja horário e onde assistir",
+      "summary": "Nesta cerimônia, também vão se apresentar Katy Perry, Future, LISA e Rema",
       "source": "Exame",
-      "url": "https://exame.com/esferabrasil/politica-brasileira-voltada-as-ias-tem-investimento-bilionario-ate-2028/",
-      "time": "2026-06-12T14:44:11Z",
+      "url": "https://exame.com/pop/que-horas-comeca-o-show-de-anitta-na-abertura-da-copa-do-mundo-nos-eua-veja-horario-e-onde-assistir/",
+      "time": "2026-06-12T17:00:12Z",
+      "cat": "internacional",
+      "tickers": []
+    },
+    {
+      "title": "Fortuna de Elon Musk supera o PIB de 197 países",
+      "summary": "O empresário se tornou o primeiro trilionário da história, impulsionado pelo IPO da SpaceX",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/fortuna-de-elon-musk-supera-o-pib-de-197-paises/",
+      "time": "2026-06-12T16:59:39Z",
       "cat": "economia",
       "tickers": []
     },
     {
-      "title": "As bolsas que os jogadores levaram para a Copa do Mundo 2026",
-      "summary": "De Hermès a Louis Vuitton, o que os atletas carregam nos aeroportos virou vitrine de luxo",
+      "title": "Em quatro anos, a Geração Z será a maioria no mercado de trabalho. Suas lideranças estão prontas?",
+      "summary": "A implementação acelerada de Inteligência Artificial sem suporte emocional ameaça disparar um ‘efeito rebote’ nas empresas, obrigando lideranças sêniores a humanizarem a gestão para reter a nova força de trabalho",
       "source": "Exame",
-      "url": "https://exame.com/casual/as-bolsas-que-os-jogadores-levaram-para-a-copa-do-mundo-2026/",
-      "time": "2026-06-12T14:41:07Z",
+      "url": "https://exame.com/carreira/em-quatro-anos-a-geracao-z-sera-a-maioria-no-mercado-de-trabalho-suas-liderancas-estao-prontas/",
+      "time": "2026-06-12T16:57:01Z",
       "cat": "economia",
       "tickers": []
     },
     {
-      "title": "Reforma tributária já está em vigor? Entenda a fase atual e cronograma de implementação",
-      "summary": "Primeiro ano do cronograma marca o início da emissão de notas com CBS e IBS e foca na adaptação de empresas, sem cobrança efetiva de valores",
-      "source": "Exame",
-      "url": "https://exame.com/esferabrasil/reforma-tributaria-ja-esta-em-vigor-entenda-a-fase-atual-e-cronograma-de-implementacao/",
-      "time": "2026-06-12T14:28:03Z",
+      "title": "Açúcar bruto atinge a menor cotação em sete semanas, café robusta sobe 9% na semana",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acucar-bruto-atinge-a-menor-cotacao-em-sete-semanas-cafe-robusta-sobe-9-na-semana-1972015",
+      "time": "2026-06-12T20:14:36Z",
+      "cat": "fundos",
+      "tickers": []
+    },
+    {
+      "title": "Wall Street fecha em alta com esperanças de um acordo de paz com Irã e estreia histórica da SpaceX",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/wall-street-fecha-em-alta-com-esperancas-de-um-acordo-de-paz-com-ira-e-estreia-historica-da-spacex-1972014",
+      "time": "2026-06-12T20:14:35Z",
+      "cat": "internacional",
+      "tickers": []
+    },
+    {
+      "title": "Ibovespa fecha em queda pressionado por Petrobras, mas assegura 1º ganho semanal desde abril",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-fecha-em-queda-pressionado-por-petrobras-mas-assegura-1o-ganho-semanal-desde-abril-1972005",
+      "time": "2026-06-12T20:07:11Z",
+      "cat": "internacional",
+      "tickers": []
+    },
+    {
+      "title": "Forbright conclui IPO de US$ 142,2 milhões na Nasdaq",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/forbright-conclui-ipo-de-us-1422-milhoes-na-nasdaq-432SI-1972023",
+      "time": "2026-06-12T20:06:07Z",
+      "cat": "internacional",
+      "tickers": []
+    },
+    {
+      "title": "Evercore aponta as melhores ações de seguro P&C em meio à pressão nas margens",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/evercore-aponta-as-melhores-acoes-de-seguro-pc-em-meio-a-pressao-nas-margens-93CH-1971994",
+      "time": "2026-06-12T19:58:41Z",
+      "cat": "internacional",
+      "tickers": []
+    },
+    {
+      "title": "Taxas caem em dia de IPCA e expectativa de acordo entre EUA e Irã",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/economy-news/taxas-caem-em-dia-de-ipca-e-expectativa-de-acordo-entre-eua-e-ira-1971993",
+      "time": "2026-06-12T19:56:06Z",
       "cat": "economia",
       "tickers": []
     },
     {
-      "title": "Como o Canadá, sede da Copa, equilibra produção de petróleo e busca pelo net-zero",
-      "summary": "País-sede joga nesta sexta-feira às 16h, enquanto mantém produção recorde de petróleo e busca cumprir metas ambiciosas de redução de emissões e preservação ambiental",
-      "source": "Exame",
-      "url": "https://exame.com/esg/como-o-canada-sede-da-copa-equilibra-producao-de-petroleo-e-busca-pelo-net-zero/",
-      "time": "2026-06-12T14:19:32Z",
+      "title": "S&P Global rebaixa rating da Dye & Durham por alavancagem elevada",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/sp-global-rebaixa-rating-da-dye--durham-por-alavancagem-elevada-93CH-1971982",
+      "time": "2026-06-12T19:40:15Z",
       "cat": "internacional",
       "tickers": []
     },
     {
-      "title": "Por que a ação da High Trend International está despencando hoje?",
+      "title": "As melhores ações de semicondutores dos EUA enquanto a IA agêntica remodela a demanda por CPUs",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-a-acao-da-high-trend-international-esta-despencando-hoje-93CH-1971916",
-      "time": "2026-06-12T18:15:38Z",
+      "url": "https://br.investing.com/news/stock-market-news/as-melhores-acoes-de-semicondutores-dos-eua-enquanto-a-ia-agentica-remodela-a-demanda-por-cpus-93CH-1971970",
+      "time": "2026-06-12T19:34:03Z",
       "cat": "internacional",
       "tickers": []
     },
     {
-      "title": "Jefferies aponta queda no fluxo de clientes em restaurantes em maio",
+      "title": "Ações da Roku disparam 20% após relatos de possível venda",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/jefferies-aponta-queda-no-fluxo-de-clientes-em-restaurantes-em-maio-93CH-1971912",
-      "time": "2026-06-12T18:10:38Z",
-      "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "Ações da semana no Investing.com",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-semana-no-investingcom-1971905",
-      "time": "2026-06-12T17:58:22Z",
-      "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "SpaceX ultrapassa US$2 tri em valor de mercado com salto de ações na estreia",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/spacex-ultrapassa-us2-tri-em-valor-de-mercado-com-salto-de-acoes-na-estreia-1971903",
-      "time": "2026-06-12T17:56:52Z",
-      "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "Analista dá rara recomendação de venda à SpaceX citando riscos de execução",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/analista-da-rara-recomendacao-de-venda-a-spacex-citando-riscos-de-execucao-1971892",
-      "time": "2026-06-12T17:31:50Z",
-      "cat": "analise",
-      "tickers": []
-    },
-    {
-      "title": "Estreia da SpaceX derruba ações de rivais do setor espacial",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/estreia-da-spacex-derruba-acoes-de-rivais-do-setor-espacial-93CH-1971888",
-      "time": "2026-06-12T17:25:57Z",
-      "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "Beowulf Mining garante investimento de £ 3,7 milhões da Bacchus Capital",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/beowulf-mining-garante-investimento-de--37-milhoes-da-bacchus-capital-93CH-1971884",
-      "time": "2026-06-12T17:21:13Z",
-      "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "Ações europeias sobem enquanto expectativas de paz no Oriente Médio levam preços do petróleo a cair",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-europeias-sobem-enquanto-expectativas-de-paz-no-oriente-medio-levam-precos-do-petroleo-a-cair-1971876",
-      "time": "2026-06-12T17:14:28Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-roku-disparam-20-apos-relatos-de-possivel-venda-1971965",
+      "time": "2026-06-12T19:19:17Z",
       "cat": "internacional",
       "tickers": []
     }
   ],
-  "atualizado_em": "12/06/2026 18:24"
+  "atualizado_em": "12/06/2026 20:35"
 }
