@@ -1,286 +1,316 @@
 {
   "headline": {
-    "title": "TSMC promete aumento de mais de 30% na participação dos lucros a funcionários",
-    "summary": "Gigante de chips de IA amplia incentivos em meio a margens recordes e crescente pressão — interna e externa — para dividir os ganhos do boom de semicondutores",
-    "source": "InfoMoney",
-    "url": "https://www.infomoney.com.br/business/tsmc-promete-aumento-de-mais-de-30-na-participacao-dos-lucros-a-funcionarios/",
-    "time": "agora",
-    "cat": "acoes",
+    "title": "Tempo Real: Ibovespa fecha semana com IPCA",
+    "summary": "Resumo: O Ibovespa (IBOV) encerra a semana acompanhando o IPCA no Brasil, além de indicadores de atividade no Reino Unido e dados de produção industrial no Japão. Destaques: Confira os principais temas do Ibovespa e dos ",
+    "source": "Money Times",
+    "url": "https://www.moneytimes.com.br/tempo-real-ibovespa-hoje-mercado-ao-vivo-12-06-2026-jals-lils-apsa/",
+    "time": "2026-06-12T09:00:00Z",
+    "cat": "economia",
     "tickers": []
   },
   "featured": [
     {
-      "title": "Caged mostra abril fraco em vagas líquidas, mas desaceleração segue lenta e gradual",
-      "summary": "Economistas dizem enxergar uma acomodação no mercado de trabalho, mas com o emprego e a renda em patamares ainda altos",
+      "title": "Mari Damaceno fecha a Semana dos Minicontratos com foco em Bitcoin futuro",
+      "summary": "Movimentos de abertura, gaps e leitura de contexto estão entre os temas da última aula do evento",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/economia/caged-mostra-abril-fraco-em-vagas-liquidas-mas-desaceleracao-segue-lenta-e-gradual/",
-      "time": "1 min",
-      "cat": "acoes",
-      "tickers": []
+      "url": "https://www.infomoney.com.br/mercados/mari-damaceno-fecha-semana-dos-minicontratos-com-foco-em-bitcoin-futuro/",
+      "time": "2026-06-12T09:45:00Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC"
+      ]
     },
     {
-      "title": "Petrobras: alta de 19% da gasolina é bem menor na prática – e não surpreende mercado",
-      "summary": "Subsídios reduzem o impacto líquido para os distribuidores a um aumento marginal de R$ 0,04 por litro",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/petrobras-alta-de-19-da-gasolina-e-bem-menor-na-pratica-e-nao-surpreende-mercado/",
-      "time": "13 min",
+      "title": "Privatização da Copasa (CSMG3) movimenta R$ 8,3 bilhões com venda de ações a R$ 49,03, diz Valor",
+      "summary": "A privatização da Copasa (CSMG3) movimentou R$ 8,3 bilhões, considerando o lote principal, segundo informado pelo jornal Valor Econômico com base em relatos de fontes. A venda da Copasa é uma das maiores operações do mer",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/privatizacao-da-copasa-csmg3-movimenta-r-83-bilhoes-com-venda-de-acoes-a-r-4903-diz-valor/",
+      "time": "2026-06-12T09:26:30Z",
       "cat": "acoes",
-      "tickers": []
+      "tickers": [
+        "CSMG3"
+      ]
     }
   ],
   "all": [
     {
-      "title": "TSMC promete aumento de mais de 30% na participação dos lucros a funcionários",
-      "summary": "Gigante de chips de IA amplia incentivos em meio a margens recordes e crescente pressão — interna e externa — para dividir os ganhos do boom de semicondutores",
+      "title": "Previ pede convocação de assembleia da Vale para troca de presidente do conselho",
+      "summary": "O fundo de pensão declarou apoio ​à indicação de Manuel Lino Silva de Sousa Oliveira ​para o lugar de Stieler",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/business/tsmc-promete-aumento-de-mais-de-30-na-participacao-dos-lucros-a-funcionarios/",
-      "time": "agora",
+      "url": "https://www.infomoney.com.br/mercados/previ-pede-convocacao-de-assembleia-da-vale-para-troca-de-presidente-do-conselho/",
+      "time": "2026-06-12T09:58:52Z",
       "cat": "acoes",
       "tickers": []
     },
     {
-      "title": "Caged mostra abril fraco em vagas líquidas, mas desaceleração segue lenta e gradual",
-      "summary": "Economistas dizem enxergar uma acomodação no mercado de trabalho, mas com o emprego e a renda em patamares ainda altos",
+      "title": "Mari Damaceno fecha a Semana dos Minicontratos com foco em Bitcoin futuro",
+      "summary": "Movimentos de abertura, gaps e leitura de contexto estão entre os temas da última aula do evento",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/economia/caged-mostra-abril-fraco-em-vagas-liquidas-mas-desaceleracao-segue-lenta-e-gradual/",
-      "time": "1 min",
-      "cat": "acoes",
-      "tickers": []
+      "url": "https://www.infomoney.com.br/mercados/mari-damaceno-fecha-semana-dos-minicontratos-com-foco-em-bitcoin-futuro/",
+      "time": "2026-06-12T09:45:00Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC"
+      ]
     },
     {
-      "title": "Petrobras: alta de 19% da gasolina é bem menor na prática – e não surpreende mercado",
-      "summary": "Subsídios reduzem o impacto líquido para os distribuidores a um aumento marginal de R$ 0,04 por litro",
+      "title": "Após ânimo com acordo EUA-Irã próximo, Ibovespa voltará a subir de vez?",
+      "summary": "Analistas têm cautela, uma vez que há outros fatores que não estão animando mercado doméstico",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/petrobras-alta-de-19-da-gasolina-e-bem-menor-na-pratica-e-nao-surpreende-mercado/",
-      "time": "13 min",
-      "cat": "acoes",
-      "tickers": []
-    },
-    {
-      "title": "Ouro fecha em alta com acordo de paz preliminar no Oriente Médio e dados dos EUA",
-      "summary": "O metal para agosto subiu 1,14% na Comex após inverter o sinal negativo da manhã, impulsionado pelo alívio nas tensões geopolíticas com o pacto entre EUA e Irã e por dados de inflação e PIB americanos menores que o previ",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ouro-fecha-em-alta-com-acordo-de-paz-preliminar-no-oriente-medio-e-dados-dos-eua/",
-      "time": "13 min",
+      "url": "https://www.infomoney.com.br/mercados/apos-animo-com-acordo-eua-ira-proximo-ibovespa-voltara-a-subir-de-vez/",
+      "time": "2026-06-12T09:30:00Z",
       "cat": "internacional",
       "tickers": []
     },
     {
-      "title": "Meta lança assinatura do chatbot Meta AI e busca nova frente de receita",
-      "summary": "Planos pagos entre US$ 7,99 e US$ 19,99 miram consumidores heavy users e tentam compensar capex bilionário em IA",
+      "title": "Inflação no Brasil, confiança do consumidor nos EUA, estreia da SpaceX e mais",
+      "summary": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta sexta-feira (12)",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/business/meta-lanca-assinatura-do-chatbot-meta-ai-e-busca-nova-frente-de-receita/",
-      "time": "20 min",
-      "cat": "acoes",
-      "tickers": []
-    },
-    {
-      "title": "Petróleo fecha em alta modesta em meio a acordo preliminar de EUA-Irã",
-      "summary": "O WTI subiu para US$ 88,90 e o Brent para US$ 92,70 após investidores pesarem o pacto entre EUA e Irã sobre o Estreito de Ormuz contra a ação militar israelense em Beirute e tensões remanescentes",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-28052026/",
-      "time": "31 min",
-      "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "Petróleo perde força com acordo preliminar entre EUA e Irã no radar",
-      "summary": "Os preços do petróleo moderaram a alta após o site Axios informar que existe um acordo preliminar de cessar-fogo entre Estados Unidos e Irã. O documento, no entanto, depende do aval do presidente norte-americano, Donald ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/petroleo-perde-forca-com-acordo-preliminar-entre-eua-e-ira-no-radar/",
-      "time": "4 min",
-      "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "Inflação de abril nos EUA reforça dúvidas sobre trajetória de política monetária, diz analista da Arton",
-      "summary": "A alta em abril, de 0,4%, do PCE, indicador de inflação preferido do Federal Reserve (Fed), traz dúvidas sobre quão dura será a trajetória da política monetária do Fed, disse Raphael Vieira, diretor de investimentos da A",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/com-juros-altos-nos-eua-todos-os-outros-mercados-ficam-menos-atrativos-diz-analista-da-arton-diante-da-alta-da-inflacao-americana-jvka/",
-      "time": "13 min",
+      "url": "https://www.infomoney.com.br/mercados/inflacao-brasil-confianca-consumidor-eua-estreia-spacex-mais-destaques-12062026/",
+      "time": "2026-06-12T09:22:03Z",
       "cat": "economia",
       "tickers": []
     },
     {
-      "title": "Pibão? Economia deve crescer 1% no 1T26; veja o que pode estar por trás da alta",
-      "summary": "A atividade econômica, medida pelo Produto Interno Bruto (PIB), deve registrar expansão de 1% no primeiro trimestre de 2026 (1T26), ante alta de 0,1% nos últimos três meses de 2025, segundo estimativas de 24 instituições",
+      "title": "Dow Jones Futuro sobe com expectativa de trégua entre EUA e Irã e estreia da SpaceX",
+      "summary": "Possível fim do conflito no Oriente Médio impulsiona o apetite por risco, em sessão marcada pelo aguardado IPO da fabricante de foguetes de Elon Musk",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/dow-jones-futuro-sobe-com-expectativa-de-tregua-entre-eua-e-ira-e-estreia-da-spacex/",
+      "time": "2026-06-12T08:33:25Z",
+      "cat": "internacional",
+      "tickers": []
+    },
+    {
+      "title": "Bolsas da Ásia fecham em alta com otimismo sobre possível acordo entre EUA e Irã",
+      "summary": "As bolsas asiáticas fecharam em alta nesta sexta-feira (12), após o presidente dos Estados Unidos, Donald Trump, afirmar que houve avanços nas negociações com o Irã para encerrar a guerra no Oriente Médio. Liderando os g",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/pibao-economia-deve-crescer-1-no-1t26-veja-o-que-pode-estar-por-tras-da-alta-apsa/",
-      "time": "38 min",
+      "url": "https://www.moneytimes.com.br/bolsas-da-asia-fecham-em-alta-com-otimismo-sobre-possivel-acordo-entre-eua-e-ira-fets/",
+      "time": "2026-06-12T09:42:00Z",
+      "cat": "internacional",
+      "tickers": []
+    },
+    {
+      "title": "Privatização da Copasa (CSMG3) movimenta R$ 8,3 bilhões com venda de ações a R$ 49,03, diz Valor",
+      "summary": "A privatização da Copasa (CSMG3) movimentou R$ 8,3 bilhões, considerando o lote principal, segundo informado pelo jornal Valor Econômico com base em relatos de fontes. A venda da Copasa é uma das maiores operações do mer",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/privatizacao-da-copasa-csmg3-movimenta-r-83-bilhoes-com-venda-de-acoes-a-r-4903-diz-valor/",
+      "time": "2026-06-12T09:26:30Z",
+      "cat": "acoes",
+      "tickers": [
+        "CSMG3"
+      ]
+    },
+    {
+      "title": "PF rejeita segunda proposta de delação de Vorcaro; PGR ainda analisa pedido de banqueiro",
+      "summary": "A Polícia Federal rejeitou a segunda proposta de delação premiada do banqueiro Daniel Vorcaro. Os investigadores comunicaram a recusa ao gabinete do ministro André Mendonça, do Supremo Tribunal Federal (STF), e à defesa ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/pf-rejeita-segunda-proposta-de-delacao-de-vorcaro-pgr-ainda-analisa-pedido-de-banqueiro-fets/",
+      "time": "2026-06-12T09:25:00Z",
+      "cat": "acoes",
+      "tickers": []
+    },
+    {
+      "title": "Tempo Real: Ibovespa fecha semana com IPCA",
+      "summary": "Resumo: O Ibovespa (IBOV) encerra a semana acompanhando o IPCA no Brasil, além de indicadores de atividade no Reino Unido e dados de produção industrial no Japão. Destaques: Confira os principais temas do Ibovespa e dos ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/tempo-real-ibovespa-hoje-mercado-ao-vivo-12-06-2026-jals-lils-apsa/",
+      "time": "2026-06-12T09:00:00Z",
       "cat": "economia",
       "tickers": []
     },
     {
-      "title": "Sabesp (SBSP3) tem ‘ativo escondido’ no caixa futuro, diz Itaú BBA, que eleva preço-alvo",
-      "summary": "O Itaú BBA elevou o preço-alvo da Sabesp (SBSP3) para R$ 34 por ação após o grupamento, ante R$ 30,9 anteriormente, e manteve recomendação outperform para os papéis da companhia. A empresa, na avaliação do banco, deve se",
+      "title": "Banco Mundial revê de 2% para 1,9% crescimento do PIB do Brasil em 2026; 2027, de 2,3% para 2%",
+      "summary": "O Banco Mundial revisou de 2% para 1,9% a projeção ao crescimento da economia brasileira em 2026, dada a desaceleração aguardada no consumo. Para 2027, o prognóstico ao crescimento do Produto Interno Bruto (PIB) foi revi",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/sabesp-sbsp3-tem-ativo-escondido-no-caixa-futuro-diz-itau-bba-que-eleva-preco-alvo/",
-      "time": "39 min",
+      "url": "https://www.moneytimes.com.br/banco-mundial-reve-de-2-para-19-crescimento-do-pib-do-brasil-em-2026-2027-de-23-para-2-fets/",
+      "time": "2026-06-12T08:47:00Z",
+      "cat": "economia",
+      "tickers": []
+    },
+    {
+      "title": "Exportação de café do Brasil tem 1ª alta mensal desde 2024 com impulso dos canéforas, diz Cecafé",
+      "summary": "As exportações brasileiras de café verde somaram 2,73 milhões de sacas de 60 kg em maio, alta de 4,2% na comparação com o mesmo mês de 2025, impulsionadas por avanço expressivo dos embarques de canéforas, enquanto as ven",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/exportacao-de-cafe-do-brasil-tem-1a-alta-mensal-desde-2024-com-impulso-dos-caneforas-diz-cecafe-fets/",
+      "time": "2026-06-12T07:51:00Z",
+      "cat": "acoes",
+      "tickers": []
+    },
+    {
+      "title": "SNFF11 reforça caixa a 19,9% e preserva dividendos em abril",
+      "summary": "O fundo imobiliário SNFF11 aumentou de forma expressiva sua posição em caixa em abril, alcançando 19,9% do patrimônio líquido, em resposta à instabilidade do mercado de renda variável. A gestão indica que o reforço de li",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/snff11-eleva-caixa-mantem-dividendos-abril/",
+      "time": "2026-06-11T23:15:06Z",
+      "cat": "fundos",
+      "tickers": []
+    },
+    {
+      "title": "Ibovespa sobe 1,71% com trégua no Oriente Médio e volta aos 171 mil pontos",
+      "summary": "Ibovespa sobe 1,71% com trégua no Oriente Médio e volta aos 171 mil pontosO Ibovespa fechou em forte alta nesta quinta-feira (11), impulsionado pela melhora do humor dos investidores após o presidente dos Estados Unidos,",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-sobe-acordo-preliminar-eua-ira-mt/",
+      "time": "2026-06-11T22:20:10Z",
+      "cat": "acoes",
+      "tickers": []
+    },
+    {
+      "title": "Armazenamento e data centers impulsionam SNEL11 na B3",
+      "summary": "O avanço acelerado dos data centers e de tecnologias de armazenamento vem impulsionando o mercado brasileiro de energia limpa e abrindo espaço para fundos focados na transição energética, como o SNEL11. A tese ganha traç",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/snel11-data-centers-armazenamento-renovaveis/",
+      "time": "2026-06-11T21:55:05Z",
+      "cat": "acoes",
+      "tickers": []
+    },
+    {
+      "title": "Itaú Asset lança ETF atrelado ao CDI com IR de 15% e mira reserva de emergência",
+      "summary": "A Itaú Asset anunciou o lançamento do CDIB11, novo ETF de renda fixa voltado a investidores que buscam uma alternativa conservadora para a reserva de liquidez. O produto estreia na B3 com taxa de administração de 0,15% a",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/itau-asset-lanca-etf-atrelado-cdi-ir-mira-reserva-emergencia/",
+      "time": "2026-06-11T21:35:10Z",
+      "cat": "economia",
+      "tickers": []
+    },
+    {
+      "title": "PetroReconcavo (RECV3) dispara após Citi elevar recomendação; veja detalhes",
+      "summary": "As ações da PetroReconcavo (RECV3) lideram as altas do Ibovespa nesta quinta-feira (11), após o Citi elevar a recomendação para os papéis. Por volta das 16h30, os ativos avançavam 6,39%, a R$ 11,16, depois de chegarem a ",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/petroreconcavo-recv3-sobe-citi-eleva-recomendacao-compra-go/",
+      "time": "2026-06-11T19:45:08Z",
+      "cat": "analise",
+      "tickers": [
+        "RECV3"
+      ]
+    },
+    {
+      "title": "Ex-executivo da Gerdau assume comando da Abramat em meio à queda nas vendas",
+      "summary": "Executivo da Gerdau, assumirá a presidência da Abramat com foco nos desafios da indústria de materiais de construção.Foto: PixabayA Associação Brasileira da Indústria de Materiais de Construção (Abramat) terá o executivo",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/abramat-mauro-franco-gerdau-novo-presidente-mtae/",
+      "time": "2026-06-11T19:17:11Z",
+      "cat": "acoes",
+      "tickers": []
+    },
+    {
+      "title": "Braskem (BRKM5) dispara com OPA, mas oferta não é em dinheiro; entenda",
+      "summary": "A Braskem (BRKM5) disparou na Bolsa nesta quinta-feira (11), após informar que recebeu correspondência do Shine I Fundo de Investimento em Participações sobre o protocolo do pedido de registro de uma oferta pública de aq",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/braskem-brkm5-opa-shine-fip-debentures-mt/",
+      "time": "2026-06-11T17:45:08Z",
+      "cat": "acoes",
+      "tickers": []
+    },
+    {
+      "title": "HSML11 salta 6x em maio com venda e reforça dividendos",
+      "summary": "O fundo imobiliário HSML11 reportou resultado de R$ 64,897 milhões em maio, um salto de aproximadamente seis vezes em relação ao mês anterior. O desempenho foi impulsionado, sobretudo, pela receita de capital derivada da",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/hsml11-resultado-6x-venda-patio-maceio-maio-2026/",
+      "time": "2026-06-11T17:15:04Z",
+      "cat": "fundos",
+      "tickers": [
+        "HSML11"
+      ]
+    },
+    {
+      "title": "Como a desorganização drena foco e motivação, segundo pesquisa",
+      "summary": "Bagunça na mesa, excesso de e-mails e métodos ineficazes de organização podem estar drenando produtividade, motivação e bem-estar",
+      "source": "Exame",
+      "url": "https://exame.com/carreira/como-a-desorganizacao-drena-foco-e-motivacao-segundo-pesquisa/",
+      "time": "2026-06-12T07:00:07Z",
+      "cat": "economia",
+      "tickers": []
+    },
+    {
+      "title": "Petróleo cai ao menor nível em dois meses com expectativa de acordo entre EUA e Irã",
+      "summary": "Mercados reagem a declarações de Donald Trump sobre um possível pacto para encerrar a guerra e reabrir o Estreito de Ormuz, rota estratégica para o comércio global de energia",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/petroleo-cai-ao-menor-nivel-em-dois-meses-com-expectativa-de-acordo-entre-eua-e-ira/",
+      "time": "2026-06-12T06:45:23Z",
+      "cat": "internacional",
+      "tickers": []
+    },
+    {
+      "title": "Estados Unidos x Paraguai: onde assistir ao vivo, horário e escalações",
+      "summary": "Os Estados Unidos estreou com vitória na Copa do Mundo em 2022, contra Portugal; já o Paraguai a última vitória ocorreu somente em 1986, contra o Iraque",
+      "source": "Exame",
+      "url": "https://exame.com/esporte/estados-unidos-x-paraguai-onde-assistir-ao-vivo-horario-e-escalacoes/",
+      "time": "2026-06-12T06:16:15Z",
+      "cat": "economia",
+      "tickers": []
+    },
+    {
+      "title": "Dados do Bank of America mostram alta de 8,4% nos gastos com cruzeiros em maio",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/dados-do-bank-of-america-mostram-alta-de-84-nos-gastos-com-cruzeiros-em-maio-93CH-1971233",
+      "time": "2026-06-12T09:40:10Z",
+      "cat": "internacional",
+      "tickers": []
+    },
+    {
+      "title": "Citi define novo preço-alvo para o Stoxx 600 em meados de 2027",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/citi-define-novo-precoalvo-para-o-stoxx-600-em-meados-de-2027-1971226",
+      "time": "2026-06-12T09:30:01Z",
       "cat": "analise",
       "tickers": []
     },
     {
-      "title": "Após operações da PF e inelegível pelo TSE, Cláudio Castro desiste de concorrer ao Senado pelo RJ",
-      "summary": "Alvo de duas operações da Polícia Federal (PF) e inelegível por decisão do Tribunal Superior Eleitoral (TSE), o ex-governador do Rio de Janeiro Cláudio Castro (PL) informou ao presidente do PL, Valdemar Costa Neto, que d",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/apos-operacoes-da-pf-e-inelegivel-pelo-tse-claudio-castro-desiste-de-concorrer-ao-senado-pelo-rj-gaep/",
-      "time": "40 min",
-      "cat": "acoes",
+      "title": "Por que as ações da Ryanair estão disparando hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-ryanair-estao-disparando-hoje-93CH-1971214",
+      "time": "2026-06-12T09:08:51Z",
+      "cat": "internacional",
       "tickers": []
     },
     {
-      "title": "Anthropic levanta US$ 65 bilhões em nova rodada de investimentos; empresa é avaliada em US$ 965 bilhões",
-      "summary": "A Anthropic anunciou nesta quinta-feira (28) que conseguiu captar US$ 65 bilhões em uma rodada de financiamento Série H, liderada por nomes como Altimeter Capital, Dragoneer, Greenoaks e Sequoia Capital, com um valuation",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/antrhopic-levanta-us-65-bilhoes-em-nova-rodada-de-investimentos-empresa-e-avaliada-em-us-965-bilhoes-rens/",
-      "time": "1h",
-      "cat": "acoes",
-      "tickers": []
-    },
-    {
-      "title": "Oncoclínicas (ONCO3) derrete mais de 24% após temores de recuperação",
-      "summary": "Oncoclínicas (ONCO3) derrete mais de 24% após temores de recuperaçãoAs ações da Oncoclínicas (ONCO3) estão operando em forte queda nesta quinta-feira (28), em meio ao aumento das preocupações do mercado com a situação fi",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/oncoclinicas-onco3-despenca-temor-recuperacao-go/",
-      "time": "10 min",
-      "cat": "acoes",
-      "tickers": []
-    },
-    {
-      "title": "GSFI11 permuta participações e ajusta carteira com 6ª emissão",
-      "summary": "O fundo imobiliário GSFI11 anunciou a conclusão de uma operação de permuta que envolve a troca de participações em empreendimentos de varejo, combinando ativos imobiliários e recursos captados na 6ª emissão de cotas. A m",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/gsfi11-permuta-shopping-centers-emissao/",
-      "time": "16 min",
+      "title": "Ações da Rolls-Royce disparam após upgrade do Berenberg",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-rollsroyce-disparam-apos-upgrade-do-berenberg-1971221",
+      "time": "2026-06-12T09:08:33Z",
       "cat": "analise",
       "tickers": []
     },
     {
-      "title": "Petrobras (PETR4) aumenta gasolina após 122 dias, mas desconto reduz impacto",
-      "summary": "Petrobras (PETR4) aumenta gasolina após 122 dias, mas desconto reduz impactoA Petrobras anunciou nesta quinta-feira, 28, o aumento no preço da gasolina, após 122 dias sem reajuste. A alta será de R$ 0,48 por litro, mas, ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/petrobras-petr4-aumento-gasolina-122-dias-desconto-mtae/",
-      "time": "1h",
-      "cat": "acoes",
-      "tickers": []
-    },
-    {
-      "title": "RZAG11 avança em abril e supera CDI, mas segue no negativo",
-      "summary": "O fundo de investimento imobiliário RZAG11 reportou resultado de R$ 8,028 milhões em abril, sustentado por receitas de R$ 9,12 milhões e despesas operacionais de R$ 738 mil. O pagamento de R$ 0,12 por cota garantiu um di",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/rzag11-supera-cdi-abril-queda-em-2026/",
-      "time": "2h",
-      "cat": "economia",
-      "tickers": []
-    },
-    {
-      "title": "RNGO11 firma locação e reduz vacância para 17,83%",
-      "summary": "O fundo imobiliário RNGO11 anunciou a assinatura de um novo contrato de locação para o conjunto 91 da Torre Padauiri, no Empreendimento C.A Rio Negro, em Barueri (SP). A locação, firmada em 27 de maio de 2026 com a AUTRO",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/rngo11-contrato-reduz-vacancia-1783/",
-      "time": "4h",
-      "cat": "acoes",
-      "tickers": []
-    },
-    {
-      "title": "CPLG11 fecha com Mercado Livre no Grande ABC e zera vacância",
-      "summary": "O fundo imobiliário CPLG11 (Capitânia Logística FII) firmou acordo de locação com o Mercado Livre para ocupação parcial do complexo empresarial CPLG SBC Imigrantes, em São Bernardo do Campo. A operação contempla 74.926 m",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/cplg11-mercado-livre-zera-vacancia-sp/",
-      "time": "5h",
-      "cat": "acoes",
-      "tickers": []
-    },
-    {
-      "title": "Como a Bullguer saiu de uma crise de R$ 113 milhões e voltou a crescer",
-      "summary": "Após encerrar a recuperação judicial, rede de hamburguerias projeta chegar a 60 lojas em 18 meses e já mira expansão em Portugal",
-      "source": "Exame",
-      "url": "https://exame.com/negocios/como-a-bullguer-saiu-de-uma-crise-de-r-113-milhoes-e-voltou-a-crescer/",
-      "time": "3h",
-      "cat": "economia",
-      "tickers": []
-    },
-    {
-      "title": "A marca de moda brasileira Carnan mira o mercado internacional",
-      "summary": "Com um estilo entre o streetwear e a alfaiataria, a grife já está presente em mais de 70 pontos de venda pelo mundo. Mas os sócios querem mais",
-      "source": "Exame",
-      "url": "https://exame.com/casual/a-marca-de-moda-brasileira-carnan-mira-o-mercado-internacional/",
-      "time": "3h",
-      "cat": "economia",
-      "tickers": []
-    },
-    {
-      "title": "Quer trabalhar na Danone? Multinacional abre vagas de estágio com foco em inovação e flexibilidade",
-      "summary": "Programa oferece vagas em São Paulo e Poços de Caldas para estudantes com perfil protagonista",
-      "source": "Exame",
-      "url": "https://exame.com/carreira/quer-trabalhar-na-danone-multinacional-abre-vagas-de-estagio-com-foco-em-inovacao-e-flexibilidade/",
-      "time": "3h",
-      "cat": "economia",
-      "tickers": []
-    },
-    {
-      "title": "Itaú, Bradesco, Santander, Banco do Brasil, BTG e Caixa irão oferecer garantia a socorro do BRB, dizem fontes",
+      "title": "Por que as ações da Equinor estão caindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/itau-bradesco-santander-banco-do-brasil-btg-e-caixa-irao-oferecer-garantia-a-socorro-do-brb-dizem-fontes-1955497",
-      "time": "1h",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-equinor-estao-caindo-hoje-93CH-1971209",
+      "time": "2026-06-12T09:03:41Z",
       "cat": "internacional",
       "tickers": []
     },
     {
-      "title": "Por que as ações da First Solar estão disparando hoje?",
+      "title": "Por que as ações da TUI estão disparando hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-first-solar-estao-disparando-hoje-93CH-1955482",
-      "time": "1h",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-tui-estao-disparando-hoje-93CH-1971208",
+      "time": "2026-06-12T09:02:37Z",
       "cat": "internacional",
       "tickers": []
     },
     {
-      "title": "Por que as ações da Arm estão disparando hoje?",
+      "title": "Por que as ações da Repsol estão caindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-arm-estao-disparando-hoje-93CH-1955481",
-      "time": "1h",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-repsol-estao-caindo-hoje-93CH-1971207",
+      "time": "2026-06-12T09:01:03Z",
       "cat": "internacional",
       "tickers": []
     },
     {
-      "title": "Por que as ações da Agilent Technologies estão disparando hoje?",
+      "title": "Por que as ações da Fraport estão disparando hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-agilent-technologies-estao-disparando-hoje-93CH-1955480",
-      "time": "1h",
-      "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "BEEF3: Minerva sobe 3% com avaliação de fechar capital após queda de 28% em 2026",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/beef3-minerva-sobe-3-com-avaliacao-de-fechar-capital-apos-queda-de-28-em-2026-1955478",
-      "time": "1h",
-      "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "Por que as ações da AMD estão disparando hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-amd-estao-disparando-hoje-93CH-1955476",
-      "time": "1h",
-      "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "Apotex protocola pedido de IPO em Toronto com venda de participação da SK Capital",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/apotex-protocola-pedido-de-ipo-em-toronto-com-venda-de-participacao-da-sk-capital-93CH-1955471",
-      "time": "2h",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-fraport-estao-disparando-hoje-93CH-1971204",
+      "time": "2026-06-12T08:57:31Z",
       "cat": "internacional",
       "tickers": []
     }
   ],
-  "atualizado_em": "28/05/2026 16:51"
+  "atualizado_em": "12/06/2026 10:13"
 }

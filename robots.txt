@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /dados.json
+Disallow: /noticias.json
+Disallow: /analises.json
+
+Sitemap: https://convexanews.github.io/sitemap.xml

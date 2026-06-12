@@ -6,7 +6,15 @@ import yfinance as yf
 import pandas as pd
 import json
 import re
-from datetime import datetime
+from io import StringIO
+from datetime import datetime, timezone
+from concurrent.futures import ThreadPoolExecutor
+
+try:
+    import requests
+    HAS_REQUESTS = True
+except ImportError:
+    HAS_REQUESTS = False
 
 try:
     import feedparser
@@ -14,12 +22,14 @@ try:
 except ImportError:
     HAS_FEEDPARSER = False
 
+UA_HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36'}
+
 # ==================== AÇÕES BR (por setor) ====================
 ATIVOS_BR = {
     # Petróleo & Gás
     'PETR4': 'PETR4.SA', 'PETR3': 'PETR3.SA', 'PRIO3': 'PRIO3.SA',
     'RECV3': 'RECV3.SA', 'CSAN3': 'CSAN3.SA', 'UGPA3': 'UGPA3.SA',
-    'VBBR3': 'VBBR3.SA', 'RRRP3': 'RRRP3.SA', 'BRAP4': 'BRAP4.SA',
+    'VBBR3': 'VBBR3.SA', 'BRAV3': 'BRAV3.SA', 'BRAP4': 'BRAP4.SA',
     # Mineração & Siderurgia
     'VALE3': 'VALE3.SA', 'CSNA3': 'CSNA3.SA', 'GGBR4': 'GGBR4.SA',
     'USIM5': 'USIM5.SA', 'CMIN3': 'CMIN3.SA', 'GOAU4': 'GOAU4.SA',
@@ -28,27 +38,26 @@ ATIVOS_BR = {
     'BBDC3': 'BBDC3.SA', 'BBAS3': 'BBAS3.SA', 'SANB11': 'SANB11.SA',
     'BPAC11': 'BPAC11.SA', 'BRSR6': 'BRSR6.SA', 'BMGB4': 'BMGB4.SA',
     # Financeiro & Seguros
-    'B3SA3': 'B3SA3.SA', 'CIEL3': 'CIEL3.SA', 'IRBR3': 'IRBR3.SA',
+    'B3SA3': 'B3SA3.SA', 'IRBR3': 'IRBR3.SA',
     'TRAD3': 'TRAD3.SA', 'BBSE3': 'BBSE3.SA', 'PSSA3': 'PSSA3.SA',
     # Energia Elétrica
-    'ELET3': 'ELET3.SA', 'ELET6': 'ELET6.SA', 'CPFE3': 'CPFE3.SA',
+    'AXIA3': 'AXIA3.SA', 'AXIA6': 'AXIA6.SA', 'CPFE3': 'CPFE3.SA',
     'ENGI11': 'ENGI11.SA', 'EGIE3': 'EGIE3.SA', 'TAEE11': 'TAEE11.SA',
-    'ENEV3': 'ENEV3.SA', 'CMIG4': 'CMIG4.SA', 'AESB3': 'AESB3.SA',
+    'ENEV3': 'ENEV3.SA', 'CMIG4': 'CMIG4.SA', 'AURE3': 'AURE3.SA',
     'NEOE3': 'NEOE3.SA', 'ALUP11': 'ALUP11.SA', 'EQTL3': 'EQTL3.SA',
     # Saneamento
     'SBSP3': 'SBSP3.SA', 'CSMG3': 'CSMG3.SA',
     # Telecom
     'VIVT3': 'VIVT3.SA', 'TIMS3': 'TIMS3.SA',
     # Varejo & Consumo
-    'MGLU3': 'MGLU3.SA', 'LREN3': 'LREN3.SA', 'SOMA3': 'SOMA3.SA',
-    'ARZZ3': 'ARZZ3.SA', 'NTCO3': 'NTCO3.SA', 'AMAR3': 'AMAR3.SA',
-    'CEAB3': 'CEAB3.SA', 'GMAT3': 'GMAT3.SA', 'PETZ3': 'PETZ3.SA',
+    'MGLU3': 'MGLU3.SA', 'LREN3': 'LREN3.SA',
+    'AZZA3': 'AZZA3.SA', 'NATU3': 'NATU3.SA', 'AMAR3': 'AMAR3.SA',
+    'CEAB3': 'CEAB3.SA', 'GMAT3': 'GMAT3.SA',
     'SBFG3': 'SBFG3.SA',
     # Bebidas & Alimentos
     'ABEV3': 'ABEV3.SA',
     # Frigoríficos
-    'JBSS3': 'JBSS3.SA', 'MRFG3': 'MRFG3.SA', 'BEEF3': 'BEEF3.SA',
-    'BRFS3': 'BRFS3.SA',
+    'JBSS32': 'JBSS32.SA', 'MBRF3': 'MBRF3.SA', 'BEEF3': 'BEEF3.SA',
     # Agronegócio
     'SLCE3': 'SLCE3.SA', 'AGRO3': 'AGRO3.SA', 'SMTO3': 'SMTO3.SA',
     'TTEN3': 'TTEN3.SA',
@@ -65,7 +74,7 @@ ATIVOS_BR = {
     'RAIL3': 'RAIL3.SA', 'ECOR3': 'ECOR3.SA', 'POMO4': 'POMO4.SA',
     'TGMA3': 'TGMA3.SA', 'LOGN3': 'LOGN3.SA',
     # Aeroespacial
-    'EMBR3': 'EMBR3.SA',
+    'EMBJ3': 'EMBJ3.SA',
     # Locação & Serviços
     'RENT3': 'RENT3.SA', 'MOVI3': 'MOVI3.SA', 'HBSA3': 'HBSA3.SA',
     # Papel & Celulose
@@ -82,26 +91,26 @@ ATIVOS_BR = {
 # Setor hardcoded para evitar chamadas lentas de t.info
 SETOR_BR = {
     'PETR4': 'Energy', 'PETR3': 'Energy', 'PRIO3': 'Energy', 'RECV3': 'Energy',
-    'CSAN3': 'Energy', 'UGPA3': 'Energy', 'VBBR3': 'Energy', 'RRRP3': 'Energy', 'BRAP4': 'Basic Materials',
+    'CSAN3': 'Energy', 'UGPA3': 'Energy', 'VBBR3': 'Energy', 'BRAV3': 'Energy', 'BRAP4': 'Basic Materials',
     'VALE3': 'Basic Materials', 'CSNA3': 'Basic Materials', 'GGBR4': 'Basic Materials',
     'USIM5': 'Basic Materials', 'CMIN3': 'Basic Materials', 'GOAU4': 'Basic Materials',
     'KLBN11': 'Basic Materials', 'SUZB3': 'Basic Materials',
     'ITUB4': 'Financial Services', 'ITUB3': 'Financial Services', 'BBDC4': 'Financial Services',
     'BBDC3': 'Financial Services', 'BBAS3': 'Financial Services', 'SANB11': 'Financial Services',
     'BPAC11': 'Financial Services', 'BRSR6': 'Financial Services', 'BMGB4': 'Financial Services',
-    'B3SA3': 'Financial Services', 'CIEL3': 'Financial Services', 'IRBR3': 'Financial Services',
+    'B3SA3': 'Financial Services', 'IRBR3': 'Financial Services',
     'TRAD3': 'Financial Services', 'BBSE3': 'Financial Services', 'PSSA3': 'Financial Services',
-    'ELET3': 'Utilities', 'ELET6': 'Utilities', 'CPFE3': 'Utilities', 'ENGI11': 'Utilities',
+    'AXIA3': 'Utilities', 'AXIA6': 'Utilities', 'CPFE3': 'Utilities', 'ENGI11': 'Utilities',
     'EGIE3': 'Utilities', 'TAEE11': 'Utilities', 'ENEV3': 'Utilities', 'CMIG4': 'Utilities',
-    'AESB3': 'Utilities', 'NEOE3': 'Utilities', 'ALUP11': 'Utilities', 'EQTL3': 'Utilities',
+    'AURE3': 'Utilities', 'NEOE3': 'Utilities', 'ALUP11': 'Utilities', 'EQTL3': 'Utilities',
     'SBSP3': 'Utilities', 'CSMG3': 'Utilities',
     'VIVT3': 'Communication Services', 'TIMS3': 'Communication Services',
-    'ABEV3': 'Consumer Defensive', 'BRFS3': 'Consumer Defensive',
-    'JBSS3': 'Consumer Defensive', 'MRFG3': 'Consumer Defensive', 'BEEF3': 'Consumer Defensive',
+    'ABEV3': 'Consumer Defensive', 'MBRF3': 'Consumer Defensive',
+    'JBSS32': 'Consumer Defensive', 'BEEF3': 'Consumer Defensive',
     'SLCE3': 'Consumer Defensive', 'AGRO3': 'Consumer Defensive', 'SMTO3': 'Consumer Defensive', 'TTEN3': 'Consumer Defensive',
-    'MGLU3': 'Consumer Cyclical', 'LREN3': 'Consumer Cyclical', 'SOMA3': 'Consumer Cyclical',
-    'ARZZ3': 'Consumer Cyclical', 'NTCO3': 'Consumer Cyclical', 'AMAR3': 'Consumer Cyclical',
-    'CEAB3': 'Consumer Cyclical', 'GMAT3': 'Consumer Cyclical', 'PETZ3': 'Consumer Cyclical', 'SBFG3': 'Consumer Cyclical',
+    'MGLU3': 'Consumer Cyclical', 'LREN3': 'Consumer Cyclical',
+    'AZZA3': 'Consumer Cyclical', 'NATU3': 'Consumer Cyclical', 'AMAR3': 'Consumer Cyclical',
+    'CEAB3': 'Consumer Cyclical', 'GMAT3': 'Consumer Cyclical', 'SBFG3': 'Consumer Cyclical',
     'COGN3': 'Consumer Cyclical', 'YDUQ3': 'Consumer Cyclical', 'SEER3': 'Consumer Cyclical',
     'MULT3': 'Real Estate', 'IGTI11': 'Real Estate',
     'CYRE3': 'Real Estate', 'MRVE3': 'Real Estate', 'EZTC3': 'Real Estate',
@@ -110,7 +119,7 @@ SETOR_BR = {
     'RDOR3': 'Healthcare', 'HAPV3': 'Healthcare', 'FLRY3': 'Healthcare',
     'DASA3': 'Healthcare', 'RADL3': 'Healthcare', 'ODPV3': 'Healthcare',
     'RAIL3': 'Industrials', 'ECOR3': 'Industrials', 'POMO4': 'Industrials',
-    'TGMA3': 'Industrials', 'LOGN3': 'Industrials', 'EMBR3': 'Industrials',
+    'TGMA3': 'Industrials', 'LOGN3': 'Industrials', 'EMBJ3': 'Industrials',
     'RENT3': 'Industrials', 'MOVI3': 'Industrials', 'HBSA3': 'Industrials',
     'WEGE3': 'Industrials', 'RAIZ4': 'Industrials',
     'TOTS3': 'Technology', 'LWSA3': 'Technology', 'CASH3': 'Technology',
@@ -123,16 +132,14 @@ FIIS = {
     'HGLG11': 'HGLG11.SA', 'XPLG11': 'XPLG11.SA', 'VILG11': 'VILG11.SA',
     'BRCO11': 'BRCO11.SA', 'GLOG11': 'GLOG11.SA', 'ALZR11': 'ALZR11.SA',
     'LVBI11': 'LVBI11.SA', 'GGRC11': 'GGRC11.SA', 'PATL11': 'PATL11.SA',
-    'BTLG11': 'BTLG11.SA', 'VGIP11': 'VGIP11.SA', 'SDIL11': 'SDIL11.SA',
-    'TRXF11': 'TRXF11.SA', 'JRDM11': 'JRDM11.SA',
+    'BTLG11': 'BTLG11.SA', 'VGIP11': 'VGIP11.SA', 'TRXF11': 'TRXF11.SA',
     # Shoppings
     'VISC11': 'VISC11.SA', 'XPML11': 'XPML11.SA', 'HSML11': 'HSML11.SA',
-    'MALL11': 'MALL11.SA', 'BPML11': 'BPML11.SA', 'ATSA11': 'ATSA11.SA',
-    'FVPQ11': 'FVPQ11.SA',
+    'BPML11': 'BPML11.SA', 'ATSA11': 'ATSA11.SA', 'FVPQ11': 'FVPQ11.SA',
     # Lajes Corporativas
     'HGRE11': 'HGRE11.SA', 'BRCR11': 'BRCR11.SA', 'RCRB11': 'RCRB11.SA',
     'PATC11': 'PATC11.SA', 'PVBI11': 'PVBI11.SA', 'VINO11': 'VINO11.SA',
-    'JSRE11': 'JSRE11.SA', 'TGAR11': 'TGAR11.SA', 'BBPO11': 'BBPO11.SA',
+    'JSRE11': 'JSRE11.SA', 'TGAR11': 'TGAR11.SA',
     # Papel / CRI
     'MXRF11': 'MXRF11.SA', 'IRDM11': 'IRDM11.SA', 'KNCR11': 'KNCR11.SA',
     'KNHY11': 'KNHY11.SA', 'MCCI11': 'MCCI11.SA', 'VRTA11': 'VRTA11.SA',
@@ -140,8 +147,7 @@ FIIS = {
     'CPTS11': 'CPTS11.SA', 'KNIP11': 'KNIP11.SA', 'RBRR11': 'RBRR11.SA',
     'OUJP11': 'OUJP11.SA', 'HCTR11': 'HCTR11.SA',
     # Fundo de Fundos
-    'BCFF11': 'BCFF11.SA', 'RBFF11': 'RBFF11.SA', 'HFOF11': 'HFOF11.SA',
-    'TFOF11': 'TFOF11.SA', 'FUND11': 'FUND11.SA',
+    'BTHF11': 'BTHF11.SA', 'HFOF11': 'HFOF11.SA', 'TFOF11': 'TFOF11.SA',
     # Residencial
     'BLMG11': 'BLMG11.SA', 'RBVA11': 'RBVA11.SA', 'RZAK11': 'RZAK11.SA',
     # Híbrido / Diversificado
@@ -157,10 +163,10 @@ ETFS = {
     'BBSD11': 'BBSD11.SA', 'ISUS11': 'ISUS11.SA', 'ECOO11': 'ECOO11.SA',
     # Internacional
     'IVVB11': 'IVVB11.SA', 'NASD11': 'NASD11.SA', 'SPXI11': 'SPXI11.SA',
-    'ACWI11': 'ACWI11.SA', 'EURP11': 'EURP11.SA', 'USAI11': 'USAI11.SA',
+    'ACWI11': 'ACWI11.SA',
     # Temáticos
     'HASH11': 'HASH11.SA', 'GOLD11': 'GOLD11.SA', 'MATB11': 'MATB11.SA',
-    'TECK11': 'TECK11.SA', 'AGRI11': 'AGRI11.SA', 'NFNX11': 'NFNX11.SA',
+    'TECK11': 'TECK11.SA', 'AGRI11': 'AGRI11.SA',
     # Renda Fixa
     'IMAB11': 'IMAB11.SA', 'IRFM11': 'IRFM11.SA', 'B5P211': 'B5P211.SA',
     'FIXA11': 'FIXA11.SA', 'XFIX11': 'XFIX11.SA',
@@ -245,6 +251,50 @@ def eh_noticia_financeira(title):
     tl = title.lower()
     return any(p in tl for p in PALAVRAS_FINANCEIRAS)
 
+# Tickers conhecidos (para vincular notícia <-> ativo)
+TICKERS_CONHECIDOS = set(ATIVOS_BR) | set(FIIS) | set(ETFS)
+CRIPTO_NO_TITULO = {
+    'bitcoin': 'BTC', 'btc': 'BTC', 'ethereum': 'ETH', 'solana': 'SOL',
+    'cardano': 'ADA', 'xrp': 'XRP', 'dogecoin': 'DOGE',
+}
+
+def extrair_tickers(texto):
+    """Extrai tickers B3 (ex.: PETR4, HGLG11) e criptos citados no texto."""
+    achados = []
+    for m in re.findall(r'\b([A-Z]{4}\d{1,2})\b', texto or ''):
+        if m in TICKERS_CONHECIDOS and m not in achados:
+            achados.append(m)
+    tl = (texto or '').lower()
+    for palavra, tk in CRIPTO_NO_TITULO.items():
+        if palavra in tl and tk not in achados:
+            achados.append(tk)
+    return achados[:3]
+
+# Palavras que indicam manchete de alto impacto
+PALAVRAS_MANCHETE = [
+    'selic', 'copom', 'ibovespa', 'ipca', 'petrobras', 'vale', 'itaú', 'itau',
+    'dólar', 'dolar', 'fed', 'juros', 'banco central', 'bitcoin', 'recorde',
+    'despenca', 'dispara', 'bilhões', 'bilhoes', 'tombo', 'máxima', 'maxima',
+]
+
+def pontuar_noticia(noticia):
+    """Score p/ escolher manchete: recência + palavras de impacto + resumo presente."""
+    score = 0.0
+    try:
+        pub = datetime.strptime(noticia['time'], '%Y-%m-%dT%H:%M:%SZ')
+        agora = datetime.now(timezone.utc).replace(tzinfo=None)
+        horas = max((agora - pub).total_seconds() / 3600, 0)
+        score += max(0, 24 - horas)  # até 24 pts por recência
+    except Exception:
+        pass
+    tl = noticia['title'].lower()
+    score += sum(6 for p in PALAVRAS_MANCHETE if p in tl)
+    if noticia.get('summary'):
+        score += 4
+    if noticia.get('tickers'):
+        score += 2
+    return score
+
 def classificar_noticia(title, default_cat='acoes'):
     tl = title.lower()
     for cat, palavras in PALAVRAS_CATEGORIA.items():
@@ -252,20 +302,15 @@ def classificar_noticia(title, default_cat='acoes'):
             return cat
     return default_cat
 
-def tempo_relativo(published):
+def publicacao_iso(published):
+    """Converte published_parsed para ISO 8601 UTC string."""
     try:
         if hasattr(published, 'tm_year'):
             pub_dt = datetime(*published[:6])
-            diff = datetime.utcnow() - pub_dt
-        else:
-            return '1h'
-        mins = int(diff.total_seconds() / 60)
-        if mins < 1: return 'agora'
-        if mins < 60: return f'{mins} min'
-        if mins < 1440: return f'{mins // 60}h'
-        return f'{mins // 1440}d'
+            return pub_dt.strftime('%Y-%m-%dT%H:%M:%SZ')
+        return None
     except Exception:
-        return '1h'
+        return None
 
 def limpar_html(texto):
     if not texto: return ''
@@ -295,11 +340,12 @@ def coletar_noticias():
                 summary = limpar_html(summary_raw)
                 published = entry.get('published_parsed', entry.get('updated_parsed'))
                 cat = classificar_noticia(title, feed_info['default_cat'])
+                pub_iso = publicacao_iso(published) if published else datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
                 todas.append({
                     'title': title, 'summary': summary,
                     'source': feed_info['source'], 'url': url,
-                    'time': tempo_relativo(published) if published else '1h',
-                    'cat': cat, 'tickers': [],
+                    'time': pub_iso,
+                    'cat': cat, 'tickers': extrair_tickers(title + ' ' + summary),
                 })
         except Exception as e:
             print(f"    Erro {feed_info['source']}: {e}")
@@ -314,27 +360,27 @@ def coletar_noticias():
 
 # ==================== NOMES COMPLETOS BR ====================
 NOMES_BR = {
-    'PETR4':'Petrobras PN','PETR3':'Petrobras ON','PRIO3':'PetroRio',
+    'PETR4':'Petrobras PN','PETR3':'Petrobras ON','PRIO3':'PetroRio','BRAV3':'Brava Energia',
     'RECV3':'Recôncavo','CSAN3':'Cosan','UGPA3':'Ultrapar','VBBR3':'Vibra Energia','BRAP4':'Bradespar',
     'VALE3':'Vale','CSNA3':'CSN','GGBR4':'Gerdau PN','USIM5':'Usiminas','CMIN3':'CSN Mineração','GOAU4':'Metalúrgica Gerdau',
     'ITUB4':'Itaú Unibanco PN','ITUB3':'Itaú Unibanco ON','BBDC4':'Bradesco PN','BBDC3':'Bradesco ON',
     'BBAS3':'Banco do Brasil','SANB11':'Santander BR','BPAC11':'BTG Pactual','BRSR6':'Banrisul','BMGB4':'Banco BMG',
-    'B3SA3':'B3','CIEL3':'Cielo','IRBR3':'IRB Brasil','TRAD3':'Tradecorp','BBSE3':'BB Seguridade','PSSA3':'Porto Seguro',
-    'ELET3':'Eletrobras ON','ELET6':'Eletrobras PNB','CPFE3':'CPFL Energia','ENGI11':'Energisa',
+    'B3SA3':'B3','IRBR3':'IRB Brasil','TRAD3':'Tradecorp','BBSE3':'BB Seguridade','PSSA3':'Porto Seguro',
+    'AXIA3':'Axia Energia ON','AXIA6':'Axia Energia PNB','CPFE3':'CPFL Energia','ENGI11':'Energisa',
     'EGIE3':'Engie Brasil','TAEE11':'Taesa','ENEV3':'Eneva','CMIG4':'Cemig PN',
-    'AESB3':'AES Brasil','NEOE3':'Neoenergia','ALUP11':'Alupar','EQTL3':'Equatorial Energia',
+    'AURE3':'Auren Energia','NEOE3':'Neoenergia','ALUP11':'Alupar','EQTL3':'Equatorial Energia',
     'SBSP3':'Sabesp','CSMG3':'Copasa',
     'VIVT3':'Vivo (Telefônica)','TIMS3':'TIM',
-    'MGLU3':'Magazine Luiza','LREN3':'Lojas Renner','SOMA3':'Grupo Soma','ARZZ3':'Arezzo',
-    'NTCO3':'Grupo Boticário','AMAR3':'Marisa','CEAB3':'C&A','GMAT3':'Grupo Mateus','PETZ3':'Petz','SBFG3':'SBF Group (Centauro)',
+    'MGLU3':'Magazine Luiza','LREN3':'Lojas Renner','AZZA3':'Azzas 2154',
+    'NATU3':'Natura','AMAR3':'Marisa','CEAB3':'C&A','GMAT3':'Grupo Mateus','SBFG3':'SBF Group (Centauro)',
     'ABEV3':'Ambev',
-    'JBSS3':'JBS','MRFG3':'Marfrig','BEEF3':'Minerva Foods','BRFS3':'BRF',
+    'JBSS32':'JBS (BDR)','MBRF3':'MBRF Global Foods','BEEF3':'Minerva Foods',
     'SLCE3':'SLC Agrícola','AGRO3':'Brasilagro','SMTO3':'São Martinho','TTEN3':'Terra Santa Agro',
     'RDOR3':'Rede D\'Or','HAPV3':'Hapvida','FLRY3':'Fleury','DASA3':'Dasa','RADL3':'Raia Drogasil','ODPV3':'Odontoprev',
     'CYRE3':'Cyrela','MRVE3':'MRV Engenharia','EZTC3':'EZTEC','JHSF3':'JHSF','MDNE3':'Modenese','DIRR3':'Direcional','TEND3':'Tenda','LAVV3':'Lavvi',
     'MULT3':'Multiplan','IGTI11':'Iguatemi',
     'RAIL3':'Rumo','ECOR3':'Ecorodovias','POMO4':'Marcopolo','TGMA3':'Tegma','LOGN3':'Log-In',
-    'EMBR3':'Embraer',
+    'EMBJ3':'Embraer',
     'RENT3':'Localiza','MOVI3':'Movida','HBSA3':'Hidrovias do Brasil',
     'SUZB3':'Suzano','KLBN11':'Klabin',
     'TOTS3':'Totvs','LWSA3':'Locaweb','CASH3':'Méliuz','INTB3':'Intelbras','MLAS3':'Multilaser',
@@ -345,14 +391,14 @@ NOMES_BR = {
 NOMES_FII = {
     'HGLG11':'CGHG Logística','XPLG11':'XP Log','VILG11':'Vinci Logística','BRCO11':'Bresco Logística',
     'GLOG11':'Golgi Log','ALZR11':'Alianza Trust','LVBI11':'LivBras','GGRC11':'GGR Covepi','PATL11':'Pátria Logística',
-    'BTLG11':'BTG Logística','VGIP11':'Valora CRI','SDIL11':'SDI Logística','TRXF11':'TRX Real Estate','JRDM11':'Shopping Jardim Sul',
-    'VISC11':'Vinci Shopping Centers','XPML11':'XP Malls','HSML11':'HSI Malls','MALL11':'Malls Brasil','BPML11':'BPM Logística','ATSA11':'Ático Shopping','FVPQ11':'Fundo Vale Paraíba',
+    'BTLG11':'BTG Logística','VGIP11':'Valora CRI','TRXF11':'TRX Real Estate',
+    'VISC11':'Vinci Shopping Centers','XPML11':'XP Malls','HSML11':'HSI Malls','BPML11':'BPM Logística','ATSA11':'Ático Shopping','FVPQ11':'Fundo Vale Paraíba',
     'HGRE11':'CSHG Real Estate','BRCR11':'BC Fund','RCRB11':'Rio Bravo Renda Corporativa','PATC11':'Pátria Offices',
-    'PVBI11':'VBI Prime Properties','VINO11':'Vinci Offices','JSRE11':'JS Real Estate','TGAR11':'TG Ativo Real','BBPO11':'BB Progressivo',
+    'PVBI11':'VBI Prime Properties','VINO11':'Vinci Offices','JSRE11':'JS Real Estate','TGAR11':'TG Ativo Real',
     'MXRF11':'Maxi Renda','IRDM11':'Iridium Recebíveis','KNCR11':'Kinea Recebíveis','KNHY11':'Kinea High Yield','MCCI11':'Mauá Capital',
     'VRTA11':'Fator Verita','HABT11':'Habitat II','RECR11':'REC Recebíveis','VGIR11':'Valora RE','CPTS11':'Capitânia Securities',
     'KNIP11':'Kinea Índice de Preços','RBRR11':'RBR Rendimento','OUJP11':'Ourinvest JPP','HCTR11':'Hectare CE',
-    'BCFF11':'BC Fundo de Fundos','RBFF11':'Rio Bravo FoF','HFOF11':'Hedge Top FoF','TFOF11':'Torre Forte FoF','FUND11':'Mérito Desenvolvimentos',
+    'BTHF11':'BTG Hedge FoF','HFOF11':'Hedge Top FoF','TFOF11':'Torre Forte FoF',
     'BLMG11':'Bluemacaw Logística','RBVA11':'Rio Bravo Vacâncias','RZAK11':'Riza Akin',
     'KNRI11':'Kinea Renda Imobiliária','HGPO11':'CSHG Prime Offices','BTRA11':'Btg Pactual Terras','RBRP11':'RBR Properties','VVPR11':'VV Properties',
 }
@@ -377,8 +423,18 @@ def _perf(col, dias):
             return round((p_new / p_old - 1) * 100, 2)
     return None
 
-def coletar_batch(ativos_dict, tipo, setor_map=None, nome_map=None):
-    """Baixa 1 ano de dados em batch — calcula preço, variação e períodos históricos."""
+def _sparkline(col, pontos=30):
+    """Amostra a série de fechamento em ~`pontos` valores p/ mini-gráfico no site."""
+    valores = [float(v) for v in col.tolist()]
+    if len(valores) <= pontos:
+        return [round(v, 2) for v in valores]
+    passo = len(valores) / pontos
+    amostra = [valores[int(i * passo)] for i in range(pontos)]
+    amostra[-1] = valores[-1]  # garante o preço atual como último ponto
+    return [round(v, 2) for v in amostra]
+
+def coletar_batch(ativos_dict, tipo, setor_map=None, nome_map=None, com_dy=False):
+    """Baixa 1 ano de dados em batch — preço, variação, períodos, sparkline e DY."""
     if not ativos_dict:
         return {}
 
@@ -391,10 +447,18 @@ def coletar_batch(ativos_dict, tipo, setor_map=None, nome_map=None):
             tickers if len(tickers) > 1 else tickers[0],
             period='1y',
             auto_adjust=True,
+            actions=com_dy,
             progress=False,
             threads=True,
         )
         close_df, vol_df = _normaliza_close_vol(raw, tickers)
+
+        div_df = pd.DataFrame()
+        if com_dy:
+            try:
+                div_df = raw['Dividends'] if len(tickers) > 1 else pd.DataFrame({tickers[0]: raw['Dividends']})
+            except Exception:
+                pass
 
         for ticker_yf in tickers:
             nome = ticker_para_nome.get(ticker_yf, ticker_yf)
@@ -412,6 +476,16 @@ def coletar_batch(ativos_dict, tipo, setor_map=None, nome_map=None):
                 try: vol = int(vol_df[ticker_yf].dropna().iloc[-1])
                 except Exception: pass
 
+            # DY 12m = soma dos proventos do último ano / preço atual
+            dy = None
+            if com_dy and ticker_yf in div_df.columns:
+                try:
+                    soma_div = float(div_df[ticker_yf].fillna(0).sum())
+                    if soma_div > 0 and preco > 0:
+                        dy = round(soma_div / preco * 100, 2)
+                except Exception:
+                    pass
+
             nome_completo = (nome_map or {}).get(nome, nome)
             setor         = (setor_map or {}).get(nome, '')
 
@@ -424,10 +498,13 @@ def coletar_batch(ativos_dict, tipo, setor_map=None, nome_map=None):
                 'market_cap': 0,
                 'sector':   setor,
                 'type':     tipo,
+                'dy':       dy,
+                'pvp':      None,
                 'perf_1m':  _perf(col, 21),
                 'perf_3m':  _perf(col, 63),
                 'perf_6m':  _perf(col, 126),
                 'perf_12m': _perf(col, 252),
+                'spark':    _sparkline(col),
             }
 
     except Exception as e:
@@ -435,19 +512,114 @@ def coletar_batch(ativos_dict, tipo, setor_map=None, nome_map=None):
 
     return resultado
 
+# ==================== ENRIQUECIMENTO: MARKET CAP (BrAPI) ====================
+def enriquecer_market_cap_brapi(dados):
+    """Uma única chamada à BrAPI traz market_cap de todos os ativos B3."""
+    if not HAS_REQUESTS:
+        return
+    try:
+        resp = requests.get('https://brapi.dev/api/quote/list', headers=UA_HEADERS, timeout=30)
+        lista = resp.json().get('stocks', [])
+        caps = {s['stock']: s.get('market_cap') for s in lista if s.get('market_cap')}
+        atualizados = 0
+        for grupo in ('stocks', 'fiis', 'etfs'):
+            for tk, ativo in dados.get(grupo, {}).items():
+                if tk in caps:
+                    ativo['market_cap'] = caps[tk]
+                    atualizados += 1
+        print(f"  Market cap BrAPI: {atualizados} ativos atualizados")
+    except Exception as e:
+        print(f"  BrAPI market cap falhou: {e}")
+
+def enriquecer_market_cap_us(dados):
+    """Market cap das ações americanas via fast_info (paralelo)."""
+    us = dados.get('us_stocks', {})
+    if not us:
+        return
+
+    def busca(tk):
+        try:
+            mc = yf.Ticker(tk).fast_info['marketCap']
+            return tk, int(mc) if mc else 0
+        except Exception:
+            return tk, 0
+
+    atualizados = 0
+    with ThreadPoolExecutor(max_workers=8) as ex:
+        for tk, mc in ex.map(busca, list(us.keys())):
+            if mc:
+                us[tk]['market_cap'] = mc
+                atualizados += 1
+    print(f"  Market cap EUA: {atualizados} ativos atualizados")
+
+# ==================== ENRIQUECIMENTO: DY / P/VP FIIs (Fundamentus) ====================
+def enriquecer_fiis_fundamentus(dados):
+    """Tabela única do Fundamentus traz DY e P/VP de todos os FIIs listados."""
+    if not HAS_REQUESTS:
+        return
+    try:
+        resp = requests.get('https://www.fundamentus.com.br/fii_resultado.php',
+                            headers=UA_HEADERS, timeout=30)
+        resp.encoding = 'utf-8'
+        tabelas = pd.read_html(StringIO(resp.text), decimal=',', thousands='.')
+        if not tabelas:
+            return
+        df = tabelas[0]
+        df.columns = [str(c).strip() for c in df.columns]
+
+        def pct(valor):
+            try:
+                return round(float(str(valor).replace('%', '').replace('.', '').replace(',', '.')), 2)
+            except Exception:
+                return None
+
+        def num(valor):
+            try:
+                v = float(str(valor).replace('.', '').replace(',', '.')) if isinstance(valor, str) else float(valor)
+                # P/VP no fundamentus pode vir multiplicado (ex.: 95 = 0,95)
+                return round(v / 100, 2) if v > 20 else round(v, 2)
+            except Exception:
+                return None
+
+        atualizados = 0
+        for _, row in df.iterrows():
+            tk = str(row.get('Papel', '')).strip()
+            if tk in dados.get('fiis', {}):
+                dy  = pct(row.get('Dividend Yield'))
+                pvp = num(row.get('P/VP'))
+                if dy is not None and 0 < dy < 60:
+                    dados['fiis'][tk]['dy'] = dy
+                if pvp is not None and 0 < pvp < 10:
+                    dados['fiis'][tk]['pvp'] = pvp
+                atualizados += 1
+        print(f"  Fundamentus FIIs: {atualizados} fundos enriquecidos (DY/P-VP)")
+    except Exception as e:
+        print(f"  Fundamentus falhou (DY via yfinance mantido): {e}")
+
 def coletar_indice(ticker_yf, nome):
     try:
         t = yf.Ticker(ticker_yf)
-        hist = t.history(period='3d')
-        if hist.empty:
+        hist = t.history(period='5d')
+        closes = hist['Close'].dropna() if not hist.empty else None
+        if closes is None or closes.empty:
             return None
-        preco = round(float(hist['Close'].iloc[-1]), 2)
-        preco_ant = float(hist['Close'].iloc[-2]) if len(hist) >= 2 else preco
+        preco = round(float(closes.iloc[-1]), 2)
+        preco_ant = float(closes.iloc[-2]) if len(closes) >= 2 else preco
         var = round(((preco / preco_ant) - 1) * 100, 2)
         return {'stock': nome, 'close': preco, 'change': var}
     except Exception as e:
         print(f"  Erro indice {nome}: {e}")
         return None
+
+def _sem_nan(obj):
+    """Remove NaN/Inf recursivamente — NaN no JSON quebra o JSON.parse do navegador."""
+    if isinstance(obj, dict):
+        return {k: _sem_nan(v) for k, v in obj.items()}
+    if isinstance(obj, list):
+        return [_sem_nan(v) for v in obj]
+    if isinstance(obj, float) and (obj != obj or obj in (float('inf'), float('-inf'))):
+        return None
+    return obj
 
 # ==================== MAIN ====================
 print("Iniciando coleta Convexa News...\n")
@@ -463,7 +635,7 @@ dados['stocks'] = coletar_batch(ATIVOS_BR, 'stock', setor_map=SETOR_BR, nome_map
 print(f"  OK: {len(dados['stocks'])} ativos")
 
 print(f"FIIs ({len(FIIS)} tickers)...")
-dados['fiis'] = coletar_batch(FIIS, 'fii', nome_map=NOMES_FII)
+dados['fiis'] = coletar_batch(FIIS, 'fii', nome_map=NOMES_FII, com_dy=True)
 print(f"  OK: {len(dados['fiis'])} FIIs")
 
 print(f"ETFs ({len(ETFS)} tickers)...")
@@ -485,25 +657,93 @@ for nome, ticker in INDICES.items():
         dados['indices'][nome] = r
         print(f"  {nome}: {r['close']} ({r['change']:+.2f}%)")
 
-try:
-    d = yf.Ticker('USDBRL=X')
-    hist_d = d.history(period='3d')
-    if not hist_d.empty:
+def coletar_cambio(ticker_yf, label):
+    try:
+        hist_d = yf.Ticker(ticker_yf).history(period='3d')
+        if hist_d.empty:
+            return None
         pd_val = round(float(hist_d['Close'].iloc[-1]), 4)
         pd_ant = float(hist_d['Close'].iloc[-2]) if len(hist_d) >= 2 else pd_val
-        dados['dolar'] = {
-            'stock': 'USD/BRL',
-            'close': pd_val,
-            'change': round(((pd_val / pd_ant) - 1) * 100, 2),
-        }
-        print(f"  USD/BRL: {pd_val}")
-except Exception as e:
-    print(f"  Dolar: {e}")
+        print(f"  {label}: {pd_val}")
+        return {'stock': label, 'close': pd_val, 'change': round(((pd_val / pd_ant) - 1) * 100, 2)}
+    except Exception as e:
+        print(f"  {label}: {e}")
+        return None
+
+dados['dolar'] = coletar_cambio('USDBRL=X', 'USD/BRL') or {}
+dados['euro']  = coletar_cambio('EURBRL=X', 'EUR/BRL') or {}
+
+# ==================== DI FUTURO (B3) ====================
+def coletar_di_futuro():
+    """Contratos DI1 da B3 (curva de juros futura) — endpoint público de market data."""
+    if not HAS_REQUESTS:
+        return []
+    try:
+        resp = requests.get('https://cotacao.b3.com.br/mds/api/v1/DerivativeQuotation/DI1',
+                            headers=UA_HEADERS, timeout=30)
+        contratos = []
+        for s in resp.json().get('Scty', []):
+            qtn = s.get('SctyQtn', {})
+            summ = (s.get('asset') or {}).get('AsstSummry', {})
+            taxa = qtn.get('curPrc') or qtn.get('prvsDayAdjstmntPric')
+            venc = summ.get('mtrtyCode', '')
+            if not taxa or not venc:
+                continue
+            contratos.append({
+                'symb': s.get('symb', ''),
+                'venc': venc,
+                'taxa': round(float(taxa), 3),
+                'ant': round(float(qtn.get('prvsDayAdjstmntPric') or 0), 3) or None,
+                'contratos': int(summ.get('opnCtrcts') or 0),
+            })
+        # Curto prazo: 2 vencimentos mais próximos com alta liquidez (proxy do CDI)
+        # Longo prazo: contratos de janeiro (DI1F), benchmarks da curva
+        contratos.sort(key=lambda c: c['venc'])
+        curtos = [c for c in contratos if not c['symb'].startswith('DI1F') and c['contratos'] >= 1_000_000][:2]
+        jans = [c for c in contratos if c['symb'].startswith('DI1F')][:6]
+        sel = sorted(curtos + jans, key=lambda c: c['venc'])
+        return sel[:8]
+    except Exception as e:
+        print(f"  DI futuro B3: {e}")
+        return []
+
+dados['di_futuro'] = coletar_di_futuro()
+print(f"  DI futuro: {len(dados['di_futuro'])} contratos")
+
+# ==================== COMMODITIES (futuros, Yahoo Finance) ====================
+COMMODITIES = {
+    'OURO':    {'yf': 'GC=F',  'nome': 'Ouro',             'unidade': 'US$/onça'},
+    'PRATA':   {'yf': 'SI=F',  'nome': 'Prata',            'unidade': 'US$/onça'},
+    'BRENT':   {'yf': 'BZ=F',  'nome': 'Petróleo Brent',   'unidade': 'US$/barril'},
+    'WTI':     {'yf': 'CL=F',  'nome': 'Petróleo WTI',     'unidade': 'US$/barril'},
+    'GAS':     {'yf': 'NG=F',  'nome': 'Gás Natural',      'unidade': 'US$/MMBtu'},
+    'COBRE':   {'yf': 'HG=F',  'nome': 'Cobre',            'unidade': 'US$/libra'},
+    'MINERIO': {'yf': 'TIO=F', 'nome': 'Minério de Ferro', 'unidade': 'US$/tonelada'},
+    'SOJA':    {'yf': 'ZS=F',  'nome': 'Soja',             'unidade': '¢/bushel'},
+    'MILHO':   {'yf': 'ZC=F',  'nome': 'Milho',            'unidade': '¢/bushel'},
+    'CAFE':    {'yf': 'KC=F',  'nome': 'Café',             'unidade': '¢/libra'},
+    'ACUCAR':  {'yf': 'SB=F',  'nome': 'Açúcar',           'unidade': '¢/libra'},
+}
+
+print("Commodities...")
+dados['commodities'] = {}
+for chave, info in COMMODITIES.items():
+    r = coletar_indice(info['yf'], info['nome'])
+    if r:
+        r['unidade'] = info['unidade']
+        dados['commodities'][chave] = r
+print(f"  OK: {len(dados['commodities'])} commodities")
+
+print("Enriquecendo dados...")
+enriquecer_market_cap_brapi(dados)
+enriquecer_market_cap_us(dados)
+enriquecer_fiis_fundamentus(dados)
 
 dados['atualizado_em'] = datetime.now().strftime('%d/%m/%Y %H:%M')
+dados['atualizado_iso'] = datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
 
 with open('dados.json', 'w', encoding='utf-8') as f:
-    json.dump(dados, f, ensure_ascii=False, indent=2)
+    json.dump(_sem_nan(dados), f, ensure_ascii=False, indent=2)
 
 total = sum(len(v) for k, v in dados.items() if isinstance(v, dict) and k not in ('indices', 'dolar'))
 print(f"\ndados.json salvo — {total} ativos coletados")
@@ -513,9 +753,11 @@ print("\nColetando noticias RSS...")
 noticias_raw = coletar_noticias()
 
 if noticias_raw:
+    # Manchete escolhida por score (recência + impacto), não pela ordem do feed
+    ordenadas = sorted(noticias_raw, key=pontuar_noticia, reverse=True)
     noticias_json = {
-        'headline': noticias_raw[0],
-        'featured': noticias_raw[1:3],
+        'headline': ordenadas[0],
+        'featured': ordenadas[1:3],
         'all': noticias_raw,
         'atualizado_em': datetime.now().strftime('%d/%m/%Y %H:%M'),
     }
