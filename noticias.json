@@ -1,139 +1,95 @@
 {
   "headline": {
-    "title": "Tempo Real: Ibovespa fecha semana com IPCA",
-    "summary": "Resumo: O Ibovespa (IBOV) encerra a semana acompanhando o IPCA no Brasil, além de indicadores de atividade no Reino Unido e dados de produção industrial no Japão. Destaques: Confira os principais temas do Ibovespa e dos ",
-    "source": "Money Times",
-    "url": "https://www.moneytimes.com.br/tempo-real-ibovespa-hoje-mercado-ao-vivo-12-06-2026-jals-lils-apsa/",
-    "time": "2026-06-12T09:00:00Z",
+    "title": "Ibovespa Hoje Ao Vivo: Bolsa oscila com IPCA, guerra e SpaceX em foco",
+    "summary": "Índices futuros dos EUA operam mistos com esperanças de acordo com o Irã e em dia de IPO da SpaceX",
+    "source": "InfoMoney",
+    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-12062026/",
+    "time": "2026-06-12T13:46:22Z",
     "cat": "economia",
     "tickers": []
   },
   "featured": [
     {
-      "title": "Mari Damaceno fecha a Semana dos Minicontratos com foco em Bitcoin futuro",
-      "summary": "Movimentos de abertura, gaps e leitura de contexto estão entre os temas da última aula do evento",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/mari-damaceno-fecha-semana-dos-minicontratos-com-foco-em-bitcoin-futuro/",
-      "time": "2026-06-12T09:45:00Z",
-      "cat": "cripto",
-      "tickers": [
-        "BTC"
-      ]
+      "title": "Ibovespa recua na abertura pressionado por Petrobras",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-recua-na-abertura-pressionado-por-petrobras-1971580",
+      "time": "2026-06-12T13:21:51Z",
+      "cat": "internacional",
+      "tickers": []
     },
     {
-      "title": "Privatização da Copasa (CSMG3) movimenta R$ 8,3 bilhões com venda de ações a R$ 49,03, diz Valor",
-      "summary": "A privatização da Copasa (CSMG3) movimentou R$ 8,3 bilhões, considerando o lote principal, segundo informado pelo jornal Valor Econômico com base em relatos de fontes. A venda da Copasa é uma das maiores operações do mer",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/privatizacao-da-copasa-csmg3-movimenta-r-83-bilhoes-com-venda-de-acoes-a-r-4903-diz-valor/",
-      "time": "2026-06-12T09:26:30Z",
-      "cat": "acoes",
-      "tickers": [
-        "CSMG3"
-      ]
+      "title": "IPCA desacelera em maio, mas inflação sobe para 4,72% em 12 meses",
+      "summary": "O Índice Nacional de Preços ao Consumidor Amplo (IPCA), índice que mede a inflação do Brasil, registrou alta de 0,58% no mês, abaixo da variação de 0,67% observada em abril, conforme dados divulgados nesta quinta-feira (",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ipca-desacelera-em-maio-2026-mas-inflacao-brasileira-sobe-12-meses-jj/",
+      "time": "2026-06-12T12:55:08Z",
+      "cat": "economia",
+      "tickers": []
     }
   ],
   "all": [
     {
-      "title": "Previ pede convocação de assembleia da Vale para troca de presidente do conselho",
-      "summary": "O fundo de pensão declarou apoio ​à indicação de Manuel Lino Silva de Sousa Oliveira ​para o lugar de Stieler",
+      "title": "JPMorgan eleva Tupy e Iochpe para compra e corta Randoncorp para venda; ações reagem",
+      "summary": "JPMorgan manteve uma visão cautelosa para o setor brasileiro de autopeças",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/previ-pede-convocacao-de-assembleia-da-vale-para-troca-de-presidente-do-conselho/",
-      "time": "2026-06-12T09:58:52Z",
+      "url": "https://www.infomoney.com.br/mercados/jpmorgan-eleva-tupy-e-iochpe-para-compra-e-corta-randoncorp-para-venda-acoes-reagem/",
+      "time": "2026-06-12T14:06:48Z",
       "cat": "acoes",
       "tickers": []
     },
     {
-      "title": "Mari Damaceno fecha a Semana dos Minicontratos com foco em Bitcoin futuro",
-      "summary": "Movimentos de abertura, gaps e leitura de contexto estão entre os temas da última aula do evento",
+      "title": "Ibovespa Hoje Ao Vivo: Bolsa oscila com IPCA, guerra e SpaceX em foco",
+      "summary": "Índices futuros dos EUA operam mistos com esperanças de acordo com o Irã e em dia de IPO da SpaceX",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/mari-damaceno-fecha-semana-dos-minicontratos-com-foco-em-bitcoin-futuro/",
-      "time": "2026-06-12T09:45:00Z",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-12062026/",
+      "time": "2026-06-12T13:46:22Z",
+      "cat": "economia",
+      "tickers": []
+    },
+    {
+      "title": "Governo pode acionar STF contra pautas-bomba se negociação falhar, diz Durigan",
+      "summary": "A equipe econômica do governo estimou na quinta-feira que proposições em tramitação no ‌Congresso somam impacto ​fiscal estimado em R$111 bilhões por ano",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/governo-pode-acionar-stf-contra-pautas-bomba-se-negociacao-falhar-diz-durigan/",
+      "time": "2026-06-12T13:40:15Z",
+      "cat": "acoes",
+      "tickers": []
+    },
+    {
+      "title": "Renda Fixa Hoje: as taxas de CDBs, LCIs e LCAs na XP com inflação acima do esperado",
+      "summary": "Veja as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-12062026/",
+      "time": "2026-06-12T13:35:02Z",
+      "cat": "fundos",
+      "tickers": []
+    },
+    {
+      "title": "Assentos vazios na Copa do Mundo reacendem preocupações com preços dos ingressos",
+      "summary": "Enquanto mais de 80 mil pessoas estiveram no estádio Azteca, na Cidade do México, partida em Guadalajara atraiu cerca de 45 mil torcedores",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/esportes/assentos-vazios-na-copa-do-mundo-reacendem-preocupacoes-com-precos-dos-ingressos/",
+      "time": "2026-06-12T13:34:50Z",
+      "cat": "acoes",
+      "tickers": []
+    },
+    {
+      "title": "Genial atualiza carteiras de ETFs e aposta em chips, Coreia do Sul e cripto; veja",
+      "summary": "As carteiras recomendadas de ETFs para junho da Genial Investimentos trouxeram mudanças pontuais, mas mantiveram a diversificação entre renda fixa, mercados internacionais e ativos ligados à economia digital. O principal",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/genial-atualiza-carteiras-etfs-aposta-chips-coreia-sul-cripto-veja/",
+      "time": "2026-06-12T13:55:34Z",
       "cat": "cripto",
-      "tickers": [
-        "BTC"
-      ]
-    },
-    {
-      "title": "Após ânimo com acordo EUA-Irã próximo, Ibovespa voltará a subir de vez?",
-      "summary": "Analistas têm cautela, uma vez que há outros fatores que não estão animando mercado doméstico",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/apos-animo-com-acordo-eua-ira-proximo-ibovespa-voltara-a-subir-de-vez/",
-      "time": "2026-06-12T09:30:00Z",
-      "cat": "internacional",
       "tickers": []
     },
     {
-      "title": "Inflação no Brasil, confiança do consumidor nos EUA, estreia da SpaceX e mais",
-      "summary": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta sexta-feira (12)",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/inflacao-brasil-confianca-consumidor-eua-estreia-spacex-mais-destaques-12062026/",
-      "time": "2026-06-12T09:22:03Z",
+      "title": "IPCA desacelera em maio, mas inflação sobe para 4,72% em 12 meses",
+      "summary": "O Índice Nacional de Preços ao Consumidor Amplo (IPCA), índice que mede a inflação do Brasil, registrou alta de 0,58% no mês, abaixo da variação de 0,67% observada em abril, conforme dados divulgados nesta quinta-feira (",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ipca-desacelera-em-maio-2026-mas-inflacao-brasileira-sobe-12-meses-jj/",
+      "time": "2026-06-12T12:55:08Z",
       "cat": "economia",
-      "tickers": []
-    },
-    {
-      "title": "Dow Jones Futuro sobe com expectativa de trégua entre EUA e Irã e estreia da SpaceX",
-      "summary": "Possível fim do conflito no Oriente Médio impulsiona o apetite por risco, em sessão marcada pelo aguardado IPO da fabricante de foguetes de Elon Musk",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/dow-jones-futuro-sobe-com-expectativa-de-tregua-entre-eua-e-ira-e-estreia-da-spacex/",
-      "time": "2026-06-12T08:33:25Z",
-      "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "Bolsas da Ásia fecham em alta com otimismo sobre possível acordo entre EUA e Irã",
-      "summary": "As bolsas asiáticas fecharam em alta nesta sexta-feira (12), após o presidente dos Estados Unidos, Donald Trump, afirmar que houve avanços nas negociações com o Irã para encerrar a guerra no Oriente Médio. Liderando os g",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bolsas-da-asia-fecham-em-alta-com-otimismo-sobre-possivel-acordo-entre-eua-e-ira-fets/",
-      "time": "2026-06-12T09:42:00Z",
-      "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "Privatização da Copasa (CSMG3) movimenta R$ 8,3 bilhões com venda de ações a R$ 49,03, diz Valor",
-      "summary": "A privatização da Copasa (CSMG3) movimentou R$ 8,3 bilhões, considerando o lote principal, segundo informado pelo jornal Valor Econômico com base em relatos de fontes. A venda da Copasa é uma das maiores operações do mer",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/privatizacao-da-copasa-csmg3-movimenta-r-83-bilhoes-com-venda-de-acoes-a-r-4903-diz-valor/",
-      "time": "2026-06-12T09:26:30Z",
-      "cat": "acoes",
-      "tickers": [
-        "CSMG3"
-      ]
-    },
-    {
-      "title": "PF rejeita segunda proposta de delação de Vorcaro; PGR ainda analisa pedido de banqueiro",
-      "summary": "A Polícia Federal rejeitou a segunda proposta de delação premiada do banqueiro Daniel Vorcaro. Os investigadores comunicaram a recusa ao gabinete do ministro André Mendonça, do Supremo Tribunal Federal (STF), e à defesa ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/pf-rejeita-segunda-proposta-de-delacao-de-vorcaro-pgr-ainda-analisa-pedido-de-banqueiro-fets/",
-      "time": "2026-06-12T09:25:00Z",
-      "cat": "acoes",
-      "tickers": []
-    },
-    {
-      "title": "Tempo Real: Ibovespa fecha semana com IPCA",
-      "summary": "Resumo: O Ibovespa (IBOV) encerra a semana acompanhando o IPCA no Brasil, além de indicadores de atividade no Reino Unido e dados de produção industrial no Japão. Destaques: Confira os principais temas do Ibovespa e dos ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/tempo-real-ibovespa-hoje-mercado-ao-vivo-12-06-2026-jals-lils-apsa/",
-      "time": "2026-06-12T09:00:00Z",
-      "cat": "economia",
-      "tickers": []
-    },
-    {
-      "title": "Banco Mundial revê de 2% para 1,9% crescimento do PIB do Brasil em 2026; 2027, de 2,3% para 2%",
-      "summary": "O Banco Mundial revisou de 2% para 1,9% a projeção ao crescimento da economia brasileira em 2026, dada a desaceleração aguardada no consumo. Para 2027, o prognóstico ao crescimento do Produto Interno Bruto (PIB) foi revi",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/banco-mundial-reve-de-2-para-19-crescimento-do-pib-do-brasil-em-2026-2027-de-23-para-2-fets/",
-      "time": "2026-06-12T08:47:00Z",
-      "cat": "economia",
-      "tickers": []
-    },
-    {
-      "title": "Exportação de café do Brasil tem 1ª alta mensal desde 2024 com impulso dos canéforas, diz Cecafé",
-      "summary": "As exportações brasileiras de café verde somaram 2,73 milhões de sacas de 60 kg em maio, alta de 4,2% na comparação com o mesmo mês de 2025, impulsionadas por avanço expressivo dos embarques de canéforas, enquanto as ven",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/exportacao-de-cafe-do-brasil-tem-1a-alta-mensal-desde-2024-com-impulso-dos-caneforas-diz-cecafe-fets/",
-      "time": "2026-06-12T07:51:00Z",
-      "cat": "acoes",
       "tickers": []
     },
     {
@@ -173,144 +129,140 @@
       "tickers": []
     },
     {
-      "title": "PetroReconcavo (RECV3) dispara após Citi elevar recomendação; veja detalhes",
-      "summary": "As ações da PetroReconcavo (RECV3) lideram as altas do Ibovespa nesta quinta-feira (11), após o Citi elevar a recomendação para os papéis. Por volta das 16h30, os ativos avançavam 6,39%, a R$ 11,16, depois de chegarem a ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/petroreconcavo-recv3-sobe-citi-eleva-recomendacao-compra-go/",
-      "time": "2026-06-11T19:45:08Z",
-      "cat": "analise",
-      "tickers": [
-        "RECV3"
-      ]
-    },
-    {
-      "title": "Ex-executivo da Gerdau assume comando da Abramat em meio à queda nas vendas",
-      "summary": "Executivo da Gerdau, assumirá a presidência da Abramat com foco nos desafios da indústria de materiais de construção.Foto: PixabayA Associação Brasileira da Indústria de Materiais de Construção (Abramat) terá o executivo",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/abramat-mauro-franco-gerdau-novo-presidente-mtae/",
-      "time": "2026-06-11T19:17:11Z",
-      "cat": "acoes",
-      "tickers": []
-    },
-    {
-      "title": "Braskem (BRKM5) dispara com OPA, mas oferta não é em dinheiro; entenda",
-      "summary": "A Braskem (BRKM5) disparou na Bolsa nesta quinta-feira (11), após informar que recebeu correspondência do Shine I Fundo de Investimento em Participações sobre o protocolo do pedido de registro de uma oferta pública de aq",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/braskem-brkm5-opa-shine-fip-debentures-mt/",
-      "time": "2026-06-11T17:45:08Z",
-      "cat": "acoes",
-      "tickers": []
-    },
-    {
-      "title": "HSML11 salta 6x em maio com venda e reforça dividendos",
-      "summary": "O fundo imobiliário HSML11 reportou resultado de R$ 64,897 milhões em maio, um salto de aproximadamente seis vezes em relação ao mês anterior. O desempenho foi impulsionado, sobretudo, pela receita de capital derivada da",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/hsml11-resultado-6x-venda-patio-maceio-maio-2026/",
-      "time": "2026-06-11T17:15:04Z",
-      "cat": "fundos",
-      "tickers": [
-        "HSML11"
-      ]
-    },
-    {
-      "title": "Como a desorganização drena foco e motivação, segundo pesquisa",
-      "summary": "Bagunça na mesa, excesso de e-mails e métodos ineficazes de organização podem estar drenando produtividade, motivação e bem-estar",
+      "title": "Ibovespa repercute inflação no Brasil e humor estrangeiro com IPO da SpaceX",
+      "summary": "Os preços internacionais do petróleo recuam após relatos de que Irã e Estados Unidos avançam nas negociações para encerrar o conflito no Oriente Médio",
       "source": "Exame",
-      "url": "https://exame.com/carreira/como-a-desorganizacao-drena-foco-e-motivacao-segundo-pesquisa/",
-      "time": "2026-06-12T07:00:07Z",
+      "url": "https://exame.com/invest/mercados/ibovespa-repercute-inflacao-no-brasil-e-humor-estrangeiro-com-ipo-da-spacex/",
+      "time": "2026-06-12T11:08:12Z",
       "cat": "economia",
       "tickers": []
     },
     {
-      "title": "Petróleo cai ao menor nível em dois meses com expectativa de acordo entre EUA e Irã",
-      "summary": "Mercados reagem a declarações de Donald Trump sobre um possível pacto para encerrar a guerra e reabrir o Estreito de Ormuz, rota estratégica para o comércio global de energia",
+      "title": "Por que a tokenização virou o novo paradigma do setor imobiliário",
+      "summary": "Tecnologia blockchain permite fracionamento de imóveis e oferece liquidez inédita a um mercado tradicionalmente analógico",
       "source": "Exame",
-      "url": "https://exame.com/invest/mercados/petroleo-cai-ao-menor-nivel-em-dois-meses-com-expectativa-de-acordo-entre-eua-e-ira/",
-      "time": "2026-06-12T06:45:23Z",
-      "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "Estados Unidos x Paraguai: onde assistir ao vivo, horário e escalações",
-      "summary": "Os Estados Unidos estreou com vitória na Copa do Mundo em 2022, contra Portugal; já o Paraguai a última vitória ocorreu somente em 1986, contra o Iraque",
-      "source": "Exame",
-      "url": "https://exame.com/esporte/estados-unidos-x-paraguai-onde-assistir-ao-vivo-horario-e-escalacoes/",
-      "time": "2026-06-12T06:16:15Z",
+      "url": "https://exame.com/bussola/por-que-a-tokenizacao-virou-o-novo-paradigma-do-setor-imobiliario/",
+      "time": "2026-06-12T11:00:05Z",
       "cat": "economia",
       "tickers": []
     },
     {
-      "title": "Dados do Bank of America mostram alta de 8,4% nos gastos com cruzeiros em maio",
+      "title": "'Queremos levar você à Lua': veja o discurso de Musk no IPO da SpaceX",
+      "summary": "A companhia de Elon Musk estreia na Nasdaq e alcança valuation de US$ 1,77 trilhão",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/queremos-levar-voce-a-lua-veja-o-discurso-de-musk-no-ipo-da-spacex/",
+      "time": "2026-06-12T10:52:05Z",
+      "cat": "economia",
+      "tickers": []
+    },
+    {
+      "title": "Anvisa manda recolher lotes de milho para pipoca; veja embalagem",
+      "summary": "A Anvisa determinou o recolhimento do milho para pipoca da marca Provatti por erro de rotulagem sobre glúten. Saiba o que fazer se tiver o produto em casa",
+      "source": "Exame",
+      "url": "https://exame.com/brasil/anvisa-manda-recolher-lotes-de-milho-para-pipoca-veja-embalagem/",
+      "time": "2026-06-12T10:45:08Z",
+      "cat": "economia",
+      "tickers": []
+    },
+    {
+      "title": "Elon Musk se torna o primeiro trilionário do mundo após IPO da SpaceX",
+      "summary": "SpaceX responde por quase 80% da fortuna de US$ 1,1 trilhão de Musk, que se torna o primeiro trilionário da história",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/elon-musk-se-torna-o-primeiro-trilionario-do-mundo-apos-ipo-da-spacex/",
+      "time": "2026-06-12T10:40:59Z",
+      "cat": "economia",
+      "tickers": []
+    },
+    {
+      "title": "Os três negócios da SpaceX — e qual deles vai decidir se o IPO valeu a pena",
+      "summary": "Receita da empresa foi de US$ 18,7 bilhões em 2025; lucro vem da Starlink, enquanto lançamentos espaciais e IA registram prejuízos",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/os-tres-negocios-da-spacex-e-qual-deles-vai-decidir-se-o-ipo-valeu-a-pena/",
+      "time": "2026-06-12T10:34:23Z",
+      "cat": "economia",
+      "tickers": []
+    },
+    {
+      "title": "SpaceX estreia na B3 via BDR e pode ser comprada por cerca de R$ 50; entenda",
+      "summary": "Investidores brasileiros poderão comprar o ativo pelo código SPCX34, em reais e sem necessidade de abrir conta no exterior",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/spacex-estreia-na-b3-via-bdr-e-pode-ser-comprada-por-cerca-de-r-50-entenda/",
+      "time": "2026-06-12T10:33:21Z",
+      "cat": "economia",
+      "tickers": []
+    },
+    {
+      "title": "Ações da Pop Culture Group despencam 75% após oferta dilutiva",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/dados-do-bank-of-america-mostram-alta-de-84-nos-gastos-com-cruzeiros-em-maio-93CH-1971233",
-      "time": "2026-06-12T09:40:10Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-pop-culture-group-despencam-75-apos-oferta-dilutiva-93CH-1971650",
+      "time": "2026-06-12T13:51:52Z",
       "cat": "internacional",
       "tickers": []
     },
     {
-      "title": "Citi define novo preço-alvo para o Stoxx 600 em meados de 2027",
+      "title": "O boom de IPOs é um sinal de alerta para as ações?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/citi-define-novo-precoalvo-para-o-stoxx-600-em-meados-de-2027-1971226",
-      "time": "2026-06-12T09:30:01Z",
-      "cat": "analise",
-      "tickers": []
-    },
-    {
-      "title": "Por que as ações da Ryanair estão disparando hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-ryanair-estao-disparando-hoje-93CH-1971214",
-      "time": "2026-06-12T09:08:51Z",
+      "url": "https://br.investing.com/news/stock-market-news/o-boom-de-ipos-e-um-sinal-de-alerta-para-as-acoes-1971651",
+      "time": "2026-06-12T13:50:42Z",
       "cat": "internacional",
       "tickers": []
     },
     {
-      "title": "Ações da Rolls-Royce disparam após upgrade do Berenberg",
+      "title": "Ações da SpaceX devem ser negociadas com expectativas de alta após IPO recorde",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-rollsroyce-disparam-apos-upgrade-do-berenberg-1971221",
-      "time": "2026-06-12T09:08:33Z",
-      "cat": "analise",
-      "tickers": []
-    },
-    {
-      "title": "Por que as ações da Equinor estão caindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-equinor-estao-caindo-hoje-93CH-1971209",
-      "time": "2026-06-12T09:03:41Z",
+      "url": "https://br.investing.com/news/stock-market-news/apos-ipo-recorde-spacex-enfrenta-seu-proximo-desafio-na-estreia-em-bolsa-1971317",
+      "time": "2026-06-12T13:49:52Z",
       "cat": "internacional",
       "tickers": []
     },
     {
-      "title": "Por que as ações da TUI estão disparando hoje?",
+      "title": "S&P e Dow Jones abrem em alta com expectativas de acordo no Oriente Médio; estreia da SpaceX é destaque",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-tui-estao-disparando-hoje-93CH-1971208",
-      "time": "2026-06-12T09:02:37Z",
+      "url": "https://br.investing.com/news/stock-market-news/sp-e-dow-jones-abrem-em-alta-com-expectativas-de-acordo-no-oriente-medio-estreia-da-spacex-e-destaque-1971637",
+      "time": "2026-06-12T13:42:57Z",
       "cat": "internacional",
       "tickers": []
     },
     {
-      "title": "Por que as ações da Repsol estão caindo hoje?",
+      "title": "Ação da Forward Air dispara 6% no pré-mercado sem catalisador claro",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-repsol-estao-caindo-hoje-93CH-1971207",
-      "time": "2026-06-12T09:01:03Z",
+      "url": "https://br.investing.com/news/stock-market-news/acao-da-forward-air-dispara-6-no-premercado-sem-catalisador-claro-93CH-1971619",
+      "time": "2026-06-12T13:38:30Z",
       "cat": "internacional",
       "tickers": []
     },
     {
-      "title": "Por que as ações da Fraport estão disparando hoje?",
+      "title": "Mistral AI negocia captação de € 3 bilhões com valuation de € 20 bilhões",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-fraport-estao-disparando-hoje-93CH-1971204",
-      "time": "2026-06-12T08:57:31Z",
+      "url": "https://br.investing.com/news/stock-market-news/mistral-ai-negocia-captacao-de--3-bilhoes-com-valuation-de--20-bilhoes-1971613",
+      "time": "2026-06-12T13:32:29Z",
+      "cat": "internacional",
+      "tickers": []
+    },
+    {
+      "title": "Por que as ações da EchoStar estão disparando hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-echostar-estao-disparando-hoje-93CH-1971594",
+      "time": "2026-06-12T13:28:12Z",
+      "cat": "internacional",
+      "tickers": []
+    },
+    {
+      "title": "Ibovespa recua na abertura pressionado por Petrobras",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-recua-na-abertura-pressionado-por-petrobras-1971580",
+      "time": "2026-06-12T13:21:51Z",
       "cat": "internacional",
       "tickers": []
     }
   ],
-  "atualizado_em": "12/06/2026 10:13"
+  "atualizado_em": "12/06/2026 14:10"
 }
