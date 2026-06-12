@@ -1,36 +1,54 @@
 {
   "headline": {
-    "title": "Ibovespa sobe 1,7% e dólar cai a R$ 5,10 após sinal de acordo entre EUA e Irã",
-    "summary": "Em Wall Street, os principais índices também fecharam em alta com o alívio externo",
-    "source": "Exame",
-    "url": "https://exame.com/invest/mercados/ibovespa-sobe-17-e-dolar-cai-a-r-510-apos-sinal-de-acordo-entre-eua-e-ira/",
-    "time": "2026-06-11T17:39:28Z",
-    "cat": "economia",
-    "tickers": []
+    "title": "Vale (VALE3): Previ pede assembleia para trocar membro e eleger novo presidente do conselho",
+    "summary": "A Vale (VALE3) informou nesta quinta-feira (11) que recebeu uma correspondência da Caixa de Previdência dos Funcionários do Banco do Brasil (Previ) solicitando a convocação de uma Assembleia Geral Extraordinária (AGE) pa",
+    "source": "Money Times",
+    "url": "https://www.moneytimes.com.br/vale-vale3-previ-pede-assembleia-para-trocar-membro-e-eleger-novo-presidente-do-conselho/",
+    "time": "2026-06-11T22:49:37Z",
+    "cat": "acoes",
+    "tickers": [
+      "VALE3"
+    ]
   },
   "featured": [
     {
-      "title": "PetroReconcavo (RECV3) dispara após Citi elevar recomendação; veja detalhes",
-      "summary": "As ações da PetroReconcavo (RECV3) lideram as altas do Ibovespa nesta quinta-feira (11), após o Citi elevar a recomendação para os papéis. Por volta das 16h30, os ativos avançavam 6,39%, a R$ 11,16, depois de chegarem a ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/petroreconcavo-recv3-sobe-citi-eleva-recomendacao-compra-go/",
-      "time": "2026-06-11T19:45:08Z",
-      "cat": "analise",
-      "tickers": [
-        "RECV3"
-      ]
+      "title": "Orizon (ORVR3) conclui incorporação da Holding Vital e aumenta capital em R$ 3,3 bilhões",
+      "summary": "A Orizon (ORVR3) informou na noite desta quinta-feira (11) a conclusão da incorporação da Holding Vital, operação que havia sido anunciada em dezembro do ano passado e aprovada pelos acionistas em assembleia realizada no",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/orizon-orvr3-conclui-incorporacao-da-holding-vital-e-aumenta-capital-em-r-33-bilhoes-vtra/",
+      "time": "2026-06-11T22:26:22Z",
+      "cat": "acoes",
+      "tickers": []
     },
     {
-      "title": "Itaú Asset lança ETF atrelado ao CDI com IR de 15% e mira reserva de emergência",
-      "summary": "A Itaú Asset anunciou o lançamento do CDIB11, novo ETF de renda fixa voltado a investidores que buscam uma alternativa conservadora para a reserva de liquidez. O produto estreia na B3 com taxa de administração de 0,15% a",
+      "title": "Ibovespa sobe 1,71% com trégua no Oriente Médio e volta aos 171 mil pontos",
+      "summary": "Ibovespa sobe 1,71% com trégua no Oriente Médio e volta aos 171 mil pontosO Ibovespa fechou em forte alta nesta quinta-feira (11), impulsionado pela melhora do humor dos investidores após o presidente dos Estados Unidos,",
       "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/itau-asset-lanca-etf-atrelado-cdi-ir-mira-reserva-emergencia/",
-      "time": "2026-06-11T21:35:10Z",
-      "cat": "economia",
+      "url": "https://www.suno.com.br/noticias/ibovespa-sobe-acordo-preliminar-eua-ira-mt/",
+      "time": "2026-06-11T22:20:10Z",
+      "cat": "acoes",
       "tickers": []
     }
   ],
   "all": [
+    {
+      "title": "Técnico dos EUA vê desafio cultural e defende relação emocional do país com o futebol",
+      "summary": "Mauricio Pochettino diz que o crescimento do futebol nos Estados Unidos depende de uma conexão mais profunda entre o esporte e a sociedade",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/esportes/tecnico-dos-eua-ve-desafio-cultural-e-defende-relacao-emocional-do-pais-com-o-futebol/",
+      "time": "2026-06-11T22:47:19Z",
+      "cat": "internacional",
+      "tickers": []
+    },
+    {
+      "title": "Ele passou 15 anos acumulando ações da SpaceX. Agora, vem a bolada",
+      "summary": "Justin Fishner-Wolfson, há anos uma figura discreta no entorno de Elon Musk, está no centro de um ganho bilionário",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/business/global/ele-passou-15-anos-acumulando-acoes-da-spacex-agora-vem-a-bolada/",
+      "time": "2026-06-11T22:38:19Z",
+      "cat": "acoes",
+      "tickers": []
+    },
     {
       "title": "Tribunal de apelações dos EUA autoriza Trump a manter tarifa global de 10%",
       "summary": "Inicialmente, o Tribunal de Comércio Internacional havia decidido que as novas tarifas não eram válidas",
@@ -41,24 +59,24 @@
       "tickers": []
     },
     {
-      "title": "Ministra anuncia lançamento de fundo imobiliário da União, administrado pela Caixa",
-      "summary": "A ideia é que imóveis públicos sem potencial de uso para políticas públicas possam alavancar investimentos",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ministra-anuncia-lancamento-de-fundo-imobiliario-da-uniao-administrado-pela-caixa/",
-      "time": "2026-06-11T21:18:08Z",
-      "cat": "fundos",
-      "tickers": []
+      "title": "Vale (VALE3): Previ pede assembleia para trocar membro e eleger novo presidente do conselho",
+      "summary": "A Vale (VALE3) informou nesta quinta-feira (11) que recebeu uma correspondência da Caixa de Previdência dos Funcionários do Banco do Brasil (Previ) solicitando a convocação de uma Assembleia Geral Extraordinária (AGE) pa",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/vale-vale3-previ-pede-assembleia-para-trocar-membro-e-eleger-novo-presidente-do-conselho/",
+      "time": "2026-06-11T22:49:37Z",
+      "cat": "acoes",
+      "tickers": [
+        "VALE3"
+      ]
     },
     {
-      "title": "PetroRecôncavo: Citi eleva RECV3 a compra com visão de mais dividendos e ação sobe 6%",
-      "summary": "A elevação de recomendação é sustentada pela alta probabilidade de um perfil de fluxo de caixa livre (FCF) mais forte se converter em dividendos",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/petroreconcavo-citi-eleva-recv3-a-compra-com-visao-de-mais-dividendos-e-acoes-saltam/",
-      "time": "2026-06-11T20:54:06Z",
-      "cat": "fundos",
-      "tickers": [
-        "RECV3"
-      ]
+      "title": "Orizon (ORVR3) conclui incorporação da Holding Vital e aumenta capital em R$ 3,3 bilhões",
+      "summary": "A Orizon (ORVR3) informou na noite desta quinta-feira (11) a conclusão da incorporação da Holding Vital, operação que havia sido anunciada em dezembro do ano passado e aprovada pelos acionistas em assembleia realizada no",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/orizon-orvr3-conclui-incorporacao-da-holding-vital-e-aumenta-capital-em-r-33-bilhoes-vtra/",
+      "time": "2026-06-11T22:26:22Z",
+      "cat": "acoes",
+      "tickers": []
     },
     {
       "title": "Inflação de maio deve desacelerar com alívio dos combustíveis, mas deve ficar acima da meta",
@@ -88,20 +106,20 @@
       "tickers": []
     },
     {
-      "title": "Milho tem mínima de contrato em Chicago por tempo favorável nos EUA e oferta abundante",
-      "summary": "Os futuros de milho negociados na bolsa de Chicago caíram para os níveis mais baixos do contrato nesta quinta-feira, depois que um relatório mensal do governo dos EUA sobre a safra destacou a abundância de estoques de gr",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/milho-tem-minima-de-contrato-em-chicago-por-tempo-favoravel-nos-eua-e-oferta-abundante-pads/",
-      "time": "2026-06-11T20:56:05Z",
-      "cat": "internacional",
+      "title": "SNFF11 reforça caixa a 19,9% e preserva dividendos em abril",
+      "summary": "O fundo imobiliário SNFF11 aumentou de forma expressiva sua posição em caixa em abril, alcançando 19,9% do patrimônio líquido, em resposta à instabilidade do mercado de renda variável. A gestão indica que o reforço de li",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/snff11-eleva-caixa-mantem-dividendos-abril/",
+      "time": "2026-06-11T23:15:06Z",
+      "cat": "fundos",
       "tickers": []
     },
     {
-      "title": "Flávio Bolsonaro divulga notícia-crime protocolada no STF contra Lula por ameaça e incitação ao crime",
-      "summary": "O senador e pré-candidato Flávio Bolsonaro (PL) divulgou nesta quinta-feira (11) o documento protocolado há uma semana no Supremo Tribunal Federal (STF) com a notícia-crime prometida contra o presidente Luiz Inácio Lula ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/flavio-bolsonaro-protocola-noticia-crime-no-stf-contra-lula-por-ameaca-e-incitacao-ao-crime/",
-      "time": "2026-06-11T20:37:36Z",
+      "title": "Ibovespa sobe 1,71% com trégua no Oriente Médio e volta aos 171 mil pontos",
+      "summary": "Ibovespa sobe 1,71% com trégua no Oriente Médio e volta aos 171 mil pontosO Ibovespa fechou em forte alta nesta quinta-feira (11), impulsionado pela melhora do humor dos investidores após o presidente dos Estados Unidos,",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-sobe-acordo-preliminar-eua-ira-mt/",
+      "time": "2026-06-11T22:20:10Z",
       "cat": "acoes",
       "tickers": []
     },
@@ -164,21 +182,12 @@
       ]
     },
     {
-      "title": "Itaúsa (ITSA4) conclui recompra de 5 milhões de ações para plano de incentivos; entenda",
-      "summary": "A Itaúsa (ITSA4) informou ao mercado que concluiu a recompra de 5 milhões de ações preferenciais de sua própria emissão, conforme previsto no programa aprovado pelo conselho de administração em maio deste ano. Os papéis ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/itausa-itsa4-conclui-recompra-5-milhoes-acoes-plano-incentivos-go/",
-      "time": "2026-06-11T16:45:16Z",
-      "cat": "acoes",
-      "tickers": []
-    },
-    {
-      "title": "RBRY11 mantém R$ 1,00 por cota e reforça foco em CDI",
-      "summary": "O fundo de investimento imobiliário RBRY11 anunciou a distribuição de R$ 1,00 por cota referente ao período de abril de 2026, mantendo o mesmo patamar do mês anterior. O pagamento será efetuado em 17 de junho de 2026 aos",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/rbry11-dividendos-1-real-cdi-junho-2026/",
-      "time": "2026-06-11T15:45:08Z",
-      "cat": "fundos",
+      "title": "Governo estima impacto fiscal de R$ 111 bi por ano com pautas-bomba no Congresso",
+      "summary": "Segundo os ministérios da Fazenda e do Planejamento, o projeto de renegociação das dívidas rurais tem impacto de R$ 140 bilhões em 13 anos",
+      "source": "Exame",
+      "url": "https://exame.com/economia/governo-estima-impacto-fiscal-de-r-111-bi-por-ano-com-pautas-bomba-no-congresso/",
+      "time": "2026-06-11T20:26:46Z",
+      "cat": "economia",
       "tickers": []
     },
     {
@@ -200,12 +209,30 @@
       "tickers": []
     },
     {
-      "title": "Ibovespa sobe 1,7% e dólar cai a R$ 5,10 após sinal de acordo entre EUA e Irã",
-      "summary": "Em Wall Street, os principais índices também fecharam em alta com o alívio externo",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/ibovespa-sobe-17-e-dolar-cai-a-r-510-apos-sinal-de-acordo-entre-eua-e-ira/",
-      "time": "2026-06-11T17:39:28Z",
-      "cat": "economia",
+      "title": "Previ pede convocação de assembleia da Vale para troca de presidente do conselho",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/previ-pede-convocacao-de-assembleia-da-vale-para-troca-de-presidente-do-conselho-1970981",
+      "time": "2026-06-11T23:14:10Z",
+      "cat": "internacional",
+      "tickers": []
+    },
+    {
+      "title": "Ação da Kyntra Bio sobe com dados do ensaio de roxadustat para SMD",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acao-da-kyntra-bio-sobe-com-dados-do-ensaio-de-roxadustat-para-smd-93CH-1970929",
+      "time": "2026-06-11T21:54:11Z",
+      "cat": "internacional",
+      "tickers": []
+    },
+    {
+      "title": "Ações da Fortune Brands sobem após diretor comprar US$ 13 mi em papéis",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-fortune-brands-sobem-apos-diretor-comprar-us-13-mi-em-papeis-93CH-1970919",
+      "time": "2026-06-11T21:42:33Z",
+      "cat": "internacional",
       "tickers": []
     },
     {
@@ -243,25 +270,7 @@
       "time": "2026-06-11T21:20:21Z",
       "cat": "internacional",
       "tickers": []
-    },
-    {
-      "title": "Lockheed Martin recebe modificação de contrato de US$ 514 milhões",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/lockheed-martin-recebe-modificacao-de-contrato-de-us-514-milhoes-93CH-1970876",
-      "time": "2026-06-11T21:10:02Z",
-      "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "S&P Global eleva rating da NVIDIA para AA com demanda explosiva por IA",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/sp-global-eleva-rating-da-nvidia-para-aa-com-demanda-explosiva-por-ia-1970839",
-      "time": "2026-06-11T20:44:17Z",
-      "cat": "internacional",
-      "tickers": []
     }
   ],
-  "atualizado_em": "11/06/2026 22:02"
+  "atualizado_em": "12/06/2026 00:01"
 }
