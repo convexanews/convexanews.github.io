@@ -7,8 +7,8 @@ on:
     - cron: '*/30 13-22 * * 1-5'
     # Fora do horário comercial: 1x por hora
     - cron: '0 0-12,23 * * 1-5'
-    # Fins de semana: 2x por dia
-    - cron: '0 12,20 * * 0,6'
+    # Fins de semana: a cada 3 horas, das 9h às 21h UTC (6h às 18h BRT)
+    - cron: '0 9,12,15,18,21 * * 0,6'
   workflow_dispatch: # Permite rodar manualmente
 
 jobs:
