@@ -86,6 +86,8 @@ ATIVOS_BR = {
     'COGN3': 'COGN3.SA', 'YDUQ3': 'YDUQ3.SA', 'SEER3': 'SEER3.SA',
     # Industrial
     'WEGE3': 'WEGE3.SA', 'RAIZ4': 'RAIZ4.SA',
+    # BDRs
+    'SPCX34': 'SPCX34.SA',
 }
 
 # Setor hardcoded para evitar chamadas lentas de t.info
@@ -122,6 +124,7 @@ SETOR_BR = {
     'TGMA3': 'Industrials', 'LOGN3': 'Industrials', 'EMBJ3': 'Industrials',
     'RENT3': 'Industrials', 'MOVI3': 'Industrials', 'HBSA3': 'Industrials',
     'WEGE3': 'Industrials', 'RAIZ4': 'Industrials',
+    'SPCX34': 'Industrials',
     'TOTS3': 'Technology', 'LWSA3': 'Technology', 'CASH3': 'Technology',
     'INTB3': 'Technology', 'MLAS3': 'Technology',
 }
@@ -199,6 +202,29 @@ ATIVOS_US = {
     'CAT': 'CAT', 'BA': 'BA', 'GE': 'GE', 'RTX': 'RTX', 'DE': 'DE',
     # Telecom
     'VZ': 'VZ', 'T': 'T',
+    # Aeroespacial
+    'SPCX': 'SPCX',
+}
+
+# ==================== NOMES COMPLETOS EUA ====================
+NOMES_US = {
+    'AAPL': 'Apple', 'MSFT': 'Microsoft', 'NVDA': 'Nvidia', 'GOOGL': 'Alphabet (Google)',
+    'AMZN': 'Amazon', 'META': 'Meta Platforms', 'TSLA': 'Tesla',
+    'AMD': 'AMD', 'INTC': 'Intel', 'AVGO': 'Broadcom', 'QCOM': 'Qualcomm',
+    'TSM': 'Taiwan Semiconductor', 'MU': 'Micron Technology', 'ARM': 'Arm Holdings',
+    'ORCL': 'Oracle', 'CRM': 'Salesforce', 'ADBE': 'Adobe', 'NOW': 'ServiceNow',
+    'SNOW': 'Snowflake', 'PLTR': 'Palantir', 'UBER': 'Uber',
+    'JPM': 'JPMorgan Chase', 'BAC': 'Bank of America', 'GS': 'Goldman Sachs', 'MS': 'Morgan Stanley',
+    'V': 'Visa', 'MA': 'Mastercard', 'AXP': 'American Express', 'BRK-B': 'Berkshire Hathaway',
+    'JNJ': 'Johnson & Johnson', 'UNH': 'UnitedHealth', 'PFE': 'Pfizer', 'ABBV': 'AbbVie',
+    'MRK': 'Merck', 'LLY': 'Eli Lilly', 'AMGN': 'Amgen',
+    'XOM': 'Exxon Mobil', 'CVX': 'Chevron',
+    'WMT': 'Walmart', 'COST': 'Costco', 'KO': 'Coca-Cola', 'PEP': 'PepsiCo',
+    'MCD': "McDonald's", 'DIS': 'Disney', 'SBUX': 'Starbucks', 'NKE': 'Nike',
+    'HD': 'Home Depot', 'NFLX': 'Netflix',
+    'CAT': 'Caterpillar', 'BA': 'Boeing', 'GE': 'General Electric', 'RTX': 'RTX Corporation', 'DE': 'Deere & Company',
+    'VZ': 'Verizon', 'T': 'AT&T',
+    'SPCX': 'SpaceX',
 }
 
 CRYPTOS = {
@@ -386,6 +412,7 @@ NOMES_BR = {
     'TOTS3':'Totvs','LWSA3':'Locaweb','CASH3':'Méliuz','INTB3':'Intelbras','MLAS3':'Multilaser',
     'COGN3':'Cogna','YDUQ3':'Yduqs','SEER3':'SER Educacional',
     'WEGE3':'WEG','RAIZ4':'Raízen',
+    'SPCX34':'SpaceX (BDR)',
 }
 
 NOMES_FII = {
@@ -465,11 +492,11 @@ def coletar_batch(ativos_dict, tipo, setor_map=None, nome_map=None, com_dy=False
             if ticker_yf not in close_df.columns:
                 continue
             col = close_df[ticker_yf].dropna()
-            if len(col) < 2:
+            if len(col) < 1:
                 continue
 
             preco = round(float(col.iloc[-1]), 2)
-            var   = round((float(col.iloc[-1]) / float(col.iloc[-2]) - 1) * 100, 2)
+            var   = round((float(col.iloc[-1]) / float(col.iloc[-2]) - 1) * 100, 2) if len(col) >= 2 else 0.0
 
             vol = 0
             if ticker_yf in vol_df.columns:
@@ -643,7 +670,7 @@ dados['etfs'] = coletar_batch(ETFS, 'etf')
 print(f"  OK: {len(dados['etfs'])} ETFs")
 
 print(f"Acoes EUA ({len(ATIVOS_US)} tickers)...")
-dados['us_stocks'] = coletar_batch(ATIVOS_US, 'us')
+dados['us_stocks'] = coletar_batch(ATIVOS_US, 'us', nome_map=NOMES_US)
 print(f"  OK: {len(dados['us_stocks'])} ativos")
 
 print(f"Criptos ({len(CRYPTOS)} tickers)...")
