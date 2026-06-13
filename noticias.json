@@ -1,153 +1,99 @@
 {
   "headline": {
-    "title": "Ibovespa cai com IPCA acima do esperado e negociações entre EUA e Irã em foco; dólar cai a R$ 5,06",
-    "summary": "O Ibovespa (IBOV) destoou do tom positivo de Wall Street, em um movimento de realização dos ganhos da véspera. Enquanto lá fora a expectativa de acordo entre EUA e Irã empolgou os mercados, por aqui a calibração das apos",
+    "title": "Dividendos extraordinários, renda fixa, Vale, bitcoin e Raízen: o que bombou na semana",
+    "summary": "A possibilidade de um fundo imobiliário pagar dividendo extraordinário de até R$ 1,80 por cota e a busca por oportunidades em renda fixa, com papéis atrelados ao IPCA pagando até 9,84% ao ano mais inflação, estiveram no ",
     "source": "Money Times",
-    "url": "https://www.moneytimes.com.br/ibovespa-12-6-26-lils/",
-    "time": "2026-06-12T20:21:59Z",
-    "cat": "economia",
-    "tickers": []
+    "url": "https://www.moneytimes.com.br/dividendos-extraordinarios-renda-fixa-vale-bitcoin-e-raizen-o-que-bombou-na-semana-vtra/",
+    "time": "2026-06-13T12:28:49Z",
+    "cat": "fundos",
+    "tickers": [
+      "BTC"
+    ]
   },
   "featured": [
     {
-      "title": "Petrobras (PETR4) deve assinar acordos de cooperação com Pemex neste mês, diz CEO",
-      "summary": "A Petrobras (PETR4) planeja assinar acordos de cooperação com a Pemex neste mês, com a visita ao Brasil do presidente da petroleira mexicana, Juan Carlos Carpio, afirmou a presidente da empresa brasileira, Magda Chambria",
+      "title": "Cury (CURY3) salta e Natura (NTCO3) lidera a ponta negativa; veja os destaque do Ibovespa na semana",
+      "summary": "O Ibovespa (IBOV) interrompeu a sequência histórica de quedas e voltou fechar a semana em tom positivo com alívio nas tensõs geopolíticas. O principal índice da bolsa brasileira acumulou ganho de 1,25% na semana e encerr",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/petrobras-petr4-deve-assinar-acordos-de-cooperacao-com-pemex-neste-mes-diz-ceo/",
-      "time": "2026-06-12T21:55:07Z",
+      "url": "https://www.moneytimes.com.br/ibovespa-destaque-da-semana-24-lils/",
+      "time": "2026-06-13T13:06:00Z",
       "cat": "acoes",
-      "tickers": [
-        "PETR4"
-      ]
+      "tickers": []
     },
     {
-      "title": "Dia dos Namorados: Ibovespa perde o clima e encerra no vermelho",
-      "summary": "Como nem tudo são flores, o Ibovespa não entrou no clima do Dia dos Namorados. Apesar do otimismo visto em parte da sessão, o índice perdeu força com a cautela dos investidores diante dos sinais contraditórios sobre um p",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/ibovespa-fecha-em-queda-ipca-mt/",
-      "time": "2026-06-12T22:25:07Z",
+      "title": "Ela participou de duas megafusões no setor de shoppings e conta o que fez a integração dar certo",
+      "summary": "Fusões costumam ser anunciadas com promessas de sinergias bilionárias, ganhos de escala e criação de valor para os acionistas. Na prática, porém, muitas acabam enfrentando dificuldades para integrar equipes, alinhar cult",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ela-participou-de-duas-megafusoes-no-setor-de-shoppings-e-conta-o-que-fez-a-integracao-dar-certo/",
+      "time": "2026-06-13T13:00:00Z",
       "cat": "acoes",
       "tickers": []
     }
   ],
   "all": [
     {
-      "title": "Abertura da Copa nos EUA tem Anitta e Lisa do Blackpink; confira",
-      "summary": "Após uma apresentação e saudação de representantes de tribos Indígenas do Canadá, a primeira apresentação musical coube a Alessia Cara, natural de Toronto",
+      "title": "Cinco pessoas morrem na queda de um avião da Força Aérea Indiana em Assam",
+      "summary": "Aeronave de transporte AN-32 caiu perto da área de Jrhat, em Assam, informou força aérea",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/esportes/abertura-copa-do-mundo-2026/",
-      "time": "2026-06-13T00:17:26Z",
-      "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "Lotofácil hoje, concurso 3709: Confira o resultado sorteado nesta sexta (12)",
-      "summary": "O prêmio estimado para este concurso era de R$ 2 milhões",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3709-confira-o-resultado-sorteado-nesta-sexta-12/",
-      "time": "2026-06-13T00:06:55Z",
+      "url": "https://www.infomoney.com.br/mundo/cinco-pessoas-morrem-na-queda-de-um-aviao-da-forca-aerea-indiana-em-assam/",
+      "time": "2026-06-13T12:08:30Z",
       "cat": "acoes",
       "tickers": []
     },
     {
-      "title": "Quina hoje, concurso 7049: Confira o resultado sorteado nesta sexta (12)",
-      "summary": "O prêmio principal para este concurso era de R$ 12.736.250,74",
+      "title": "Estreia da SpaceX na Bolsa e índice de surpresas econômicas; veja destaques da semana",
+      "summary": "O mercado, de forma geral, precifica uma redução expressiva nos preços da commodity",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7049-confira-o-resultado-sorteado-nesta-sexta-12/",
-      "time": "2026-06-13T00:03:06Z",
+      "url": "https://www.infomoney.com.br/onde-investir/estreia-da-spacex-na-bolsa-e-indice-de-surpresas-economicas-veja-destaques-da-semana/",
+      "time": "2026-06-13T11:00:00Z",
       "cat": "acoes",
       "tickers": []
     },
     {
-      "title": "Chefe da delegação do Irã critica “falta de coordenação” da Fifa na questão de vistos",
-      "summary": "Mahdi Mohammad Nabi está entre os 15 membros da Federação Iraniana de Futebol que tiveram o visto negado para viajar aos EUA para os jogos da Copa do Mundo",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/esportes/chefe-da-delegacao-do-ira-critica-falta-de-coordenacao-da-fifa-na-questao-de-vistos/",
-      "time": "2026-06-12T23:37:24Z",
-      "cat": "acoes",
-      "tickers": []
-    },
-    {
-      "title": "João Fonseca inclui duplas no ATP de Halle como preparação para Wimbledon",
-      "summary": "Além da campanha na simples, o brasileiro entra em quadra na modalidade ao lado do alemão Daniel Altmaier",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/esportes/joao-fonseca-inclui-duplas-no-atp-de-halle-como-preparacao-para-wimbledon/",
-      "time": "2026-06-12T23:28:35Z",
-      "cat": "acoes",
-      "tickers": []
-    },
-    {
-      "title": "Dino manda governo Lula ajustar plano de reestruturação da CVM",
-      "summary": "A apresentação do plano emergencial foi determinada por Dino em maio, em ação movida pelo Partido Novo",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/dino-manda-governo-lula-ajustar-plano-de-reestruturacao-da-cvm/",
-      "time": "2026-06-12T22:46:47Z",
-      "cat": "acoes",
-      "tickers": []
-    },
-    {
-      "title": "STF: Dino manda governo Lula ajustar plano de reestruturação da CVM",
-      "summary": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), homologou apenas parte do plano de reestruturação da Comissão de Valores Mobiliários (CVM) apresentado pelo governo federal e determinou novas providências para ",
+      "title": "Cury (CURY3) salta e Natura (NTCO3) lidera a ponta negativa; veja os destaque do Ibovespa na semana",
+      "summary": "O Ibovespa (IBOV) interrompeu a sequência histórica de quedas e voltou fechar a semana em tom positivo com alívio nas tensõs geopolíticas. O principal índice da bolsa brasileira acumulou ganho de 1,25% na semana e encerr",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/stf-dino-manda-governo-lula-ajustar-plano-de-reestruturacao-da-cvm/",
-      "time": "2026-06-12T23:19:43Z",
+      "url": "https://www.moneytimes.com.br/ibovespa-destaque-da-semana-24-lils/",
+      "time": "2026-06-13T13:06:00Z",
       "cat": "acoes",
       "tickers": []
     },
     {
-      "title": "Petrobras (PETR4) deve assinar acordos de cooperação com Pemex neste mês, diz CEO",
-      "summary": "A Petrobras (PETR4) planeja assinar acordos de cooperação com a Pemex neste mês, com a visita ao Brasil do presidente da petroleira mexicana, Juan Carlos Carpio, afirmou a presidente da empresa brasileira, Magda Chambria",
+      "title": "Ela participou de duas megafusões no setor de shoppings e conta o que fez a integração dar certo",
+      "summary": "Fusões costumam ser anunciadas com promessas de sinergias bilionárias, ganhos de escala e criação de valor para os acionistas. Na prática, porém, muitas acabam enfrentando dificuldades para integrar equipes, alinhar cult",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/petrobras-petr4-deve-assinar-acordos-de-cooperacao-com-pemex-neste-mes-diz-ceo/",
-      "time": "2026-06-12T21:55:07Z",
+      "url": "https://www.moneytimes.com.br/ela-participou-de-duas-megafusoes-no-setor-de-shoppings-e-conta-o-que-fez-a-integracao-dar-certo/",
+      "time": "2026-06-13T13:00:00Z",
       "cat": "acoes",
+      "tickers": []
+    },
+    {
+      "title": "O PL 5122/23 e a equalização das dívidas rurais: como as políticas públicas podem apontar novos caminhos para o futuro",
+      "summary": "O mercado acordou na quinta (12) com a notícia da votação e aprovação, no Senado da República, de um Projeto de Lei, o de n. 5122/23, que autoriza a utilização de parte dos recursos dos royalties do Pré-Sal, como fonte d",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/o-pl-5122-23-e-a-equalizacao-do-endividamento-no-campo-como-as-politicas-publicas-podem-apontar-novos-caminhos-para-o-futuro-pads/",
+      "time": "2026-06-13T13:00:00Z",
+      "cat": "acoes",
+      "tickers": []
+    },
+    {
+      "title": "Dividendos extraordinários, renda fixa, Vale, bitcoin e Raízen: o que bombou na semana",
+      "summary": "A possibilidade de um fundo imobiliário pagar dividendo extraordinário de até R$ 1,80 por cota e a busca por oportunidades em renda fixa, com papéis atrelados ao IPCA pagando até 9,84% ao ano mais inflação, estiveram no ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/dividendos-extraordinarios-renda-fixa-vale-bitcoin-e-raizen-o-que-bombou-na-semana-vtra/",
+      "time": "2026-06-13T12:28:49Z",
+      "cat": "fundos",
       "tickers": [
-        "PETR4"
+        "BTC"
       ]
     },
     {
-      "title": "Fundos multimercados voltam a levar ‘surra’ e gestora questiona: Seria uma classe de ativos em extinção?",
-      "summary": "Após anos de desempenho decepcionante, resgates bilionários e dificuldade para superar o CDI, os fundos multimercado voltaram ao centro do debate entre investidores. Um relatório da TAG Investimentos, gestora com mais de",
+      "title": "Nubank (ROXO34): troca de CFO pressiona ações, mas analista vê oportunidade",
+      "summary": "As ações do Nubank (ROXO34) vêm enfrentando um período de maior volatilidade após a divulgação de mudanças na liderança financeira da companhia. No início do mês, o banco anunciou que Guilherme Lago deixará o cargo de CF",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/fundos-multimercados-voltam-a-levar-surra-e-gestora-questiona-seria-uma-classe-de-ativos-em-extincao-rnda/",
-      "time": "2026-06-12T21:49:27Z",
+      "url": "https://www.moneytimes.com.br/conteudo-de-marca/nubank-roxo34-troca-de-cfo-pressiona-acoes-mas-analista-ve-oportunidade-lbrdjt002/",
+      "time": "2026-06-13T11:00:00Z",
       "cat": "acoes",
-      "tickers": []
-    },
-    {
-      "title": "Taxas de DIs fecham sem direção única com IPCA acima do esperado e expectativa de acordo entre EUA e Irã",
-      "summary": "A curva de juros futuros encerrou o pregão desta sexta-feira (12) sem direção única: com avanço no curto prazo em reação a novos dados de inflação e queda nos vértices de médio e longo prazos com otimismo por acordo entr",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/taxas-de-dis-juros-futuros-12-6-26-lils/",
-      "time": "2026-06-12T21:17:51Z",
-      "cat": "economia",
-      "tickers": []
-    },
-    {
-      "title": "Ibovespa cai com IPCA acima do esperado e negociações entre EUA e Irã em foco; dólar cai a R$ 5,06",
-      "summary": "O Ibovespa (IBOV) destoou do tom positivo de Wall Street, em um movimento de realização dos ganhos da véspera. Enquanto lá fora a expectativa de acordo entre EUA e Irã empolgou os mercados, por aqui a calibração das apos",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ibovespa-12-6-26-lils/",
-      "time": "2026-06-12T20:21:59Z",
-      "cat": "economia",
-      "tickers": []
-    },
-    {
-      "title": "Wall Street fecha em alta à espera de acordo entre EUA e Irã; ações da SpaceX ‘decolam’ na estreia",
-      "summary": "Os índices de Wall Street registraram novos ganhos diante da expectativa de que um acordo entre Estados Unidos e Irã seja formalizado nos próximos dias, enquanto a oferta pública inicial de ações da SpaceX (SPCX) movimen",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/wall-street-12-6-26-apsa/",
-      "time": "2026-06-12T20:11:41Z",
-      "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "Dólar cai a R$ 5,06 na expectativa de acordo entre EUA e Irã; moeda recua quase 2% na semana",
-      "summary": "O dólar à vista completou o terceiro dia de quedas consecutivas com a expectativa de assinatura de um acordo de paz entre Estados Unidos e Irã ainda neste fim de semana. Nesta sexta-feira (12), o dólar à vista terminou a",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/dolar-12-6-26-lils/",
-      "time": "2026-06-12T20:04:12Z",
-      "cat": "economia",
       "tickers": []
     },
     {
@@ -160,41 +106,57 @@
       "tickers": []
     },
     {
-      "title": "AZIN11 aporta R$ 50 mi em debêntures da Scala e reforça caixa",
-      "summary": "O fundo imobiliário AZIN11, administrado pela AZ Quest, destinou R$ 50 milhões em maio para a aquisição de debêntures da SDC Participações S.A., holding que controla a Scala Data Centers. A companhia é líder em data cent",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/azin11-aporta-50-mi-scala-debentures/",
-      "time": "2026-06-12T22:15:05Z",
-      "cat": "acoes",
-      "tickers": []
-    },
-    {
-      "title": "RECR11 tem lucro recorde em 2026 e eleva retorno ao cotista",
-      "summary": "O fundo imobiliário RECR11 registrou em maio lucro líquido de caixa de R$ 29,56 milhões, o melhor desempenho de 2026, sustentado por receitas de R$ 32,954 milhões com CRIs e FIIs ante despesas de R$ 2,601 milhões. Esse a",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/recr11-lucro-recorde-e-dividendo-1-118/",
-      "time": "2026-06-12T19:15:08Z",
-      "cat": "acoes",
-      "tickers": [
-        "RECR11"
-      ]
-    },
-    {
-      "title": "SpaceX supera US$ 2 trilhões após maior IPO da história",
-      "summary": "SpaceX supera US$ 2 trilhões após maior IPO da históriaA SpaceX (NASDAQ: SPCX) ultrapassou a marca de US$ 2 trilhões em valor de mercado nesta sexta-feira (12), impulsionada pela forte valorização de suas ações na estrei",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/spacex-supera-us-2-trilhoes-maior-ipo-da-historia-go/",
-      "time": "2026-06-12T19:10:00Z",
-      "cat": "acoes",
-      "tickers": []
-    },
-    {
-      "title": "PIB paulista avança 3,2% em março puxado pela indústria",
-      "summary": "Na comparação com março de 2025, o PIB de São Paulo avançou 3,4%",
+      "title": "GP de Barcelona-Catalunha: onde assistir à classificação e horário da F1",
+      "summary": "Andrea Kimi Antonelli chega ao GP de Barcelona-Catalunha como líder do campeonato",
       "source": "Exame",
-      "url": "https://exame.com/economia/pib-paulista-avanca-32-em-marco-puxado-pela-industria/",
-      "time": "2026-06-12T19:07:02Z",
+      "url": "https://exame.com/esporte/gp-de-barcelona-catalunha-onde-assistir-a-classificacao-e-horario-da-f1/",
+      "time": "2026-06-13T10:24:11Z",
       "cat": "economia",
+      "tickers": []
+    },
+    {
+      "title": "Escassez de chips de memória: até onde pode chegar essa crise?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/escassez-de-chips-de-memoria-ate-onde-pode-chegar-essa-crise-1972345",
+      "time": "2026-06-13T13:04:11Z",
+      "cat": "internacional",
+      "tickers": []
+    },
+    {
+      "title": "Quem são os vencedores e perdedores no futuro da computação quântica",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/quem-sao-os-vencedores-e-perdedores-no-futuro-da-computacao-quantica-1972341",
+      "time": "2026-06-13T12:29:56Z",
+      "cat": "internacional",
+      "tickers": []
+    },
+    {
+      "title": "CFTC considera bloquear contrato de petróleo 24/7 da CME",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/cftc-considera-bloquear-contrato-de-petroleo-247-da-cme-1972225",
+      "time": "2026-06-13T00:35:43Z",
+      "cat": "internacional",
+      "tickers": []
+    },
+    {
+      "title": "Analista dá rara recomendação de venda à SpaceX citando riscos de execução",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/analista-da-rara-recomendacao-de-venda-a-spacex-citando-riscos-de-execucao-1971892",
+      "time": "2026-06-13T00:21:34Z",
+      "cat": "analise",
+      "tickers": []
+    },
+    {
+      "title": "Com Marta como embaixadora, Tesouro quer atrair mais investidores",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/com-marta-como-embaixadora-tesouro-quer-atrair-mais-investidores-1971976",
+      "time": "2026-06-13T00:06:56Z",
+      "cat": "internacional",
       "tickers": []
     },
     {
@@ -214,43 +176,7 @@
       "time": "2026-06-12T21:49:28Z",
       "cat": "internacional",
       "tickers": []
-    },
-    {
-      "title": "México - Ações fecharam o pregão em alta e o Índice S&P/BMV IPC avançou 1,46%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/mexico--acoes-fecharam-o-pregao-em-alta-e-o-indice-spbmv-ipc-avancou-146-1972098",
-      "time": "2026-06-12T21:30:20Z",
-      "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "Colômbia - Ações fecharam o pregão em alta e o Índice COLCAP avançou 1,53%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/colombia--acoes-fecharam-o-pregao-em-alta-e-o-indice-colcap-avancou-153-1972092",
-      "time": "2026-06-12T21:25:19Z",
-      "cat": "fundos",
-      "tickers": []
-    },
-    {
-      "title": "Rússia - Ações fecharam o pregão em queda e o Índice MOEX Russia Index recuou 0,22%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/russia--acoes-fecharam-o-pregao-em-queda-e-o-indice-moex-russia-index-recuou-022-1972089",
-      "time": "2026-06-12T21:20:20Z",
-      "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "Ações da Laser Photonics sobem após retomar conformidade com a NASDAQ",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-laser-photonics-sobem-apos-retomar-conformidade-com-a-nasdaq-93CH-1972071",
-      "time": "2026-06-12T21:02:50Z",
-      "cat": "internacional",
-      "tickers": []
     }
   ],
-  "atualizado_em": "13/06/2026 00:20"
+  "atualizado_em": "13/06/2026 13:33"
 }
