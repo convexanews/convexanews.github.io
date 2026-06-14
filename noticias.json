@@ -1,36 +1,64 @@
 {
   "headline": {
-    "title": "Bolsa barata? Inter vê espaço para disparada do Ibovespa até 193 mil pontos",
-    "summary": "Mesmo após a forte correção entre o fim de abril e o início de junho, o Inter segue otimista com a bolsa brasileira e vê uma janela de oportunidade para investidores. O banco revisou as estimtivas e projeta o Ibovespa (I",
+    "title": "Bitcoin e ethereum operam em queda neste domingo (14) à espera de decisões sobre juros",
+    "summary": "As principais criptomoedas operam em queda neste domingo (14), em meio a falta de catalisadores positivos no mercado cripto e expectativa pela semana de decisões de juros. Na próxima quarta-feira (17), o Federal Reserve ",
     "source": "Money Times",
-    "url": "https://www.moneytimes.com.br/bolsa-barata-inter-ve-espaco-para-disparada-do-ibovespa-ate-193-mil-pontos-lils/",
-    "time": "2026-06-14T13:24:48Z",
-    "cat": "acoes",
-    "tickers": []
+    "url": "https://www.moneytimes.com.br/bitcoin-e-ethereum-operam-em-queda-neste-domingo-14-a-espera-de-decisoes-sobre-juros-lils/",
+    "time": "2026-06-14T15:06:54Z",
+    "cat": "cripto",
+    "tickers": [
+      "BTC",
+      "ETH"
+    ]
   },
   "featured": [
     {
-      "title": "Itaú BBA vê indústria brasileira presa em “círculo vicioso” e aponta caminhos para romper a estagnação",
-      "summary": "“A indústria brasileira está estagnada há mais de uma década e apresenta desempenho significativamente pior que de outros setores no Brasil e que da indústria em outros países”, aponta o Itaú BBA em seu novo relatório Ma",
+      "title": "Bolsa barata? Inter vê espaço para disparada do Ibovespa até 193 mil pontos",
+      "summary": "Mesmo após a forte correção entre o fim de abril e o início de junho, o Inter segue otimista com a bolsa brasileira e vê uma janela de oportunidade para investidores. O banco revisou as estimtivas e projeta o Ibovespa (I",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/itau-bba-ve-industria-brasileira-presa-em-circulo-vicioso-e-aponta-caminhos-para-romper-a-estagnacao-ceci/",
-      "time": "2026-06-14T13:00:00Z",
+      "url": "https://www.moneytimes.com.br/bolsa-barata-inter-ve-espaco-para-disparada-do-ibovespa-ate-193-mil-pontos-lils/",
+      "time": "2026-06-14T13:24:48Z",
       "cat": "acoes",
       "tickers": []
     },
     {
-      "title": "Taurus (TASA4) e Suzano (SUZB3): Veja quem vai pagar dividendos na semana",
-      "summary": "Taurus (TASA4) e Suzano (SUZB3): Veja quem vai pagar dividendos na semanaEsta semana começa com mais uma rodada de dividendos caindo na conta dos investidores, com destaque para a distribuição de proventos da Taurus Arma",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/a-taurus-armas-tasa4-a-suzano-suzb3-agenda-dividendos-12062026/",
-      "time": "2026-06-14T13:00:00Z",
-      "cat": "fundos",
-      "tickers": [
-        "SUZB3"
-      ]
+      "title": "Semana decisiva: Super Quarta, juros e prévia do PIB; confira a agenda econômica",
+      "summary": "Uma semana importante se desenha para os mercados, marcada por decisões de juros por todos os lados, inclusive no Brasil e nos Estados Unidos. A chamada “Super Quarta” concentra os holofotes da semana à espera de mais si",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/semana-decisiva-super-quarta-juros-e-previa-do-pib-confira-a-agenda-economica-jcav/",
+      "time": "2026-06-14T15:00:00Z",
+      "cat": "economia",
+      "tickers": []
     }
   ],
   "all": [
+    {
+      "title": "Quina hoje, concurso 7050: Confira o resultado sorteado neste domingo (14)",
+      "summary": "O prêmio principal para este concurso era de R$ 14.147.784,92.",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7050-confira-o-resultado-sorteado-neste-domingo-14/",
+      "time": "2026-06-14T14:18:32Z",
+      "cat": "acoes",
+      "tickers": []
+    },
+    {
+      "title": "Lotofácil hoje, concurso 3710: Confira o resultado sorteado neste domingo (14)",
+      "summary": "O prêmio estimado para este concurso era de R$ 8 milhões",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3710-confira-o-resultado-sorteado-nesta-sexta-12/",
+      "time": "2026-06-14T14:13:42Z",
+      "cat": "acoes",
+      "tickers": []
+    },
+    {
+      "title": "Mega-Sena hoje, concurso 3018: confira o resultado sorteado neste domingo (14)",
+      "summary": "Prêmio principal para este concurso é de R$ 11.370.887,77.",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/consumo/mega-sena-hoje-concurso-3018-confira-o-resultado-sorteado-neste-domingo-14/",
+      "time": "2026-06-14T14:07:27Z",
+      "cat": "acoes",
+      "tickers": []
+    },
     {
       "title": "Wall Street ganha acesso a novos modelos de catástrofe para ajudar a prever guerras",
       "summary": "Mesmos especialistas que modelam desastres ambientais adaptam metodologia para ajudar investidores a antecipar conflitos militares",
@@ -41,39 +69,35 @@
       "tickers": []
     },
     {
-      "title": "Como fica a situação do Brasil na Copa do Mundo ao fim da 1ª rodada do Grupo C",
-      "summary": "Vitória da Escócia sobre o Haiti coloca país europeu no topo da tabela, obrigando seleção brasileira a vencer na sexta-feira para não ver vaga ameaçada",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/esportes/como-fica-a-situacao-do-brasil-na-copa-do-mundo-ao-fim-da-1a-rodada-do-grupo-c/",
-      "time": "2026-06-14T12:22:58Z",
-      "cat": "acoes",
-      "tickers": []
+      "title": "Suzano (SUZB3), Vitru (VTRU3) e mais uma empresa pagam dividendos nesta semana; veja o calendário",
+      "summary": "Na semana de 15 a 19 de junho, três companhias da bolsa brasileira pagam dividendos e juros sobre capital próprio (JCP) aos seus acionistas. Na segunda-feira (15), a Suzano (SUZB3) realiza pagamento de dividendos no valo",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/dividendos-da-semana-12-6-26-apsa/",
+      "time": "2026-06-14T16:00:00Z",
+      "cat": "fundos",
+      "tickers": [
+        "SUZB3"
+      ]
     },
     {
-      "title": "MetLife tem 80 mil em jogo do Brasil, congestionamento e problemas de organização",
-      "summary": "Estádio é maior arena entre os 16 palcos da Copa do Mundo na América do Norte",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/esportes/metlife-tem-80-mil-em-jogo-do-brasil-congestionamento-e-problemas-de-organizacao/",
-      "time": "2026-06-14T12:17:44Z",
-      "cat": "acoes",
-      "tickers": []
+      "title": "Bitcoin e ethereum operam em queda neste domingo (14) à espera de decisões sobre juros",
+      "summary": "As principais criptomoedas operam em queda neste domingo (14), em meio a falta de catalisadores positivos no mercado cripto e expectativa pela semana de decisões de juros. Na próxima quarta-feira (17), o Federal Reserve ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/bitcoin-e-ethereum-operam-em-queda-neste-domingo-14-a-espera-de-decisoes-sobre-juros-lils/",
+      "time": "2026-06-14T15:06:54Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC",
+        "ETH"
+      ]
     },
     {
-      "title": "Knicks repetem recuperação incrível, vencem Spurs no Texas e são campeões da NBA",
-      "summary": "Franquia de Nova York ficou a maior parte do jogo atrás do San Antonio Spurs, a exemplo do jogo anterior",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/esportes/knicks-repetem-recuperacao-incrivel-vencem-spurs-no-texas-e-sao-campeoes-da-nba/",
-      "time": "2026-06-14T11:47:12Z",
-      "cat": "acoes",
-      "tickers": []
-    },
-    {
-      "title": "ASSISTA AOS GOLS: Austrália cria menos, mas é mais eficaz e derrota a Turquia na Copa",
-      "summary": "Partida contou com gols de Irankunda e Metcalfe",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/esportes/jogo-australia-turquia-copa-2026/",
-      "time": "2026-06-14T11:22:20Z",
-      "cat": "acoes",
+      "title": "Semana decisiva: Super Quarta, juros e prévia do PIB; confira a agenda econômica",
+      "summary": "Uma semana importante se desenha para os mercados, marcada por decisões de juros por todos os lados, inclusive no Brasil e nos Estados Unidos. A chamada “Super Quarta” concentra os holofotes da semana à espera de mais si",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/semana-decisiva-super-quarta-juros-e-previa-do-pib-confira-a-agenda-economica-jcav/",
+      "time": "2026-06-14T15:00:00Z",
+      "cat": "economia",
       "tickers": []
     },
     {
@@ -104,35 +128,6 @@
       "tickers": []
     },
     {
-      "title": "Fundos imobiliários de papel lideram ranking de dividendos em 2026; veja os 10 primeiros colocados",
-      "summary": "Os fundos imobiliários de recebíveis, conhecidos no mercado como FIIs de papel, foram os que mais distribuíram proventos no acumulado de 2026 até agora, segundo levantamento da Grana Capital a que o Money Times teve aces",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/fundos-imobiliarios-de-papel-lideram-ranking-de-dividendos-em-2026-veja-os-10-primeiros-colocados-igdl/",
-      "time": "2026-06-13T16:00:00Z",
-      "cat": "fundos",
-      "tickers": []
-    },
-    {
-      "title": "Forças de Defesa da Ucrânia atacam instalação de processamento de petróleo da Rússia",
-      "summary": "Unidades das Forças de Defesa da Ucrânia atingiram uma instalação de processamento e bombeamento de petróleo, na região de Volgogrado, da Federação russa, na madrugada deste sábado (13), segundo informações publicadas no",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/forcas-de-defesa-da-ucrania-atacam-instalacao-de-processamento-de-petroleo-da-russia-vtra/",
-      "time": "2026-06-13T15:34:57Z",
-      "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "Viu a Strategy vender e comprar bitcoins (BTC)? Caso vale como exemplo para investidores; entenda",
-      "summary": "A Strategy ampliou sua posição em bitcoin (BTC) ao adquirir mais US$ 101 milhões da criptomoeda. A movimentação ocorre poucos dias após a empresa realizar sua primeira venda do ativo em quatro anos. Entre os dias 28 e 31",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/conteudo-de-marca/viu-a-strategy-vender-e-comprar-bitcoins-btc-caso-vale-como-exemplo-para-investidores-entenda-lbrdbb081/",
-      "time": "2026-06-13T15:00:00Z",
-      "cat": "cripto",
-      "tickers": [
-        "BTC"
-      ]
-    },
-    {
       "title": "Taurus (TASA4) e Suzano (SUZB3): Veja quem vai pagar dividendos na semana",
       "summary": "Taurus (TASA4) e Suzano (SUZB3): Veja quem vai pagar dividendos na semanaEsta semana começa com mais uma rodada de dividendos caindo na conta dos investidores, com destaque para a distribuição de proventos da Taurus Arma",
       "source": "Suno",
@@ -144,12 +139,48 @@
       ]
     },
     {
-      "title": "A gravidade cria a realidade? Nova teoria desafia a física moderna",
-      "summary": "Pesquisadores investigam se a gravidade pode explicar a transição entre o mundo quântico e a realidade que observamos diariamente",
+      "title": "Perdeu o prazo da declaração anual do MEI? Veja como regularizar e pagar menos multa",
+      "summary": "Quem não enviou a DASN-SIMEI até 31 de maio ainda consegue se acertar com a Receita — e há como reduzir a penalidade pela metade",
       "source": "Exame",
-      "url": "https://exame.com/ciencia/a-gravidade-cria-a-realidade-nova-teoria-desafia-a-fisica-moderna/",
-      "time": "2026-06-14T10:34:37Z",
+      "url": "https://exame.com/negocios/perdeu-o-prazo-da-declaracao-anual-do-mei-veja-como-regularizar-e-pagar-menos-multa/",
+      "time": "2026-06-14T13:13:26Z",
       "cat": "economia",
+      "tickers": []
+    },
+    {
+      "title": "Quando uma chimpanzé e um gato superaram investidores na bolsa",
+      "summary": "Em 1999 e 2012, animais “geriram” portfólios e bateram profissionais em Wall Street e no Reino Unido",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/quando-uma-chimpanze-e-um-gato-superaram-investidores-na-bolsa/",
+      "time": "2026-06-14T12:00:08Z",
+      "cat": "economia",
+      "tickers": []
+    },
+    {
+      "title": "Entenda a crise entre governo Trump, Amazon e Anthropic sobre IA",
+      "summary": "Medida atingiu ferramentas Mythos e Fable e foi tomada depois que pesquisadores da Amazon relataram brechas em testes com IA",
+      "source": "Exame",
+      "url": "https://exame.com/inteligencia-artificial/entenda-a-crise-entre-governo-trump-amazon-e-anthropic-sobre-ia/",
+      "time": "2026-06-14T11:44:24Z",
+      "cat": "internacional",
+      "tickers": []
+    },
+    {
+      "title": "Vídeo mostra incêndio causado por queda de helicópteros no Recreio dos Bandeirantes",
+      "summary": "Acidente na Avenida das Américas deixou seis mortos e incendiou ao menos 20 carros elétricos no Recreio dos Bandeirantes",
+      "source": "Exame",
+      "url": "https://exame.com/brasil/video-mostra-incendio-causado-por-queda-de-helicopteros-no-recreio-dos-bandeirantes/",
+      "time": "2026-06-14T11:22:40Z",
+      "cat": "economia",
+      "tickers": []
+    },
+    {
+      "title": "Queda adicional de 3% no S&P 500 pode desencadear mais vendas sistemáticas, alerta BofA",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/queda-adicional-de-3-no-sp-500-pode-desencadear-mais-vendas-sistematicas-alerta-bofa-1972504",
+      "time": "2026-06-14T14:31:06Z",
+      "cat": "internacional",
       "tickers": []
     },
     {
@@ -214,25 +245,7 @@
       "time": "2026-06-14T01:19:47Z",
       "cat": "analise",
       "tickers": []
-    },
-    {
-      "title": "Goldman Sachs analisa impacto do boom de capex em IA no ROE do S&P 500",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/goldman-sachs-analisa-impacto-do-boom-de-capex-em-ia-no-roe-do-sp-500-1972423",
-      "time": "2026-06-14T00:50:38Z",
-      "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "Como a IA transformou a memória em um gargalo estrutural do mercado",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/como-a-ia-transformou-a-memoria-em-um-gargalo-estrutural-do-mercado-1972411",
-      "time": "2026-06-13T22:41:10Z",
-      "cat": "internacional",
-      "tickers": []
     }
   ],
-  "atualizado_em": "14/06/2026 13:55"
+  "atualizado_em": "14/06/2026 16:19"
 }
