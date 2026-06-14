@@ -13,50 +13,63 @@
   },
   "featured": [
     {
-      "title": "Bolsa barata? Inter vê espaço para disparada do Ibovespa até 193 mil pontos",
-      "summary": "Mesmo após a forte correção entre o fim de abril e o início de junho, o Inter segue otimista com a bolsa brasileira e vê uma janela de oportunidade para investidores. O banco revisou as estimtivas e projeta o Ibovespa (I",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bolsa-barata-inter-ve-espaco-para-disparada-do-ibovespa-ate-193-mil-pontos-lils/",
-      "time": "2026-06-14T13:24:48Z",
+      "title": "Ibovespa reage após 8 semanas de queda; fundo chegou ou é repique?",
+      "summary": "Semana tem dólar futuro testando médias, bolsas americanas em busca de retomada e Bitcoin ainda abaixo de regiões decisivas; confira o que esperar dos mercados",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-reage-apos-8-semanas-de-queda-fundo-chegou-ou-e-repique/",
+      "time": "2026-06-14T20:08:34Z",
       "cat": "acoes",
-      "tickers": []
+      "tickers": [
+        "BTC"
+      ]
     },
     {
-      "title": "Federações africanas, Haiti e Uzbequistão detonam Uefa: ‘Não somos insignificantes’",
-      "summary": "Presidente da Uefa, Aleksander Ceferin, disse que jogos de algumas seleções seriam \"desinteressantes\"",
+      "title": "Calendário econômico da semana: decisões de juros serão foco no Brasil e nos EUA",
+      "summary": "Tudo o que o investidor precisa saber antes de operar na semana",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/esportes/federacoes-africanas-haiti-e-uzbequistao-detonam-uefa-nao-somos-insignificantes/",
-      "time": "2026-06-14T19:02:00Z",
-      "cat": "acoes",
+      "url": "https://www.infomoney.com.br/mercados/calendario-economico-da-semana-decisoes-de-juros-serao-foco-no-brasil-e-nos-eua/",
+      "time": "2026-06-14T20:00:00Z",
+      "cat": "economia",
       "tickers": []
     }
   ],
   "all": [
     {
-      "title": "Polícia usa gás lacrimogêneo em protesto contra o G7 após ataque à sede da ONU",
-      "summary": "Polícia suíça lança gás lacrimogêneo enquanto manifestantes contra o G7 atacam sede da ONU",
+      "title": "Putin envia felicitações de aniversário a Trump, a quem descreve como “brilhante”",
+      "summary": "Líder russo conversou com Trump por telefone ​durante 55 minutos",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mundo/policia-usa-gas-lacrimogeneo-em-protesto-contra-o-g7-apos-ataque-a-sede-da-onu/",
-      "time": "2026-06-14T19:20:00Z",
+      "url": "https://www.infomoney.com.br/mundo/putin-envia-felicitacoes-de-aniversario-a-trump-a-quem-descreve-como-brilhante/",
+      "time": "2026-06-14T21:15:00Z",
+      "cat": "internacional",
+      "tickers": []
+    },
+    {
+      "title": "Iraque pede prorrogação de acordo do oleoduto Kirkuk-Ceyhan à Turquia",
+      "summary": "Iraque exportou 12 milhões de barris de ​petróleo bruto de seus portos do sul ​desde o início de junho até agora",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mundo/iraque-pede-prorrogacao-de-acordo-do-oleoduto-kirkuk-ceyhan-a-turquia/",
+      "time": "2026-06-14T20:45:00Z",
       "cat": "acoes",
       "tickers": []
     },
     {
-      "title": "Federações africanas, Haiti e Uzbequistão detonam Uefa: ‘Não somos insignificantes’",
-      "summary": "Presidente da Uefa, Aleksander Ceferin, disse que jogos de algumas seleções seriam \"desinteressantes\"",
+      "title": "Ibovespa reage após 8 semanas de queda; fundo chegou ou é repique?",
+      "summary": "Semana tem dólar futuro testando médias, bolsas americanas em busca de retomada e Bitcoin ainda abaixo de regiões decisivas; confira o que esperar dos mercados",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/esportes/federacoes-africanas-haiti-e-uzbequistao-detonam-uefa-nao-somos-insignificantes/",
-      "time": "2026-06-14T19:02:00Z",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-reage-apos-8-semanas-de-queda-fundo-chegou-ou-e-repique/",
+      "time": "2026-06-14T20:08:34Z",
       "cat": "acoes",
-      "tickers": []
+      "tickers": [
+        "BTC"
+      ]
     },
     {
-      "title": "Morte de chefão do crime venezuelano abre espaço para avanço da mineração",
-      "summary": "Operação conjunta contra base de Niño Guerrero em área promissora em mineração abre possibilidade de desenvolvimento",
+      "title": "Calendário econômico da semana: decisões de juros serão foco no Brasil e nos EUA",
+      "summary": "Tudo o que o investidor precisa saber antes de operar na semana",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/morte-de-chefao-do-crime-venezuelano-abre-espaco-para-avanco-da-mineracao/",
-      "time": "2026-06-14T17:53:49Z",
-      "cat": "acoes",
+      "url": "https://www.infomoney.com.br/mercados/calendario-economico-da-semana-decisoes-de-juros-serao-foco-no-brasil-e-nos-eua/",
+      "time": "2026-06-14T20:00:00Z",
+      "cat": "economia",
       "tickers": []
     },
     {
@@ -130,21 +143,30 @@
       ]
     },
     {
-      "title": "Trump diz que acordo com Irã pode ser assinado em horas e critica ataque de Israel",
-      "summary": "Republicano não escondeu a irritação com o primeiro-ministro israelense, Benjamin Netanyahu, por causa da ofensiva contra a capital libanesa",
+      "title": "Como ter sucesso no investimento em startups",
+      "summary": "Investir em startups exige portfólio, método e diversificação; o retorno vem da estratégia e do acompanhamento consistente",
       "source": "Exame",
-      "url": "https://exame.com/mundo/trump-diz-que-acordo-com-ira-pode-ser-assinado-em-horas-e-critica-ataque-de-israel/",
-      "time": "2026-06-14T14:28:16Z",
-      "cat": "internacional",
+      "url": "https://exame.com/negocios/como-ter-sucesso-no-investimento-em-startups/",
+      "time": "2026-06-14T18:39:35Z",
+      "cat": "economia",
       "tickers": []
     },
     {
-      "title": "Lojas menores e mix enxuto: como esta rede gaúcha quadruplicou sua receita para R$ 25 milhões",
-      "summary": "Empresa desfez contratos com fornecedores de 20 anos e aposta no modelo de franquias para acelerar expansão nacional",
+      "title": "Queda de avião com paraquedistas mata 12 pessoas nos Estados Unidos",
+      "summary": "Aeronave operada pela empresa Skydive Kansas City caiu logo após decolar perto do Aeroporto Butler Memorial",
       "source": "Exame",
-      "url": "https://exame.com/negocios/lojas-menores-e-mix-enxuto-como-esta-rede-gaucha-quadruplicou-sua-receita-para-r-25-milhoes/",
-      "time": "2026-06-14T13:39:30Z",
+      "url": "https://exame.com/mundo/queda-de-aviao-com-paraquedistas-mata-12-pessoas-nos-estados-unidos/",
+      "time": "2026-06-14T17:56:14Z",
       "cat": "economia",
+      "tickers": []
+    },
+    {
+      "title": "Rússia - Ações fecharam o pregão em queda e o Índice MOEX Russia Index terminou sem alterações",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/russia--acoes-fecharam-o-pregao-em-queda-e-o-indice-moex-russia-index-terminou-sem-alteracoes-1972548",
+      "time": "2026-06-14T21:20:21Z",
+      "cat": "internacional",
       "tickers": []
     },
     {
@@ -200,25 +222,7 @@
       "time": "2026-06-14T09:00:02Z",
       "cat": "analise",
       "tickers": []
-    },
-    {
-      "title": "Estreia da SpaceX na bolsa anima mercados após semana volátil",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/estreia-da-spacex-na-bolsa-anima-mercados-apos-semana-volatil-1972432",
-      "time": "2026-06-14T02:25:42Z",
-      "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "Rali das ações da Coreia do Sul acende expectativas de upgrade no MSCI",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/rali-das-acoes-da-coreia-do-sul-acende-expectativas-de-upgrade-no-msci-1972428",
-      "time": "2026-06-14T01:19:47Z",
-      "cat": "analise",
-      "tickers": []
     }
   ],
-  "atualizado_em": "14/06/2026 19:21"
+  "atualizado_em": "14/06/2026 22:06"
 }
