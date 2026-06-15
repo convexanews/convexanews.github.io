@@ -1,131 +1,138 @@
 {
   "headline": {
-    "title": "Bolsas asiáticas disparam com acordo EUA-Irã; Nikkei 225 atinge recorde histórico",
-    "summary": "",
-    "source": "Investing.com",
-    "url": "https://br.investing.com/news/stock-market-news/bolsas-asiaticas-disparam-com-acordo-euaira-nikkei-225-atinge-recorde-historico-1972601",
-    "time": "2026-06-15T03:28:03Z",
-    "cat": "internacional",
-    "tickers": []
+    "title": "Mercados disparam com fim da guerra; Ibovespa em dólar sobe hoje (15)",
+    "summary": "Os mercados globais iniciam a semana em alta, impulsionados pela notícia de que Estados Unidos e Irã chegaram a um acordo para encerrar a guerra que se prolongava por quase quatro meses e garantir a reabertura do Estreit",
+    "source": "Money Times",
+    "url": "https://www.moneytimes.com.br/mercados-disparam-com-fim-da-guerra-ibovespa-em-dolar-sobe-hoje-15/",
+    "time": "2026-06-15T10:06:40Z",
+    "cat": "economia",
+    "tickers": [],
+    "image": null
   },
   "featured": [
     {
-      "title": "Futuros de Wall St disparam com acordo de paz EUA-Irã; Fed em foco",
+      "title": "Ibovespa e dólar hoje abrem semana de Copom reagindo a acordo EUA-Irã",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/futuros-de-wall-st-disparam-com-acordo-de-paz-euaira-fed-em-foco-1972563",
-      "time": "2026-06-14T23:48:16Z",
-      "cat": "internacional",
-      "tickers": []
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-abrem-semana-de-copom-de-olho-em-acordo-euaira-1972030",
+      "time": "2026-06-15T10:15:02Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": null
     },
     {
-      "title": "Bitcoin e ethereum operam em queda neste domingo (14) à espera de decisões sobre juros",
-      "summary": "As principais criptomoedas operam em queda neste domingo (14), em meio a falta de catalisadores positivos no mercado cripto e expectativa pela semana de decisões de juros. Na próxima quarta-feira (17), o Federal Reserve ",
+      "title": "Tempo Real: Ibovespa inicia semana de Copom com fim da guerra no radar",
+      "summary": "Resumo: O Ibovespa (IBOV) começa a semana de Super Quarta acompanhando a balança comercial e a produção industrial na zona do euro, o Relatório Focus no Brasil, a produção industrial nos Estados Unidos e uma bateria de d",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bitcoin-e-ethereum-operam-em-queda-neste-domingo-14-a-espera-de-decisoes-sobre-juros-lils/",
-      "time": "2026-06-14T15:06:54Z",
-      "cat": "cripto",
-      "tickers": [
-        "BTC",
-        "ETH"
-      ]
+      "url": "https://www.moneytimes.com.br/tempo-real-ibovespa-hoje-mercado-ao-vivo-15-06-2026-jals-lils-apsa/",
+      "time": "2026-06-15T09:00:00Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": null
     }
   ],
   "all": [
     {
-      "title": "Líderes internacionais elogiam acordo EUA-Irã e cobram sua implementação",
-      "summary": "EUA e Irã fecham acordo de paz para reabrir Ormuz e encerrar guerra",
+      "title": "SpaceX deve dar continuidade à trajetória de alta após estreia recorde em Wall Street",
+      "summary": "O presidente-executivo Elon Musk disse no domingo que a empresa, que atua desde foguetes até inteligência artificial, poderia gerar ⁠US$ 1 ‌trilhão em receita até 2030",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mundo/lideres-internacionais-elogiam-acordo-eua-ira-e-cobram-sua-implementacao/",
-      "time": "2026-06-15T00:47:40Z",
+      "url": "https://www.infomoney.com.br/mercados/spacex-deve-dar-continuidade-a-trajetoria-de-alta-apos-estreia-recorde-em-wall-street/",
+      "time": "2026-06-15T10:45:39Z",
       "cat": "internacional",
-      "tickers": []
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-11T194115Z_1_LYNXMPEM5A1HW_RTROPTP_4_SPACEX-IPO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Futuros de NY sobem e petróleo cai 4% após anúncio de acordo de paz entre EUA e Irã",
-      "summary": "Perspectiva de uma redução das tensões geopolíticas impulsionou o apetite por risco dos investidores",
+      "title": "JBS, Axia, Iochpe-Maxion, Light, SLC e mais ações para acompanhar hoje",
+      "summary": "Confira os principais destaques do noticiário corporativo desta segunda-feira",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/futuros-de-ny-avancam-e-petroleo-cai-5-apos-anuncio-de-acordo-de-paz-entre-eua-e-ira/",
-      "time": "2026-06-15T00:47:15Z",
-      "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "Trump diz que reabertura do Estreito de Ormuz vai ocorrer na sexta-feira, 19",
-      "summary": "Trump, que iniciou a guerra contra o Irã junto com Israel no final de fevereiro, se autocongratulou pelo acordo concluído hoje",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mundo/trump-diz-que-reabertura-do-estreito-de-ormuz-vai-ocorrer-na-sexta-feira-19/",
-      "time": "2026-06-15T00:25:17Z",
-      "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "Suíça rejeita plano de limitar sua população a 10 milhões",
-      "summary": "A apuração preliminar mostrou que cerca de 55% dos eleitores votaram contra a proposta",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/suica-rejeita-plano-de-limitar-sua-populacao-a-10-milhoes/",
-      "time": "2026-06-15T00:20:00Z",
+      "url": "https://www.infomoney.com.br/mercados/jbs-axia-iochpe-maxion-light-slc-e-mais-acoes-para-acompanhar-hoje/",
+      "time": "2026-06-15T10:44:07Z",
       "cat": "acoes",
-      "tickers": []
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/Captura-de-tela-2025-09-17-115206-e1770668490299.png?fit=300%2C167&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Futuros de Wall Street sobem com acordo entre EUA e Irã; Nasdaq tem alta de mais de 1%",
-      "summary": "Os índices de Wall Street no mercado futuro operam em alta na noite deste domingo (14) em reação ao anúncio do acordo entre EUA e Irã. Por volta de 19h40 (horário de Brasília), o SP futuro subia 0,76%, aos 7.491,75 ponto",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/futuros-de-wall-street-sobem-com-acordo-entre-eua-e-ira-nasdaq-lils/",
-      "time": "2026-06-14T23:02:17Z",
+      "title": "Petróleo brent cai 5% e vai a US$ 83 o barril após acordo entre Irã e EUA",
+      "summary": "Os EUA e o Irã assinarão um memorando de entendimento na Suíça nesta sexta-feira, disse o primeiro-ministro do Paquistão, país que atuou como mediador",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-15062026/",
+      "time": "2026-06-15T10:42:49Z",
       "cat": "internacional",
-      "tickers": []
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/maria-lupan-hy97yy3e03A-unsplash.jpg?fit=300%2C217&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Petróleo recua 4% e volta ao nível de US$ 80 o barril com reabertura do Estreito de Ormuz após acordo entre EUA e Irã",
-      "summary": "Os preços do petróleo recuam mais de 4% na noite deste domingo (14) em reação ao anúncio do acordo entre Estados Unidos e Irã e expectativa de reabertura do Estreito de Ormuz. Por volta de 19h30, o contrato mais líquido ",
+      "title": "Iochpe-Maxion aprova debêntures no valor de R$ 400 milhões",
+      "summary": "Os recursos obtidos serão integralmente utilizados para o reperfilamento de passivos financeiros consolidados da companhia",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/iochpe-maxion-aprova-debentures-no-valor-de-r-400-milhoes/",
+      "time": "2026-06-15T10:23:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2021/11/Iochpe-Maxion.png?fit=300%2C137&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Axia Energia aprova resgate de 576.923 ações preferenciais classe “C”",
+      "summary": "A partir de 19 de junho de 2026 as ações PNCs passarão a ser negociadas ex-direitos",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/axia-energia-aprova-resgate-de-576-923-acoes-preferenciais-classe-c/",
+      "time": "2026-06-15T10:08:36Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/Captura-de-tela-2025-11-06-104531.png?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "BTG Pactual/Nexus: 68% tomaram conhecimento de ações dos EUA contra Brasil após encontro de Flávio Bolsonaro com Trump",
+      "summary": "Pesquisa BTG Pactual/Nexus para a eleição presidencial 2026, divulgada nesta segunda-feira (15) aponta ainda que 68% dos entrevistados tiveram conhecimento das recentes ações tomadas pelo governo dos Estados Unidos contr",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/petroleo-14-6-26-lils/",
-      "time": "2026-06-14T22:38:53Z",
+      "url": "https://www.moneytimes.com.br/btg-pactual-nexus-68-tomaram-conhecimento-de-acoes-dos-eua-contra-brasil-apos-encontro-de-flavio-bolsonaro-e-trump-gaep/",
+      "time": "2026-06-15T10:42:41Z",
       "cat": "internacional",
-      "tickers": []
+      "tickers": [],
+      "image": null
     },
     {
-      "title": "EUA anunciam acordo com Irã e reabertura do Estreito de Ormuz",
-      "summary": "Os Estados Unidos e o Irã chegaram a um acordo para encerrar a guerra iniciada há mais de três meses, anunciaram neste domingo (14) o presidente norte-americano, Donald Trump, e o primeiro-ministro do Paquistão, Shehbaz ",
+      "title": "Petrobras (PETR4): ADRs da estatal afundam em Nova York junto com preço do petróleo",
+      "summary": "As American Depositary Receipts (ADRs) da Petrobras (PETR4) operam em queda no pré-market da Bolsa de Nova York, acompanhando o recuo dos preços do petróleo após o anúncio de um acordo entre Estados Unidos e Irã para o f",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/trump-anuncia-acordo-com-ira-e-reabertura-do-estreito-de-ormuz/",
-      "time": "2026-06-14T22:14:58Z",
+      "url": "https://www.moneytimes.com.br/petrobras-petr4-adrs-da-estatal-afundam-em-nova-york-junto-com-preco-do-petroleo/",
+      "time": "2026-06-15T10:26:07Z",
       "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "Suzano (SUZB3), Vitru (VTRU3) e mais uma empresa pagam dividendos nesta semana; veja o calendário",
-      "summary": "Na semana de 15 a 19 de junho, três companhias da bolsa brasileira pagam dividendos e juros sobre capital próprio (JCP) aos seus acionistas. Na segunda-feira (15), a Suzano (SUZB3) realiza pagamento de dividendos no valo",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/dividendos-da-semana-12-6-26-apsa/",
-      "time": "2026-06-14T16:00:00Z",
-      "cat": "fundos",
       "tickers": [
-        "SUZB3"
-      ]
+        "PETR4"
+      ],
+      "image": null
     },
     {
-      "title": "Bitcoin e ethereum operam em queda neste domingo (14) à espera de decisões sobre juros",
-      "summary": "As principais criptomoedas operam em queda neste domingo (14), em meio a falta de catalisadores positivos no mercado cripto e expectativa pela semana de decisões de juros. Na próxima quarta-feira (17), o Federal Reserve ",
+      "title": "Mercados disparam com fim da guerra; Ibovespa em dólar sobe hoje (15)",
+      "summary": "Os mercados globais iniciam a semana em alta, impulsionados pela notícia de que Estados Unidos e Irã chegaram a um acordo para encerrar a guerra que se prolongava por quase quatro meses e garantir a reabertura do Estreit",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bitcoin-e-ethereum-operam-em-queda-neste-domingo-14-a-espera-de-decisoes-sobre-juros-lils/",
-      "time": "2026-06-14T15:06:54Z",
-      "cat": "cripto",
-      "tickers": [
-        "BTC",
-        "ETH"
-      ]
-    },
-    {
-      "title": "Semana decisiva: Super Quarta, juros e prévia do PIB; confira a agenda econômica",
-      "summary": "Uma semana importante se desenha para os mercados, marcada por decisões de juros por todos os lados, inclusive no Brasil e nos Estados Unidos. A chamada “Super Quarta” concentra os holofotes da semana à espera de mais si",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/semana-decisiva-super-quarta-juros-e-previa-do-pib-confira-a-agenda-economica-jcav/",
-      "time": "2026-06-14T15:00:00Z",
+      "url": "https://www.moneytimes.com.br/mercados-disparam-com-fim-da-guerra-ibovespa-em-dolar-sobe-hoje-15/",
+      "time": "2026-06-15T10:06:40Z",
       "cat": "economia",
-      "tickers": []
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Bolsas da Ásia fecham em alta, com recorde em Tóquio, após acordo entre EUA e Irã",
+      "summary": "As bolsas asiáticas fecharam em forte alta nesta segunda-feira (15), com recorde no Japão, após Estados Unidos e Irã anunciarem um acordo provisório que prevê a reabertura do Estreito de Ormuz, derrubando os preços do pe",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/bolsas-da-asia-fecham-em-alta-com-recorde-em-toquio-apos-acordo-entre-eua-e-ira-fets/",
+      "time": "2026-06-15T09:18:47Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Tempo Real: Ibovespa inicia semana de Copom com fim da guerra no radar",
+      "summary": "Resumo: O Ibovespa (IBOV) começa a semana de Super Quarta acompanhando a balança comercial e a produção industrial na zona do euro, o Relatório Focus no Brasil, a produção industrial nos Estados Unidos e uma bateria de d",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/tempo-real-ibovespa-hoje-mercado-ao-vivo-15-06-2026-jals-lils-apsa/",
+      "time": "2026-06-15T09:00:00Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": null
     },
     {
       "title": "Taurus (TASA4) e Suzano (SUZB3): Veja quem vai pagar dividendos na semana",
@@ -136,107 +143,109 @@
       "cat": "fundos",
       "tickers": [
         "SUZB3"
-      ]
+      ],
+      "image": null
     },
     {
-      "title": "Petróleo cai quase 5% após acordo entre Irã e EUA",
-      "summary": "Por volta das 19h, os futuros do petróleo americano caíam 4,8%, a US$ 80,80 o barril, enquanto o Brent, referência internacional, recuava 3,9%",
+      "title": "PGR deve seguir PF e rejeitar segunda proposta de delação de Daniel Vorcaro",
+      "summary": "Procuradoria avalia que banqueiro não apresentou fatos novos nem provas suficientes para justificar acordo de colaboração",
       "source": "Exame",
-      "url": "https://exame.com/invest/mercados/petroleo-cai-quase-5-no-mercado-futuro-apos-acordo-entre-ira-e-eua/",
-      "time": "2026-06-14T19:24:07Z",
-      "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "Como ter sucesso no investimento em startups",
-      "summary": "Investir em startups exige portfólio, método e diversificação; o retorno vem da estratégia e do acompanhamento consistente",
-      "source": "Exame",
-      "url": "https://exame.com/negocios/como-ter-sucesso-no-investimento-em-startups/",
-      "time": "2026-06-14T18:39:35Z",
+      "url": "https://exame.com/brasil/pgr-deve-seguir-pf-e-rejeitar-segunda-proposta-de-delacao-de-daniel-vorcaro/",
+      "time": "2026-06-15T07:15:12Z",
       "cat": "economia",
-      "tickers": []
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/03/vorcaro-preso.png"
     },
     {
-      "title": "Queda de avião com paraquedistas mata 12 pessoas nos Estados Unidos",
-      "summary": "Aeronave operada pela empresa Skydive Kansas City caiu logo após decolar perto do Aeroporto Butler Memorial",
+      "title": "Mercado de trabalho exige mais que conhecimento técnico: veja como se preparar",
+      "summary": "Com a automação assumindo tarefas operacionais, empresas passam a valorizar profissionais habilidades comportamentais",
       "source": "Exame",
-      "url": "https://exame.com/mundo/queda-de-aviao-com-paraquedistas-mata-12-pessoas-nos-estados-unidos/",
-      "time": "2026-06-14T17:56:14Z",
+      "url": "https://exame.com/carreira/mercado-de-trabalho-exige-mais-que-conhecimento-tecnico-veja-como-se-preparar/",
+      "time": "2026-06-15T07:00:10Z",
       "cat": "economia",
-      "tickers": []
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2024/04/GettyImages-1470714068.jpg"
     },
     {
-      "title": "Bolsas asiáticas disparam com acordo EUA-Irã; Nikkei 225 atinge recorde histórico",
+      "title": "Por que as ações da Strategy estão subindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/bolsas-asiaticas-disparam-com-acordo-euaira-nikkei-225-atinge-recorde-historico-1972601",
-      "time": "2026-06-15T03:28:03Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-strategy-estao-subindo-hoje-93CH-1972843",
+      "time": "2026-06-15T10:18:32Z",
       "cat": "internacional",
-      "tickers": []
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Atlas Arteria rejeita oferta melhorada de US$ 5,2 bilhões da IFM Global",
+      "title": "Por que as ações da Traws Pharma estão caindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/atlas-arteria-rejeita-oferta-melhorada-de-us-52-bilhoes-da-ifm-global-1972588",
-      "time": "2026-06-15T02:30:46Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-traws-pharma-estao-caindo-hoje-93CH-1972842",
+      "time": "2026-06-15T10:17:18Z",
       "cat": "internacional",
-      "tickers": []
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Sigma Healthcare desiste da compra da Boots; ações disparam",
+      "title": "Ibovespa e dólar hoje abrem semana de Copom reagindo a acordo EUA-Irã",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/sigma-healthcare-desiste-da-compra-da-boots-acoes-disparam-1972575",
-      "time": "2026-06-15T00:55:42Z",
-      "cat": "internacional",
-      "tickers": []
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-abrem-semana-de-copom-de-olho-em-acordo-euaira-1972030",
+      "time": "2026-06-15T10:15:02Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": null
     },
     {
-      "title": "Woodside nega negociações sobre possível aquisição pela Exxon Mobil",
+      "title": "Acordo com o Irã pode aliviar pressão inflacionária antes da primeira reunião do Fed de Warsh",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/woodside-nega-negociacoes-sobre-possivel-aquisicao-pela-exxon-mobil-1972566",
-      "time": "2026-06-14T23:57:23Z",
+      "url": "https://br.investing.com/news/stock-market-news/acordo-com-o-ira-pode-aliviar-pressao-inflacionaria-antes-da-primeira-reuniao-do-fed-de-warsh-93CH-1972835",
+      "time": "2026-06-15T10:14:01Z",
       "cat": "internacional",
-      "tickers": []
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Futuros de Wall St disparam com acordo de paz EUA-Irã; Fed em foco",
+      "title": "’Dream Big FOMO’ do IPO da SPCX pode impulsionar as ações, diz estrategista",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/futuros-de-wall-st-disparam-com-acordo-de-paz-euaira-fed-em-foco-1972563",
-      "time": "2026-06-14T23:48:16Z",
+      "url": "https://br.investing.com/news/stock-market-news/dream-big-fomo-do-ipo-da-spcx-pode-impulsionar-as-acoes-diz-estrategista-1972834",
+      "time": "2026-06-15T10:07:17Z",
       "cat": "internacional",
-      "tickers": []
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Rússia - Ações fecharam o pregão em queda e o Índice MOEX Russia Index terminou sem alterações",
+      "title": "Ações da Traws Pharma despencam após regulador britânico atrasar ensaio contra gripe",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/russia--acoes-fecharam-o-pregao-em-queda-e-o-indice-moex-russia-index-terminou-sem-alteracoes-1972548",
-      "time": "2026-06-14T21:20:21Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-traws-pharma-despencam-apos-regulador-britanico-atrasar-ensaio-contra-gripe-93CH-1972797",
+      "time": "2026-06-15T09:51:50Z",
       "cat": "internacional",
-      "tickers": []
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Queda adicional de 3% no S&P 500 pode desencadear mais vendas sistemáticas, alerta BofA",
+      "title": "Por que as ações da Duro Felguera estão disparando hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/queda-adicional-de-3-no-sp-500-pode-desencadear-mais-vendas-sistematicas-alerta-bofa-1972504",
-      "time": "2026-06-14T14:31:06Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-duro-felguera-estao-disparando-hoje-93CH-1972794",
+      "time": "2026-06-15T09:49:47Z",
       "cat": "internacional",
-      "tickers": []
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Arábia Saudita - Ações fecharam o pregão em alta e o Índice Tadawul All Share avançou 0,57%",
+      "title": "HSBC vê risco limitado do Fomc e recomenda compra de ações",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/arabia-saudita--acoes-fecharam-o-pregao-em-alta-e-o-indice-tadawul-all-share-avancou-057-1972492",
-      "time": "2026-06-14T12:45:18Z",
+      "url": "https://br.investing.com/news/stock-market-news/hsbc-ve-risco-limitado-do-fomc-e-recomenda-compra-de-acoes-1972791",
+      "time": "2026-06-15T09:42:47Z",
       "cat": "internacional",
-      "tickers": []
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "15/06/2026 04:14"
+  "atualizado_em": "15/06/2026 10:55"
 }
