@@ -1,75 +1,98 @@
 {
   "headline": {
-    "title": "Bitcoin e ethereum operam em queda neste domingo (14) à espera de decisões sobre juros",
-    "summary": "As principais criptomoedas operam em queda neste domingo (14), em meio a falta de catalisadores positivos no mercado cripto e expectativa pela semana de decisões de juros. Na próxima quarta-feira (17), o Federal Reserve ",
-    "source": "Money Times",
-    "url": "https://www.moneytimes.com.br/bitcoin-e-ethereum-operam-em-queda-neste-domingo-14-a-espera-de-decisoes-sobre-juros-lils/",
-    "time": "2026-06-14T15:06:54Z",
-    "cat": "cripto",
-    "tickers": [
-      "BTC",
-      "ETH"
-    ]
+    "title": "Bolsas asiáticas disparam com acordo EUA-Irã; Nikkei 225 atinge recorde histórico",
+    "summary": "",
+    "source": "Investing.com",
+    "url": "https://br.investing.com/news/stock-market-news/bolsas-asiaticas-disparam-com-acordo-euaira-nikkei-225-atinge-recorde-historico-1972601",
+    "time": "2026-06-15T03:28:03Z",
+    "cat": "internacional",
+    "tickers": []
   },
   "featured": [
     {
-      "title": "Ibovespa reage após 8 semanas de queda; fundo chegou ou é repique?",
-      "summary": "Semana tem dólar futuro testando médias, bolsas americanas em busca de retomada e Bitcoin ainda abaixo de regiões decisivas; confira o que esperar dos mercados",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-reage-apos-8-semanas-de-queda-fundo-chegou-ou-e-repique/",
-      "time": "2026-06-14T20:08:34Z",
-      "cat": "acoes",
-      "tickers": [
-        "BTC"
-      ]
-    },
-    {
-      "title": "Calendário econômico da semana: decisões de juros serão foco no Brasil e nos EUA",
-      "summary": "Tudo o que o investidor precisa saber antes de operar na semana",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/calendario-economico-da-semana-decisoes-de-juros-serao-foco-no-brasil-e-nos-eua/",
-      "time": "2026-06-14T20:00:00Z",
-      "cat": "economia",
-      "tickers": []
-    }
-  ],
-  "all": [
-    {
-      "title": "Putin envia felicitações de aniversário a Trump, a quem descreve como “brilhante”",
-      "summary": "Líder russo conversou com Trump por telefone ​durante 55 minutos",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mundo/putin-envia-felicitacoes-de-aniversario-a-trump-a-quem-descreve-como-brilhante/",
-      "time": "2026-06-14T21:15:00Z",
+      "title": "Futuros de Wall St disparam com acordo de paz EUA-Irã; Fed em foco",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/futuros-de-wall-st-disparam-com-acordo-de-paz-euaira-fed-em-foco-1972563",
+      "time": "2026-06-14T23:48:16Z",
       "cat": "internacional",
       "tickers": []
     },
     {
-      "title": "Iraque pede prorrogação de acordo do oleoduto Kirkuk-Ceyhan à Turquia",
-      "summary": "Iraque exportou 12 milhões de barris de ​petróleo bruto de seus portos do sul ​desde o início de junho até agora",
+      "title": "Bitcoin e ethereum operam em queda neste domingo (14) à espera de decisões sobre juros",
+      "summary": "As principais criptomoedas operam em queda neste domingo (14), em meio a falta de catalisadores positivos no mercado cripto e expectativa pela semana de decisões de juros. Na próxima quarta-feira (17), o Federal Reserve ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/bitcoin-e-ethereum-operam-em-queda-neste-domingo-14-a-espera-de-decisoes-sobre-juros-lils/",
+      "time": "2026-06-14T15:06:54Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC",
+        "ETH"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "title": "Líderes internacionais elogiam acordo EUA-Irã e cobram sua implementação",
+      "summary": "EUA e Irã fecham acordo de paz para reabrir Ormuz e encerrar guerra",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mundo/iraque-pede-prorrogacao-de-acordo-do-oleoduto-kirkuk-ceyhan-a-turquia/",
-      "time": "2026-06-14T20:45:00Z",
+      "url": "https://www.infomoney.com.br/mundo/lideres-internacionais-elogiam-acordo-eua-ira-e-cobram-sua-implementacao/",
+      "time": "2026-06-15T00:47:40Z",
+      "cat": "internacional",
+      "tickers": []
+    },
+    {
+      "title": "Futuros de NY sobem e petróleo cai 4% após anúncio de acordo de paz entre EUA e Irã",
+      "summary": "Perspectiva de uma redução das tensões geopolíticas impulsionou o apetite por risco dos investidores",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/futuros-de-ny-avancam-e-petroleo-cai-5-apos-anuncio-de-acordo-de-paz-entre-eua-e-ira/",
+      "time": "2026-06-15T00:47:15Z",
+      "cat": "internacional",
+      "tickers": []
+    },
+    {
+      "title": "Trump diz que reabertura do Estreito de Ormuz vai ocorrer na sexta-feira, 19",
+      "summary": "Trump, que iniciou a guerra contra o Irã junto com Israel no final de fevereiro, se autocongratulou pelo acordo concluído hoje",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mundo/trump-diz-que-reabertura-do-estreito-de-ormuz-vai-ocorrer-na-sexta-feira-19/",
+      "time": "2026-06-15T00:25:17Z",
+      "cat": "internacional",
+      "tickers": []
+    },
+    {
+      "title": "Suíça rejeita plano de limitar sua população a 10 milhões",
+      "summary": "A apuração preliminar mostrou que cerca de 55% dos eleitores votaram contra a proposta",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/suica-rejeita-plano-de-limitar-sua-populacao-a-10-milhoes/",
+      "time": "2026-06-15T00:20:00Z",
       "cat": "acoes",
       "tickers": []
     },
     {
-      "title": "Ibovespa reage após 8 semanas de queda; fundo chegou ou é repique?",
-      "summary": "Semana tem dólar futuro testando médias, bolsas americanas em busca de retomada e Bitcoin ainda abaixo de regiões decisivas; confira o que esperar dos mercados",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-reage-apos-8-semanas-de-queda-fundo-chegou-ou-e-repique/",
-      "time": "2026-06-14T20:08:34Z",
-      "cat": "acoes",
-      "tickers": [
-        "BTC"
-      ]
+      "title": "Futuros de Wall Street sobem com acordo entre EUA e Irã; Nasdaq tem alta de mais de 1%",
+      "summary": "Os índices de Wall Street no mercado futuro operam em alta na noite deste domingo (14) em reação ao anúncio do acordo entre EUA e Irã. Por volta de 19h40 (horário de Brasília), o SP futuro subia 0,76%, aos 7.491,75 ponto",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/futuros-de-wall-street-sobem-com-acordo-entre-eua-e-ira-nasdaq-lils/",
+      "time": "2026-06-14T23:02:17Z",
+      "cat": "internacional",
+      "tickers": []
     },
     {
-      "title": "Calendário econômico da semana: decisões de juros serão foco no Brasil e nos EUA",
-      "summary": "Tudo o que o investidor precisa saber antes de operar na semana",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/calendario-economico-da-semana-decisoes-de-juros-serao-foco-no-brasil-e-nos-eua/",
-      "time": "2026-06-14T20:00:00Z",
-      "cat": "economia",
+      "title": "Petróleo recua 4% e volta ao nível de US$ 80 o barril com reabertura do Estreito de Ormuz após acordo entre EUA e Irã",
+      "summary": "Os preços do petróleo recuam mais de 4% na noite deste domingo (14) em reação ao anúncio do acordo entre Estados Unidos e Irã e expectativa de reabertura do Estreito de Ormuz. Por volta de 19h30, o contrato mais líquido ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/petroleo-14-6-26-lils/",
+      "time": "2026-06-14T22:38:53Z",
+      "cat": "internacional",
+      "tickers": []
+    },
+    {
+      "title": "EUA anunciam acordo com Irã e reabertura do Estreito de Ormuz",
+      "summary": "Os Estados Unidos e o Irã chegaram a um acordo para encerrar a guerra iniciada há mais de três meses, anunciaram neste domingo (14) o presidente norte-americano, Donald Trump, e o primeiro-ministro do Paquistão, Shehbaz ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/trump-anuncia-acordo-com-ira-e-reabertura-do-estreito-de-ormuz/",
+      "time": "2026-06-14T22:14:58Z",
+      "cat": "internacional",
       "tickers": []
     },
     {
@@ -105,33 +128,6 @@
       "tickers": []
     },
     {
-      "title": "Bolsa barata? Inter vê espaço para disparada do Ibovespa até 193 mil pontos",
-      "summary": "Mesmo após a forte correção entre o fim de abril e o início de junho, o Inter segue otimista com a bolsa brasileira e vê uma janela de oportunidade para investidores. O banco revisou as estimtivas e projeta o Ibovespa (I",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bolsa-barata-inter-ve-espaco-para-disparada-do-ibovespa-ate-193-mil-pontos-lils/",
-      "time": "2026-06-14T13:24:48Z",
-      "cat": "acoes",
-      "tickers": []
-    },
-    {
-      "title": "Itaú BBA vê indústria brasileira presa em “círculo vicioso” e aponta caminhos para romper a estagnação",
-      "summary": "“A indústria brasileira está estagnada há mais de uma década e apresenta desempenho significativamente pior que de outros setores no Brasil e que da indústria em outros países”, aponta o Itaú BBA em seu novo relatório Ma",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/itau-bba-ve-industria-brasileira-presa-em-circulo-vicioso-e-aponta-caminhos-para-romper-a-estagnacao-ceci/",
-      "time": "2026-06-14T13:00:00Z",
-      "cat": "acoes",
-      "tickers": []
-    },
-    {
-      "title": "Preparado? Acesso às 5 criptomoedas com potencial de até R$ 1 milhão será revelado amanhã (15)",
-      "summary": "Investidores interessados em criptomoedas terão acesso nesta segunda-feira (15) a uma seleção de cinco ativos digitais feita por Jader Nogueira, trader profissional com histórico de operações que chegaram a render milhõe",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/conteudo-de-marca/preparado-acesso-as-5-criptomoedas-com-potencial-de-ate-r-1-milhao-sera-revelado-amanha-15-lbrdbb082/",
-      "time": "2026-06-14T11:00:00Z",
-      "cat": "cripto",
-      "tickers": []
-    },
-    {
       "title": "Taurus (TASA4) e Suzano (SUZB3): Veja quem vai pagar dividendos na semana",
       "summary": "Taurus (TASA4) e Suzano (SUZB3): Veja quem vai pagar dividendos na semanaEsta semana começa com mais uma rodada de dividendos caindo na conta dos investidores, com destaque para a distribuição de proventos da Taurus Arma",
       "source": "Suno",
@@ -141,6 +137,15 @@
       "tickers": [
         "SUZB3"
       ]
+    },
+    {
+      "title": "Petróleo cai quase 5% após acordo entre Irã e EUA",
+      "summary": "Por volta das 19h, os futuros do petróleo americano caíam 4,8%, a US$ 80,80 o barril, enquanto o Brent, referência internacional, recuava 3,9%",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/petroleo-cai-quase-5-no-mercado-futuro-apos-acordo-entre-ira-e-eua/",
+      "time": "2026-06-14T19:24:07Z",
+      "cat": "internacional",
+      "tickers": []
     },
     {
       "title": "Como ter sucesso no investimento em startups",
@@ -158,6 +163,51 @@
       "url": "https://exame.com/mundo/queda-de-aviao-com-paraquedistas-mata-12-pessoas-nos-estados-unidos/",
       "time": "2026-06-14T17:56:14Z",
       "cat": "economia",
+      "tickers": []
+    },
+    {
+      "title": "Bolsas asiáticas disparam com acordo EUA-Irã; Nikkei 225 atinge recorde histórico",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/bolsas-asiaticas-disparam-com-acordo-euaira-nikkei-225-atinge-recorde-historico-1972601",
+      "time": "2026-06-15T03:28:03Z",
+      "cat": "internacional",
+      "tickers": []
+    },
+    {
+      "title": "Atlas Arteria rejeita oferta melhorada de US$ 5,2 bilhões da IFM Global",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/atlas-arteria-rejeita-oferta-melhorada-de-us-52-bilhoes-da-ifm-global-1972588",
+      "time": "2026-06-15T02:30:46Z",
+      "cat": "internacional",
+      "tickers": []
+    },
+    {
+      "title": "Sigma Healthcare desiste da compra da Boots; ações disparam",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/sigma-healthcare-desiste-da-compra-da-boots-acoes-disparam-1972575",
+      "time": "2026-06-15T00:55:42Z",
+      "cat": "internacional",
+      "tickers": []
+    },
+    {
+      "title": "Woodside nega negociações sobre possível aquisição pela Exxon Mobil",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/woodside-nega-negociacoes-sobre-possivel-aquisicao-pela-exxon-mobil-1972566",
+      "time": "2026-06-14T23:57:23Z",
+      "cat": "internacional",
+      "tickers": []
+    },
+    {
+      "title": "Futuros de Wall St disparam com acordo de paz EUA-Irã; Fed em foco",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/futuros-de-wall-st-disparam-com-acordo-de-paz-euaira-fed-em-foco-1972563",
+      "time": "2026-06-14T23:48:16Z",
+      "cat": "internacional",
       "tickers": []
     },
     {
@@ -186,43 +236,7 @@
       "time": "2026-06-14T12:45:18Z",
       "cat": "internacional",
       "tickers": []
-    },
-    {
-      "title": "Ibovespa hoje com alta após dois meses, mas ainda em \"zona morta\" tática",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-hoje-com-alta-apos-dois-meses-mas-ainda-em-zona-morta-tatica-1972095",
-      "time": "2026-06-14T12:18:48Z",
-      "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "3 razões pelas quais os mercados europeus ficam atrás dos pares globais",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/3-razoes-pelas-quais-os-mercados-europeus-ficam-atras-dos-pares-globais-1972481",
-      "time": "2026-06-14T12:04:57Z",
-      "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "Destaques da semana em Wall Street: Crocs, SpaceX e mais",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/destaques-da-semana-em-wall-street-crocs-spacex-e-mais-1972469",
-      "time": "2026-06-14T10:00:02Z",
-      "cat": "internacional",
-      "tickers": []
-    },
-    {
-      "title": "5 grandes movimentos de analistas em IA: duplo upgrade para Intel; SpaceX recebe recomendação de compra após IPO",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/5-grandes-movimentos-de-analistas-em-ia-duplo-upgrade-para-intel-spacex-recebe-recomendacao-de-compra-apos-ipo-1972457",
-      "time": "2026-06-14T09:00:02Z",
-      "cat": "analise",
-      "tickers": []
     }
   ],
-  "atualizado_em": "14/06/2026 22:06"
+  "atualizado_em": "15/06/2026 04:14"
 }
