@@ -382,6 +382,25 @@ def limpar_html(texto):
     texto = re.sub(r'\s+', ' ', texto).strip()
     return texto[:220]
 
+def buscar_og_image(url):
+    """Busca og:image da página da notícia como fallback quando o feed não traz imagem."""
+    if not HAS_REQUESTS or not url:
+        return None
+    try:
+        resp = requests.get(url, headers=UA_HEADERS, timeout=10, allow_redirects=True)
+        # Só lê os primeiros 50KB para não baixar a página inteira
+        html = resp.text[:50000]
+        match = re.search(r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']', html, re.I)
+        if not match:
+            match = re.search(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']', html, re.I)
+        if match:
+            img_url = match.group(1)
+            if img_url.startswith('http'):
+                return img_url
+    except Exception:
+        pass
+    return None
+
 def coletar_noticias():
     if not HAS_FEEDPARSER:
         return []
@@ -816,6 +835,23 @@ noticias_raw = coletar_noticias()
 if noticias_raw:
     # Manchete escolhida por score (recência + impacto), não pela ordem do feed
     ordenadas = sorted(noticias_raw, key=pontuar_noticia, reverse=True)
+
+    # Busca og:image para as top notícias sem imagem (headline + featured + primeiras da lista)
+    print("Buscando imagens og:image para notícias sem thumbnail...")
+    sem_img = [n for n in ordenadas[:15] if not n.get('image')]
+    with ThreadPoolExecutor(max_workers=5) as ex:
+        futures = {ex.submit(buscar_og_image, n['url']): n for n in sem_img}
+        for fut in futures:
+            n = futures[fut]
+            try:
+                img = fut.result()
+                if img:
+                    n['image'] = img
+            except Exception:
+                pass
+    com_img = sum(1 for n in ordenadas[:15] if n.get('image'))
+    print(f"  {com_img}/15 top notícias com imagem")
+
     noticias_json = {
         'headline': ordenadas[0],
         'featured': ordenadas[1:3],
