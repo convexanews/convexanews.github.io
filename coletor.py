@@ -338,6 +338,39 @@ def publicacao_iso(published):
     except Exception:
         return None
 
+IMG_PLACEHOLDER_RE = re.compile(r'default|placeholder|no-image|sem-imagem|avatar|gravatar', re.IGNORECASE)
+
+def extrair_imagem(entry, summary_raw):
+    """Tenta extrair uma imagem de capa da noticia a partir de varios formatos de RSS.
+    Retorna a URL da imagem ou None se nao encontrar nenhuma valida."""
+    candidatos = []
+
+    media_content = entry.get('media_content')
+    if media_content:
+        candidatos += [m.get('url') for m in media_content if m.get('url')]
+
+    media_thumbnail = entry.get('media_thumbnail')
+    if media_thumbnail:
+        candidatos += [m.get('url') for m in media_thumbnail if m.get('url')]
+
+    if entry.get('mediaurl'):
+        candidatos.append(entry.get('mediaurl'))
+
+    for link in entry.get('links', []):
+        if 'image' in link.get('type', ''):
+            candidatos.append(link.get('href'))
+
+    for campo in (summary_raw, entry.get('content', [{}])[0].get('value', '') if entry.get('content') else ''):
+        if campo:
+            m = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', campo)
+            if m:
+                candidatos.append(m.group(1))
+
+    for url in candidatos:
+        if url and url.startswith('http') and not IMG_PLACEHOLDER_RE.search(url):
+            return url
+    return None
+
 def limpar_html(texto):
     if not texto: return ''
     texto = re.sub(r'<[^>]+>', '', texto)
@@ -372,6 +405,7 @@ def coletar_noticias():
                     'source': feed_info['source'], 'url': url,
                     'time': pub_iso,
                     'cat': cat, 'tickers': extrair_tickers(title + ' ' + summary),
+                    'image': extrair_imagem(entry, summary_raw),
                 })
         except Exception as e:
             print(f"    Erro {feed_info['source']}: {e}")

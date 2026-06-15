@@ -55,6 +55,7 @@ def main():
             "time": n["time"],
             "cat": n["cat"],
             "tickers": n.get("tickers", []),
+            "image": n.get("image"),
             "gerado_por": artigo["gerado_por"],
             "gerado_em": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         }

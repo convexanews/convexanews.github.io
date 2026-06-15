@@ -22,6 +22,10 @@ function esc(s) {
 function safeUrl(u) {
   return /^https?:\/\//i.test(u || '') ? esc(u) : '';
 }
+function newsImg(n) {
+  const url = safeUrl(n.image);
+  return url || `./img/cat-${esc(n.cat || 'geral')}.jpg`;
+}
 
 // ===== FAVORITOS =====
 let favs = new Set();
@@ -296,6 +300,7 @@ function renderNews() {
   const h = NEWS_DATA.headline;
   if (!h) return;
 
+  document.getElementById('heroImg').src = newsImg(h);
   const heroTitle = document.getElementById('heroTitle');
   const hUrl = safeUrl(h.url);
   heroTitle.innerHTML = hUrl
@@ -310,6 +315,7 @@ function renderNews() {
   document.getElementById('featuredCards').innerHTML = (NEWS_DATA.featured || []).map(f => {
     const fUrl = safeUrl(f.url);
     const inner = `
+      <img class="featured-img" src="${newsImg(f)}" alt="" loading="lazy">
       <div class="featured-meta">
         <span>${esc(f.source)}</span><span>·</span><span>${esc(tempoRelativo(f.time))}</span>
         ${f.exclusive ? '<span class="exclusive-badge">EXCLUSIVO</span>' : ''}
@@ -348,15 +354,18 @@ function renderNewsList() {
   document.getElementById('newsGrid').innerHTML = items.map(n => {
     const nUrl = safeUrl(n.url);
     const inner = `
-      <div class="news-item-meta">
-        <span class="news-item-source">${esc(n.source)}</span>
-        <span>·</span>
-        <span>⏱ ${esc(tempoRelativo(n.time))}</span>
-        ${(n.tickers || []).length ? `<span>·</span>${tickerTagsHtml(n.tickers)}` : ''}
-      </div>
-      <div class="news-item-title">
-        <span>${esc(n.title)}</span>
-        <span class="news-arrow">→</span>
+      <img class="news-item-thumb" src="${newsImg(n)}" alt="" loading="lazy">
+      <div class="news-item-body">
+        <div class="news-item-meta">
+          <span class="news-item-source">${esc(n.source)}</span>
+          <span>·</span>
+          <span>⏱ ${esc(tempoRelativo(n.time))}</span>
+          ${(n.tickers || []).length ? `<span>·</span>${tickerTagsHtml(n.tickers)}` : ''}
+        </div>
+        <div class="news-item-title">
+          <span>${esc(n.title)}</span>
+          <span class="news-arrow">→</span>
+        </div>
       </div>`;
     return `<div class="news-item">${nUrl ? `<a href="${nUrl}" target="_blank" rel="noopener">${inner}</a>` : inner}</div>`;
   }).join('');
