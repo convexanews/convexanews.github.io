@@ -649,7 +649,7 @@ def _sem_nan(obj):
     return obj
 
 # ==================== MAIN ====================
-print("Iniciando coleta Convexa News...\n")
+print("Iniciando coleta Bom Dia Investidor...\n")
 
 dados = {
     'stocks': {}, 'fiis': {}, 'etfs': {},

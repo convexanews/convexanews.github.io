@@ -1,5 +1,5 @@
 // ===================================================================
-// Convexa News — app.js
+// Bom Dia Investidor — app.js
 // Frontend: notícias, cotações, indicadores, busca, favoritos, tema
 // ===================================================================
 
@@ -1362,7 +1362,7 @@ async function handleLogin(e) {
       method: 'POST',
       mode: 'no-cors',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ nome: name, email, telefone: phone, origem: 'ConvexaNews', consentimento: true, data: new Date().toISOString() })
+      body: JSON.stringify({ nome: name, email, telefone: phone, origem: 'BomDiaInvestidor', consentimento: true, data: new Date().toISOString() })
     });
   } catch (err) {
     console.warn('Sheets error (non-blocking):', err);

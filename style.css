@@ -172,9 +172,17 @@
   .logo {
     display: flex;
     align-items: center;
-    gap: 3px;
+    gap: 8px;
     text-decoration: none;
     cursor: pointer;
+  }
+  .logo-img {
+    height: 34px;
+    width: auto;
+    display: block;
+    border-radius: 6px;
+    background: #fff;
+    padding: 2px 4px;
   }
   .logo-text {
     font-family: var(--font-serif);
@@ -183,7 +191,7 @@
     color: var(--text);
     letter-spacing: -0.5px;
   }
-  .logo-accent { color: var(--blue); }
+  .logo-accent { color: #d99c1f; }
 
   /* ===== NAVIGATION ===== */
   .nav {
