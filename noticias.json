@@ -1,113 +1,176 @@
 {
   "headline": {
-    "title": "Petrobras (PETR4) e PRIO (PRIO3) lideram perdas do Ibovespa com queda do petróleo; entenda",
-    "summary": "As ações das petroleiras, como Petrobras (PETR4) e PRIO (PRIO3), operam entre as maiores quedas do Ibovespa nesta segunda-feira (15), pressionadas pelo forte recuo dos preços do petróleo no mercado internacional. O movim",
-    "source": "Suno",
-    "url": "https://www.suno.com.br/noticias/petrobras-petr4-prio-prio3-perdas-ibovespa-queda-petroleo-entenda-go/",
-    "time": "2026-06-15T16:15:14Z",
-    "cat": "internacional",
+    "title": "Ibovespa segue tombo de Petrobras (PETR4) e recua; dólar sobe a R$ 5,06",
+    "summary": "O Ibovespa (IBOV) destoou do tom positivo de Wall Street no primeiro pregão da semana, com a queda do petróleo puxando a Petrobras (PETR3;PETR4) para baixo. A petroleira detém cerca de 12% de participação no índice. Nest",
+    "source": "Money Times",
+    "url": "https://www.moneytimes.com.br/ibovespa-15-6-26-apsa/",
+    "time": "2026-06-15T20:26:05Z",
+    "cat": "economia",
     "tickers": [
       "PETR4",
-      "PRIO3"
+      "PETR3"
     ],
-    "image": null
+    "image": "https://www.moneytimes.com.br/uploads/2026/06/mercado-morning-ibovespa-wall-street-2.jpg"
   },
   "featured": [
     {
-      "title": "Michael Saylor volta às compras: Strategy adquire US$ 100 milhões em Bitcoin (BTC) enquanto criptomoeda sobe quase 5%",
-      "summary": "A maior bitcoin treasury company do mundo, a Strategy anunciou a compra de 1.587 unidades de Bitcoin (BTC) nesta segunda-feira (15). A transação, no valor de US$ 100 milhões aconteceu entre os dias 8 e 14 de junho, e a m",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/michael-saylor-volta-as-compras-strategy-adquire-us-100-milhoes-em-bitcoin-enquanto-criptomoeda-sobe-quase-5-ceci/",
-      "time": "2026-06-15T17:26:12Z",
+      "title": "Petróleo derruba Petrobras e Ibovespa; dólar fecha em leve alta a R$ 5,06",
+      "summary": "Movimento descolou das bolsas de NY, com Dow Jones renovando ganhos e Nasdaq disparando mais de 3% em sessão de forte apetite por risco e alívio geopolítico",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/petroleo-derruba-petrobras-e-ibovespa-dolar-fecha-em-leve-alta-a-r-506/",
+      "time": "2026-06-15T17:39:44Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2023/02/DSC2575.jpg"
+    },
+    {
+      "title": "Bitcoin dispara com trégua entre EUA e Irã e volta aos US$ 67 mil",
+      "summary": "Bitcoin. Foto: PixabayO bitcoin avançou na tarde desta segunda-feira, atingindo a faixa de US$ 67 mil, após o acordo de paz provisório entre Estados Unidos e Irã aliviar preocupações inflacionárias em semana de decisão d",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/bitcoin-us-67-mil-tregua-eua-ira-fed-mtae/",
+      "time": "2026-06-15T20:33:00Z",
       "cat": "cripto",
       "tickers": [
         "BTC"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/12/michael-saylor-presidente-do-conselho-de-administracao-da-strategy-ex-microstrategy-imagem-montagem-money-times.png"
-    },
-    {
-      "title": "Boletim Focus eleva novamente projeções para IPCA 2026; dólar e PIB sobem",
-      "summary": "Boletim Focus. Foto: iStockA mediana do Boletim Focus para o IPCA de 2026 aumentou pela 14ª semana consecutiva, de 5,11% para 5,30%, distanciando-se ainda mais do teto da meta perseguida pelo Banco Central, de 4,50%. Con",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/boletim-focus-15062026-go/",
-      "time": "2026-06-15T12:50:00Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2023/05/inflacao-ipca.jpg"
+      "image": "https://files.sunoresearch.com.br/n/uploads/2025/05/bitcoin-4481815_1280.jpg"
     }
   ],
   "all": [
     {
-      "title": "Moro defende criação de forças-tarefas para desmontar organizações criminosas",
-      "summary": "Pré-candidato ao governo do Paraná, Moro defendeu a demonstração de força para coibir o crime organizado",
+      "title": "Petrobras e PRIO fecham em queda de até 7% seguindo petróleo em meio a acordo EUA-Irã",
+      "summary": "EUA e Irã chegaram no domingo (14) a um acordo de cessar-fogo segundo o presidente americano, Donald Trump",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/moro-defende-criacao-de-forcas-tarefas-para-desmontar-organizacoes-criminosas/",
-      "time": "2026-06-15T17:49:19Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/06/sergio-moro-senador.jpg?fit=300%2C198&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Petrobras, PRIO e mais: o que fazer com as ações após queda forte com acordo EUA-Irã?",
-      "summary": "De acordo com análise da XP, a avaliação das petroleiras brasileiras continua atrativa",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/petrobras-prio-e-mais-o-que-fazer-com-as-acoes-petroleiras-apos-queda-forte-com-acordo-eua-ira/",
-      "time": "2026-06-15T17:30:00Z",
+      "url": "https://www.infomoney.com.br/mercados/petrobras-petr4-adrs-caem-4-seguindo-petroleo-apos-acordo-preliminar-eua-ira/",
+      "time": "2026-06-15T20:45:42Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/maria-lupan-hy97yy3e03A-unsplash.jpg?fit=300%2C217&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/FPSO-Maria-Quiteria-6.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Acordo EUA-Irã derruba petróleo, mas alívio na inflação exige cautela",
-      "summary": "Fim das tensões no Oriente Médio alivia mercado de energia, mas reposição estrutural de estoques e dinâmica da Petrobras limitam o corte de juros no Brasil e nos EUA.",
+      "title": "Por que o Ibovespa fechou em queda após chegar a subir mais de 1% com acordo EUA-Irã?",
+      "summary": "Forte recuo dos contratos de petróleo derruba principais nomes do índice e fazem Ibov virar para queda",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/economia/acordo-eua-ira-preco-petroleo-inflacao/",
-      "time": "2026-06-15T17:06:16Z",
-      "cat": "economia",
+      "url": "https://www.infomoney.com.br/mercados/por-que-ibovespa-passou-a-cair-apos-chegar-a-subir-mais-de-1-com-acordo-eua-ira/",
+      "time": "2026-06-15T20:39:25Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/NIGHTMARE-SCENARIO-LOOMS-AS-GLOBAL-MARKETS-HEAD-FOR-THE-BIGGEST-OIL-OUTPUT-DISRUPTION-IN-HISTORY-TOP-ENERGY-GURU-WARNS.jpg?fit=300%2C203&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/EspacoB3_02.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Flávio Bolsonaro nega irregularidades com Vorcaro, critica Lula e diz que direita estará unida",
-      "summary": "O senador e pré-candidato à Presidência Flávio Bolsonaro (PL-RJ) voltou a negar irregularidades na relação com Daniel Vorcaro, do Banco Master, criticou o governo Luiz Inácio Lula da Silva (PT) pela nova proposta de tari",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/flavio-nega-irregularidades-com-vorcaro-critica-lula-e-diz-que-direita-estara-unida-gaep/",
-      "time": "2026-06-15T17:49:23Z",
+      "title": "SpaceX salta 19,6% e valor de mercado vai a US$ 2,5 tri nesta 2ª após estreia recorde",
+      "summary": "O presidente-executivo Elon Musk disse no domingo que a empresa, que atua desde foguetes até inteligência artificial, poderia gerar ⁠US$ 1 ‌trilhão em receita até 2030",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/spacex-deve-dar-continuidade-a-trajetoria-de-alta-apos-estreia-recorde-em-wall-street/",
+      "time": "2026-06-15T20:36:24Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/05/54901134047-f8f4f0a005-o-scaled.jpg"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-11T194115Z_1_LYNXMPEM5A1HW_RTROPTP_4_SPACEX-IPO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Michael Saylor volta às compras: Strategy adquire US$ 100 milhões em Bitcoin (BTC) enquanto criptomoeda sobe quase 5%",
-      "summary": "A maior bitcoin treasury company do mundo, a Strategy anunciou a compra de 1.587 unidades de Bitcoin (BTC) nesta segunda-feira (15). A transação, no valor de US$ 100 milhões aconteceu entre os dias 8 e 14 de junho, e a m",
+      "title": "Ibovespa cai na contramão da euforia no exterior; Vale se salva",
+      "summary": "Índices nos EUA terminam em lta com acordo de fim da guerra e nova alta de SpaceX",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-15062026/",
+      "time": "2026-06-15T20:34:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Ibovespa-ao-vivo-3.png?fit=300%2C186&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Dólar sobe a 0,11%, R$ 5,06, na contramão do exterior, mesmo com acordo entre EUA-Irã",
+      "summary": "Memorando de entendimento deverá ser assinado oficialmente na sexta-feira",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-15062026/",
+      "time": "2026-06-15T20:30:52Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-23T223943Z_1_LYNXMPEM3M1IY_RTROPTP_4_IRAN-ECONOMY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Wall Street se recupera e Dow Jones fecha em nível recorde com acordo entre EUA e Irã",
+      "summary": "A ‌expectativa é de que o pacto seja formalmente assinado na ⁠Suíça na sexta-feira",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/dow-jones-tem-recorde-com-otimismo-por-acordo-entre-eua-e-ira-e-queda-do-petroleo/",
+      "time": "2026-06-15T20:28:20Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/02/2025-02-04T212154Z_1_LYNXMPEL130VW_RTROPTP_4_GLOBAL-MARKETS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Ibovespa segue tombo de Petrobras (PETR4) e recua; dólar sobe a R$ 5,06",
+      "summary": "O Ibovespa (IBOV) destoou do tom positivo de Wall Street no primeiro pregão da semana, com a queda do petróleo puxando a Petrobras (PETR3;PETR4) para baixo. A petroleira detém cerca de 12% de participação no índice. Nest",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/michael-saylor-volta-as-compras-strategy-adquire-us-100-milhoes-em-bitcoin-enquanto-criptomoeda-sobe-quase-5-ceci/",
-      "time": "2026-06-15T17:26:12Z",
+      "url": "https://www.moneytimes.com.br/ibovespa-15-6-26-apsa/",
+      "time": "2026-06-15T20:26:05Z",
+      "cat": "economia",
+      "tickers": [
+        "PETR4",
+        "PETR3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/mercado-morning-ibovespa-wall-street-2.jpg"
+    },
+    {
+      "title": "Wall Street salta mais de 1% com pacto entre EUA e Irã para fim da guerra; Dow Jones renova recordes",
+      "summary": "Os índices de Wall Street registraram forte ganhos nesta segunda-feira (15) com relatos de que Estados Unidos e Irã assinaram um memorando de entendimentos para pôr fim à guerra no Oriente Médio. Durante o pregão, o Dow ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/wall-street-fechamento-15-6-26-lils/",
+      "time": "2026-06-15T20:08:37Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/02/mercado-alta.jpg"
+    },
+    {
+      "title": "Dólar avança a R$ 5,06 impulsionado por tombo do petróleo com acordo de paz entre EUA e Irã no radar",
+      "summary": "O dólar à vista ganhou força diante da queda nas cotações do petróleo no mercado internacional, considerando que o Brasil é um país exportador da commodity. Nesta segunda-feira (15), o dólar à vista terminou as negociaçõ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/dolar-15-6-26-apsa/",
+      "time": "2026-06-15T20:08:02Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/12/dolar-cambio.jpg"
+    },
+    {
+      "title": "S&P Global eleva previsão de área plantada com milho nos EUA em 2026",
+      "summary": "A SP Global Energy estimou que os agricultores norte-americanos plantariam 96,0 milhões de acres de milho em 2026 e 85,3 milhões de acres de soja, informou a empresa em uma nota divulgada aos clientes na sexta-feira. A e",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/sp-global-eleva-previsao-de-area-plantada-com-milho-nos-eua-em-2026/",
+      "time": "2026-06-15T19:36:49Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/01/etanol-de-milho-1.jpg"
+    },
+    {
+      "title": "Petróleo tomba quase 5% e fecha no menor nível desde março com expectativa de reabertura do Estreito de Ormuz",
+      "summary": "Os preços do petróleo encerraram o pregão desta segunda-feira (15) em forte queda com acordo entre Estados Unidos e Irã e expectativa de reabertura do Estreito de Ormuz até o fim desta semana. O contrato mais líquido do ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/petroleo-15-6-26-lils/",
+      "time": "2026-06-15T19:27:53Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/07/petroleo.jpg"
+    },
+    {
+      "title": "Nubank (ROXO34): Citi rebaixa ação e vê risco ‘escondido’ no coração da tese da fintech",
+      "summary": "O Citi cortou a recomendação para as ações do Nubank (ROXO34), de compra para neutro, reduzindo o preço-alvo de US$ 18 para US$ 13 potencial alta de 10%. Na visão do banco norte-americano, o crédito — principal avenida d",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/nubank-roxo34-leva-cartao-amarelo-de-wall-street-citi-rebaixa-acao-e-ve-risco-escondido-no-coracao-da-tese-da-fintech/",
+      "time": "2026-06-15T19:10:35Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Bitcoin dispara com trégua entre EUA e Irã e volta aos US$ 67 mil",
+      "summary": "Bitcoin. Foto: PixabayO bitcoin avançou na tarde desta segunda-feira, atingindo a faixa de US$ 67 mil, após o acordo de paz provisório entre Estados Unidos e Irã aliviar preocupações inflacionárias em semana de decisão d",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/bitcoin-us-67-mil-tregua-eua-ira-fed-mtae/",
+      "time": "2026-06-15T20:33:00Z",
       "cat": "cripto",
       "tickers": [
         "BTC"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/12/michael-saylor-presidente-do-conselho-de-administracao-da-strategy-ex-microstrategy-imagem-montagem-money-times.png"
-    },
-    {
-      "title": "Log (LOGG3): Citi aumenta preço-alvo das ações, mas mantém recomendação neutra; entenda o porquê",
-      "summary": "O Citi elevou o preço-alvo para as ações da Log Commercial (LOGG3) de R$ 27,50 para R$ 33, o que implica um potencial de valorização (upside) de aproximadamente 22% em relação ao fechamento anterior (12). Apesar da revis",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/log-logg3-citi-aumenta-preco-alvo-das-acoes-mas-mantem-recomendacao-neutra-entenda-o-porque-igdl/",
-      "time": "2026-06-15T16:41:44Z",
-      "cat": "analise",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/02/galpao-logistico-vazio-.jpeg"
-    },
-    {
-      "title": "Donald Trump: “futebol de verdade é o jogado na Copa do Mundo”; conheça as variações mais (e menos) conhecidas do esporte bretão",
-      "summary": "Cansado de polêmicas políticas e econômicas, Donald Trump quis falar sobre o que realmente importa: o ‘verdadeiro’ futebol. Durante um discurso na Casa Branca, o presidente norte-americano afirmou que o futebol jogado na",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/donald-trump-futebol-de-verdade-e-o-jogado-na-copa-do-mundo-mlem/",
-      "time": "2026-06-15T16:40:42Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/06/image-17.png"
+      "image": "https://files.sunoresearch.com.br/n/uploads/2025/05/bitcoin-4481815_1280.jpg"
     },
     {
       "title": "Tarifaço dos EUA pode atingir mais da metade das exportações brasileiras, alerta CNI",
@@ -175,117 +238,95 @@
       "image": "https://files.sunoresearch.com.br/n/uploads/2023/05/inflacao-ipca.jpg"
     },
     {
-      "title": "Taurus (TASA4) e Suzano (SUZB3): Veja quem vai pagar dividendos na semana",
-      "summary": "Taurus (TASA4) e Suzano (SUZB3): Veja quem vai pagar dividendos na semanaEsta semana começa com mais uma rodada de dividendos caindo na conta dos investidores, com destaque para a distribuição de proventos da Taurus Arma",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/a-taurus-armas-tasa4-a-suzano-suzb3-agenda-dividendos-12062026/",
-      "time": "2026-06-14T13:00:00Z",
-      "cat": "fundos",
-      "tickers": [
-        "SUZB3"
-      ],
-      "image": null
-    },
-    {
-      "title": "Alô, Ancelotti: Neosaldina leva Endrick à Times Square e pede escalação do atacante",
-      "summary": "Marca da Hypera Pharma aproveita a popularidade do atacante em ação inédita em Nova York",
+      "title": "Petróleo derruba Petrobras e Ibovespa; dólar fecha em leve alta a R$ 5,06",
+      "summary": "Movimento descolou das bolsas de NY, com Dow Jones renovando ganhos e Nasdaq disparando mais de 3% em sessão de forte apetite por risco e alívio geopolítico",
       "source": "Exame",
-      "url": "https://exame.com/marketing/alo-ancelotti-neosaldina-leva-endrick-a-times-square-e-pede-escalacao-do-atacante/",
-      "time": "2026-06-15T14:43:03Z",
+      "url": "https://exame.com/invest/mercados/petroleo-derruba-petrobras-e-ibovespa-dolar-fecha-em-leve-alta-a-r-506/",
+      "time": "2026-06-15T17:39:44Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/Endrick_Neosaldina_EUA.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2023/02/DSC2575.jpg"
     },
     {
-      "title": "Nasdaq dispara 3% com alívio geopolítico e rali das ações de tecnologia",
-      "summary": "A SpaceX avança mais de 10% nesta segunda, 15, e amplia os ganhos após estrear na Nasdaq com alta de 19% na última sexta-feira, 12",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/nasdaq-dispara-3-com-alivio-geopolitico-e-rali-das-acoes-de-tecnologia/",
-      "time": "2026-06-15T14:26:27Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2024/05/GettyImages-527992348.jpg"
-    },
-    {
-      "title": "Depois do trilhão, Musk quer o quadrilhão — e já sabe o que falta: fábricas na Lua",
-      "summary": "Após se tornar o primeiro trilionário da história com o IPO da SpaceX, Elon Musk afirma que alcançar US$ 1 quadrilhão exigiria uma economia baseada em fábricas na Lua e em Marte",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/depois-do-trilhao-musk-quer-o-quadrilhao-e-ja-sabe-o-que-falta-fabricas-na-lua/",
-      "time": "2026-06-15T14:13:20Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/elon_musk.jpg"
-    },
-    {
-      "title": "Ações de companhias aéreas latino-americanas sobem com queda do petróleo",
+      "title": "Ações da PN Smart Energy sobem com mudança de nome da Skycorp Solar",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-de-companhias-aereas-latinoamericanas-sobem-com-queda-do-petroleo-93CH-1973621",
-      "time": "2026-06-15T17:24:45Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-pn-smart-energy-sobem-com-mudanca-de-nome-da-skycorp-solar-93CH-1973844",
+      "time": "2026-06-15T20:41:56Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Ações da HCLTech sobem após Morgan Stanley destacar participação na Sarvam AI",
+      "title": "Ações de destaque no setor aeroespacial comercial, segundo a Jefferies",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-hcltech-sobem-apos-morgan-stanley-destacar-participacao-na-sarvam-ai-93CH-1973614",
-      "time": "2026-06-15T17:13:50Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-de-destaque-no-setor-aeroespacial-comercial-segundo-a-jefferies-93CH-1973823",
+      "time": "2026-06-15T20:34:36Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Jefferies eleva perspectiva para RedCare Pharmacy após forte atualização do 2º tri",
+      "title": "E.U.A. - Ações fecharam o pregão em alta e o Índice Dow Jones Industrial Average avançou 0,92%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/jefferies-eleva-perspectiva-para-redcare-pharmacy-apos-forte-atualizacao-do-2o-tri-93CH-1973611",
-      "time": "2026-06-15T17:11:39Z",
+      "url": "https://br.investing.com/news/stock-market-news/eua--acoes-fecharam-o-pregao-em-alta-e-o-indice-dow-jones-industrial-average-avancou-092-1973817",
+      "time": "2026-06-15T20:31:31Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB301JO_M.jpg"
     },
     {
-      "title": "Morgan Stanley rebaixa Accenture e corta preço-alvo em meio à pressão da IA",
+      "title": "Canadá - Ações fecharam o pregão em alta e o Índice S&P/TSX avançou 0,97%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/morgan-stanley-rebaixa-accenture-e-corta-precoalvo-em-meio-a-pressao-da-ia-1973610",
-      "time": "2026-06-15T17:10:36Z",
-      "cat": "analise",
+      "url": "https://br.investing.com/news/stock-market-news/canada--acoes-fecharam-o-pregao-em-alta-e-o-indice-sptsx-avancou-097-1973815",
+      "time": "2026-06-15T20:30:45Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB7Q0U9_M.jpg"
+    },
+    {
+      "title": "Brasil - Ações fecharam o pregão em queda e o Índice Bovespa recuou 0,42%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/brasil--acoes-fecharam-o-pregao-em-queda-e-o-indice-bovespa-recuou-042-1973814",
+      "time": "2026-06-15T20:30:19Z",
+      "cat": "internacional",
       "tickers": [],
       "image": null
     },
     {
-      "title": "Amazon.com anuncia investimento bilionário em Missouri e ações sobem 3%",
+      "title": "Ações da Adaptive Biotechnologies caem com plano de dívida conversível",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/amazoncom-anuncia-investimento-bilionario-em-missouri-e-acoes-sobem-3-1973608",
-      "time": "2026-06-15T17:08:00Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-adaptive-biotechnologies-caem-com-plano-de-divida-conversivel-93CH-1973812",
+      "time": "2026-06-15T20:27:02Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Exclusivo: CEO da Webull UK diz que investidores compraram a queda das ações de IA",
+      "title": "Ações da Macerich caem após anúncio de oferta pública de ações",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/exclusivo-ceo-da-webull-uk-diz-que-investidores-compraram-a-queda-das-acoes-de-ia-1973602",
-      "time": "2026-06-15T16:54:12Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-macerich-caem-apos-anuncio-de-oferta-publica-de-acoes-93CH-1973782",
+      "time": "2026-06-15T20:17:10Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB2C0AG_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "AMD adquire a MEXT para otimização de memória em data centers",
+      "title": "Por que as ações da Dave & Buster’s estão caindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/amd-adquire-a-mext-para-otimizacao-de-memoria-em-data-centers-93CH-1973597",
-      "time": "2026-06-15T16:42:01Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-dave--busters-estao-caindo-hoje-93CH-1973735",
+      "time": "2026-06-15T20:02:21Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "15/06/2026 17:53"
+  "atualizado_em": "15/06/2026 20:55"
 }
