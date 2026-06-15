@@ -14,88 +14,112 @@
   },
   "featured": [
     {
-      "title": "Petróleo derruba Petrobras e Ibovespa; dólar fecha em leve alta a R$ 5,06",
-      "summary": "Movimento descolou das bolsas de NY, com Dow Jones renovando ganhos e Nasdaq disparando mais de 3% em sessão de forte apetite por risco e alívio geopolítico",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/petroleo-derruba-petrobras-e-ibovespa-dolar-fecha-em-leve-alta-a-r-506/",
-      "time": "2026-06-15T17:39:44Z",
+      "title": "Ibovespa cai com tombo da Petrobras (PETR4) e inflação no radar do mercado",
+      "summary": "O Ibovespa destoou do tom positivo observado em Wall Street e encerrou o pregão desta segunda-feira (15) em queda de 0,42%, aos 170.415,13 pontos. O principal índice da Bolsa brasileira foi pressionado pelo forte recuo d",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-cai-petrobras-petr4-focus-radar-mt/",
+      "time": "2026-06-15T21:25:07Z",
       "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2023/02/DSC2575.jpg"
+      "tickers": [
+        "PETR4"
+      ],
+      "image": null
     },
     {
-      "title": "Bitcoin dispara com trégua entre EUA e Irã e volta aos US$ 67 mil",
-      "summary": "Bitcoin. Foto: PixabayO bitcoin avançou na tarde desta segunda-feira, atingindo a faixa de US$ 67 mil, após o acordo de paz provisório entre Estados Unidos e Irã aliviar preocupações inflacionárias em semana de decisão d",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/bitcoin-us-67-mil-tregua-eua-ira-fed-mtae/",
-      "time": "2026-06-15T20:33:00Z",
-      "cat": "cripto",
-      "tickers": [
-        "BTC"
-      ],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2025/05/bitcoin-4481815_1280.jpg"
+      "title": "Taxas de DIs caem e curva de juros volta a precificar corte na Selic na próxima decisão do Copom",
+      "summary": "A curva de juros futuros engatou o quarto dia de quedas consecutivas com alívio nas tensões geopolíticas, em meio à piora das projeções de economistas para os principais indicadores macroeconômicos domésticos. A taxa de ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/taxas-de-dis-caem-e-curva-de-juros-volta-a-precificar-corte-na-selic-lils/",
+      "time": "2026-06-15T21:25:00Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/05/designs-leonardo-2025-05-30t135244.511.jpg"
     }
   ],
   "all": [
     {
-      "title": "Petrobras e PRIO fecham em queda de até 7% seguindo petróleo em meio a acordo EUA-Irã",
-      "summary": "EUA e Irã chegaram no domingo (14) a um acordo de cessar-fogo segundo o presidente americano, Donald Trump",
+      "title": "8 tripulantes são considerados mortos em queda de bombardeiro B-52 na Califórnia",
+      "summary": "O bombardeiro B-52 Stratofortress sofreu um acidente logo após decolar da Base Aérea de Edwards, segundo um comunicado militar",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/petrobras-petr4-adrs-caem-4-seguindo-petroleo-apos-acordo-preliminar-eua-ira/",
-      "time": "2026-06-15T20:45:42Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/FPSO-Maria-Quiteria-6.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Por que o Ibovespa fechou em queda após chegar a subir mais de 1% com acordo EUA-Irã?",
-      "summary": "Forte recuo dos contratos de petróleo derruba principais nomes do índice e fazem Ibov virar para queda",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/por-que-ibovespa-passou-a-cair-apos-chegar-a-subir-mais-de-1-com-acordo-eua-ira/",
-      "time": "2026-06-15T20:39:25Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/EspacoB3_02.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "SpaceX salta 19,6% e valor de mercado vai a US$ 2,5 tri nesta 2ª após estreia recorde",
-      "summary": "O presidente-executivo Elon Musk disse no domingo que a empresa, que atua desde foguetes até inteligência artificial, poderia gerar ⁠US$ 1 ‌trilhão em receita até 2030",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/spacex-deve-dar-continuidade-a-trajetoria-de-alta-apos-estreia-recorde-em-wall-street/",
-      "time": "2026-06-15T20:36:24Z",
+      "url": "https://www.infomoney.com.br/mundo/8-tripulantes-sao-considerados-mortos-em-queda-de-bombardeiro-b-52-na-california/",
+      "time": "2026-06-15T22:31:07Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-11T194115Z_1_LYNXMPEM5A1HW_RTROPTP_4_SPACEX-IPO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-15T212730Z_326493480_RC2EULAKQF65_RTRMADP_3_USA-CRASH.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Ibovespa cai na contramão da euforia no exterior; Vale se salva",
-      "summary": "Índices nos EUA terminam em lta com acordo de fim da guerra e nova alta de SpaceX",
+      "title": "Brasileiro perde, em média, R$ 11 mil por golpe digital e Geração Z é a maior vítima",
+      "summary": "Mais expostos a redes sociais, jogos online e criptomoedas, os nativos digitais aparecem como os mais vulneráveis a esquemas de fraude baseados em confiança",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-15062026/",
-      "time": "2026-06-15T20:34:00Z",
+      "url": "https://www.infomoney.com.br/minhas-financas/prejuizo-com-fraudes-digitais-dispara-60-no-brasil-e-geracao-z-e-a-maior-vitima/",
+      "time": "2026-06-15T22:16:20Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Ibovespa-ao-vivo-3.png?fit=300%2C186&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/vitaly-gariev-1frri_Mi7A0-unsplash.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Dólar sobe a 0,11%, R$ 5,06, na contramão do exterior, mesmo com acordo entre EUA-Irã",
-      "summary": "Memorando de entendimento deverá ser assinado oficialmente na sexta-feira",
+      "title": "Entidade que defende a língua espanhola critica a FIFA por coletivas em inglês",
+      "summary": "Na prévia da estreia da Holanda contra o Japão, Frankie de Jong foi obrigado a responder uma pergunta em inglês, assim como tinha acontecido com o brasileiro Vinicius Jr.",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-15062026/",
-      "time": "2026-06-15T20:30:52Z",
+      "url": "https://www.infomoney.com.br/esportes/entidade-que-defende-a-lingua-espanhola-critica-a-fifa-por-coletivas-em-ingles/",
+      "time": "2026-06-15T22:01:09Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Vinicius-Jr.jpg?fit=300%2C193&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Motiva (MOTV3) assina aditivo para investimentos de R$ 676,8 milhões na expansão da Linha 4 do Metrô até Taboão da Serra",
+      "summary": "A Motiva (MOTV3) informou nesta segunda-feira (15) que sua controlada Concessionária da Linha 4 do Metrô de São Paulo (ViaQuatro) assinou o Termo Aditivo 11 ao contrato de concessão com o Estado de São Paulo. O Termo Adi",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/motiva-motv3-assina-aditivo-para-investimentos-de-r-6768-milhoes-na-expansao-da-linha-4-do-metro-ate-taboao-da-serra/",
+      "time": "2026-06-15T22:50:55Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/09/motiva-linha-4-metro.jpg"
+    },
+    {
+      "title": "Vivo (VIVT3) pagará em juros sobre o capital próprio; veja valores",
+      "summary": "A Vivo (VIVT3) pagará R$ 230 milhões em juros sobre o capital próprio, mostra documento enviado ao mercado nesta segunda-feira (15). Segundo o documento, o valor por ação será de R$ 0,071. Com o Imposto de Renda, o valor",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/vivo-vivt3-pagara-em-juros-sobre-o-capital-proprio-veja-valores/",
+      "time": "2026-06-15T22:08:32Z",
+      "cat": "economia",
+      "tickers": [
+        "VIVT3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2024/02/vivo-vivt3.jpg"
+    },
+    {
+      "title": "Gerdau (GGBR4) compra participação da Copel em geradora hidrelétrica no RS",
+      "summary": "A Gerdau (GGBR4) informou nesta segunda-feira (15) que apresentou proposta vinculante e assinou contrato para adquirir a participação de 23,03% da Copel na Dona Francisca Energética S.A. (Dfesa), em uma transação que con",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/gerdau-ggbr4-compra-participacao-da-copel-em-geradora-hidreletrica-no-rs/",
+      "time": "2026-06-15T22:03:31Z",
+      "cat": "acoes",
+      "tickers": [
+        "GGBR4"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2021/11/hidreletricas-.jpg"
+    },
+    {
+      "title": "Taxas de DIs caem e curva de juros volta a precificar corte na Selic na próxima decisão do Copom",
+      "summary": "A curva de juros futuros engatou o quarto dia de quedas consecutivas com alívio nas tensões geopolíticas, em meio à piora das projeções de economistas para os principais indicadores macroeconômicos domésticos. A taxa de ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/taxas-de-dis-caem-e-curva-de-juros-volta-a-precificar-corte-na-selic-lils/",
+      "time": "2026-06-15T21:25:00Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-23T223943Z_1_LYNXMPEM3M1IY_RTROPTP_4_IRAN-ECONOMY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2025/05/designs-leonardo-2025-05-30t135244.511.jpg"
     },
     {
-      "title": "Wall Street se recupera e Dow Jones fecha em nível recorde com acordo entre EUA e Irã",
-      "summary": "A ‌expectativa é de que o pacto seja formalmente assinado na ⁠Suíça na sexta-feira",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/dow-jones-tem-recorde-com-otimismo-por-acordo-entre-eua-e-ira-e-queda-do-petroleo/",
-      "time": "2026-06-15T20:28:20Z",
-      "cat": "internacional",
+      "title": "Vai pingar: Itaúsa (ITSA4) pagará bolada de R$ 1,5 bilhão em juros sobre capital próprio; veja como aproveitar",
+      "summary": "A Itaúsa (ITSA4) aprovou o pagamento de R$ 1,5 bilhão em juros sobre o capital próprio, mostra documento enviado ao mercado nesta segunda-feira (15). Segundo o documento, o valor por ação será de R$ 0,138. Considerando o",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/vai-pingar-itausa-itsa4-pagara-bolada-de-r-15-bilhao-em-juros-sobre-capita-proprio-veja-como-aproveitar-rnda/",
+      "time": "2026-06-15T21:20:11Z",
+      "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/02/2025-02-04T212154Z_1_LYNXMPEL130VW_RTROPTP_4_GLOBAL-MARKETS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2024/08/itausa-itsa4.webp"
     },
     {
       "title": "Ibovespa segue tombo de Petrobras (PETR4) e recua; dólar sobe a R$ 5,06",
@@ -111,53 +135,45 @@
       "image": "https://www.moneytimes.com.br/uploads/2026/06/mercado-morning-ibovespa-wall-street-2.jpg"
     },
     {
-      "title": "Wall Street salta mais de 1% com pacto entre EUA e Irã para fim da guerra; Dow Jones renova recordes",
-      "summary": "Os índices de Wall Street registraram forte ganhos nesta segunda-feira (15) com relatos de que Estados Unidos e Irã assinaram um memorando de entendimentos para pôr fim à guerra no Oriente Médio. Durante o pregão, o Dow ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/wall-street-fechamento-15-6-26-lils/",
-      "time": "2026-06-15T20:08:37Z",
-      "cat": "internacional",
+      "title": "FII SNME11 negocia R$ 2,35 milhões após elevar dividendos em 50%",
+      "summary": "O fundo imobiliário (FII) SNME11 registrou uma das maiores marcas de liquidez de sua história recente ao negociar cerca de R$ 2,35 milhões no mercado secundário. As cotas encerraram o pregão a R$ 9,49, com leve baixa de ",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/fii-snme11-negocia-r-235-milhoes-apos-elevar-dividendos-em-50/",
+      "time": "2026-06-15T22:55:07Z",
+      "cat": "fundos",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/02/mercado-alta.jpg"
+      "image": null
     },
     {
-      "title": "Dólar avança a R$ 5,06 impulsionado por tombo do petróleo com acordo de paz entre EUA e Irã no radar",
-      "summary": "O dólar à vista ganhou força diante da queda nas cotações do petróleo no mercado internacional, considerando que o Brasil é um país exportador da commodity. Nesta segunda-feira (15), o dólar à vista terminou as negociaçõ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/dolar-15-6-26-apsa/",
-      "time": "2026-06-15T20:08:02Z",
+      "title": "SNCI11 anuncia dividendos com yield de 1,12%; confira o pagamento",
+      "summary": "O fundo imobiliário (FII) anunciou uma nova distribuição de rendimentos a seus cotistas, com pagamento definido em R$ 1,00 por cota. Segundo comunicado ao mercado, terão direito aos proventos os investidores posicionados",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/snci11-anuncia-dividendos-com-yield-de-112-confira-o-pagamento/",
+      "time": "2026-06-15T22:45:06Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "IFIX fecha o pregão da segunda-feira em alta de 0,5%",
+      "summary": "O IFIX encerrou o pregão desta segunda-feira (15) aos 3.833,15 pontos, alta de 0,5%. O desempenho representa avanço de 19,12 pontos frente ao fechamento anterior, mantendo a sequência positiva do índice. O índice de fund",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ifix-fecha-o-pregao-da-segunda-feira-em-alta-de-05/",
+      "time": "2026-06-15T22:35:07Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Ibovespa cai com tombo da Petrobras (PETR4) e inflação no radar do mercado",
+      "summary": "O Ibovespa destoou do tom positivo observado em Wall Street e encerrou o pregão desta segunda-feira (15) em queda de 0,42%, aos 170.415,13 pontos. O principal índice da Bolsa brasileira foi pressionado pelo forte recuo d",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-cai-petrobras-petr4-focus-radar-mt/",
+      "time": "2026-06-15T21:25:07Z",
       "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/12/dolar-cambio.jpg"
-    },
-    {
-      "title": "S&P Global eleva previsão de área plantada com milho nos EUA em 2026",
-      "summary": "A SP Global Energy estimou que os agricultores norte-americanos plantariam 96,0 milhões de acres de milho em 2026 e 85,3 milhões de acres de soja, informou a empresa em uma nota divulgada aos clientes na sexta-feira. A e",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/sp-global-eleva-previsao-de-area-plantada-com-milho-nos-eua-em-2026/",
-      "time": "2026-06-15T19:36:49Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/01/etanol-de-milho-1.jpg"
-    },
-    {
-      "title": "Petróleo tomba quase 5% e fecha no menor nível desde março com expectativa de reabertura do Estreito de Ormuz",
-      "summary": "Os preços do petróleo encerraram o pregão desta segunda-feira (15) em forte queda com acordo entre Estados Unidos e Irã e expectativa de reabertura do Estreito de Ormuz até o fim desta semana. O contrato mais líquido do ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/petroleo-15-6-26-lils/",
-      "time": "2026-06-15T19:27:53Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/07/petroleo.jpg"
-    },
-    {
-      "title": "Nubank (ROXO34): Citi rebaixa ação e vê risco ‘escondido’ no coração da tese da fintech",
-      "summary": "O Citi cortou a recomendação para as ações do Nubank (ROXO34), de compra para neutro, reduzindo o preço-alvo de US$ 18 para US$ 13 potencial alta de 10%. Na visão do banco norte-americano, o crédito — principal avenida d",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/nubank-roxo34-leva-cartao-amarelo-de-wall-street-citi-rebaixa-acao-e-ve-risco-escondido-no-coracao-da-tese-da-fintech/",
-      "time": "2026-06-15T19:10:35Z",
-      "cat": "acoes",
-      "tickers": [],
+      "tickers": [
+        "PETR4"
+      ],
       "image": null
     },
     {
@@ -195,138 +211,95 @@
       "image": null
     },
     {
-      "title": "DIVD11 ou NDIV11: entenda as diferenças entre os ETFs que pagam dividendos",
-      "summary": "DIVD11 ou NDIV11: entenda as diferenças entre os ETFs que pagam dividendosOs ETFs voltados para empresas pagadoras de dividendos têm ganhado espaço entre os investidores brasileiros que buscam praticidade, diversificação",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/divd11-ndiv11-etfs-dividendos-diferencas-gss/",
-      "time": "2026-06-15T17:05:25Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Petrobras (PETR4) e PRIO (PRIO3) lideram perdas do Ibovespa com queda do petróleo; entenda",
-      "summary": "As ações das petroleiras, como Petrobras (PETR4) e PRIO (PRIO3), operam entre as maiores quedas do Ibovespa nesta segunda-feira (15), pressionadas pelo forte recuo dos preços do petróleo no mercado internacional. O movim",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/petrobras-petr4-prio-prio3-perdas-ibovespa-queda-petroleo-entenda-go/",
-      "time": "2026-06-15T16:15:14Z",
-      "cat": "internacional",
-      "tickers": [
-        "PETR4",
-        "PRIO3"
-      ],
-      "image": null
-    },
-    {
-      "title": "Justiça aceita recuperação judicial do Grupo Toky (TOKY3)",
-      "summary": "Recuperação Judicial - Foto: iStockA Justiça de São Paulo deferiu o processamento do pedido de recuperação judicial do Grupo Toky (TOKY3) e de suas subsidiárias, conforme informou a companhia em fato relevante divulgado ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/grupo-toky-toky3-justica-aceita-recuperacao-judicial-go/",
-      "time": "2026-06-15T14:14:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2023/05/recuperacaojudicial.jpg"
-    },
-    {
-      "title": "Boletim Focus eleva novamente projeções para IPCA 2026; dólar e PIB sobem",
-      "summary": "Boletim Focus. Foto: iStockA mediana do Boletim Focus para o IPCA de 2026 aumentou pela 14ª semana consecutiva, de 5,11% para 5,30%, distanciando-se ainda mais do teto da meta perseguida pelo Banco Central, de 4,50%. Con",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/boletim-focus-15062026-go/",
-      "time": "2026-06-15T12:50:00Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2023/05/inflacao-ipca.jpg"
-    },
-    {
-      "title": "Petróleo derruba Petrobras e Ibovespa; dólar fecha em leve alta a R$ 5,06",
-      "summary": "Movimento descolou das bolsas de NY, com Dow Jones renovando ganhos e Nasdaq disparando mais de 3% em sessão de forte apetite por risco e alívio geopolítico",
+      "title": "Tarifaço dos EUA pode afetar um terço das exportações do Brasil com tarifas de até 37,5%, diz CNI",
+      "summary": "Medida pode atingir produtos como ferro gusa, açúcar de cana, etanol e minério de ferro",
       "source": "Exame",
-      "url": "https://exame.com/invest/mercados/petroleo-derruba-petrobras-e-ibovespa-dolar-fecha-em-leve-alta-a-r-506/",
-      "time": "2026-06-15T17:39:44Z",
+      "url": "https://exame.com/economia/tarifaco-dos-eua-pode-afetar-um-terco-das-exportacoes-do-brasil-com-tarifas-de-ate-375-diz-cni/",
+      "time": "2026-06-15T19:00:11Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/05/trump.jpg"
+    },
+    {
+      "title": "Regra de segregação patrimonial em cripto ainda gera muita dúvida, diz executiva",
+      "summary": "Diretora de compliance da Lumx fala sobre pontos aos quais as empresas cripto devem se atentar na regulação",
+      "source": "Exame",
+      "url": "https://exame.com/future-of-money/regra-de-segregacao-patrimonial-em-cripto-ainda-gera-muita-duvida-diz-executiva/",
+      "time": "2026-06-15T18:42:16Z",
+      "cat": "cripto",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/05/kanchanara-ow-rGjlqJkM-unsplash.jpg"
+    },
+    {
+      "title": "Musk sofre derrota na Justiça em ação da xAI contra OpenAI",
+      "summary": "Juíza da Califórnia encerra processo por falta de provas e impede novas tentativas da empresa de Elon Musk contra a rival",
+      "source": "Exame",
+      "url": "https://exame.com/inteligencia-artificial/musk-sofre-derrota-na-justica-em-acao-da-xai-contra-openai/",
+      "time": "2026-06-15T18:41:18Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2023/02/DSC2575.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/GettyImages-2273017525.jpg"
     },
     {
-      "title": "Ações da PN Smart Energy sobem com mudança de nome da Skycorp Solar",
+      "title": "Xbox pode perder três estúdios premiados em nova reestruturação",
+      "summary": "Estúdios responsáveis por Hellblade, Psychonauts e South of Midnight tentam evitar o fechamento em meio à reestruturação liderada por Asha Sharma",
+      "source": "Exame",
+      "url": "https://exame.com/tecnologia/xbox-pode-perder-tres-estudios-premiados-em-nova-reestruturacao/",
+      "time": "2026-06-15T18:24:11Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2025/07/GettyImages-1811537173.jpg"
+    },
+    {
+      "title": "Huntington Ingalls recebe modificação de contrato de US$ 44,1 milhões da Marinha",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-pn-smart-energy-sobem-com-mudanca-de-nome-da-skycorp-solar-93CH-1973844",
-      "time": "2026-06-15T20:41:56Z",
+      "url": "https://br.investing.com/news/stock-market-news/huntington-ingalls-recebe-modificacao-de-contrato-de-us-441-milhoes-da-marinha-93CH-1973919",
+      "time": "2026-06-15T21:35:22Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Ações de destaque no setor aeroespacial comercial, segundo a Jefferies",
+      "title": "México - Ações fecharam o pregão em alta e o Índice S&P/BMV IPC avançou 0,37%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-de-destaque-no-setor-aeroespacial-comercial-segundo-a-jefferies-93CH-1973823",
-      "time": "2026-06-15T20:34:36Z",
+      "url": "https://br.investing.com/news/stock-market-news/mexico--acoes-fecharam-o-pregao-em-alta-e-o-indice-spbmv-ipc-avancou-037-1973915",
+      "time": "2026-06-15T21:30:20Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+      "image": "https://i-invdn-com.investing.com/news/Mexican_Stock_Exchange_M_1440056300.jpg"
     },
     {
-      "title": "E.U.A. - Ações fecharam o pregão em alta e o Índice Dow Jones Industrial Average avançou 0,92%",
+      "title": "Rússia - Ações fecharam o pregão em alta e o Índice MOEX Russia Index avançou 1,07%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/eua--acoes-fecharam-o-pregao-em-alta-e-o-indice-dow-jones-industrial-average-avancou-092-1973817",
-      "time": "2026-06-15T20:31:31Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB301JO_M.jpg"
-    },
-    {
-      "title": "Canadá - Ações fecharam o pregão em alta e o Índice S&P/TSX avançou 0,97%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/canada--acoes-fecharam-o-pregao-em-alta-e-o-indice-sptsx-avancou-097-1973815",
-      "time": "2026-06-15T20:30:45Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB7Q0U9_M.jpg"
-    },
-    {
-      "title": "Brasil - Ações fecharam o pregão em queda e o Índice Bovespa recuou 0,42%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/brasil--acoes-fecharam-o-pregao-em-queda-e-o-indice-bovespa-recuou-042-1973814",
-      "time": "2026-06-15T20:30:19Z",
+      "url": "https://br.investing.com/news/stock-market-news/russia--acoes-fecharam-o-pregao-em-alta-e-o-indice-moex-russia-index-avancou-107-1973900",
+      "time": "2026-06-15T21:20:21Z",
       "cat": "internacional",
       "tickers": [],
       "image": null
     },
     {
-      "title": "Ações da Adaptive Biotechnologies caem com plano de dívida conversível",
+      "title": "S&P eleva rating da Viavi Solutions para BB após pagamento de dívida",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-adaptive-biotechnologies-caem-com-plano-de-divida-conversivel-93CH-1973812",
-      "time": "2026-06-15T20:27:02Z",
+      "url": "https://br.investing.com/news/stock-market-news/sp-eleva-rating-da-viavi-solutions-para-bb-apos-pagamento-de-divida-93CH-1973896",
+      "time": "2026-06-15T21:17:09Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Ações da Macerich caem após anúncio de oferta pública de ações",
+      "title": "Por que as ações da Intellia Therapeutics disparam hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-macerich-caem-apos-anuncio-de-oferta-publica-de-acoes-93CH-1973782",
-      "time": "2026-06-15T20:17:10Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Por que as ações da Dave & Buster’s estão caindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-dave--busters-estao-caindo-hoje-93CH-1973735",
-      "time": "2026-06-15T20:02:21Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-intellia-therapeutics-disparam-hoje-93CH-1973870",
+      "time": "2026-06-15T21:00:27Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "15/06/2026 20:55"
+  "atualizado_em": "15/06/2026 23:02"
 }
