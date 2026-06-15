@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Revisão de Artigos — Bom Dia Investidor</title>
+<style>
+  body { font-family: 'Inter', Arial, sans-serif; background: #f3f4f6; margin: 0; padding: 24px; color: #1a1a1a; }
+  h1 { font-size: 22px; margin-bottom: 4px; }
+  .hint { color: #666; font-size: 13px; margin-bottom: 24px; }
+  .card { background: #fff; border-radius: 12px; padding: 24px; margin-bottom: 24px; box-shadow: 0 1px 4px rgba(0,0,0,.08); }
+  .meta { font-size: 12px; color: #888; margin-bottom: 8px; }
+  .titulo { font-size: 20px; font-weight: 800; margin-bottom: 12px; }
+  .corpo p { font-size: 15px; line-height: 1.7; margin: 0 0 14px; }
+  .fonte { font-size: 13px; color: #555; border-top: 1px solid #eee; padding-top: 10px; margin-top: 10px; }
+  .fonte a { color: #2563eb; }
+  .acoes { margin-top: 16px; display: flex; gap: 10px; }
+  button { border: none; border-radius: 8px; padding: 10px 18px; font-size: 14px; font-weight: 600; cursor: pointer; }
+  .aprovar { background: #16a34a; color: #fff; }
+  .rejeitar { background: #dc2626; color: #fff; }
+  .status { font-size: 13px; font-weight: 700; margin-top: 10px; }
+  .empty { text-align: center; color: #888; padding: 60px 0; }
+</style>
+</head>
+<body>
+<h1>Revisão de artigos pendentes</h1>
+<p class="hint">Estes artigos NÃO estão no site. Marque "Aprovar" ou "Rejeitar" e me avise (Claude) qual decisão tomou em cada um.</p>
+<div id="lista"></div>
+
+<script>
+fetch('./artigos_pendentes.json?t=' + Date.now())
+  .then(r => r.json())
+  .then(data => {
+    const lista = document.getElementById('lista');
+    const urls = Object.keys(data);
+    if (!urls.length) {
+      lista.innerHTML = '<div class="empty">Nenhum artigo pendente.</div>';
+      return;
+    }
+    lista.innerHTML = urls.map((url, i) => {
+      const a = data[url];
+      const paragrafos = a.corpo.split('\n\n').map(p => `<p>${p.trim()}</p>`).join('');
+      return `<div class="card">
+        <div class="meta">${a.cat} · gerado por ${a.gerado_por} · ${a.gerado_em}</div>
+        <div class="titulo">${a.titulo}</div>
+        <div class="corpo">${paragrafos}</div>
+        <div class="fonte">Fonte: ${a.fonte} — <a href="${a.fonte_url}" target="_blank" rel="noopener">ver original</a></div>
+        <div class="acoes">
+          <button class="aprovar" onclick="marcar(${i}, 'APROVADO')">✅ Aprovar</button>
+          <button class="rejeitar" onclick="marcar(${i}, 'REJEITADO')">❌ Rejeitar</button>
+        </div>
+        <div class="status" id="status-${i}"></div>
+      </div>`;
+    }).join('');
+  })
+  .catch(() => {
+    document.getElementById('lista').innerHTML = '<div class="empty">Não consegui carregar artigos_pendentes.json (abra esta página via servidor local, não com duplo-clique).</div>';
+  });
+
+function marcar(i, status) {
+  document.getElementById('status-' + i).textContent =
+    status === 'APROVADO' ? '✅ Marcado como aprovado — avise o Claude.' : '❌ Marcado como rejeitado — avise o Claude.';
+}
+</script>
+</body>
+</html>
