@@ -40,15 +40,15 @@
 </head>
 <body>
 
-<!-- LOGIN GATE -->
+<!-- NEWSLETTER (opcional, não bloqueia conteúdo) -->
 <div class="login-overlay" id="loginGate" style="display:none;">
-  <button class="login-close-btn" onclick="closeLoginGate();switchPage('noticias');" title="Fechar">✕</button>
+  <button class="login-close-btn" onclick="closeLoginGate();" title="Fechar">✕</button>
   <div class="login-container">
     <div class="login-brand">Convexa<span class="login-brand-accent">News</span></div>
     <div class="login-subtitle">Mercado financeiro em tempo real</div>
     <div class="login-box">
-      <h3>Acesse o portal</h3>
-      <p>Cadastre-se para acompanhar cotações, notícias e análises</p>
+      <h3>Receba nossas análises</h3>
+      <p>Cadastre-se gratuitamente para receber conteúdos e análises sobre o mercado por e-mail</p>
 
       <form id="loginForm" onsubmit="return handleLogin(event)" novalidate>
         <div class="login-field">
@@ -68,7 +68,7 @@
           <span>Concordo em receber conteúdos sobre o mercado financeiro e aceito a
           <a href="privacidade.html" target="_blank" rel="noopener">Política de Privacidade</a> (LGPD).</span>
         </label>
-        <button class="login-submit" type="submit" id="loginBtn">Entrar</button>
+        <button class="login-submit" type="submit" id="loginBtn">Cadastrar</button>
       </form>
       <div class="login-error" id="loginError" style="display:none;">Erro ao registrar. Tente novamente.</div>
     </div>
@@ -117,7 +117,7 @@
       <button class="search-btn" title="Buscar ativo (atalho: /)" onclick="openSearch()">
         <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><circle cx="7" cy="7" r="5"/><path d="m11 11 3.5 3.5"/></svg>
       </button>
-      <button class="access-btn" onclick="requireLogin()">Acessar</button>
+      <button class="access-btn" onclick="requireLogin()">Newsletter</button>
     </div>
   </div>
 </header>
@@ -390,7 +390,10 @@
     <span class="logo-text" style="font-size:18px;">Convexa<span class="logo-accent">News</span></span>
     <p class="footer-disclaimer">Dados com atraso de 15 minutos. Para fins informativos apenas. Não constitui recomendação de investimento.</p>
     <div class="footer-links">
+      <a href="sobre.html">Sobre</a>
       <a href="privacidade.html">Privacidade</a>
+      <a href="termos.html">Termos de Uso</a>
+      <a href="contato.html">Contato</a>
       <a href="#/indicadores">Indicadores</a>
     </div>
     <p class="footer-copy">© 2026 Convexa Investimentos</p>

@@ -1304,7 +1304,9 @@ function renderAnalyses() {
 // Para forçar re-login de todos os usuários, incremente este número
 const LOGIN_VERSION = 1;
 const SHEETS_URL = 'https://script.google.com/macros/s/AKfycbwrzREM1n8exDkGWLrnxAZJds3p7JccVyPS_nrO-UbMuWMYwh-d2sIt5bj4TtF6if8/exec';
-const GATED_PAGES = ['acoes', 'fiis', 'etfs', 'internacional', 'cripto', 'indicadores', 'analises'];
+// Nenhuma seção é bloqueada por cadastro — todo o conteúdo é aberto.
+// O formulário do "loginGate" agora é apenas uma newsletter opcional.
+const GATED_PAGES = [];
 
 function isLoggedIn() {
   const saved = localStorage.getItem('convexanews_login');
@@ -1383,13 +1385,9 @@ function updateAccessBtn() {
   const btn = document.querySelector('.access-btn');
   if (!btn) return;
   if (isLoggedIn()) {
-    try {
-      const data = JSON.parse(localStorage.getItem('convexanews_login'));
-      const firstName = (data.name || '').split(' ')[0];
-      btn.textContent = `Olá, ${firstName}`;
-      btn.onclick = null;
-      btn.style.cursor = 'default';
-    } catch {}
+    btn.textContent = '✓ Inscrito';
+    btn.onclick = null;
+    btn.style.cursor = 'default';
   }
 }
 

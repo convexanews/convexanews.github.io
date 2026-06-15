@@ -6,7 +6,22 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://convexanews.github.io/sobre.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
     <loc>https://convexanews.github.io/privacidade.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  <url>
+    <loc>https://convexanews.github.io/termos.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  <url>
+    <loc>https://convexanews.github.io/contato.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.2</priority>
   </url>
