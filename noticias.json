@@ -1,170 +1,74 @@
 {
   "headline": {
-    "title": "Ibovespa tem nova queda com Petrobras (PETR4) e no aguardo da ‘Super Quarta’; dólar sobe a R$ 5,08",
-    "summary": "O Ibovespa (IBOV) estendeu as perdas da véspera com tombo do petróleo, novas pesquisas eleitorais e expectativa pela decisão de juros no Brasil e nos Estados Unidos. Nesta terça-feira (16), o principal índice da bolsa br",
-    "source": "Money Times",
-    "url": "https://www.moneytimes.com.br/ibovespa-16-6-26-lils/",
-    "time": "2026-06-16T20:28:27Z",
+    "title": "Superquarta sem festa? Analistas veem Fed travado e Copom ainda sob pressão",
+    "summary": "O Fed e Copom chegam à Superquarta em meio a um alívio nos mercados globais, após sinais de solução entre Washington e Teerã reduzirem a pressão sobre o petróleo. Mas, para analistas, esse respiro ainda não muda o cenári",
+    "source": "Suno",
+    "url": "https://www.suno.com.br/noticias/copom-fed-superquarta-juros-selic-analistas-mt/",
+    "time": "2026-06-16T18:05:00Z",
     "cat": "economia",
-    "tickers": [
-      "PETR4"
-    ],
-    "image": "https://www.moneytimes.com.br/uploads/2026/06/mercado-morning-ibovespa-wall-street-1.jpg"
+    "tickers": [],
+    "image": null
   },
   "featured": [
     {
-      "title": "Ibovespa cai com Petrobras e dólar sobe para R$ 5,08 às vésperas da superquarta",
-      "summary": "Pela 1ª vez desde março, o petróleo ficou abaixo dos US$ 80 diante do acordo EUA-Irã",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/ibovespa-cai-com-petrobras-e-dolar-sobe-para-r-508-as-vesperas-da-superquarta/",
-      "time": "2026-06-16T17:42:01Z",
-      "cat": "economia",
+      "title": "Ações da McGraw Hill disparam após compra de insider",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-mcgraw-hill-disparam-apos-compra-de-insider-93CH-1975327",
+      "time": "2026-06-16T21:51:29Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2020/11/DSC2655bx.jpg"
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Petrobras, pesquisa eleitoral e política monetária: o que fez o Ibovespa cair 0,45%",
-      "summary": "Braskem liderou as perdas, pressionada pela decisão da Justiça de Alagoas de tornar a petroquímica \"ré\"",
+      "title": "Dia encerra processo de recuperação judicial antes do prazo e mira expansão no Brasil",
+      "summary": "Segundo a companhia, a antecipação foi possível após o cumprimento de 100% das metas e compromissos estabelecidos no processo de recuperação",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-volta-a-trabalhar-abaixo-de-170-mil-pontos-com-nova-pressao-de-petrobras/",
-      "time": "2026-06-16T21:03:36Z",
+      "url": "https://www.infomoney.com.br/business/dia-encerra-processo-de-recuperacao-judicial-antes-do-prazo-e-mira-expansao-no-brasil/",
+      "time": "2026-06-16T22:38:05Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/acoes-59.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/loja-dia-supermercados.jpg?fit=300%2C198&amp;quality=70&amp;strip=all"
     }
   ],
   "all": [
     {
-      "title": "CVM suspende oferta de fundo de infraestrutura do Bradesco",
-      "summary": "Superintendência apontou que a oferta foi iniciada sem o cumprimento de requisitos obrigatórios e com irregularidades na divulgação de documentos",
+      "title": "Dia encerra processo de recuperação judicial antes do prazo e mira expansão no Brasil",
+      "summary": "Segundo a companhia, a antecipação foi possível após o cumprimento de 100% das metas e compromissos estabelecidos no processo de recuperação",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/cvm-suspende-oferta-de-fundo-de-infraestrutura-do-bradesco/",
-      "time": "2026-06-16T21:14:54Z",
+      "url": "https://www.infomoney.com.br/business/dia-encerra-processo-de-recuperacao-judicial-antes-do-prazo-e-mira-expansao-no-brasil/",
+      "time": "2026-06-16T22:38:05Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/11/CVM.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/loja-dia-supermercados.jpg?fit=300%2C198&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "SpaceX bate Amazon em valor de mercado ao subir mais de 4%, com US$ 2,65 tri",
-      "summary": "Se o movimento se mantiver ao longo do dia, o valor de mercado da empresa de foguetes e inteligência artificial de Elon Musk subiria para mais de US$ 2,7 trilhões",
+      "title": "Anvisa cria grupo para acompanhar investigação sobre vacina da dengue do Butantan",
+      "summary": "Painel consultivo vai reunir especialistas para consolidar evidências sobre a Butantan-DV após suspensão preventiva do imunizante",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/spacex-pode-chegar-a-us-27-tri-e-bater-amazon-em-valor-ao-subir-pelo-3o-dia-seguido/",
-      "time": "2026-06-16T21:07:35Z",
+      "url": "https://www.infomoney.com.br/saude/anvisa-cria-grupo-para-acompanhar-investigacao-sobre-vacina-da-dengue-do-butantan/",
+      "time": "2026-06-16T21:43:12Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/kennedy.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/vacinadenguebutantan.webp?fit=300%2C176&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Por unanimidade, STF condena Eduardo Bolsonaro a 4 anos e 2 meses por coação",
-      "summary": "Primeira Turma formou maioria para condenar ex-deputado por atuação voltada a influenciar processos ligados à trama golpista e ao julgamento de Jair Bolsonaro",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/eduardo-bolsonaro-comeca-a-ser-julgado-no-stf-pgr-pede-condenacao/",
-      "time": "2026-06-16T21:06:41Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/4D-1-DONALD-TRUMP-EDUARDO-BOLSONARO-JAIR-BOLSONARO-INSTAGRAM-1.jpg.jpeg?fit=300%2C169&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Petrobras, pesquisa eleitoral e política monetária: o que fez o Ibovespa cair 0,45%",
-      "summary": "Braskem liderou as perdas, pressionada pela decisão da Justiça de Alagoas de tornar a petroquímica \"ré\"",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-volta-a-trabalhar-abaixo-de-170-mil-pontos-com-nova-pressao-de-petrobras/",
-      "time": "2026-06-16T21:03:36Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/acoes-59.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Dow Jones marca novo recorde intradiário, mas NY fecha sem direção definida",
-      "summary": "O Dow Jones fechou em alta de 0,64%, ao nível inédito de 51.999 67 pontos, depois de renovar máxima histórica a 52.190,29 pontos",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/dow-jones-marca-novo-recorde-intradiario-com-petroleo-em-queda-e-spacex-disparando/",
-      "time": "2026-06-16T20:54:12Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/2024-08-21T202205Z_1_LYNXMPEK7K0OP_RTROPTP_3_WALLST-FECHA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "ANP aprova pagamento de R$740 mi à Petrobras (PETR4) referente à 1ª fase do subsídio ao diesel",
-      "summary": "A Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) aprovou o pagamento à Petrobras (PETR4) de aproximadamente R$740 milhões referente ao primeiro período do programa de subvenção econômica à comercializa",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/anp-aprova-pagamento-de-r740-mi-a-petrobras-petr4-referente-a-1a-fase-do-subsidio-ao-diesel/",
-      "time": "2026-06-16T21:22:38Z",
-      "cat": "acoes",
-      "tickers": [
-        "PETR4"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/08/petrobras-dividendos-2-1-1.jpg"
-    },
-    {
-      "title": "Taxas de DIs sobem à espera de corte na Selic para 14,25%",
-      "summary": "A curva de juros futuros interrompeu a sequência de quatro quedas consecutivas e fechou em alta nos principais vértices na expectativa pelas decisões de juros nos Estados Unidos e no Brasil. A taxa de Depósito Interfinan",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/taxas-de-dis-juros-futuros-16-6-26-lils/",
-      "time": "2026-06-16T21:15:54Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/02/juros.jpg"
-    },
-    {
-      "title": "Por unanimidade, STF condena Eduardo Bolsonaro por coação em processo sobre tentativa de golpe",
-      "summary": "A Primeira Turma do Supremo Tribunal Federal (STF) decidiu, por unanimidade, condenar o ex-deputado federal Eduardo Bolsonaro (PL-SP) por coação ao Judiciário no curso do processo da tentativa de golpe que julgou e també",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/por-unanimidade-stf-condena-eduardo-bolsonaro-por-coacao-em-processo-sobre-tentativa-de-golpe-gaep/",
-      "time": "2026-06-16T20:44:33Z",
+      "title": "SNEL11 negocia mais de R$ 10 mi enquanto IPO da SpaceX reforça tese energética",
+      "summary": "O fundo imobiliário SNEL11 voltou a ganhar destaque na B3 ao somar mais de R$ 10,3 milhões em negociações nesta terça-feira (16), repetindo o forte volume observado no pregão anterior. O interesse ocorre em um momento em",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/snel11-negocia-mais-de-r-10-mi-enquanto-ipo-da-spacex-reforca-tese-energetica/",
+      "time": "2026-06-16T22:05:17Z",
       "cat": "acoes",
       "tickers": [],
       "image": null
     },
     {
-      "title": "Estrela (ESTR3): Justiça aceita pedido e companhia entra em recuperação judicial",
-      "summary": "A tradicional fabricante de brinquedos Estrela (ESTR3) informou nesta terça-feira (16) que teve aprovado pela Justiça o processamento de seu pedido de recuperação judicial, juntamente com outras sete empresas que integra",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/estrela-estr3-justica-aceita-pedido-e-companhia-entra-em-recuperacao-judicial/",
-      "time": "2026-06-16T20:43:26Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Ibovespa tem nova queda com Petrobras (PETR4) e no aguardo da ‘Super Quarta’; dólar sobe a R$ 5,08",
-      "summary": "O Ibovespa (IBOV) estendeu as perdas da véspera com tombo do petróleo, novas pesquisas eleitorais e expectativa pela decisão de juros no Brasil e nos Estados Unidos. Nesta terça-feira (16), o principal índice da bolsa br",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ibovespa-16-6-26-lils/",
-      "time": "2026-06-16T20:28:27Z",
-      "cat": "economia",
-      "tickers": [
-        "PETR4"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/06/mercado-morning-ibovespa-wall-street-1.jpg"
-    },
-    {
-      "title": "Wall Street fecha sem direção única com acordo entre EUA e Irã em foco; Dow Jones renova recordes",
-      "summary": "Os índices de Wall Street encerraram o pregão desta terça-feira (16) em tom misto com os investidores reagindo a novas declarações sobre o acordo entre Estados Unidos e Irã. Durante o pregão, o Dow Jones superou os 52 mi",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/wall-street-16-6-26-lils/",
-      "time": "2026-06-16T20:10:39Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/01/wall-street-nasdaq-sp-500-dow-jones-eua-estados-unidos.jpg"
-    },
-    {
-      "title": "Dólar sobe a R$ 5,08 à espera da ‘Super Quarta’",
-      "summary": "O dólar à vista encerrou o pregão em alta com expectativa para a Super Quarta, apesar do alívio nas tensões geopolíticas. Nesta terça-feira (16), o dólar à vista terminou as negociações a R$ 5,0867, com alta de 0,39%. O ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/dolar-16-6-26-lils/",
-      "time": "2026-06-16T20:02:21Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/09/istock-465079218-e1744307084463.jpg"
-    },
-    {
-      "title": "Joaquim Barbosa cria redes sociais e admite possibilidade de se lançar à Presidência da República",
-      "summary": "O ex-ministro do Supremo Tribunal Federal (STF) Joaquim Barbosa (DC) criou perfis em diferentes redes sociais e admitiu que estuda a possibilidade concorrer ao Palácio do Planalto. Estou estudando a possibilidade de, che",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/joaquim-barbosa-cria-redes-sociais-e-diz-estudar-a-possibilidade-de-se-lancar-a-presidencia-gaep/",
-      "time": "2026-06-16T19:46:34Z",
-      "cat": "acoes",
+      "title": "IFIX recua para 3.824,21 pontos e fecha em queda de 0,23%",
+      "summary": "O IFIX fechou o pregão desta terça-feira (16) em 3.824,21 pontos, queda de 0,23% — retração de 8,94 pontos ante o encerramento anterior, quando marcara 3.833,15 pontos. Ao longo do dia, o principal índice de fundos imobi",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ifix-recua-para-3-82421-pontos-e-fecha-em-queda-de-023/",
+      "time": "2026-06-16T22:05:09Z",
+      "cat": "fundos",
       "tickers": [],
       "image": null
     },
@@ -211,46 +115,114 @@
       "image": null
     },
     {
-      "title": "Petrobras (PETR4) paga JCP com “bônus” da Selic; veja valor por ação",
-      "summary": "Petrobras (PETR4) paga JCP com “bônus” da Selic; veja valor por açãoA Petrobras (PETR4) informou que pagará, em 22 de junho de 2026, a segunda parcela da remuneração aos acionistas relativa ao quarto trimestre de 2025. O",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/petrobras-petr4-jcp-selic-dividendos-mt/",
-      "time": "2026-06-16T15:15:00Z",
+      "title": "Copa do Mundo: veja quais seleções os principais craques da Liga dos Campeões defendem",
+      "summary": "Aos poucos, o futebol europeu mudou seus protagonistas e esses novos craques chegam para o Mundial buscando protagonismo, como brilham na Champions League",
+      "source": "Exame",
+      "url": "https://exame.com/esporte/copa-do-mundo-veja-quais-selecoes-os-principais-craques-da-liga-dos-campeoes-defendem/",
+      "time": "2026-06-16T19:56:20Z",
       "cat": "economia",
-      "tickers": [
-        "PETR4"
-      ],
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/lamine-yamal-spain-world-cup.jpg"
+    },
+    {
+      "title": "Nova série de Harlan Coben chega à Netflix e promete ser o suspense da semana",
+      "summary": "Série acompanha um pai condenado por assassinato que descobre que o filho pode estar vivo",
+      "source": "Exame",
+      "url": "https://exame.com/pop/nova-serie-de-harlan-coben-chega-a-netflix-e-promete-ser-o-suspense-da-semana/",
+      "time": "2026-06-16T19:29:45Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/eu-vou-te-encontrar-netflix-1.webp"
+    },
+    {
+      "title": "Anac anuncia novas regras para operação de drones no Brasil e abre caminho para serviços de entrega",
+      "summary": "Mudanças nas regras substituem norma em vigor desde 2017 e redefinem exigências para voos comerciais e profissionais",
+      "source": "Exame",
+      "url": "https://exame.com/brasil/anac-anuncia-novas-regras-para-operacao-de-drones-no-brasil-e-abre-caminho-para-servicos-de-entrega/",
+      "time": "2026-06-16T19:22:48Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/02/Copia-de-Drone-iFood_7-1.jpg"
+    },
+    {
+      "title": "Dia Supermercados sai da recuperação judicial dois anos após rombo de R$ 1,1 bi",
+      "summary": "Rede conclui reestruturação antes do prazo, com 238 lojas revitalizadas em São Paulo e novo ciclo de expansão via franquias",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/dia-supermercados-sai-da-recuperacao-judicial-dois-anos-apos-rombo-de-r-11-bi/",
+      "time": "2026-06-16T18:54:54Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2020/10/IMG_20201026_120444560.jpg"
+    },
+    {
+      "title": "Argentina x Argélia: onde assistir ao vivo, horário e prováveis escalações na Copa",
+      "summary": "Messi pode ampliar recorde de jogos em Mundiais em sua sexta participação no torneio",
+      "source": "Exame",
+      "url": "https://exame.com/esporte/argentina-x-argelia-onde-assistir-ao-vivo-horario-e-provaveis-escalacoes/",
+      "time": "2026-06-16T18:48:03Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/CopadoMundo-Argentina-x-Argelia.png"
+    },
+    {
+      "title": "S&P eleva rating da Scotts Miracle-Gro com melhora nas métricas",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/sp-eleva-rating-da-scotts-miraclegro-com-melhora-nas-metricas-93CH-1975330",
+      "time": "2026-06-16T22:00:40Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Ações da McGraw Hill disparam após compra de insider",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-mcgraw-hill-disparam-apos-compra-de-insider-93CH-1975327",
+      "time": "2026-06-16T21:51:29Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "México - Ações fecharam o pregão em alta e o Índice S&P/BMV IPC avançou 0,40%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/mexico--acoes-fecharam-o-pregao-em-alta-e-o-indice-spbmv-ipc-avancou-040-1975302",
+      "time": "2026-06-16T21:30:18Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPED8P25V_M.jpg"
+    },
+    {
+      "title": "Colômbia - Ações fecharam o pregão em queda e o Índice COLCAP recuou 0,65%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/colombia--acoes-fecharam-o-pregao-em-queda-e-o-indice-colcap-recuou-065-1975294",
+      "time": "2026-06-16T21:25:19Z",
+      "cat": "fundos",
+      "tickers": [],
       "image": null
     },
     {
-      "title": "SpaceX compra startup de IA por US$ 60 bilhões; ações sobem",
-      "summary": "SpaceX compra startup de IA por US$ 60 bilhões; ações sobemA SpaceX (NASDAQ: SPCX) anunciou nesta terça-feira (16) a aquisição da Anysphere, empresa responsável pelo agente de programação por inteligência artificial Curs",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/spacex-compra-startup-ia-cursor-us-60-bilhoes-acoes-sobem-go/",
-      "time": "2026-06-16T14:28:00Z",
-      "cat": "acoes",
+      "title": "Csquare abre capital na bolsa de Nova York sob o ticker CSQR",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/csquare-abre-capital-na-bolsa-de-nova-york-sob-o-ticker-csqr-1975296",
+      "time": "2026-06-16T21:24:42Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": null
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Lei Maria Eduarda: Projeto cria regras para rope jumping, bungee e rapel após morte de jovem",
-      "summary": "Texto prevê dupla checagem, seguros obrigatórios e comunicação de acidentes graves em até 24 horas",
-      "source": "Exame",
-      "url": "https://exame.com/brasil/lei-maria-eduarda-projeto-cria-regras-para-rope-jumping-bungee-e-rapel-apos-morte-de-jovem/",
-      "time": "2026-06-16T17:54:42Z",
-      "cat": "economia",
+      "title": "Rússia - Ações fecharam o pregão em queda e o Índice MOEX Russia Index recuou 1,95%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/russia--acoes-fecharam-o-pregao-em-queda-e-o-indice-moex-russia-index-recuou-195-1975281",
+      "time": "2026-06-16T21:20:19Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/Lei-Maria-Eduarda-Rodrigues-de-Freitas.jpg"
-    },
-    {
-      "title": "Ibovespa cai com Petrobras e dólar sobe para R$ 5,08 às vésperas da superquarta",
-      "summary": "Pela 1ª vez desde março, o petróleo ficou abaixo dos US$ 80 diante do acordo EUA-Irã",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/ibovespa-cai-com-petrobras-e-dolar-sobe-para-r-508-as-vesperas-da-superquarta/",
-      "time": "2026-06-16T17:42:01Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2020/11/DSC2655bx.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB0I0LJ_M.jpg"
     },
     {
       "title": "McDermott manteve operações em projeto de gás do Catar durante guerra com o Irã",
@@ -261,87 +233,7 @@
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Por que as ações da Moderna estão disparando hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-moderna-estao-disparando-hoje-93CH-1975241",
-      "time": "2026-06-16T21:00:36Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "SpaceX ultrapassa Amazon.com e rivaliza com Microsoft em valor de mercado",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/spacex-ultrapassa-amazoncom-e-rivaliza-com-microsoft-em-valor-de-mercado-1975243",
-      "time": "2026-06-16T20:59:39Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Por que as ações da La-Z-Boy estão disparando hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-lazboy-estao-disparando-hoje-93CH-1975234",
-      "time": "2026-06-16T20:59:27Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Café arábica dispara por problemas climáticos; açúcar e cacau também registram alta",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/cafe-arabica-dispara-por-problemas-climaticos-acucar-e-cacau-tambem-registram-alta-1975233",
-      "time": "2026-06-16T20:56:58Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5F1R6_1200_L.jpg"
-    },
-    {
-      "title": "ANP aprova pagamento de R$740 mi à Petrobras referente à 1ª fase do subsídio ao diesel",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/commodities-news/anp-aprova-pagamento-de-r740-mi-a-petrobras-referente-a-1a-fase-do-subsidio-ao-diesel-1975092",
-      "time": "2026-06-16T20:56:32Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5F1MQ_1200_L.jpg"
-    },
-    {
-      "title": "Por que as ações da Gildan Activewear estão despencando hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-gildan-activewear-estao-despencando-hoje-93CH-1975230",
-      "time": "2026-06-16T20:55:24Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Ibovespa recua e fecha abaixo de 170 mil pontos pressionado por Petrobras",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-recua-e-fecha-abaixo-de-170-mil-pontos-pressionado-por-petrobras-1975136",
-      "time": "2026-06-16T20:49:08Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Reviravolta: ações da Lionsgate despencam após Netflix negar planos de aquisição",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/reviravolta-acoes-da-lionsgate-despencam-apos-netflix-negar-planos-de-aquisicao-1975222",
-      "time": "2026-06-16T20:41:47Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "16/06/2026 21:26"
+  "atualizado_em": "16/06/2026 23:05"
 }
