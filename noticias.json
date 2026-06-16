@@ -1,30 +1,17 @@
 {
   "headline": {
-    "title": "Ibovespa segue tombo de Petrobras (PETR4) e recua; dólar sobe a R$ 5,06",
-    "summary": "O Ibovespa (IBOV) destoou do tom positivo de Wall Street no primeiro pregão da semana, com a queda do petróleo puxando a Petrobras (PETR3;PETR4) para baixo. A petroleira detém cerca de 12% de participação no índice. Nest",
-    "source": "Money Times",
-    "url": "https://www.moneytimes.com.br/ibovespa-15-6-26-apsa/",
-    "time": "2026-06-15T20:26:05Z",
+    "title": "Ibovespa cai com tombo da Petrobras (PETR4) e inflação no radar do mercado",
+    "summary": "O Ibovespa destoou do tom positivo observado em Wall Street e encerrou o pregão desta segunda-feira (15) em queda de 0,42%, aos 170.415,13 pontos. O principal índice da Bolsa brasileira foi pressionado pelo forte recuo d",
+    "source": "Suno",
+    "url": "https://www.suno.com.br/noticias/ibovespa-cai-petrobras-petr4-focus-radar-mt/",
+    "time": "2026-06-15T21:25:07Z",
     "cat": "economia",
     "tickers": [
-      "PETR4",
-      "PETR3"
+      "PETR4"
     ],
-    "image": "https://www.moneytimes.com.br/uploads/2026/06/mercado-morning-ibovespa-wall-street-2.jpg"
+    "image": null
   },
   "featured": [
-    {
-      "title": "Ibovespa cai com tombo da Petrobras (PETR4) e inflação no radar do mercado",
-      "summary": "O Ibovespa destoou do tom positivo observado em Wall Street e encerrou o pregão desta segunda-feira (15) em queda de 0,42%, aos 170.415,13 pontos. O principal índice da Bolsa brasileira foi pressionado pelo forte recuo d",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/ibovespa-cai-petrobras-petr4-focus-radar-mt/",
-      "time": "2026-06-15T21:25:07Z",
-      "cat": "economia",
-      "tickers": [
-        "PETR4"
-      ],
-      "image": null
-    },
     {
       "title": "Taxas de DIs caem e curva de juros volta a precificar corte na Selic na próxima decisão do Copom",
       "summary": "A curva de juros futuros engatou o quarto dia de quedas consecutivas com alívio nas tensões geopolíticas, em meio à piora das projeções de economistas para os principais indicadores macroeconômicos domésticos. A taxa de ",
@@ -34,38 +21,48 @@
       "cat": "economia",
       "tickers": [],
       "image": "https://www.moneytimes.com.br/uploads/2025/05/designs-leonardo-2025-05-30t135244.511.jpg"
+    },
+    {
+      "title": "Vai pingar: Itaúsa (ITSA4) pagará bolada de R$ 1,5 bilhão em juros sobre capital próprio; veja como aproveitar",
+      "summary": "A Itaúsa (ITSA4) aprovou o pagamento de R$ 1,5 bilhão em juros sobre o capital próprio, mostra documento enviado ao mercado nesta segunda-feira (15). Segundo o documento, o valor por ação será de R$ 0,138. Considerando o",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/vai-pingar-itausa-itsa4-pagara-bolada-de-r-15-bilhao-em-juros-sobre-capita-proprio-veja-como-aproveitar-rnda/",
+      "time": "2026-06-15T21:20:11Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2024/08/itausa-itsa4.webp"
     }
   ],
   "all": [
     {
-      "title": "8 tripulantes são considerados mortos em queda de bombardeiro B-52 na Califórnia",
-      "summary": "O bombardeiro B-52 Stratofortress sofreu um acidente logo após decolar da Base Aérea de Edwards, segundo um comunicado militar",
+      "title": "Bolívia anuncia unificação cambial e acordo com o FMI próximo; protestos perdem força",
+      "summary": "Enquanto isso, simpatizantes do ex-presidente boliviano Evo Morales anunciaram hoje que intensificarão os protestos sociais exigindo a renúncia do presidente Rodrigo Paz",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mundo/8-tripulantes-sao-considerados-mortos-em-queda-de-bombardeiro-b-52-na-california/",
-      "time": "2026-06-15T22:31:07Z",
+      "url": "https://www.infomoney.com.br/mundo/bolivia-anuncia-unificacao-cambial-e-acordo-com-o-fmi-proximo-protestos-perdem-forca/",
+      "time": "2026-06-16T01:22:04Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-15T212730Z_326493480_RC2EULAKQF65_RTRMADP_3_USA-CRASH.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-06T203310Z_490810036_RC2BOLAW3IYC_RTRMADP_3_BOLIVIA-PROTEST.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Brasileiro perde, em média, R$ 11 mil por golpe digital e Geração Z é a maior vítima",
-      "summary": "Mais expostos a redes sociais, jogos online e criptomoedas, os nativos digitais aparecem como os mais vulneráveis a esquemas de fraude baseados em confiança",
+      "title": "Lotofácil hoje, concurso 3711: Confira o resultado sorteado nesta segunda (15)",
+      "summary": "O prêmio estimado para este concurso era de R$ 2 milhões",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/minhas-financas/prejuizo-com-fraudes-digitais-dispara-60-no-brasil-e-geracao-z-e-a-maior-vitima/",
-      "time": "2026-06-15T22:16:20Z",
+      "url": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3711-confira-o-resultado-sorteado-nesta-segunda-15/",
+      "time": "2026-06-16T00:04:56Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/vitaly-gariev-1frri_Mi7A0-unsplash.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/11-09-2020_loteria-5.webp?fit=300%2C225&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Entidade que defende a língua espanhola critica a FIFA por coletivas em inglês",
-      "summary": "Na prévia da estreia da Holanda contra o Japão, Frankie de Jong foi obrigado a responder uma pergunta em inglês, assim como tinha acontecido com o brasileiro Vinicius Jr.",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/esportes/entidade-que-defende-a-lingua-espanhola-critica-a-fifa-por-coletivas-em-ingles/",
-      "time": "2026-06-15T22:01:09Z",
+      "title": "PGR rejeita nova proposta de delação de Vorcaro",
+      "summary": "A Procuradoria-Geral da República (PGR) rejeitou nesta segunda-feira (15) a segunda proposta de delação premiada do banqueiro Daniel Vorcaro, investigado pela Polícia Federal por fraudes no sistema financeiro do país. A ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/pgr-rejeita-nova-proposta-de-delacao-de-vorcaro/",
+      "time": "2026-06-15T23:03:00Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Vinicius-Jr.jpg?fit=300%2C193&amp;quality=70&amp;strip=all"
+      "image": "https://agenciabrasil.ebc.com.br/ebc.png?id=1693451&amp;o=node"
     },
     {
       "title": "Motiva (MOTV3) assina aditivo para investimentos de R$ 676,8 milhões na expansão da Linha 4 do Metrô até Taboão da Serra",
@@ -122,17 +119,44 @@
       "image": "https://www.moneytimes.com.br/uploads/2024/08/itausa-itsa4.webp"
     },
     {
-      "title": "Ibovespa segue tombo de Petrobras (PETR4) e recua; dólar sobe a R$ 5,06",
-      "summary": "O Ibovespa (IBOV) destoou do tom positivo de Wall Street no primeiro pregão da semana, com a queda do petróleo puxando a Petrobras (PETR3;PETR4) para baixo. A petroleira detém cerca de 12% de participação no índice. Nest",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ibovespa-15-6-26-apsa/",
-      "time": "2026-06-15T20:26:05Z",
-      "cat": "economia",
-      "tickers": [
-        "PETR4",
-        "PETR3"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/06/mercado-morning-ibovespa-wall-street-2.jpg"
+      "title": "Suno eleva SNME11 em 50% e mantém estabilidade nos demais fundos",
+      "summary": "A Suno Asset anunciou nesta segunda-feira (15) uma nova rodada de distribuições para seus fundos, reforçando o histórico de pagamentos previsíveis da gestora. O grande destaque é o SNME11, que implementou aumento de 50% ",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/suno-asset-eleva-snme11-50-junho-2024/",
+      "time": "2026-06-16T01:25:07Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "SNID11 divulga novos dividendos com yield acima de 1%; confira detalhes",
+      "summary": "O FI-Infra SNID11, da Suno Asset, comunicou ao mercado uma nova distribuição de rendimentos. A gestão informou que o fundo pagará R$ 0,12 por cota, preservando o patamar recorde de distribuição observado nos últimos mese",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/snid11-divulga-novos-dividendos-com-yield-acima-de-1-confira-detalhes/",
+      "time": "2026-06-16T00:35:04Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Fundos da Suno Asset negociam mais de R$ 19 milhões em dia de anúncio de dividendos",
+      "summary": "Os fundos da Suno Asset encerraram o pregão desta segunda-feira (15/06) com forte giro no mercado secundário, em sessão marcada pela divulgação de novos pagamentos de dividendos aos cotistas. A movimentação ocorreu no me",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/fundos-da-suno-asset-negociam-mais-de-r-19-milhoes-em-dia-de-anuncio-de-dividendos/",
+      "time": "2026-06-15T23:55:03Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "SNFF11 pagará quase 12% ao ano em dividendos em junho; veja os valores",
+      "summary": "O fundo imobiliário SNFF11 comunicou ao mercado uma nova distribuição de rendimentos aos cotistas. De acordo com a administração, o pagamento será de R$ 0,72 por cota, em linha com a proposta de geração recorrente de ren",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/snff11-pagara-quase-12-ao-ano-em-dividendos-em-junho-veja-os-valores/",
+      "time": "2026-06-15T23:25:07Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": null
     },
     {
       "title": "FII SNME11 negocia R$ 2,35 milhões após elevar dividendos em 50%",
@@ -177,38 +201,14 @@
       "image": null
     },
     {
-      "title": "Bitcoin dispara com trégua entre EUA e Irã e volta aos US$ 67 mil",
-      "summary": "Bitcoin. Foto: PixabayO bitcoin avançou na tarde desta segunda-feira, atingindo a faixa de US$ 67 mil, após o acordo de paz provisório entre Estados Unidos e Irã aliviar preocupações inflacionárias em semana de decisão d",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/bitcoin-us-67-mil-tregua-eua-ira-fed-mtae/",
-      "time": "2026-06-15T20:33:00Z",
-      "cat": "cripto",
-      "tickers": [
-        "BTC"
-      ],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2025/05/bitcoin-4481815_1280.jpg"
-    },
-    {
-      "title": "Tarifaço dos EUA pode atingir mais da metade das exportações brasileiras, alerta CNI",
-      "summary": "CNI alerta que novas tarifas dos EUA podem ampliar a pressão sobre as exportações brasileiras.A Confederação Nacional da Indústria (CNI) projeta que, caso as novas tarifas propostas pelo Representante Comercial dos Estad",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/cni-tarifas-eua-exportacoes-brasileiras-impacto-mtae/",
-      "time": "2026-06-15T17:30:00Z",
-      "cat": "internacional",
+      "title": "Fórmula 1 2026: confira a classificação dos pilotos após a vitória de Hamilton na Espanha",
+      "summary": "Britânico venceu o GP de Barcelona-Catalunha pela Ferrari, chegou a 115 pontos e diminuiu a diferença para Kimi Antonelli, da Mercedes",
+      "source": "Exame",
+      "url": "https://exame.com/esporte/formula-1-2026-confira-a-classificacao-dos-pilotos-apos-a-vitoria-de-hamilton-na-espanha/",
+      "time": "2026-06-15T20:59:12Z",
+      "cat": "economia",
       "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2023/02/exportacao.jpg"
-    },
-    {
-      "title": "Embraer (EMBJ3) decola na Bolsa com três motores no radar; entenda a alta",
-      "summary": "Embraer (EMBJ3) decola na Bolsa com três motores no radar; entenda a altaAs ações da Embraer (EMBJ3) subiram forte nesta segunda-feira (15), em meio a uma combinação de notícias positivas envolvendo a divisão de defesa, ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/embraer-embj3-acoes-alta-c390-india-e2-mt/",
-      "time": "2026-06-15T17:15:00Z",
-      "cat": "acoes",
-      "tickers": [
-        "EMBJ3"
-      ],
-      "image": null
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/hamilton-vitoria-ferrari-gp-espanha-barcelona-formula-1-2026-10.jpg"
     },
     {
       "title": "Tarifaço dos EUA pode afetar um terço das exportações do Brasil com tarifas de até 37,5%, diz CNI",
@@ -241,14 +241,14 @@
       "image": "https://classic.exame.com/wp-content/uploads/2026/04/GettyImages-2273017525.jpg"
     },
     {
-      "title": "Xbox pode perder três estúdios premiados em nova reestruturação",
-      "summary": "Estúdios responsáveis por Hellblade, Psychonauts e South of Midnight tentam evitar o fechamento em meio à reestruturação liderada por Asha Sharma",
-      "source": "Exame",
-      "url": "https://exame.com/tecnologia/xbox-pode-perder-tres-estudios-premiados-em-nova-reestruturacao/",
-      "time": "2026-06-15T18:24:11Z",
-      "cat": "economia",
+      "title": "Futuros de ações dos EUA recuam levemente após Wall Street subir com acordo com Irã",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/futuros-de-acoes-dos-eua-recuam-levemente-apos-wall-street-subir-com-acordo-com-ira-1974051",
+      "time": "2026-06-16T00:13:14Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/07/GettyImages-1811537173.jpg"
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
       "title": "Huntington Ingalls recebe modificação de contrato de US$ 44,1 milhões da Marinha",
@@ -279,27 +279,7 @@
       "cat": "internacional",
       "tickers": [],
       "image": null
-    },
-    {
-      "title": "S&P eleva rating da Viavi Solutions para BB após pagamento de dívida",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/sp-eleva-rating-da-viavi-solutions-para-bb-apos-pagamento-de-divida-93CH-1973896",
-      "time": "2026-06-15T21:17:09Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Por que as ações da Intellia Therapeutics disparam hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-intellia-therapeutics-disparam-hoje-93CH-1973870",
-      "time": "2026-06-15T21:00:27Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "15/06/2026 23:02"
+  "atualizado_em": "16/06/2026 01:42"
 }
