@@ -1,27 +1,15 @@
 {
   "headline": {
-    "title": "Ibovespa cai com tombo da Petrobras (PETR4) e inflação no radar do mercado",
-    "summary": "O Ibovespa destoou do tom positivo observado em Wall Street e encerrou o pregão desta segunda-feira (15) em queda de 0,42%, aos 170.415,13 pontos. O principal índice da Bolsa brasileira foi pressionado pelo forte recuo d",
-    "source": "Suno",
-    "url": "https://www.suno.com.br/noticias/ibovespa-cai-petrobras-petr4-focus-radar-mt/",
-    "time": "2026-06-15T21:25:07Z",
+    "title": "Taxas de DIs caem e curva de juros volta a precificar corte na Selic na próxima decisão do Copom",
+    "summary": "A curva de juros futuros engatou o quarto dia de quedas consecutivas com alívio nas tensões geopolíticas, em meio à piora das projeções de economistas para os principais indicadores macroeconômicos domésticos. A taxa de ",
+    "source": "Money Times",
+    "url": "https://www.moneytimes.com.br/taxas-de-dis-caem-e-curva-de-juros-volta-a-precificar-corte-na-selic-lils/",
+    "time": "2026-06-15T21:25:00Z",
     "cat": "economia",
-    "tickers": [
-      "PETR4"
-    ],
-    "image": null
+    "tickers": [],
+    "image": "https://www.moneytimes.com.br/uploads/2025/05/designs-leonardo-2025-05-30t135244.511.jpg"
   },
   "featured": [
-    {
-      "title": "Taxas de DIs caem e curva de juros volta a precificar corte na Selic na próxima decisão do Copom",
-      "summary": "A curva de juros futuros engatou o quarto dia de quedas consecutivas com alívio nas tensões geopolíticas, em meio à piora das projeções de economistas para os principais indicadores macroeconômicos domésticos. A taxa de ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/taxas-de-dis-caem-e-curva-de-juros-volta-a-precificar-corte-na-selic-lils/",
-      "time": "2026-06-15T21:25:00Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/05/designs-leonardo-2025-05-30t135244.511.jpg"
-    },
     {
       "title": "Vai pingar: Itaúsa (ITSA4) pagará bolada de R$ 1,5 bilhão em juros sobre capital próprio; veja como aproveitar",
       "summary": "A Itaúsa (ITSA4) aprovou o pagamento de R$ 1,5 bilhão em juros sobre o capital próprio, mostra documento enviado ao mercado nesta segunda-feira (15). Segundo o documento, o valor por ação será de R$ 0,138. Considerando o",
@@ -31,6 +19,18 @@
       "cat": "economia",
       "tickers": [],
       "image": "https://www.moneytimes.com.br/uploads/2024/08/itausa-itsa4.webp"
+    },
+    {
+      "title": "Vivo (VIVT3) pagará em juros sobre o capital próprio; veja valores",
+      "summary": "A Vivo (VIVT3) pagará R$ 230 milhões em juros sobre o capital próprio, mostra documento enviado ao mercado nesta segunda-feira (15). Segundo o documento, o valor por ação será de R$ 0,071. Com o Imposto de Renda, o valor",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/vivo-vivt3-pagara-em-juros-sobre-o-capital-proprio-veja-valores/",
+      "time": "2026-06-15T22:08:32Z",
+      "cat": "economia",
+      "tickers": [
+        "VIVT3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2024/02/vivo-vivt3.jpg"
     }
   ],
   "all": [
@@ -72,7 +72,7 @@
       "time": "2026-06-15T22:50:55Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/09/motiva-linha-4-metro.jpg"
+      "image": null
     },
     {
       "title": "Vivo (VIVT3) pagará em juros sobre o capital próprio; veja valores",
@@ -179,28 +179,6 @@
       "image": null
     },
     {
-      "title": "IFIX fecha o pregão da segunda-feira em alta de 0,5%",
-      "summary": "O IFIX encerrou o pregão desta segunda-feira (15) aos 3.833,15 pontos, alta de 0,5%. O desempenho representa avanço de 19,12 pontos frente ao fechamento anterior, mantendo a sequência positiva do índice. O índice de fund",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/ifix-fecha-o-pregao-da-segunda-feira-em-alta-de-05/",
-      "time": "2026-06-15T22:35:07Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Ibovespa cai com tombo da Petrobras (PETR4) e inflação no radar do mercado",
-      "summary": "O Ibovespa destoou do tom positivo observado em Wall Street e encerrou o pregão desta segunda-feira (15) em queda de 0,42%, aos 170.415,13 pontos. O principal índice da Bolsa brasileira foi pressionado pelo forte recuo d",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/ibovespa-cai-petrobras-petr4-focus-radar-mt/",
-      "time": "2026-06-15T21:25:07Z",
-      "cat": "economia",
-      "tickers": [
-        "PETR4"
-      ],
-      "image": null
-    },
-    {
       "title": "Fórmula 1 2026: confira a classificação dos pilotos após a vitória de Hamilton na Espanha",
       "summary": "Britânico venceu o GP de Barcelona-Catalunha pela Ferrari, chegou a 115 pontos e diminuiu a diferença para Kimi Antonelli, da Mercedes",
       "source": "Exame",
@@ -221,7 +199,7 @@
       "image": "https://classic.exame.com/wp-content/uploads/2026/05/trump.jpg"
     },
     {
-      "title": "Regra de segregação patrimonial em cripto ainda gera muita dúvida, diz executiva",
+      "title": "Regra de segregação patrimonial no setor cripto ainda gera muita dúvida, diz executiva",
       "summary": "Diretora de compliance da Lumx fala sobre pontos aos quais as empresas cripto devem se atentar na regulação",
       "source": "Exame",
       "url": "https://exame.com/future-of-money/regra-de-segregacao-patrimonial-em-cripto-ainda-gera-muita-duvida-diz-executiva/",
@@ -241,45 +219,75 @@
       "image": "https://classic.exame.com/wp-content/uploads/2026/04/GettyImages-2273017525.jpg"
     },
     {
-      "title": "Futuros de ações dos EUA recuam levemente após Wall Street subir com acordo com Irã",
+      "title": "FTSE 100 sobe com acordo EUA-Irã apoiando o sentimento do mercado",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/futuros-de-acoes-dos-eua-recuam-levemente-apos-wall-street-subir-com-acordo-com-ira-1974051",
-      "time": "2026-06-16T00:13:14Z",
+      "url": "https://br.investing.com/news/stock-market-news/ftse-100-sobe-com-acordo-euaira-apoiando-o-sentimento-do-mercado-1974197",
+      "time": "2026-06-16T07:14:48Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Huntington Ingalls recebe modificação de contrato de US$ 44,1 milhões da Marinha",
+      "title": "Goldman Sachs aponta as 3 principais ações de internet da China para o 2º semestre de 2026",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/huntington-ingalls-recebe-modificacao-de-contrato-de-us-441-milhoes-da-marinha-93CH-1973919",
-      "time": "2026-06-15T21:35:22Z",
+      "url": "https://br.investing.com/news/stock-market-news/goldman-sachs-aponta-as-3-principais-acoes-de-internet-da-china-para-o-2o-semestre-de-2026-93CH-1974194",
+      "time": "2026-06-16T07:07:58Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "México - Ações fecharam o pregão em alta e o Índice S&P/BMV IPC avançou 0,37%",
+      "title": "Japão - Ações fecharam o pregão em alta e o Índice Nikkei 225 avançou 0,21%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/mexico--acoes-fecharam-o-pregao-em-alta-e-o-indice-spbmv-ipc-avancou-037-1973915",
-      "time": "2026-06-15T21:30:20Z",
+      "url": "https://br.investing.com/news/stock-market-news/japao--acoes-fecharam-o-pregao-em-alta-e-o-indice-nikkei-225-avancou-021-1974189",
+      "time": "2026-06-16T07:00:26Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/Mexican_Stock_Exchange_M_1440056300.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB3F013_M.jpg"
     },
     {
-      "title": "Rússia - Ações fecharam o pregão em alta e o Índice MOEX Russia Index avançou 1,07%",
+      "title": "Ações de Serviços de TI do Japão para acompanhar, segundo o Goldman Sachs",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/russia--acoes-fecharam-o-pregao-em-alta-e-o-indice-moex-russia-index-avancou-107-1973900",
-      "time": "2026-06-15T21:20:21Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-de-servicos-de-ti-do-japao-para-acompanhar-segundo-o-goldman-sachs-93CH-1974188",
+      "time": "2026-06-16T06:56:57Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Rathbones suspende captação de novos clientes após revisão regulatória",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/rathbones-suspende-captacao-de-novos-clientes-apos-revisao-regulatoria-93CH-1974180",
+      "time": "2026-06-16T06:36:22Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Austrália - Ações fecharam o pregão em alta e o Índice S&P/ASX 200 avançou 0,04%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/australia--acoes-fecharam-o-pregao-em-alta-e-o-indice-spasx-200-avancou-004-1974176",
+      "time": "2026-06-16T06:30:22Z",
       "cat": "internacional",
       "tickers": [],
       "image": null
+    },
+    {
+      "title": "Taiwan - Ações fecharam o pregão em alta e o Índice Taiwan Weighted avançou 2,36%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/taiwan--acoes-fecharam-o-pregao-em-alta-e-o-indice-taiwan-weighted-avancou-236-1974163",
+      "time": "2026-06-16T06:00:22Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/Taiwan_M_1440053341.jpg"
     }
   ],
-  "atualizado_em": "16/06/2026 01:42"
+  "atualizado_em": "16/06/2026 07:28"
 }
