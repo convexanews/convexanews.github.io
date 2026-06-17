@@ -1,138 +1,226 @@
 {
   "headline": {
-    "title": "Dólar hoje vira para alta após decisão do Fed e com Copom no radar",
-    "summary": "O Federal Reserve manteve sua taxa básica de juros estável nesta quarta-feira, e os formuladores de política monetária esperam um aumento na taxa ainda este ano",
-    "source": "InfoMoney",
-    "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-17062026/",
-    "time": "2026-06-17T19:16:23Z",
+    "title": "Ibovespa cai após Fed duro e amplia perdas antes da decisão do Copom",
+    "summary": "O Ibovespa encerrou o pregão desta quarta-feira (17) em queda de 0,70%, aos 168.453,93 pontos, pressionado pela postura mais dura do Federal Reserve (Fed) e pelo aumento da aversão ao risco global. O principal índice da ",
+    "source": "Suno",
+    "url": "https://www.suno.com.br/noticias/ibovespa-cai-fed-juros-copom-dolar-mt/",
+    "time": "2026-06-17T21:25:06Z",
     "cat": "economia",
     "tickers": [],
-    "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/blogging-guide-K5DY18hy5JQ-unsplash_red.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    "image": null
   },
   "featured": [
     {
-      "title": "Ibovespa Hoje Ao Vivo: Bolsa diminui ritmo de alta após Fed; dólar reduz baixa",
-      "summary": "Bolsas dos EUA operam em queda após decisão do Fed e projeção de uma alta este ano",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-17062026/",
-      "time": "2026-06-17T18:53:24Z",
+      "title": "Dólar supera R$ 5,10 após Fed adotar tom duro sobre juros nos EUA",
+      "summary": "Dólar - Foto: PixabayApós operar em queda ao longo da maior parte do dia, o dólar ganhou força nas últimas horas de negócios e superou a linha de R$ 5,10, acompanhando a onda de valorização da moeda americana no exterior",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/dolar-r-510-fed-juros-eua-warsh-mtae/",
+      "time": "2026-06-17T21:22:56Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-6-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://files.sunoresearch.com.br/n/uploads/2023/06/cropped-dolar.jpg"
     },
     {
-      "title": "Fed mantém juros, mas tom duro e revisão da inflação elevam cautela no mercado",
-      "summary": "Fed deixou juros parados, mas avisou que a inflação vai demorar mais para cair e que novas altas ainda estão na mesa",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/economia/fed-mantem-juros-mas-tom-duro-e-revisao-da-inflacao-elevam-cautela-no-mercado/",
-      "time": "2026-06-17T19:23:10Z",
+      "title": "Ibovespa fecha em queda após Fed sinalizar alta de juros neste ano",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-fecha-em-queda-apos-fed-sinalizar-alta-de-juros-neste-ano-1976587",
+      "time": "2026-06-17T20:42:10Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-17T190521Z_316866812_RC2UVLAEKQ53_RTRMADP_3_USA-FED.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": null
     }
   ],
   "all": [
     {
-      "title": "Fed mantém juros, mas tom duro e revisão da inflação elevam cautela no mercado",
-      "summary": "Fed deixou juros parados, mas avisou que a inflação vai demorar mais para cair e que novas altas ainda estão na mesa",
+      "title": "Bolsas de NY fecham em queda de cerca de 1%, após Fed e incertezas sobre EUA-Irã",
+      "summary": "O Dow Jones fechou em queda de 0,98%, aos 51.492,55 pontos",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/economia/fed-mantem-juros-mas-tom-duro-e-revisao-da-inflacao-elevam-cautela-no-mercado/",
-      "time": "2026-06-17T19:23:10Z",
-      "cat": "economia",
+      "url": "https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-em-queda-de-cerca-de-1-apos-fed-e-incertezas-sobre-eua-ira/",
+      "time": "2026-06-17T20:54:08Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-17T190521Z_316866812_RC2UVLAEKQ53_RTRMADP_3_USA-FED.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-29T060934Z_964769431_RC25EKAJLMU1_RTRMADP_3_USA-MARKETS-IRAN-TRADING.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Dólar hoje vira para alta após decisão do Fed e com Copom no radar",
-      "summary": "O Federal Reserve manteve sua taxa básica de juros estável nesta quarta-feira, e os formuladores de política monetária esperam um aumento na taxa ainda este ano",
+      "title": "Tesouro Direto: taxas decolam e voltam a indicar alta da Selic após discurso de Warsh",
+      "summary": "Digestão completa da coletiva do novo presidente do Fed acionou o mecanismo de suspensão por volatilidade; prefixados saltam mais de 25 pontos-base em relação ao nível da tarde",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-17062026/",
-      "time": "2026-06-17T19:16:23Z",
+      "url": "https://www.infomoney.com.br/onde-investir/tesouro-ipca-volta-a-pagar-mais-apos-divulgacao-da-previa-do-pib/",
+      "time": "2026-06-17T20:53:09Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/blogging-guide-K5DY18hy5JQ-unsplash_red.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-17T190008Z_118389025_RC2UVLA9XT8I_RTRMADP_3_USA-FED.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Ibovespa: o que fez o índice sair de alta de 1% para zerar ganhos após Fed",
+      "title": "SpaceX cai pela primeira vez após IPO recorde e interrompe rali de quase 50%",
+      "summary": "Ações recuaram cerca de 5% em sessão volátil, mas ainda acumulam alta de mais de 42% sobre o preço da oferta inicial",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/spacex-cai-pela-primeira-vez-apos-ipo-recorde-e-interrompe-rali-de-quase-50/",
+      "time": "2026-06-17T20:48:36Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/telao-spaceX.png?fit=300%2C196&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Cosan terá melhores dias? Por que a ação subiu 6,12% em sessão de queda para Ibovespa",
+      "summary": "Companhia anunciou a venda de 12% do seu portfólio de propriedades agrícolas",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/csan3-acoes-da-cosan-sobem-4-apos-anuncio-bilionario-de-venda-de-ativos/",
+      "time": "2026-06-17T20:44:29Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/Captura-de-tela-2024-05-29-120414-e1758560429836.png?fit=300%2C169&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Nos próximos 3 anos, Infra S.A vai se tornar independente do Tesouro, diz ministro",
+      "summary": "Segundo o ministro George Santoro, estatal deve ganhar receita própria suficiente para bancar as despesas sem repasses públicos",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/economia/nos-proximos-3-anos-infra-s-a-vai-se-tornar-independente-do-tesouro-diz-ministro/",
+      "time": "2026-06-17T20:33:56Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/pzzb5388.jpeg?fit=300%2C225&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "O que fez Ibovespa deixar alta e fechar em queda de 0,7% em meio a sinais do novo Fed",
       "summary": "O Federal Reserve manteve sua taxa básica de juros estável nesta quarta-feira, mas projetou um aumento ainda em 2026",
       "source": "InfoMoney",
       "url": "https://www.infomoney.com.br/mercados/ibovespa-o-que-fez-o-indice-sair-de-alta-de-1-para-quase-zerar-ganhos-apos-fed/",
-      "time": "2026-06-17T19:12:55Z",
+      "time": "2026-06-17T20:29:19Z",
       "cat": "acoes",
       "tickers": [],
       "image": "https://www.infomoney.com.br/wp-content/uploads/2024/06/Bolsa-pregao-def-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Ibovespa Hoje Ao Vivo: Bolsa diminui ritmo de alta após Fed; dólar reduz baixa",
-      "summary": "Bolsas dos EUA operam em queda após decisão do Fed e projeção de uma alta este ano",
+      "title": "Indústria prevê alta de 16% no frete e critica endurecimento da tabela mínima",
+      "summary": "Divergência entre o setor produtivo e os transportadores ficam cada vez mais acirrada com política de pisos mínimos",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-17062026/",
-      "time": "2026-06-17T18:53:24Z",
-      "cat": "economia",
+      "url": "https://www.infomoney.com.br/brasil/industria-preve-alta-de-16-no-frete-e-critica-endurecimento-da-tabela-minima/",
+      "time": "2026-06-17T20:27:14Z",
+      "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-6-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2020/02/caminhaomercedes.png?fit=300%2C180&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Capacidade de armazenagem cresce, mas Brasil ainda precisa investir R$ 148 bilhões para eliminar déficit",
-      "summary": "A capacidade estática de armazenagem de grãos do Brasil avançou 1,1% no segundo semestre de 2025, alcançando 233,8 milhões de toneladas, segundo dados divulgados pelo IBGE. Apesar do crescimento, o volume segue distante ",
+      "title": "Boi: Datagro estima participação de fêmeas acima de 50% nos abates",
+      "summary": "A participação de fêmeas nos abates de bovinos no Brasil deve permanecer acima de 50% em abril, segundo estimativas da Datagro Pecuária, após o avanço observado no primeiro trimestre. De acordo com a consultoria, as vaca",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/capacidade-de-armazenagem-cresce-mas-brasil-ainda-precisa-investir-r-148-bilhoes-para-eliminar-deficit-pads/",
-      "time": "2026-06-17T18:59:59Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2024/05/rio-grande-do-sul-kepler-weber-1.jpg"
-    },
-    {
-      "title": "JBS (JBSS3) reforça fundamentos e potencial de valorização em Investor Day, dizem bancos",
-      "summary": "O Investor Day da JBS (JBSS3), realizado na segunda-feira (15) em Nova York, reforçou entre analistas de mercado a percepção de que a companhia combina fundamentos sólidos de longo prazo com um cenário ainda pressionado ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/jbs-jbss3-reforca-fundamentos-e-potencial-de-valorizacao-em-investor-day-dizem-bancos-jvka/",
-      "time": "2026-06-17T18:58:38Z",
+      "url": "https://www.moneytimes.com.br/boi-datagro-estima-participacao-de-femeas-acima-de-50-nos-abates-pads/",
+      "time": "2026-06-17T21:21:47Z",
       "cat": "acoes",
       "tickers": [],
       "image": null
     },
     {
-      "title": "OpenAI queimou mais da metade da receita no 1º trimestre antes de possível IPO, diz documento vazado",
-      "summary": "A OpenAI gastou mais da metade da sua receita de US$ 5,7 bilhões no primeiro trimestre de 2026 (1T26), segundo informações divulgadas pelo site The Information. De acordo com a publicação, que teve acesso a documentos va",
+      "title": "Título do Tesouro dos EUA de curto prazo atinge maior nível em mais de um ano com Warsh",
+      "summary": "Os rendimentos dos títulos do Tesouro dos Estados Unidos, os Treasuries, de curto prazo renovaram as máximas do ano na tarde desta quarta-feira (17) em reação à primeira reunião de política monetária do Federal Reserve (",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/openai-queimou-mais-da-metade-da-receita-no-1o-trimestre-antes-de-possivel-ipo-afirma-site-ceci/",
-      "time": "2026-06-17T18:32:43Z",
-      "cat": "acoes",
+      "url": "https://www.moneytimes.com.br/titulo-do-tesouro-dos-eua-de-curto-prazo-atinge-maior-nivel-em-mais-de-um-ano-com-warsh-lils/",
+      "time": "2026-06-17T21:19:19Z",
+      "cat": "internacional",
       "tickers": [],
       "image": null
     },
     {
-      "title": "Telefônica Brasil (VIVT3): Itaú BBA passa tesoura no preço-alvo e chama atenção para os dividendos",
-      "summary": "O Itaú BBA atualizou as estimativas para a Telefônica Brasil (VIVT3), dona da Vivo, cortando o preço-alvo de R$ 44 para R$ 38 por ação, o que implica em um potencial de alta de 13% ante o fechamento de 16 de junho. A cla",
+      "title": "Soja atinge maior cotação em duas semanas em Chicago",
+      "summary": "Os contratos futuros de soja na bolsa de Chicago (CBOT) subiram nesta quarta-feira, com o contrato de referência julho atingindo seu nível mais alto em quase duas semanas, devido a rumores sobre o interesse da China nos ",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/telefonica-brasil-vivt3-itau-bba-passa-tesoura-no-preco-alvo-e-chama-atencao-para-os-dividendos-lmrs/",
-      "time": "2026-06-17T18:09:52Z",
+      "url": "https://www.moneytimes.com.br/soja-atinge-maior-cotacao-em-duas-semanas-em-chicago-pads/",
+      "time": "2026-06-17T20:58:26Z",
       "cat": "fundos",
-      "tickers": [
-        "VIVT3"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2024/03/telefonica-brasil.jpg"
+      "tickers": [],
+      "image": null
     },
     {
-      "title": "Fed mantém juros nos EUA entre 3,50% e 3,75%; projeções indicam caminho mais duro para a política monetária",
-      "summary": "O Comitê Federal de Mercado Aberto (Fomc, na sigla em inglês) manteve, nesta quarta-feira (17), os juros de referência dos Estados Unidos (EUA) no intervalo de 3,50% a 3,75% ao ano. A decisão, amplamente esperada pelo me",
+      "title": "Mercado vê alta nos juros dos EUA em setembro após ‘estreia’ de Warsh",
+      "summary": "A primeira reunião de política monetária sob o comando de Kevin Warsh provocou uma forte reprecificação das expectativas para os juros nos Estados Unidos. Embora o Federal Reserve tenha mantido a taxa básica inalterada n",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/fed-mantem-juros-nos-eua-entre-350-e-375/",
-      "time": "2026-06-17T18:04:58Z",
+      "url": "https://www.moneytimes.com.br/mercado-ve-alta-nos-juros-dos-eua-em-setembro-apos-estreia-de-warsh/",
+      "time": "2026-06-17T20:42:19Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/07/federal-reserve-eua.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2026/04/inflacao-cpi-marco-juros-eua.jpg"
     },
     {
-      "title": "Bolsas da Europa fecham em alta à espera de decisão de juros nos EUA e detalhes de acordo no Oriente Médio",
-      "summary": "Os índices europeus fecharam o pregão desta quarta-feira (17) majoritariamente em alta com a expectativa para a decisão de juros nos Estados Unidos e à espera de mais detalhes sobre o acordo provisório entre Washington e",
+      "title": "Ibovespa engata queda com pessimismo em Wall Street após falas de Warsh; dólar sobe a R$ 5,10",
+      "summary": "O Ibovespa (IBOV) fechou em baixa após as falas mais duras do novo dirigente do Federal Reserve (Fed, o banco central dos EUA), Kevin Warsh, e a sinalização de que parte do colegiado já prevê alta nos juros em 2026. Nest",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/europa-17-6-26-lils/",
-      "time": "2026-06-17T17:48:41Z",
+      "url": "https://www.moneytimes.com.br/ibovespa-17-6-26-apsa/",
+      "time": "2026-06-17T20:35:08Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2021/07/acoes-europa.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2025/02/ibovespa.jpg"
+    },
+    {
+      "title": "Selic deve cair hoje, mas bancos divergem sobre os juros ao final de 2026; veja projeções",
+      "summary": "O Comitê de Política Monetária (Copom) do Banco Central anuncia, daqui a pouco, sua nova decisão de juros. Entre bancos e corretoras, o consenso é praticamente unânime: a Selic deve ser reduzida em 0,25 ponto percentual.",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/selic-deve-cair-hoje-mas-bancos-divergem-sobre-os-juros-em-2026-veja-projecoes-jcav/",
+      "time": "2026-06-17T20:30:00Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/02/juros.jpg"
+    },
+    {
+      "title": "Cacau atinge máxima em 3 semanas com aproximação do El Niño",
+      "summary": "Os contratos futuros do cacau na bolsa ICE atingiram máximas de três semanas nesta quarta-feira (17), em meio a temores de que o fenômeno climático El Niño prejudique a produção da próxima safra, enquanto o café robusta ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/cacau-atinge-maxima-em-3-semanas-com-aproximacao-do-el-nino-pads/",
+      "time": "2026-06-17T20:29:51Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Pix por aproximação: Banco Central derruba teto para usuários e muda regras para bancos",
+      "summary": "O Banco Central (BC) editou uma instrução normativa que altera as regras do Pix por aproximação. A nova diretriz extingue o teto regulatório de R$ 500 por transação. O teto será integrado ao limite geral já estabelecido ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/pix-aproximacao-teto-limite-rsgp/",
+      "time": "2026-06-17T20:21:57Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Ibovespa cai após Fed duro e amplia perdas antes da decisão do Copom",
+      "summary": "O Ibovespa encerrou o pregão desta quarta-feira (17) em queda de 0,70%, aos 168.453,93 pontos, pressionado pela postura mais dura do Federal Reserve (Fed) e pelo aumento da aversão ao risco global. O principal índice da ",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-cai-fed-juros-copom-dolar-mt/",
+      "time": "2026-06-17T21:25:06Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Dólar supera R$ 5,10 após Fed adotar tom duro sobre juros nos EUA",
+      "summary": "Dólar - Foto: PixabayApós operar em queda ao longo da maior parte do dia, o dólar ganhou força nas últimas horas de negócios e superou a linha de R$ 5,10, acompanhando a onda de valorização da moeda americana no exterior",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/dolar-r-510-fed-juros-eua-warsh-mtae/",
+      "time": "2026-06-17T21:22:56Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://files.sunoresearch.com.br/n/uploads/2023/06/cropped-dolar.jpg"
+    },
+    {
+      "title": "BC ganha mais 120 dias para investigar causas da crise do Banco Master",
+      "summary": "BC ganha mais 120 dias para investigar causas da crise do Banco MasterO Banco Central informou nesta quarta-feira, 17, a prorrogação do prazo para a conclusão do inquérito instaurado nas instituições do conglomerado Mast",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/banco-master-bc-prorroga-investigacao-120-dias-mtae/",
+      "time": "2026-06-17T20:29:33Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Fed mantém juros dos EUA entre 3,50% e 3,75% ao ano; decisão era esperada",
+      "summary": "O Federal Reserve (Fed), banco central dos Estados Unidos, decidiu nesta quarta-feira (17) manter a taxa básica de juros na faixa de 3,50% a 3,75% ao ano. A decisão veio em linha com as expectativas do mercado e marcou a",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/fed-mantem-juros-eua-inalterados-junho-2026-go/",
+      "time": "2026-06-17T20:25:09Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": null
     },
     {
       "title": "JPMorgan vê mercado exagerando no Fed: alta de juros só em 2027?",
@@ -181,135 +269,115 @@
       "image": null
     },
     {
-      "title": "Super Quarta: veja o que esperar das decisões do Copom e do Fed",
-      "summary": "A chamada Super Quarta movimenta os mercados financeiros nesta quarta-feira (17), com as decisões de política monetária do Banco Central do Brasil e do Federal Reserve (Fed), banco central dos Estados Unidos. A expectati",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/super-quarta-copom-fed-o-que-esperar-decisoes-juros-go/",
-      "time": "2026-06-17T15:15:07Z",
+      "title": "Ibovespa segue NY e cai após mercado reduzir apostas em corte de juros nos EUA",
+      "summary": "No mercado de câmbio, o dólar à vista encerrou o dia em alta de 0,42%, cotado a R$ 5,108",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/ibovespa-segue-ny-e-cai-apos-mercado-reduzir-apostas-em-corte-de-juros-nos-eua/",
+      "time": "2026-06-17T17:42:38Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2021/03/DSC2684bx-1.jpg"
+    },
+    {
+      "title": "Quanto custa uma decisão errada? Os erros mais comuns de gestores sem formação financeira",
+      "summary": "Da contratação de equipes à aprovação de investimentos, executivos sem base financeira tomam decisões que parecem certas até que o custo apareça",
+      "source": "Exame",
+      "url": "https://exame.com/carreira/quanto-custa-uma-decisao-errada-os-erros-mais-comuns-de-gestores-sem-formacao-financeira/",
+      "time": "2026-06-17T17:23:53Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/Lideranca-sob-pressao-Gorgev.jpg"
+    },
+    {
+      "title": "Warsh diz que Fed discutiu só manutenção de juros; mercado vê 'tom conservador'",
+      "summary": "Projeções do comitê indicaram menor disposição para flexibilizar a política monetária",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/warsh-diz-que-fed-discutiu-so-manutencao-de-juros-mercado-ve-tom-conservador/",
+      "time": "2026-06-17T17:15:26Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2023/08/federal-reserve-estados-unidos-pequenas-medias-empresas-e1695231735349.jpg"
+    },
+    {
+      "title": "Resgates em fundo de crédito privado da Oaktree ficam abaixo do limite trimestral",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/resgates-em-fundo-de-credito-privado-da-oaktree-ficam-abaixo-do-limite-trimestral-93CH-1976680",
+      "time": "2026-06-17T20:42:25Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Ibovespa fecha em queda após Fed sinalizar alta de juros neste ano",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-fecha-em-queda-apos-fed-sinalizar-alta-de-juros-neste-ano-1976587",
+      "time": "2026-06-17T20:42:10Z",
       "cat": "economia",
       "tickers": [],
       "image": null
     },
     {
-      "title": "Pizza Hut é vendida por US$ 2,7 bilhões; veja detalhes da operação",
-      "summary": "Pizza Hut é vendida por US$ 2,7 bilhões; veja detalhes da operaçãoA gigante do setor de fast-food Yum Brands fechou um acordo nesta terça-feira, 16, para a venda da rede Pizza Hut por US$ 2,7 bilhões. O movimento foi mot",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/yum-brands-vende-rede-pizza-hut-por-us-27-bilhoes-go/",
-      "time": "2026-06-17T14:52:43Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Cinco fundos imobiliários pagam dividendos nesta quarta-feira; veja quais",
-      "summary": "Cinco fundos imobiliários farão pagamento de dividendos nesta quarta-feira. Entre os destaques, dois veículos distribuirão R$ 0,95 e R$ 1,00 por cota, respectivamente, dentro do calendário do mês. Os investidores que têm",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/dividendos-fiis-pagam-hoje-dy/",
-      "time": "2026-06-17T12:45:05Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "SNEL11 negocia mais de R$ 10 mi enquanto IPO da SpaceX reforça tese energética",
-      "summary": "O fundo imobiliário SNEL11 voltou a ganhar destaque na B3 ao somar mais de R$ 10,3 milhões em negociações nesta terça-feira (16), repetindo o forte volume observado no pregão anterior. O interesse ocorre em um momento em",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/snel11-negocia-mais-de-r-10-mi-enquanto-ipo-da-spacex-reforca-tese-energetica/",
-      "time": "2026-06-16T22:05:17Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "IFIX na máxima histórica: o alerta que o investidor precisa ouvir antes de ir além dos FIIs",
-      "summary": "Entenda o que impulsiona os fundos imobiliários em 2026 e o que ainda passa despercebido pelo mercado",
-      "source": "Exame",
-      "url": "https://exame.com/lideres-extraordinarios/ifix-na-maxima-historica-o-alerta-que-o-investidor-precisa-ouvir-antes-de-ir-alem-dos-fiis/",
-      "time": "2026-06-17T16:00:56Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/6cVQAFM9bku9fo1QXBpVrPYkvlkQAlsMF8MF5mV-F49XYZzPH3IExvgzuhn9QtlaiqoRcE4X5bJkVbxBW-qAkukT1zVAAmLXMv0G_Q-53lV3JuCeufUzvYiAMymUtvw-lhcMe4c3KYdaHgG896X3z7hy6Z1mDoiMAXYmq42HqAD0TwgLE8aznWPtE3rWSCC8.jpeg"
-    },
-    {
-      "title": "Negociação de opções da Sezzle dispara com foco em calls de julho",
+      "title": "Ações da Innodata sobem com nomeação de novo CFO",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/negociacao-de-opcoes-da-sezzle-dispara-com-foco-em-calls-de-julho-93CH-1976549",
-      "time": "2026-06-17T19:17:30Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-innodata-sobem-com-nomeacao-de-novo-cfo-93CH-1976678",
+      "time": "2026-06-17T20:41:34Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Ação da Skillsoft sobe 17% após compras de insider",
+      "title": "Ações da Steel Dynamics caem após guidance do 2º tri decepcionar",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acao-da-skillsoft-sobe-17-apos-compras-de-insider-93CH-1976535",
-      "time": "2026-06-17T19:09:59Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-steel-dynamics-caem-apos-guidance-do-2o-tri-decepcionar-93CH-1976660",
+      "time": "2026-06-17T20:36:19Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Microsoft em queda com RSI em 30: níveis ao vivo",
+      "title": "Ações da Legend Biotech caem com oferta de US$ 225 milhões",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/microsoft-testa-repique-em-tendencia-de-baixa-niveis-ao-vivo-93CH-1973377",
-      "time": "2026-06-17T19:09:29Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEA6103X_M.jpg"
-    },
-    {
-      "title": "Negociação de opções da Blackrock salta para 3.546 contratos",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/negociacao-de-opcoes-da-blackrock-salta-para-3546-contratos-93CH-1976531",
-      "time": "2026-06-17T19:04:15Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-legend-biotech-caem-com-oferta-de-us-225-milhoes-93CH-1976659",
+      "time": "2026-06-17T20:33:57Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Stellantis explora parcerias para a Maserati em meio a preocupações com fábricas",
+      "title": "E.U.A. - Ações fecharam o pregão em queda e o Índice Dow Jones Industrial Average recuou 0,97%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/stellantis-explora-parcerias-para-a-maserati-em-meio-a-preocupacoes-com-fabricas-93CH-1976528",
-      "time": "2026-06-17T18:56:46Z",
+      "url": "https://br.investing.com/news/stock-market-news/eua--acoes-fecharam-o-pregao-em-queda-e-o-indice-dow-jones-industrial-average-recuou-097-1976656",
+      "time": "2026-06-17T20:31:35Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEAAR0ZC_M.jpg"
     },
     {
-      "title": "BMO Capital destaca sua principal escolha de ação no setor químico dos EUA",
+      "title": "Canadá - Ações fecharam o pregão em queda e o Índice S&P/TSX recuou 0,75%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/bmo-capital-destaca-sua-principal-escolha-de-acao-no-setor-quimico-dos-eua-93CH-1976509",
-      "time": "2026-06-17T18:28:10Z",
+      "url": "https://br.investing.com/news/stock-market-news/canada--acoes-fecharam-o-pregao-em-queda-e-o-indice-sptsx-recuou-075-1976653",
+      "time": "2026-06-17T20:30:48Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEE7G0MD_M.jpg"
     },
     {
-      "title": "Ibovespa reduz alta após Fed",
+      "title": "Brasil - Ações fecharam o pregão em queda e o Índice Bovespa recuou 0,70%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-reduz-alta-apos-fed-1976503",
-      "time": "2026-06-17T18:21:33Z",
+      "url": "https://br.investing.com/news/stock-market-news/brasil--acoes-fecharam-o-pregao-em-queda-e-o-indice-bovespa-recuou-070-1976650",
+      "time": "2026-06-17T20:30:21Z",
       "cat": "internacional",
       "tickers": [],
       "image": null
-    },
-    {
-      "title": "Por que as ações da Meta Platforms estão caindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-meta-platforms-estao-caindo-hoje-93CH-1976491",
-      "time": "2026-06-17T18:06:47Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "17/06/2026 19:26"
+  "atualizado_em": "17/06/2026 21:29"
 }
