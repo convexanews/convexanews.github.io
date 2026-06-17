@@ -1,178 +1,222 @@
 {
   "headline": {
-    "title": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta",
-    "summary": "Índices futuros dos EUA operam sem força em dia de decisão do Fed",
-    "source": "InfoMoney",
-    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-17062026/",
-    "time": "2026-06-17T11:35:12Z",
+    "title": "Super Quarta: veja o que esperar das decisões do Copom e do Fed",
+    "summary": "A chamada Super Quarta movimenta os mercados financeiros nesta quarta-feira (17), com as decisões de política monetária do Banco Central do Brasil e do Federal Reserve (Fed), banco central dos Estados Unidos. A expectati",
+    "source": "Suno",
+    "url": "https://www.suno.com.br/noticias/super-quarta-copom-fed-o-que-esperar-decisoes-juros-go/",
+    "time": "2026-06-17T15:15:07Z",
     "cat": "economia",
     "tickers": [],
-    "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Ibovespa-ao-vivo-bolsa-de-valores-7.png?fit=300%2C186&amp;quality=70&amp;strip=all"
+    "image": null
   },
   "featured": [
     {
-      "title": "Bitcoin (BTC) cai antes do ‘Teste de Warsh’ no Banco Central; veja preços das criptomoedas nesta quarta-feira (17)",
-      "summary": "O Bitcoin (BTC) é negociado na casa dos US$ 64,8 mil na manhã desta quarta-feira (17), com uma queda de cerca de 2% nas últimas 24h. O mercado global de criptomoedas opera no vermelho na manhã de hoje, com alguns tokens ",
+      "title": "O que esperar do Fed? Mercado aposta em manutenção dos juros, mas foco estará no tom de Kevin Warsh",
+      "summary": "O mercado financeiro acompanha nesta quarta-feira (17) a decisão de política monetária do Federal Reserve (Fed), em um encontro que marca a estreia de Kevin Warsh à frente do banco central americano. A expectativa é ampl",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bom-dia-bitcoin-btc-criptomoedas-precos-hoje-rens-170626/",
-      "time": "2026-06-17T11:19:04Z",
-      "cat": "cripto",
-      "tickers": [
-        "BTC"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/04/kevin-warsh-fed-eua-.jpg"
-    },
-    {
-      "title": "À espera do Fed: inflação, emprego e PIB dão pistas sobre o futuro dos juros nos EUA",
-      "summary": "A decisão de juros do Federal Reserve desta quarta-feira (17) deve manter os investidores globais em compasso de espera. A expectativa amplamente majoritária do mercado é de manutenção da taxa básica americana no interva",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/a-espera-do-fed-inflacao-emprego-e-pib-dao-pistas-sobre-o-futuro-dos-juros-nos-eua-jcav/",
-      "time": "2026-06-17T11:00:00Z",
+      "url": "https://www.moneytimes.com.br/o-que-esperar-do-fed-mercado-aposta-em-manutencao-dos-juros-mas-foco-estara-no-tom-de-kevin-warsh-jcav/",
+      "time": "2026-06-17T14:42:03Z",
       "cat": "economia",
       "tickers": [],
       "image": "https://www.moneytimes.com.br/uploads/2025/07/fomc-federal-reserve-fed-juros-eua-estados-unidos.jpg"
+    },
+    {
+      "title": "Cogna (COGN3): Itaú BBA reduz preço-alvo, mas ainda recomenda compra; entenda a aposta do banco",
+      "summary": "O Itaú BBA reduziu o preço-alvo de Cogna (COGN3) de R$ 6 para R$ 4, mas manteve a recomendação de compra, avaliando a companhia como “outperform”. De acordo com o relatório, a decisão foi baseada no posicionamento da Cog",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/cogna-cogn3-itau-bba-reduz-preco-alvo-mas-ainda-recomenda-compra-entenda-a-aposta-do-banco-ceci/",
+      "time": "2026-06-17T14:55:46Z",
+      "cat": "analise",
+      "tickers": [
+        "COGN3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2024/10/cogna-day-trade.webp"
     }
   ],
   "all": [
     {
-      "title": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta",
-      "summary": "Índices futuros dos EUA operam sem força em dia de decisão do Fed",
+      "title": "Aposta errada em IA faz gestora esnobar Nvidia e perder US$ 50 bilhões",
+      "summary": "Aposta em ações de software e resistência aos chips corroeram desempenho, ativos e base de clientes da Polen Capital",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/onde-investir/aposta-errada-em-ia-faz-gestora-da-florida-esnobar-nvidia-e-perder-us-50-bilhoes/",
+      "time": "2026-06-17T15:17:21Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/2025-10-10T110400Z_1_LYNXNPEL990JU_RTROPTP_4_NVIDIA-RESULTS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Ibovespa Hoje Ao Vivo: Bolsa sobe e volta a testar os 171 mil pontos",
+      "summary": "Bolsas dos EUA operam sem força em dia de decisão do Fed",
       "source": "InfoMoney",
       "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-17062026/",
-      "time": "2026-06-17T11:35:12Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Ibovespa-ao-vivo-bolsa-de-valores-7.png?fit=300%2C186&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Raízen, WEG, Jalles Machado, B3, PRIO e mais ações para acompanhar hoje",
-      "summary": "Confira os principais destaques do noticiário corporativo desta quarta-feira",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/raizen-weg-jalles-machado-b3-prio-e-mais-acoes-para-acompanhar-hoje/",
-      "time": "2026-06-17T11:32:14Z",
+      "time": "2026-06-17T15:14:47Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/Captura-de-tela-2025-11-12-130824.png?fit=300%2C199&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-22-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Alupar (ALUP11) pagará R$ 69,2 milhões em dividendos em 6 de julho",
-      "summary": "Terão direito aos dividendos os investidores com posição acionária ao fim do pregão de 14 de maio de 2026",
+      "title": "Argentino envolvido em caso de racismo contra criança vira réu em Minas Gerais",
+      "summary": "Durante viagem ao Brasil, argentino filmou uma criança negra e fez comentários racistas em uma conversa de WhatsApp",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/alupar-alup11-pagara-r-692-milhoes-em-dividendos-em-6-de-julho/",
-      "time": "2026-06-17T11:26:42Z",
-      "cat": "fundos",
-      "tickers": [
-        "ALUP11"
-      ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/12/graph-163509_1920.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Telefônica Brasil (VIVT3) aprova incorporação da Fibrasil",
-      "summary": "Fibrasil será extinta e todo o seu patrimônio será sucedido pela Telefônica Brasil",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/telefonica-brasil-vivt3-aprova-incorporacao-da-fibrasil/",
-      "time": "2026-06-17T11:12:29Z",
-      "cat": "acoes",
-      "tickers": [
-        "VIVT3"
-      ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/telefonica_bloomberg.jpg?fit=300%2C204&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Ações da BMW atingem mínimas de 2020 após alerta sobre lucros",
-      "summary": "É um mau começo para o presidente-executivo Milan Nedeljkovic, que assumiu o cargo no ⁠mês passado, substituindo ​o líder de ​longa data Oliver Zipse",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/acoes-da-bmw-atingem-minimas-de-2020-apos-alerta-sobre-lucros/",
-      "time": "2026-06-17T11:07:14Z",
+      "url": "https://www.infomoney.com.br/brasil/argentino-envolvido-em-caso-de-racismo-contra-crianca-vira-reu-em-minas-gerais/",
+      "time": "2026-06-17T15:08:02Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/10/2024-10-04T193856Z_1_LYNXMPEK930PM_RTROPTP_4_BMW-OUTLOOK.jpg?fit=300%2C210&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/PCMG.png?fit=300%2C231&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Líderes do G7 exigem cessar-fogo no Líbano e acolhem com satisfação acordo com Irã",
-      "summary": "Os líderes se reuniram para uma cúpula na cidade francesa de Evian-les-Bains, às margens do Lago Genebra",
+      "title": "Operação em novo poço da PRIO ajuda a reduzir preocupações sobre novos atrasos",
+      "summary": "Com Wahoo, companhia tem seus quatro poços de produção em operação",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mundo/lideres-do-g7-exigem-cessar-fogo-no-libano-e-acolhem-com-satisfacao-acordo-com-ira/",
-      "time": "2026-06-17T11:03:56Z",
+      "url": "https://www.infomoney.com.br/mercados/operacao-em-novo-poco-da-prio-ajuda-a-reduzir-preocupacoes-sobre-novos-atrasos/",
+      "time": "2026-06-17T15:07:05Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-15T084636Z_1_LYNXMPEM5E0P1_RTROPTP_4_G7-SUMMIT-GROUP.jpg?fit=300%2C142&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/Frade.jpeg?fit=300%2C225&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Jalles Machado (JALL3) tem prejuízo de R$ 50,9 mi no 4T, alta anual de 498,8%",
-      "summary": "A receita líquida totalizou R$ 487,8 milhões",
+      "title": "Carlos Alberto Parreira é internado no Rio após complicações de saúde",
+      "summary": "Ex-técnico da seleção brasileira está no Hospital Samaritano, na Barra da Tijuca",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/jalles-machado-jall3-resultados-quarto-trimestre-2025/",
-      "time": "2026-06-17T11:02:25Z",
+      "url": "https://www.infomoney.com.br/esportes/carlos-alberto-parreira-e-internado-no-rio-apos-complicacoes-de-saude/",
+      "time": "2026-06-17T15:05:37Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/jalles-machado.jpg?fit=300%2C182&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/916163-parreira_coletiva_copa-2014.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Ações da BMW caem ao menor nível desde 2020 após alerta sobre lucros",
-      "summary": "As ações da montadora alemã de luxo BMW recuavam cerca de 7% na bolsa de valores de Frankfurt, na Alemanha, após a empresa ter divulgado, na noite de terça-feira (16), um alerta sobre os lucros que, segundo alguns analis",
+      "title": "Se a gestora tiver problemas, o que acontece com seu fundo? Anbima explica",
+      "summary": "Entenda por que problemas financeiros da gestora não significam, necessariamente, perda dos recursos aplicados nos fundos",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/onde-investir/se-a-gestora-tiver-problemas-o-que-acontece-com-seu-fundo-anbima-explica/",
+      "time": "2026-06-17T15:00:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/10/shutterstock_1536090044.png?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Esta small cap pode disparar mais de 50% na bolsa e segue como compra para o Safra",
+      "summary": "O Banco Safra reiterou a recomendação de compra (outperform) para as ações da Panvel (PNVL3), mesmo após reduzir o preço-alvo de R$ 22 para R$ 17, destacando, em relatório, que a rede de farmácias negocia a níveis consid",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/acoes-da-bmw-caem-ao-menor-nivel-desde-2020-apos-alerta-sobre-lucros-igdl/",
-      "time": "2026-06-17T11:23:36Z",
+      "url": "https://www.moneytimes.com.br/esta-small-cap-pode-disparar-mais-de-50-na-bolsa-e-segue-como-compra-para-o-safra-igdl/",
+      "time": "2026-06-17T15:16:55Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2022/02/img-3-bmweletric2022.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2025/11/acoes-bolsa-grafico-1-1-1-1-1.jpg"
     },
     {
-      "title": "Engie Brasil (EGIE3) detalha acordo sobre participação na Jirau financiado por aumento de capital de R$ 5,74 bi",
-      "summary": "A Engie Brasil (EGIE3) detalhou, em um documento apresentado à Comissão de Valores Mobiliários (CVM) na noite de terça-feira (16), os termos de um acordo para adquirir uma participação de 40% na usina hidrelétrica de Jir",
+      "title": "Cogna (COGN3): Itaú BBA reduz preço-alvo, mas ainda recomenda compra; entenda a aposta do banco",
+      "summary": "O Itaú BBA reduziu o preço-alvo de Cogna (COGN3) de R$ 6 para R$ 4, mas manteve a recomendação de compra, avaliando a companhia como “outperform”. De acordo com o relatório, a decisão foi baseada no posicionamento da Cog",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/engie-brasil-detalha-acordo-sobre-participacao-na-jirau-financiado-por-aumento-de-capital-de-r-574-bi-lmrs/",
-      "time": "2026-06-17T11:19:31Z",
+      "url": "https://www.moneytimes.com.br/cogna-cogn3-itau-bba-reduz-preco-alvo-mas-ainda-recomenda-compra-entenda-a-aposta-do-banco-ceci/",
+      "time": "2026-06-17T14:55:46Z",
+      "cat": "analise",
+      "tickers": [
+        "COGN3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2024/10/cogna-day-trade.webp"
+    },
+    {
+      "title": "Número de golpes dispara durante declaração e restituição do imposto de renda; veja como se proteger",
+      "summary": "O prazo para enviar a declaração do Imposto de Renda de 2026 terminou em 29 de maio, mas o volume de fraudes digitais ligadas ao tema segue em alta. Levantamento feito pela empresa de segurança digital Kaspersky identifi",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/numero-de-golpes-dobra-durante-declaracao-e-restituicao-do-imposto-de-renda-veja-como-se-prevenir-gaep/",
+      "time": "2026-06-17T14:50:33Z",
       "cat": "acoes",
-      "tickers": [
-        "EGIE3"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2024/08/engie-brasil-egie3.webp"
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/05/imposto-de-renda-2025-2.jpg"
     },
     {
-      "title": "Bitcoin (BTC) cai antes do ‘Teste de Warsh’ no Banco Central; veja preços das criptomoedas nesta quarta-feira (17)",
-      "summary": "O Bitcoin (BTC) é negociado na casa dos US$ 64,8 mil na manhã desta quarta-feira (17), com uma queda de cerca de 2% nas últimas 24h. O mercado global de criptomoedas opera no vermelho na manhã de hoje, com alguns tokens ",
+      "title": "XP corta preço-alvo e perspectiva de lucro para Vivara (VIVA3) destacando três fatores de atenção",
+      "summary": "Os analistas da XP Investimentos reduziram o preço-alvo das ações da Vivara (VIVA3) de R$ 38 para R$ 35 em um relatório publicado na noite da última terça-feira (16). Após incorporar os números do primeiro trimestre (1T2",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bom-dia-bitcoin-btc-criptomoedas-precos-hoje-rens-170626/",
-      "time": "2026-06-17T11:19:04Z",
-      "cat": "cripto",
-      "tickers": [
-        "BTC"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/04/kevin-warsh-fed-eua-.jpg"
+      "url": "https://www.moneytimes.com.br/xp-corta-preco-alvo-e-perspectiva-de-lucro-para-vivara-viva3-destacando-tres-fatores-de-pressao-para-empresa-rens/",
+      "time": "2026-06-17T14:44:27Z",
+      "cat": "analise",
+      "tickers": [],
+      "image": null
     },
     {
-      "title": "Conselho da Telefônica Brasil (VIVT3) aprova incorporação da FiBrasil; veja detalhes",
-      "summary": "O conselho de administração da Telefônica Brasil (VIVT3), dona da Vivo, aprovou a proposta de incorporação da subsidiária FiBrasil e convocação de Assembleia Geral Extraordinária da companhia para o dia 1 de julho de 202",
+      "title": "O que esperar do Fed? Mercado aposta em manutenção dos juros, mas foco estará no tom de Kevin Warsh",
+      "summary": "O mercado financeiro acompanha nesta quarta-feira (17) a decisão de política monetária do Federal Reserve (Fed), em um encontro que marca a estreia de Kevin Warsh à frente do banco central americano. A expectativa é ampl",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/conselho-da-telefonica-brasil-vivt3-aprova-incorporacao-da-fibrasil-veja-detalhes-lmrs/",
-      "time": "2026-06-17T11:14:05Z",
-      "cat": "acoes",
-      "tickers": [
-        "VIVT3"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2024/08/telefonica-vivt3-day-trade.jpg"
-    },
-    {
-      "title": "À espera do Fed: inflação, emprego e PIB dão pistas sobre o futuro dos juros nos EUA",
-      "summary": "A decisão de juros do Federal Reserve desta quarta-feira (17) deve manter os investidores globais em compasso de espera. A expectativa amplamente majoritária do mercado é de manutenção da taxa básica americana no interva",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/a-espera-do-fed-inflacao-emprego-e-pib-dao-pistas-sobre-o-futuro-dos-juros-nos-eua-jcav/",
-      "time": "2026-06-17T11:00:00Z",
+      "url": "https://www.moneytimes.com.br/o-que-esperar-do-fed-mercado-aposta-em-manutencao-dos-juros-mas-foco-estara-no-tom-de-kevin-warsh-jcav/",
+      "time": "2026-06-17T14:42:03Z",
       "cat": "economia",
       "tickers": [],
       "image": "https://www.moneytimes.com.br/uploads/2025/07/fomc-federal-reserve-fed-juros-eua-estados-unidos.jpg"
     },
     {
-      "title": "Fundo imobiliário mira captação de até R$ 2,3 bilhões em nova emissão de cotas; IFIX recua",
-      "summary": "O fundo imobiliário Suno Energias Limpas (SNEL11) aprovou a realização de sua 5ª emissão de cotas, com volume inicial de R$ 1,84 bilhão, mostra fato relevante divulgado ao mercado nessa terça-feira (16). De acordo com o ",
+      "title": "Jalles (JALL3) reporta prejuízo de R$ 50,9 milhões no 4T26 e ações desabam; o que dizem os analistas?",
+      "summary": "A Jalles (JALL3) registrou um prejuízo de R$ 50,9 milhões no quarto trimestre da safra 2025/2026 (4T26) após o fechamento de mercado ontem (16). Nesta quarta-feira (17), as ações reagiam com tombo 7,98% por volta de 10h4",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/fundo-imobiliario-mira-captacao-de-ate-r-23-bilhoes-em-nova-emissao-de-cotas-ifix-recua-igdl/",
-      "time": "2026-06-17T10:56:53Z",
+      "url": "https://www.moneytimes.com.br/jalles-jall3-reporta-prejuizo-de-r-509-milhoes-no-4t26-e-acoes-desabam-o-que-dizem-btg-e-xp-pads/",
+      "time": "2026-06-17T14:37:14Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Governo vai encerrar subsídios a combustíveis se petróleo estabilizar perto de US$ 80, diz Ceron",
+      "summary": "O Brasil vai encerrar medidas de subsídios aos preços de combustíveis, incluindo diesel e gasolina, caso a cotação do petróleo se acomode em cerca de US$ 80 o barril na esteira de acordo sinalizado pelos Estados Unidos c",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/governo-vai-encerrar-subsidios-a-combustiveis-se-petroleo-estabilizar-perto-de-us80-diz-ceron/",
+      "time": "2026-06-17T14:28:40Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Na última hora, Inep prorroga prazo de pagamento da taxa de inscrição do Enem 2026; veja até quando vai",
+      "summary": "O Inep junto ao Ministério da Educação (MEC) anunciou na manhã desta quarta-feira (17) a decisão de prorrogar o prazo de pagamento da taxa de inscrição do Enem 2026. Até então, a data limite era hoje (17). Agora, os atra",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/inep-prorroga-prazo-de-pagamento-da-taxa-de-inscricao-do-enem-2026-mlem/",
+      "time": "2026-06-17T14:08:02Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Dividendos em alta e potencial de valorização: Por que este fundo imobiliário é compra para o BTG",
+      "summary": "O BTG Pactual manteve a recomendação de compra para o fundo imobiliário Vinci Shopping Centers (VISC11), destacando, em relatório, que a tese de investimento combina três principais pilares: possibilidade de aumento dos ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/dividendos-em-alta-e-potencial-de-valorizacao-por-que-este-fundo-imobiliario-e-compra-para-o-btg-igdl/",
+      "time": "2026-06-17T13:49:43Z",
+      "cat": "fundos",
+      "tickers": [
+        "VISC11"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/02/ifix.jpg"
+    },
+    {
+      "title": "Super Quarta: veja o que esperar das decisões do Copom e do Fed",
+      "summary": "A chamada Super Quarta movimenta os mercados financeiros nesta quarta-feira (17), com as decisões de política monetária do Banco Central do Brasil e do Federal Reserve (Fed), banco central dos Estados Unidos. A expectati",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/super-quarta-copom-fed-o-que-esperar-decisoes-juros-go/",
+      "time": "2026-06-17T15:15:07Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Pizza Hut é vendida por US$ 2,7 bilhões; veja detalhes da operação",
+      "summary": "Pizza Hut é vendida por US$ 2,7 bilhões; veja detalhes da operaçãoA gigante do setor de fast-food Yum Brands fechou um acordo nesta terça-feira, 16, para a venda da rede Pizza Hut por US$ 2,7 bilhões. O movimento foi mot",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/yum-brands-vende-rede-pizza-hut-por-us-27-bilhoes-go/",
+      "time": "2026-06-17T14:52:43Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Cinco fundos imobiliários pagam dividendos nesta quarta-feira; veja quais",
+      "summary": "Cinco fundos imobiliários farão pagamento de dividendos nesta quarta-feira. Entre os destaques, dois veículos distribuirão R$ 0,95 e R$ 1,00 por cota, respectivamente, dentro do calendário do mês. Os investidores que têm",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/dividendos-fiis-pagam-hoje-dy/",
+      "time": "2026-06-17T12:45:05Z",
       "cat": "fundos",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/04/fundos-imobiliarios-carteira-recomendada-.jpg"
+      "image": null
     },
     {
       "title": "SNEL11 negocia mais de R$ 10 mi enquanto IPO da SpaceX reforça tese energética",
@@ -217,165 +261,105 @@
       "image": null
     },
     {
-      "title": "Superquarta sem festa? Analistas veem Fed travado e Copom ainda sob pressão",
-      "summary": "O Fed e Copom chegam à Superquarta em meio a um alívio nos mercados globais, após sinais de solução entre Washington e Teerã reduzirem a pressão sobre o petróleo. Mas, para analistas, esse respiro ainda não muda o cenári",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/copom-fed-superquarta-juros-selic-analistas-mt/",
-      "time": "2026-06-16T18:05:00Z",
+      "title": "Investidores apostam em Fed mais unido na estreia de Warsh",
+      "summary": "Apostas indicam baixa chance de repetição das dissidências que marcaram a reunião de abril",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/investidores-apostam-em-fed-mais-unido-na-estreia-de-warsh/",
+      "time": "2026-06-17T11:32:45Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/05/1200x800-1.png"
+    },
+    {
+      "title": "A Rolex abriu a butique de relógios mais alta do mundo nos Alpes suíços",
+      "summary": "Loja fica a mais de 3.000 metros de altitude no Monte Titlis, na Suíça, dentro de uma torre projetada pelo Herzog de Meuron",
+      "source": "Exame",
+      "url": "https://exame.com/casual/a-rolex-abriu-a-butique-de-relogios-mais-alta-do-mundo-nos-alpes-suicos/",
+      "time": "2026-06-17T11:02:26Z",
       "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/rolex-alpes.jpg"
+    },
+    {
+      "title": "Noruega - Ações fecharam o pregão em alta e o Índice Oslo OBX avançou 0,06%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/noruega--acoes-fecharam-o-pregao-em-alta-e-o-indice-oslo-obx-avancou-006-1976304",
+      "time": "2026-06-17T14:56:08Z",
+      "cat": "internacional",
       "tickers": [],
       "image": null
     },
     {
-      "title": "Braskem (BRKM5) afunda na Bolsa após virar ré no caso Maceió",
-      "summary": "A Braskem (BRKM5) liderava as perdas do Ibovespa nesta terça-feira (16), depois que a Justiça Federal em Alagoas aceitou denúncia do Ministério Público Federal (MPF) e tornou a companhia ré por crimes ambientais relacion",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/braskem-brkm5-cai-re-justica-maceio-mt/",
-      "time": "2026-06-16T17:15:07Z",
-      "cat": "acoes",
+      "title": "Israel - Ações fecharam o pregão em queda e o Índice TA 35 recuou 1,54%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/israel--acoes-fecharam-o-pregao-em-queda-e-o-indice-ta-35-recuou-154-1976303",
+      "time": "2026-06-17T14:55:43Z",
+      "cat": "internacional",
       "tickers": [],
       "image": null
     },
     {
-      "title": "Irã ameaça reação militar após novos ataques de Israel no Líbano",
-      "summary": "Ameaça ocorre enquanto EUA e Irã se preparam para assinar acordo na Suíça",
-      "source": "Exame",
-      "url": "https://exame.com/mundo/ira-ameaca-reacao-militar-apos-novos-ataques-de-israel-no-libano/",
-      "time": "2026-06-17T08:43:31Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/05/Guerra-Ira-Eua.jpg"
-    },
-    {
-      "title": "Guerra no Oriente Médio derruba previsão para petróleo, diz AIE",
-      "summary": "Bloqueio do Estreito de Ormuz pressionou oferta, consumo e estoques globais de petróleo",
-      "source": "Exame",
-      "url": "https://exame.com/mundo/guerra-no-oriente-medio-derruba-previsao-para-petroleo-diz-aie/",
-      "time": "2026-06-17T08:36:39Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/03/petroleo_crise.jpg"
-    },
-    {
-      "title": "Irã retoma exportação de petróleo após dois meses de bloqueio",
-      "summary": "Dois superpetroleiros deixaram águas iranianas após avanço das negociações entre Teerã e Washington",
-      "source": "Exame",
-      "url": "https://exame.com/mundo/ira-retoma-exportacao-de-petroleo-apos-dois-meses-de-bloqueio/",
-      "time": "2026-06-17T08:31:19Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/04/barrels-oil-high-seas-created-with-generative-ai-technology.jpg"
-    },
-    {
-      "title": "Tramitação da PEC do fim da escala 6x1 deve ficar para julho no Senado",
-      "summary": "Presidente da CCJ prevê definição da tramitação apenas na primeira quinzena de julho.",
-      "source": "Exame",
-      "url": "https://exame.com/brasil/tramitacao-da-pec-do-fim-da-escala-6x1-deve-ficar-para-julho-no-senado/",
-      "time": "2026-06-17T08:19:30Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/03/Senado.jpg"
-    },
-    {
-      "title": "Portugal vai ganhar a Copa do Mundo? Veja chances de Cristiano Ronaldo ser campeão",
-      "summary": "Com Cristiano Ronaldo na sexta Copa da carreira, Portugal aparece entre as 10 seleções com maior chance de conquistar o Mundial",
-      "source": "Exame",
-      "url": "https://exame.com/esporte/portugal-vai-ganhar-a-copa-do-mundo-veja-chances-de-cristiano-ronaldo-ser-campeao/",
-      "time": "2026-06-17T08:14:13Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2022/11/GettyImages-1444540503.jpg"
-    },
-    {
-      "title": "Ações da Figma sobem 5% após Citi iniciar cobertura com recomendação de compra",
+      "title": "Grécia - Ações fecharam o pregão em alta e o Índice Athens General Composite avançou 0,38%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-figma-sobem-5-apos-citi-iniciar-cobertura-com-recomendacao-de-compra-93CH-1975847",
-      "time": "2026-06-17T11:31:00Z",
-      "cat": "analise",
+      "url": "https://br.investing.com/news/stock-market-news/grecia--acoes-fecharam-o-pregao-em-alta-e-o-indice-athens-general-composite-avancou-038-1976302",
+      "time": "2026-06-17T14:55:18Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEA8P0MA_M.jpg"
     },
     {
-      "title": "Por que as ações da Monolithic Power Systems estão subindo hoje?",
+      "title": "Ações da Our Bond disparam após contrato governamental de US$ 3M",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-monolithic-power-systems-estao-subindo-hoje-93CH-1975842",
-      "time": "2026-06-17T11:27:42Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-our-bond-disparam-apos-contrato-governamental-de-us-3m-93CH-1976299",
+      "time": "2026-06-17T14:54:32Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Ações da Palladyne AI sobem após contratos com o Exército dos EUA",
+      "title": "Saab investe US$ 12,9 milhões por participação de 10% na Comand AI",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-palladyne-ai-sobem-apos-contratos-com-o-exercito-dos-eua-93CH-1975841",
-      "time": "2026-06-17T11:27:35Z",
+      "url": "https://br.investing.com/news/stock-market-news/saab-investe-us-129-milhoes-por-participacao-de-10-na-comand-ai-93CH-1976296",
+      "time": "2026-06-17T14:53:41Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Por que as ações da Broadcom estão subindo hoje?",
+      "title": "Por que as ações da Eos Energy estão disparando hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-broadcom-estao-subindo-hoje-93CH-1975840",
-      "time": "2026-06-17T11:27:10Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-eos-energy-estao-disparando-hoje-93CH-1976295",
+      "time": "2026-06-17T14:53:28Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "MSC nega especulações sobre possível participação na Hapag-Lloyd",
+      "title": "Jefferies resume cúpula de navegação com quatro empresas de tankers",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/msc-nega-especulacoes-sobre-possivel-participacao-na-hapaglloyd-93CH-1975839",
-      "time": "2026-06-17T11:25:52Z",
+      "url": "https://br.investing.com/news/stock-market-news/jefferies-resume-cupula-de-navegacao-com-quatro-empresas-de-tankers-93CH-1976293",
+      "time": "2026-06-17T14:52:53Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "HSBC Brasil quer chegar a top 10 do banco no mundo, diz CEO",
+      "title": "Ações da Stratasys sobem com lançamento de novo material para trilhos",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/hsbc-brasil-quer-chegar-a-top-10-do-banco-no-mundo-diz-ceo-1975836",
-      "time": "2026-06-17T11:22:11Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5G0WV_1200_L.jpg"
-    },
-    {
-      "title": "Ações da ClearPoint Neuro disparam após aprovação da FDA para concorrente",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-clearpoint-neuro-disparam-apos-aprovacao-da-fda-para-concorrente-93CH-1975835",
-      "time": "2026-06-17T11:22:07Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Ação da uniQure deve subir após FDA aprovar via BLA para AMT-130",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acao-da-uniqure-deve-subir-apos-fda-aprovar-via-bla-para-amt130-93CH-1975830",
-      "time": "2026-06-17T11:16:42Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Ações da Ormat Technologies caem após classificação ’underperform’ da Bernstein",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-ormat-technologies-caem-apos-classificacao-underperform-da-bernstein-93CH-1975815",
-      "time": "2026-06-17T11:13:22Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-stratasys-sobem-com-lancamento-de-novo-material-para-trilhos-93CH-1976291",
+      "time": "2026-06-17T14:50:57Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "17/06/2026 11:48"
+  "atualizado_em": "17/06/2026 15:29"
 }
