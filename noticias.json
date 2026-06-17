@@ -1,41 +1,69 @@
 {
   "headline": {
-    "title": "WEG (WEGE3) aprova pagamento de R$ 438 milhões em juros sobre capital próprio",
-    "summary": "A WEG (WEGE3) aprovou a distribuição de R$ 438,1 milhões em juros sobre capital próprio (JCP), informou a companhia em comunicado ao mercado nesta terça-feira (16). O valor corresponde a R$ 0,10 por ação. Terão direito a",
-    "source": "Money Times",
-    "url": "https://www.moneytimes.com.br/weg-wege3-aprova-pagamento-de-r-438-milhoes-em-juros-sobre-capital-proprio/",
-    "time": "2026-06-16T22:42:28Z",
-    "cat": "economia",
-    "tickers": [
-      "WEGE3"
-    ],
-    "image": "https://www.moneytimes.com.br/uploads/2024/09/weg-2-1.webp"
+    "title": "Senasic Electronics dispara 120% em sua estreia na bolsa de Hong Kong",
+    "summary": "",
+    "source": "Investing.com",
+    "url": "https://br.investing.com/news/stock-market-news/senasic-electronics-dispara-120-em-sua-estreia-na-bolsa-de-hong-kong-1975554",
+    "time": "2026-06-17T05:26:12Z",
+    "cat": "internacional",
+    "tickers": [],
+    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
   },
   "featured": [
     {
-      "title": "Superquarta sem festa? Analistas veem Fed travado e Copom ainda sob pressão",
-      "summary": "O Fed e Copom chegam à Superquarta em meio a um alívio nos mercados globais, após sinais de solução entre Washington e Teerã reduzirem a pressão sobre o petróleo. Mas, para analistas, esse respiro ainda não muda o cenári",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/copom-fed-superquarta-juros-selic-analistas-mt/",
-      "time": "2026-06-16T18:05:00Z",
-      "cat": "economia",
+      "title": "Por que as ações da Suzhou Dongshan Precision Manufacturing estão disparando hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-suzhou-dongshan-precision-manufacturing-estao-disparando-hoje-93CH-1975546",
+      "time": "2026-06-17T05:00:09Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": null
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "ANP aprova pagamento de R$740 mi à Petrobras (PETR4) referente à 1ª fase do subsídio ao diesel",
-      "summary": "A Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) aprovou o pagamento à Petrobras (PETR4) de aproximadamente R$740 milhões referente ao primeiro período do programa de subvenção econômica à comercializa",
+      "title": "WEG (WEGE3) aprova pagamento de R$ 438 milhões em juros sobre capital próprio",
+      "summary": "A WEG (WEGE3) aprovou a distribuição de R$ 438,1 milhões em juros sobre capital próprio (JCP), informou a companhia em comunicado ao mercado nesta terça-feira (16). O valor corresponde a R$ 0,10 por ação. Terão direito a",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/anp-aprova-pagamento-de-r740-mi-a-petrobras-petr4-referente-a-1a-fase-do-subsidio-ao-diesel/",
-      "time": "2026-06-16T21:22:38Z",
-      "cat": "acoes",
+      "url": "https://www.moneytimes.com.br/weg-wege3-aprova-pagamento-de-r-438-milhoes-em-juros-sobre-capital-proprio/",
+      "time": "2026-06-16T22:42:28Z",
+      "cat": "economia",
       "tickers": [
-        "PETR4"
+        "WEGE3"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/08/petrobras-dividendos-2-1-1.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2024/09/weg-2-1.webp"
     }
   ],
   "all": [
+    {
+      "title": "Senadora pede abertura de CPI para investigar Master e BMG",
+      "summary": "A proposta conta com assinaturas de 29 parlamentares de nove partidos diferentes",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/senadora-pede-abertura-de-cpi-para-investigar-master-e-bmg/",
+      "time": "2026-06-17T01:05:23Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/senado.jpeg?fit=300%2C199&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "PGR defende manutenção de condenação de Bolsonaro por tentativa de golpe",
+      "summary": "Gonet afirma que não houve irregularidades no julgamento e reafirma tese de que ex-presidente liderou organização criminosa voltada à ruptura da ordem democrática",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/pgr-defende-manutencao-de-condenacao-de-bolsonaro-por-tentativa-de-golpe/",
+      "time": "2026-06-17T01:02:05Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/03/paulo-gonet.jpeg?fit=300%2C199&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Lotofácil hoje, concurso 3712: Confira o resultado sorteado nesta terça (16)",
+      "summary": "O prêmio estimado para este concurso era de R$ 2 milhões",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3712-confira-o-resultado-sorteado-nesta-terca-16/",
+      "time": "2026-06-17T00:20:25Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/11-09-2020_loteria-4.webp?fit=300%2C225&amp;quality=70&amp;strip=all"
+    },
     {
       "title": "Mega-Sena hoje, concurso 3019: confira o resultado sorteado nesta terça (16)",
       "summary": "O prêmio principal para este concurso é de R$ 15.576.493,59",
@@ -45,36 +73,6 @@
       "cat": "acoes",
       "tickers": [],
       "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/20230622_182658.jpg?fit=300%2C179&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Falta de visto desfalca torcida do Senegal, que recebe apoio de fãs internacionais",
-      "summary": "Imigrantes e torcedores internacionais substituíram torcedores de Senegal que não puderam viajar aos Estados Unidos para a partida desta terça-feira contra aFRança",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/esportes/falta-de-visto-desfalca-torcida-do-senegal-que-recebe-apoio-de-fas-internacionais/",
-      "time": "2026-06-16T23:57:17Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Torcida-do-SEnegal.jpg?fit=300%2C187&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Defesa do pai de Vorcaro critica prisão e diz não ter acesso integral às provas",
-      "summary": "Segunda Turma do STF manteve prisão de Henrique Vorcaro por maioria de votos",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/defesa-do-pai-de-vorcaro-critica-prisao-e-diz-nao-ter-acesso-integral-as-provas/",
-      "time": "2026-06-16T23:49:58Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/a3e50e057254e922-580x0-1.jpeg?fit=300%2C169&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Dia encerra processo de recuperação judicial antes do prazo e mira expansão no Brasil",
-      "summary": "Segundo a companhia, a antecipação foi possível após o cumprimento de 100% das metas e compromissos estabelecidos no processo de recuperação",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/business/dia-encerra-processo-de-recuperacao-judicial-antes-do-prazo-e-mira-expansao-no-brasil/",
-      "time": "2026-06-16T22:38:05Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/loja-dia-supermercados.jpg?fit=300%2C198&amp;quality=70&amp;strip=all"
     },
     {
       "title": "Moura Dubeux (MDNE3) cria programa de recompra de até 1,36 milhão de ações",
@@ -108,7 +106,7 @@
       "time": "2026-06-16T22:36:00Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2019/03/moneytimes44.jpg"
+      "image": null
     },
     {
       "title": "B3 (B3SA3): volume negociado em ações sobe 16,8% em maio; derivativos recuam",
@@ -118,7 +116,7 @@
       "time": "2026-06-16T22:13:09Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/10/b3-renda-fixa.jpg"
+      "image": null
     },
     {
       "title": "Prio (PRIO3) conclui abertura do quarto poço em Wahoo e estabiliza produção da unidade em 10 mil barris por dia",
@@ -227,6 +225,36 @@
       "image": null
     },
     {
+      "title": "Entenda o que são medidas provisórias e como funciona a tramitação",
+      "summary": "Editadas pelo Executivo em casos de relevância e urgência, normas têm força de lei imediata, mas perdem a validade se não forem aprovadas pelo Congresso Nacional em até 120 dias",
+      "source": "Exame",
+      "url": "https://exame.com/esferabrasil/entenda-o-que-sao-medidas-provisorias-e-como-funciona-a-tramitacao/",
+      "time": "2026-06-17T00:10:03Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2025/02/MM24_PERSPECTIVAS_.webp"
+    },
+    {
+      "title": "Estrela de 'Gladiador', Russell Crowe critica 'Gladiador II' e explica onde a sequência errou",
+      "summary": "Ator vencedor do Oscar afirma que a sequência ignorou os elementos emocionais que transformaram o clássico de 2000 em um fenômeno mundial",
+      "source": "Exame",
+      "url": "https://exame.com/pop/estrela-de-gladiador-russell-crowe-critica-gladiador-ii-e-explica-onde-a-sequencia-errou/",
+      "time": "2026-06-16T23:27:40Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2025/01/tdfhohunNwgMTfWxmSWmLoJWk4H.jpg"
+    },
+    {
+      "title": "Banco Mundial aprova pacote de garantias e empréstimos de US$ 2 bi para Argentina",
+      "summary": "Garantias cobrirão 95% dos pagamentos do serviço da dívida de empréstimo comercial, segundo a instituição",
+      "source": "Exame",
+      "url": "https://exame.com/economia/banco-mundial-aprova-pacote-de-garantias-e-emprestimos-de-us-2-bi-para-argentina/",
+      "time": "2026-06-16T21:12:20Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2021/06/Banco-Mundial.jpg"
+    },
+    {
       "title": "Privatização da Copasa é concluída em cerimônia na B3; MG receberá R$ 8 bi",
       "summary": "Com o fim do processo, ocorre agora a transferência das ações aos novos acionistas e a liquidação financeira da operação junto ao governo de Minas Gerais",
       "source": "Exame",
@@ -257,115 +285,75 @@
       "image": "https://classic.exame.com/wp-content/uploads/2026/06/lamine-yamal-spain-world-cup.jpg"
     },
     {
-      "title": "Nova série de Harlan Coben chega à Netflix e promete ser o suspense da semana",
-      "summary": "Série acompanha um pai condenado por assassinato que descobre que o filho pode estar vivo",
-      "source": "Exame",
-      "url": "https://exame.com/pop/nova-serie-de-harlan-coben-chega-a-netflix-e-promete-ser-o-suspense-da-semana/",
-      "time": "2026-06-16T19:29:45Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/eu-vou-te-encontrar-netflix-1.webp"
-    },
-    {
-      "title": "Anac anuncia novas regras para operação de drones no Brasil e abre caminho para serviços de entrega",
-      "summary": "Mudanças nas regras substituem norma em vigor desde 2017 e redefinem exigências para voos comerciais e profissionais",
-      "source": "Exame",
-      "url": "https://exame.com/brasil/anac-anuncia-novas-regras-para-operacao-de-drones-no-brasil-e-abre-caminho-para-servicos-de-entrega/",
-      "time": "2026-06-16T19:22:48Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/02/Copia-de-Drone-iFood_7-1.jpg"
-    },
-    {
-      "title": "Dia sai da recuperação judicial após corte radical de custos",
-      "summary": "Rede conclui reestruturação antes do prazo, com 238 lojas revitalizadas em São Paulo e novo ciclo de expansão via franquias",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/dia-supermercados-sai-da-recuperacao-judicial-dois-anos-apos-rombo-de-r-11-bi/",
-      "time": "2026-06-16T18:54:54Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2020/10/IMG_20201026_120444560.jpg"
-    },
-    {
-      "title": "Argentina x Argélia: onde assistir ao vivo, horário e prováveis escalações na Copa",
-      "summary": "Messi pode ampliar recorde de jogos em Mundiais em sua sexta participação no torneio",
-      "source": "Exame",
-      "url": "https://exame.com/esporte/argentina-x-argelia-onde-assistir-ao-vivo-horario-e-provaveis-escalacoes/",
-      "time": "2026-06-16T18:48:03Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/CopadoMundo-Argentina-x-Argelia.png"
-    },
-    {
-      "title": "Por que as ações da Lionsgate Studios estão caindo no after-hours?",
+      "title": "Senasic Electronics dispara 120% em sua estreia na bolsa de Hong Kong",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-lionsgate-studios-estao-caindo-no-afterhours-93CH-1975383",
-      "time": "2026-06-16T23:27:21Z",
+      "url": "https://br.investing.com/news/stock-market-news/senasic-electronics-dispara-120-em-sua-estreia-na-bolsa-de-hong-kong-1975554",
+      "time": "2026-06-17T05:26:12Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "S&P eleva rating da Scotts Miracle-Gro com melhora nas métricas",
+      "title": "Por que as ações da Suzhou Dongshan Precision Manufacturing estão disparando hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/sp-eleva-rating-da-scotts-miraclegro-com-melhora-nas-metricas-93CH-1975330",
-      "time": "2026-06-16T22:00:40Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-suzhou-dongshan-precision-manufacturing-estao-disparando-hoje-93CH-1975546",
+      "time": "2026-06-17T05:00:09Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Ações da McGraw Hill disparam após compra de insider",
+      "title": "Xiaohongshu se prepara para IPO em Hong Kong com valor acima de US$ 70 bilhões",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-mcgraw-hill-disparam-apos-compra-de-insider-93CH-1975327",
-      "time": "2026-06-16T21:51:29Z",
+      "url": "https://br.investing.com/news/stock-market-news/xiaohongshu-se-prepara-para-ipo-em-hong-kong-com-valor-acima-de-us-70-bilhoes-1975545",
+      "time": "2026-06-17T04:27:18Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "México - Ações fecharam o pregão em alta e o Índice S&P/BMV IPC avançou 0,40%",
+      "title": "Ações da Tamron disparam após novo plano de gestão de médio prazo",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/mexico--acoes-fecharam-o-pregao-em-alta-e-o-indice-spbmv-ipc-avancou-040-1975302",
-      "time": "2026-06-16T21:30:18Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-tamron-disparam-apos-novo-plano-de-gestao-de-medio-prazo-93CH-1975539",
+      "time": "2026-06-17T04:04:30Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPED8P25V_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Colômbia - Ações fecharam o pregão em queda e o Índice COLCAP recuou 0,65%",
+      "title": "Ações da Capcom disparam após upgrade da Nomura e novos lançamentos",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/colombia--acoes-fecharam-o-pregao-em-queda-e-o-indice-colcap-recuou-065-1975294",
-      "time": "2026-06-16T21:25:19Z",
-      "cat": "fundos",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-capcom-disparam-apos-upgrade-da-nomura-e-novos-lancamentos-93CH-1975537",
+      "time": "2026-06-17T03:53:28Z",
+      "cat": "analise",
       "tickers": [],
-      "image": null
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Csquare abre capital na bolsa de Nova York sob o ticker CSQR",
+      "title": "Por que a ação da Kingboard Holdings disparou hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/csquare-abre-capital-na-bolsa-de-nova-york-sob-o-ticker-csqr-1975296",
-      "time": "2026-06-16T21:24:42Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-a-acao-da-kingboard-holdings-disparou-hoje-93CH-1975533",
+      "time": "2026-06-17T03:19:53Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEA610O1_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Rússia - Ações fecharam o pregão em queda e o Índice MOEX Russia Index recuou 1,95%",
+      "title": "Reliance Jio de Ambani deve protocolar IPO de US$ 4 bi em dias",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/russia--acoes-fecharam-o-pregao-em-queda-e-o-indice-moex-russia-index-recuou-195-1975281",
-      "time": "2026-06-16T21:20:19Z",
+      "url": "https://br.investing.com/news/stock-market-news/reliance-jio-de-ambani-deve-protocolar-ipo-de-us-4-bi-em-dias-1975495",
+      "time": "2026-06-17T01:47:42Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB0I0LJ_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "17/06/2026 00:16"
+  "atualizado_em": "17/06/2026 06:12"
 }
