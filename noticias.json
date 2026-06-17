@@ -1,38 +1,72 @@
 {
   "headline": {
-    "title": "Superquarta sem festa? Analistas veem Fed travado e Copom ainda sob pressão",
-    "summary": "O Fed e Copom chegam à Superquarta em meio a um alívio nos mercados globais, após sinais de solução entre Washington e Teerã reduzirem a pressão sobre o petróleo. Mas, para analistas, esse respiro ainda não muda o cenári",
-    "source": "Suno",
-    "url": "https://www.suno.com.br/noticias/copom-fed-superquarta-juros-selic-analistas-mt/",
-    "time": "2026-06-16T18:05:00Z",
+    "title": "WEG (WEGE3) aprova pagamento de R$ 438 milhões em juros sobre capital próprio",
+    "summary": "A WEG (WEGE3) aprovou a distribuição de R$ 438,1 milhões em juros sobre capital próprio (JCP), informou a companhia em comunicado ao mercado nesta terça-feira (16). O valor corresponde a R$ 0,10 por ação. Terão direito a",
+    "source": "Money Times",
+    "url": "https://www.moneytimes.com.br/weg-wege3-aprova-pagamento-de-r-438-milhoes-em-juros-sobre-capital-proprio/",
+    "time": "2026-06-16T22:42:28Z",
     "cat": "economia",
-    "tickers": [],
-    "image": null
+    "tickers": [
+      "WEGE3"
+    ],
+    "image": "https://www.moneytimes.com.br/uploads/2024/09/weg-2-1.webp"
   },
   "featured": [
     {
-      "title": "Ações da McGraw Hill disparam após compra de insider",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-mcgraw-hill-disparam-apos-compra-de-insider-93CH-1975327",
-      "time": "2026-06-16T21:51:29Z",
-      "cat": "internacional",
+      "title": "Superquarta sem festa? Analistas veem Fed travado e Copom ainda sob pressão",
+      "summary": "O Fed e Copom chegam à Superquarta em meio a um alívio nos mercados globais, após sinais de solução entre Washington e Teerã reduzirem a pressão sobre o petróleo. Mas, para analistas, esse respiro ainda não muda o cenári",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/copom-fed-superquarta-juros-selic-analistas-mt/",
+      "time": "2026-06-16T18:05:00Z",
+      "cat": "economia",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+      "image": null
     },
     {
-      "title": "Dia encerra processo de recuperação judicial antes do prazo e mira expansão no Brasil",
-      "summary": "Segundo a companhia, a antecipação foi possível após o cumprimento de 100% das metas e compromissos estabelecidos no processo de recuperação",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/business/dia-encerra-processo-de-recuperacao-judicial-antes-do-prazo-e-mira-expansao-no-brasil/",
-      "time": "2026-06-16T22:38:05Z",
+      "title": "ANP aprova pagamento de R$740 mi à Petrobras (PETR4) referente à 1ª fase do subsídio ao diesel",
+      "summary": "A Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) aprovou o pagamento à Petrobras (PETR4) de aproximadamente R$740 milhões referente ao primeiro período do programa de subvenção econômica à comercializa",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/anp-aprova-pagamento-de-r740-mi-a-petrobras-petr4-referente-a-1a-fase-do-subsidio-ao-diesel/",
+      "time": "2026-06-16T21:22:38Z",
       "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/loja-dia-supermercados.jpg?fit=300%2C198&amp;quality=70&amp;strip=all"
+      "tickers": [
+        "PETR4"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/08/petrobras-dividendos-2-1-1.jpg"
     }
   ],
   "all": [
     {
+      "title": "Mega-Sena hoje, concurso 3019: confira o resultado sorteado nesta terça (16)",
+      "summary": "O prêmio principal para este concurso é de R$ 15.576.493,59",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/consumo/mega-sena-hoje-concurso-3019-confira-o-resultado-sorteado-nesta-terca-16/",
+      "time": "2026-06-17T00:15:47Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/20230622_182658.jpg?fit=300%2C179&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Falta de visto desfalca torcida do Senegal, que recebe apoio de fãs internacionais",
+      "summary": "Imigrantes e torcedores internacionais substituíram torcedores de Senegal que não puderam viajar aos Estados Unidos para a partida desta terça-feira contra aFRança",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/esportes/falta-de-visto-desfalca-torcida-do-senegal-que-recebe-apoio-de-fas-internacionais/",
+      "time": "2026-06-16T23:57:17Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Torcida-do-SEnegal.jpg?fit=300%2C187&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Defesa do pai de Vorcaro critica prisão e diz não ter acesso integral às provas",
+      "summary": "Segunda Turma do STF manteve prisão de Henrique Vorcaro por maioria de votos",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/defesa-do-pai-de-vorcaro-critica-prisao-e-diz-nao-ter-acesso-integral-as-provas/",
+      "time": "2026-06-16T23:49:58Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/a3e50e057254e922-580x0-1.jpeg?fit=300%2C169&amp;quality=70&amp;strip=all"
+    },
+    {
       "title": "Dia encerra processo de recuperação judicial antes do prazo e mira expansão no Brasil",
       "summary": "Segundo a companhia, a antecipação foi possível após o cumprimento de 100% das metas e compromissos estabelecidos no processo de recuperação",
       "source": "InfoMoney",
@@ -43,14 +77,92 @@
       "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/loja-dia-supermercados.jpg?fit=300%2C198&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Anvisa cria grupo para acompanhar investigação sobre vacina da dengue do Butantan",
-      "summary": "Painel consultivo vai reunir especialistas para consolidar evidências sobre a Butantan-DV após suspensão preventiva do imunizante",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/saude/anvisa-cria-grupo-para-acompanhar-investigacao-sobre-vacina-da-dengue-do-butantan/",
-      "time": "2026-06-16T21:43:12Z",
+      "title": "Moura Dubeux (MDNE3) cria programa de recompra de até 1,36 milhão de ações",
+      "summary": "A Moura Dubeux (MDNE3) aprovou nesta terça-feira (16) um novo programa de recompra de ações que permitirá à companhia adquirir até 1,36 milhão de papéis ordinários em circulação, equivalente a cerca de 2% do total de açõ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/moura-dubeux-mdne3-cria-programa-de-recompra-de-ate-136-milhao-de-acoes/",
+      "time": "2026-06-16T22:56:29Z",
+      "cat": "acoes",
+      "tickers": [
+        "MDNE3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2023/08/whatsapp-image-2023-08-29-at-23.30.48-e1693363347647.jpeg"
+    },
+    {
+      "title": "WEG (WEGE3) aprova pagamento de R$ 438 milhões em juros sobre capital próprio",
+      "summary": "A WEG (WEGE3) aprovou a distribuição de R$ 438,1 milhões em juros sobre capital próprio (JCP), informou a companhia em comunicado ao mercado nesta terça-feira (16). O valor corresponde a R$ 0,10 por ação. Terão direito a",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/weg-wege3-aprova-pagamento-de-r-438-milhoes-em-juros-sobre-capital-proprio/",
+      "time": "2026-06-16T22:42:28Z",
+      "cat": "economia",
+      "tickers": [
+        "WEGE3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2024/09/weg-2-1.webp"
+    },
+    {
+      "title": "Auditoria se recusa a opinar sobre resultado da Fictor Alimentos (FICT3)",
+      "summary": "A auditoria independente da Fictor Alimentos (FICT3) se recusou a emitir opinião sobre parte relevante das demonstrações financeiras de 2025 da companhia, que entrou em recuperação judicial neste ano. Em relatório divulg",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/auditoria-se-recusa-a-opinar-sobre-resultado-da-fictor-alimentos-fict3/",
+      "time": "2026-06-16T22:36:00Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/vacinadenguebutantan.webp?fit=300%2C176&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2019/03/moneytimes44.jpg"
+    },
+    {
+      "title": "B3 (B3SA3): volume negociado em ações sobe 16,8% em maio; derivativos recuam",
+      "summary": "A B3 (B3SA3) divulgou na noite desta terça-feira (16) seus dados operacionais de maio de 2026, com destaque para o avanço da atividade no mercado de ações e para a continuidade do crescimento dos estoques de renda fixa, ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/b3-b3sa3-volume-negociado-em-acoes-sobe-168-em-maio-derivativos-recuam-vtra/",
+      "time": "2026-06-16T22:13:09Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/10/b3-renda-fixa.jpg"
+    },
+    {
+      "title": "Prio (PRIO3) conclui abertura do quarto poço em Wahoo e estabiliza produção da unidade em 10 mil barris por dia",
+      "summary": "A Prio (PRIO3) informou nesta terça-feira (16) que concluiu a abertura do quarto poço produtor do Campo de Wahoo, estabilizando a produção da unidade em 10 mil barris de óleo por dia. Com a entrada em operação do último ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/prio-prio3-conclui-abertura-de-pocos-de-wahoo-e-estabiliza-producao-da-unidade-em-10-mil-barris-por-dia/",
+      "time": "2026-06-16T22:12:42Z",
+      "cat": "acoes",
+      "tickers": [
+        "PRIO3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/02/prio-prio3.jpg"
+    },
+    {
+      "title": "ANP aprova pagamento de R$740 mi à Petrobras (PETR4) referente à 1ª fase do subsídio ao diesel",
+      "summary": "A Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) aprovou o pagamento à Petrobras (PETR4) de aproximadamente R$740 milhões referente ao primeiro período do programa de subvenção econômica à comercializa",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/anp-aprova-pagamento-de-r740-mi-a-petrobras-petr4-referente-a-1a-fase-do-subsidio-ao-diesel/",
+      "time": "2026-06-16T21:22:38Z",
+      "cat": "acoes",
+      "tickers": [
+        "PETR4"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/08/petrobras-dividendos-2-1-1.jpg"
+    },
+    {
+      "title": "Taxas de DIs sobem à espera de corte na Selic para 14,25%",
+      "summary": "A curva de juros futuros interrompeu a sequência de quatro quedas consecutivas e fechou em alta nos principais vértices na expectativa pelas decisões de juros nos Estados Unidos e no Brasil. A taxa de Depósito Interfinan",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/taxas-de-dis-juros-futuros-16-6-26-lils/",
+      "time": "2026-06-16T21:15:54Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/02/juros.jpg"
+    },
+    {
+      "title": "Por unanimidade, STF condena Eduardo Bolsonaro por coação em processo sobre tentativa de golpe",
+      "summary": "A Primeira Turma do Supremo Tribunal Federal (STF) decidiu, por unanimidade, condenar o ex-deputado federal Eduardo Bolsonaro (PL-SP) por coação ao Judiciário no curso do processo da tentativa de golpe que julgou e també",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/por-unanimidade-stf-condena-eduardo-bolsonaro-por-coacao-em-processo-sobre-tentativa-de-golpe-gaep/",
+      "time": "2026-06-16T20:44:33Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": null
     },
     {
       "title": "SNEL11 negocia mais de R$ 10 mi enquanto IPO da SpaceX reforça tese energética",
@@ -115,6 +227,26 @@
       "image": null
     },
     {
+      "title": "Privatização da Copasa é concluída em cerimônia na B3; MG receberá R$ 8 bi",
+      "summary": "Com o fim do processo, ocorre agora a transferência das ações aos novos acionistas e a liquidação financeira da operação junto ao governo de Minas Gerais",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/privatizacao-da-copasa-e-concluida-em-cerimonia-na-b3-e-equatorial-se-torna-principal-acionista/",
+      "time": "2026-06-16T20:46:04Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/Copasa.jpg"
+    },
+    {
+      "title": "Acordo entre EUA e Irã prevê fundo de R$ 1,5 trilhão de investimentos em Teerã",
+      "summary": "Entendimento mediado por Paquistão e Catar marca nova etapa nas relações entre Estados Unidos e Irã após meses de tensão",
+      "source": "Exame",
+      "url": "https://exame.com/mundo/acordo-entre-eua-e-ira-preve-fundo-de-us-15-trilhao-de-investimentos-em-teera/",
+      "time": "2026-06-16T20:25:00Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/AFP__20260429__2273739669__v1__HighRes__PresidentTrumpGreetsTheArtemisIiAstronautsIn.jpg"
+    },
+    {
       "title": "Copa do Mundo: veja quais seleções os principais craques da Liga dos Campeões defendem",
       "summary": "Aos poucos, o futebol europeu mudou seus protagonistas e esses novos craques chegam para o Mundial buscando protagonismo, como brilham na Champions League",
       "source": "Exame",
@@ -145,7 +277,7 @@
       "image": "https://classic.exame.com/wp-content/uploads/2026/02/Copia-de-Drone-iFood_7-1.jpg"
     },
     {
-      "title": "Dia Supermercados sai da recuperação judicial dois anos após rombo de R$ 1,1 bi",
+      "title": "Dia sai da recuperação judicial após corte radical de custos",
       "summary": "Rede conclui reestruturação antes do prazo, com 238 lojas revitalizadas em São Paulo e novo ciclo de expansão via franquias",
       "source": "Exame",
       "url": "https://exame.com/invest/mercados/dia-supermercados-sai-da-recuperacao-judicial-dois-anos-apos-rombo-de-r-11-bi/",
@@ -163,6 +295,16 @@
       "cat": "economia",
       "tickers": [],
       "image": "https://classic.exame.com/wp-content/uploads/2026/06/CopadoMundo-Argentina-x-Argelia.png"
+    },
+    {
+      "title": "Por que as ações da Lionsgate Studios estão caindo no after-hours?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-lionsgate-studios-estao-caindo-no-afterhours-93CH-1975383",
+      "time": "2026-06-16T23:27:21Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
       "title": "S&P eleva rating da Scotts Miracle-Gro com melhora nas métricas",
@@ -212,7 +354,7 @@
       "time": "2026-06-16T21:24:42Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEA610O1_M.jpg"
     },
     {
       "title": "Rússia - Ações fecharam o pregão em queda e o Índice MOEX Russia Index recuou 1,95%",
@@ -223,17 +365,7 @@
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/LYNXMPEB0I0LJ_M.jpg"
-    },
-    {
-      "title": "McDermott manteve operações em projeto de gás do Catar durante guerra com o Irã",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/mcdermott-manteve-operacoes-em-projeto-de-gas-do-catar-durante-guerra-com-o-ira-93CH-1975250",
-      "time": "2026-06-16T21:04:54Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "16/06/2026 23:05"
+  "atualizado_em": "17/06/2026 00:16"
 }
