@@ -1,136 +1,176 @@
 {
   "headline": {
-    "title": "Ibovespa e dólar hoje reagem a decisão do Copom de manter Selic a 14,25%",
-    "summary": "",
-    "source": "Investing.com",
-    "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-reagem-a-decisao-do-copom-de-manter-selic-a-1425-1976849",
-    "time": "2026-06-18T01:53:10Z",
+    "title": "Mercados repercutem dúvidas sobre juros; Ibovespa em dólar avança com mais um corte da Selic no radar",
+    "summary": "A atenção dos mercados se divide entre o avanço das negociações de paz no Oriente Médio e as decisões de política monetária nos Estados Unidos e no Brasil. No cenário internacional, o presidente dos Estados Unidos, Donal",
+    "source": "Money Times",
+    "url": "https://www.moneytimes.com.br/mercados-repercutem-duvidas-sobre-juros-ibovespa-em-dolar-avanca-com-mais-um-corte-da-selic-no-radar/",
+    "time": "2026-06-18T10:17:17Z",
     "cat": "economia",
     "tickers": [],
-    "image": null
+    "image": "https://www.moneytimes.com.br/uploads/2026/06/mercado-morning-ibovespa-wall-street-3.jpg"
   },
   "featured": [
     {
-      "title": "Itaú BBA ainda vê espaço para corte da Selic na próxima reunião do Copom",
-      "summary": "O comunicado do Comitê de Política Monetária (Copom) desta quarta-feira (17) ainda está sendo digerido pelo mercado, mas para o Itaú BBA a leitura é de que o Banco Central ainda deixou espaço relevante para continuidade ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/itau-ainda-ve-espaco-para-corte-da-selic-na-proxima-reuniao-do-copom-jcav/",
-      "time": "2026-06-17T23:30:48Z",
+      "title": "Mini-índice (WINQ26): veja regiões de atenção após decisões de juros de Fed e Copom",
+      "summary": "Confira o que a análise técnica aponta para o mini-índice hoje (18 de junho)",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winq26-18062026/",
+      "time": "2026-06-18T10:03:00Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/11/itau-2.jpg"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Winfut-Grafico-de-15-minutos-18.06.2026.jpeg?fit=300%2C152&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Selic a 14,25%: 4 pontos para entender por que o Copom reduziu os juros em 0,25 p.p.",
-      "summary": "O Comitê de Política Monetária (Copom) cortou a taxa Selic em 0,25 ponto percentual, de 14,50% para 14,25% ao ano nesta quarta-feira (17). Essa foi a terceira flexibilização dos juros e, mais uma vez, a decisão foi unâni",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/selic-4-pontos-para-entender-por-que-o-copom-reduziu-os-juros-junho-26-lils/",
-      "time": "2026-06-17T22:32:39Z",
+      "title": "Day Trade hoje (18): após Fed e Copom, veja os níveis de atenção",
+      "summary": "Confira os pontos de suporte e resistência do mini-índice e minidólar",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-18062026/",
+      "time": "2026-06-18T10:00:00Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f534.png"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/12/Daytrade-hoje.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
     }
   ],
   "all": [
     {
-      "title": "Nunes Marques será relator de ação de Flávio contra Lula no STF",
-      "summary": "Flávio Bolsonaro acusa o presidente Luiz Inácio Lula da Silva de ameaça e incitação ao crime",
+      "title": "Minidólar (WDON26): atenção aos níveis que podem mover o mercado hoje",
+      "summary": "Saiba o que esperar para o minidólar nesta quarta (18)",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/nunes-marques-sera-relator-de-acao-de-flavio-contra-lula-no-stf/",
-      "time": "2026-06-18T01:18:41Z",
+      "url": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdon26-18062026/",
+      "time": "2026-06-18T10:06:00Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Wdofut-Grafico-de-15-minutos-18.06.2026.jpeg?fit=300%2C152&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Mini-índice (WINQ26): veja regiões de atenção após decisões de juros de Fed e Copom",
+      "summary": "Confira o que a análise técnica aponta para o mini-índice hoje (18 de junho)",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winq26-18062026/",
+      "time": "2026-06-18T10:03:00Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Winfut-Grafico-de-15-minutos-18.06.2026.jpeg?fit=300%2C152&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Day Trade hoje (18): após Fed e Copom, veja os níveis de atenção",
+      "summary": "Confira os pontos de suporte e resistência do mini-índice e minidólar",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-18062026/",
+      "time": "2026-06-18T10:00:00Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/12/Daytrade-hoje.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "México busca encaminhar classificação: quais são os jogos da Copa desta quinta (18)?",
+      "summary": "Times do grupo A e B jogam hoje na segunda rodada da fase de grupos",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/esportes/quais-jogos-copa-quinta-feira-1806/",
+      "time": "2026-06-18T10:00:00Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/0d7a3465.jpg.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-12T015913Z_1139645475_UP1EM6C03UG30_RTRMADP_3_SOCCER-WORLDCUP-KOR-CZE-1.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Eduardo Bolsonaro pede retomada de sanções contra Moraes após condenação no STF",
-      "summary": "\"Presidente Trump, por favor, retome a Magnitsky\", disse Eduardo em vídeo publicado no X",
+      "title": "Corte da Selic, cautela do Fed e entrada em vigor do acordo EUA-Irã agitam o mercado",
+      "summary": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta quinta-feira (18)",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/eduardo-bolsonaro-pede-retomada-de-sancoes-contra-moraes-apos-condenacao-no-stf/",
-      "time": "2026-06-18T01:01:27Z",
+      "url": "https://www.infomoney.com.br/mercados/corte-selic-cautela-fed-e-acordo-eua-ira-18062026/",
+      "time": "2026-06-18T09:21:48Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/PRESIDENT-TRUMP-ON-BEING-AMERICAS-CEO-IN-CHIEF-MAKING-DEALS-THAT-NO-NORMAL-PERSON-WOULD-MAKE.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Dow Jones Futuro sobe após Trump assinar acordo para encerrar guerra com o Irã",
+      "summary": "A perspectiva de redução das tensões no Oriente Médio também pressiona os preços do petróleo",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/dow-jones-futuro-sobe-apos-trump-assinar-acordo-para-encerrar-guerra-com-o-ira/",
+      "time": "2026-06-18T08:59:06Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/12/shutterstock_1043121319.jpg?fit=300%2C158&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Como o mercado vai encarar a decisão do Copom nesta quinta-feira?",
+      "summary": "Segundo analistas, tanto a Bolsa quanto o dólar devem reagir com neutralidade",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/como-o-mercado-vai-encarar-a-decisao-do-copom-nesta-quinta-feira/",
+      "time": "2026-06-18T08:00:00Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-23T222149Z_1_LYNXMPEM3M1IN_RTROPTP_4_BRAZIL-ECONOMY-FX.jpg?fit=300%2C214&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Mercados repercutem dúvidas sobre juros; Ibovespa em dólar avança com mais um corte da Selic no radar",
+      "summary": "A atenção dos mercados se divide entre o avanço das negociações de paz no Oriente Médio e as decisões de política monetária nos Estados Unidos e no Brasil. No cenário internacional, o presidente dos Estados Unidos, Donal",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/mercados-repercutem-duvidas-sobre-juros-ibovespa-em-dolar-avanca-com-mais-um-corte-da-selic-no-radar/",
+      "time": "2026-06-18T10:17:17Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/mercado-morning-ibovespa-wall-street-3.jpg"
+    },
+    {
+      "title": "Bolsas da Ásia fecham mistas após acordo EUA-Irã e queda em NY com sinalização do Fed",
+      "summary": "As bolsas asiáticas fecharam sem direção única nesta quinta-feira (18). Os índices do Japão e da Coreia do Sul atingiram novos recordes após Estados Unidos e Irã assinarem um acordo preliminar para encerrar a guerra no O",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/bolsas-da-asia-fecham-mistas-apos-acordo-eua-ira-e-queda-em-ny-com-sinalizacao-do-fed-fets/",
+      "time": "2026-06-18T09:09:24Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2020/09/1-63.jpg"
+    },
+    {
+      "title": "Estou otimista de que não entraremos em recesso sem apreciação do fim da escala 6×1, diz líder do governo no Senado",
+      "summary": "O líder do governo no Congresso Nacional, senador Randolfe Rodrigues (PT-AP), declarou nesta quarta-feira (17), que está confiante na realização da votação no Senado Federal sobre o fim da escala 61 antes do recesso parl",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/estou-otimista-de-que-nao-entraremos-em-recesso-sem-apreciacao-do-fim-da-escala-6x1-diz-lider-do-governo-no-senado-fets/",
+      "time": "2026-06-18T09:02:04Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/03/eduardo-bolsonaro-chora-eua-848x477-1.webp?fit=300%2C169&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2023/05/brasil-politica-randolfe-petroleo-ibama.jpg"
     },
     {
-      "title": "Lotofácil hoje, concurso 3713: Confira o resultado sorteado nesta quarta (17)",
-      "summary": "O prêmio estimado para este concurso era de R$ 5 milhões",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3713-confira-o-resultado-sorteado-nesta-quarta-17/",
-      "time": "2026-06-18T00:05:07Z",
+      "title": "Tempo Real: Ibovespa repercute decisões de juros no Brasil e no exterior",
+      "summary": "Resumo: O Ibovespa (IBOV) reage às decisões de política monetária no Brasil e nos Estados Unidos, enquanto investidores acompanham a taxa de desemprego e a decisão do Banco da Inglaterra, pedidos de seguro-desemprego nos",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/tempo-real-ibovespa-hoje-mercado-ao-vivo-18-06-2026-jals-lils-apsa/",
+      "time": "2026-06-18T09:00:00Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2024/09/ibovespa-acoes.jpg"
+    },
+    {
+      "title": "Nunes Marques será o relator de ação de Flávio contra Lula por ameaça e incitação ao crime",
+      "summary": "O ministro Kassio Nunes Marques, do Supremo Tribunal Federal (STF), foi sorteado nesta quarta-feira (17) para ser o relator da notícia-crime apresentada pelo senador e pré-candidato Flávio Bolsonaro (PL-RJ). Ele acusa o ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/nunes-marques-sera-o-relator-de-acao-de-flavio-contra-lula-por-ameaca-e-incitacao-ao-crime-fets/",
+      "time": "2026-06-18T08:47:00Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/10/loteria_lotofacil_Marcelo-Camargo-Agencia-Brasil-e1751562724210.webp?fit=300%2C191&amp;quality=70&amp;strip=all"
+      "image": null
     },
     {
-      "title": "Comunicado do Copom traz sinais de que fim – do ciclo de cortes – está próximo",
-      "summary": "Autoridade reconheceu o impacto dos juros altos na economia e a incerteza frente à inflação, considerando o cenário doméstico e global",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/economia/orte-selic-copom-reduz-taxa-14-25-risco-inflacao/",
-      "time": "2026-06-17T23:21:05Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/BC-Brasil.png?fit=300%2C225&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Copom deixa ‘jogo em aberto’ para seguir com o ciclo de cortes, diz analista da Empiricus",
-      "summary": "O comunicado da decisão de corte da Selic nesta quarta-feira (17) foi mais dovish [tom mais brando] e deixou o jogo em aberto para novos cortes na Selic, mesmo sem dar um forward guidance, na avaliação de Matheus Spiess,",
+      "title": "Contas de Tarcísio de 2025 são aprovadas, mas tribunal faz novas ressalvas para alto volume de renúncia de receitas",
+      "summary": "O Plenário do Tribunal de Contas do Estado de São Paulo (TCESP) aprovou nesta quarta-feira (17), por unanimidade, a prestação de contas de 2025 do governador de São Paulo Tarcísio de Freitas. Apesar da aprovação, foram f",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/copom-deixa-jogo-em-aberto-para-seguir-com-o-ciclo-de-cortes-diz-analista-da-empiricus-lils/",
-      "time": "2026-06-17T23:43:23Z",
-      "cat": "economia",
+      "url": "https://www.moneytimes.com.br/contas-de-tarcisio-de-2025-sao-aprovadas-mas-tribunal-faz-nova-ressalvas-para-alto-volume-de-renuncia-de-receitas-fets/",
+      "time": "2026-06-18T08:26:00Z",
+      "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/10/selic-juros.jpg"
+      "image": null
     },
     {
-      "title": "Itaú BBA ainda vê espaço para corte da Selic na próxima reunião do Copom",
-      "summary": "O comunicado do Comitê de Política Monetária (Copom) desta quarta-feira (17) ainda está sendo digerido pelo mercado, mas para o Itaú BBA a leitura é de que o Banco Central ainda deixou espaço relevante para continuidade ",
+      "title": "Petróleo cai para o menor nível em 3 meses e meio após EUA e Irã assinarem acordo de cessar-fogo",
+      "summary": "Os preços do petróleo caem cerca de 2% nesta quinta-feira (18) após os Estados Unidos e o Irã assinarem um acordo provisório que encerraria a guerra envolvendo o Irã, reabriria o Estreito de Ormuz e suspenderia as sançõe",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/itau-ainda-ve-espaco-para-corte-da-selic-na-proxima-reuniao-do-copom-jcav/",
-      "time": "2026-06-17T23:30:48Z",
-      "cat": "economia",
+      "url": "https://www.moneytimes.com.br/petroleo-cai-para-o-menor-nivel-em-3-meses-e-meio-apos-eua-e-ira-assinarem-acordo-de-cessar-fogo-fets/",
+      "time": "2026-06-18T08:04:35Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/11/itau-2.jpg"
-    },
-    {
-      "title": "Copom endurece comunicação e aumenta exigência para novos cortes da Selic",
-      "summary": "O Comitê de Política Monetária (Copom) reduziu a taxa Selic em 0,25 ponto percentual, para 14,25% ao ano, em decisão amplamente esperada pelo mercado. Embora o movimento tenha sido antecipado, o comunicado reforçou uma m",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/copom-endurece-comunicacao-e-aumenta-exigencia-para-novos-cortes-da-selic/",
-      "time": "2026-06-17T23:22:30Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/01/selic-copom.png"
-    },
-    {
-      "title": "EWZ tem leve alta após corte da Selic em dia negativo nos mercados acionários",
-      "summary": "O iShares MSCI Brazil (EWZ), que é um fundo de índice (ETF, na sigla em inglês) negociado na Bolsa de Nova York (NYSE) que replica o desempenho do mercado acionário brasileiro e que também opera influenciado por fatores ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ewz-tem-leve-apos-corte-da-selic-em-dia-negativo-nos-mercados-acionarios-lils/",
-      "time": "2026-06-17T22:46:42Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/11/mercado-bolsa-ibovespa.jpg"
-    },
-    {
-      "title": "Selic a 14,25%: Quanto rendem R$ 10 mil no CDB, LCA e Tesouro; confira",
-      "summary": "O Comitê de Política Monetária (Copom) anunciou, nesta quarta-feira (17), mais um corte de 0,25 ponto percentual. Os diretores do Banco Central (BC) optaram pela terceira vez ajustar a taxas Selic, ficando em 14,25% ao a",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/selic-a-1425-quanto-rendem-r-10-mil-no-cdb-lca-e-tesouro-confira/",
-      "time": "2026-06-17T22:33:24Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2024/12/renda-fixa-credito-privado.jpg"
-    },
-    {
-      "title": "Selic a 14,25%: 4 pontos para entender por que o Copom reduziu os juros em 0,25 p.p.",
-      "summary": "O Comitê de Política Monetária (Copom) cortou a taxa Selic em 0,25 ponto percentual, de 14,50% para 14,25% ao ano nesta quarta-feira (17). Essa foi a terceira flexibilização dos juros e, mais uma vez, a decisão foi unâni",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/selic-4-pontos-para-entender-por-que-o-copom-reduziu-os-juros-junho-26-lils/",
-      "time": "2026-06-17T22:32:39Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f534.png"
+      "image": null
     },
     {
       "title": "Fundo imobiliário vende ativo em Florianópolis por R$ 37,8 milhões",
@@ -217,67 +257,115 @@
       "image": "https://files.sunoresearch.com.br/n/uploads/2023/06/cropped-dolar.jpg"
     },
     {
-      "title": "Trump assina acordo com o Irã para encerrar guerra e viabilizar reabertura de Ormuz",
-      "summary": "Formalização ocorreu nesta quarta-feira, durante encontro entre Trump e Emmanuel Macron no Palácio de Versalhes, nos arredores de Paris",
+      "title": "Por que a crise do carne dos EUA não deve atrapalhar a JBS, segundo o BTG",
+      "summary": "Para analistas, diversificação global ajuda companhia a atravessar o ciclo mais difícil da pecuária dos EUA em décadas",
       "source": "Exame",
-      "url": "https://exame.com/mundo/trump-assina-acordo-provisorio-para-encerrar-guerra-com-o-ira-e-viabilizar-reabertura-de-ormuz/",
-      "time": "2026-06-17T20:01:06Z",
+      "url": "https://exame.com/agro/por-que-a-crise-do-carne-dos-eua-nao-deve-atrapalhar-a-jbs-segundo-o-btg/",
+      "time": "2026-06-18T06:00:36Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/Trump_IraAcordo.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-27-at-14.53.28.jpeg"
     },
     {
-      "title": "Após condenação no STF, Eduardo Bolsonaro pede a Trump que 'restabeleça' sanções contra Moraes",
-      "summary": "Em votação nesta terça-feira, a 1ª turma do Supremo condenou ex-deputado a quatro anos e dois meses de prisão por coação em processo de trama golpista",
+      "title": "Grandes empresas lideram o cenário de contratações; veja como se preparar para processos seletivos",
+      "summary": "Relatório aponta crescimento nas contratações de grandes empresas e queda nas PMEs, reforçando a importância de uma busca por emprego mais planejada",
       "source": "Exame",
-      "url": "https://exame.com/brasil/apos-condenacao-no-stf-eduardo-bolsonaro-pede-a-trump-que-restabeleca-sancoes-contra-moraes/",
-      "time": "2026-06-17T19:40:06Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/12/AFP__20251219__88LJ2WE__v1__HighRes__FilesUsBrazilDiplomacyParliament.jpg"
-    },
-    {
-      "title": "As melhores ações de mid/small-cap da Índia, segundo a Haitong",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/as-melhores-acoes-de-midsmallcap-da-india-segundo-a-haitong-93CH-1976981",
-      "time": "2026-06-18T04:49:46Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Por que as ações da Meituan estão caindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-meituan-estao-caindo-hoje-93CH-1976975",
-      "time": "2026-06-18T04:07:18Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Por que as ações da Natura (NATU3) desabaram quase 9% hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-natura-natu3-desabaram-quase-9-hoje-1976955",
-      "time": "2026-06-18T02:27:14Z",
-      "cat": "internacional",
-      "tickers": [
-        "NATU3"
-      ],
-      "image": null
-    },
-    {
-      "title": "Ibovespa e dólar hoje reagem a decisão do Copom de manter Selic a 14,25%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-reagem-a-decisao-do-copom-de-manter-selic-a-1425-1976849",
-      "time": "2026-06-18T01:53:10Z",
+      "url": "https://exame.com/carreira/grandes-empresas-lideram-contratacoes-veja-como-se-preparar-para-processos-seletivos/",
+      "time": "2026-06-18T06:00:00Z",
       "cat": "economia",
       "tickers": [],
-      "image": null
+      "image": "https://classic.exame.com/wp-content/uploads/2017/09/contratac3a7c3a3o.jpg"
+    },
+    {
+      "title": "A receita do iFood e CUFA para acelerar empreendedores das favelas com tecnologia",
+      "summary": "Aliança, iniciada em 2020 e ampliada agora, passa a priorizar ações de desenvolvimento local e acesso a ferramentas tecnológicas para empreendedores",
+      "source": "Exame",
+      "url": "https://exame.com/esg/a-receita-do-ifood-e-cufa-para-acelerar-empreendedores-das-favelas-com-tecnologia/",
+      "time": "2026-06-18T05:49:35Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/IMG_4411.jpeg"
+    },
+    {
+      "title": "Siemens Energy avalia possível separação de divisão industrial",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/siemens-energy-avalia-possivel-separacao-de-divisao-industrial-93CH-1977152",
+      "time": "2026-06-18T09:55:27Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Wegovy oral chega a 33% das prescrições totais em maio",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/wegovy-oral-chega-a-33-das-prescricoes-totais-em-maio-93CH-1977149",
+      "time": "2026-06-18T09:48:57Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Carrefour despenca após JPMorgan colocar ação em alerta negativo",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/carrefour-despenca-apos-jpmorgan-colocar-acao-em-alerta-negativo-1977148",
+      "time": "2026-06-18T09:40:15Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Por que as ações da Bridgestone estão caindo hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-bridgestone-estao-caindo-hoje-93CH-1977144",
+      "time": "2026-06-18T09:36:54Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Por que as ações da Talen Energy estão em alta hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-talen-energy-estao-em-alta-hoje-93CH-1977134",
+      "time": "2026-06-18T09:23:58Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Ações da Legrand sobem após perspectivas para data centers em conferência",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-legrand-sobem-apos-perspectivas-para-data-centers-em-conferencia-93CH-1977133",
+      "time": "2026-06-18T09:23:42Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Por que a ação da Bolsa de valores de Londres está caindo hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-a-acao-da-bolsa-de-valores-de-londres-esta-caindo-hoje-93CH-1977127",
+      "time": "2026-06-18T09:17:24Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Por que as ações da Intel Corporation estão disparando hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-intel-corporation-estao-disparando-hoje-93CH-1977126",
+      "time": "2026-06-18T09:17:21Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "18/06/2026 05:55"
+  "atualizado_em": "18/06/2026 10:20"
 }
