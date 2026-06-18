@@ -11,162 +11,180 @@
   },
   "featured": [
     {
-      "title": "Juros futuros longos disparam até 30 pontos-base com comunicado ‘dovish’ do Copom",
-      "summary": "A curva de juros futuros opera em alta nos vértices intermediários e longos em reação à decisão do Comitê de Política Monetária (Copom) do Banco Central. Ontem (17), o Comitê de Política Monetária (Copom) cortou a Selic ",
+      "title": "Ouro perde brilho e cai 3% com dólar mais forte após tom duro do Fed",
+      "summary": "O ouro fechou em baixa na sessão desta quinta-feira (18) após sinalização de um Federal Reserve (Fed, o banco central dos Estados Unidos) mais hawkish, ou duro, na condução da política monetária, o que fortaleceu o dólar",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/juros-futuros-disparam-ate-30-pontos-base-com-comunicado-dovish-do-copom-lils/",
-      "time": "2026-06-18T15:53:17Z",
+      "url": "https://www.moneytimes.com.br/ouro-18-6-26-apsa/",
+      "time": "2026-06-18T18:21:23Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/02/juros.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2025/06/ouro-mercados.png"
     },
     {
-      "title": "Queda do “carry trade”: dólar subirá ainda mais ante real ou impacto é pontual?",
-      "summary": "Para analistas, mesmo com a valorização global do dólar, é possível que, no médio prazo, o real se mantenha sustentado pelo carry trade",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/queda-do-carry-trade-dolar-subira-ainda-mais-ante-real-ou-impacto-e-pontual/",
-      "time": "2026-06-18T16:24:09Z",
+      "title": "Ibovespa tenta reagir após Copom, mas queda do petróleo limita ganhos",
+      "summary": "Ibovespa tenta reagir após Copom, mas queda do petróleo limita ganhosO ambiente mais tranquilo no exterior após a confirmação da assinatura do acordo de paz provisório entre Estados Unidos e Irã é insuficiente para empol",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-copom-petroleo-selic-mercado-hoje-mtae/",
+      "time": "2026-06-18T17:27:55Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/448264696.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": null
     }
   ],
   "all": [
     {
-      "title": "Queda do “carry trade”: dólar subirá ainda mais ante real ou impacto é pontual?",
-      "summary": "Para analistas, mesmo com a valorização global do dólar, é possível que, no médio prazo, o real se mantenha sustentado pelo carry trade",
+      "title": "Imprensa dos EUA critica inconsistências de acordo e diz que Irã sai fortalecido",
+      "summary": "Imprensa americana e aliados de Trump questionam memorando que suspende sanções antes de avanços concretos no programa nuclear iraniano",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/queda-do-carry-trade-dolar-subira-ainda-mais-ante-real-ou-impacto-e-pontual/",
-      "time": "2026-06-18T16:24:09Z",
+      "url": "https://www.infomoney.com.br/mundo/imprensa-dos-eua-critica-inconsistencias-de-acordo-e-diz-que-ira-sai-fortalecido/",
+      "time": "2026-06-18T19:05:28Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-02T011301Z_2081239045_RC2PGKAYL93I_RTRMADP_3_IRAN-CRISIS-TRUMP-ADDRESS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Fim da exigência de patrimônio mínimo democratiza o acesso ao day trade nos EUA",
+      "summary": "Especialistas apontam que o fim da regra pode ampliar a presença do varejo em ações, ETFs e opções nos EUA.",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/fim-do-pattern-day-trader-democratiza-acesso-ao-day-trade-nos-estados-unidos/",
+      "time": "2026-06-18T18:39:50Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Fim-do-Pattern-Day-TraderPDT-para-day-trade.-Imagem-gerada-com-uso-de-Inteligencia-Artificial-Bruno-Nadai.jpeg?fit=300%2C168&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Fim do Pattern Day Trader (PDT): o que muda para quem opera nos EUA e na B3",
+      "summary": "Mudança regulatória reduziu barreiras de entrada, mas características dos mercados ainda exigem estratégias distintas",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/fim-do-pattern-day-trader-pdt-que-muda-para-quem-faz-day-trade-nos-eua-na-b3/",
+      "time": "2026-06-18T18:39:39Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/B3-Wall-Street-e-day-trade.-Imagem-gerada-com-uso-de-Inteliencia-Artificial-Bruno-Nadai.jpeg?fit=300%2C168&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Esse banco caiu demais — e agora pode disparar 70%, calcula XP",
+      "summary": "O PicPay (PICS), apesar de ter levantado uma bolada em sua oferta de ações, acumula queda de 44% desde chegou na bolsa. Algo que, na visão da XP, cria uma oportunidade de entrada em um papel com potencial relevante. Os a",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/esse-banco-caiu-demais-e-agora-pode-disparar-70-calcula-xp-rnda/",
+      "time": "2026-06-18T18:49:28Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/12/ibovespa-alta-2026-juros-acoes.jpg"
+    },
+    {
+      "title": "Braskem (BRKM5): Ações despencam até 12% e renovam mínima do ano com receios sobre liquidez",
+      "summary": "As ações da Braskem (BRKM5) chegaram a desabar quase 12% nesta quinta-feira (18), renovando a mínima do ano, em meio a noticiário recente envolvendo negociação com credores e um desastre socioambiental em Alagoas envolve",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/braskem-brkm5-acoes-despencam-ate-12-e-renovam-minima-do-ano-com-receios-sobre-liquidez-igdl/",
+      "time": "2026-06-18T18:23:29Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2024/09/braskem-brkm5-day-trade.jpg"
+    },
+    {
+      "title": "Ouro perde brilho e cai 3% com dólar mais forte após tom duro do Fed",
+      "summary": "O ouro fechou em baixa na sessão desta quinta-feira (18) após sinalização de um Federal Reserve (Fed, o banco central dos Estados Unidos) mais hawkish, ou duro, na condução da política monetária, o que fortaleceu o dólar",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ouro-18-6-26-apsa/",
+      "time": "2026-06-18T18:21:23Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/448264696.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2025/06/ouro-mercados.png"
     },
     {
-      "title": "Desenrola 2.0 tem início mais forte que edição anterior; veja bancos com maior fatia",
-      "summary": "O programa substitui as dívidas inadimplentes por novos contratos com juros de até 1,99% ao mês, descontos de até 90% e 50% do novo empréstimo",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/desenrola-2-0-tem-inicio-mais-forte-que-edicao-anterior-veja-bancos-com-maior-fatia/",
-      "time": "2026-06-18T16:17:21Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/contas-calculadora-dividas.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Mendonça impõe medidas cautelares a Jaques Wagner em operação do caso Master",
-      "summary": "Senador é alvo de mandados de busca e apreensão no âmbito da Operação Compliance Zero",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/mendonca-impoe-medidas-cautelares-a-jaques-wagner-em-operacao-do-caso-master/",
-      "time": "2026-06-18T16:11:53Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/06/jaques-wagner.jpg?fit=300%2C183&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Vamos declarar PCC, CV e milícias como organizações narcoterroristas, diz Flávio",
-      "summary": "Pré-candidato à Presidência, Flávio anunciou nesta quinta-feira (18) seu plano para a segurança pública no país",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/vamos-declarar-pcc-cv-e-milicias-como-organizacoes-narcoterroristas-diz-flavio/",
-      "time": "2026-06-18T15:34:49Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/53831483080_799fbdc5d8_b.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Presidente do PT defende Wagner após ação da PF em caso Master: tem nossa confiança",
-      "summary": "Senador e líder do PT na Casa Alta, Jaques Wagner é alvo de busca e apreensão nesta quinta-feira (18)",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/presidente-do-pt-defende-wagner-apos-acao-da-pf-em-caso-master-tem-nossa-confianca/",
-      "time": "2026-06-18T15:33:07Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/edinho-silva.jpg?fit=300%2C225&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Flávio propõe castração química, redução de maioridade penal e mudança em presídios",
-      "summary": "Pré-candidato apresentou plano para segurança pública, elaborado com ajuda de Sérgio Moro e Guilherme Derrite, nesta quinta-feira",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/flavio-propoe-castracao-quimica-reducao-de-maioridade-penal-e-mudanca-em-presidios/",
-      "time": "2026-06-18T15:32:18Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/54903995271_49e8f6cc05_c.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Flávio Bolsonaro promete criar 500 mil vagas em presídios em quatro anos e zerar déficit carcerário",
-      "summary": "O pré-candidato à Presidência da República e senador Flávio Bolsonaro (PL-RJ) prometeu zerar o déficit carcerário do País em quatro anos, criando cerca de 500 mil vagas em unidades penitenciárias. Faz parte do plano tamb",
+      "title": "Jaques Wagner negou vínculo com Vorcaro em discurso no Senado antes de operação",
+      "summary": "Dois dias antes de ser alvo de busca e apreensão na Operação Compliance Zero, da Polícia Federal, o líder do governo no Senado, Jaques Wagner (PT-BA), usou o plenário da Casa para rebater suspeitas envolvendo seu nome na",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/flavio-bolsonaro-promete-criar-500-mil-vagas-em-presidios-em-4-anos-e-zerar-deficit-carcerario-gaep/",
-      "time": "2026-06-18T16:01:57Z",
+      "url": "https://www.moneytimes.com.br/jaques-wagner-negou-vinculo-com-vorcaro-em-discurso-no-senado-antes-de-operacao-gaep/",
+      "time": "2026-06-18T18:17:37Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/55339883839-2d43a60491-o.jpg"
+    },
+    {
+      "title": "Ex-sócio do Master emprestou avião e bancou camarote de show nos EUA para Jaques Wagner, diz PF",
+      "summary": "Diálogos extraídos no celular do empresário Augusto Lima, ex-sócio do Banco Master, indicam que ele emprestou por diversas vezes seu avião particular para o líder do governo no Senado, Jaques Wagner (PT-BA), e bancou ing",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ex-socio-do-master-emprestou-aviao-e-bancou-camarote-de-show-nos-eua-para-jaques-wagner-diz-pf-gaep/",
+      "time": "2026-06-18T18:05:20Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Após operação da PF, ex-sócio do Master desiste de depoimento sobre fraudes com BRB",
+      "summary": "O empresário Augusto Lima, ex-sócio de Daniel Vorcaro no Banco Master, prestaria depoimento à Polícia Federal nesta quinta-feira (18) sobre as suspeitas de fraude envolvendo a tentativa de venda ao Banco de Brasília (BRB",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ex-socio-do-master-iria-prestar-depoimento-a-pf-sobre-fraudes-com-brb-mas-desiste-apos-operacao-gaep/",
+      "time": "2026-06-18T17:52:21Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Petróleo abaixo de US$ 70? Novas quedas devem ocorrer, mas acordo entre EUA e Irã não representa fim da volatilidade",
+      "summary": "A queda do petróleo após a assinatura de um memorando de entendimento entre Estados Unidos e Irã, considerado o primeiro passo para o encerramento do conflito, pode não ter chegado ao fim. Segundo Jean Miranda, analista ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/petroleo-abaixo-de-us-70-novas-quedas-devem-ocorrer-mas-acordo-entre-eua-e-ira-nao-representa-fim-da-volatilidade-pads/",
+      "time": "2026-06-18T17:38:18Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Petrobras (PETR4) amplia refino para reduzir dependência do Brasil da importação de diesel a 15%",
+      "summary": "A Petrobras (PETR4) está ampliando a capacidade do parque de refino para reduzir a atual dependência do Brasil da importação de diesel de 29% para 15%, afirmou a presidente da companhia, Magda Chambriard, nesta quinta-fe",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/petrobras-amplia-refino-para-reduzir-dependencia-do-brasil-da-importacao-de-diesel-a-15/",
+      "time": "2026-06-18T17:36:26Z",
+      "cat": "acoes",
+      "tickers": [
+        "PETR4"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/02/ceo-magda-petrobras.jpg"
+    },
+    {
+      "title": "Bolsas da Europa fecham mistas após decisão do BoE e acordo entre EUA e Irã",
+      "summary": "Os índices europeus fecharam o pregão desta quinta-feira (17) sem direção única com as atenções divididas entre a manutenção de juros pelo Banco da Inglaterra (BoE, em inglês) e o acordo de pausa no conflito no Oriente M",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/europa-18-6-26-apsa/",
+      "time": "2026-06-18T17:35:06Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Ibovespa tenta reagir após Copom, mas queda do petróleo limita ganhos",
+      "summary": "Ibovespa tenta reagir após Copom, mas queda do petróleo limita ganhosO ambiente mais tranquilo no exterior após a confirmação da assinatura do acordo de paz provisório entre Estados Unidos e Irã é insuficiente para empol",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-copom-petroleo-selic-mercado-hoje-mtae/",
+      "time": "2026-06-18T17:27:55Z",
       "cat": "economia",
       "tickers": [],
       "image": null
     },
     {
-      "title": "Juros futuros longos disparam até 30 pontos-base com comunicado ‘dovish’ do Copom",
-      "summary": "A curva de juros futuros opera em alta nos vértices intermediários e longos em reação à decisão do Comitê de Política Monetária (Copom) do Banco Central. Ontem (17), o Comitê de Política Monetária (Copom) cortou a Selic ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/juros-futuros-disparam-ate-30-pontos-base-com-comunicado-dovish-do-copom-lils/",
-      "time": "2026-06-18T15:53:17Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/02/juros.jpg"
-    },
-    {
-      "title": "Oportunidade para plataformas de transmissão esportiva? Investimentos em publicidade digital devem atingir 67% até 2030 no Brasil, prevê Itaú BBA",
-      "summary": "Diante do avanço das plataformas de streaming esportivo com a Copa do Mundo de 2026, o Itaú BBA aponta que no segmento de direitos de mídia — onde se concentra a maior parte dos investimentos das plataformas de streaming",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/oportunidade-a-vista-para-plataformas-de-trasmissao-esportiva-investimentos-em-publicidade-digital-devem-atingir-67-ate-2030-estima-itau-bba-apsa/",
-      "time": "2026-06-18T15:25:36Z",
+      "title": "Empresas voltam à Bolsa e levantam R$ 22 bi: entenda o follow-on que disparou na B3",
+      "summary": "As empresas brasileiras já listadas na Bolsa voltaram a usar o mercado de capitais para levantar dinheiro. Entre janeiro e junho de 2026, foram realizadas oito ofertas subsequentes de ações na B3, que movimentaram aproxi",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/follow-ons-b3-ofertas-subsequentes-acoes-2026-mt/",
+      "time": "2026-06-18T17:25:08Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2023/10/streaming.jpg"
+      "image": null
     },
     {
-      "title": "Por que esta empresa da Cosan (CSAN3) pode ser uma máquina de dividendos?",
-      "summary": "Após quatro bancos terem iniciado a cobertura da Compass (PASS3), chegou a vez do Bank of America (BofA) divulgar sua avaliação sobre a companhia. E o parecer é positivo: o banco recomenda compra das ações, com preço-alv",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/por-que-esta-empresa-da-cosan-csan3-pode-ser-uma-maquina-de-dividendos-rnda/",
-      "time": "2026-06-18T15:21:10Z",
-      "cat": "fundos",
-      "tickers": [
-        "CSAN3"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2023/09/comgas.jpg"
-    },
-    {
-      "title": "Bank of America volta a recomendar Cosan (CSAN3) apostando em geração de caixa, dividendos e venda de ativos",
-      "summary": "O Bank of America (BofA) retomou a cobertura da Cosan (CSAN3) com recomendação de compra e preço-alvo de R$ 5,50 por ação, o que representa potencial de valorização de 69% em relação ao fechamento mais recente. Para o ba",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bank-of-america-volta-a-recomendar-cosan-csan3-apostando-em-geracao-de-caixa-dividendos-e-venda-de-ativos-pads/",
-      "time": "2026-06-18T15:10:08Z",
-      "cat": "fundos",
-      "tickers": [
-        "CSAN3"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/02/cosan-csan3-2.jpg"
-    },
-    {
-      "title": "Ibovespa pode voltar ‘rapidamente’ aos 190 mil pontos caso dois gatilhos se concretizem, apontam analistas",
-      "summary": "Para analistas da Empiricus, recuperação do Ibovespa depende do alinhamento de alguns fatores, começando pela normalização pós-conflito no Oriente Médio",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ibovespa-pode-voltar-rapidamente-aos-190-mil-pontos-caso-dois-gatilhos-se-concretizem-lbrdaz245/",
-      "time": "2026-06-18T15:00:00Z",
+      "title": "Copasa (CSMG3): analistas veem nova fase após privatização e alta de 51%",
+      "summary": "A Copasa (CSMG3) entrou em uma nova fase após a privatização, e analistas veem espaço para valorização das ações com a gestão da Equatorial, novos contratos com municípios e potencial de dividendos. Segundo relatório do ",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/copasa-csmg3-analistas-privatizacao-dividendos-mt/",
+      "time": "2026-06-18T16:45:05Z",
       "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/12/mt-bolsa-acoes-small-caps-microcaps.jpg"
-    },
-    {
-      "title": "JHSF (JHSF3) entra em ‘nova fase’ e pode subir até 40% na bolsa, diz BBI; veja preço-alvo",
-      "summary": "O Bradesco BBI reiterou a recomendação de compra para a JHSF (JHSF3), holding voltada a negócios de luxo, e elevou o preço-alvo das ações ao final de 2026, de R$ 10 para R$ 15, destacando, em relatório, que a companhia e",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/jhsf-jhsf3-entra-em-nova-fase-e-pode-subir-ate-40-na-bolsa-diz-bbi-veja-preco-alvo-igdl/",
-      "time": "2026-06-18T14:50:50Z",
-      "cat": "analise",
       "tickers": [
-        "JHSF3"
+        "CSMG3"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2021/07/jhsf.jpg"
+      "image": null
     },
     {
       "title": "Dólar dispara mais de 1% após decisões do Fed e Copom",
@@ -221,189 +239,77 @@
       "image": null
     },
     {
-      "title": "Fundo imobiliário vende ativo em Florianópolis por R$ 37,8 milhões",
-      "summary": "O fundo imobiliário TVRI11 (Tivio Renda Imobiliária Fundo de Investimento Imobiliário) anunciou a venda da Agência Florianópolis, localizada na Praça XV de Novembro, 321, no Centro de Florianópolis, por R$ 37,82 milhões.",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/fundo-imobiliario-vende-ativo-em-florianopolis-por-r-378-milhoes/",
-      "time": "2026-06-18T01:45:05Z",
-      "cat": "fundos",
+      "title": "Como Vozinha pode lucrar com a fama conquistada na Copa do Mundo",
+      "summary": "Para ex-executivo de Flamengo e Corinthians, seguidores não garantem receita, mas a narrativa é o maior trunfo do goleiro de Cabo Verde",
+      "source": "Exame",
+      "url": "https://exame.com/marketing/como-vozinha-pode-lucrar-com-a-fama-conquistada-na-copa-do-mundo/",
+      "time": "2026-06-18T15:35:19Z",
+      "cat": "economia",
       "tickers": [],
-      "image": null
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/vozinha-1.jpg"
     },
     {
-      "title": "HGLG11: quanto R$ 5 mil renderiam em dividendos; veja simulação",
-      "summary": "O fundo imobiliário HGLG11 (Pátria Log) figura entre os FIIs mais acompanhados da B3, reunindo um dos maiores portfólios logísticos do país e um ciclo recente de aquisições, captações e expansão operacional. Para o inves",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/hglg11-quanto-r-5-mil-renderiam-em-dividendos-veja-simulacao/",
-      "time": "2026-06-18T00:55:05Z",
-      "cat": "fundos",
+      "title": "Quem tem GTA 5 poderá atualizar para edições de nova geração; saiba como fazer",
+      "summary": "Para jogadores que ainda utilizam as versões de PS4 ou Xbox One, a diferença é considerada importante",
+      "source": "Exame",
+      "url": "https://exame.com/pop/quem-tem-gta-5-podera-atualizar-para-edicoes-de-nova-geracao-saiba-como-fazer/",
+      "time": "2026-06-18T15:27:19Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2021/08/gta_edit-1.jpg"
+    },
+    {
+      "title": "Ações de defesa caem após EUA e Irã assinarem acordo de cessar-fogo",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-de-defesa-caem-apos-eua-e-ira-assinarem-acordo-de-cessarfogo-93CH-1977902",
+      "time": "2026-06-18T18:56:20Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Por que as ações da WEG (WEGE3) estão disparando hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-weg-estao-disparando-hoje-1977885",
+      "time": "2026-06-18T18:24:51Z",
+      "cat": "internacional",
       "tickers": [
-        "HGLG11"
+        "WEGE3"
       ],
       "image": null
     },
     {
-      "title": "Por dentro do BRCO11: o portfólio que sustenta as recomendações de grandes bancos",
-      "summary": "O BRCO11 aparece em quatro das nove carteiras recomendadas de junho. Santander, XP, Itaú BBA e BTG Pactual mantiveram o fundo entre as escolhas para o mês, repetindo a posição de maio. Os relatórios apontam fatores opera",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/por-dentro-do-brco11-o-portfolio-que-sustenta-as-recomendacoes-de-grandes-bancos/",
-      "time": "2026-06-17T23:45:07Z",
-      "cat": "acoes",
-      "tickers": [
-        "BRCO11"
-      ],
-      "image": null
-    },
-    {
-      "title": "ALZC11 confirma novos dividendos e entrega yield de 1,33% ao mês; veja valor",
-      "summary": "O fundo imobiliário (FII) comunicou uma nova distribuição de rendimentos aos cotistas, referente aos resultados de maio de 2026. O valor anunciado é de R$ 0,10 por cota, conforme informado em comunicado ao mercado. A ope",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/alzc11-confirma-novos-dividendos-e-entrega-yield-de-133-ao-mes-veja-valor/",
-      "time": "2026-06-17T23:25:06Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Sem Neymar, Brasil encerra preparação para encarar o Haiti nesta sexta",
-      "summary": "Carlo Ancelotti comandou a última atividade antes de enfrentar os haitianos e ainda tem dúvidas na escalação, enquanto Neymar segue de fora",
-      "source": "Exame",
-      "url": "https://exame.com/esporte/sem-neymar-brasil-encerra-preparacao-para-encarar-o-haiti-nesta-sexta/",
-      "time": "2026-06-18T13:07:01Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/AFP__20260618__B7JN7YJ__v1__HighRes__FblWc2026TrainingBra.jpg"
-    },
-    {
-      "title": "Energia solar no Brasil: geração distribuída supera 4,3 milhões",
-      "summary": "Levantamento da Solfácil aponta liderança de São Paulo em novas conexões e confirma a força do sistema fotovoltaico de pequeno porte no país",
-      "source": "Exame",
-      "url": "https://exame.com/bussola/energia-solar-no-brasil-geracao-distribuida-supera-43-milhoes/",
-      "time": "2026-06-18T13:00:54Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/05/MG_0871.jpg"
-    },
-    {
-      "title": "Conheça o atacante da República Tcheca apaixonado por criar galinhas",
-      "summary": "Jan Kuchta conta com um passatempo alternativo ao futebol e também ganhou uma nova chance na seleção após ser flagrado na balada",
-      "source": "Exame",
-      "url": "https://exame.com/esporte/conheca-o-atacante-da-republica-tcheca-apaixonado-por-criar-galinhas/",
-      "time": "2026-06-18T12:51:31Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/AFP__20260611__B6P23Y8__v1__HighRes__FblWc2026TrainingCze.jpg"
-    },
-    {
-      "title": "EUA e Irã iniciam na sexta-feira negociações para implementar acordo de paz",
-      "summary": "Encontro na Suíça marca início da fase técnica do pacto assinado por Trump e Pezeshkian",
-      "source": "Exame",
-      "url": "https://exame.com/mundo/eua-e-ira-iniciam-na-sexta-feira-negociacoes-para-implementar-acordo-de-paz/",
-      "time": "2026-06-18T12:45:04Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/03/AFP__20260329__A64N4YC__v1__HighRes__UsIsraelIranWarDemonstration.jpg"
-    },
-    {
-      "title": "Por que as ações da Belden estão disparando hoje?",
+      "title": "Negociação de opções da Moderna dispara para 121.257 contratos",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-belden-estao-disparando-hoje-93CH-1977815",
-      "time": "2026-06-18T16:25:05Z",
+      "url": "https://br.investing.com/news/stock-market-news/negociacao-de-opcoes-da-moderna-dispara-para-121257-contratos-93CH-1977881",
+      "time": "2026-06-18T18:13:40Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Ações da Navan disparam com aquisição de empresa brasileira",
+      "title": "Ação da Braskem amplia queda e renova mínima do ano com receios sobre liquidez de curto prazo",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-navan-disparam-com-aquisicao-de-empresa-brasileira-93CH-1977814",
-      "time": "2026-06-18T16:25:02Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Por que a ação da Life360 está subindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-a-acao-da-life360-esta-subindo-hoje-93CH-1977813",
-      "time": "2026-06-18T16:24:49Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Ações da First Carolina Financial disparam em estreia na bolsa de Nova York",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-first-carolina-financial-disparam-em-estreia-na-bolsa-de-nova-york-93CH-1977811",
-      "time": "2026-06-18T16:15:50Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Reino Unido - Ações fecharam o pregão em queda e o Índice Investing.com Reino Unido 100 recuou 1,05%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/reino-unido--acoes-fecharam-o-pregao-em-queda-e-o-indice-investingcom-reino-unido-100-recuou-105-1977807",
-      "time": "2026-06-18T16:09:29Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEA9S0AF_M.jpg"
-    },
-    {
-      "title": "Suécia - Ações fecharam o pregão em alta e o Índice OMX Stockholm 30 avançou 0,55%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/suecia--acoes-fecharam-o-pregao-em-alta-e-o-indice-omx-stockholm-30-avancou-055-1977805",
-      "time": "2026-06-18T16:09:01Z",
+      "url": "https://br.investing.com/news/stock-market-news/acao-da-braskem-amplia-queda-e-renova-minima-do-ano-com-receios-sobre-liquidez-de-curto-prazo-1977875",
+      "time": "2026-06-18T18:07:08Z",
       "cat": "internacional",
       "tickers": [],
       "image": null
     },
     {
-      "title": "Espanha - Ações fecharam o pregão em queda e o Índice IBEX 35 recuou 0,09%",
+      "title": "Ações da Kardigan disparam mais de 27% após estreia na Nasdaq",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/espanha--acoes-fecharam-o-pregao-em-queda-e-o-indice-ibex-35-recuou-009-1977804",
-      "time": "2026-06-18T16:08:32Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPED4M0K0_M.jpg"
-    },
-    {
-      "title": "Portugal - Ações fecharam o pregão em queda e o Índice PSI recuou 0,55%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/portugal--acoes-fecharam-o-pregao-em-queda-e-o-indice-psi-recuou-055-1977803",
-      "time": "2026-06-18T16:08:08Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPED7818F_M.jpg"
-    },
-    {
-      "title": "Holanda - Ações fecharam o pregão em queda e o Índice AEX recuou 0,12%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/holanda--acoes-fecharam-o-pregao-em-queda-e-o-indice-aex-recuou-012-1977802",
-      "time": "2026-06-18T16:07:44Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-kardigan-disparam-mais-de-27-apos-estreia-na-nasdaq-1977859",
+      "time": "2026-06-18T17:33:32Z",
       "cat": "internacional",
       "tickers": [],
       "image": null
-    },
-    {
-      "title": "Itália - Ações fecharam o pregão em alta e o Índice Investing.com Itália 40 avançou 0,25%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/italia--acoes-fecharam-o-pregao-em-alta-e-o-indice-investingcom-italia-40-avancou-025-1977801",
-      "time": "2026-06-18T16:07:17Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/04884b1911db56b353dbce418a99df8d_M.jpg"
     }
   ],
-  "atualizado_em": "18/06/2026 16:31"
+  "atualizado_em": "18/06/2026 19:28"
 }
