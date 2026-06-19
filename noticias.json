@@ -1,39 +1,59 @@
 {
   "headline": {
-    "title": "Ibovespa opera sem direção e deve fechar semana no vermelho; dólar cai",
-    "summary": "Negociações são impactadas pelo deriado de “Juneteenth” nos EUA, que deve provocar menor liquidez, mas apresentar volatilidade por conta do vencimentos de opções sobre ações",
-    "source": "Exame",
-    "url": "https://exame.com/invest/mercados/ibovespa-opera-sem-direcao-e-deve-fechar-semana-no-vermelho-dolar-cai/",
-    "time": "2026-06-19T11:35:15Z",
-    "cat": "economia",
-    "tickers": [],
-    "image": "https://classic.exame.com/wp-content/uploads/2025/03/br-sede-ibovespa-marco-26-2025.webp"
+    "title": "BB Seguridade (BBSE3) e Caixa Seguridade (CCXE3): Uma ação pode cair 19% em seis meses, alerta Itaú BBA",
+    "summary": "O Itaú BBA está pessimista com um dos setores considerados mais resilientes da bolsa: o de seguros. A corretora manteve projeções negativas tanto para a BB Seguridade (BBSE3) quanto para a Caixa Seguridade (CXSE3). No ca",
+    "source": "Money Times",
+    "url": "https://www.moneytimes.com.br/bb-seguridade-bbse3-e-caixa-seguridade-ccxe3-uma-acao-pode-cair-19-em-seis-meses-alerta-itau-bba-rnda/",
+    "time": "2026-06-19T15:19:40Z",
+    "cat": "acoes",
+    "tickers": [
+      "BBSE3"
+    ],
+    "image": "https://www.moneytimes.com.br/uploads/2026/04/caixa-seguridade-e-bb-seguridade.jpg"
   },
   "featured": [
     {
-      "title": "Cosan (CSAN3): Bradesco BBI corta preço-alvo, mas juros menores e venda de ativos podem destravar valor",
-      "summary": "O Bradesco BBI revisou para baixo suas estimativas para a Cosan (CSAN3), mas segue enxergando potencial de valorização para as ações, apoiado principalmente por uma eventual melhora do ambiente de juros e pelo avanço do ",
+      "title": "O Brasil já é de novo campeão do mundo (nos juros)",
+      "summary": "Se existe uma tabela em que o Brasil já entra em campo na liderança é a dos juros. Mesmo após o corte da Selic para 14,25% ao ano, o país está no topo do ranking mundial de juros reais, com taxa de 9,67%, segundo levanta",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/cosan-csan3-bradesco-bbi-corta-preco-alvo-mas-juros-menores-e-venda-de-ativos-podem-destravar-valor-pads/",
-      "time": "2026-06-19T14:29:17Z",
-      "cat": "economia",
-      "tickers": [
-        "CSAN3"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/02/cosan-csan3-3.jpg"
-    },
-    {
-      "title": "FIDCs: Os fundos de renda fixa que dependem pouco da Selic; conheça um ativo para prestar atenção",
-      "summary": "Pouco conhecidos do investidor de varejo até poucos anos atrás, os fundos de investimento em direitos creditórios (FIDCs) vêm ampliando sua relevância no mercado brasileiro. Segundo projeções da Ouro Preto Investimentos,",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/fidcs-os-fundos-de-renda-fixa-que-dependem-pouco-da-selic-conheca-um-ativo-para-prestar-atencao-lbrdbb083/",
-      "time": "2026-06-19T15:00:00Z",
+      "url": "https://www.moneytimes.com.br/o-brasil-ja-e-de-novo-campeao-do-mundo-nos-juros/",
+      "time": "2026-06-19T15:50:27Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/04/inflacao-ipca-marco-juros-selic.jpg"
+      "image": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f1e7-1f1f7.png"
+    },
+    {
+      "title": "Ibovespa Hoje Ao Vivo: Bolsa oscila com tensão geopolítica e tenta manter os 168 mil",
+      "summary": "Índices futuros dos EUA recuam em dia de feriado e com negociações com o Irã em foco",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19062026/",
+      "time": "2026-06-19T15:35:37Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-1-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     }
   ],
   "all": [
+    {
+      "title": "Ibovespa Hoje Ao Vivo: Bolsa oscila com tensão geopolítica e tenta manter os 168 mil",
+      "summary": "Índices futuros dos EUA recuam em dia de feriado e com negociações com o Irã em foco",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19062026/",
+      "time": "2026-06-19T15:35:37Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-1-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Polarização exige Justiça firme e comprometida para evitar retrocesso, diz Fachin",
+      "summary": "Ao abordar os desafios dos próximos 75 anos, o presidente do STF destacou a necessidade de recordar a finalidade da Justiça na vida",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/polarizacao-exige-justica-firme-e-comprometida-para-evitar-retrocesso-diz-fachin/",
+      "time": "2026-06-19T15:26:55Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/55131061721_9e5a543218_k.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
     {
       "title": "Ifix: por que a criação do índice foi um divisor de águas para os FIIs?",
       "summary": "O índice surgiu em um momento em que a indústria ainda era pequena",
@@ -45,44 +65,46 @@
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/FAB_9487-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Incerteza com EUA-Irã, feriados e vencimento de opções deixam Ibovespa sem rumo",
-      "summary": "A despeito do recuo, o sinal não indica ser tendência devido à ausência de fatores que possam conduzir o índice",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-incerteza-com-eua-ira-feriados-e-vencimento-de-opcoes-deixam-indice-sem-rumo/",
-      "time": "2026-06-19T14:59:54Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/acoes-bolsa-analista-indices.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Irã diz que planeja reunião com EUA nos próximos dias após adiamento de negociações",
-      "summary": "O ministério iraniano disse que a ​reunião não era mais urgente, pois um memorando de ‌entendimento sobre ​o fim da guerra já havia sido ⁠assinado ​digitalmente",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mundo/ira-diz-que-planeja-reuniao-com-eua-nos-proximos-dias-apos-adiamento-de-negociacoes/",
-      "time": "2026-06-19T14:54:14Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/hormuz-estreito-guerra-ira-eua-petroleo.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Novo corte na Selic? Entenda impacto nos CDBs e veja opções para investir",
-      "summary": "Subida de riscos e juros altos por mais tempo exigem mais seletividade",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/onde-investir/novo-corte-na-selic-entenda-impacto-nos-cdbs-e-veja-opcoes-para-investir/",
-      "time": "2026-06-19T14:50:02Z",
+      "title": "O Brasil já é de novo campeão do mundo (nos juros)",
+      "summary": "Se existe uma tabela em que o Brasil já entra em campo na liderança é a dos juros. Mesmo após o corte da Selic para 14,25% ao ano, o país está no topo do ranking mundial de juros reais, com taxa de 9,67%, segundo levanta",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/o-brasil-ja-e-de-novo-campeao-do-mundo-nos-juros/",
+      "time": "2026-06-19T15:50:27Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/04/Captura-de-tela-2025-04-11-081042.png?fit=300%2C169&amp;quality=70&amp;strip=all"
+      "image": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f1e7-1f1f7.png"
     },
     {
-      "title": "Ibovespa Hoje Ao Vivo: Bolsa oscila com tensão geopolítica e tenta manter os 168 mil",
-      "summary": "Índices futuros dos EUA recuam em dia de feriado e com negociações com o Irã em foco",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19062026/",
-      "time": "2026-06-19T14:34:10Z",
+      "title": "Polarização exige Justiça firme, comprometida e ética para evitar retrocesso, diz Fachin",
+      "summary": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, destacou nesta sexta-feira (19), que o contexto de polarização exige da Justiça demonstrações diárias de firmeza e de compromisso com a igual dignidade para t",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/polarizacao-exige-justica-firme-e-comprometida-e-etica-para-evitar-retrocesso-diz-fachin-gaep/",
+      "time": "2026-06-19T15:39:31Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-1-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/05/img20260317112933406.jpeg"
+    },
+    {
+      "title": "Estados Unidos classificam condenação de Eduardo Bolsonaro no STF como ‘perseguição’",
+      "summary": "O governo dos Estados Unidos (EUA) criticou a condenação do ex-deputado federal Eduardo Bolsonaro (PL-SP) pelo Supremo Tribunal Federal (STF) e classificou a decisão como um caso de perseguição e manipulação jurídica con",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/eua-classificam-condenacao-de-eduardo-bolsonaro-no-stf-como-perseguicao-gaep/",
+      "time": "2026-06-19T15:29:50Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/05/img20250204192412467.jpg"
+    },
+    {
+      "title": "BB Seguridade (BBSE3) e Caixa Seguridade (CCXE3): Uma ação pode cair 19% em seis meses, alerta Itaú BBA",
+      "summary": "O Itaú BBA está pessimista com um dos setores considerados mais resilientes da bolsa: o de seguros. A corretora manteve projeções negativas tanto para a BB Seguridade (BBSE3) quanto para a Caixa Seguridade (CXSE3). No ca",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/bb-seguridade-bbse3-e-caixa-seguridade-ccxe3-uma-acao-pode-cair-19-em-seis-meses-alerta-itau-bba-rnda/",
+      "time": "2026-06-19T15:19:40Z",
+      "cat": "acoes",
+      "tickers": [
+        "BBSE3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/04/caixa-seguridade-e-bb-seguridade.jpg"
     },
     {
       "title": "CLT ou PJ? Migração de 5,5 milhões de trabalhadores traz rombo previdenciário e pauta discussão no STF",
@@ -126,48 +148,6 @@
       "cat": "analise",
       "tickers": [],
       "image": "https://www.moneytimes.com.br/uploads/2025/05/boa-safra-soja3.jpg"
-    },
-    {
-      "title": "FIDCs: Os fundos de renda fixa que dependem pouco da Selic; conheça um ativo para prestar atenção",
-      "summary": "Pouco conhecidos do investidor de varejo até poucos anos atrás, os fundos de investimento em direitos creditórios (FIDCs) vêm ampliando sua relevância no mercado brasileiro. Segundo projeções da Ouro Preto Investimentos,",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/fidcs-os-fundos-de-renda-fixa-que-dependem-pouco-da-selic-conheca-um-ativo-para-prestar-atencao-lbrdbb083/",
-      "time": "2026-06-19T15:00:00Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/04/inflacao-ipca-marco-juros-selic.jpg"
-    },
-    {
-      "title": "Fundo imobiliário terá novo ticker na Bolsa após aprovação dos cotistas; veja detalhes",
-      "summary": "Os cotistas do Multi Shoppings Fundo de Investimento Imobiliário aprovaram a alteração da denominação social do fundo, que passará a se chamar Gravataí Shopping Fundo de Investimento Imobiliário de Responsabilidade Limit",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/fundo-imobiliario-tera-novo-ticker-na-bolsa-apos-aprovacao-dos-cotistas-veja-detalhes/",
-      "time": "2026-06-19T14:57:41Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/04/fundos-imobiliarios-carteira-recomendada-.jpg"
-    },
-    {
-      "title": "XP inicia cobertura do setor de saúde e elege duas favoritas; veja recomendações",
-      "summary": "A XP Investimentos começou a cobertura do setor de saúde com uma visão construtiva, diante da expectativa de que 2026 seja favorável para a maioria dos players do segmento. De acordo com a corretora, o setor negocia hoje",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/xp-inicia-cobertura-do-setor-de-saude-e-elege-bradsaude-saud3-e-rede-dor-rdor3-como-favoritas-veja-as-recomendacoes-apsa/",
-      "time": "2026-06-19T14:45:49Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Cosan (CSAN3): Bradesco BBI corta preço-alvo, mas juros menores e venda de ativos podem destravar valor",
-      "summary": "O Bradesco BBI revisou para baixo suas estimativas para a Cosan (CSAN3), mas segue enxergando potencial de valorização para as ações, apoiado principalmente por uma eventual melhora do ambiente de juros e pelo avanço do ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/cosan-csan3-bradesco-bbi-corta-preco-alvo-mas-juros-menores-e-venda-de-ativos-podem-destravar-valor-pads/",
-      "time": "2026-06-19T14:29:17Z",
-      "cat": "economia",
-      "tickers": [
-        "CSAN3"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/02/cosan-csan3-3.jpg"
     },
     {
       "title": "MXRF11: qual o investimento necessário para ganhar R$ 3.000 por mês em dividendos?",
@@ -252,16 +232,24 @@
       "image": null
     },
     {
-      "title": "GGRC11: quanto R$ 10 mil poderiam gerar em dividendos? veja simulação",
-      "summary": "Com dividend yield (DY) de 12,03% nos últimos 12 meses e cotação próxima de R$ 9,93, o GGR Covepi Renda tem ganhado espaço após informar lucro de R$ 20,2 milhões, reportar aumento na liquidez das cotas e ingressar em índ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/ggrc11-quanto-r-10-mil-poderiam-gerar-em-dividendos-veja-simulacao/",
-      "time": "2026-06-18T22:45:04Z",
-      "cat": "fundos",
-      "tickers": [
-        "GGRC11"
-      ],
-      "image": null
+      "title": "Capitão do Marrocos na Copa 2026 irá a julgamento por acusação de estupro na França",
+      "summary": "Atleta do PSG, Achraf Hakimi é investigado desde 2023 após denúncia apresentada por uma jovem na França",
+      "source": "Exame",
+      "url": "https://exame.com/mundo/capitao-do-marrocos-na-copa-2026-ira-a-julgamento-por-acusacao-de-estupro-na-franca/",
+      "time": "2026-06-19T12:49:11Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2022/11/GettyImages-1245236409.jpg"
+    },
+    {
+      "title": "Endrick vai jogar hoje? Veja os melhores memes sobre a escalação do Brasil",
+      "summary": "Atacante não saiu do banco contra o Marrocos e virou alvo de brincadeiras nas redes sociais",
+      "source": "Exame",
+      "url": "https://exame.com/esporte/endrick-vai-jogar-hoje-veja-os-melhores-memes-sobre-a-escalacao-do-brasil/",
+      "time": "2026-06-19T12:32:37Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2024/01/Endrick.jpg"
     },
     {
       "title": "As plataformas cripto onde apostadores ganharam milhões com resultados da Copa do Mundo",
@@ -274,56 +262,44 @@
       "image": "https://classic.exame.com/wp-content/uploads/2026/06/COPA_DO_MUNDO_532ccc.png"
     },
     {
-      "title": "Morgan Stanley: Boa parte do rali atual em Wall Street não é lucro — é fé",
-      "summary": "Relatório do banco mostra que a fatia do preço das ações dos EUA atribuída a expectativas futuras está em um dos maiores níveis da história",
-      "source": "Exame",
-      "url": "https://exame.com/exame-in/morgan-stanley-boa-parte-do-rali-atual-em-wall-street-nao-e-lucro-e-fe/",
-      "time": "2026-06-19T11:45:42Z",
+      "title": "Polônia - Ações fecharam o pregão em alta e o Índice WIG30 avançou 0,35%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/polonia--acoes-fecharam-o-pregao-em-alta-e-o-indice-wig30-avancou-035-1978488",
+      "time": "2026-06-19T15:35:19Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/02/wall-street.jpg"
+      "image": null
     },
     {
-      "title": "Endrick vira febre nacional e impulsiona ações de marcas em dia de jogo do Brasil",
-      "summary": "Nissan, 99brasil, CA e outras marcas não patrocinam o jogador, mas aproveitam o hype do atacante em suas campanhas",
-      "source": "Exame",
-      "url": "https://exame.com/marketing/endrick-vira-febre-nacional-e-impulsiona-acoes-de-marcas-em-dia-de-jogo-do-brasil/",
-      "time": "2026-06-19T11:40:40Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/05/endrick-copa-do-mundo-convocacao.jpg"
-    },
-    {
-      "title": "OpenAI contrata lenda do Google e ex-assessor de IA de Trump antes de IPO",
-      "summary": "Contratações de Noam Shazeer e Dean Ball reforçam tecnologia e influência política da OpenAI enquanto a rival Anthropic enfrenta restrições impostas pelo governo Trump",
-      "source": "Exame",
-      "url": "https://exame.com/inteligencia-artificial/openai-contrata-lenda-do-google-e-ex-assessor-de-ia-de-trump-antes-de-ipo/",
-      "time": "2026-06-19T11:38:37Z",
+      "title": "Turquia - Ações fecharam o pregão em queda e o Índice BIST 100 recuou 0,63%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/turquia--acoes-fecharam-o-pregao-em-queda-e-o-indice-bist-100-recuou-063-1978486",
+      "time": "2026-06-19T15:30:18Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/10/chatgpt.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEE8P16F_M.jpg"
     },
     {
-      "title": "Ibovespa opera sem direção e deve fechar semana no vermelho; dólar cai",
-      "summary": "Negociações são impactadas pelo deriado de “Juneteenth” nos EUA, que deve provocar menor liquidez, mas apresentar volatilidade por conta do vencimentos de opções sobre ações",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/ibovespa-opera-sem-direcao-e-deve-fechar-semana-no-vermelho-dolar-cai/",
-      "time": "2026-06-19T11:35:15Z",
-      "cat": "economia",
+      "title": "BMW se prepara para negociações com funcionários após alerta sobre lucros",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/bmw-se-prepara-para-negociacoes-com-funcionarios-apos-alerta-sobre-lucros-1978484",
+      "time": "2026-06-19T15:28:34Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/03/br-sede-ibovespa-marco-26-2025.webp"
+      "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5I0VQ_1200_L.jpg"
     },
     {
-      "title": "Bitcoin recua para US$ 62 mil e analista aponta novo fator de risco",
-      "summary": "Maior criptomoeda do mundo tem novo fator de risco após acumular queda de 50% desde a máxima histórica",
-      "source": "Exame",
-      "url": "https://exame.com/future-of-money/bitcoin-hoje-19-06-2026/",
-      "time": "2026-06-19T11:26:55Z",
-      "cat": "cripto",
-      "tickers": [
-        "BTC"
-      ],
-      "image": "https://classic.exame.com/wp-content/uploads/2023/03/imagem-figma-bitcoin-12.jpg"
+      "title": "Marrocos - Ações fecharam o pregão em queda e o Índice Moroccan All Shares recuou 0,02%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/marrocos--acoes-fecharam-o-pregao-em-queda-e-o-indice-moroccan-all-shares-recuou-002-1978480",
+      "time": "2026-06-19T15:10:20Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB0E0CQ_M.jpg"
     },
     {
       "title": "Noruega - Ações fecharam o pregão em alta e o Índice Oslo OBX avançou 1,08%",
@@ -384,27 +360,7 @@
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5I0TX_1200_L.jpg"
-    },
-    {
-      "title": "Como bancos centrais mais hawkish podem impactar as bolsas? Barclays analisa",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/como-bancos-centrais-mais-hawkish-podem-impactar-as-bolsas-barclays-analisa-1978422",
-      "time": "2026-06-19T11:56:12Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Por que as ações da Admiral estão caindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-admiral-estao-caindo-hoje-93CH-1978417",
-      "time": "2026-06-19T11:49:15Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "19/06/2026 15:16"
+  "atualizado_em": "19/06/2026 15:59"
 }
