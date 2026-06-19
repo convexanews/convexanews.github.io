@@ -1,126 +1,225 @@
 {
   "headline": {
-    "title": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta",
-    "summary": "Índices futuros dos EUA recuam com negociações paralisadas com o Irã",
-    "source": "InfoMoney",
-    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19062026/",
-    "time": "2026-06-19T11:13:00Z",
+    "title": "Ibovespa opera sem direção e deve fechar semana no vermelho; dólar cai",
+    "summary": "Negociações são impactadas pelo deriado de “Juneteenth” nos EUA, que deve provocar menor liquidez, mas apresentar volatilidade por conta do vencimentos de opções sobre ações",
+    "source": "Exame",
+    "url": "https://exame.com/invest/mercados/ibovespa-opera-sem-direcao-e-deve-fechar-semana-no-vermelho-dolar-cai/",
+    "time": "2026-06-19T11:35:15Z",
     "cat": "economia",
     "tickers": [],
-    "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Ibovespa-ao-vivo-bolsa-de-valores-32.png?fit=300%2C186&amp;quality=70&amp;strip=all"
+    "image": "https://classic.exame.com/wp-content/uploads/2025/03/br-sede-ibovespa-marco-26-2025.webp"
   },
   "featured": [
     {
-      "title": "Baixa liquidez e incerteza geopolítica dominam os mercados; Ibovespa em dólar avança hoje (19)",
-      "summary": "A sexta-feira deve ser marcada por baixa liquidez nos mercados globais, refletindo o fechamento das principais bolsas da China e dos Estados Unidos. No país asiático, o feriado do Festival do Barco-Dragão interrompe as n",
+      "title": "Cosan (CSAN3): Bradesco BBI corta preço-alvo, mas juros menores e venda de ativos podem destravar valor",
+      "summary": "O Bradesco BBI revisou para baixo suas estimativas para a Cosan (CSAN3), mas segue enxergando potencial de valorização para as ações, apoiado principalmente por uma eventual melhora do ambiente de juros e pelo avanço do ",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/baixa-liquidez-e-incerteza-geopolitica-dominam-os-mercados-ibovespa-em-dolar-avanca-hoje-19/",
-      "time": "2026-06-19T10:09:11Z",
+      "url": "https://www.moneytimes.com.br/cosan-csan3-bradesco-bbi-corta-preco-alvo-mas-juros-menores-e-venda-de-ativos-podem-destravar-valor-pads/",
+      "time": "2026-06-19T14:29:17Z",
       "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/06/mercado-morning-ibovespa-wall-street.jpg"
+      "tickers": [
+        "CSAN3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/02/cosan-csan3-3.jpg"
     },
     {
-      "title": "XP indica empresas da B3 menos endividadas para cenário de juros altos; veja ações",
-      "summary": "Relatório aponta que empresas brasileiras seguem com indicadores financeiros saudáveis, mas identifica setores e companhias mais vulneráveis a uma Selic elevada por mais tempo",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/xp-indica-acoes-menos-endividadas-para-enfrentar-cenario-de-juros-altos-veja-papeis/",
-      "time": "2026-06-19T11:06:14Z",
+      "title": "FIDCs: Os fundos de renda fixa que dependem pouco da Selic; conheça um ativo para prestar atenção",
+      "summary": "Pouco conhecidos do investidor de varejo até poucos anos atrás, os fundos de investimento em direitos creditórios (FIDCs) vêm ampliando sua relevância no mercado brasileiro. Segundo projeções da Ouro Preto Investimentos,",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/fidcs-os-fundos-de-renda-fixa-que-dependem-pouco-da-selic-conheca-um-ativo-para-prestar-atencao-lbrdbb083/",
+      "time": "2026-06-19T15:00:00Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/Dividendos-ou-juros-sobre-capital-proprio.jpg?fit=300%2C168&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/04/inflacao-ipca-marco-juros-selic.jpg"
     }
   ],
   "all": [
     {
-      "title": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta",
-      "summary": "Índices futuros dos EUA recuam com negociações paralisadas com o Irã",
+      "title": "Ifix: por que a criação do índice foi um divisor de águas para os FIIs?",
+      "summary": "O índice surgiu em um momento em que a indústria ainda era pequena",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/onde-investir/ifix-por-que-a-criacao-do-indice-foi-um-divisor-de-aguas-para-os-fiis/",
+      "time": "2026-06-19T15:00:00Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/FAB_9487-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Incerteza com EUA-Irã, feriados e vencimento de opções deixam Ibovespa sem rumo",
+      "summary": "A despeito do recuo, o sinal não indica ser tendência devido à ausência de fatores que possam conduzir o índice",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-incerteza-com-eua-ira-feriados-e-vencimento-de-opcoes-deixam-indice-sem-rumo/",
+      "time": "2026-06-19T14:59:54Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/acoes-bolsa-analista-indices.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Irã diz que planeja reunião com EUA nos próximos dias após adiamento de negociações",
+      "summary": "O ministério iraniano disse que a ​reunião não era mais urgente, pois um memorando de ‌entendimento sobre ​o fim da guerra já havia sido ⁠assinado ​digitalmente",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mundo/ira-diz-que-planeja-reuniao-com-eua-nos-proximos-dias-apos-adiamento-de-negociacoes/",
+      "time": "2026-06-19T14:54:14Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/hormuz-estreito-guerra-ira-eua-petroleo.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Novo corte na Selic? Entenda impacto nos CDBs e veja opções para investir",
+      "summary": "Subida de riscos e juros altos por mais tempo exigem mais seletividade",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/onde-investir/novo-corte-na-selic-entenda-impacto-nos-cdbs-e-veja-opcoes-para-investir/",
+      "time": "2026-06-19T14:50:02Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/04/Captura-de-tela-2025-04-11-081042.png?fit=300%2C169&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Ibovespa Hoje Ao Vivo: Bolsa oscila com tensão geopolítica e tenta manter os 168 mil",
+      "summary": "Índices futuros dos EUA recuam em dia de feriado e com negociações com o Irã em foco",
       "source": "InfoMoney",
       "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19062026/",
-      "time": "2026-06-19T11:13:00Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Ibovespa-ao-vivo-bolsa-de-valores-32.png?fit=300%2C186&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "XP indica empresas da B3 menos endividadas para cenário de juros altos; veja ações",
-      "summary": "Relatório aponta que empresas brasileiras seguem com indicadores financeiros saudáveis, mas identifica setores e companhias mais vulneráveis a uma Selic elevada por mais tempo",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/xp-indica-acoes-menos-endividadas-para-enfrentar-cenario-de-juros-altos-veja-papeis/",
-      "time": "2026-06-19T11:06:14Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/Dividendos-ou-juros-sobre-capital-proprio.jpg?fit=300%2C168&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "B3 anuncia que Rodrigo Nardoni deixará o cargo de Vice-Presidente de Tecnologia",
-      "summary": "Área de tecnologia ficará sob a responsabilidade de Jochen Mielke, que atua na Companhia desde 2006",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/b3-anuncia-que-rodrigo-nardoni-deixara-o-cargo-de-vice-presidente-de-tecnologia/",
-      "time": "2026-06-19T10:39:15Z",
+      "time": "2026-06-19T14:34:10Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/EspacoB3_01.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-1-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Neymar vai jogar hoje contra o Haiti? Veja situação do camisa 10 da Seleção",
-      "summary": "Segundo a CBF, a prioridade é ter Neymar em plenas condições físicas para a reta decisiva do Mundial",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/esportes/neymar-vai-jogar-contra-o-haiti/",
-      "time": "2026-06-19T10:30:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/neymar-treinamento-selecao-copa-mundo-fifa-eua03.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Negociações de paz entre EUA e Irã são adiadas, prejudicando perspectivas de trégua duradoura",
-      "summary": "A Suíça informou que as negociações dos EUA com os negociadores iranianos sobre um acordo para pôr fim ao conflito no Oriente Médio não ocorreriam nesta sexta-feira (19), enquanto o vice-presidente JD Vance desistiu de v",
+      "title": "CLT ou PJ? Migração de 5,5 milhões de trabalhadores traz rombo previdenciário e pauta discussão no STF",
+      "summary": "Entre 2022 e 2025 o Brasil registrou a migração de 5,5 milhões de profissionais com carteira assinada no regime da Consolidação das Leis Trabalhistas (CLT) para o de prestador de serviços via pessoa jurídica (PJ), segund",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/negociacoes-de-paz-entre-eua-e-ira-sao-adiadas-prejudicando-perspectivas-de-tregua-duradoura/",
-      "time": "2026-06-19T10:26:32Z",
+      "url": "https://www.moneytimes.com.br/clt-ou-pj-migracao-de-55-milhoes-de-trabalhadores-traz-rombo-previdenciario-e-pauta-discussao-no-stf-gaep/",
+      "time": "2026-06-19T15:14:48Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/01/carteira-de-trabalho-clt-mt.jpg"
+    },
+    {
+      "title": "Oncoclínicas (ONCO3) se prepara para entrar em recuperação extrajudicial em duas semanas, diz jornal",
+      "summary": "A Oncoclínicas (ONCO3) se prepara para protocolar um pedido de recuperação extrajudicial em duas a três semanas, de acordo com o Valor Econômico, citando fontes. Diferentemente da recuperação judicial, a extrajudicial pe",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/oncoclinicas-onco3-se-prepara-para-entrar-em-recuperacao-extrajudicial-em-duas-semanas-diz-jornal-lmrs/",
+      "time": "2026-06-19T15:12:45Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/03/oncoclinicas.jpg"
+    },
+    {
+      "title": "PetroRecôncavo (RECV3), Prio (PRIO3) e outras petroleiras avançam na B3 com novo impasse  entre EUA e Irã",
+      "summary": "As ações das petroleiras operam na ponta positiva da bolsa brasileira nesta sexta-feira (19), em dia de liquidez limitada e aversão a risco no mercado internacional Por volta de 11h45 (horário de Brasília), PetroReconcav",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/petroreconcavo-recv3-prio-prio3-e-outras-petroleiras-avancam-na-b3-com-novo-impasse-nas-negociacoes-entre-eua-e-ira-lils/",
+      "time": "2026-06-19T15:07:35Z",
       "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/06/ira-eua-.jpg"
+      "tickers": [
+        "RECV3",
+        "PRIO3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/07/petroleo.jpg"
     },
     {
-      "title": "Baixa liquidez e incerteza geopolítica dominam os mercados; Ibovespa em dólar avança hoje (19)",
-      "summary": "A sexta-feira deve ser marcada por baixa liquidez nos mercados globais, refletindo o fechamento das principais bolsas da China e dos Estados Unidos. No país asiático, o feriado do Festival do Barco-Dragão interrompe as n",
+      "title": "Boa Safra (SOJA3): Citi reduz preço-alvo por dívida líquida maior; El Niño pode trazer efeitos mistos",
+      "summary": "O Citi reduziu o preço-alvo das ações da Boa Safra (SOJA3) de R$ 7,50 para R$ 6,50, citando uma dívida líquida acima do esperado pelo banco no primeiro trimestre de 2026. Apesar do corte, o banco manteve recomendação neu",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/baixa-liquidez-e-incerteza-geopolitica-dominam-os-mercados-ibovespa-em-dolar-avanca-hoje-19/",
-      "time": "2026-06-19T10:09:11Z",
+      "url": "https://www.moneytimes.com.br/boa-safra-soja3-citi-reduz-preco-alvo-por-divida-liquida-maior-el-nino-pode-trazer-efeitos-mistos-pads/",
+      "time": "2026-06-19T15:00:04Z",
+      "cat": "analise",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/05/boa-safra-soja3.jpg"
+    },
+    {
+      "title": "FIDCs: Os fundos de renda fixa que dependem pouco da Selic; conheça um ativo para prestar atenção",
+      "summary": "Pouco conhecidos do investidor de varejo até poucos anos atrás, os fundos de investimento em direitos creditórios (FIDCs) vêm ampliando sua relevância no mercado brasileiro. Segundo projeções da Ouro Preto Investimentos,",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/fidcs-os-fundos-de-renda-fixa-que-dependem-pouco-da-selic-conheca-um-ativo-para-prestar-atencao-lbrdbb083/",
+      "time": "2026-06-19T15:00:00Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/06/mercado-morning-ibovespa-wall-street.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2026/04/inflacao-ipca-marco-juros-selic.jpg"
     },
     {
-      "title": "As ligações da antiga Reag com uma financeira e um aporte de R$ 790 milhões às vésperas da liquidação do grupo",
-      "summary": "Com o avanço das investigações envolvendo o Banco Master, a Reag e outras empresas citadas nas operações Carbono Oculto e Compliance Zero, parte do mercado segue monitorando quais estruturas financeiras permaneceram expo",
+      "title": "Fundo imobiliário terá novo ticker na Bolsa após aprovação dos cotistas; veja detalhes",
+      "summary": "Os cotistas do Multi Shoppings Fundo de Investimento Imobiliário aprovaram a alteração da denominação social do fundo, que passará a se chamar Gravataí Shopping Fundo de Investimento Imobiliário de Responsabilidade Limit",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/qista-reag-planner-e-um-aporte-de-r-790-milhoes-as-vesperas-da-liquidacao-da-cbsf-vtra/",
-      "time": "2026-06-19T10:00:00Z",
+      "url": "https://www.moneytimes.com.br/fundo-imobiliario-tera-novo-ticker-na-bolsa-apos-aprovacao-dos-cotistas-veja-detalhes/",
+      "time": "2026-06-19T14:57:41Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/04/fundos-imobiliarios-carteira-recomendada-.jpg"
+    },
+    {
+      "title": "XP inicia cobertura do setor de saúde e elege duas favoritas; veja recomendações",
+      "summary": "A XP Investimentos começou a cobertura do setor de saúde com uma visão construtiva, diante da expectativa de que 2026 seja favorável para a maioria dos players do segmento. De acordo com a corretora, o setor negocia hoje",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/xp-inicia-cobertura-do-setor-de-saude-e-elege-bradsaude-saud3-e-rede-dor-rdor3-como-favoritas-veja-as-recomendacoes-apsa/",
+      "time": "2026-06-19T14:45:49Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/09/reag-investimentos.jpg"
+      "image": null
     },
     {
-      "title": "Bolsas da Ásia: Nikkei e Kospi fecham em direções opostas em meio a feriado na China",
-      "summary": "As bolsas do Japão e da Coreia do Sul fecharam em direções opostas nesta sexta-feira (19), em meio a um feriado na China, enquanto investidores avaliavam a implementação do acordo de paz preliminar entre os Estados Unido",
+      "title": "Cosan (CSAN3): Bradesco BBI corta preço-alvo, mas juros menores e venda de ativos podem destravar valor",
+      "summary": "O Bradesco BBI revisou para baixo suas estimativas para a Cosan (CSAN3), mas segue enxergando potencial de valorização para as ações, apoiado principalmente por uma eventual melhora do ambiente de juros e pelo avanço do ",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bolsas-da-asia-nikkei-e-kospi-fecham-em-direcoes-opostas-em-meio-a-feriado-na-china-fets/",
-      "time": "2026-06-19T09:31:19Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2023/06/bolsas-asiaticas-fecham.jpg"
+      "url": "https://www.moneytimes.com.br/cosan-csan3-bradesco-bbi-corta-preco-alvo-mas-juros-menores-e-venda-de-ativos-podem-destravar-valor-pads/",
+      "time": "2026-06-19T14:29:17Z",
+      "cat": "economia",
+      "tickers": [
+        "CSAN3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/02/cosan-csan3-3.jpg"
     },
     {
-      "title": "Tendência é polarização, mas candidatura alternativa tem mais chance que em 2022, diz Eurasia",
-      "summary": "O diretor-geral da consultoria Eurasia no Brasil, Silvio Cascione, disse nesta quinta-feira (18) que o presidente Luiz Inácio Lula da Silva é favorito nas eleições de outubro, porém tem uma vantagem mais frágil do que as",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/tendencia-e-polarizacao-mas-candidatura-alternativa-tem-mais-chance-que-em-2022-diz-eurasia-fets/",
-      "time": "2026-06-19T09:28:00Z",
+      "title": "MXRF11: qual o investimento necessário para ganhar R$ 3.000 por mês em dividendos?",
+      "summary": "O fundo imobiliário Maxi Renda distribuiu R$ 0,10 por cota aos cotistas referentes a junho de 2026. O pagamento ocorreu em 15 de junho e representou um dividend yield mensal de 1,002%, considerando a cotação base de R$ 9",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/dividendos-do-mxrf11-3000-mensais/",
+      "time": "2026-06-19T14:45:09Z",
+      "cat": "fundos",
+      "tickers": [
+        "MXRF11"
+      ],
+      "image": null
+    },
+    {
+      "title": "IPO bilionário? Gigante chinesa mira oferta de ações de US$ 1 bi em Hong Kong",
+      "summary": "Poucos dias após o maior IPO da história até o momento, com a chegada da SpaceX ao mercado de capitais, uma gigante chinesa de tecnologia se prepara para realizar uma oferta pública de ações bilionária. Segundo informaçõ",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/momenta-mira-oferta-bilionaria-em-hong-kong-go/",
+      "time": "2026-06-19T14:35:10Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2024/10/eleicoes-porto-alegre.webp"
+      "image": null
+    },
+    {
+      "title": "Confira os FIIs que vão pagar rendimentos nesta sexta-feira (19)",
+      "summary": "Entre os 10 FIIs que distribuem rendimentos nesta sexta-feira estão PQDP11 e GCRI11. Os pagamentos anunciados são de R$ 15,80 por cota e R$ 0,85 por cota, respectivamente. Os cotistas dos FIIs com dividendos hoje receber",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/dividendos-hoje-fiis-rendimentos-pqdp11/",
+      "time": "2026-06-19T13:25:09Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Dólar cede após ganhos, em dia de poucos negócios com feriado nos EUA",
+      "summary": "Dólar - Foto: UnsplashO dólar opera em baixa diante do real nesta sexta-feira (19), acompanhando a desvalorização do índice DXY da moeda americana frente as principais, após a forte alta provocada pelo tom mais duro do F",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/dolar-cede-apos-ganhos-19062026-go/",
+      "time": "2026-06-19T13:15:45Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://files.sunoresearch.com.br/n/uploads/2024/03/cedula-de-dolar-usd.jpg"
+    },
+    {
+      "title": "Banco da Amazônia (BAZA3) e WLM (WLMM4) pagam dividendos nesta sexta-feira",
+      "summary": "Banco da Amazônia (BAZA3) e WLM (WLMM4) pagam dividendos nesta sexta-feiraOs acionistas do Banco da Amazônia (BAZA3) e da WLM (WLMM4) receberão nesta sexta-feira os dividendos que serão distribuídos pelas companhias. Os ",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/banco-da-amazonia-baza3-agenda-dividendos-19062026/",
+      "time": "2026-06-19T12:25:00Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": null
     },
     {
       "title": "NUIF11 paga dividendos com yield de 14,5% ao ano e supera CDI em 12 meses",
@@ -165,139 +264,147 @@
       "image": null
     },
     {
-      "title": "BCRI11 e PORD11 sobem, CCME11 e BLMG11 caem; IFIX recua 0,3%",
-      "summary": "O IFIX encerrou a sessão desta quinta-feira (18) aos 3.799,74 pontos, após queda de 11,44 pontos frente ao fechamento anterior. A variação no dia foi negativa em 0,30%, levando o indicador a terminar abaixo do nível de 3",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/bcri11-e-pord11-sobem-ccme11-e-blmg11-caem-ifix-recua-03/",
-      "time": "2026-06-18T22:15:04Z",
-      "cat": "fundos",
-      "tickers": [
-        "BLMG11"
-      ],
-      "image": null
-    },
-    {
-      "title": "XPML11 anuncia dividendos e mantém valor pago há mais de dois anos",
-      "summary": "O XP Malls Fundo de Investimento Imobiliário (XPML11) comunicou uma nova distribuição de rendimentos aos cotistas. Segundo fato relevante divulgado nesta quinta-feira (19), o fundo pagará R$ 0,92 por cota, com crédito pr",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/xpml11-anuncia-dividendos-e-mantem-valor-pago-ha-mais-de-dois-anos/",
-      "time": "2026-06-18T21:55:07Z",
-      "cat": "fundos",
-      "tickers": [
-        "XPML11"
-      ],
-      "image": null
-    },
-    {
-      "title": "Ibovespa fecha perto da estabilidade após Super Quarta e cautela com juros nos EUA",
-      "summary": "O Ibovespa encerrou o pregão desta quinta-feira (18) praticamente estável, com leve queda de 0,10%, aos 168,2 mil pontos, enquanto investidores continuaram avaliando os desdobramentos da chamada Super Quarta, que trouxe ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/ibovespa-cai-fed-copom-dolar-mt/",
-      "time": "2026-06-18T21:25:07Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "FII tem contas rejeitadas após não pagamento de dividendos e crise que corroeu cotas em mais de 70%",
-      "summary": "Os cotistas do fundo imobiliário CACR11 (Cartesia Recebíveis Imobiliários) rejeitaram as demonstrações financeiras do exercício encerrado em 31 de dezembro de 2025. A decisão foi tomada por meio de consulta aos investido",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/fii-tem-contas-rejeitadas-apos-nao-pagamento-de-dividendos-e-crise-que-corroeu-cotas-em-mais-de-70/",
-      "time": "2026-06-18T21:15:08Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Braskem (BRKM5) derrete na Bolsa com medo de caixa e pressão de credores",
-      "summary": "As ações da Braskem (BRKM5) voltaram a cair forte nesta quinta-feira (18), em meio a receios sobre a liquidez de curto prazo da petroquímica e às incertezas em torno de uma possível reestruturação extrajudicial. Por volt",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/braskem-brkm5-cai-liquidez-credores-reestruturacao-mt/",
-      "time": "2026-06-18T20:45:07Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Endrick vai jogar hoje? O que se sabe sobre a escalação do Brasil contra o Haiti",
-      "summary": "Ao comparar as opções ofensivas disponíveis, Ancelotti destacou a maturidade do jovem jogador do Real Madrid; saiba se é possível que ele jogue hoje",
+      "title": "As plataformas cripto onde apostadores ganharam milhões com resultados da Copa do Mundo",
+      "summary": "Um único investidor ganhou US$ 9,24 milhões em um dia com quatro apostas, enquanto vitória da Argentina provocou grandes perdas para apostadores",
       "source": "Exame",
-      "url": "https://exame.com/esporte/endrick-vai-jogar-hoje-o-que-se-sabe-sobre-a-escalacao-do-brasil-contra-o-haiti/",
-      "time": "2026-06-19T08:10:14Z",
+      "url": "https://exame.com/future-of-money/as-plataformas-cripto-onde-apostadores-ganharam-milhoes-com-resultados-da-copa-do-mundo/",
+      "time": "2026-06-19T12:00:16Z",
+      "cat": "cripto",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/COPA_DO_MUNDO_532ccc.png"
+    },
+    {
+      "title": "Morgan Stanley: Boa parte do rali atual em Wall Street não é lucro — é fé",
+      "summary": "Relatório do banco mostra que a fatia do preço das ações dos EUA atribuída a expectativas futuras está em um dos maiores níveis da história",
+      "source": "Exame",
+      "url": "https://exame.com/exame-in/morgan-stanley-boa-parte-do-rali-atual-em-wall-street-nao-e-lucro-e-fe/",
+      "time": "2026-06-19T11:45:42Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2025/02/wall-street.jpg"
+    },
+    {
+      "title": "Endrick vira febre nacional e impulsiona ações de marcas em dia de jogo do Brasil",
+      "summary": "Nissan, 99brasil, CA e outras marcas não patrocinam o jogador, mas aproveitam o hype do atacante em suas campanhas",
+      "source": "Exame",
+      "url": "https://exame.com/marketing/endrick-vira-febre-nacional-e-impulsiona-acoes-de-marcas-em-dia-de-jogo-do-brasil/",
+      "time": "2026-06-19T11:40:40Z",
       "cat": "economia",
       "tickers": [],
       "image": "https://classic.exame.com/wp-content/uploads/2026/05/endrick-copa-do-mundo-convocacao.jpg"
     },
     {
-      "title": "Como a Andorinha virou líder do azeite extra virgem no Brasil — e agora aposta em squeeze e crianças",
-      "summary": "Marca do grupo português Sovena saiu de 2% de participação em 2006 para quase 30% do mercado de extra virgem, e agora quer entrar em públicos que o azeite ainda não alcançou",
+      "title": "OpenAI contrata lenda do Google e ex-assessor de IA de Trump antes de IPO",
+      "summary": "Contratações de Noam Shazeer e Dean Ball reforçam tecnologia e influência política da OpenAI enquanto a rival Anthropic enfrenta restrições impostas pelo governo Trump",
       "source": "Exame",
-      "url": "https://exame.com/negocios/como-a-andorinha-virou-lider-do-azeite-extra-virgem-no-brasil-e-agora-aposta-em-squeeze-e-criancas/",
-      "time": "2026-06-19T08:04:55Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/andorinha.jpg"
-    },
-    {
-      "title": "ASML nega ter vendido equipamento de fabricação de chips EUV para a China",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/asml-nega-ter-vendido-equipamento-de-fabricacao-de-chips-euv-para-a-china-1978387",
-      "time": "2026-06-19T10:42:29Z",
+      "url": "https://exame.com/inteligencia-artificial/openai-contrata-lenda-do-google-e-ex-assessor-de-ia-de-trump-antes-de-ipo/",
+      "time": "2026-06-19T11:38:37Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5I0M3_1200_L.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2025/10/chatgpt.jpg"
     },
     {
-      "title": "Índia - Ações fecharam o pregão em queda e o Índice Nifty 50 recuou 0,64%",
+      "title": "Ibovespa opera sem direção e deve fechar semana no vermelho; dólar cai",
+      "summary": "Negociações são impactadas pelo deriado de “Juneteenth” nos EUA, que deve provocar menor liquidez, mas apresentar volatilidade por conta do vencimentos de opções sobre ações",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/ibovespa-opera-sem-direcao-e-deve-fechar-semana-no-vermelho-dolar-cai/",
+      "time": "2026-06-19T11:35:15Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2025/03/br-sede-ibovespa-marco-26-2025.webp"
+    },
+    {
+      "title": "Bitcoin recua para US$ 62 mil e analista aponta novo fator de risco",
+      "summary": "Maior criptomoeda do mundo tem novo fator de risco após acumular queda de 50% desde a máxima histórica",
+      "source": "Exame",
+      "url": "https://exame.com/future-of-money/bitcoin-hoje-19-06-2026/",
+      "time": "2026-06-19T11:26:55Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC"
+      ],
+      "image": "https://classic.exame.com/wp-content/uploads/2023/03/imagem-figma-bitcoin-12.jpg"
+    },
+    {
+      "title": "Noruega - Ações fecharam o pregão em alta e o Índice Oslo OBX avançou 1,08%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/india--acoes-fecharam-o-pregao-em-queda-e-o-indice-nifty-50-recuou-064-1978378",
-      "time": "2026-06-19T10:30:31Z",
+      "url": "https://br.investing.com/news/stock-market-news/noruega--acoes-fecharam-o-pregao-em-alta-e-o-indice-oslo-obx-avancou-108-1978472",
+      "time": "2026-06-19T14:55:44Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPED0C0KP_M.jpg"
+    },
+    {
+      "title": "Israel - Ações fecharam o pregão em queda e o Índice TA 35 recuou 0,91%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/israel--acoes-fecharam-o-pregao-em-queda-e-o-indice-ta-35-recuou-091-1978471",
+      "time": "2026-06-19T14:55:19Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEE0D09K_M.jpg"
+    },
+    {
+      "title": "Grécia - Ações fecharam o pregão em alta e o Índice Athens General Composite avançou 0,17%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/grecia--acoes-fecharam-o-pregao-em-alta-e-o-indice-athens-general-composite-avancou-017-1978470",
+      "time": "2026-06-19T14:50:19Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB640K1_M.jpg"
+    },
+    {
+      "title": "PicPay e BRB são alvos de operação que apura suspeita de fraude em folha de pagamento do DF",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/brb-e-picpay-sao-alvos-de-operacao-do-mp-do-df-sobre-descontos-irregulares-em-folha-de-servidores-diz-g1-1978408",
+      "time": "2026-06-19T14:35:29Z",
       "cat": "internacional",
       "tickers": [],
       "image": null
     },
     {
-      "title": "BNP Paribas eleva recomendação da Holcim com potencial de alta de 21%",
+      "title": "Nossa IA previu: com alta de +25% e subindo, esta ação de chips não para",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/bnp-paribas-eleva-recomendacao-da-holcim-com-potencial-de-alta-de-21-1978376",
-      "time": "2026-06-19T10:22:08Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Índice Nikkei tem maior ganho semanal em quase dois anos com ações do setor de IA",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/indice-nikkei-tem-maior-ganho-semanal-em-quase-dois-anos-com-acoes-do-setor-de-ia-1978373",
-      "time": "2026-06-19T10:14:26Z",
+      "url": "https://br.investing.com/news/stock-market-news/nossa-ia-previu-alta-de-25-e-subindo-essa-acao-de-chips-nao-para-1978335",
+      "time": "2026-06-19T14:35:10Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5I0KW_1200_L.jpg"
+      "image": null
     },
     {
-      "title": "Ações da Admiral caem 4% após rebaixamento do RBC e alerta sobre preços",
+      "title": "UE avalia novas competências para flexibilizar regras de capital duplicadas para bancos",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-admiral-caem-4-apos-rebaixamento-do-rbc-e-alerta-sobre-precos-1978351",
-      "time": "2026-06-19T09:18:46Z",
-      "cat": "analise",
+      "url": "https://br.investing.com/news/stock-market-news/ue-avalia-novas-competencias-para-flexibilizar-regras-de-capital-duplicadas-para-bancos-1978465",
+      "time": "2026-06-19T14:28:49Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5I0TX_1200_L.jpg"
+    },
+    {
+      "title": "Como bancos centrais mais hawkish podem impactar as bolsas? Barclays analisa",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/como-bancos-centrais-mais-hawkish-podem-impactar-as-bolsas-barclays-analisa-1978422",
+      "time": "2026-06-19T11:56:12Z",
+      "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Por que as ações da Vestas Wind estão disparando hoje?",
+      "title": "Por que as ações da Admiral estão caindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-vestas-wind-estao-disparando-hoje-93CH-1978343",
-      "time": "2026-06-19T09:09:47Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-admiral-estao-caindo-hoje-93CH-1978417",
+      "time": "2026-06-19T11:49:15Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "19/06/2026 11:22"
+  "atualizado_em": "19/06/2026 15:16"
 }
