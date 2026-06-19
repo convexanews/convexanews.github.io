@@ -11,16 +11,6 @@
   },
   "featured": [
     {
-      "title": "Ibovespa e dólar hoje: com feriado nos EUA e agenda vazia, mercado repercute Copom",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-com-feriado-nos-eua-e-agenda-vazia-mercado-repercute-copom-1977905",
-      "time": "2026-06-18T22:00:02Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": null
-    },
-    {
       "title": "Taxas de DIs fecham em alta após Copom deixar ‘porta aberta’ para novos cortes na Selic",
       "summary": "A curva de juros futuros estendeu os ganhos da véspera e fechou em alta com a rolagem do horizonte relevante do Banco Central para a convergência à meta de inflação no comunicado da decisão do Comitê de Política Monetári",
       "source": "Money Times",
@@ -29,9 +19,29 @@
       "cat": "economia",
       "tickers": [],
       "image": "https://www.moneytimes.com.br/uploads/2025/08/juros-selic-banco-central-copom.png"
+    },
+    {
+      "title": "Ibovespa fecha perto da estabilidade após Super Quarta e cautela com juros nos EUA",
+      "summary": "O Ibovespa encerrou o pregão desta quinta-feira (18) praticamente estável, com leve queda de 0,10%, aos 168,2 mil pontos, enquanto investidores continuaram avaliando os desdobramentos da chamada Super Quarta, que trouxe ",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-cai-fed-copom-dolar-mt/",
+      "time": "2026-06-18T21:25:07Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": null
     }
   ],
   "all": [
+    {
+      "title": "PGR pede rejeição de ações que pedem suspensão imediata da Lei da Dosimetria",
+      "summary": "Segundo Gonet, os argumentos apresentados nas ADIs junto ao Supremo não demonstram fundamento suficiente para justificar a suspensão cautelar",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/pgr-pede-rejeicao-de-acoes-que-pedem-suspensao-imediata-da-lei-da-dosimetria/",
+      "time": "2026-06-19T01:04:12Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/01/mpf.png?fit=300%2C157&amp;quality=70&amp;strip=all"
+    },
     {
       "title": "Lotofácil hoje, concurso 3714: Confira o resultado sorteado nesta quinta (18)",
       "summary": "O prêmio estimado para este concurso era de R$ 11 milhões",
@@ -61,26 +71,6 @@
       "cat": "acoes",
       "tickers": [],
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Marcelo-Urbano-Dias-da-XP.webp?fit=300%2C143&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "BC amplia abertura de contas em moeda estrangeira para empresas",
-      "summary": "Medida entra em vigor em outubro e busca modernizar o mercado de câmbio, reduzir custos e dar mais eficiência a operações internacionais",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/economia/bc-amplia-abertura-de-contas-em-moeda-estrangeira-para-empresas/",
-      "time": "2026-06-18T22:08:58Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-25T111552Z_1_LYNXNPEL8O0JV_RTROPTP_4_BRAZIL-ECONOMY-RATES.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Após IPO, SpaceX encara teste do mercado para bancar ambição trilionária em IA",
-      "summary": "Planos de data centers em órbita e expansão da IA podem exigir investimentos de mais de US$ 700 bilhões por ano até 2031",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/apos-ipo-spacex-encara-teste-do-mercado-para-bancar-ambicao-trilionaria-em-ia/",
-      "time": "2026-06-18T21:54:11Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/458773550-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
       "title": "Tá barata? Mineradora vai recomprar até US$ 200 mi em ações em meio a tombo de 40%; ‘confiança na geração de caixa’, diz CEO",
@@ -171,6 +161,16 @@
       "image": "https://www.moneytimes.com.br/uploads/2025/11/ibovespa-day-trade-2-1-1-1-2-1-1-1-1-1-1-1-1.jpg"
     },
     {
+      "title": "NUIF11 paga dividendos com yield de 14,5% ao ano e supera CDI em 12 meses",
+      "summary": "O fundo de infraestrutura (FI-Infra) NUIF11 anunciou nova distribuição de R$ 1,00 por cota, paga em 8 de junho. Com base no preço de mercado do fim de maio, o valor corresponde a um dividend yield anualizado de aproximad",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/nuif11-paga-dividendos-com-yield-de-145-ao-ano-e-supera-cdi-em-12-meses/",
+      "time": "2026-06-19T01:25:04Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": null
+    },
+    {
       "title": "VGHF11 lucra quase R$ 11 milhões e dividendos rendem 11,3% ao ano; veja valor",
       "summary": "Os dividendos do VGHF11 somam R$ 0,92 por cota no acumulado de 12 meses, enquanto, em maio de 2026, o fundo registrou resultado de R$ 10,998 milhões e distribuiu R$ 0,07 por cota aos cotistas. A rentabilidade líquida men",
       "source": "Suno",
@@ -257,89 +257,75 @@
       "image": null
     },
     {
-      "title": "Vale a pena investir na Sabesp (SBSP3)? UBS BB eleva recomendação",
-      "summary": "Após uma queda de cerca de 20% desde as máximas de abril, as ações da Sabesp (SBSP3) ganharam uma recomendação de compra do UBS BB. O banco elevou a indicação de neutra para compra e manteve o preço-alvo em R$ 38 por açã",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/vale-a-pena-investir-na-sabesp-sbsp3-ubs-eleva-recomendacao-go/",
-      "time": "2026-06-18T19:45:08Z",
-      "cat": "analise",
-      "tickers": [
-        "SBSP3"
-      ],
-      "image": null
-    },
-    {
-      "title": "Conferência de Bonn termina com ataques à ciência, adaptação sem acordo e vazio da COP31",
-      "summary": "Batalha geopolítica entre países ricos e em desenvolvimento pela narrativa científica foi a maior surpresa: \"Recuamos 30 anos\", destacou coordenador do Observatório do Clima à EXAME",
-      "source": "Exame",
-      "url": "https://exame.com/esg/conferencia-de-bonn-termina-com-ataques-a-ciencia-adaptacao-sem-acordo-e-vazio-da-cop31/",
-      "time": "2026-06-18T19:47:50Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/55342690644_665334a65a_c.jpg"
-    },
-    {
-      "title": "Ibovespa e dólar hoje: com feriado nos EUA e agenda vazia, mercado repercute Copom",
+      "title": "Morgan Stanley elege suas principais ações de petróleo no Japão",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-com-feriado-nos-eua-e-agenda-vazia-mercado-repercute-copom-1977905",
-      "time": "2026-06-18T22:00:02Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Ações da Akanda despencam após aviso de não conformidade no NASDAQ",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-akanda-despencam-apos-aviso-de-nao-conformidade-no-nasdaq-93CH-1978116",
-      "time": "2026-06-18T21:49:18Z",
+      "url": "https://br.investing.com/news/stock-market-news/morgan-stanley-elege-suas-principais-acoes-de-petroleo-no-japao-93CH-1978281",
+      "time": "2026-06-19T05:53:54Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Ações da BTQ Technologies caem com programa de venda de ações de C$ 150 milhões",
+      "title": "Netflix aberta a mais parcerias com emissoras tradicionais após acordo com TF1",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-btq-technologies-caem-com-programa-de-venda-de-acoes-de-c-150-milhoes-93CH-1978113",
-      "time": "2026-06-18T21:44:26Z",
+      "url": "https://br.investing.com/news/stock-market-news/netflix-aberta-a-mais-parcerias-com-emissoras-tradicionais-apos-acordo-com-tf1-93CH-1978280",
+      "time": "2026-06-19T05:32:45Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Ações da Team Inc caem após anúncio de troca no cargo de CFO",
+      "title": "Bolsas asiáticas recuam com incerteza nas negociações EUA-Irã",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-team-inc-caem-apos-anuncio-de-troca-no-cargo-de-cfo-93CH-1978112",
-      "time": "2026-06-18T21:42:25Z",
+      "url": "https://br.investing.com/news/stock-market-news/bolsas-asiaticas-recuam-com-incerteza-nas-negociacoes-euaira-1978275",
+      "time": "2026-06-19T04:44:55Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "México - Ações fecharam o pregão em queda e o Índice S&P/BMV IPC recuou 0,06%",
+      "title": "Por que as ações da BHP estão caindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/mexico--acoes-fecharam-o-pregao-em-queda-e-o-indice-spbmv-ipc-recuou-006-1978098",
-      "time": "2026-06-18T21:30:18Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-bhp-estao-caindo-hoje-93CH-1978270",
+      "time": "2026-06-19T03:26:11Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/Mexican_Stock_Exchange_M_1440056312.jpg"
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Por que as ações da MRV (MRVE3) fecharam em queda hoje?",
+      "title": "Hyundai comprará participação restante da Boston Dynamics da SoftBank por US$ 325 milhões",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-mrv-mrve3-fecharam-em-queda-hoje-1978097",
-      "time": "2026-06-18T21:29:19Z",
+      "url": "https://br.investing.com/news/stock-market-news/hyundai-comprara-participacao-restante-da-boston-dynamics-da-softbank-por-us-325-milhoes-1978262",
+      "time": "2026-06-19T02:36:24Z",
       "cat": "internacional",
-      "tickers": [
-        "MRVE3"
-      ],
-      "image": null
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Futuros das bolsas recuam após rali impulsionado por acordo com Irã e chips",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/futuros-das-bolsas-recuam-apos-rali-impulsionado-por-acordo-com-ira-e-chips-1978255",
+      "time": "2026-06-19T02:14:20Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Ações da BHP caem após estouro de custos no projeto Jansen",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-bhp-caem-apos-estouro-de-custos-no-projeto-jansen-1978240",
+      "time": "2026-06-19T01:08:40Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "19/06/2026 00:26"
+  "atualizado_em": "19/06/2026 06:19"
 }
