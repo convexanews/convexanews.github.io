@@ -92,7 +92,7 @@
       "time": "2026-06-19T20:33:48Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/07/pix-receita-federal.jpg"
+      "image": null
     },
     {
       "title": "Carteira de identidade no Paraguai? Brasileiros já podem emitir documento no país vizinho",
@@ -102,7 +102,7 @@
       "time": "2026-06-19T20:20:30Z",
       "cat": "analise",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2022/08/bandeira-paraguai.jpg"
+      "image": null
     },
     {
       "title": "Sem Wall Street, Ibovespa fecha estável com impasse entre EUA-Irã no radar; dólar cai a R$ 5,16",
@@ -122,10 +122,34 @@
       "time": "2026-06-19T20:11:16Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2024/12/carros-lancamentos-2024.jpg"
+      "image": null
     },
     {
-      "title": "SNEL11, maior fundo de energia da Bolsa, sobe forte após quinta oferta bilionária",
+      "title": "VRTA11 lucra R$ 17 mi e faz compras de CRIs com IPCA+11,5% e CDI+4,5%",
+      "summary": "O fundo imobiliário VRTA11 apresentou em maio de 2026 um resultado aproximado de R$ 17,64 milhões e manteve a estratégia de ampliar a carteira de crédito imobiliário. No mês, a gestão direcionou novas alocações para oper",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/vrta11-lucra-r-17-mi-e-faz-compras-de-cris-com-ipca115-e-cdi45/",
+      "time": "2026-06-19T23:55:05Z",
+      "cat": "fundos",
+      "tickers": [
+        "VRTA11"
+      ],
+      "image": null
+    },
+    {
+      "title": "BRCO11 concentra 71% da receita em ativos last mile e lucra R$ 17,6 milhões",
+      "summary": "O fundo imobiliário BRCO11 apurou em maio de 2026 um lucro de aproximadamente R$ 17,6 milhões, mantendo-se entre os principais veículos do segmento logístico na Bolsa brasileira. A estrutura do FII reúne 14 propriedades,",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/brco11-concentra-71-da-receita-em-ativos-last-mile-e-lucra-r-176-milhoes/",
+      "time": "2026-06-19T23:35:04Z",
+      "cat": "fundos",
+      "tickers": [
+        "BRCO11"
+      ],
+      "image": null
+    },
+    {
+      "title": "SNEL11, maior fundo de energia da Bolsa, sobe após quinta oferta bilionária",
       "summary": "O fundo imobiliário SNEL11 voltou a ganhar tração no pregão desta sexta-feira (19/06). Ao longo da sessão, as cotas tocaram R$ 8,24, movimento que representou alta de 1,10% no dia. O desempenho manteve o ativo no radar d",
       "source": "Suno",
       "url": "https://www.suno.com.br/noticias/snel11-maior-fundo-de-energia-da-bolsa-sobe-forte-apos-quinta-oferta-bilionaria/",
@@ -165,16 +189,24 @@
       "image": null
     },
     {
-      "title": "RD Saúde (RADL3): Safra corta preço-alvo, mas ainda vê alta de 63%",
-      "summary": "A RD Saúde (RADL3) teve o preço-alvo reduzido pelo Banco Safra, mas segue com recomendação de compra. O banco cortou a projeção para os papéis de R$ 30 para R$ 27 em 12 meses, após revisar estimativas com base no resulta",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/rd-saude-radl3-safra-preco-alvo-compra-mt/",
-      "time": "2026-06-19T16:25:10Z",
-      "cat": "analise",
-      "tickers": [
-        "RADL3"
-      ],
-      "image": null
+      "title": "Brasil x Haiti: veja a escalação confirmada da seleção haitiana para o jogo hoje",
+      "summary": "Seleção haitiana mantém a base da estreia e aposta em Pierrot e Bellegarde para enfrentar o Brasil pela Copa do Mundo de 2026",
+      "source": "Exame",
+      "url": "https://exame.com/esporte/brasil-x-haiti-veja-a-escalacao-confirmada-da-selecao-haitiana-para-o-jogo-hoje/",
+      "time": "2026-06-19T20:38:08Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/haiti-amistoso-pre-copa-2026-grupo-c-3.jpg"
+    },
+    {
+      "title": "Brasil x Haiti: veja a escalação confirmada da Seleção na Copa do Mundo",
+      "summary": "Sem Endrick, Carlo Ancelotti aposta em Raphinha, Vini Jr. e Matheus Cunha no ataque brasileiro para o duelo desta sexta-feira pela Copa do Mundo",
+      "source": "Exame",
+      "url": "https://exame.com/esporte/brasil-x-haiti-veja-a-escalacao-confirmada-da-selecao-na-copa-do-mundo/",
+      "time": "2026-06-19T20:31:43Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/matheus_cunha.jpg"
     },
     {
       "title": "Os sinais de tensão da participação do Irã na Copa do Mundo",
@@ -277,5 +309,5 @@
       "image": "https://i-invdn-com.investing.com/news/LYNXMPEB3L0RH_M.jpg"
     }
   ],
-  "atualizado_em": "19/06/2026 22:57"
+  "atualizado_em": "20/06/2026 00:09"
 }
