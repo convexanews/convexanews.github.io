@@ -1,46 +1,90 @@
 {
   "headline": {
-    "title": "Braskem (BRKM5) despenca 17% e lidera a ponta negativa do Ibovespa; veja os destaques do índice na semana",
-    "summary": "O Ibovespa (IBOV) voltou ao tom negativo na semana marcada por decisões de política monetária. O principal índice da bolsa brasileira acumulou perda de 1,64% na semana e encerrou a última sessão aos 168.333,61 pontos. Já",
-    "source": "Money Times",
-    "url": "https://www.moneytimes.com.br/ibovespa-destaques-na-semana-25-lils/",
-    "time": "2026-06-20T12:56:00Z",
-    "cat": "acoes",
-    "tickers": [],
-    "image": "https://www.moneytimes.com.br/uploads/2025/11/day-trade-copa-btg-1-1-2-1-1.jpg"
+    "title": "Eles consideraram colocar o caixa em Bitcoin. Agora lidam com o colapso",
+    "summary": "Transações bilionárias são canceladas e ações despencam na tentativa de replicar o negócio da Strategy, de Michael Saylor, enquanto o Bitcoin recua",
+    "source": "InfoMoney",
+    "url": "https://www.infomoney.com.br/onde-investir/eles-consideraram-colocar-o-caixa-em-bitcoin-agora-lidam-com-o-colapso/",
+    "time": "2026-06-21T08:00:00Z",
+    "cat": "cripto",
+    "tickers": [
+      "BTC"
+    ],
+    "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/458665547.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
   },
   "featured": [
     {
-      "title": "Equador x Curaçau: modelo matemático aponta possível resultado do jogo; veja",
-      "summary": "Modelo estatístico da Fundação Getúlio Vargas projeta a seleção que tem mais chances de ganhar partida deste sábado, 20",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/esportes/equador-x-curacau-modelo-matematico-aponta-possivel-resultado-do-jogo-veja/",
-      "time": "2026-06-20T21:00:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/probabilidade-copa-mundo-futebol-thumb-equador-curacao.png?fit=300%2C191&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Salto de Wall Street, ‘rasteira’ do Federal Reserve e falas do maior investidor da bolsa brasileira: Veja as matérias mais lidas no Money Times",
-      "summary": "Os leitores e leitoras do Money Times tiveram uma semana cheia. Nos últimos cinco dias, as matérias mais lidas envolveram os ganhos (e perdas) dos índices de Nova York e as falas polêmicas de Luis Barsi, o maior investid",
+      "title": "Negociações entre EUA e Irã começam neste domingo (21) na Suíça, segundo Paquistão",
+      "summary": "O Irã e os Estados Unidos se preparam para uma rodada de negociações sobre o acordo de cessar-fogo na guerra no Oriente Médio prevista para começar neste domingo (21). Na véspera, a delegação iraniana e o vice-presidente",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/salto-de-wall-street-rasteira-do-federal-reserve-e-falas-do-maior-investidor-da-bolsa-brasileira-veja-as-materias-mais-lidas-no-money-times-rens/",
-      "time": "2026-06-20T14:01:27Z",
+      "url": "https://www.moneytimes.com.br/negociacoes-entre-eua-e-ira-comecam-neste-domingo-21-segundo-paquistao-apsa/",
+      "time": "2026-06-21T11:41:06Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/06/mercado-morning-ibovespa-wall-street.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/chatgpt-image-jun-5-2026-11-53-32-am.png"
+    },
+    {
+      "title": "Dividendos da Caixa Seguridade: distribuição de 90% do lucro vai continuar?",
+      "summary": "Não há nada no radar que sinalize mudanças nessa política de distribuição, diz presidente",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/onde-investir/rascunho-automatico-4/",
+      "time": "2026-06-21T11:17:00Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Gustavo-Portela-presidente-da-Caixa-Seguridade-1.webp?fit=300%2C120&amp;quality=70&amp;strip=all"
     }
   ],
   "all": [
     {
-      "title": "Equador x Curaçau: modelo matemático aponta possível resultado do jogo; veja",
-      "summary": "Modelo estatístico da Fundação Getúlio Vargas projeta a seleção que tem mais chances de ganhar partida deste sábado, 20",
+      "title": "Dividendos da Caixa Seguridade: distribuição de 90% do lucro vai continuar?",
+      "summary": "Não há nada no radar que sinalize mudanças nessa política de distribuição, diz presidente",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/esportes/equador-x-curacau-modelo-matematico-aponta-possivel-resultado-do-jogo-veja/",
-      "time": "2026-06-20T21:00:00Z",
+      "url": "https://www.infomoney.com.br/onde-investir/rascunho-automatico-4/",
+      "time": "2026-06-21T11:17:00Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Gustavo-Portela-presidente-da-Caixa-Seguridade-1.webp?fit=300%2C120&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Alta de 37% da SpaceX na 1ª semana já confirma entusiasmo para outros IPOs?",
+      "summary": "Ao ultrapassar rapidamente a marca de US$ 2 trilhões em valor de mercado nas primeiras sessões, a operação não apenas colocou à prova a liquidez do mercado americano, como também injetou forte otimismo em Wall Street. Va",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/alta-de-37-da-spacex-na-1a-semana-ja-confirma-entusiasmo-para-outros-ipos/",
+      "time": "2026-06-21T11:00:00Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/probabilidade-copa-mundo-futebol-thumb-equador-curacao.png?fit=300%2C191&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/458722360.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Antes do propósito, a realidade: geração do “faça o que ama” agora pensa nos boletos",
+      "summary": "O emprego estável voltou a ficar moderno — e os jovens estão ajudando a explicar por quê",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/carreira/antes-do-proposito-a-realidade-geracao-do-faca-o-que-ama-agora-pensa-nos-boletos/",
+      "time": "2026-06-21T11:00:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Proposito2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Eles consideraram colocar o caixa em Bitcoin. Agora lidam com o colapso",
+      "summary": "Transações bilionárias são canceladas e ações despencam na tentativa de replicar o negócio da Strategy, de Michael Saylor, enquanto o Bitcoin recua",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/onde-investir/eles-consideraram-colocar-o-caixa-em-bitcoin-agora-lidam-com-o-colapso/",
+      "time": "2026-06-21T08:00:00Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/458665547.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Negociações entre EUA e Irã começam neste domingo (21) na Suíça, segundo Paquistão",
+      "summary": "O Irã e os Estados Unidos se preparam para uma rodada de negociações sobre o acordo de cessar-fogo na guerra no Oriente Médio prevista para começar neste domingo (21). Na véspera, a delegação iraniana e o vice-presidente",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/negociacoes-entre-eua-e-ira-comecam-neste-domingo-21-segundo-paquistao-apsa/",
+      "time": "2026-06-21T11:41:06Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/chatgpt-image-jun-5-2026-11-53-32-am.png"
     },
     {
       "title": "Carteira recomendada: 5 ações para investir e  buscar lucros no curto prazo, segundo Terra",
@@ -97,18 +141,6 @@
       "cat": "acoes",
       "tickers": [],
       "image": "https://www.moneytimes.com.br/uploads/2025/11/day-trade-copa-btg-1-1-2-1-1.jpg"
-    },
-    {
-      "title": "Bitcoin testa suporte técnico de preços e analistas apontam até onde o BTC pode cair; veja análise",
-      "summary": "O bitcoin (BTC) caminha para encerrar a terceira semana de junho em queda, acumulando uma desvalorização da ordem de 30% desde o começo do ano. Só nos últimos sete dias, a maior criptomoeda do mundo voltou a testar supor",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bitcoin-testa-suporte-tecnico-de-precos-e-analistas-apontam-ate-onde-o-btc-pode-cair-veja-analise-rens/",
-      "time": "2026-06-20T11:42:28Z",
-      "cat": "cripto",
-      "tickers": [
-        "BTC"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/05/bitcoin-btc-escorregando-em-uma-casca-de-banana-imagem-copilot.png"
     },
     {
       "title": "FIIs ganham 38 mil investidores e base de cotistas supera 3,2 milhões",
@@ -185,14 +217,14 @@
       "image": null
     },
     {
-      "title": "Alemanha x Costa do Marfim: veja as escalações confirmadas para jogo de hoje da Copa",
-      "summary": "Nagelsmann escala Musiala, Wirtz, Sané e Havertz; Costa do Marfim aposta em trio ofensivo com Diallo, Yan Diomandé e Bonny",
+      "title": "Irã e EUA iniciam negociações na Suíça neste domingo, em meio a novo fechamento de Ormuz",
+      "summary": "Conversas em Bürgenstock abrem etapa de 60 dias prevista pelo acordo de paz assinado em 17 de junho",
       "source": "Exame",
-      "url": "https://exame.com/esporte/alemanha-x-costa-do-marfim-veja-as-escalacoes-confirmadas-para-jogo-de-hoje-da-copa/",
-      "time": "2026-06-20T16:42:38Z",
-      "cat": "economia",
+      "url": "https://exame.com/mundo/ira-e-eua-iniciam-negociacoes-na-suica-neste-domingo-em-meio-a-novo-fechamento-de-ormuz/",
+      "time": "2026-06-21T08:14:07Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/alemanha-copa-do-mundo-2026-selecao-alema-jogos-5.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/guerra_no_ira.jpg"
     },
     {
       "title": "Rússia - Ações fecharam o pregão em queda e o Índice MOEX Russia Index terminou sem alterações",
@@ -273,17 +305,7 @@
       "cat": "fundos",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/Colombian_Securities_Exchange_M_1440056295.jpg"
-    },
-    {
-      "title": "Canadá - Ações fecharam o pregão em queda e o Índice S&P/TSX recuou 0,32%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/canada--acoes-fecharam-o-pregao-em-queda-e-o-indice-sptsx-recuou-032-1978564",
-      "time": "2026-06-19T20:30:45Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": null
     }
   ],
-  "atualizado_em": "20/06/2026 22:04"
+  "atualizado_em": "21/06/2026 11:44"
 }
