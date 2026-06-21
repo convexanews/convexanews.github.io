@@ -1,146 +1,168 @@
 {
   "headline": {
-    "title": "Eles consideraram colocar o caixa em Bitcoin. Agora lidam com o colapso",
-    "summary": "Transações bilionárias são canceladas e ações despencam na tentativa de replicar o negócio da Strategy, de Michael Saylor, enquanto o Bitcoin recua",
-    "source": "InfoMoney",
-    "url": "https://www.infomoney.com.br/onde-investir/eles-consideraram-colocar-o-caixa-em-bitcoin-agora-lidam-com-o-colapso/",
-    "time": "2026-06-21T08:00:00Z",
-    "cat": "cripto",
-    "tickers": [
-      "BTC"
-    ],
-    "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/458665547.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    "title": "Agenda cheia: Ata do Copom, IPCA-15, PIB e inflação nos EUA; confira os indicadores da semana",
+    "summary": "A semana entre 21 e 27 de junho será marcada por uma bateria intensa de indicadores. O destaque fica concentrado na Ata do Copom no Brasil, no IPCA-15, na divulgação do PIB final dos Estados Unidos e nos dados de inflaçã",
+    "source": "Money Times",
+    "url": "https://www.moneytimes.com.br/agenda-cheia-ata-do-copom-ipca-15-pib-e-inflacao-nos-eua-confira-os-indicadores-da-semana/",
+    "time": "2026-06-21T15:00:00Z",
+    "cat": "economia",
+    "tickers": [],
+    "image": "https://www.moneytimes.com.br/uploads/2026/04/agenda-indicadores-economia-inflacao-juros-.jpg"
   },
   "featured": [
     {
-      "title": "Negociações entre EUA e Irã começam neste domingo (21) na Suíça, segundo Paquistão",
-      "summary": "O Irã e os Estados Unidos se preparam para uma rodada de negociações sobre o acordo de cessar-fogo na guerra no Oriente Médio prevista para começar neste domingo (21). Na véspera, a delegação iraniana e o vice-presidente",
+      "title": "Petrobras (PETR3), Assaí (ASAI3) e mais duas empresas pagam dividendos nesta semana; veja o calendário",
+      "summary": "Na semana de 22 a 26 de junho, quatro companhias da bolsa brasileira pagam dividendos e juros sobre capital próprio (JCP) aos seus acionistas. Na segunda-feira (22), a Petrobras (PETR3) realiza pagamento de JCP no valor ",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/negociacoes-entre-eua-e-ira-comecam-neste-domingo-21-segundo-paquistao-apsa/",
-      "time": "2026-06-21T11:41:06Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/06/chatgpt-image-jun-5-2026-11-53-32-am.png"
-    },
-    {
-      "title": "Dividendos da Caixa Seguridade: distribuição de 90% do lucro vai continuar?",
-      "summary": "Não há nada no radar que sinalize mudanças nessa política de distribuição, diz presidente",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/onde-investir/rascunho-automatico-4/",
-      "time": "2026-06-21T11:17:00Z",
+      "url": "https://www.moneytimes.com.br/dividendos-da-semana-19-6-26-apsa/",
+      "time": "2026-06-21T16:00:00Z",
       "cat": "fundos",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Gustavo-Portela-presidente-da-Caixa-Seguridade-1.webp?fit=300%2C120&amp;quality=70&amp;strip=all"
-    }
-  ],
-  "all": [
-    {
-      "title": "Dividendos da Caixa Seguridade: distribuição de 90% do lucro vai continuar?",
-      "summary": "Não há nada no radar que sinalize mudanças nessa política de distribuição, diz presidente",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/onde-investir/rascunho-automatico-4/",
-      "time": "2026-06-21T11:17:00Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Gustavo-Portela-presidente-da-Caixa-Seguridade-1.webp?fit=300%2C120&amp;quality=70&amp;strip=all"
+      "tickers": [
+        "PETR3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/09/petrobras-petr4-dividendos-jcp.jpg"
     },
     {
-      "title": "Alta de 37% da SpaceX na 1ª semana já confirma entusiasmo para outros IPOs?",
-      "summary": "Ao ultrapassar rapidamente a marca de US$ 2 trilhões em valor de mercado nas primeiras sessões, a operação não apenas colocou à prova a liquidez do mercado americano, como também injetou forte otimismo em Wall Street. Va",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/alta-de-37-da-spacex-na-1a-semana-ja-confirma-entusiasmo-para-outros-ipos/",
-      "time": "2026-06-21T11:00:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/458722360.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Antes do propósito, a realidade: geração do “faça o que ama” agora pensa nos boletos",
-      "summary": "O emprego estável voltou a ficar moderno — e os jovens estão ajudando a explicar por quê",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/carreira/antes-do-proposito-a-realidade-geracao-do-faca-o-que-ama-agora-pensa-nos-boletos/",
-      "time": "2026-06-21T11:00:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Proposito2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Eles consideraram colocar o caixa em Bitcoin. Agora lidam com o colapso",
-      "summary": "Transações bilionárias são canceladas e ações despencam na tentativa de replicar o negócio da Strategy, de Michael Saylor, enquanto o Bitcoin recua",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/onde-investir/eles-consideraram-colocar-o-caixa-em-bitcoin-agora-lidam-com-o-colapso/",
-      "time": "2026-06-21T08:00:00Z",
+      "title": "Bitcoin (BTC) de casa nova e as notícias mais lidas do Crypto Times",
+      "summary": "Olá, investidor e investidora de cripto! Sejam muito bem-vindos a mais uma edição da nossa coluna semanal do Crypto Times, a editoria de criptomoedas do Money Times. Para se inscrever e receber em primeira mão em todas a",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/bitcoin-btc-de-casa-nova-e-as-noticias-mais-lidas-do-crypto-times-rens/",
+      "time": "2026-06-21T14:00:00Z",
       "cat": "cripto",
       "tickers": [
         "BTC"
       ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/458665547.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/cryptotimes-19jun.png"
+    }
+  ],
+  "all": [
     {
-      "title": "Negociações entre EUA e Irã começam neste domingo (21) na Suíça, segundo Paquistão",
-      "summary": "O Irã e os Estados Unidos se preparam para uma rodada de negociações sobre o acordo de cessar-fogo na guerra no Oriente Médio prevista para começar neste domingo (21). Na véspera, a delegação iraniana e o vice-presidente",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/negociacoes-entre-eua-e-ira-comecam-neste-domingo-21-segundo-paquistao-apsa/",
-      "time": "2026-06-21T11:41:06Z",
+      "title": "Iraque planeja restaurar produção de petróleo a  níveis pré-conflito",
+      "summary": "Os ⁠aumentos ​propostos ​restaurariam a produção ⁠aos ​níveis alcançados antes da ​guerra com o Irã ​e ⁠do consequente fechamento ⁠do Estreito de Ormuz",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/iraque-planeja-restaurar-producao-petroleo-pre-conflito/",
+      "time": "2026-06-21T16:22:34Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/06/chatgpt-image-jun-5-2026-11-53-32-am.png"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/01/2025-01-23T124441Z_468140354_RC2NFCA5GD70_RTRMADP_3_DAVOS-MEETING-KURDISTAN.jpg?fit=300%2C195&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Carteira recomendada: 5 ações para investir e  buscar lucros no curto prazo, segundo Terra",
-      "summary": "A carteira recomendada da Terra Investimentos para o período de 19 a 26 de junho conta com as ações da Sabesp (SBSP3), MBRF (MBRF3), Suzano (SUZB3), Hypera (HYPE3) e Iguatemi (IGTI11), sem alterações em relação à composi",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/carteira-recomendada-5-nomes-para-investir-buscar-lucros-no-curto-prazo-segundo-terra-lmrs/",
-      "time": "2026-06-20T17:00:00Z",
-      "cat": "analise",
-      "tickers": [
-        "SBSP3",
-        "MBRF3",
-        "SUZB3"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/12/ibovespa-alta-2026-juros-acoes.jpg"
-    },
-    {
-      "title": "Dividendos de 11% e desconto histórico: Por que este fundo imobiliário é compra para a XP",
-      "summary": "A XP Investimentos reiterou a recomendação de compra para o fundo imobiliário Hedge Top FOFII 3 (HFOF11), destacando que o veículo apresenta um “desconto histórico” em relação ao valor patrimonial e um “dividend yield co",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/dividendos-de-11-e-desconto-na-bolsa-por-que-este-fundo-imobiliario-e-compra-para-a-xp-igdl/",
-      "time": "2026-06-20T16:00:00Z",
-      "cat": "fundos",
-      "tickers": [
-        "HFOF11"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/06/image-19.png"
-    },
-    {
-      "title": "Guarda Revolucionária do Irã indica fechamento de Ormuz por quebra de acordo dos EUA",
-      "summary": "A Guarda Revolucionária Islâmica do Irã (IRGC, na sigla em inglês) sinalizou neste sábado (20) o fechamento do Estreito de Ormuz para o tráfego marítimo tendo em vista a flagrante quebra de promessa e descumprimento por ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/guarda-revolucionaria-do-ira-indica-fechamento-de-ormuz-por-quebra-de-acordo-dos-eua-rens/",
-      "time": "2026-06-20T14:43:49Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/06/2026-06-05t130257z-1-lynxmpem540ui-rtroptp-4-iran-crisis-khamenei-scaled-e1781208800914.jpg"
-    },
-    {
-      "title": "Salto de Wall Street, ‘rasteira’ do Federal Reserve e falas do maior investidor da bolsa brasileira: Veja as matérias mais lidas no Money Times",
-      "summary": "Os leitores e leitoras do Money Times tiveram uma semana cheia. Nos últimos cinco dias, as matérias mais lidas envolveram os ganhos (e perdas) dos índices de Nova York e as falas polêmicas de Luis Barsi, o maior investid",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/salto-de-wall-street-rasteira-do-federal-reserve-e-falas-do-maior-investidor-da-bolsa-brasileira-veja-as-materias-mais-lidas-no-money-times-rens/",
-      "time": "2026-06-20T14:01:27Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/06/mercado-morning-ibovespa-wall-street.jpg"
-    },
-    {
-      "title": "Braskem (BRKM5) despenca 17% e lidera a ponta negativa do Ibovespa; veja os destaques do índice na semana",
-      "summary": "O Ibovespa (IBOV) voltou ao tom negativo na semana marcada por decisões de política monetária. O principal índice da bolsa brasileira acumulou perda de 1,64% na semana e encerrou a última sessão aos 168.333,61 pontos. Já",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ibovespa-destaques-na-semana-25-lils/",
-      "time": "2026-06-20T12:56:00Z",
+      "title": "Colômbia: Petro diz confiar apenas em resultado de eleição validado por juízes",
+      "summary": "Petro reiterou que não confia nos resultados preliminares que o Registro Nacional divulgará neste domingo",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mundo/colombia-petro-confiar-resultado-eleicao-juizes/",
+      "time": "2026-06-21T16:13:37Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/11/day-trade-copa-btg-1-1-2-1-1.jpg"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/02/2025-02-18T202905Z_1_LYNXNPEL1H0PN_RTROPTP_4_COLOMBIA-POLITICS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Bélgica x Irã: modelo matemático aponta possível resultado do jogo; veja",
+      "summary": "Modelo estatístico da Fundação Getúlio Vargas projeta a seleção que tem mais chances de ganhar partida deste domingo, 21",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/esportes/belgica-x-ira-modelo-matematico-aponta-possivel-resultado-do-jogo-veja/",
+      "time": "2026-06-21T16:00:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/probabilidade-copa-mundo-futebol-thumb-belgica-ira.png?fit=300%2C191&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Petróleo deve cair, mas guerra deixou um novo piso para os preços, diz Goldman",
+      "summary": "Banco avalia que Brent deve encontrar suporte entre US$ 70 e US$ 75, mas alerta que Estreito de Ormuz seguirá ditando o rumo dos preços",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/petroleo-deve-cair-mas-guerra-deixou-um-novo-piso-para-os-precos-diz-goldman/",
+      "time": "2026-06-21T15:17:00Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Captura-de-tela-2026-05-11-145013.png?fit=300%2C201&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Petrobras (PETR3), Assaí (ASAI3) e mais duas empresas pagam dividendos nesta semana; veja o calendário",
+      "summary": "Na semana de 22 a 26 de junho, quatro companhias da bolsa brasileira pagam dividendos e juros sobre capital próprio (JCP) aos seus acionistas. Na segunda-feira (22), a Petrobras (PETR3) realiza pagamento de JCP no valor ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/dividendos-da-semana-19-6-26-apsa/",
+      "time": "2026-06-21T16:00:00Z",
+      "cat": "fundos",
+      "tickers": [
+        "PETR3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/09/petrobras-petr4-dividendos-jcp.jpg"
+    },
+    {
+      "title": "Trump eleva o tom contra o Irã em dia de rodada de negociações na Suíça",
+      "summary": "O presidente dos Estados Unidos, Donald Trump, voltou a elevar o tom contra o Irã em nova publicação na rede Truth Social neste domingo (21), afirmando que os EUA podem atacar fortemente o país, caso os seus aliados no L",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/trump-eleva-o-tom-contra-o-ira-em-dia-de-rodada-de-negociacoes-na-suica-apsa/",
+      "time": "2026-06-21T15:11:52Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/2026-06-03t102340z-1-lynxmpem520pp-rtroptp-4-usa-trump-weaponization.jpg"
+    },
+    {
+      "title": "Agenda cheia: Ata do Copom, IPCA-15, PIB e inflação nos EUA; confira os indicadores da semana",
+      "summary": "A semana entre 21 e 27 de junho será marcada por uma bateria intensa de indicadores. O destaque fica concentrado na Ata do Copom no Brasil, no IPCA-15, na divulgação do PIB final dos Estados Unidos e nos dados de inflaçã",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/agenda-cheia-ata-do-copom-ipca-15-pib-e-inflacao-nos-eua-confira-os-indicadores-da-semana/",
+      "time": "2026-06-21T15:00:00Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/04/agenda-indicadores-economia-inflacao-juros-.jpg"
+    },
+    {
+      "title": "Em quais ações apostar com os juros elevados? Confira as empresas menos endividadas na B3, segundo a XP",
+      "summary": "Diante dos recentes eventos de crédito no Brasil, que levantaram questionamentos sobre a resiliência dos balanços corporativos após vários anos de juros elevados, as preocupações com a saúde financeira das empresas brasi",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/quais-acoes-podem-se-destacar-com-os-juros-elevados-confira-as-empresas-menos-endividadas-na-b3-segundo-a-xp-apsa/",
+      "time": "2026-06-21T14:49:53Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/02/juros.jpg"
+    },
+    {
+      "title": "Bitcoin (BTC) de casa nova e as notícias mais lidas do Crypto Times",
+      "summary": "Olá, investidor e investidora de cripto! Sejam muito bem-vindos a mais uma edição da nossa coluna semanal do Crypto Times, a editoria de criptomoedas do Money Times. Para se inscrever e receber em primeira mão em todas a",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/bitcoin-btc-de-casa-nova-e-as-noticias-mais-lidas-do-crypto-times-rens/",
+      "time": "2026-06-21T14:00:00Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/cryptotimes-19jun.png"
+    },
+    {
+      "title": "Bitcoin avança e opera na faixa dos US$ 64 mil; confira os preços das criptomoedas neste domingo (21)",
+      "summary": "O bitcoin (BTC) é negociado na faixa dos US$ 64 mil na manhã deste domingo (21), com avanço de 0,8% nas últimas 24 horas, segundo dados da plataforma Coingecko. No acumulado da semana, no entanto, a principal criptomoeda",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/bitcoin-21-6-26-apsa/",
+      "time": "2026-06-21T13:42:22Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/10/fintech-crypto.jpg"
+    },
+    {
+      "title": "Ranking mostra FIIs que mais sobem em 2026 até agora; líder disparou 18%, mas perdeu fôlego",
+      "summary": "Um ranking da Quantum Finance ao qual o Money Times teve acesso apontou os 10 fundos imobiliários (FIIs) com melhor desempenho no IFIX (principal índice do setor na bolsa brasileira) em 2026, até o momento. O Ourinvest J",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ranking-mostra-quais-fiis-tiveram-maiores-retornos-em-2026-ate-agora-veja-qual-cresceu-mais-de-18-e-agora-esta-caindo-ceci/",
+      "time": "2026-06-21T13:00:00Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/01/fiis-fundos-imobiliarios-imagem-sommart-istockphoto.png"
+    },
+    {
+      "title": "Petrobras (PETR4) e Sanepar (SAPR4): Veja quem paga dividendos na semana",
+      "summary": "Petrobras (PETR4) e Sanepar (SAPR4): Veja quem paga dividendos na semanaA semana começa animada para os investidores que têm a estratégia de receber dividendos para reinvestir e engordar seu patrimônio, com destaque para",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/petrobras-petr4-sanepar-sapr4-agenda-dividendos-19062026-go/",
+      "time": "2026-06-21T13:00:00Z",
+      "cat": "fundos",
+      "tickers": [
+        "PETR4"
+      ],
+      "image": null
     },
     {
       "title": "FIIs ganham 38 mil investidores e base de cotistas supera 3,2 milhões",
@@ -217,14 +239,74 @@
       "image": null
     },
     {
-      "title": "Irã e EUA iniciam negociações na Suíça neste domingo, em meio a novo fechamento de Ormuz",
-      "summary": "Conversas em Bürgenstock abrem etapa de 60 dias prevista pelo acordo de paz assinado em 17 de junho",
+      "title": "Por que a Geração Z se tornou a mais inadimplente do Brasil?",
+      "summary": "Estudo revela que jovens entre 15 e 29 anos lideram as buscas no Google por soluções para renegociar dívidas e limpar o nome no mercado",
       "source": "Exame",
-      "url": "https://exame.com/mundo/ira-e-eua-iniciam-negociacoes-na-suica-neste-domingo-em-meio-a-novo-fechamento-de-ormuz/",
-      "time": "2026-06-21T08:14:07Z",
+      "url": "https://exame.com/bussola/por-que-a-geracao-z-se-tornou-a-mais-inadimplente-do-brasil/",
+      "time": "2026-06-21T13:00:52Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_dividas22.jpg"
+    },
+    {
+      "title": "De soldadores a engenheiros: Como a estreia da SpaceX na Bolsa criou uma onda de novos ricos",
+      "summary": "Histórias de quem apostou cedo na empresa de Elon Musk, mesmo sem saber se os foguetes algum dia decolariam de verdade",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/de-soldadores-a-engenheiros-como-a-estreia-da-spacex-na-bolsa-criou-uma-onda-de-novos-ricos/",
+      "time": "2026-06-21T13:00:45Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2025/07/Design-sem-nome-36.png"
+    },
+    {
+      "title": "Yamal titular! Veja escalação da Espanha para confronto com Arábia Saudita",
+      "summary": "Espanha e Arábia Saudita se enfrentam em busca da primeira vitória no Mundial",
+      "source": "Exame",
+      "url": "https://exame.com/esporte/yamal-titular-veja-escalacao-da-espanha-para-confronto-com-arabia-saudita/",
+      "time": "2026-06-21T12:51:48Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/AFP__20260616__2281899570__v1__HighRes__SpainTrainingAndMediaAvailabilityFifaWorldCu.jpg"
+    },
+    {
+      "title": "O tempero que sustenta a IA: como a Ajinomoto domina 95% do mercado de chips",
+      "summary": "Filme isolante nascido de resíduo da produção de glutamato monossódico é hoje peça insubstituível em todo chip avançado de IA",
+      "source": "Exame",
+      "url": "https://exame.com/inteligencia-artificial/o-tempero-que-sustenta-a-ia-como-a-ajinomoto-domina-95-do-mercado-de-chips/",
+      "time": "2026-06-21T12:01:39Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/ajinomoto.png"
+    },
+    {
+      "title": "Ações de companhias aéreas dos EUA enfrentam ventos contrários no curto prazo",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-de-companhias-aereas-dos-eua-enfrentam-ventos-contrarios-no-curto-prazo-1978848",
+      "time": "2026-06-21T13:21:00Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/guerra_no_ira.jpg"
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Arábia Saudita - Ações fecharam o pregão em queda e o Índice Tadawul All Share recuou 0,40%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/arabia-saudita--acoes-fecharam-o-pregao-em-queda-e-o-indice-tadawul-all-share-recuou-040-1978844",
+      "time": "2026-06-21T12:45:19Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB9D0YP_M.jpg"
+    },
+    {
+      "title": "Ibovespa hoje recua no gráfico semanal e se aproxima de \"campo de prova\" crucial",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-hoje-recua-no-grafico-semanal-e-se-aproxima-de-campo-de-prova-crucial-1978581",
+      "time": "2026-06-21T12:26:31Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB7N0OD_M.jpg"
     },
     {
       "title": "Rússia - Ações fecharam o pregão em queda e o Índice MOEX Russia Index terminou sem alterações",
@@ -285,27 +367,7 @@
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/Petrobras_M_1440049754.jpg"
-    },
-    {
-      "title": "México - Ações fecharam o pregão em queda e o Índice S&P/BMV IPC recuou 0,82%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/mexico--acoes-fecharam-o-pregao-em-queda-e-o-indice-spbmv-ipc-recuou-082-1978574",
-      "time": "2026-06-19T21:30:19Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/The-Mexican-Stock-Exchange_M_1440048947.jpg"
-    },
-    {
-      "title": "Colômbia - Ações fecharam o pregão em alta e o Índice COLCAP avançou 4,02%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/colombia--acoes-fecharam-o-pregao-em-alta-e-o-indice-colcap-avancou-402-1978573",
-      "time": "2026-06-19T21:25:18Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/Colombian_Securities_Exchange_M_1440056295.jpg"
     }
   ],
-  "atualizado_em": "21/06/2026 11:44"
+  "atualizado_em": "21/06/2026 16:28"
 }
