@@ -1,162 +1,188 @@
 {
   "headline": {
-    "title": "Copom aponta preocupações com IPCA e novas pressões na taxa Selic",
-    "summary": "Copom aponta preocupações com IPCA e novas pressões na taxa SelicO Comitê de Política Monetária (Copom) do Banco Central apontou para uma deterioração do cenário inflacionário na ata da sua última reunião, realizada nos ",
-    "source": "Suno",
-    "url": "https://www.suno.com.br/noticias/copom-ve-deterioracao-do-cenario-inflacionario-ipca-jun2026-go/",
-    "time": "2026-06-23T13:32:00Z",
+    "title": "Ibovespa ignora queda em Wall Street e sobe com ata do Copom em aberto; dólar avança a R$ 5,18",
+    "summary": "O Ibovespa (IBOV) avançou com a entrada de fluxo estrangeiro, após a liquidação de ativos ligados à inteligência artificial promover uma busca por diversificação dos investidores, além da ata do Comitê de Política Monetá",
+    "source": "Money Times",
+    "url": "https://www.moneytimes.com.br/ibovespa-23-6-26-apsa/",
+    "time": "2026-06-23T20:30:03Z",
     "cat": "economia",
     "tickers": [],
-    "image": null
+    "image": "https://www.moneytimes.com.br/uploads/2025/08/day-trade-4-1-1-2-1-1-1-1-1.jpg"
   },
   "featured": [
     {
-      "title": "Ouro cai 1% com aposta de juros altos nos EUA e fortalecimento do dólar",
-      "summary": "O ouro fechou em baixa na sessão desta terça-feira (23) pressionado pela expectativa de juros elevados nos EUA e fortalecimento do dólar. Na Comex, divisão de metais da bolsa de Nova York (Nymex), o ouro para agosto recu",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ouro-23-6-26-apsa/",
-      "time": "2026-06-23T18:54:53Z",
+      "title": "Bradesco (BBDC4) anuncia pagamento de R$ 3,5 bilhões em juros sobre capital próprio",
+      "summary": "O valor corresponde a R$ 0,315359035 por ação ordinária e R$ 0,346894939 por ação preferencial",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/bradesco-bbdc4-anuncia-pagamento-de-r-35-bilhoes-em-juros-sobre-capital-proprio/",
+      "time": "2026-06-23T21:18:40Z",
       "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/12/prata-e-ouro.png"
+      "tickers": [
+        "BBDC4"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2021/08/bradesco-BBDC3-BBDC4-e1738919720743.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Conselheiro da Vale (VALE3) vê conflito de interesse em voto de Stieler sobre sua própria destituição",
-      "summary": "A participação e o exercício de voto do presidente do conselho da Vale (VALE3), Daniel Stieler, em reunião na qual o colegiado decidiu recomendar aos acionistas que rejeitem um pedido para sua destituição, ocorreu em cla",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/conselheiro-da-vale-vale3-ve-conflito-de-interesse-em-voto-de-stieler-sobre-sua-propria-destituicao/",
-      "time": "2026-06-23T19:48:11Z",
+      "title": "Ibovespa sobe mesmo com tombo das techs em NY e volta aos 171 mil pontos",
+      "summary": "O Ibovespa encerrou o pregão desta terça-feira (23) em alta de 0,52%, aos 171.258,87 pontos, contrariando o mau humor das bolsas americanas. O principal índice da Bolsa brasileira oscilou entre a mínima de 168.495 pontos",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-23-junho-2026-sobe-052-wall-street-mt/",
+      "time": "2026-06-23T21:05:09Z",
       "cat": "acoes",
-      "tickers": [
-        "VALE3"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/11/trem-noturno-da-vale.png"
+      "tickers": [],
+      "image": null
     }
   ],
   "all": [
     {
-      "title": "Juristas veem violação da Lei da Magistratura em críticas de Gilmar a colegas",
-      "summary": "Ministro também dirigiu críticas ao caso Master durante participação no programa Roda Viva",
+      "title": "“Lenda” e “desencantou”: jornais destacam ‘o retorno’ de Cristiano Ronaldo na Copa",
+      "summary": "O atacante de 41 anos foi exaltado por jornais de diferentes países, que destacaram tanto a resposta do craque às críticas quanto os novos recordes alcançados",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/juristas-veem-violacao-da-lei-da-magistratura-em-criticas-de-gilmar-a-colegas/",
-      "time": "2026-06-23T20:04:15Z",
+      "url": "https://www.infomoney.com.br/esportes/lenda-e-desencantou-jornais-destacam-o-retorno-de-cristiano-ronaldo-na-copa/",
+      "time": "2026-06-23T21:39:11Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/Gilmar-Mendes_12.06.2024-Andressa-Anholete-scaled-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-23T201441Z_1684057156_UP1EM6N1HFQHY_RTRMADP_3_SOCCER-WORLDCUP-POR-UZB.jpg?fit=300%2C207&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "“Sal é o novo petróleo”: como as baterias de sódio podem redefinir futuro da energia",
-      "summary": "Morgan Stanley vê ciclo de até US$ 800 bilhões e impactos relevantes sobre commodities e cadeias globais",
+      "title": "Bradesco (BBDC4) anuncia pagamento de R$ 3,5 bilhões em juros sobre capital próprio",
+      "summary": "O valor corresponde a R$ 0,315359035 por ação ordinária e R$ 0,346894939 por ação preferencial",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/sal-e-o-novo-petroleo-como-as-baterias-de-sodio-podem-redefinir-futuro-da-energia/",
-      "time": "2026-06-23T20:01:00Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/RPF-bateria-teste-2023-06-site-00-1140.jpg?fit=300%2C197&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Panamá x Croácia: modelo matemático aponta possível resultado do jogo; veja",
-      "summary": "Cálculo estatístico da Fundação Getúlio Vargas projeta a seleção que tem mais chances de ganhar partida desta terça-feira, 23",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/esportes/panama-x-croacia-modelo-matematico-aponta-possivel-resultado-do-jogo-veja/",
-      "time": "2026-06-23T20:00:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2306_Panama_Croacia.png?fit=300%2C191&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Lula anuncia Serasa dos celulares roubados e pede para a população devolver aparelhos",
-      "summary": "3 milhões de equipamentos sem procedência receberão notificações e passam a ser inutilizados gradualmente, diz governo",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/lula-anuncia-serasa-dos-celulares-roubados-e-pede-para-a-populacao-devolver-aparelhos/",
-      "time": "2026-06-23T19:54:59Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/55312195013_72ac1af8ac_c.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "ASSISTA AOS GOLS: Cristiano Ronaldo brilha, Portugal ‘acorda’ e goleia Uzbequistão",
-      "summary": "Após uma estreia apagada contra a RD Congo, e uma enxurrada de críticas, Cristiano Ronaldo liderou Portugal para a sua primeira vitória nesta edição do torneio de seleções",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/esportes/jogo-portugal-uzbequistao-copa-2026/",
-      "time": "2026-06-23T19:48:03Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-23T191536Z_1851497559_UP1EM6N1HHYI2_RTRMADP_3_SOCCER-WORLDCUP-POR-UZB.jpg?fit=300%2C195&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Petróleo fecha em queda com foco em negociações entre EUA e Irã e fluxo em Ormuz",
-      "summary": "O recuo de sanções americanas e a manutenção do fluxo de navios no Estreito de Ormuz aumentaram a expectativa de normalização no fornecimento global da commodity",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/petroleo-fecha-em-queda-com-foco-em-negociacoes-entre-eua-e-ira-e-fluxo-em-ormuz/",
-      "time": "2026-06-23T19:29:40Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Guerra-Petroleo.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Conselheiro da Vale (VALE3) vê conflito de interesse em voto de Stieler sobre sua própria destituição",
-      "summary": "A participação e o exercício de voto do presidente do conselho da Vale (VALE3), Daniel Stieler, em reunião na qual o colegiado decidiu recomendar aos acionistas que rejeitem um pedido para sua destituição, ocorreu em cla",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/conselheiro-da-vale-vale3-ve-conflito-de-interesse-em-voto-de-stieler-sobre-sua-propria-destituicao/",
-      "time": "2026-06-23T19:48:11Z",
-      "cat": "acoes",
+      "url": "https://www.infomoney.com.br/mercados/bradesco-bbdc4-anuncia-pagamento-de-r-35-bilhoes-em-juros-sobre-capital-proprio/",
+      "time": "2026-06-23T21:18:40Z",
+      "cat": "economia",
       "tickers": [
-        "VALE3"
+        "BBDC4"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/11/trem-noturno-da-vale.png"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2021/08/bradesco-BBDC3-BBDC4-e1738919720743.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Inter (INTR;INBR32): Itaú BBA corta preço-alvo de olho em ‘pé no freio’ dos lucros e aponta fator que segura avanço",
-      "summary": "O Itaú BBA cortou o preço-alvo para as ações do Inter (INTR;INBR32) de US$ 10 para US$ 8 e reiterou a classificação market perform, equivalente à neutra. A casa permanece cautelosa com o banco, de olho em um possível per",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/inter-intrinbr32-itau-bba-corta-preco-alvo-de-olho-em-pe-no-freio-dos-lucros-e-aponta-fator-que-segura-avanco-lmrs/",
-      "time": "2026-06-23T19:12:37Z",
-      "cat": "analise",
+      "title": "Número de assessores de investimento cresce 3,6% em 2026; veja os detalhes",
+      "summary": "Do total de credenciados, 20.224 profissionais estão na ativa",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/advisor/numero-de-assessores-de-investimento-cresce-36-em-2026-veja-os-detalhes/",
+      "time": "2026-06-23T20:52:26Z",
+      "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/03/banco-inter.jpg"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/pexels-tima-miroshnichenko-7567561.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Ouro cai 1% com aposta de juros altos nos EUA e fortalecimento do dólar",
-      "summary": "O ouro fechou em baixa na sessão desta terça-feira (23) pressionado pela expectativa de juros elevados nos EUA e fortalecimento do dólar. Na Comex, divisão de metais da bolsa de Nova York (Nymex), o ouro para agosto recu",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ouro-23-6-26-apsa/",
-      "time": "2026-06-23T18:54:53Z",
+      "title": "Ibovespa descola do exterior e bate 171 mil pontos com Axia e em dia de ata do Copom",
+      "summary": "O volume financeiro somou R$ 21,64 bilhões, de uma média diária de R$ 32,36 bilhões",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-descola-do-exterior-e-bate-171-mil-pontos-com-axia-e-em-dia-de-ata-do-copom/",
+      "time": "2026-06-23T20:45:11Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/12/prata-e-ouro.png"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/06/Bolsa-pregao-def-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Petrobras (PETR4) e PEMEX assinam acordo para avaliar projetos conjuntos em petróleo, gás e refino",
-      "summary": "A Petrobras (PETR4) anunciou nesta terça-feira (23) a assinatura de um Memorando de Entendimento (MoU) com a estatal mexicana PEMEX para avaliar oportunidades de cooperação estratégica e técnica na indústria de hidrocarb",
+      "title": "Track&Field (TFCO4) aprova pagamento de R$ 12,9 milhões em juros sobre capital próprio",
+      "summary": "A TrackField (TFCO4) aprovou o pagamento de R$ 12,9 milhões em juros sobre o capital próprio (JCP) aos acionistas, conforme decisão do Conselho de Administração realizada nesta terça-feira (23). O pagamento será feito em",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/petrobras-petr4-e-pemex-assinam-acordo-para-avaliar-projetos-conjuntos-em-petroleo-gas-e-refino-vtra/",
-      "time": "2026-06-23T18:25:11Z",
+      "url": "https://www.moneytimes.com.br/trackfield-tfco4-aprova-pagamento-de-r-129-milhoes-em-jcp/",
+      "time": "2026-06-23T21:39:48Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2023/09/varejista-trackfield-acoes-jcp-juros-sobre-capital-proprio.jpg"
+    },
+    {
+      "title": "Governo mantém elevação de tarifas para carros elétricos e cria cota adicional para importação com alíquota zero",
+      "summary": "O Comitê-Executivo de Gestão da Câmara de Comércio Exterior (Gecex) aprovou nesta terça-feira (23) a manutenção do cronograma de elevação das tarifas de importação para carros elétricos e híbridos, mas estabeleceu cotas ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/governo-mantem-elevacao-de-tarifas-para-carros-eletricos-e-cria-cota-adicional-para-importacao-com-aliquota-zero-pads/",
+      "time": "2026-06-23T21:38:29Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/06/carros-eletricos-china-.jpg"
+    },
+    {
+      "title": "Localiza (RENT3) aprova R$ 591 milhões em JCP; veja valor por ação",
+      "summary": "A Localiza (RENT3) aprovou o pagamento de R$ 591,1 milhões em juros sobre capital próprio (JCP) aos acionistas, conforme fato relevante divulgado nesta terça-feira (23). A decisão foi aprovada pelo conselho de administra",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/localiza-rent3-aprova-r-591-milhoes-em-jcp-veja-valor-por-acao-vtra/",
+      "time": "2026-06-23T21:35:14Z",
+      "cat": "acoes",
+      "tickers": [
+        "RENT3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2024/11/localiza-rent3-jcp.png"
+    },
+    {
+      "title": "Bradesco (BBDC4) aprova R$ 3,5 bilhões em JCP; veja valor por ação e data de corte",
+      "summary": "O conselho de administração do Bradesco (BBDC4) aprovou o pagamento de R$ 3,5 bilhões em juros sobre capital próprio (JCP) intermediários aos acionistas, informou o banco em fato relevante divulgado nesta terça-feira (23",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/bradesco-bbdc4-aprova-r-35-bilhoes-em-jcp-veja-valor-por-acao-e-data-de-corte-vtra/",
+      "time": "2026-06-23T21:17:52Z",
+      "cat": "acoes",
+      "tickers": [
+        "BBDC4"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/bradesco-1.jpg"
+    },
+    {
+      "title": "Receita ameaça de exclusão MEIs e pequenas empresas que não regularizarem dívidas com o Simples Nacional",
+      "summary": "O prazo para 1,103 milhão de Microempreendedores Individuais (MEIs) e de micro e pequenas empresas regularizarem pendências financeiras com o Simples Nacional se aproxima do fim. No final março, a Receita Federal disparo",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/receita-ameaca-de-exclusao-meis-e-pequenas-empresas-que-nao-regularizarem-dividas-com-o-simples-nacional-gaep/",
+      "time": "2026-06-23T21:01:04Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2023/01/simples-nacional-mei.jpg"
+    },
+    {
+      "title": "Ibovespa ignora queda em Wall Street e sobe com ata do Copom em aberto; dólar avança a R$ 5,18",
+      "summary": "O Ibovespa (IBOV) avançou com a entrada de fluxo estrangeiro, após a liquidação de ativos ligados à inteligência artificial promover uma busca por diversificação dos investidores, além da ata do Comitê de Política Monetá",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ibovespa-23-6-26-apsa/",
+      "time": "2026-06-23T20:30:03Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/08/day-trade-4-1-1-2-1-1-1-1-1.jpg"
+    },
+    {
+      "title": "FI-Infra: fundos pagam dividendos de até 1,50% em junho",
+      "summary": "Os fundos de infraestrutura (FI-Infra) mantêm distribuição de rendimentos em patamar elevado em 2026. Em junho, vários veículos comunicaram dividend yields mensais superiores a 1%, reforçando o apelo do segmento para que",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/fi-infra-fundos-pagam-dividendos-de-ate-150-em-junho/",
+      "time": "2026-06-23T21:45:05Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Ibovespa sobe mesmo com tombo das techs em NY e volta aos 171 mil pontos",
+      "summary": "O Ibovespa encerrou o pregão desta terça-feira (23) em alta de 0,52%, aos 171.258,87 pontos, contrariando o mau humor das bolsas americanas. O principal índice da Bolsa brasileira oscilou entre a mínima de 168.495 pontos",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-23-junho-2026-sobe-052-wall-street-mt/",
+      "time": "2026-06-23T21:05:09Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Petrobras (PETR4) fecha acordo com Pemex para projetos de petróleo e gás",
+      "summary": "A Petrobras (PETR4) anunciou nesta terça-feira (23) a assinatura de um memorando de entendimento com a estatal mexicana Pemex para avaliar oportunidades de cooperação em projetos ligados à exploração, produção e processa",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/petrobras-petr4-acordo-pemex-petroleo-gas-mexico-go/",
+      "time": "2026-06-23T20:45:16Z",
       "cat": "internacional",
       "tickers": [
         "PETR4"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/10/sonda-ns-42-odn-ii-foto3-divulgacao-foresea1-e1761073203944.png"
+      "image": null
     },
     {
-      "title": "GSI corrige portaria que nomeava ‘Fulano de Tal’ e ‘Cicrano de Tal’ para segurança presidencial",
-      "summary": "O Gabinete de Segurança Institucional (GSI) publicou uma edição extra do Diário Oficial da União (DOU) nesta segunda-feira (22) para corrigir portaria de nomeação de militares para a Secretaria de Segurança Presidencial.",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/gsi-corrige-portaria-que-nomeava-fulano-e-cicrano-de-tal-para-seguranca-presidencial-gaep/",
-      "time": "2026-06-23T18:20:05Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/06/portaria-gsi.jpg"
-    },
-    {
-      "title": "Da tese ao investimento: conheça o Research Ideas, nova ferramenta do BTG Pactual",
-      "summary": "Ferramenta permite que investidores encontrem oportunidades de mercado, entendam a tese por trás da recomendação e executem operações de forma simplificada e automatizada",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/da-tese-ao-investimento-conheca-o-research-ideas-nova-ferramenta-do-btg-pactual-lbrdis591/",
-      "time": "2026-06-23T18:00:00Z",
-      "cat": "analise",
-      "tickers": [],
-      "image": "https://www.empiricus.com.br/uploads/2026/06/image-21.png"
+      "title": "FII fará amortização total; cotistas receberão dinheiro e cotas de GGRC11 e SNFZ11",
+      "summary": "Os cotistas do fundo imobiliário RLGX11 (REC Logística II) receberão uma combinação de cotas de fundos listados e recursos em dinheiro, após o anúncio de amortização total das cotas. A operação foi formalizada em fato re",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/fii-fara-amortizacao-total-cotistas-receberao-dinheiro-e-cotas-de-ggrc11-e-snfz11/",
+      "time": "2026-06-23T20:45:07Z",
+      "cat": "fundos",
+      "tickers": [
+        "GGRC11"
+      ],
+      "image": null
     },
     {
       "title": "MRV vende empreendimentos nos EUA por preços abaixo da avaliação para reduzir dívida",
@@ -169,137 +195,155 @@
       "image": null
     },
     {
-      "title": "Rumo (RAIL3): CEO sai em meio à transformação, mas BTG vê ação quase dobrando",
-      "summary": "A Rumo (RAIL3) anunciou uma mudança relevante no comando da companhia. Pedro Palma deixará o cargo de CEO em 20 de julho, e Daniel Rockenbach assumirá interinamente a presidência da operadora ferroviária, segundo relatór",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/rumo-rail3-ceo-btg-compra-alta-mt/",
-      "time": "2026-06-23T16:35:10Z",
-      "cat": "acoes",
-      "tickers": [
-        "RAIL3"
-      ],
-      "image": null
+      "title": "Bairro histórico de São Paulo ganhará estação de metrô da Linha 6-Laranja, diz governo",
+      "summary": "Estação Freguesia do Ó integra o eixo que conectará as regiões norte e oeste da capital",
+      "source": "Exame",
+      "url": "https://exame.com/brasil/bairro-historico-de-sao-paulo-ganhara-estacao-de-metro-da-linha-6-laranja-diz-governo/",
+      "time": "2026-06-23T18:52:13Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/freguesiadoO_linhalaranja.jpg"
     },
     {
-      "title": "FII tem resultado menor e paga dividendos de 11,5% ao ano",
-      "summary": "O fundo imobiliário PCIP11 fechou maio com resultado distribuível de R$ 7,766 milhões. No mês, as receitas somaram R$ 8,388 milhões e as despesas totalizaram R$ 1,238 milhão. O resultado distribuível por cota foi de R$ 0",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/pcip11-distribuicao-reserva-lucros-maio/",
-      "time": "2026-06-23T15:45:05Z",
+      "title": "Líbano e Israel começam a quinta rodada de negociações para cessar-fogo",
+      "summary": "Sob influência das negociações entre EUA e Irã, os países negociam em Washington a suspensão dos ataques entre eles",
+      "source": "Exame",
+      "url": "https://exame.com/mundo/libano-e-israel-comecam-a-quinta-rodada-de-negociacoes-para-cessar-fogo/",
+      "time": "2026-06-23T17:54:29Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/05/Guerra-Ira-Eua.jpg"
+    },
+    {
+      "title": "Anfavea critica cota que isenta carros elétricos importados de imposto",
+      "summary": "Associação, que representa montadoras com produção no Brasil, deve entrar na Justiça contra benefício",
+      "source": "Exame",
+      "url": "https://exame.com/brasil/anfavea-critica-cota-que-isenta-carros-eletricos-importados-de-imposto/",
+      "time": "2026-06-23T17:54:13Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2023/05/carros.jpg"
+    },
+    {
+      "title": "Ibovespa retoma os 171 mil pontos, mesmo com exterior negativo; dólar sobe a R$ 5,18",
+      "summary": "Mercado repercutiu a ata do Comitê de Política Monetária (Copom), que trouxe um tom cauteloso sobre os próximos passos da política monetária",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/ibovespa-retoma-os-171-mil-pontos-mesmo-com-exterior-negativo-dolar-sobe-a-r-518/",
+      "time": "2026-06-23T17:32:12Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2021/05/DSC2575bx.jpg"
+    },
+    {
+      "title": "Sem conseguir repetir escalações, Ancelotti terá que mudar o Brasil contra a Escócia",
+      "summary": "Desde que assumiu a Seleção Brasileira, o treinador nunca repetiu uma formação e sem Raphinha terá que fazer alterações diante dos escoceses",
+      "source": "Exame",
+      "url": "https://exame.com/esporte/sem-conseguir-repetir-escalacoes-ancelotti-tera-que-mudar-o-brasil-contra-a-escocia/",
+      "time": "2026-06-23T17:28:42Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/AFP__20260613__2281453095__v1__HighRes__BrazilVMoroccoGroupCFifaWorldCup2026.jpg"
+    },
+    {
+      "title": "México - Ações fecharam o pregão em queda e o Índice S&P/BMV IPC recuou 0,41%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/mexico--acoes-fecharam-o-pregao-em-queda-e-o-indice-spbmv-ipc-recuou-041-1981619",
+      "time": "2026-06-23T21:30:19Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/Mexican_Stock_Exchange_M_1440056300.jpg"
+    },
+    {
+      "title": "Alphabet substituirá a Verizon no Dow Jones Industrial Average",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/alphabet-substituira-a-verizon-no-dow-jones-industrial-average-1981618",
+      "time": "2026-06-23T21:29:18Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Colômbia - Ações fecharam o pregão em queda e o Índice COLCAP recuou 1,93%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/colombia--acoes-fecharam-o-pregao-em-queda-e-o-indice-colcap-recuou-193-1981613",
+      "time": "2026-06-23T21:25:19Z",
       "cat": "fundos",
       "tickers": [],
       "image": null
     },
     {
-      "title": "Imposto de Renda 2026: Receita abre consulta ao segundo lote de restituição",
-      "summary": "Imposto de Renda 2024 - Foto: iStockA Receita Federal abriu nesta terça-feira (23), a partir das 9h, a consulta ao segundo lote de restituição do Imposto de Renda Pessoa Física (IRPF) 2026. O pagamento será realizado em ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/restituicao-ir-2026-receita-consulta-segundo-lote-como-consultar-go/",
-      "time": "2026-06-23T14:54:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2023/05/irpf-restituicao.jpg"
-    },
-    {
-      "title": "Copom aponta preocupações com IPCA e novas pressões na taxa Selic",
-      "summary": "Copom aponta preocupações com IPCA e novas pressões na taxa SelicO Comitê de Política Monetária (Copom) do Banco Central apontou para uma deterioração do cenário inflacionário na ata da sua última reunião, realizada nos ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/copom-ve-deterioracao-do-cenario-inflacionario-ipca-jun2026-go/",
-      "time": "2026-06-23T13:32:00Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Cristiano Ronaldo pode superar Messi? Veja o ranking dos artilheiros históricos da Copa",
-      "summary": "Em partida contra o Uzbequistão, atacante entrou para história e se torna o 1º jogador a marcar gols em seis Copas do Mundo",
-      "source": "Exame",
-      "url": "https://exame.com/esporte/cristiano-ronaldo-pode-superar-messi-veja-o-ranking-dos-artilheiros-historicos-da-copa/",
-      "time": "2026-06-23T16:42:21Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/AFP__20260617__B7FQ678__v3__HighRes__TopshotFblWc2026Match23PorCod-1.jpg"
-    },
-    {
-      "title": "Empresário não se assusta com queda de 44% do ether e compra mais US$ 90 milhões",
-      "summary": "Companhia agora é dona de 4,7% de todas as unidades do criptoativo que existem no mundo",
-      "source": "Exame",
-      "url": "https://exame.com/future-of-money/empresario-nao-se-assusta-com-queda-de-44-do-ether-e-compra-mais-us-90-milhoes/",
-      "time": "2026-06-23T16:10:09Z",
-      "cat": "cripto",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/Tom-Lee-Bitmine.png"
-    },
-    {
-      "title": "Com show de Cristiano Ronaldo, Portugal vence o Uzbequistão na Copa do Mundo",
-      "summary": "O craque português marcou dois gols e liderou a seleção na vitória por 5 a 0 sobre os uzbeques, pelo Grupo K da Copa do Mundo",
-      "source": "Exame",
-      "url": "https://exame.com/esporte/com-show-de-cristiano-ronaldo-portugal-vence-o-uzbequistao-na-copa-do-mundo/",
-      "time": "2026-06-23T16:01:56Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/AFP__20260623__B82W9TB__v1__MidRes__FblWc2026Match47PorUzb.jpg"
-    },
-    {
-      "title": "Raymond James vê poder de precificação da ServiceNow impulsionando crescimento de alta margem",
+      "title": "Rússia - Ações fecharam o pregão em alta e o Índice MOEX Russia Index avançou 0,63%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/raymond-james-ve-poder-de-precificacao-da-servicenow-impulsionando-crescimento-de-alta-margem-1981474",
-      "time": "2026-06-23T19:48:47Z",
+      "url": "https://br.investing.com/news/stock-market-news/russia--acoes-fecharam-o-pregao-em-alta-e-o-indice-moex-russia-index-avancou-063-1981604",
+      "time": "2026-06-23T21:20:23Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB4B0FU_M.jpg"
+    },
+    {
+      "title": "Ações em destaque no after-hours: FDX, CBRS e NKE",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-em-destaque-no-afterhours-fdx-cbrs-e-nke-432SI-1981589",
+      "time": "2026-06-23T21:03:02Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "SpaceX lança oferta de títulos para captar ao menos US$ 25 bilhões",
+      "title": "Wall St fecha em queda com onda de vendas no setor de semicondutores em meio a preocupações com IA",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/spacex-lanca-oferta-de-titulos-para-captar-ao-menos-us-25-bilhoes-93CH-1981455",
-      "time": "2026-06-23T19:35:07Z",
+      "url": "https://br.investing.com/news/stock-market-news/wall-st-fecha-em-queda-com-onda-de-vendas-no-setor-de-semicondutores-em-meio-a-preocupacoes-com-ia-1981582",
+      "time": "2026-06-23T21:00:31Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPED1J0AC_M.jpg"
+    },
+    {
+      "title": "Hadrian pode atingir avaliação de US$ 7,5 bi em nova rodada de captação",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/hadrian-pode-atingir-avaliacao-de-us-75-bi-em-nova-rodada-de-captacao-93CH-1981580",
+      "time": "2026-06-23T20:54:10Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Negociação de opções da Natera dispara com foco nas calls de julho",
+      "title": "Ações da Nike sobem com troca de CFO e reembolso de tarifas",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/negociacao-de-opcoes-da-natera-dispara-com-foco-nas-calls-de-julho-93CH-1981453",
-      "time": "2026-06-23T19:28:48Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-nike-sobem-com-troca-de-cfo-e-reembolso-de-tarifas-93CH-1981563",
+      "time": "2026-06-23T20:47:17Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Negociação de opções da Molina Healthcare salta para 2.090 contratos",
+      "title": "Ações da FedEx despencam após guidance decepcionante para 2027",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/negociacao-de-opcoes-da-molina-healthcare-salta-para-2090-contratos-93CH-1981445",
-      "time": "2026-06-23T19:17:13Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-fedex-despencam-apos-guidance-decepcionante-para-2027-93CH-1981561",
+      "time": "2026-06-23T20:46:55Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "VIVA3: Por que as ações da Vivara estão em alta hoje?",
+      "title": "Ações da RPC caem após anúncio de aposentadoria do CEO",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/viva3-por-que-as-acoes-da-vivara-estao-em-alta-hoje-1981430",
-      "time": "2026-06-23T18:56:58Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-rpc-caem-apos-anuncio-de-aposentadoria-do-ceo-93CH-1981560",
+      "time": "2026-06-23T20:45:21Z",
       "cat": "internacional",
       "tickers": [],
-      "image": null
-    },
-    {
-      "title": "SpaceX lança oferta de títulos de US$25 bi, diz fonte",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/spacex-lanca-oferta-de-titulos-de-us25-bi-diz-fonte-1981433",
-      "time": "2026-06-23T18:56:06Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": null
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "23/06/2026 20:04"
+  "atualizado_em": "23/06/2026 21:57"
 }
