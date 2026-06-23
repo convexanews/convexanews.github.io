@@ -11,7 +11,7 @@ const state = {
   fiiData: {},
 };
 
-const VALID_PAGES = ['noticias', 'acoes', 'fiis', 'etfs', 'internacional', 'cripto', 'indicadores', 'analises'];
+const VALID_PAGES = ['noticias', 'acoes', 'fiis', 'etfs', 'internacional', 'cripto', 'indicadores', 'analises', 'artigos', 'artigo-detalhe'];
 
 // ===== SEGURANÇA: escape de conteúdo vindo de feeds externos =====
 function esc(s) {
@@ -138,6 +138,7 @@ function tempoRelativo(isoOrText) {
 // ===== NAVEGAÇÃO + HASH ROUTING =====
 function pageFromHash() {
   const h = location.hash.replace(/^#\/?/, '');
+  if (h.startsWith('artigo/')) return 'artigo-detalhe';
   return VALID_PAGES.includes(h) ? h : 'noticias';
 }
 
@@ -149,8 +150,13 @@ function switchPage(page) {
   document.querySelectorAll('.nav-item, .mobile-nav-item').forEach(b => {
     b.classList.toggle('active', b.dataset.page === page);
   });
-  if (location.hash !== '#/' + page) history.replaceState(null, '', '#/' + page);
+  if (page !== 'artigo-detalhe' && location.hash !== '#/' + page) history.replaceState(null, '', '#/' + page);
   if (page === 'indicadores') loadIndicadores();
+  if (page === 'artigos') loadArtigos();
+  if (page === 'artigo-detalhe') {
+    const slug = location.hash.replace(/^#\/?artigo\//, '');
+    loadArtigoDetalhe(slug);
+  }
   window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
@@ -1407,6 +1413,75 @@ function switchPageGated(page) {
     return;
   }
   switchPage(page);
+}
+
+// ===== ARTIGOS =====
+let artigosCache = null;
+
+async function loadArtigos() {
+  const grid = document.getElementById('artigosGrid');
+  if (!grid) return;
+  try {
+    if (!artigosCache) {
+      const resp = await fetch('./artigos.json?t=' + Date.now());
+      artigosCache = await resp.json();
+    }
+    if (!artigosCache || artigosCache.length === 0) {
+      grid.innerHTML = '<p class="loading-text">Nenhum artigo disponível.</p>';
+      return;
+    }
+    grid.innerHTML = artigosCache.map(a => `
+      <a class="artigo-card" href="#/artigo/${esc(a.id)}" onclick="openArtigo('${esc(a.id)}');return false;">
+        <div class="artigo-card-cat">${esc(a.categoria)}</div>
+        <h2 class="artigo-card-title">${esc(a.titulo)}</h2>
+        <p class="artigo-card-resumo">${esc(a.resumo)}</p>
+        <div class="artigo-card-meta">
+          <span>${esc(a.data)}</span>
+          <span>${esc(a.leitura)} de leitura</span>
+        </div>
+        <div class="artigo-card-tags">${(a.tags || []).map(t => `<span class="artigo-tag">${esc(t)}</span>`).join('')}</div>
+      </a>
+    `).join('');
+  } catch (e) {
+    grid.innerHTML = '<p class="loading-text">Erro ao carregar artigos.</p>';
+  }
+}
+
+function openArtigo(slug) {
+  history.replaceState(null, '', '#/artigo/' + slug);
+  switchPage('artigo-detalhe');
+}
+
+async function loadArtigoDetalhe(slug) {
+  const container = document.getElementById('artigoConteudo');
+  if (!container) return;
+  try {
+    if (!artigosCache) {
+      const resp = await fetch('./artigos.json?t=' + Date.now());
+      artigosCache = await resp.json();
+    }
+    const artigo = artigosCache.find(a => a.id === slug);
+    if (!artigo) {
+      container.innerHTML = '<p>Artigo não encontrado.</p>';
+      return;
+    }
+    container.innerHTML = `
+      <div class="artigo-header-cat">${esc(artigo.categoria)}</div>
+      <h1 class="artigo-detail-title">${esc(artigo.titulo)}</h1>
+      <div class="artigo-detail-meta">
+        <span>Publicado em ${esc(artigo.data)}</span>
+        <span>${esc(artigo.leitura)} de leitura</span>
+      </div>
+      <div class="artigo-detail-body">${artigo.corpo}</div>
+      <div class="artigo-detail-tags">${(artigo.tags || []).map(t => `<span class="artigo-tag">${esc(t)}</span>`).join('')}</div>
+      <div class="artigo-detail-disclaimer">
+        <p><strong>Aviso:</strong> Este conteúdo tem caráter informativo e educacional. Não constitui recomendação de investimento. Antes de tomar decisões financeiras, consulte um profissional certificado.</p>
+      </div>
+    `;
+    document.title = artigo.titulo + ' — Bom Dia Investidor';
+  } catch (e) {
+    container.innerHTML = '<p>Erro ao carregar o artigo.</p>';
+  }
 }
 
 // ===== INIT =====

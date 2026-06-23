@@ -115,6 +115,7 @@
       <button class="nav-item" data-page="cripto">Cripto</button>
       <button class="nav-item" data-page="indicadores">Indicadores</button>
       <button class="nav-item" data-page="analises">Análises</button>
+      <button class="nav-item" data-page="artigos">Artigos</button>
     </nav>
     <div class="header-right">
       <button class="theme-btn" id="themeBtn" title="Alternar tema claro/escuro" onclick="toggleTheme()">☾</button>
@@ -137,6 +138,7 @@
     <button class="mobile-nav-item" data-page="cripto">Cripto</button>
     <button class="mobile-nav-item" data-page="indicadores">Indicadores</button>
     <button class="mobile-nav-item" data-page="analises">Análises</button>
+    <button class="mobile-nav-item" data-page="artigos">Artigos</button>
   </div>
 </div>
 
@@ -384,6 +386,29 @@
   </div>
 </section>
 
+<!-- ===== PAGE: ARTIGOS ===== -->
+<section class="page-section" id="page-artigos">
+  <div class="artigos-page">
+    <div class="table-page-header">
+      <div>
+        <h1 class="table-page-title">Artigos & Guias</h1>
+        <p class="table-page-subtitle">Conteúdo educacional sobre investimentos, finanças pessoais e mercado financeiro</p>
+      </div>
+    </div>
+    <div class="artigos-grid" id="artigosGrid">
+      <div class="loading-text">Carregando artigos...</div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== PAGE: ARTIGO DETALHE ===== -->
+<section class="page-section" id="page-artigo-detalhe">
+  <div class="artigo-detalhe-page">
+    <a class="privacy-back" href="#/artigos" onclick="switchPage('artigos');return false;">← Voltar aos artigos</a>
+    <article id="artigoConteudo"></article>
+  </div>
+</section>
+
 <!-- DETAIL MODAL -->
 <div class="detail-overlay" id="detailOverlay" onclick="if(event.target===this)closeDetail()">
   <div class="detail-modal" id="detailModal"></div>
@@ -403,6 +428,7 @@
       <a href="termos.html">Termos de Uso</a>
       <a href="contato.html">Contato</a>
       <a href="#/indicadores">Indicadores</a>
+      <a href="#/artigos">Artigos</a>
     </div>
     <p class="footer-copy">© 2026 Bom Dia Investidor</p>
   </div>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<script>
+// SPA redirect for GitHub Pages
+// Converts /acoes → /#/acoes so the single-page app handles routing
+var path = location.pathname.replace(/^\//, '').replace(/\/$/, '');
+var validPages = ['noticias','acoes','fiis','etfs','internacional','cripto','indicadores','analises'];
+if (validPages.indexOf(path) !== -1) {
+  location.replace('/#/' + path);
+} else if (path.startsWith('artigo/')) {
+  location.replace('/#/' + path);
+} else {
+  location.replace('/');
+}
+</script>
+</head>
+<body></body>
+</html>
