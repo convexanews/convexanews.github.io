@@ -1,156 +1,256 @@
 {
   "headline": {
-    "title": "Bitcoin hoje: cripto cai abaixo de US$ 60 mil, no menor nível do mês",
-    "summary": "Na avaliação da Bitfinex, uma queda sustentada abaixo da faixa de resistência de US$ 60 mil \"leva a uma gama negativa ainda maior e corre o risco de uma cascata em direção a US$ 54 mil ou US$ 56 mil\"",
-    "source": "InfoMoney",
-    "url": "https://www.infomoney.com.br/mercados/bitcoin-hoje-cripto-cai-abaixo-de-us-60-mil-no-menor-nivel-do-mes/",
-    "time": "2026-06-24T19:34:42Z",
-    "cat": "cripto",
+    "title": "Ibovespa cai com tombo de Petrobras (PETR4) e Vale (VALE3), mas segura os 170 mil pontos",
+    "summary": "O Ibovespa encerrou o pregão desta quarta-feira (24) em queda de 0,44%, aos 170.506,66 pontos, pressionado pelo forte recuo das commodities e pela realização de lucros em ações de peso do índice. O principal índice da Bo",
+    "source": "Suno",
+    "url": "https://www.suno.com.br/noticias/ibovespa-hoje-24-junho-2026-petrobras-vale-mt/",
+    "time": "2026-06-24T21:15:04Z",
+    "cat": "acoes",
     "tickers": [
-      "BTC"
+      "PETR4",
+      "VALE3"
     ],
-    "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/bitcoin-queda-cotacao-cripto.png?fit=300%2C191&amp;quality=70&amp;strip=all"
+    "image": null
   },
   "featured": [
     {
-      "title": "Petrobras (PETR4), Prio (PRIO3) e outras petroleiras recuam nesta quarta (24) com Brent a US$ 73",
-      "summary": "O petróleo opera nos níveis mais baixos desde o início do conflito no Oriente Médio, com o Brent sendo negociado na faixa dos US$ 73 o barril. O movimento pressionou as petroleiras na bolsa brasileira, principalmente a P",
+      "title": "Ibovespa recua pressionado por Petrobras (PETR4); dólar avança a R$ 5,20",
+      "summary": "O Ibovespa (IBOV) recuou com a baixa do petróleo pressionando empresas de peso no índice, como a Petrobras (PETR3;PETR4). Nesta quarta-feira (24), o principal índice da bolsa brasileira terminou as negociações com baixa ",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/petrobras-petr3petr4-prio-prio3-e-outras-petroleiras-recuam-no-ibovespa-com-brent-aos-us-73-apsa/",
-      "time": "2026-06-24T19:08:16Z",
-      "cat": "acoes",
+      "url": "https://www.moneytimes.com.br/ibovespa-24-6-26-apsa/",
+      "time": "2026-06-24T20:31:58Z",
+      "cat": "economia",
       "tickers": [
         "PETR4",
-        "PRIO3"
+        "PETR3"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/08/petrobras-dividendos-2-1-1.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/mercado-morning-ibovespa-wall-street-2.jpg"
     },
     {
-      "title": "Ibovespa dá sinais de estabilização, mas recuperação depende dos 175 mil pontos, aponta panorama técnico do BTG",
-      "summary": "O Ibovespa começa a mostrar sinais de estabilização após a forte correção dos últimos meses, mas ainda precisa superar a região dos 175 mil pontos para confirmar uma retomada mais consistente, segundo relatório técnico d",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ibovespa-da-sinais-de-estabilizacao-mas-recuperacao-depende-dos-175-mil-pontos-aponta-panorama-tecnico-do-btg/",
-      "time": "2026-06-24T19:44:09Z",
+      "title": "Ibovespa fecha em queda de 0,44% pressionado por Vale e Petrobras",
+      "summary": "Pregão também foi marcado pelo alívio nos rendimentos dos títulos do Tesouro dos Estados Unidos",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-fecha-em-queda-de-044-pressionado-por-vale-e-petrobras/",
+      "time": "2026-06-24T20:57:38Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/10/small-caps-carteira-recomendada-1-1-1-1-2.jpg"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/10/Captura-de-tela-2024-10-03-175402.png?fit=300%2C194&amp;quality=70&amp;strip=all"
     }
   ],
   "all": [
     {
-      "title": "Bitcoin hoje: cripto cai abaixo de US$ 60 mil, no menor nível do mês",
-      "summary": "Na avaliação da Bitfinex, uma queda sustentada abaixo da faixa de resistência de US$ 60 mil \"leva a uma gama negativa ainda maior e corre o risco de uma cascata em direção a US$ 54 mil ou US$ 56 mil\"",
+      "title": "Petróleo lidera indústria e receita do setor soma R$ 5,3 trilhões em 2024",
+      "summary": "Pesquisa do IBGE mostra concentração do faturamento industrial em petróleo, mineração e alimentos",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/bitcoin-hoje-cripto-cai-abaixo-de-us-60-mil-no-menor-nivel-do-mes/",
-      "time": "2026-06-24T19:34:42Z",
-      "cat": "cripto",
-      "tickers": [
-        "BTC"
-      ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/bitcoin-queda-cotacao-cripto.png?fit=300%2C191&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Petróleo fecha em queda pelo terceiro dia com fluxo em Ormuz e negociações com Irã",
-      "summary": "Petróleo tem queda impulsionada por sinais de normalização marítima e declarações de Trump sobre a isenção de pedágios no estreito",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-24062026/",
-      "time": "2026-06-24T19:24:28Z",
+      "url": "https://www.infomoney.com.br/economia/petroleo-lidera-industria-e-receita-do-setor-soma-r-53-trilhoes-em-2024/",
+      "time": "2026-06-24T21:03:10Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/2026-01-16T221448Z_1_LYNXMPEM0F18J_RTROPTP_4_USA-OIL-PRODUCTION.jpg?fit=300%2C196&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/petroleo.webp?fit=300%2C159&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Taxas do Tesouro desabam até 44 pontos-base seguindo petróleo, apesar do dólar alto",
-      "summary": "Petróleo recua com autorização americana para importar petróleo iraniano por 60 dias, aliviando as pressões inflacionárias e reprecificando o risco global de juros",
+      "title": "BB Seguridade (BBSE3) aprova R$ 3,85 bi em dividendos do 1º semestre de 2026",
+      "summary": "Apesar da aprovação do montante total, a BB Seguridade informou que o valor por ação ainda não foi definido",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/onde-investir/taxas-do-tesouro-desabam-ate-44-pontos-base-seguindo-petroleo-apesar-do-dolar-alto/",
-      "time": "2026-06-24T19:01:49Z",
+      "url": "https://www.infomoney.com.br/mercados/bb-seguridade-bbse3-aprova-r-385-bi-em-dividendos-do-1o-semestre-de-2026/",
+      "time": "2026-06-24T20:59:07Z",
+      "cat": "fundos",
+      "tickers": [
+        "BBSE3"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/bb-seguridade.jpg?fit=300%2C193&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Ibovespa fecha em queda de 0,44% pressionado por Vale e Petrobras",
+      "summary": "Pregão também foi marcado pelo alívio nos rendimentos dos títulos do Tesouro dos Estados Unidos",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-fecha-em-queda-de-044-pressionado-por-vale-e-petrobras/",
+      "time": "2026-06-24T20:57:38Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/10/Captura-de-tela-2024-10-03-175402.png?fit=300%2C194&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Jaques Wagner pede licença da liderança do governo no Senado após operação da PF",
+      "summary": "Senador do PT foi alvo de buscas na investigação sobre suposta relação com o banqueiro Augusto Lima e medidas que teriam beneficiado o Banco Master",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/jaques-wagner-pede-licenca-da-lideranca-do-governo-no-senado-apos-operacao-da-pf/",
+      "time": "2026-06-24T20:54:02Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/06/jaques-wagner_fe7ba1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Micron: gigante de chips supera altas expectativas de Wall Street no tri e ação salta",
+      "summary": "Para o trimestre atual, a empresa prevê ganhos ajustados de US$ 31 por ação sobre vendas de US$ 50 bilhões",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/micron-gigante-de-chips-supera-altas-expectativas-de-wall-street-no-tri-e-acao-salta/",
+      "time": "2026-06-24T20:47:16Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-26T145001Z_49985133_RC2LEGA0KV76_RTRMADP_3_MICRON-STOCKS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Bolsas em NY fecham sem direção única com techs pressionadas por temor de juros altos",
+      "summary": "Nasdaq recuou 0,43%, encerrando em 25.476,64 pontos",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/bolsas-em-ny-fecham-sem-direcao-unica-com-techs-pressionadas-por-temor-de-juros-altos/",
+      "time": "2026-06-24T20:41:39Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-16T121452Z_1_LYNXMPEM3F0TY_RTROPTP_4_IRAN-CRISIS-CENTCOM.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/438121626.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Marrocos x Haiti: modelo matemático aponta possível resultado do jogo; veja",
-      "summary": "Cálculo estatístico da Fundação Getúlio Vargas projeta a seleção que tem mais chances de ganhar partida desta quarta-feira, 24",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/esportes/marrocos-x-haiti-modelo-matematico-aponta-possivel-resultado-do-jogo-veja/",
-      "time": "2026-06-24T19:00:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2406_Marrocos_Haiti.png?fit=300%2C191&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Escócia x Brasil: modelo matemático aponta possível resultado do jogo; veja",
-      "summary": "Cálculo estatístico da Fundação Getúlio Vargas projeta a seleção que tem mais chances de ganhar partida desta quarta-feira, 24",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/esportes/escocia-x-brasil-modelo-matematico-aponta-possivel-resultado-do-jogo-veja/",
-      "time": "2026-06-24T19:00:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2406_Escocia_Brasil.png?fit=300%2C191&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Ibovespa dá sinais de estabilização, mas recuperação depende dos 175 mil pontos, aponta panorama técnico do BTG",
-      "summary": "O Ibovespa começa a mostrar sinais de estabilização após a forte correção dos últimos meses, mas ainda precisa superar a região dos 175 mil pontos para confirmar uma retomada mais consistente, segundo relatório técnico d",
+      "title": "B3 (B3SA3) ajusta valor de JCP e acionistas receberão até R$ 0,22 por ação em julho",
+      "summary": "A B3 (B3SA3) informou nesta quarta-feira (24) um ajuste nos valores dos juros sobre capital próprio (JCP) aprovados para distribuição aos acionistas, referentes ao segundo trimestre de 2026 e também a saldos não utilizad",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ibovespa-da-sinais-de-estabilizacao-mas-recuperacao-depende-dos-175-mil-pontos-aponta-panorama-tecnico-do-btg/",
-      "time": "2026-06-24T19:44:09Z",
+      "url": "https://www.moneytimes.com.br/b3-b3sa3-ajusta-valor-de-jcp-e-acionistas-receberao-ate-r-022-por-acao-em-julho-vtra/",
+      "time": "2026-06-24T21:14:59Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/10/small-caps-carteira-recomendada-1-1-1-1-2.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2025/12/day-trade-4-1-1-2-1-1-2-1-1-1-2-1-2-2-2-1.jpg"
     },
     {
-      "title": "Passagens aéreas nacionais encarecem 11,2% em maio, mesmo com medidas para frear alta de preços",
-      "summary": "O preço médio da tarifa das passagens aéreas domésticas comercializadas no Brasil atingiu R$ 632,53 em maio de 2026, alta de 11,2% em relação à maio de 2025, quando a média de preços era de R$ 568,96, segundo a Agência N",
+      "title": "Jaques Wagner deixa liderança do governo no Senado após ser alvo de operação da PF",
+      "summary": "Alvo da operação Compliance Zero da Polícia Federal, o senador Jaques Wagner (PT-BA) informou nesta quarta-feira (24) em uma rede social que decidiu deixar a liderança do governo no Senado, em comum acordo com o presiden",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/passagens-aereas-nacionais-encarecem-112-em-maio-mesmo-com-medidas-para-frear-alta-de-precos-lmrs/",
-      "time": "2026-06-24T19:28:54Z",
+      "url": "https://www.moneytimes.com.br/jaques-wagner-deixa-lideranca-do-governo-no-senado-apos-ser-alvo-de-operacao-da-pf-gaep/",
+      "time": "2026-06-24T21:05:52Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2022/08/feriado-7-de-setembro-viagens-de-aviao-mais-caras.jpg"
+      "image": null
     },
     {
-      "title": "Vem aí? Por que o BTG vê novo ciclo de IPOs nos EUA após seca de emissões",
-      "summary": "O mercado de ofertas públicas iniciais (IPOs) dos Estados Unidos entrou nos estágios iniciais de um novo ciclo de emissões, impulsionado pela estabilização dos juros, melhora das condições financeiras e por uma fila cres",
+      "title": "BB Seguridade (BBSE3) pagará R$ 3,8 bilhões em dividendos",
+      "summary": "A BB Seguridade (BBSE3) aprovou o pagamento de R$ 3,8 bilhões em dividendos, mostra documento enviado ao mercado nesta quarta-feira (24). Ainda de acordo com o comunicado, o valor dos dividendos por ação, bem como as dat",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/vem-ai-por-que-o-btg-ve-novo-ciclo-de-ipos-nos-eua-apos-seca-de-emissoes/",
-      "time": "2026-06-24T19:22:48Z",
+      "url": "https://www.moneytimes.com.br/bb-seguridade-bbse3-pagara-r-38-bilhoes-em-dividendos/",
+      "time": "2026-06-24T20:59:38Z",
+      "cat": "fundos",
+      "tickers": [
+        "BBSE3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/02/bb-seguridade.jpg"
+    },
+    {
+      "title": "Cade recomenda condenação da B3 por práticas anticoncorrenciais em mercado de ativos",
+      "summary": "A Superintendência-Geral do Conselho Administrativo de Defesa Econômica (SG/Cade) recomendou a condenação da Bolsa de Valores de São Paulo (B3) por infração à ordem econômica em um processo que investigou práticas antico",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/cade-recomenda-condenacao-da-b3-por-praticas-anticoncorrenciais-em-mercado-de-ativos-pads/",
+      "time": "2026-06-24T20:59:32Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Klabin (KLBN11) aprova recompra de até 31,25 milhões de units e prevê cancelamento das ações",
+      "summary": "A Klabin (KLBN11) aprovou um novo programa de recompra de ações que prevê a aquisição de até 31,25 milhões de units de emissão própria, segundo fato relevante divulgado nesta quarta-feira (24). As ações recompradas serão",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/klabin-klbn11-aprova-recompra-de-ate-3125-milhoes-de-units-e-preve-cancelamento-das-acoes-vtra/",
+      "time": "2026-06-24T20:58:44Z",
+      "cat": "acoes",
+      "tickers": [
+        "KLBN11"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/10/klabin.jpg"
+    },
+    {
+      "title": "Micron Technology superou as altas expectativas de Wall Street para seu 3º trimestre fiscal",
+      "summary": "A gigante de chips de memória Micron Technology superou nesta quarta-feira (24), as altas expectativas de Wall Street para seu terceiro trimestre fiscal e para suas projeções. Mais cedo, o Money Times explicou como o res",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/micron-technology-superou-as-altas-expectativas-de-wall-street-para-seu-3o-trimestre-fiscal-pads/",
+      "time": "2026-06-24T20:54:41Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Oi (OIBR3): Bilionário Victor Adler corta participação pela metade",
+      "summary": "O investidor Victor Adler vendeu 125 mil ações preferencias da Oi (OIBR4), mostra documento enviado ao mercado nesta quarta-feira (24). Segundo o comunicado, Adler passou a deter 122 mil papéis após a alienação. Na págin",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/oi-oibr3-bilionario-victor-adler-corta-participacao-pela-metade-rnda/",
+      "time": "2026-06-24T20:49:15Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Fed: Teste de estresse confirma grandes bancos bem posicionados para enfrentar recessão",
+      "summary": "O teste de estresse anual do Federal Reserve (Fed), divulgado nesta quarta-feira, 24, confirmou que os 32 grandes bancos americanos testados estão bem posicionados para enfrentar uma recessão severa e são capazes de cont",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/fed-teste-de-estresse-confirma-grandes-bancos-bem-posicionados-para-enfrentar-recessao/",
+      "time": "2026-06-24T20:42:22Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/12/federal-reserve-fed-ata.jpg"
+    },
+    {
+      "title": "Ibovespa recua pressionado por Petrobras (PETR4); dólar avança a R$ 5,20",
+      "summary": "O Ibovespa (IBOV) recuou com a baixa do petróleo pressionando empresas de peso no índice, como a Petrobras (PETR3;PETR4). Nesta quarta-feira (24), o principal índice da bolsa brasileira terminou as negociações com baixa ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ibovespa-24-6-26-apsa/",
+      "time": "2026-06-24T20:31:58Z",
+      "cat": "economia",
+      "tickers": [
+        "PETR4",
+        "PETR3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/mercado-morning-ibovespa-wall-street-2.jpg"
+    },
+    {
+      "title": "Petróleo fecha em queda forte e recua pelo 3º dia consecutivo com retomada de fluxos em Ormuz",
+      "summary": "Os contratos futuros do petróleo fecharam em queda pelo terceiro dia consecutivo nesta quarta-feira, 24, diante de sinais de normalização do fluxo no Estreito de Ormuz e avanço nas negociações entre os Estados Unidos e o",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/petroleo-fecha-em-queda-forte-e-recua-pelo-3o-dia-consecutivo-com-retomada-de-fluxos-em-ormuz/",
+      "time": "2026-06-24T20:24:19Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/11/acoes-internacionais-eua-carteira-recomendada.jpg"
+      "image": null
     },
     {
-      "title": "Petrobras (PETR4), Prio (PRIO3) e outras petroleiras recuam nesta quarta (24) com Brent a US$ 73",
-      "summary": "O petróleo opera nos níveis mais baixos desde o início do conflito no Oriente Médio, com o Brent sendo negociado na faixa dos US$ 73 o barril. O movimento pressionou as petroleiras na bolsa brasileira, principalmente a P",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/petrobras-petr3petr4-prio-prio3-e-outras-petroleiras-recuam-no-ibovespa-com-brent-aos-us-73-apsa/",
-      "time": "2026-06-24T19:08:16Z",
+      "title": "SNFZ11: o que a nova agroindústria do milho significa para o fundo?",
+      "summary": "O milho de segunda safra deixou de ser um complemento da produção agrícola brasileira e tornou-se um dos principais vetores do agronegócio. Cultivado após a colheita da soja, o cereal hoje representa cerca de 75% da prod",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/snfz11-o-que-a-nova-agroindustria-do-milho-significa-para-o-fundo/",
+      "time": "2026-06-24T21:15:14Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Ibovespa cai com tombo de Petrobras (PETR4) e Vale (VALE3), mas segura os 170 mil pontos",
+      "summary": "O Ibovespa encerrou o pregão desta quarta-feira (24) em queda de 0,44%, aos 170.506,66 pontos, pressionado pelo forte recuo das commodities e pela realização de lucros em ações de peso do índice. O principal índice da Bo",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-24-junho-2026-petrobras-vale-mt/",
+      "time": "2026-06-24T21:15:04Z",
       "cat": "acoes",
       "tickers": [
         "PETR4",
-        "PRIO3"
+        "VALE3"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/08/petrobras-dividendos-2-1-1.jpg"
+      "image": null
     },
     {
-      "title": "Mercado imobiliário: alta dos histórica dos aluguéis comerciais coloca renda urbana no radar e alguns FIIs entregaram mais de 20% em 12 meses",
-      "summary": "Saiba como investir em imóveis do dia a dia sem precisar comprar uma propriedade física conheça os fundamentos dos FIIs de renda urbana",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/mercado-imobiliario-alta-dos-historica-dos-alugueis-comerciais-coloca-renda-urbana-no-radar-e-alguns-fiis-entregaram-mais-de-20-em-12-meses-lbrdis595/",
-      "time": "2026-06-24T19:00:00Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/05/vendas-do-varejo-brasil.jpg"
+      "title": "IRB (IRBR3): lucro dispara em abril e BTG vê espaço para reviravolta na ação",
+      "summary": "O IRB (IRBR3) reportou lucro líquido de R$ 58,8 milhões em abril, alta de 177% em relação ao mesmo mês do ano passado, segundo relatório do BTG Pactual. Apesar da queda de 19% ante março, o banco avalia que os números me",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/irb-irbr3-lucro-abril-btg-compra-mt/",
+      "time": "2026-06-24T20:35:08Z",
+      "cat": "acoes",
+      "tickers": [
+        "IRBR3"
+      ],
+      "image": null
     },
     {
-      "title": "Sanepar (SAPR11): Dividendos extraordinários vão para o ‘ralo’ com decisão de agência e ação cai; entenda",
-      "summary": "Quem comprou Sanepar (SAPR11) prevendo dividendos extraordinários, deu com os burros nágua. O Conselho Diretor da Agência Reguladora de Serviços Públicos Delegados do Paraná (Agepar) bateu o martelo e definiu que os R$ 4",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/sanepar-sapr11-dividendos-extraordinarios-vao-para-o-ralo-como-decisao-de-agencia-e-acao-cai-entenda/",
-      "time": "2026-06-24T18:52:09Z",
-      "cat": "fundos",
+      "title": "ETF de renda fixa: veja como o NLFA11 monta a carteira e filtra risco",
+      "summary": "ETF de renda fixa: veja como o NLFA11 monta a carteira e filtra riscoOs ETFs de renda fixa oferecem, em um único produto, características como diversificação, liquidez diária e eficiência tributária. Nesse contexto, o NL",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/nlfa11-renda-fixa-veja-como-monta-carteira-gss/",
+      "time": "2026-06-24T20:30:51Z",
+      "cat": "economia",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2022/08/sanepar-1.png"
+      "image": null
     },
     {
       "title": "Petróleo cai quase 4% e amplia perdas com avanço de acordo entre EUA e Irã",
@@ -199,131 +299,155 @@
       "image": null
     },
     {
-      "title": "Com yield de 1,33% ao mês, Fiagro divulga dividendo para junho",
-      "summary": "Os rendimentos do BTRA11 foram fixados em R$ 0,90 por cota para a competência de maio de 2026. O valor repete o patamar pago desde fevereiro deste ano, conforme comunicado do fundo. O crédito ocorrerá em 30 de junho de 2",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/rendimentos-do-btra11-maio-2026/",
-      "time": "2026-06-24T16:05:09Z",
+      "title": "Veja a escalação da Escócia para encarar o Brasil na Copa do Mundo",
+      "summary": "Os escoceses enfrentam a Seleção Brasileira nesta quarta-feira, 24, às 19h, pela última rodada do Grupo C",
+      "source": "Exame",
+      "url": "https://exame.com/esporte/veja-a-escalacao-da-escocia-para-encarar-o-brasil-na-copa-do-mundo/",
+      "time": "2026-06-24T17:59:35Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/AFP__20260619__B7PF2TX__v1__MidRes__FblWc2026Match30ScoMar.jpg"
+    },
+    {
+      "title": "Caso Epstein: Bill Gates diz que recebeu ameaças 'veladas' do criminoso",
+      "summary": "O bilionário cofundador da Microsoft afirmou que não foi chantageado e mantinha relação com Epstein para captar recursos direcionados à filantropia",
+      "source": "Exame",
+      "url": "https://exame.com/mundo/caso-epstein-bill-gates-diz-que-recebeu-ameacas-veladas-do-criminoso/",
+      "time": "2026-06-24T17:57:52Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2025/10/bill-gates-cop30.jpg"
+    },
+    {
+      "title": "Quem substitui Raphinha? Ancelotti define escalação do Brasil contra a Escócia",
+      "summary": "Lesinado, atacante fica fora do duelo desta quarta-feira; Seleção precisa apenas de um empate para avançar ao mata-mata",
+      "source": "Exame",
+      "url": "https://exame.com/esporte/quem-substitui-raphinha-ancelotti-define-escalacao-do-brasil-contra-a-escocia/",
+      "time": "2026-06-24T17:57:40Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/03/GettyImages-2268510561.jpg"
+    },
+    {
+      "title": "Endrick vai jogar hoje? Veja a escalação do Brasil para jogo de hoje na Copa do Mundo",
+      "summary": "Jogador disputa sua primeira Copa do Mundo e iniciará o jogo contra a Escócia no banco de reservas, sendo opção para Ancelotti na segunda etapa",
+      "source": "Exame",
+      "url": "https://exame.com/esporte/endrick-vai-jogar-hoje-veja-a-escalacao-do-brasil-para-jogo-de-hoje-na-copa-do-mundo/",
+      "time": "2026-06-24T17:56:25Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/endrick-jogo.avif"
+    },
+    {
+      "title": "Neymar vai jogar hoje? Veja a escalação do Brasil para jogo de hoje na Copa do Mundo",
+      "summary": "Jogador não iniciará jogando, mas será opção para Ancelotti para o decorrer do jogo contra a Escócia",
+      "source": "Exame",
+      "url": "https://exame.com/esporte/neymar-vai-jogar-hoje-veja-a-escalacao-do-brasil-para-jogo-de-hoje-na-copa-do-mundo/",
+      "time": "2026-06-24T17:56:01Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/Neymar-selecao-2.jpg"
+    },
+    {
+      "title": "Ancelotti mantém força máxima e define Brasil para duelo contra a Escócia; veja escalação",
+      "summary": "Seleção precisa apenas de um empate para garantir a classificação ao mata-mata da Copa do Mundo",
+      "source": "Exame",
+      "url": "https://exame.com/esporte/ancelotti-mantem-forca-maxima-e-define-brasil-para-duelo-contra-a-escocia-veja-escalacao/",
+      "time": "2026-06-24T17:55:36Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/AFP__20260613__2281453095__v1__HighRes__BrazilVMoroccoGroupCFifaWorldCup2026.jpg"
+    },
+    {
+      "title": "Ações em movimento no after-hours: MU, WDC, SNDK, QCOM, JPM",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-em-movimento-no-afterhours-mu-wdc-sndk-qcom-jpm-432SI-1982952",
+      "time": "2026-06-24T20:44:01Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Ações da eXoZymes sobem após concessão de US$ 2 mi do NIH",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-exozymes-sobem-apos-concessao-de-us-2-mi-do-nih-93CH-1982930",
+      "time": "2026-06-24T20:39:56Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Ações da Taysha Gene Therapies despencam com oferta de US$ 200 mi",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-taysha-gene-therapies-despencam-com-oferta-de-us-200-mi-93CH-1982909",
+      "time": "2026-06-24T20:32:01Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "E.U.A. - Ações fecharam o pregão inalteradas e o Índice Dow Jones Industrial Average avançou 0,36%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/eua--acoes-fecharam-o-pregao-inalteradas-e-o-indice-dow-jones-industrial-average-avancou-036-1982908",
+      "time": "2026-06-24T20:31:41Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Canadá - Ações fecharam o pregão em queda e o Índice S&P/TSX recuou 0,55%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/canada--acoes-fecharam-o-pregao-em-queda-e-o-indice-sptsx-recuou-055-1982905",
+      "time": "2026-06-24T20:30:51Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Brasil - Ações fecharam o pregão em queda e o Índice Bovespa recuou 0,44%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/brasil--acoes-fecharam-o-pregao-em-queda-e-o-indice-bovespa-recuou-044-1982904",
+      "time": "2026-06-24T20:30:23Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "JPMorgan e Goldman Sachs elevam dividendos após testes de estresse do Fed",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/jpmorgan-e-goldman-sachs-elevam-dividendos-apos-testes-de-estresse-do-fed-1982885",
+      "time": "2026-06-24T20:17:01Z",
       "cat": "fundos",
-      "tickers": [
-        "BTRA11"
-      ],
-      "image": null
-    },
-    {
-      "title": "Petróleo cai abaixo de US$ 75 e atinge mínima dos últimos meses; PETR4 recua",
-      "summary": "Petróleo cai abaixo de US$ 75 e atinge mínima dos últimos meses; PETR4 recuaA cotação do petróleo está operando em forte queda nesta quarta-feira (24) e atingindo o menor patamar desde o início dos conflitos entre Estado",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/petroleo-cai-petrobras-petr4-prio3-ibovespa-go/",
-      "time": "2026-06-24T15:10:00Z",
-      "cat": "internacional",
-      "tickers": [
-        "PETR4"
-      ],
-      "image": null
-    },
-    {
-      "title": "Samsung avalia recompra de ações; detalhes saem em até um mês",
-      "summary": "Samsung avalia recompra de ações; detalhes saem em até um mêsA Samsung Electronics informou que está avaliando um plano de recompra de ações, mas ainda não confirmou nem o cronograma nem o tamanho do programa. Em documen",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/samsung-avalia-recompra-de-acoes-detalhes-um-mes-go/",
-      "time": "2026-06-24T13:02:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "O primeiro escritório jurídico com IA regulamentada vence ação no tribunal",
-      "summary": "Caso no Reino Unido revela como a inteligência artificial começa a assumir tarefas jurídicas complexas — e o que ainda depende dos humanos",
-      "source": "Exame",
-      "url": "https://exame.com/inteligencia-artificial/o-primeiro-escritorio-juridico-com-ia-regulamentada-vence-acao-no-tribunal/",
-      "time": "2026-06-24T16:30:09Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/2151015327.jpg"
-    },
-    {
-      "title": "Economia ou Administração? Entenda as diferenças e possibilidades das duas graduações",
-      "summary": "Entenda as diferenças entre o olhar macro das Ciências Econômicas e a gestão prática das empresas em Administração",
-      "source": "Exame",
-      "url": "https://exame.com/carreira/economia-ou-administracao-entenda-as-diferencas-e-possibilidades-das-duas-graduacoes/",
-      "time": "2026-06-24T15:48:40Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2023/10/iStock-1183672865.jpg"
-    },
-    {
-      "title": "Lista de devedores contumazes é divulgada pela Receita Federal, entenda a política",
-      "summary": "A medida busca combater casos de inadimplência considerada estruturada e impede empresas de propor recuperação judicial",
-      "source": "Exame",
-      "url": "https://exame.com/brasil/lista-de-devedores-contumazes-e-divulgada-pela-receita-federal-entenda-a-politica/",
-      "time": "2026-06-24T15:48:03Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2020/10/receita-federal.jpg"
-    },
-    {
-      "title": "Preço do boi gordo entra em fase de transição após recorde das exportações",
-      "summary": "Alta dos embarques de carne bovina perde força no horizonte e mercado começa a antecipar mudança no ciclo do boi gordo, diz Rabobank",
-      "source": "Exame",
-      "url": "https://exame.com/agro/preco-do-boi-gordo-entra-em-fase-de-transicao-apos-recorde-das-exportacoes/",
-      "time": "2026-06-24T15:45:41Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/11/closeup-cultivated-meat-containers.jpg"
-    },
-    {
-      "title": "Ações da Microchip Technology caem após relatório cauteloso",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-microchip-technology-caem-apos-relatorio-cauteloso-93CH-1982822",
-      "time": "2026-06-24T19:34:40Z",
-      "cat": "analise",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "ASAI3: Por que as ações do Assaí estão em alta hoje?",
+      "title": "Taxas dos DIs voltam a cair ainda sob influência da ata do Copom",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/asai3-por-que-as-acoes-do-assai-estao-em-alta-hoje-1982821",
-      "time": "2026-06-24T19:33:23Z",
-      "cat": "internacional",
+      "url": "https://br.investing.com/news/economy-news/taxas-dos-dis-voltam-a-cair-ainda-sob-influencia-da-ata-do-copom-1982844",
+      "time": "2026-06-24T19:56:31Z",
+      "cat": "economia",
       "tickers": [],
-      "image": null
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPED85277_M.jpg"
     },
     {
-      "title": "Lingyi iTech, fornecedora da Apple, precifica IPO em Hong Kong em US$1,06 bi para atender demanda por IA",
+      "title": "Ryman Hospitality estuda venda de participação no Grand Ole Opry",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/lingyi-itech-fornecedora-da-apple-precifica-ipo-em-hong-kong-em-us106-bi-para-atender-demanda-por-ia-1982815",
-      "time": "2026-06-24T19:14:06Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Tesla em queda com RSI em sobrevenda: níveis ao vivo",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/tesla-testa-resistencia-critica-408420-niveis-ao-vivo-93CH-1979731",
-      "time": "2026-06-24T19:07:45Z",
+      "url": "https://br.investing.com/news/stock-market-news/ryman-hospitality-estuda-venda-de-participacao-no-grand-ole-opry-93CH-1982841",
+      "time": "2026-06-24T19:56:00Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "CYRE3: Por que as ações da Cyrela estão em alta hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/cyre3-por-que-as-acoes-da-cyrela-estao-em-alta-hoje-1982803",
-      "time": "2026-06-24T19:00:47Z",
-      "cat": "internacional",
-      "tickers": [
-        "CYRE3"
-      ],
-      "image": null
     }
   ],
-  "atualizado_em": "24/06/2026 19:45"
+  "atualizado_em": "24/06/2026 21:22"
 }
