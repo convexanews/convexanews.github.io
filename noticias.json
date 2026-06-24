@@ -1,154 +1,166 @@
 {
   "headline": {
-    "title": "Ibovespa Hoje Ao Vivo: Bolsa recua com bancos, VALE3 e PETR4",
-    "summary": "Bolsas dos EUA operam mistas, de olho nas ações de tecnologia e nos preços do petróleo",
+    "title": "Bitcoin hoje: cripto cai abaixo de US$ 60 mil, no menor nível do mês",
+    "summary": "Na avaliação da Bitfinex, uma queda sustentada abaixo da faixa de resistência de US$ 60 mil \"leva a uma gama negativa ainda maior e corre o risco de uma cascata em direção a US$ 54 mil ou US$ 56 mil\"",
     "source": "InfoMoney",
-    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-24062026/",
-    "time": "2026-06-24T17:34:39Z",
-    "cat": "acoes",
+    "url": "https://www.infomoney.com.br/mercados/bitcoin-hoje-cripto-cai-abaixo-de-us-60-mil-no-menor-nivel-do-mes/",
+    "time": "2026-06-24T19:34:42Z",
+    "cat": "cripto",
     "tickers": [
-      "VALE3",
-      "PETR4"
+      "BTC"
     ],
-    "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Ibovespa-ao-vivo-bolsa-de-valores-27.png?fit=300%2C186&amp;quality=70&amp;strip=all"
+    "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/bitcoin-queda-cotacao-cripto.png?fit=300%2C191&amp;quality=70&amp;strip=all"
   },
   "featured": [
     {
-      "title": "Dólar mais forte deve reduzir apetite por ações da América Latina, mas BofA vê diferenciais que ‘protegem’ o Brasil",
-      "summary": "O Bank of America (BofA) considera que os riscos de um dólar mais forte estão aumentando, diante da expectativa de novos aumentos de juros nos Estados Unidos — o banco projeta três altas de 0,25 ponto percentual pelo Fed",
+      "title": "Petrobras (PETR4), Prio (PRIO3) e outras petroleiras recuam nesta quarta (24) com Brent a US$ 73",
+      "summary": "O petróleo opera nos níveis mais baixos desde o início do conflito no Oriente Médio, com o Brent sendo negociado na faixa dos US$ 73 o barril. O movimento pressionou as petroleiras na bolsa brasileira, principalmente a P",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/dolar-mais-forte-deve-reduzir-apetite-por-acoes-da-america-latina-mas-bofa-ve-diferenciais-que-protegem-o-brasil/",
-      "time": "2026-06-24T17:41:33Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/11/dolar-estrangeiros-1.jpg"
+      "url": "https://www.moneytimes.com.br/petrobras-petr3petr4-prio-prio3-e-outras-petroleiras-recuam-no-ibovespa-com-brent-aos-us-73-apsa/",
+      "time": "2026-06-24T19:08:16Z",
+      "cat": "acoes",
+      "tickers": [
+        "PETR4",
+        "PRIO3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/08/petrobras-dividendos-2-1-1.jpg"
     },
     {
-      "title": "Messi e Cristiano Ronaldo disputam recorde histórico na Copa do Mundo",
-      "summary": "20 anos após a estreia em Mundiais, argentino e português voltam a rivalizar na Copa; entenda",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/esportes/messi-e-cristiano-ronaldo-recorde-copa-do-mundo/",
-      "time": "2026-06-24T17:35:03Z",
+      "title": "Ibovespa dá sinais de estabilização, mas recuperação depende dos 175 mil pontos, aponta panorama técnico do BTG",
+      "summary": "O Ibovespa começa a mostrar sinais de estabilização após a forte correção dos últimos meses, mas ainda precisa superar a região dos 175 mil pontos para confirmar uma retomada mais consistente, segundo relatório técnico d",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ibovespa-da-sinais-de-estabilizacao-mas-recuperacao-depende-dos-175-mil-pontos-aponta-panorama-tecnico-do-btg/",
+      "time": "2026-06-24T19:44:09Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Messi-e-Cristiano-Ronaldo.jpg?fit=300%2C199&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2025/10/small-caps-carteira-recomendada-1-1-1-1-2.jpg"
     }
   ],
   "all": [
     {
-      "title": "Messi e Cristiano Ronaldo disputam recorde histórico na Copa do Mundo",
-      "summary": "20 anos após a estreia em Mundiais, argentino e português voltam a rivalizar na Copa; entenda",
+      "title": "Bitcoin hoje: cripto cai abaixo de US$ 60 mil, no menor nível do mês",
+      "summary": "Na avaliação da Bitfinex, uma queda sustentada abaixo da faixa de resistência de US$ 60 mil \"leva a uma gama negativa ainda maior e corre o risco de uma cascata em direção a US$ 54 mil ou US$ 56 mil\"",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/esportes/messi-e-cristiano-ronaldo-recorde-copa-do-mundo/",
-      "time": "2026-06-24T17:35:03Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Messi-e-Cristiano-Ronaldo.jpg?fit=300%2C199&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Ibovespa Hoje Ao Vivo: Bolsa recua com bancos, VALE3 e PETR4",
-      "summary": "Bolsas dos EUA operam mistas, de olho nas ações de tecnologia e nos preços do petróleo",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-24062026/",
-      "time": "2026-06-24T17:34:39Z",
-      "cat": "acoes",
+      "url": "https://www.infomoney.com.br/mercados/bitcoin-hoje-cripto-cai-abaixo-de-us-60-mil-no-menor-nivel-do-mes/",
+      "time": "2026-06-24T19:34:42Z",
+      "cat": "cripto",
       "tickers": [
-        "VALE3",
-        "PETR4"
+        "BTC"
       ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Ibovespa-ao-vivo-bolsa-de-valores-27.png?fit=300%2C186&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/bitcoin-queda-cotacao-cripto.png?fit=300%2C191&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Atraso da Hypera no mercado de canetas emagrecedoras pode prejudicar a rentabilidade?",
-      "summary": "Apesar do atraso na entrada no segmento de medicamentos à base de GLP-1 (Peptídeo-1 semelhante ao glucagon), a companhia busca viabilizar sua operação focando em eficiência operacional",
+      "title": "Petróleo fecha em queda pelo terceiro dia com fluxo em Ormuz e negociações com Irã",
+      "summary": "Petróleo tem queda impulsionada por sinais de normalização marítima e declarações de Trump sobre a isenção de pedágios no estreito",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/atraso-da-hypera-no-mercado-de-canetas-emagrecedoras-pode-prejudicar-a-rentabilidade/",
-      "time": "2026-06-24T17:30:04Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/haberdoedas-TzKc7FGaL7Y-unsplash-1.jpg?fit=300%2C225&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Imóvel para anos, imóvel para meses: a tese da TRX para lucrar até 38% no curto prazo",
-      "summary": "O fundo TRXF11 vem adotando uma estratégia que divide os ativos entre posições consideradas estratégicas e táticas",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/onde-investir/imovel-para-anos-imovel-para-meses-a-tese-da-trx-para-lucrar-ate-38-no-curto-prazo/",
-      "time": "2026-06-24T17:21:00Z",
-      "cat": "acoes",
-      "tickers": [
-        "TRXF11"
-      ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/12/mercado_fii.jpg?fit=300%2C188&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Bolsas da Europa fecham majoritariamente em alta de olho no Oriente Médio",
-      "summary": "Os índices europeus fecharam a sessão desta quarta-feira (24) em alta ainda avaliando as negociações entre Estados Unidos e Irã. O setor de defesa europeu, no entanto, registrou perdas. O índice pan-europeu Stoxx 600 enc",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/europa-24-6-26-apsa/",
-      "time": "2026-06-24T17:52:40Z",
+      "url": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-24062026/",
+      "time": "2026-06-24T19:24:28Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2021/09/europa.jpg"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/2026-01-16T221448Z_1_LYNXMPEM0F18J_RTROPTP_4_USA-OIL-PRODUCTION.jpg?fit=300%2C196&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Dólar mais forte deve reduzir apetite por ações da América Latina, mas BofA vê diferenciais que ‘protegem’ o Brasil",
-      "summary": "O Bank of America (BofA) considera que os riscos de um dólar mais forte estão aumentando, diante da expectativa de novos aumentos de juros nos Estados Unidos — o banco projeta três altas de 0,25 ponto percentual pelo Fed",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/dolar-mais-forte-deve-reduzir-apetite-por-acoes-da-america-latina-mas-bofa-ve-diferenciais-que-protegem-o-brasil/",
-      "time": "2026-06-24T17:41:33Z",
+      "title": "Taxas do Tesouro desabam até 44 pontos-base seguindo petróleo, apesar do dólar alto",
+      "summary": "Petróleo recua com autorização americana para importar petróleo iraniano por 60 dias, aliviando as pressões inflacionárias e reprecificando o risco global de juros",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/onde-investir/taxas-do-tesouro-desabam-ate-44-pontos-base-seguindo-petroleo-apesar-do-dolar-alto/",
+      "time": "2026-06-24T19:01:49Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/11/dolar-estrangeiros-1.jpg"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-16T121452Z_1_LYNXMPEM3F0TY_RTROPTP_4_IRAN-CRISIS-CENTCOM.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Professora alega ter inventado o Pix — e agora exige indenização de pelo menos R$ 1 milhão do Banco Central por suposta violação de direito autoral",
-      "summary": "Anette Vernaschi Toppan é professora. Ela afirma ter registrado em 2014, no sistema da Biblioteca Nacional, o projeto Tá Pago. Trata-se de uma metodologia que permitiria a transferência eletrônica e instantânea como form",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/professora-alega-ter-inventado-pix-exige-indenizacao-de-pelo-menos-um-milhao-banco-central-rsgp/",
-      "time": "2026-06-24T17:09:35Z",
-      "cat": "economia",
+      "title": "Marrocos x Haiti: modelo matemático aponta possível resultado do jogo; veja",
+      "summary": "Cálculo estatístico da Fundação Getúlio Vargas projeta a seleção que tem mais chances de ganhar partida desta quarta-feira, 24",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/esportes/marrocos-x-haiti-modelo-matematico-aponta-possivel-resultado-do-jogo-veja/",
+      "time": "2026-06-24T19:00:00Z",
+      "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/02/nova-ferramenta-rastreia-transacoes-no-pix-divulgacao.jpg"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2406_Marrocos_Haiti.png?fit=300%2C191&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Farmácias, supermercados e outros estabelecimentos do ‘cotidiano’ podem ser aliados de sua carteira de investimentos; saiba como",
-      "summary": "Fundos imobiliários (FIIs) de renda urbana priorizam investir em estabelecimentos de menor porte, com alta previsibilidade de receita e localização estratégica; conheça classe de ativos",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/fii-farmacias-supermercados-e-outros-estabelecimentos-podem-ser-aliados-de-seus-investimentos-lbrdaz246/",
-      "time": "2026-06-24T17:00:00Z",
-      "cat": "analise",
+      "title": "Escócia x Brasil: modelo matemático aponta possível resultado do jogo; veja",
+      "summary": "Cálculo estatístico da Fundação Getúlio Vargas projeta a seleção que tem mais chances de ganhar partida desta quarta-feira, 24",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/esportes/escocia-x-brasil-modelo-matematico-aponta-possivel-resultado-do-jogo-veja/",
+      "time": "2026-06-24T19:00:00Z",
+      "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/06/image-36.png"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2406_Escocia_Brasil.png?fit=300%2C191&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Petróleo pode cair abaixo do pré-guerra? Especialista avalia cenário para petrolíferas",
-      "summary": "O preço do petróleo deve continuar sendo o principal fator a influenciar o valor das empresas do setor, segundo Hugo Otani, sócio da Perspective. Em um cenário de cotações mais baixas, a expectativa é de maior volatilida",
+      "title": "Ibovespa dá sinais de estabilização, mas recuperação depende dos 175 mil pontos, aponta panorama técnico do BTG",
+      "summary": "O Ibovespa começa a mostrar sinais de estabilização após a forte correção dos últimos meses, mas ainda precisa superar a região dos 175 mil pontos para confirmar uma retomada mais consistente, segundo relatório técnico d",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/petroleo-abaixo-do-pre-guerra-especialista-explica-cenario-para-a-petrobras-petr4-e-a-inflacao-apos-tregua-ceci/",
-      "time": "2026-06-24T16:53:55Z",
+      "url": "https://www.moneytimes.com.br/ibovespa-da-sinais-de-estabilizacao-mas-recuperacao-depende-dos-175-mil-pontos-aponta-panorama-tecnico-do-btg/",
+      "time": "2026-06-24T19:44:09Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/10/small-caps-carteira-recomendada-1-1-1-1-2.jpg"
+    },
+    {
+      "title": "Passagens aéreas nacionais encarecem 11,2% em maio, mesmo com medidas para frear alta de preços",
+      "summary": "O preço médio da tarifa das passagens aéreas domésticas comercializadas no Brasil atingiu R$ 632,53 em maio de 2026, alta de 11,2% em relação à maio de 2025, quando a média de preços era de R$ 568,96, segundo a Agência N",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/passagens-aereas-nacionais-encarecem-112-em-maio-mesmo-com-medidas-para-frear-alta-de-precos-lmrs/",
+      "time": "2026-06-24T19:28:54Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2022/08/feriado-7-de-setembro-viagens-de-aviao-mais-caras.jpg"
+    },
+    {
+      "title": "Vem aí? Por que o BTG vê novo ciclo de IPOs nos EUA após seca de emissões",
+      "summary": "O mercado de ofertas públicas iniciais (IPOs) dos Estados Unidos entrou nos estágios iniciais de um novo ciclo de emissões, impulsionado pela estabilização dos juros, melhora das condições financeiras e por uma fila cres",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/vem-ai-por-que-o-btg-ve-novo-ciclo-de-ipos-nos-eua-apos-seca-de-emissoes/",
+      "time": "2026-06-24T19:22:48Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2024/01/petroleo-morning-times-investidores.webp"
+      "image": "https://www.moneytimes.com.br/uploads/2025/11/acoes-internacionais-eua-carteira-recomendada.jpg"
     },
     {
-      "title": "Gilmar Mendes defende condenação de Zambelli em novo processo de extradição e envia garantias à Itália",
-      "summary": "O ministro do Supremo Tribunal Federal (STF) Gilmar Mendes encaminhou à Justiça italiana informações para subsidiar um novo pedido de extradição da ex-deputada Carla Zambelli (PL-SP), que deve ser analisado na próxima se",
+      "title": "Petrobras (PETR4), Prio (PRIO3) e outras petroleiras recuam nesta quarta (24) com Brent a US$ 73",
+      "summary": "O petróleo opera nos níveis mais baixos desde o início do conflito no Oriente Médio, com o Brent sendo negociado na faixa dos US$ 73 o barril. O movimento pressionou as petroleiras na bolsa brasileira, principalmente a P",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/gilmar-defende-condenacao-de-zambelli-em-novo-processo-de-extradicao-e-envia-garantias-a-italia-gaep/",
-      "time": "2026-06-24T16:38:37Z",
+      "url": "https://www.moneytimes.com.br/petrobras-petr3petr4-prio-prio3-e-outras-petroleiras-recuam-no-ibovespa-com-brent-aos-us-73-apsa/",
+      "time": "2026-06-24T19:08:16Z",
       "cat": "acoes",
-      "tickers": [],
-      "image": null
+      "tickers": [
+        "PETR4",
+        "PRIO3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/08/petrobras-dividendos-2-1-1.jpg"
     },
     {
-      "title": "Mini índice tenta reagir após sequência de quedas, mas BTG vê resistência importante em 176 mil pontos",
-      "summary": "O mini índice (WINQ26) interrompeu temporariamente a sequência de perdas e fechou o último pregão com alta de 0,76%, em um movimento que sinaliza uma tentativa de recuperação técnica, segundo relatório do BTG Pactual. O ",
+      "title": "Mercado imobiliário: alta dos histórica dos aluguéis comerciais coloca renda urbana no radar e alguns FIIs entregaram mais de 20% em 12 meses",
+      "summary": "Saiba como investir em imóveis do dia a dia sem precisar comprar uma propriedade física conheça os fundamentos dos FIIs de renda urbana",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/mini-indice-tenta-reagir-apos-sequencia-de-quedas-mas-btg-ve-resistencia-importante-em-176-mil-pontos-jvka/",
-      "time": "2026-06-24T16:36:38Z",
-      "cat": "acoes",
+      "url": "https://www.moneytimes.com.br/mercado-imobiliario-alta-dos-historica-dos-alugueis-comerciais-coloca-renda-urbana-no-radar-e-alguns-fiis-entregaram-mais-de-20-em-12-meses-lbrdis595/",
+      "time": "2026-06-24T19:00:00Z",
+      "cat": "fundos",
       "tickers": [],
-      "image": null
+      "image": "https://www.moneytimes.com.br/uploads/2025/05/vendas-do-varejo-brasil.jpg"
+    },
+    {
+      "title": "Sanepar (SAPR11): Dividendos extraordinários vão para o ‘ralo’ com decisão de agência e ação cai; entenda",
+      "summary": "Quem comprou Sanepar (SAPR11) prevendo dividendos extraordinários, deu com os burros nágua. O Conselho Diretor da Agência Reguladora de Serviços Públicos Delegados do Paraná (Agepar) bateu o martelo e definiu que os R$ 4",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/sanepar-sapr11-dividendos-extraordinarios-vao-para-o-ralo-como-decisao-de-agencia-e-acao-cai-entenda/",
+      "time": "2026-06-24T18:52:09Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2022/08/sanepar-1.png"
+    },
+    {
+      "title": "Petróleo cai quase 4% e amplia perdas com avanço de acordo entre EUA e Irã",
+      "summary": "Preços do petróleo caíram quase 4% com sinais de alívio das tensões no Oriente Médio e retomada do fluxo em Ormuz - Foto: iStockOs contratos futuros do petróleo fecharam em queda pelo terceiro dia consecutivo nesta quart",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/petroleo-cai-acordo-eua-ira-estreito-ormuz-mtae/",
+      "time": "2026-06-24T19:27:45Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://files.sunoresearch.com.br/n/uploads/2023/12/crise-petroleo-empresa-crescimento-preco.jpg"
     },
     {
       "title": "Bancos na Bolsa: Citi corta BB (BBAS3) e Bradesco (BBDC4), mas vê 2 favoritos para atravessar a pressão",
@@ -221,85 +233,97 @@
       "image": null
     },
     {
-      "title": "FIIs pagam dividendos nesta quarta-feira (24); veja quais",
-      "summary": "Nesta quarta-feira, o fundo imobiliário BROF11 pagará R$ 0,56 por cota em dividendos aos cotistas. O pagamento de proventos pelos fundos imobiliários, como farão hoje os 1 FIIs, segue sendo um atrativo relevante para o i",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/brof11-paga-dividendos-hoje-maio/",
-      "time": "2026-06-24T12:45:09Z",
-      "cat": "fundos",
+      "title": "O primeiro escritório jurídico com IA regulamentada vence ação no tribunal",
+      "summary": "Caso no Reino Unido revela como a inteligência artificial começa a assumir tarefas jurídicas complexas — e o que ainda depende dos humanos",
+      "source": "Exame",
+      "url": "https://exame.com/inteligencia-artificial/o-primeiro-escritorio-juridico-com-ia-regulamentada-vence-acao-no-tribunal/",
+      "time": "2026-06-24T16:30:09Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/2151015327.jpg"
+    },
+    {
+      "title": "Economia ou Administração? Entenda as diferenças e possibilidades das duas graduações",
+      "summary": "Entenda as diferenças entre o olhar macro das Ciências Econômicas e a gestão prática das empresas em Administração",
+      "source": "Exame",
+      "url": "https://exame.com/carreira/economia-ou-administracao-entenda-as-diferencas-e-possibilidades-das-duas-graduacoes/",
+      "time": "2026-06-24T15:48:40Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2023/10/iStock-1183672865.jpg"
+    },
+    {
+      "title": "Lista de devedores contumazes é divulgada pela Receita Federal, entenda a política",
+      "summary": "A medida busca combater casos de inadimplência considerada estruturada e impede empresas de propor recuperação judicial",
+      "source": "Exame",
+      "url": "https://exame.com/brasil/lista-de-devedores-contumazes-e-divulgada-pela-receita-federal-entenda-a-politica/",
+      "time": "2026-06-24T15:48:03Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2020/10/receita-federal.jpg"
+    },
+    {
+      "title": "Preço do boi gordo entra em fase de transição após recorde das exportações",
+      "summary": "Alta dos embarques de carne bovina perde força no horizonte e mercado começa a antecipar mudança no ciclo do boi gordo, diz Rabobank",
+      "source": "Exame",
+      "url": "https://exame.com/agro/preco-do-boi-gordo-entra-em-fase-de-transicao-apos-recorde-das-exportacoes/",
+      "time": "2026-06-24T15:45:41Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2025/11/closeup-cultivated-meat-containers.jpg"
+    },
+    {
+      "title": "Ações da Microchip Technology caem após relatório cauteloso",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-microchip-technology-caem-apos-relatorio-cauteloso-93CH-1982822",
+      "time": "2026-06-24T19:34:40Z",
+      "cat": "analise",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "ASAI3: Por que as ações do Assaí estão em alta hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/asai3-por-que-as-acoes-do-assai-estao-em-alta-hoje-1982821",
+      "time": "2026-06-24T19:33:23Z",
+      "cat": "internacional",
       "tickers": [],
       "image": null
     },
     {
-      "title": "Negociações técnicas entre EUA e Irã ocorrerão na próxima semana, diz Rubio",
-      "summary": "O secretário de Estado americano disse que o ajuste fino do acordo de paz entre os países será feito na Suíça nos dias 29 ou 30",
-      "source": "Exame",
-      "url": "https://exame.com/mundo/negociacoes-tecnicas-entre-eua-e-ira-ocorrerao-na-proxima-semana-diz-rubio/",
-      "time": "2026-06-24T14:46:27Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/05/AFP__20260520__B3G43NQ__v1__HighRes__UsCubaTensions.jpg"
-    },
-    {
-      "title": "Companhias aéreas estão criando cervejas e vinhos para altas altitudes",
-      "summary": "Pressão baixa, ar seco e paladares entorpecidos: o desafio de fazer uma bebida saborosa dentro de um avião levou companhias a reformular receitas do zero",
-      "source": "Exame",
-      "url": "https://exame.com/casual/companhias-aereas-estao-criando-cervejas-e-vinhos-para-altas-altitudes/",
-      "time": "2026-06-24T14:23:46Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/sky-brew.jpg"
-    },
-    {
-      "title": "Artesp quer mudar fiscalização de rodovias para conter dívidas bilionárias em concessões",
-      "summary": "Em entrevista à EXAME, André Isper, diretor-presidente da agência, afirma que a combinação entre contratos desatualizados e execução fora do prazo leva a multas com parâmetros que já não refletem a realidade",
-      "source": "Exame",
-      "url": "https://exame.com/brasil/infraestrutura/artesp-quer-mudar-fiscalizacao-de-rodovias-para-conter-dividas-bilionarias-em-concessoes/",
-      "time": "2026-06-24T14:18:41Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/02/Rota-Mogiana.jpg"
-    },
-    {
-      "title": "Como o agro virou moeda de troca nas negociações entre Trump e o Irã",
-      "summary": "Proposta de uso de recursos iranianos congelados para compra de grãos dos EUA avança em meio a negociações e pressão no agro dos EUA",
-      "source": "Exame",
-      "url": "https://exame.com/agro/como-o-agro-virou-moeda-de-troca-nas-negociacoes-entre-trump-e-o-ira/",
-      "time": "2026-06-24T14:07:15Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/Trump_IraAcordo.jpg"
-    },
-    {
-      "title": "Ações europeias ficam estáveis em meio à incerteza em torno do Irã; Rheinmetall cai",
+      "title": "Lingyi iTech, fornecedora da Apple, precifica IPO em Hong Kong em US$1,06 bi para atender demanda por IA",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-europeias-ficam-estaveis-em-meio-a-incerteza-em-torno-do-ira-rheinmetall-cai-1982741",
-      "time": "2026-06-24T17:14:27Z",
+      "url": "https://br.investing.com/news/stock-market-news/lingyi-itech-fornecedora-da-apple-precifica-ipo-em-hong-kong-em-us106-bi-para-atender-demanda-por-ia-1982815",
+      "time": "2026-06-24T19:14:06Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5N193_1200_L.jpg"
+      "image": null
     },
     {
-      "title": "Por que as ações da Silence Therapeutics estão disparando hoje?",
+      "title": "Tesla em queda com RSI em sobrevenda: níveis ao vivo",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-silence-therapeutics-estao-disparando-hoje-93CH-1982731",
-      "time": "2026-06-24T16:56:51Z",
+      "url": "https://br.investing.com/news/stock-market-news/tesla-testa-resistencia-critica-408420-niveis-ao-vivo-93CH-1979731",
+      "time": "2026-06-24T19:07:45Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Por que as ações da Corning estão disparando hoje?",
+      "title": "CYRE3: Por que as ações da Cyrela estão em alta hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-corning-estao-disparando-hoje-93CH-1982713",
-      "time": "2026-06-24T16:23:37Z",
+      "url": "https://br.investing.com/news/stock-market-news/cyre3-por-que-as-acoes-da-cyrela-estao-em-alta-hoje-1982803",
+      "time": "2026-06-24T19:00:47Z",
       "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+      "tickers": [
+        "CYRE3"
+      ],
+      "image": null
     }
   ],
-  "atualizado_em": "24/06/2026 17:55"
+  "atualizado_em": "24/06/2026 19:45"
 }
