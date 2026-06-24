@@ -1,27 +1,15 @@
 {
   "headline": {
-    "title": "Bradesco (BBDC4) anuncia pagamento de R$ 3,5 bilhões em juros sobre capital próprio",
-    "summary": "O valor corresponde a R$ 0,315359035 por ação ordinária e R$ 0,346894939 por ação preferencial",
+    "title": "Banco Central divulga calendário das reuniões do Copom para 2027",
+    "summary": "Reuniões do comitê ocorrerão entre janeiro e dezembro, e comunicados continuarão sendo divulgados no segundo dia de encontro",
     "source": "InfoMoney",
-    "url": "https://www.infomoney.com.br/mercados/bradesco-bbdc4-anuncia-pagamento-de-r-35-bilhoes-em-juros-sobre-capital-proprio/",
-    "time": "2026-06-23T21:18:40Z",
+    "url": "https://www.infomoney.com.br/economia/banco-central-divulga-calendario-das-reunioes-do-copom-para-2027/",
+    "time": "2026-06-23T22:23:00Z",
     "cat": "economia",
-    "tickers": [
-      "BBDC4"
-    ],
-    "image": "https://www.infomoney.com.br/wp-content/uploads/2021/08/bradesco-BBDC3-BBDC4-e1738919720743.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+    "tickers": [],
+    "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-25T111552Z_1_LYNXNPEL8O0JV_RTROPTP_4_BRAZIL-ECONOMY-RATES.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
   },
   "featured": [
-    {
-      "title": "Banco Central divulga calendário das reuniões do Copom para 2027",
-      "summary": "Reuniões do comitê ocorrerão entre janeiro e dezembro, e comunicados continuarão sendo divulgados no segundo dia de encontro",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/economia/banco-central-divulga-calendario-das-reunioes-do-copom-para-2027/",
-      "time": "2026-06-23T22:23:00Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-25T111552Z_1_LYNXNPEL8O0JV_RTROPTP_4_BRAZIL-ECONOMY-RATES.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
     {
       "title": "Ibovespa sobe mesmo com tombo das techs em NY e volta aos 171 mil pontos",
       "summary": "O Ibovespa encerrou o pregão desta terça-feira (23) em alta de 0,52%, aos 171.258,87 pontos, contrariando o mau humor das bolsas americanas. O principal índice da Bolsa brasileira oscilou entre a mínima de 168.495 pontos",
@@ -31,9 +19,51 @@
       "cat": "acoes",
       "tickers": [],
       "image": null
+    },
+    {
+      "title": "MBRF3: Por que as ações de MBRF dispararam nesta terça-feira?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/mbrf3-por-que-as-acoes-de-mbrf-dispararam-nesta-tercafeira-1981637",
+      "time": "2026-06-24T03:18:41Z",
+      "cat": "internacional",
+      "tickers": [
+        "MBRF3"
+      ],
+      "image": null
     }
   ],
   "all": [
+    {
+      "title": "SpaceX capta US$ 25 bilhões com oferta inaugural de títulos",
+      "summary": "A liquidação financeira da oferta está prevista para 26 de junho de 2026, sujeita às condições de fechamento habituais",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/business/spacex-capta-us-25-bilhoes-com-oferta-inaugural-de-titulos/",
+      "time": "2026-06-24T01:02:42Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-12T144303Z_185584248_RC2DSLAD0DRH_RTRMADP_3_SPACEX-IPO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Lotofácil hoje, concurso 3717: Confira o resultado sorteado nesta segunda (22)",
+      "summary": "O prêmio estimado para este concurso era de R$ 2 milhões",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3717-confira-o-resultado-sorteado-nesta-segunda-22-2/",
+      "time": "2026-06-24T00:20:30Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/10/loteria_lotofacil_Marcelo-Camargo-Agencia-Brasil-e1751562724210.webp?fit=300%2C191&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Mega-Sena hoje, concurso 3022: confira o resultado sorteado nesta terça (23)",
+      "summary": "O prêmio principal para este concurso é de R$ 2.813.548,14",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/consumo/mega-sena-hoje-concurso-3022-confira-o-resultado-sorteado-nesta-terca-23/",
+      "time": "2026-06-24T00:16:22Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/20230622_182658.jpg?fit=300%2C179&amp;quality=70&amp;strip=all"
+    },
     {
       "title": "Colômbia x RD Congo: modelo matemático aponta possível resultado do jogo; veja",
       "summary": "Cálculo estatístico da Fundação Getúlio Vargas projeta a seleção que tem mais chances de ganhar partida desta terça-feira, 23",
@@ -63,28 +93,6 @@
       "cat": "economia",
       "tickers": [],
       "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-25T111552Z_1_LYNXNPEL8O0JV_RTROPTP_4_BRAZIL-ECONOMY-RATES.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "“Lenda” e “desencantou”: jornais destacam ‘o retorno’ de Cristiano Ronaldo na Copa",
-      "summary": "O atacante de 41 anos foi exaltado por jornais de diferentes países, que destacaram tanto a resposta do craque às críticas quanto os novos recordes alcançados",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/esportes/lenda-e-desencantou-jornais-destacam-o-retorno-de-cristiano-ronaldo-na-copa/",
-      "time": "2026-06-23T21:39:11Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-23T201441Z_1684057156_UP1EM6N1HFQHY_RTRMADP_3_SOCCER-WORLDCUP-POR-UZB.jpg?fit=300%2C207&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Bradesco (BBDC4) anuncia pagamento de R$ 3,5 bilhões em juros sobre capital próprio",
-      "summary": "O valor corresponde a R$ 0,315359035 por ação ordinária e R$ 0,346894939 por ação preferencial",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/bradesco-bbdc4-anuncia-pagamento-de-r-35-bilhoes-em-juros-sobre-capital-proprio/",
-      "time": "2026-06-23T21:18:40Z",
-      "cat": "economia",
-      "tickers": [
-        "BBDC4"
-      ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2021/08/bradesco-BBDC3-BBDC4-e1738919720743.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
     },
     {
       "title": "Petrobras (PETR4) resgata US$ 681 milhões em títulos globais com vencimento em 2027",
@@ -154,7 +162,7 @@
     },
     {
       "title": "Fictor apresenta plano de recuperação judicial e deságio para credores pode chegar a até 95%",
-      "summary": "A Fictor protocolou seu plano de recuperação judicial nesta terça-feira (23) propondo dois caminhos para os credores: a primeira prevê a adesão a um fundo que concentrará ativos e direitos econômicos do conglomerado e a ",
+      "summary": "A Fictor protocolou seu plano de recuperação judicial nesta terça-feira (23) propondo duas alternativas para os credores. Em vez de estabelecer uma única forma de pagamento, a companhia oferece caminhos distintos: optar ",
       "source": "Money Times",
       "url": "https://www.moneytimes.com.br/fictor-apresenta-plano-de-recuperacao-judicial-e-desagio-pode-chegar-a-ate-95-vtra/",
       "time": "2026-06-23T22:14:30Z",
@@ -217,105 +225,77 @@
       "image": null
     },
     {
-      "title": "Quais marcas de moda mais geram resultado para o lojista? Pesquisa inédita ouviu 711 deles",
-      "summary": "Levantamento com 711 varejistas apontou Morena Rosa e Reserva como as melhores marcas para vender no canal multimarca e revelou quais grifes são consideradas insubstituíveis nas lojas",
+      "title": "Neymar pode começar no banco pela 1ª vez em Copas contra a Escócia",
+      "summary": "Recuperado de lesão na panturrilha, Ney fica à disposição para o duelo contra a Escócia, mas deve viver momento inédito em sua trajetória pela Seleção",
       "source": "Exame",
-      "url": "https://exame.com/negocios/quais-marcas-de-moda-mais-geram-resultado-para-o-lojista-pesquisa-inedita-ouviu-711-deles/",
-      "time": "2026-06-23T20:00:18Z",
+      "url": "https://exame.com/esporte/neymar-pode-comecar-no-banco-pela-1a-vez-em-copas-contra-a-escocia/",
+      "time": "2026-06-23T21:21:54Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/09/MG_5416.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/AFP__20260618__B7JQ6E9__v1__MidRes__FblWc2026TrainingBra.jpg"
     },
     {
-      "title": "Sob calor recorde e ceticismo, semana do clima em Londres reúne 75 mil e cobra ação",
-      "summary": "Maior edição da London Climate Action Week desloca o debate do convencimento para a pressão por resultado concreto",
+      "title": "Brasil x Escócia: a conexão que ajudou a criar o futebol brasileiro",
+      "summary": "Charles Miller herdou do pai escocês parte da história que ajudou a levar o futebol ao Brasil",
       "source": "Exame",
-      "url": "https://exame.com/esg/sob-calor-recorde-e-ceticismo-semana-do-clima-em-londres-reune-75-mil-e-cobra-acao/",
-      "time": "2026-06-23T19:30:59Z",
+      "url": "https://exame.com/esporte/brasil-x-escocia-a-conexao-que-ajudou-a-criar-o-futebol-brasileiro/",
+      "time": "2026-06-23T21:19:59Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/image1170x530cropped.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/Charles-Miller-copa-do-mundo.png"
     },
     {
-      "title": "CEO da Petrobras defende rediscutir regulação em Campos para melhorar retornos",
+      "title": "MBRF3: Por que as ações de MBRF dispararam nesta terça-feira?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ceo-da-petrobras-defende-rediscutir-regulacao-em-campos-para-melhorar-retornos-1981656",
-      "time": "2026-06-23T22:28:32Z",
+      "url": "https://br.investing.com/news/stock-market-news/mbrf3-por-que-as-acoes-de-mbrf-dispararam-nesta-tercafeira-1981637",
+      "time": "2026-06-24T03:18:41Z",
       "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5M1LY_1200_L.jpg"
-    },
-    {
-      "title": "Lockheed Martin recebe modificação de contrato de US$ 8,4 bilhões para mísseis",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/lockheed-martin-recebe-modificacao-de-contrato-de-us-84-bilhoes-para-misseis-93CH-1981650",
-      "time": "2026-06-23T22:12:13Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Ibovespa e dólar hoje: BC adota tom rígido e cenário internacional pesa em tech",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-bc-adota-tom-rigido-e-cenario-internacional-pesa-em-tech-1981421",
-      "time": "2026-06-23T22:00:02Z",
-      "cat": "economia",
-      "tickers": [],
+      "tickers": [
+        "MBRF3"
+      ],
       "image": null
     },
     {
-      "title": "Honeywell Aerospace entra no S&P 500 e no S&P 100 em 29 de junho",
+      "title": "Por que as ações da Samsung Electronics estão disparando hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/honeywell-aerospace-entra-no-sp-500-e-no-sp-100-em-29-de-junho-1981640",
-      "time": "2026-06-23T21:54:12Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-samsung-electronics-estao-disparando-hoje-93CH-1981765",
+      "time": "2026-06-24T02:05:41Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "México - Ações fecharam o pregão em queda e o Índice S&P/BMV IPC recuou 0,41%",
+      "title": "Coinbase deve se beneficiar da reforma cripto nos EUA, diz BofA",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/mexico--acoes-fecharam-o-pregao-em-queda-e-o-indice-spbmv-ipc-recuou-041-1981619",
-      "time": "2026-06-23T21:30:19Z",
-      "cat": "internacional",
+      "url": "https://br.investing.com/news/stock-market-news/coinbase-deve-se-beneficiar-da-reforma-cripto-nos-eua-diz-bofa-1981762",
+      "time": "2026-06-24T01:49:19Z",
+      "cat": "cripto",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/Mexican_Stock_Exchange_M_1440056300.jpg"
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Alphabet substituirá a Verizon no Dow Jones Industrial Average",
+      "title": "Ações da Samsung disparam com plano de recompra bilionário",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/alphabet-substituira-a-verizon-no-dow-jones-industrial-average-1981618",
-      "time": "2026-06-23T21:29:18Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-samsung-disparam-com-plano-de-recompra-bilionario-1981752",
+      "time": "2026-06-24T01:34:43Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Colômbia - Ações fecharam o pregão em queda e o Índice COLCAP recuou 1,93%",
+      "title": "Citi eleva Macerich para compra e vê mais potencial de alta",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/colombia--acoes-fecharam-o-pregao-em-queda-e-o-indice-colcap-recuou-193-1981613",
-      "time": "2026-06-23T21:25:19Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Rússia - Ações fecharam o pregão em alta e o Índice MOEX Russia Index avançou 0,63%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/russia--acoes-fecharam-o-pregao-em-alta-e-o-indice-moex-russia-index-avancou-063-1981604",
-      "time": "2026-06-23T21:20:23Z",
+      "url": "https://br.investing.com/news/stock-market-news/citi-eleva-macerich-para-compra-e-ve-mais-potencial-de-alta-1981739",
+      "time": "2026-06-24T00:52:12Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB4B0FU_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "23/06/2026 23:57"
+  "atualizado_em": "24/06/2026 03:54"
 }
