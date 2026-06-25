@@ -14,16 +14,6 @@
   },
   "featured": [
     {
-      "title": "Ibovespa e dólar hoje aguardam IPCA-15 e Índice PCE de olho em trajetória de juros",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-aguardam-ipca15-e-indice-pce-de-olho-em-trajetoria-de-juros-1982802",
-      "time": "2026-06-24T22:00:02Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": null
-    },
-    {
       "title": "Ibovespa recua pressionado por Petrobras (PETR4); dólar avança a R$ 5,20",
       "summary": "O Ibovespa (IBOV) recuou com a baixa do petróleo pressionando empresas de peso no índice, como a Petrobras (PETR3;PETR4). Nesta quarta-feira (24), o principal índice da bolsa brasileira terminou as negociações com baixa ",
       "source": "Money Times",
@@ -35,9 +25,29 @@
         "PETR3"
       ],
       "image": "https://www.moneytimes.com.br/uploads/2026/06/mercado-morning-ibovespa-wall-street-2.jpg"
+    },
+    {
+      "title": "Ações asiáticas disparam com perspectivas da Micron; Coreia e Japão lideram",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-asiaticas-disparam-com-perspectivas-da-micron-coreia-e-japao-lideram-1983212",
+      "time": "2026-06-25T03:50:30Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
   "all": [
+    {
+      "title": "Aliados veem vídeo de Michelle como exposição e temem prejuízo à campanha",
+      "summary": "Ex-primeira-dama publicou vídeo em que afirma ter sido humilhada e desrespeitada pelo senador, provocando avaliações divergentes entre aliados sobre os efeitos na disputa presidencial",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/aliados-veem-video-de-michelle-como-exposicao-e-temem-prejuizo-a-campanha/",
+      "time": "2026-06-25T01:04:16Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/2026-01-06T200224Z_499165136_RC2OYM5UH736_RTRMADP_3_BRAZIL-BOLSONARO.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
     {
       "title": "Após classificação em 1º, quem pode ser o adversário do Brasil?",
       "summary": "A definição do adversário do Brasil na rodada de 32 depende dos últimos jogos do grupo F, que tem Holanda, Japão, Suécia e Tunísia",
@@ -47,36 +57,6 @@
       "cat": "acoes",
       "tickers": [],
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-24T225631Z_1819959839_UP1EM6O1RQ5TR_RTRMADP_3_SOCCER-WORLDCUP-SCO-BRA.jpg?fit=300%2C201&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Itamaraty reage a incrição de Flávio para falar nos EUA e cita ‘traidores da pátria’",
-      "summary": "Novas sanções aplicadas pelo governo Donald Trump tem sido usada como munição de ataque entre as campanhas de Lula e Flávio Bolsonaro",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/itamaraty-reage-a-incricao-de-flavio-para-falar-nos-eua-e-cita-traidores-da-patria/",
-      "time": "2026-06-24T23:23:49Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/01/itamaraty.jpg?fit=300%2C179&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "África do Sul x Coreia do Sul: modelo matemático aponta possível resultado do jogo",
-      "summary": "Cálculo estatístico da Fundação Getúlio Vargas projeta a seleção que tem mais chances de ganhar partida desta quarta-feira, 24",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/esportes/africa-do-sul-x-coreia-do-sul-modelo-matematico-aponta-possivel-resultado-do-jogo/",
-      "time": "2026-06-24T22:00:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2406_AfricadoSul_CoreiadoSul.png?fit=300%2C191&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Tchéquia x México: modelo matemático aponta possível resultado do jogo; veja",
-      "summary": "Cálculo estatístico da Fundação Getúlio Vargas projeta a seleção que tem mais chances de ganhar partida desta quarta-feira, 24",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/esportes/tchequia-x-mexico-modelo-matematico-aponta-possivel-resultado-do-jogo-veja/",
-      "time": "2026-06-24T22:00:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2406_Tchequia_Mexico.png?fit=300%2C191&amp;quality=70&amp;strip=all"
     },
     {
       "title": "Banco pagará R$ 1,1 por ação em juros sobre o capital próprio; veja como aproveitar",
@@ -140,7 +120,7 @@
       "tickers": [
         "KLBN11"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/10/klabin.jpg"
+      "image": null
     },
     {
       "title": "Micron Technology superou as altas expectativas de Wall Street para seu 3º trimestre fiscal",
@@ -261,6 +241,16 @@
       "image": "https://files.sunoresearch.com.br/n/uploads/2023/12/crise-petroleo-empresa-crescimento-preco.jpg"
     },
     {
+      "title": "Brasil confirma liderança e avança ao mata-mata da Copa do Mundo; veja classificação do grupo C",
+      "summary": "Seleção supera Marrocos nos critérios de desempate e agora aguarda definição do Grupo F para conhecer próximo adversário",
+      "source": "Exame",
+      "url": "https://exame.com/esporte/brasil-confirma-lideranca-e-avanca-ao-mata-mata-da-copa-do-mundo-veja-classificacao-do-grupo-c/",
+      "time": "2026-06-24T21:20:01Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/selecao-brasileira-neymar-endrick-2.jpg"
+    },
+    {
       "title": "CazéTV alcança 35 milhões de inscritos e bate recorde mundial no YouTube durante Brasil x Escócia",
       "summary": "Transmissão ocorreu no Hard Rock Stadium, em Miami, nos Estados Unidos",
       "source": "Exame",
@@ -271,65 +261,95 @@
       "image": "https://classic.exame.com/wp-content/uploads/2026/06/cazetv.jpeg"
     },
     {
-      "title": "BTG Pactual diz que ainda avaliará participação em processo competitivo pelo Digimais",
+      "title": "Por que as ações da Worley estão caindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/btg-pactual-diz-que-ainda-avaliara-participacao-em-processo-competitivo-pelo-digimais-1983091",
-      "time": "2026-06-24T23:21:07Z",
-      "cat": "analise",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB66095_M.jpg"
-    },
-    {
-      "title": "Bain Capital deve adquirir participação majoritária na unidade de motores marinhos da Volkswagen",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/bain-capital-deve-adquirir-participacao-majoritaria-na-unidade-de-motores-marinhos-da-volkswagen-93CH-1983044",
-      "time": "2026-06-24T22:03:51Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-worley-estao-caindo-hoje-93CH-1983222",
+      "time": "2026-06-25T04:48:25Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Ibovespa e dólar hoje aguardam IPCA-15 e Índice PCE de olho em trajetória de juros",
+      "title": "Worley da Austrália prevê impacto maior nos lucros por conflito no Oriente Médio",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-aguardam-ipca15-e-indice-pce-de-olho-em-trajetoria-de-juros-1982802",
-      "time": "2026-06-24T22:00:02Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "General Motors anuncia investimento adicional de R$3,5 bi no Brasil até 2028",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/general-motors-anuncia-investimento-adicional-de-r35-bi-no-brasil-ate-2028-1983040",
-      "time": "2026-06-24T21:56:07Z",
+      "url": "https://br.investing.com/news/stock-market-news/worley-da-australia-preve-impacto-maior-nos-lucros-por-conflito-no-oriente-medio-1983220",
+      "time": "2026-06-25T04:30:10Z",
       "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB2N09U_M.jpg"
-    },
-    {
-      "title": "Ações da NETSTREIT disparam com inclusão no S&P SmallCap 600",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-netstreit-disparam-com-inclusao-no-sp-smallcap-600-93CH-1983020",
-      "time": "2026-06-24T21:40:08Z",
-      "cat": "fundos",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Huntington Ingalls recebe modificação de contrato de US$ 44,1 milhões da Marinha dos EUA",
+      "title": "Kioxia planeja oferta de ações nos EUA na primavera de 2027",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/huntington-ingalls-recebe-modificacao-de-contrato-de-us-441-milhoes-da-marinha-dos-eua-93CH-1983017",
-      "time": "2026-06-24T21:36:00Z",
+      "url": "https://br.investing.com/news/stock-market-news/kioxia-planeja-oferta-de-acoes-nos-eua-na-primavera-de-2027-1983219",
+      "time": "2026-06-25T04:24:48Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Doncasters precifica IPO a US$ 33 por ação em Nova York",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/doncasters-precifica-ipo-a-us-33-por-acao-em-nova-york-432SI-1983216",
+      "time": "2026-06-25T03:58:05Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Ações da Trip.com caem com lucro fraco no 1º tri e perspectiva de receita menor",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-tripcom-caem-com-lucro-fraco-no-1o-tri-e-perspectiva-de-receita-menor-1983214",
+      "time": "2026-06-25T03:57:08Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Ações asiáticas disparam com perspectivas da Micron; Coreia e Japão lideram",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-asiaticas-disparam-com-perspectivas-da-micron-coreia-e-japao-lideram-1983212",
+      "time": "2026-06-25T03:50:30Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Ações da Lend Lease disparam 6% após desinvestimento de A$ 525 milhões",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-lend-lease-disparam-6-apos-desinvestimento-de-a-525-milhoes-93CH-1983207",
+      "time": "2026-06-25T03:36:56Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Por que as ações da Kioxia estão disparando hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-kioxia-estao-disparando-hoje-93CH-1983201",
+      "time": "2026-06-25T02:57:49Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Ações da Alibaba caem após acusações de raspagem de IA pela Anthropic",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-alibaba-caem-apos-acusacoes-de-raspagem-de-ia-pela-anthropic-1983200",
+      "time": "2026-06-25T02:46:06Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "25/06/2026 00:13"
+  "atualizado_em": "25/06/2026 05:06"
 }
