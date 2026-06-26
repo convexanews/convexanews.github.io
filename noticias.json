@@ -1,164 +1,206 @@
 {
   "headline": {
-    "title": "Petrobras (PETR4), Vale (VALE3) e Itaú (ITUB4) dominam a Bolsa em maio; veja o ranking",
-    "summary": "As ações de Petrobras (PETR4), Vale (VALE3) e Itaú Unibanco (ITUB4) foram as mais negociadas na B3 em maio de 2026, segundo levantamento da plataforma Datawise+, solução da própria bolsa brasileira. O ranking considera o",
-    "source": "Suno",
-    "url": "https://www.suno.com.br/noticias/petrobras-petr4-acoes-mais-negociadas-b3-maio-mt/",
-    "time": "2026-06-26T19:15:13Z",
-    "cat": "acoes",
+    "title": "Ibovespa vai na contramão de Wall Street e avança com Itaú (ITUB4); dólar recua a R$ 5,16",
+    "summary": "O Ibovespa (IBOV) fechou em alta, impulsionado pelo avanço de bancos como o Itaú Unibanco (ITUB4), destoando do pessimismo do exterior com a liquidação do setor de tecnologia. Nesta sexta-feira (26), o principal índice d",
+    "source": "Money Times",
+    "url": "https://www.moneytimes.com.br/ibovespa-26-6-26-apsa/",
+    "time": "2026-06-26T20:29:16Z",
+    "cat": "economia",
     "tickers": [
-      "PETR4",
-      "VALE3",
       "ITUB4"
     ],
-    "image": null
+    "image": "https://www.moneytimes.com.br/uploads/2025/03/ibovespa-2-1.jpg"
   },
   "featured": [
     {
-      "title": "Ouro fecha em alta com dólar e juros dos Treasuries fracos, mas tomba 3,5% na semana",
-      "summary": "O metal recuperou o patamar de US$ 4.000 em Nova York beneficiado pela queda dos juros dos Treasuries e por tensões no Oriente Médio, apesar do alerta de analistas sobre espaço para novas baixas.",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ouro-fecha-em-alta-com-dolar-e-juros-dos-treasuries-fracos-mas-tomba-35-na-semana/",
-      "time": "2026-06-26T18:41:06Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/Imposto-que-incide-sobre-o-ouro.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "title": "Petrobras (PETR4), Vale (VALE3) e Itaú (ITUB4) dominam a Bolsa em maio; veja o ranking",
+      "summary": "As ações de Petrobras (PETR4), Vale (VALE3) e Itaú Unibanco (ITUB4) foram as mais negociadas na B3 em maio de 2026, segundo levantamento da plataforma Datawise+, solução da própria bolsa brasileira. O ranking considera o",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/petrobras-petr4-acoes-mais-negociadas-b3-maio-mt/",
+      "time": "2026-06-26T19:15:13Z",
+      "cat": "acoes",
+      "tickers": [
+        "PETR4",
+        "VALE3",
+        "ITUB4"
+      ],
+      "image": null
     },
     {
-      "title": "Ouro fecha dia em alta com dólar e juros dos Treasuries fracos, mas tomba 3,5% na semana",
-      "summary": "O ouro encerrou em alta nesta sexta-feira, 26, beneficiado pela fraqueza do dólar e dos juros dos Treasuries à medida que o mercado avalia as perspectivas de política monetária para os Estados Unidos e acompanha os novos",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ouro-fecha-dia-em-alta-com-dolar-e-juros-dos-treasuries-fracos-mas-tomba-35-na-semana/",
-      "time": "2026-06-26T18:17:44Z",
+      "title": "Ibovespa avança na sessão e sobe 3% na semana com “reprecificação nos juros”; entenda",
+      "summary": "Queda no preço do petróleo e o IPCA-15 abaixo do esperado aumentaram a chance de novas quedas na taxa de juros no Brasi, mas melhora consistente deve vir com fluxo gringo",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-avanca-na-sessao-e-sobe-3-na-semana-com-reprecificacao-dos-juros-entenda/",
+      "time": "2026-06-26T20:45:57Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/06/ouro-mercados.png"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/acoes-59.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     }
   ],
   "all": [
     {
-      "title": "Fischer, da MRV, pede padronização na construção civil ao Ministro das Cidades",
-      "summary": "\"Imagina o senhor se BYD tivesse que fazer um carro diferente a cada cidade do Brasil\", questionou o presidente da MRV",
+      "title": "Uruguai x Espanha: modelo matemático aponta possível resultado do jogo; veja",
+      "summary": "Cálculo estatístico da Fundação Getúlio Vargas projeta a seleção que tem mais chances de ganhar partida desta sexta-feira, 26",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/business/fischer-da-mrv-pede-padronizacao-na-construcao-civil-ao-ministro-das-cidades/",
-      "time": "2026-06-26T19:16:47Z",
+      "url": "https://www.infomoney.com.br/esportes/uruguai-x-espanha-modelo-matematico-aponta-possivel-resultado-do-jogo-veja/",
+      "time": "2026-06-26T21:00:00Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/painel-1.png?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2606_Uruguai_Espanha.png?fit=300%2C191&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Petróleo fecha em queda com aumento da oferta e Brent volta a nível pré-guerra",
-      "summary": "Barris WTI e Brent fecharam em forte queda nesta sexta-feira diante da normalização do fluxo marítimo no Golfo Pérsico",
+      "title": "Cabo Verde x Arábia Saudita: modelo matemático aponta possível resultado do jogo",
+      "summary": "Cálculo estatístico da Fundação Getúlio Vargas projeta a seleção que tem mais chances de ganhar partida desta sexta-feira, 26",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-26062026/",
-      "time": "2026-06-26T19:09:11Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-18T145228Z_1941725695_RC217KA1781F_RTRMADP_3_USA-OIL-EIA.jpg?fit=300%2C199&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "30 ações caem mais de 40% das máximas do ano e trazem “revelação” sobre mercado",
-      "summary": "Comportamento dos papéis sugere que a mudança de percepção do mercado ocorreu muito antes da metade do ano",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/30-acoes-caem-mais-de-40-das-maximas-do-ano-e-trazem-revelacao-sobre-mercado/",
-      "time": "2026-06-26T19:03:59Z",
+      "url": "https://www.infomoney.com.br/esportes/cabo-verde-x-arabia-saudita-modelo-matematico-aponta-possivel-resultado-do-jogo/",
+      "time": "2026-06-26T21:00:00Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/b3-bolsa-acoes.webp?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2606_CaboVerde_ArabiaSaudita.png?fit=300%2C191&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Ouro fecha em alta com dólar e juros dos Treasuries fracos, mas tomba 3,5% na semana",
-      "summary": "O metal recuperou o patamar de US$ 4.000 em Nova York beneficiado pela queda dos juros dos Treasuries e por tensões no Oriente Médio, apesar do alerta de analistas sobre espaço para novas baixas.",
+      "title": "Ibovespa avança na sessão e sobe 3% na semana com “reprecificação nos juros”; entenda",
+      "summary": "Queda no preço do petróleo e o IPCA-15 abaixo do esperado aumentaram a chance de novas quedas na taxa de juros no Brasi, mas melhora consistente deve vir com fluxo gringo",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ouro-fecha-em-alta-com-dolar-e-juros-dos-treasuries-fracos-mas-tomba-35-na-semana/",
-      "time": "2026-06-26T18:41:06Z",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-avanca-na-sessao-e-sobe-3-na-semana-com-reprecificacao-dos-juros-entenda/",
+      "time": "2026-06-26T20:45:57Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/Imposto-que-incide-sobre-o-ouro.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/acoes-59.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Bolsa brasileira ganha seu primeiro ETF de terras raras",
-      "summary": "Fundo tem exposiçào a mais de 30 empresas globais especializadas na produção, refino e processamento de minerais críticos",
+      "title": "Bolsas de NY fecham em queda com venda em empresas tech; Nasdaq tomba 4,6% na semana",
+      "summary": "Em paralelo, o presidente do Federal Reserve (Fed) de Minneapolis, Neel Kashkari disse acreditar que, no curto, prazo, a IA vai ser inflacionária e espera um aumento de juros para este ano",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/onde-investir/bolsa-brasileira-ganha-seu-primeiro-etf-de-terras-raras/",
-      "time": "2026-06-26T18:10:28Z",
+      "url": "https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-em-queda-com-venda-em-empresas-tech-nasdaq-tomba-46-na-semana/",
+      "time": "2026-06-26T20:38:44Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-29T060934Z_964769431_RC25EKAJLMU1_RTRMADP_3_USA-MARKETS-IRAN-TRADING.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Ibovespa fecha com alta puxada por bancos; dólar termina em R$ 5,16",
+      "summary": "Bolsas dos EUA sobem, depois de abrirem em baixa, com tecnologia no centro das atenções",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26062026/",
+      "time": "2026-06-26T20:36:50Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Ibovespa-ao-vivo-2.png?fit=300%2C186&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Citi rebaixa Braskem para venda, corta preço-alvo em 61% e BRKM5 desaba mais de 8%",
+      "summary": "O Citi destaca que a Braskem deve enfrentar fluxo de caixa livre negativo nos próximos períodos",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/brkm5-citi-rebaixa-braskem-para-venda-corta-preco-alvo-em-61-e-acoes-tem-nova-derrocada/",
+      "time": "2026-06-26T20:34:59Z",
+      "cat": "analise",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/braskem-petroquimica-triunfo-rs.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Dólar hoje cai 0,21%, a R$ 5,16, acompanhando exterior; na semana, alta é de 0,10%",
+      "summary": "Na quinta-feira, a moeda norte-americana à vista fechou com baixa de 0,39%, aos R$ 5,1805",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-26062026/",
+      "time": "2026-06-26T20:34:29Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/2025-07-12T152558Z_1_LYNXMPEL6B06W_RTROPTP_4_BUSINESS-CURRENCY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Taxas curtas e intermediárias caem com aumento de apostas no corte da Selic",
+      "summary": "As taxas recuaram diante do consenso de que o Banco Central voltará a reduzir os juros e pelo alívio nos preços internacionais do petróleo, enquanto os contratos longos fecharam estáveis",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/taxas-curtas-e-intermediarias-caem-com-aumento-de-apostas-no-corte-da-selic/",
+      "time": "2026-06-26T20:21:41Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/daniel-dan-ZbMuzk8iJAI-unsplash.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Tesouro pode fazer atuação extraordinária no mercado de títulos se precisar, diz Dias",
+      "summary": "O coordenador do órgão afirmou que a gestão da dívida monitora a volatilidade recente e usará a reserva de liquidez para acalmar o mercado caso precise atuar além dos leilões convencionais",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/tesouro-pode-fazer-atuacao-extraordinaria-no-mercado-de-titulos-se-precisar-diz-dias/",
+      "time": "2026-06-26T20:19:14Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/02/2025-02-05T122410Z_2140070592_RC2BOCAFF24Z_RTRMADP_3_UKRAINE-CRISIS-MINERALS.jpg?fit=300%2C188&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/03/ballots-1195056_1280-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Sarampo: Saúde pede reforço de vacinação de crianças em SP e Guarulhos",
-      "summary": "Ministério recomenda aplicação da chamada dose zero da tríplice viral",
+      "title": "Censo Escolar: Brasil reduz índices de reprovação, abandono e atraso",
+      "summary": "MEC atribui resultados de 2025 à combinação de políticas públicas",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/saude/sarampo-saude-pede-reforco-de-vacinacao-de-criancas-em-sp-e-guarulhos/",
-      "time": "2026-06-26T18:08:48Z",
+      "url": "https://www.infomoney.com.br/brasil/censo-escolar-brasil-reduz-indices-de-reprovacao-abandono-e-atraso/",
+      "time": "2026-06-26T20:15:46Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/sarampo_301119img_29213824.webp?fit=300%2C179&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/img_7273.jpg_0.webp?fit=300%2C179&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "‘O Brasil é muito maior que Rio e São Paulo’: Iguatemi (IGTI11) vê mercado de luxo crescer no interior e em capitais regionais",
-      "summary": "O mercado brasileiro de luxo deixou de estar concentrado em Rio de Janeiro e São Paulo e passou a encontrar espaço em capitais regionais e cidades do interior, segundo avaliação de Carlos Jereissati, membro efetivo do co",
+      "title": "Ganhe até 3,5 parcelas de volta: A nova parceria do Banco do Brasil (BBAS3) com Uber",
+      "summary": "O Banco do Brasil (BBAS3) anunciou nesta sexta-feira, 26, que irá oferecer, em parceria com a Uber, um cashback para clientes que aderirem a financiamentos de veículos novos no âmbito do programa Move Brasil Táxi e Aplic",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/o-brasil-e-muito-maior-que-rio-e-sao-paulo-iguatemi-igti11-ve-mercado-de-luxo-crescer-no-interior-e-em-capitais-regionais-igdl/",
-      "time": "2026-06-26T19:08:45Z",
+      "url": "https://www.moneytimes.com.br/ganhe-ate-35-parcelas-de-volta-a-nova-parceria-do-banco-do-brasil-bbas3-com-uber/",
+      "time": "2026-06-26T20:48:51Z",
       "cat": "acoes",
       "tickers": [
-        "IGTI11"
+        "BBAS3"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/08/shoppings-mix-iguatemi-multiplan-allos.png"
+      "image": "https://www.moneytimes.com.br/uploads/2024/04/uber-1.jpg"
     },
     {
-      "title": "Eduardo Bolsonaro posta críticas a Michelle e elogios a Flávio após crise familiar",
-      "summary": "Eduardo Bolsonaro não fez qualquer declaração direta sobre os vídeos em que Michelle Bolsonaro acusa o senador e pré-candidato Flávio Bolsonaro (PL-RJ) de humilhação. Nas redes sociais, porém, o ex-deputado dedicou a qui",
+      "title": "Trump volta a criticar ataque do Irã em Ormuz e diz que gasolina cairá para US$ 2,50 nos EUA",
+      "summary": "O presidente dos Estados Unidos, Donald Trump, voltou a reprimir os recentes ataques do Irã no Estreito de Ormuz, ressaltando que a guerra impediu Teerã de desenvolver armamento nuclear. Eles não podem fazer essas coisas",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/eduardo-bolsonaro-posta-criticas-a-michelle-e-elogios-a-flavio-apos-crise-familiar-gaep/",
-      "time": "2026-06-26T19:03:37Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/05/img20250204192412467.jpg"
-    },
-    {
-      "title": "É possível receber aluguel sem ter imóvel físico? Saiba mais sobre os fundos imobiliários",
-      "summary": "Empiricus libera 30 dias gratuitos de acesso às recomendações de FIIs da casa; confira",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/e-possivel-receber-aluguel-sem-ter-imovel-fisico-saiba-mais-sobre-os-fundos-imobiliarios-lbrdjm013/",
-      "time": "2026-06-26T19:00:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/01/fiis-fundos-imobiliarios-imagem-sommart-istockphoto.png"
-    },
-    {
-      "title": "Oriente Médio: EUA, Israel e Líbano avançam nas negociações com acordo para encerrar o conflito",
-      "summary": "Os Estados Unidos, Israel e o Líbano chegaram a uma estrutura de acordo para encerrar o conflito entre israelenses e o Hezbollah, após a quinta rodada de negociações mediadas por Washington. O secretário de Estado dos EU",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/oriente-medio-eua-israel-e-libano-avancam-nas-negociacoes-de-paz-para-encerrar-conflito-apsa/",
-      "time": "2026-06-26T18:47:59Z",
+      "url": "https://www.moneytimes.com.br/trump-volta-a-criticar-ataque-do-ira-em-ormuz-e-diz-que-gasolina-caira-para-us-250-nos-eua/",
+      "time": "2026-06-26T20:42:51Z",
       "cat": "internacional",
       "tickers": [],
       "image": null
     },
     {
-      "title": "Ouro fecha dia em alta com dólar e juros dos Treasuries fracos, mas tomba 3,5% na semana",
-      "summary": "O ouro encerrou em alta nesta sexta-feira, 26, beneficiado pela fraqueza do dólar e dos juros dos Treasuries à medida que o mercado avalia as perspectivas de política monetária para os Estados Unidos e acompanha os novos",
+      "title": "Ibovespa vai na contramão de Wall Street e avança com Itaú (ITUB4); dólar recua a R$ 5,16",
+      "summary": "O Ibovespa (IBOV) fechou em alta, impulsionado pelo avanço de bancos como o Itaú Unibanco (ITUB4), destoando do pessimismo do exterior com a liquidação do setor de tecnologia. Nesta sexta-feira (26), o principal índice d",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ouro-fecha-dia-em-alta-com-dolar-e-juros-dos-treasuries-fracos-mas-tomba-35-na-semana/",
-      "time": "2026-06-26T18:17:44Z",
+      "url": "https://www.moneytimes.com.br/ibovespa-26-6-26-apsa/",
+      "time": "2026-06-26T20:29:16Z",
       "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/06/ouro-mercados.png"
+      "tickers": [
+        "ITUB4"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/03/ibovespa-2-1.jpg"
     },
     {
-      "title": "Possível pagadora de dividendos mostra suas cartas – com retornos que podem chegar a 10%, calcula Itaú BBA",
-      "summary": "Quando o Bradesco (BBDC4) anunciou a ambiciosa operação para criar uma empresa que reunisse seus ativos de saúde com a Odontoprev, então listada na bolsa, muitos investidores ficaram animados. A proposta parecia fazer se",
+      "title": "Moretti: uso de recursos do Fundo Social do Pré-Sal para agro pressiona bancos",
+      "summary": "O ministro do Planejamento e Orçamento, Bruno Moretti, disse nesta sexta-feira (26), que o uso de recursos do Fundo Social do Pré-Sal para renegociação de dívidas do setor agropecuário, especialmente em regiões afetadas ",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/possivel-pagadora-de-dividendos-mostra-suas-cartas-com-retornos-que-podem-chegar-a-10-calcula-itau-bba-rnda/",
-      "time": "2026-06-26T18:08:49Z",
-      "cat": "fundos",
-      "tickers": [
-        "BBDC4"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/06/juros-real-mercados-.jpg"
+      "url": "https://www.moneytimes.com.br/moretti-uso-de-recursos-do-fundo-social-do-pre-sal-para-agro-pressiona-bancos-pads/",
+      "time": "2026-06-26T20:21:51Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Wall Street fecha em queda; Nasdaq tomba 4% na semana com liquidação tech",
+      "summary": "Os índices de Wall Street fecharam em baixa nesta sexta-feira (26), em um pregão marcado pela volatilidade dos ativos, com continuidade da venda do setor de tecnologia. O Nasdaq recuou pela quinta sessão consecutiva. Con",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/wall-street-26-6-26-apsa/",
+      "time": "2026-06-26T20:15:46Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Dólar cai a R$ 5,16 com ‘casadão’ do BC e baixa do petróleo",
+      "summary": "O dólar perdeu força ante o real após a realização de leilões do Banco Central (BC) e o recuo dos preços do petróleo. Nesta sexta-feira (26), o dólar à vista terminou as negociações a R$ 5,1676, em queda de 0,20%. Na sem",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/dolar-26-6-26-apsa/",
+      "time": "2026-06-26T20:03:37Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/11/dolar-real.jpg"
     },
     {
       "title": "Petrobras (PETR4), Vale (VALE3) e Itaú (ITUB4) dominam a Bolsa em maio; veja o ranking",
@@ -241,117 +283,85 @@
       "image": null
     },
     {
-      "title": "SNEL11 tem negociação de R$ 42 milhões e consolida maior liquidez da sua história em junho",
-      "summary": "O fundo imobiliário SNEL11 voltou a apresentar forte movimentação na B3. Nesta quinta-feira (25), o veículo girou aproximadamente R$ 42 milhões em volume financeiro, mantendo o ritmo elevado observado ao longo de junho e",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/snel11-tem-negociacao-de-r-42-milhoes-e-consolida-maior-liquidez-da-sua-historia-em-junho/",
-      "time": "2026-06-26T16:35:10Z",
-      "cat": "acoes",
+      "title": "Análise: Londres e a semana do clima travada pelo clima",
+      "summary": "Na London Climate Action Week, que teve adesão recorde, o futuro que se pretendia planejar chegou antes da conta; e a infraestrutura montada para debatê-lo não aguentou",
+      "source": "Exame",
+      "url": "https://exame.com/esg/analise-londres-e-a-semana-do-clima-travada-pelo-clima/",
+      "time": "2026-06-26T17:42:19Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-26-at-17.37.16.jpeg"
+    },
+    {
+      "title": "Fitch revisa perspectiva da Boeing com recuperação da produção",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/fitch-revisa-perspectiva-da-boeing-com-recuperacao-da-producao-93CH-1985483",
+      "time": "2026-06-26T20:44:01Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Ibovespa fecha em alta sustentado por bancos; Braskem recua",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-fecha-em-alta-sustentado-por-bancos-braskem-recua-1985432",
+      "time": "2026-06-26T20:42:07Z",
+      "cat": "internacional",
       "tickers": [],
       "image": null
     },
     {
-      "title": "Brasil prepara emissão de títulos públicos no mercado financeiro chinês",
-      "summary": "O governo brasileiro deu mais um passo para emitir títulos públicos em yuan no mercado financeiro da China",
-      "source": "Exame",
-      "url": "https://exame.com/brasil/brasil-prepara-emissao-de-titulos-publicos-no-mercado-financeiro-chines/",
-      "time": "2026-06-26T16:02:34Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2020/11/yuan-china-1.jpg"
-    },
-    {
-      "title": "A transição energética justa e a necessidade de territorialização de políticas",
-      "summary": "O Brasil, mesmo com forte heterogeneidade regional, precisa de respostas adaptadas às realidades locais",
-      "source": "Exame",
-      "url": "https://exame.com/esg/a-transicao-energetica-justa-e-a-necessidade-de-territorializacao-de-politicas/",
-      "time": "2026-06-26T16:00:00Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/AdobeStock_727354360.jpeg"
-    },
-    {
-      "title": "Como funciona a classificação para o mata-mata da Copa do Mundo? Entenda os critérios",
-      "summary": "Além dos dois primeiros de cada grupo, oito seleções avançam entre os melhores terceiros colocados; veja como são definidos os classificados",
-      "source": "Exame",
-      "url": "https://exame.com/esporte/como-funciona-a-classificacao-para-o-mata-mata-da-copa-do-mundo-entenda-os-criterios/",
-      "time": "2026-06-26T15:31:21Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/copa_do_mundo1_633d6a.png"
-    },
-    {
-      "title": "Swatch busca indenização de US$170 mi da Samsung por violação de marca registrada",
+      "title": "E.U.A. - Ações fecharam o pregão em queda e o Índice Dow Jones Industrial Average recuou 0,11%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/swatch-busca-indenizacao-de-us170-mi-da-samsung-por-violacao-de-marca-registrada-1985358",
-      "time": "2026-06-26T18:28:06Z",
+      "url": "https://br.investing.com/news/stock-market-news/eua--acoes-fecharam-o-pregao-em-queda-e-o-indice-dow-jones-industrial-average-recuou-011-1985463",
+      "time": "2026-06-26T20:31:36Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0R0DJ_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEA6S0EV_M.jpg"
     },
     {
-      "title": "Por que as ações da Apple estão subindo hoje?",
+      "title": "Canadá - Ações fecharam o pregão em alta e o Índice S&P/TSX avançou 0,37%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-apple-estao-subindo-hoje-93CH-1985357",
-      "time": "2026-06-26T18:27:27Z",
+      "url": "https://br.investing.com/news/stock-market-news/canada--acoes-fecharam-o-pregao-em-alta-e-o-indice-sptsx-avancou-037-1985462",
+      "time": "2026-06-26T20:30:51Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "HDFC Bank diz que revisão não encontrou evidências para apoiar alegações do ex-presidente",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/hdfc-bank-diz-que-revisao-nao-encontrou-evidencias-para-apoiar-alegacoes-do-expresidente-93CH-1985356",
-      "time": "2026-06-26T18:27:11Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "TOTS3: Por que as ações da Totvs estão em alta hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/tots3-por-que-as-acoes-da-totvs-estao-em-alta-hoje-1985350",
-      "time": "2026-06-26T18:23:51Z",
-      "cat": "internacional",
-      "tickers": [
-        "TOTS3"
-      ],
       "image": null
     },
     {
-      "title": "Negociação de opções da Sellas Life Sciences salta para 66.504 contratos",
+      "title": "Brasil - Ações fecharam o pregão em alta e o Índice Bovespa avançou 0,76%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/negociacao-de-opcoes-da-sellas-life-sciences-salta-para-66504-contratos-93CH-1985355",
-      "time": "2026-06-26T18:23:46Z",
+      "url": "https://br.investing.com/news/stock-market-news/brasil--acoes-fecharam-o-pregao-em-alta-e-o-indice-bovespa-avancou-076-1985461",
+      "time": "2026-06-26T20:30:20Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Magnolia Gás e Petróleo perto de acordo de US$ 4 bilhões com a WildFire Energy",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/magnolia-gas-e-petroleo-perto-de-acordo-de-us-4-bilhoes-com-a-wildfire-energy-93CH-1985422",
+      "time": "2026-06-26T20:02:44Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Negociação de opções da Levi Strauss salta para 2.087 contratos",
+      "title": "Petróleo cai mais de 3% com alívio nas preocupações sobre oferta no Estreito de Ormuz",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/negociacao-de-opcoes-da-levi-strauss-salta-para-2087-contratos-93CH-1985352",
-      "time": "2026-06-26T18:22:25Z",
+      "url": "https://br.investing.com/news/stock-market-news/petroleo-cai-mais-de-3-com-alivio-nas-preocupacoes-sobre-oferta-no-estreito-de-ormuz-1985411",
+      "time": "2026-06-26T19:56:44Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Crocs é elevada a acima da média na Piper Sandler com sinais de recuperação na América do Norte",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/crocs-e-elevada-a-acima-da-media-na-piper-sandler-com-sinais-de-recuperacao-na-america-do-norte-1985353",
-      "time": "2026-06-26T18:21:49Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+      "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5P1CP_1200_L.jpg"
     }
   ],
-  "atualizado_em": "26/06/2026 19:19"
+  "atualizado_em": "26/06/2026 21:06"
 }
