@@ -1,0 +1,677 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resumos WhatsApp - Cartas dos Gestores</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg: #f8f9fb;
+            --white: #ffffff;
+            --surface: #ffffff;
+            --border: #e8eaef;
+            --border-light: #f0f1f5;
+            --text: #1a1d2b;
+            --text2: #6b7080;
+            --text3: #9ba1b0;
+            --accent: #2563eb;
+            --accent-light: #eff4ff;
+            --green: #059669;
+            --green-bg: #ecfdf5;
+            --red: #dc2626;
+            --red-bg: #fef2f2;
+            --yellow: #d97706;
+            --yellow-bg: #fffbeb;
+            --shadow-sm: 0 1px 2px rgba(0,0,0,0.04);
+            --shadow: 0 1px 3px rgba(0,0,0,0.06), 0 1px 2px rgba(0,0,0,0.04);
+            --shadow-md: 0 4px 6px -1px rgba(0,0,0,0.06), 0 2px 4px -2px rgba(0,0,0,0.04);
+            --shadow-lg: 0 10px 15px -3px rgba(0,0,0,0.06), 0 4px 6px -4px rgba(0,0,0,0.04);
+            --radius: 12px;
+            --radius-sm: 8px;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Inter', -apple-system, system-ui, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        /* NAV */
+        nav {
+            background: var(--white);
+            border-bottom: 1px solid var(--border);
+            padding: 0 2rem;
+            display: flex;
+            align-items: center;
+            height: 60px;
+            gap: 0.5rem;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            box-shadow: var(--shadow-sm);
+        }
+        nav .logo {
+            font-weight: 800;
+            font-size: 1.1rem;
+            color: var(--text);
+            text-decoration: none;
+            letter-spacing: -0.02em;
+            margin-right: 2rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        nav .logo-icon {
+            width: 28px;
+            height: 28px;
+            background: var(--accent);
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 0.8rem;
+            font-weight: 700;
+        }
+        nav a.nav-link {
+            color: var(--text2);
+            text-decoration: none;
+            font-size: 0.875rem;
+            font-weight: 500;
+            padding: 0.5rem 0.75rem;
+            border-radius: var(--radius-sm);
+            transition: all 0.15s;
+        }
+        nav a.nav-link:hover { color: var(--text); background: var(--bg); }
+
+        /* LAYOUT */
+        .container { max-width: 1200px; margin: 0 auto; padding: 2rem; }
+        .page-header { margin-bottom: 2rem; }
+        .page-header h1 {
+            font-size: 1.75rem;
+            font-weight: 800;
+            letter-spacing: -0.03em;
+            color: var(--text);
+        }
+        .page-header .subtitle {
+            color: var(--text2);
+            font-size: 0.9rem;
+            margin-top: 0.25rem;
+        }
+
+        /* FLASH */
+        .flash {
+            background: var(--accent-light);
+            border: 1px solid #bfdbfe;
+            border-radius: var(--radius-sm);
+            padding: 1rem 1.25rem;
+            margin-bottom: 1.5rem;
+            font-size: 0.875rem;
+            color: var(--accent);
+            white-space: pre-wrap;
+        }
+
+        /* STATS */
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+        .stat-card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 1.25rem 1.5rem;
+            box-shadow: var(--shadow);
+        }
+        .stat-card .num {
+            font-size: 2.25rem;
+            font-weight: 800;
+            letter-spacing: -0.04em;
+            color: var(--text);
+            line-height: 1;
+        }
+        .stat-card .label {
+            font-size: 0.75rem;
+            color: var(--text3);
+            text-transform: uppercase;
+            letter-spacing: 0.06em;
+            font-weight: 600;
+            margin-top: 0.5rem;
+        }
+        .stat-card.highlight .num { color: var(--accent); }
+
+        /* CARD GRID */
+        .card-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 1rem;
+        }
+        .fund-card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 1.25rem;
+            transition: all 0.2s;
+            text-decoration: none;
+            color: inherit;
+            display: flex;
+            flex-direction: column;
+            gap: 0.75rem;
+            box-shadow: var(--shadow);
+        }
+        .fund-card:hover {
+            box-shadow: var(--shadow-lg);
+            border-color: #c7d2fe;
+            transform: translateY(-1px);
+        }
+        .fund-card .card-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+        }
+        .fund-card .name {
+            font-weight: 700;
+            font-size: 0.9rem;
+            letter-spacing: -0.01em;
+            line-height: 1.3;
+        }
+        .fund-card .meta {
+            font-size: 0.8rem;
+            color: var(--text2);
+        }
+        .fund-card .perf-row {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+        }
+
+        /* BADGES */
+        .badge {
+            display: inline-flex;
+            align-items: center;
+            padding: 0.2rem 0.6rem;
+            border-radius: 6px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            letter-spacing: -0.01em;
+        }
+        .badge-green { background: var(--green-bg); color: var(--green); }
+        .badge-red { background: var(--red-bg); color: var(--red); }
+        .badge-gray { background: #f3f4f6; color: var(--text3); }
+        .badge-blue { background: var(--accent-light); color: var(--accent); }
+        .badge-yellow { background: var(--yellow-bg); color: var(--yellow); }
+
+        /* TABLE */
+        .table-wrap {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            overflow: hidden;
+            box-shadow: var(--shadow);
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.85rem;
+        }
+        th {
+            background: var(--bg);
+            text-align: left;
+            padding: 0.75rem 1rem;
+            font-weight: 600;
+            color: var(--text2);
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 0.06em;
+            border-bottom: 1px solid var(--border);
+        }
+        td {
+            padding: 0.75rem 1rem;
+            border-bottom: 1px solid var(--border-light);
+        }
+        tr:last-child td { border-bottom: none; }
+        tr:hover td { background: #fafbfc; }
+        td a { color: var(--accent); text-decoration: none; font-weight: 500; }
+        td a:hover { text-decoration: underline; }
+
+        /* SECTIONS */
+        .section {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 1.5rem;
+            margin-bottom: 1.25rem;
+            box-shadow: var(--shadow);
+        }
+        .section h2 {
+            font-size: 0.85rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.04em;
+            color: var(--text2);
+            margin-bottom: 1rem;
+            padding-bottom: 0.75rem;
+            border-bottom: 1px solid var(--border-light);
+        }
+        .section ul { padding-left: 1.2rem; }
+        .section li { margin-bottom: 0.5rem; font-size: 0.9rem; }
+        .section p { font-size: 0.9rem; line-height: 1.7; color: var(--text); }
+        .texto-completo {
+            background: var(--bg);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-sm);
+            padding: 1.25rem;
+            font-size: 0.8rem;
+            max-height: 400px;
+            overflow-y: auto;
+            white-space: pre-wrap;
+            word-break: break-word;
+            color: var(--text2);
+            line-height: 1.7;
+            font-family: 'Inter', sans-serif;
+        }
+        .texto-formatado {
+            background: var(--bg);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-sm);
+            padding: 1.5rem 2rem;
+            max-height: 600px;
+            overflow-y: auto;
+            color: var(--text);
+            line-height: 1.8;
+            font-size: 0.875rem;
+        }
+        .texto-formatado h3 {
+            font-size: 0.95rem;
+            font-weight: 700;
+            color: var(--text);
+            margin: 1.5rem 0 0.5rem 0;
+            letter-spacing: -0.01em;
+        }
+        .texto-formatado h3:first-child { margin-top: 0; }
+        .texto-formatado p {
+            margin-bottom: 1rem;
+            color: var(--text2);
+            text-align: justify;
+        }
+        .texto-formatado p:last-child { margin-bottom: 0; }
+
+        /* BUTTONS */
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.4rem;
+            padding: 0.5rem 1rem;
+            border-radius: var(--radius-sm);
+            font-size: 0.85rem;
+            font-weight: 600;
+            border: none;
+            cursor: pointer;
+            text-decoration: none;
+            transition: all 0.15s;
+            font-family: inherit;
+        }
+        .btn:hover { opacity: 0.9; }
+        .btn-primary {
+            background: var(--accent);
+            color: #fff;
+            box-shadow: 0 1px 2px rgba(37,99,235,0.2);
+        }
+        .btn-primary:hover { background: #1d4ed8; }
+        .btn-outline {
+            background: var(--white);
+            border: 1px solid var(--border);
+            color: var(--text);
+            box-shadow: var(--shadow-sm);
+        }
+        .btn-outline:hover { background: var(--bg); }
+
+        /* UPLOAD */
+        .upload-zone {
+            border: 2px dashed var(--border);
+            border-radius: var(--radius);
+            padding: 2rem;
+            text-align: center;
+            background: var(--bg);
+            transition: all 0.2s;
+            cursor: pointer;
+        }
+        .upload-zone:hover { border-color: var(--accent); background: var(--accent-light); }
+        .upload-zone input[type="file"] { display: none; }
+        .upload-zone label {
+            cursor: pointer;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        .upload-icon {
+            width: 48px;
+            height: 48px;
+            background: var(--accent-light);
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            color: var(--accent);
+        }
+        .upload-zone .upload-text { font-weight: 600; color: var(--text); font-size: 0.9rem; }
+        .upload-zone .upload-hint { color: var(--text3); font-size: 0.8rem; }
+
+        /* WHATSAPP */
+        .whatsapp-box {
+            background: var(--bg);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-sm);
+            padding: 1.25rem;
+            margin-bottom: 1rem;
+            font-size: 0.85rem;
+            white-space: pre-wrap;
+            position: relative;
+            line-height: 1.7;
+        }
+        .whatsapp-box strong { color: var(--text); }
+        .copy-btn {
+            position: absolute;
+            top: 0.75rem;
+            right: 0.75rem;
+            background: var(--accent);
+            color: #fff;
+            border: none;
+            border-radius: 6px;
+            padding: 0.35rem 0.75rem;
+            font-size: 0.75rem;
+            font-weight: 600;
+            cursor: pointer;
+            font-family: inherit;
+            transition: all 0.15s;
+        }
+        .copy-btn:hover { background: #1d4ed8; }
+
+        /* PERF NUMBER */
+        .perf-positive { color: var(--green); font-weight: 700; }
+        .perf-negative { color: var(--red); font-weight: 700; }
+        .perf-neutral { color: var(--text3); }
+
+        /* DETAIL PAGE */
+        .detail-stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+        .detail-stat {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 1.25rem;
+            text-align: center;
+            box-shadow: var(--shadow);
+        }
+        .detail-stat .val {
+            font-size: 1.75rem;
+            font-weight: 800;
+            letter-spacing: -0.03em;
+            line-height: 1;
+        }
+        .detail-stat .lbl {
+            font-size: 0.7rem;
+            color: var(--text3);
+            text-transform: uppercase;
+            letter-spacing: 0.06em;
+            font-weight: 600;
+            margin-top: 0.5rem;
+        }
+
+        /* RESPONSIVE */
+        @media (max-width: 768px) {
+            .container { padding: 1rem; }
+            .card-grid { grid-template-columns: 1fr; }
+            nav { padding: 0 1rem; gap: 0.25rem; }
+            nav .logo { margin-right: 1rem; font-size: 0.95rem; }
+            nav a.nav-link { font-size: 0.8rem; padding: 0.4rem 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="../index.html" class="logo">
+            <span class="logo-icon">CG</span>
+            Cartas dos Gestores
+        </a>
+        <a href="../index.html" class="nav-link">Dashboard</a>
+        <a href="../comparativo/index.html" class="nav-link">Comparativo</a>
+        <a href="../whatsapp/index.html" class="nav-link">WhatsApp</a>
+        <a  class="nav-link">Upload</a>
+    </nav>
+    <div class="container">
+        
+        
+        
+        
+<div class="page-header">
+    <h1>Resumos para WhatsApp</h1>
+    <p class="subtitle">Textos prontos para copiar e compartilhar (4-6 linhas por fundo)</p>
+</div>
+
+
+
+
+
+<div class="whatsapp-box">
+    <button class="copy-btn" onclick="copiar(this)">Copiar</button>
+    <strong>ARMOR AXE FIC FIM</strong>
+*ARMOR AXE FIC FIM* - Carta Mai/2026
+Rentabilidade no mês: 1.64% (CDI: 1.07%, +0.57pp vs CDI). Acumulado no ano: 6.14%
+• Fundo rendeu 1,64% no mês, com destaques positivos em renda fixa local (+0,44%), caixa (+0,77%) e renda variável (+0,57%). Custos e taxas detraíram -0,21%.
+• Conflito no Oriente Médio seguiu sem resolução em maio, com negociações entre EUA e Irã marcadas por constantes mudanças de tom e ataques pontuais elevando a tensão.
+• Sinalização de cessar-fogo de 60 dias e reabertura temporária do Estreito de Ormuz no final do mês, mas mercado mantém postura cautelosa.
+</div>
+
+
+
+<div class="whatsapp-box">
+    <button class="copy-btn" onclick="copiar(this)">Copiar</button>
+    <strong>GENOA CAPITAL SAGRES FIC FIM ACCESS</strong>
+*GENOA CAPITAL SAGRES FIC FIM ACCESS* - Carta Mai/2026
+Rentabilidade no mês: 1.96% (CDI: 1.07%, +0.89pp vs CDI). Acumulado no ano: 0.60%
+• Economia americana sólida com dinâmicas heterogêneas: famílias de menor renda afetadas pela gasolina, investimento puxado por data centers e IA.
+• Inflação nos EUA enfrenta choques sucessivos (tarifas, petróleo, componentes de IA); Fed em posição delicada. Kevin Warsh deve retirar viés baixista na próxima reunião.
+• Cenário mais provável: juros estáveis nos EUA até eleições de novembro, com discussão migrando gradualmente para alta de juros.
+</div>
+
+
+
+<div class="whatsapp-box">
+    <button class="copy-btn" onclick="copiar(this)">Copiar</button>
+    <strong>IBIUNA HEDGE STH FIC FIM ACCESS</strong>
+*IBIUNA HEDGE STH FIC FIM ACCESS* - Carta Jan/2025
+Rentabilidade no mês: 0.53% (CDI: 1.01%, -0.48pp vs CDI)
+• Livro de juros global foi destaque positivo, com posições aplicadas em curvas de juros de países emergentes.
+• Posição comprada em Dólar vs. Real foi o principal detrator do mês.
+• Início do governo Trump menos turbulento que o esperado, foco inicial em migração e desregulamentação, adiando tarifas em pelo menos dois meses.
+</div>
+
+
+
+<div class="whatsapp-box">
+    <button class="copy-btn" onclick="copiar(this)">Copiar</button>
+    <strong>IBIUNA TOTAL CREDIT FIC FIM CP</strong>
+*IBIUNA TOTAL CREDIT FIC FIM CP* - Carta Mai/2026
+Rentabilidade no mês: 1.97% (CDI: 1.07%, +0.90pp vs CDI). Acumulado no ano: 5.64%
+• Setores de utilidade pública e indústria/construção foram os principais destaques positivos; bancos e papel/celulose foram destaques negativos.
+• Dissociação crescente entre mercados de commodities e ativos de risco globais: petróleo pressionado pelo conflito, mas S&P 500 perto da máxima histórica em 7.580 pontos.
+• Risco assimétrico caso o conflito se prorrogue: petróleo pode ir bem acima de US$150/barril.
+</div>
+
+
+
+<div class="whatsapp-box">
+    <button class="copy-btn" onclick="copiar(this)">Copiar</button>
+    <strong>ITAU ACTION DEB INC FIC INFRA RF CP LP</strong>
+*ITAU ACTION DEB INC FIC INFRA RF CP LP* - Carta Mai/2026
+Rentabilidade no mês: -0.51% (CDI: 0.97%, -1.48pp vs CDI). Acumulado no ano: 1.80%
+• Fundo de gestão ativa em juros local (pós, pré e real) e crédito privado, focado em debêntures de infraestrutura (Lei 12.431).
+• Retorno de -0,51% no mês (benchmark IMA-B5: +0,97%), acumulado de 1,80% no ano vs 6,25% do benchmark.
+• Target de volatilidade entre 8% e 10% a.a., com retorno líquido objetivo de 2,0% a 2,5% ao ano acima das NTN-Bs.
+</div>
+
+
+
+<div class="whatsapp-box">
+    <button class="copy-btn" onclick="copiar(this)">Copiar</button>
+    <strong>Itau Janeiro Multimercado Dist FICFI RL</strong>
+*Itau Janeiro Multimercado Dist FICFI RL* - Carta Mai/2026
+Rentabilidade no mês: 1.52% (CDI: 1.07%, +0.45pp vs CDI). Acumulado no ano: 2.19%
+• Fundo macro que busca retorno absoluto em qualquer cenário, com foco em identificar temas de investimento no início do ciclo.
+• Rentabilidade de 1,52% no mês (142,1% do CDI), CDI +0,45% no mês.
+• Acumulado no ano: 2,19% (38,6% do CDI), impactado pela perda de -4,03% em março.
+</div>
+
+
+
+<div class="whatsapp-box">
+    <button class="copy-btn" onclick="copiar(this)">Copiar</button>
+    <strong>JGP CORPORATE PLUS FIC FIM CP</strong>
+*JGP CORPORATE PLUS FIC FIM CP* - Carta Abr/2026
+Rentabilidade no mês: 1.13% (CDI: 1.13%, 0.00pp vs CDI). Acumulado no ano: 4.30%
+• JGP Corporate Plus rendeu 1,02% em abril. 95% alocado com 322 ativos de 196 emissores. Carrego: DI +2,60%, prazo médio de 3,0 anos.
+• Mercado de crédito local positivo em abril: Idex-CDI rendeu +1,68% (MTM +0,39%, carrego +1,29%). Mercado offshore positivo com CEMBI Latam +2,32%.
+• Abril marcado por aversão a risco: conflito no Oriente Médio elevou petróleo a US$110/barril; Ibovespa caiu mais de 6%.
+</div>
+
+
+
+<div class="whatsapp-box">
+    <button class="copy-btn" onclick="copiar(this)">Copiar</button>
+    <strong>Kapitalo K10</strong>
+*Kapitalo K10* - Carta Mai/2026
+Rentabilidade no mês: 0.85% (CDI: 1.07%, -0.22pp vs CDI)
+• Retorno de 0,85% vs 1,07% do benchmark. Livros de moedas e bolsa com resultado positivo.
+• Negociações para reabrir o Estreito de Ormuz avançam, mas sem acordo definitivo. Estoques globais de petróleo em níveis criticamente baixos.
+• Equilíbrio frágil no petróleo: sem normalização do Estreito, preço deve voltar a subir nas próximas semanas.
+</div>
+
+
+
+<div class="whatsapp-box">
+    <button class="copy-btn" onclick="copiar(this)">Copiar</button>
+    <strong>LEGACY CAPITAL FIC FIM ACCESS</strong>
+*LEGACY CAPITAL FIC FIM ACCESS* - Carta Mai/2026
+Rentabilidade no mês: 1.48% (CDI: 1.07%, +0.41pp vs CDI). Acumulado no ano: 3.71%
+• Rendimento de 1,48% no mês e 3,71% no ano. Resultado positivo concentrado em bolsa global, moedas e commodities.
+• Mercado de maio dominado pela expectativa de acordo de paz entre EUA e Irã. Preços de ativos de risco voláteis com oscilações conforme as manchetes.
+• Produção de petróleo no Golfo segue 15MBD abaixo do pré-guerra (~15% do consumo mundial). Barril entre US$90-100, 65% acima do pré-guerra.
+</div>
+
+
+
+<div class="whatsapp-box">
+    <button class="copy-btn" onclick="copiar(this)">Copiar</button>
+    <strong>M8 Credit Advanced FICFIDC</strong>
+*M8 Credit Advanced FICFIDC* - Carta Mai/2026
+Rentabilidade no mês: 1.22% (CDI: 1.07%, +0.15pp vs CDI). Acumulado no ano: 6.40%
+• Retorno de 1,22% no mês (114% do CDI). Acumulado no ano: 6,40% (113% do CDI).
+• Desde o início (jun/2023): retorno acumulado de 52,85% (122% do CDI, CDI +1,89% a.a.).
+• Fundo investe preponderantemente em cotas seniores e mezaninos de FIDCs.
+</div>
+
+
+
+<div class="whatsapp-box">
+    <button class="copy-btn" onclick="copiar(this)">Copiar</button>
+    <strong>M8 CREDIT STRATEGY PLUS FIC FIM CP</strong>
+*M8 CREDIT STRATEGY PLUS FIC FIM CP* - Carta Mai/2026
+Rentabilidade no mês: 1.04% (CDI: 1.07%, -0.03pp vs CDI). Acumulado no ano: 6.56%
+• Retorno de 1,04% no mês (97% do CDI). Acumulado no ano: 6,56%.
+• Desde o início (mar/2019): retorno acumulado de 161,16%.
+• Fundo para investidores profissionais com exposição a cotas seniores, mezanino e subordinada júnior de FIDCs.
+</div>
+
+
+
+<div class="whatsapp-box">
+    <button class="copy-btn" onclick="copiar(this)">Copiar</button>
+    <strong>SPX NIMITZ FIC FIM ACCESS</strong>
+*SPX NIMITZ FIC FIM ACCESS* - Carta Abr/2025
+Rentabilidade no mês: 1.02% (CDI: 1.06%, -0.04pp vs CDI)
+• Crescimento brasileiro em 2025 sustentado por agropecuária, reajuste do salário-mínimo e calendário fiscal concentrado no 1º semestre.
+• Consignado do setor privado deve adicionar 0,4% ao PIB entre 2º semestre de 2025 e 1º semestre de 2026.
+• Cenário inflacionário desafiador com serviços pressionados pelo aquecimento da economia; BCB deve elevar Selic a 15% e manter durante todo 2026.
+</div>
+
+
+
+<div class="whatsapp-box">
+    <button class="copy-btn" onclick="copiar(this)">Copiar</button>
+    <strong>SPX SEAHAWK GLOBAL FIC FIM CP</strong>
+*SPX SEAHAWK GLOBAL FIC FIM CP* - Carta Mar/2026
+Rentabilidade no mês: 0.09% (CDI: 1.21%, -1.12pp vs CDI). Acumulado no ano: 2.00%
+• Fundo de renda fixa crédito privado com objetivo de ganhos de capital no longo prazo.
+• Carteira diversificada e líquida: debêntures, FIDCs, notas promissórias, letras financeiras, CDBs. Rating mínimo BBB para dívida local.
+• Patrimônio líquido do Master: R$3,98 bilhões. PL do FIC: R$1,36 bilhão.
+</div>
+
+
+
+<div class="whatsapp-box">
+    <button class="copy-btn" onclick="copiar(this)">Copiar</button>
+    <strong>SOLANA LS FIC FIM</strong>
+*SOLANA LS FIC FIM* - Carta Abr/2026
+Rentabilidade no mês: 2.32% (CDI: 1.09%, +1.23pp vs CDI). Acumulado no ano: 9.06%
+• Retorno de 2,32% no mês (213% do CDI). Acumulado no ano: 9,06% (200% do CDI).
+• Desde o início (out/2013): retorno acumulado de 296,35% (132% do CDI). Sharpe de 4,91.
+• Destaques positivos no mês: imobiliário (+0,59%), tecnologia (+0,47%), petróleo (+0,38%), consumo não cíclico (+0,35%) e siderurgia/mineração (+0,18%).
+</div>
+
+
+
+<div class="whatsapp-box">
+    <button class="copy-btn" onclick="copiar(this)">Copiar</button>
+    <strong>SOLIS CAPITAL ANTARES LIGHT FIC FIM CP</strong>
+*SOLIS CAPITAL ANTARES LIGHT FIC FIM CP* - Carta Mai/2026
+Rentabilidade no mês: 1.16% (CDI: 1.07%, +0.09pp vs CDI). Acumulado no ano: 6.21%
+• Retorno de 1,16% no mês (108,40% do CDI). Acumulado no ano: 6,21% (109,63% do CDI).
+• Desde o início (set/2019): retorno acumulado de 108,95% (128,44% do CDI). 81 meses positivos, zero negativos.
+• Fundo investe em carteira diversificada de cotas sênior de FIDCs, selecionadas com análise robusta de originadores e monitoramento contínuo.
+</div>
+
+
+
+<div class="whatsapp-box">
+    <button class="copy-btn" onclick="copiar(this)">Copiar</button>
+    <strong>ABSOLUTE HIDRA CDI FIC FI INFRA RF</strong>
+*ABSOLUTE HIDRA CDI FIC FI INFRA RF* - Carta Mai/2026
+Rentabilidade no mês: 1.13% (CDI: 1.07%, +0.06pp vs CDI). Acumulado no ano: 3.10%
+• Retorno de 1,13% no mês. Acumulado no ano: 3,10% (55% do CDI), impactado por meses negativos em março (-0,19%) e abril (-0,47%).
+• Desde o início (out/2022): retorno acumulado de 62,68% (115% do CDI).
+• Fundo de infraestrutura (Lei 12.431) com isenção de IR para pessoas físicas. Benchmark CDI.
+</div>
+
+
+
+
+
+
+<script>
+function copiar(btn) {
+    const box = btn.parentElement;
+    const texto = box.innerText.replace('Copiar', '').trim();
+    navigator.clipboard.writeText(texto);
+    btn.textContent = 'Copiado!';
+    btn.style.background = '#059669';
+    setTimeout(() => { btn.textContent = 'Copiar'; btn.style.background = ''; }, 1500);
+}
+</script>
+
+    </div>
+</body>
+</html>
