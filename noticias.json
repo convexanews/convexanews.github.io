@@ -1,74 +1,60 @@
 {
   "headline": {
-    "title": "5 ações para bater o Ibovespa (IBOV) no curto prazo, segundo a Terra Investimentos",
-    "summary": "A carteira recomendada da Terra Investimentos para o período de 26 de junho a 03 de julho é composta pelas ações da Sabesp (SBSP3), MBRF (MBRF3), Suzano (SUZB3), Hypera (HYPE3) e Iguatemi (IGTI11), a mesma composição da ",
-    "source": "Money Times",
-    "url": "https://www.moneytimes.com.br/5-acoes-para-bater-o-ibovespa-ibov-no-curto-prazo-segundo-a-terra-investimentos-lmrs/",
-    "time": "2026-06-27T17:00:00Z",
+    "title": "Dívida pública federal chega a R$ 9 trilhões em maio, diz Tesouro Nacional",
+    "summary": "Crescimento foi de 2,66% em relação a abril, de acordo com o relatório",
+    "source": "InfoMoney",
+    "url": "https://www.infomoney.com.br/economia/divida-publica-federal-chega-a-r-9-trilhoes-em-maio-diz-tesouro-nacional/",
+    "time": "2026-06-27T21:00:00Z",
     "cat": "acoes",
-    "tickers": [
-      "SBSP3",
-      "MBRF3",
-      "SUZB3"
-    ],
-    "image": "https://www.moneytimes.com.br/uploads/2025/11/acoes-bolsa-grafico-1-1-1-1-1-1.jpg"
+    "tickers": [],
+    "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-22T213747Z_1_LYNXNPEL8L0X7_RTROPTP_4_MACRO-TRIBUTARIA-ALIQUOTA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
   },
   "featured": [
     {
-      "title": "Bitcoin (BTC) tenta recuperação após semana de forte volatilidade; confira preços das criptomoedas neste sábado (27)",
-      "summary": "O bitcoin (BTC) é negociado na casa dos US$ 60,2 mil na manhã deste sábado (27), com leve alta de aproximadamente 1,7% nas últimas 24 horas, conforme dados da plataforma Coingecko. Apesar da recuperação diária, a maior c",
+      "title": "5 ações para bater o Ibovespa (IBOV) no curto prazo, segundo a Terra Investimentos",
+      "summary": "A carteira recomendada da Terra Investimentos para o período de 26 de junho a 03 de julho é composta pelas ações da Sabesp (SBSP3), MBRF (MBRF3), Suzano (SUZB3), Hypera (HYPE3) e Iguatemi (IGTI11), a mesma composição da ",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bitcoin-btc-tenta-recuperacao-apos-semana-de-forte-volatilidade-veja-precos-das-criptomoedas-neste-sabado-27-igdl/",
-      "time": "2026-06-27T13:24:40Z",
-      "cat": "cripto",
+      "url": "https://www.moneytimes.com.br/5-acoes-para-bater-o-ibovespa-ibov-no-curto-prazo-segundo-a-terra-investimentos-lmrs/",
+      "time": "2026-06-27T17:00:00Z",
+      "cat": "acoes",
       "tickers": [
-        "BTC"
+        "SBSP3",
+        "MBRF3",
+        "SUZB3"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/10/fintech-crypto.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2025/11/acoes-bolsa-grafico-1-1-1-1-1-1.jpg"
     },
     {
-      "title": "Bitcoin (BTC) amplia correção e testa suporte crítico de longo prazo, apontam analistas do BTG",
-      "summary": "O bitcoin (BTC) segue pressionado e caminha para encerrar a última semana de junho com queda próxima de 5%, reforçando um cenário de fraqueza técnica que já se estende ao longo de 2026. No acumulado do ano, entretanto, a",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bitcoin-amplia-correcao-e-testa-suporte-critico-de-longo-prazo-apontam-analistas-do-btg-rens/",
-      "time": "2026-06-27T13:00:00Z",
-      "cat": "cripto",
-      "tickers": [
-        "BTC"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/04/bitcoin-btc-criptomoedas-e-o-risco-quantico-imagem-copilot.png"
+      "title": "Netanyahu vê queda do regime do Irã e enviará delegação a Washington",
+      "summary": "Segundo Netanyahu, Israel \"não foi parte\" de um acordo entre Irã e Estados Unidos e tem interesses que pretende discutir com autoridades americanas",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/netanyahu-ve-queda-do-regime-do-ira-e-enviara-delegacao-a-washington/",
+      "time": "2026-06-27T21:45:34Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/2026-01-10T074308Z_861627589_RC2BSGA6IFR5_RTRMADP_3_ISRAEL-NETANYAHU-MILITARY-AID.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     }
   ],
   "all": [
     {
-      "title": "Conar abre investigações e concede liminar contra anúncios de apostas na CazéTV",
-      "summary": "Órgão de autorregulamentação acatou queixas de consumidores sobre ações de merchandising da KTO, Betnacional e Bet365 durante as transmissões ao vivo da Copa do Mundo",
+      "title": "Netanyahu vê queda do regime do Irã e enviará delegação a Washington",
+      "summary": "Segundo Netanyahu, Israel \"não foi parte\" de um acordo entre Irã e Estados Unidos e tem interesses que pretende discutir com autoridades americanas",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/brasil/conar-abre-investigacoes-e-concede-liminar-contra-anuncios-de-apostas-na-cazetv/",
-      "time": "2026-06-27T18:56:20Z",
+      "url": "https://www.infomoney.com.br/mercados/netanyahu-ve-queda-do-regime-do-ira-e-enviara-delegacao-a-washington/",
+      "time": "2026-06-27T21:45:34Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/casimiro-caze-tv.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/2026-01-10T074308Z_861627589_RC2BSGA6IFR5_RTRMADP_3_ISRAEL-NETANYAHU-MILITARY-AID.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Ancelotti dá pistas de time titular contra o Japão; veja possível escalação do Brasil",
-      "summary": "Brasil volta a campo nesta segunda-feira, diante do Japão",
+      "title": "Dívida pública federal chega a R$ 9 trilhões em maio, diz Tesouro Nacional",
+      "summary": "Crescimento foi de 2,66% em relação a abril, de acordo com o relatório",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/esportes/ancelotti-da-pistas-de-time-titular-contra-o-japao-veja-possivel-escalacao-do-brasil/",
-      "time": "2026-06-27T18:36:26Z",
+      "url": "https://www.infomoney.com.br/economia/divida-publica-federal-chega-a-r-9-trilhoes-em-maio-diz-tesouro-nacional/",
+      "time": "2026-06-27T21:00:00Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-27T162726Z_1527949750_UP1EM6R19PPU0_RTRMADP_3_SOCCER-WORLDCUP-BRA.jpg?fit=300%2C199&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Aumento dos preços de iPads e do Xbox evidencia impacto da crise nos chips de memória",
-      "summary": "O boom da infraestrutura de IA, liderado pelos chips de processamento gráfico da Nvidia Corp., virou de cabeça para baixo o mercado de memória",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/business/aumento-dos-precos-de-ipads-e-do-xbox-evidencia-impacto-da-crise-nos-chips-de-memoria/",
-      "time": "2026-06-27T18:18:54Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/459515205-2.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-22T213747Z_1_LYNXNPEL8L0X7_RTROPTP_4_MACRO-TRIBUTARIA-ALIQUOTA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
       "title": "5 ações para bater o Ibovespa (IBOV) no curto prazo, segundo a Terra Investimentos",
@@ -207,24 +193,34 @@
       "image": null
     },
     {
-      "title": "Parreira apresenta 'complicações' e passará por cirurgia neste sábado",
-      "summary": "O ex-comandante da seleção brasileira está internado desde 16 de junho para tratamento de uma inflamação pulmonar",
+      "title": "PF indicia diretor-geral da ANM por suspeita de esquema de mineração ilegal",
+      "summary": "Investigação sobre extração irregular de minério em Minas Gerais também indiciou outro diretor da agência; ANM afirma que ainda não foi comunicada oficialmente sobre a conclusão do inquérito",
       "source": "Exame",
-      "url": "https://exame.com/esporte/parreira-apresenta-complicacoes-e-passara-por-cirurgia-neste-sabado/",
-      "time": "2026-06-27T15:22:10Z",
+      "url": "https://exame.com/brasil/pf-indicia-diretor-geral-da-anm-por-suspeita-de-esquema-de-mineracao-ilegal/",
+      "time": "2026-06-27T17:26:55Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/parreira.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/Mauro-Henrique-Moreira-Sousa.jpg"
     },
     {
-      "title": "Irã volta a acusar EUA de 'tratamento injusto' na Copa e cobra ação da Fifa",
-      "summary": "Após empate com o Egito, técnico diz que equipe foi prejudicada por restrições de viagem durante o torneio",
+      "title": "Cristiano Ronaldo joga hoje? Portugal e Colômbia disputam liderança",
+      "summary": "O português fez dois gols na última partida e chega com moral para a última rodada da fase de grupos",
       "source": "Exame",
-      "url": "https://exame.com/esporte/ira-volta-a-acusar-eua-de-tratamento-injusto-na-copa-e-cobra-acao-da-fifa/",
-      "time": "2026-06-27T14:35:32Z",
+      "url": "https://exame.com/esporte/cristiano-ronaldo-joga-hoje-portugal-e-colombia-disputam-lideranca/",
+      "time": "2026-06-27T16:26:34Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/AFP__20260617__B7F4993__v1__MidRes__FblWc2026Match23PorCod.jpg"
+    },
+    {
+      "title": "Rússia - Ações fecharam o pregão em queda e o Índice MOEX Russia Index terminou sem alterações",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/russia--acoes-fecharam-o-pregao-em-queda-e-o-indice-moex-russia-index-terminou-sem-alteracoes-1985774",
+      "time": "2026-06-27T21:20:18Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/jogadores-ira.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPED5E0GC-ORUBS_M.jpg"
     },
     {
       "title": "Coreia do Sul é o mercado mais esticado no rali global de ações, diz BCA",
@@ -237,7 +233,7 @@
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "UBS traça estratégia de portfólio para mercados incertos",
+      "title": "UBS apresenta estratégia de portfólio para mercados incertos",
       "summary": "",
       "source": "Investing.com",
       "url": "https://br.investing.com/news/stock-market-news/ubs-traca-estrategia-de-portfolio-para-mercados-incertos-1985730",
@@ -275,27 +271,7 @@
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Trustpilot firma parceria com Shopify para integrar avaliações nas lojas",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/trustpilot-firma-parceria-com-shopify-para-integrar-avaliacoes-nas-lojas-1985662",
-      "time": "2026-06-27T08:05:20Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "SpaceX entra no Nasdaq 100 em 7 de julho e deve atrair bilhões em fundos passivos",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/spacex-entra-no-nasdaq-100-em-7-de-julho-e-deve-atrair-bilhoes-em-fundos-passivos-1985658",
-      "time": "2026-06-27T06:37:39Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "27/06/2026 19:15"
+  "atualizado_em": "27/06/2026 22:00"
 }
