@@ -1,104 +1,80 @@
 {
   "headline": {
-    "title": "Petrobras (PETR4), Vale (VALE3) e Itaú (ITUB4) dominam a Bolsa em maio; veja o ranking",
-    "summary": "As ações de Petrobras (PETR4), Vale (VALE3) e Itaú Unibanco (ITUB4) foram as mais negociadas na B3 em maio de 2026, segundo levantamento da plataforma Datawise+, solução da própria bolsa brasileira. O ranking considera o",
-    "source": "Suno",
-    "url": "https://www.suno.com.br/noticias/petrobras-petr4-acoes-mais-negociadas-b3-maio-mt/",
-    "time": "2026-06-26T19:15:13Z",
-    "cat": "acoes",
-    "tickers": [
-      "PETR4",
-      "VALE3",
-      "ITUB4"
-    ],
-    "image": null
+    "title": "Dólar digital: quais seriam os impactos de uma stablecoin do Fed no mercado cripto global?",
+    "summary": "EUA escolheram privilegiar criptomoedas de dólar privadas no lugar de uma CBDC, o que garantiu a expansão do setor, mas isso pode mudar",
+    "source": "Exame",
+    "url": "https://exame.com/future-of-money/dolar-digital-quais-seriam-os-impactos-no-mercado-cripto-global-de-uma-stablecoin-do-fed/",
+    "time": "2026-06-27T10:00:12Z",
+    "cat": "cripto",
+    "tickers": [],
+    "image": "https://classic.exame.com/wp-content/uploads/2020/11/bitcoin-usd.jpg"
   },
   "featured": [
     {
-      "title": "Startups: Brasil tem alta de investimento anjo, mas perde participantes",
-      "summary": "Volume aportado em startups chegou a R$ 919 milhões em 2025, alta de 4,2%, enquanto a base de investidores recuou 1%, segundo pesquisa da Anjos do Brasil",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/business/startups-brasil-tem-alta-de-investimento-anjo-mas-perde-participantes/",
-      "time": "2026-06-27T10:00:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/Flat-vector-graphic-of-an-Asian-woman-with-large-feathered-wings-delivering-a-stack-of-money-in-a-crisp-clean-design.-Simple-vector-style-utilizing-a-limited-color-palette-for-a-modern-aesthetic.-The-woman-.jpg?fit=300%2C168&amp;quality=70&amp;strip=all"
+      "title": "Bitcoin (BTC) amplia correção e testa suporte crítico de longo prazo, apontam analistas do BTG",
+      "summary": "O bitcoin (BTC) segue pressionado e caminha para encerrar a última semana de junho com queda próxima de 5%, reforçando um cenário de fraqueza técnica que já se estende ao longo de 2026. No acumulado do ano, entretanto, a",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/bitcoin-amplia-correcao-e-testa-suporte-critico-de-longo-prazo-apontam-analistas-do-btg-rens/",
+      "time": "2026-06-27T13:00:00Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/04/bitcoin-btc-criptomoedas-e-o-risco-quantico-imagem-copilot.png"
     },
     {
-      "title": "SpaceX entra no Nasdaq 100 em 7 de julho e deve atrair bilhões em fundos passivos",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/spacex-entra-no-nasdaq-100-em-7-de-julho-e-deve-atrair-bilhoes-em-fundos-passivos-1985658",
-      "time": "2026-06-27T06:37:39Z",
-      "cat": "internacional",
+      "title": "Braskem (BRKM5) derrete 16% e lidera perdas do Ibovespa pela 2ª semana consecutiva; veja os destaques do índice",
+      "summary": "O Ibovespa (IBOV) O Ibovespa (IBOV) voltou a ganhar força após a divulgação de dados de inflação abaixo do esperado no Brasil e nos Estados Unidos, além da realização de lucros nas ações de tecnologia no exterior, movime",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/destaques-da-semana-ibov-26-6-26-apsa/",
+      "time": "2026-06-27T12:58:00Z",
+      "cat": "acoes",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2025/02/ibovespa-gringos.jpg"
     }
   ],
   "all": [
     {
-      "title": "Startups: Brasil tem alta de investimento anjo, mas perde participantes",
-      "summary": "Volume aportado em startups chegou a R$ 919 milhões em 2025, alta de 4,2%, enquanto a base de investidores recuou 1%, segundo pesquisa da Anjos do Brasil",
+      "title": "Governo lançará renegociação de dívidas do MEI com 70% de desconto, diz procuradora",
+      "summary": "O público-alvo são 3,5 milhões de MEIs, micro e pequenas empresas com débitos de até R$ 20 mil",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/business/startups-brasil-tem-alta-de-investimento-anjo-mas-perde-participantes/",
-      "time": "2026-06-27T10:00:00Z",
+      "url": "https://www.infomoney.com.br/minhas-financas/governo-lancara-renegociacao-de-dividas-do-mei-com-70-de-desconto-diz-procuradora/",
+      "time": "2026-06-27T12:07:35Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/Flat-vector-graphic-of-an-Asian-woman-with-large-feathered-wings-delivering-a-stack-of-money-in-a-crisp-clean-design.-Simple-vector-style-utilizing-a-limited-color-palette-for-a-modern-aesthetic.-The-woman-.jpg?fit=300%2C168&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/towfiqu-barbhuiya-3aGZ7a97qwA-unsplash.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Fundos imobiliários na aposentadoria: qual a dose certa?",
-      "summary": "Entenda o peso dos FIIs na carteira dependendo do perfil financeiro do investidor",
+      "title": "Irã culpa os EUA por troca de ataques e denuncia “violação flagrante” do cessar-fogo",
+      "summary": "Os Estados Unidos argumentam que seus bombardeios ocorreram em resposta a novos ataques iranianos a navios no Estreito de Ormuz",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/onde-investir/fundos-imobiliarios-na-aposentadoria-qual-a-dose-certa/",
-      "time": "2026-06-27T08:00:00Z",
-      "cat": "acoes",
+      "url": "https://www.infomoney.com.br/mundo/ira-culpa-os-eua-por-troca-de-ataques-e-denuncia-violacao-flagrante-do-cessar-fogo/",
+      "time": "2026-06-27T12:00:25Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2148962420.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/estreito-ormuz-ira-guerra-oriente-medio-petroleo.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Com o banco na palma da mão, 78% das operações financeiras já são feitas por celular",
-      "summary": "No total, 83% de todas as transações bancárias realizadas no país foram feitas em canais digitais, por isso bancos devem investir R$ 50,4 bilhões em tecnologia ainda este ano",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/minhas-financas/com-o-banco-na-palma-da-mao-78-das-operacoes-financeiras-ja-sao-feitas-por-celular/",
-      "time": "2026-06-27T07:00:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/06/pexels-keira-burton-6146956.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Banco do Brasil (BBAS3) ganha alívio em consumo de capital com ‘ok’ de TCU; entenda",
-      "summary": "O Banco do Brasil (BBAS3), que vem enfrentando uma piora nos resultados, conseguiu um alívio que promete reduzir o consumo de capital. A informação foi divulgada em documento enviado ao mercado nesta sexta-feira (26). Se",
+      "title": "Bitcoin (BTC) amplia correção e testa suporte crítico de longo prazo, apontam analistas do BTG",
+      "summary": "O bitcoin (BTC) segue pressionado e caminha para encerrar a última semana de junho com queda próxima de 5%, reforçando um cenário de fraqueza técnica que já se estende ao longo de 2026. No acumulado do ano, entretanto, a",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/banco-do-brasil-bbas3-ganha-alivio-em-consumo-de-capital-com-ok-de-tcu-entenda/",
-      "time": "2026-06-26T22:51:15Z",
-      "cat": "acoes",
+      "url": "https://www.moneytimes.com.br/bitcoin-amplia-correcao-e-testa-suporte-critico-de-longo-prazo-apontam-analistas-do-btg-rens/",
+      "time": "2026-06-27T13:00:00Z",
+      "cat": "cripto",
       "tickers": [
-        "BBAS3"
+        "BTC"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/11/banco-do-brasil-agronegocio-1.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2026/04/bitcoin-btc-criptomoedas-e-o-risco-quantico-imagem-copilot.png"
     },
     {
-      "title": "Governo libera R$ 661 milhões para aliviar capital de giro das aéreas com alta do QAV",
-      "summary": "O governo federal liberou R$ 661 milhões em financiamento para capital de giro de companhias aéreas diante da alta do querosene de aviação (QAV), segundo o Ministério de Portos e Aeroportos. Os contratos foram assinados ",
+      "title": "Braskem (BRKM5) derrete 16% e lidera perdas do Ibovespa pela 2ª semana consecutiva; veja os destaques do índice",
+      "summary": "O Ibovespa (IBOV) O Ibovespa (IBOV) voltou a ganhar força após a divulgação de dados de inflação abaixo do esperado no Brasil e nos Estados Unidos, além da realização de lucros nas ações de tecnologia no exterior, movime",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/governo-libera-r-661-milhoes-para-aliviar-capital-de-giro-das-aereas-com-alta-do-qav/",
-      "time": "2026-06-26T22:34:50Z",
+      "url": "https://www.moneytimes.com.br/destaques-da-semana-ibov-26-6-26-apsa/",
+      "time": "2026-06-27T12:58:00Z",
       "cat": "acoes",
       "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Cogna (COGN3) amplia fatia na Educbank com compra de participação por R$ 46,3 milhões",
-      "summary": "A Cogna (COGN3) anunciou nesta sexta-feira (26) a aquisição de mais 47% da Educbank Pagamentos Educacionais por R$ 46,29 milhões, ampliando sua participação na empresa para 90% do capital social. O pagamento será feito à",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/cogna-cogn3-amplia-fatia-na-educbank-com-compra-de-participacao-por-r-463-milhoes/",
-      "time": "2026-06-26T21:53:03Z",
-      "cat": "acoes",
-      "tickers": [
-        "COGN3"
-      ],
-      "image": null
+      "image": "https://www.moneytimes.com.br/uploads/2025/02/ibovespa-gringos.jpg"
     },
     {
       "title": "CACR11 dispara mais de 10%; IFIX fecha em alta e encerra a semana acima dos 3.800 pontos",
@@ -177,34 +153,34 @@
       "image": null
     },
     {
-      "title": "Eleições em Pauta analisa crise entre Michelle e Flávio e mapeia eleitores decisivos",
-      "summary": "Programa da EXAME sobre a corrida eleitoral de 2026 também mergulhou na disputa em Pernambuco entre Raquel Lyra e João Campos",
+      "title": "Dólar digital: quais seriam os impactos de uma stablecoin do Fed no mercado cripto global?",
+      "summary": "EUA escolheram privilegiar criptomoedas de dólar privadas no lugar de uma CBDC, o que garantiu a expansão do setor, mas isso pode mudar",
       "source": "Exame",
-      "url": "https://exame.com/brasil/eleicoes-em-pauta-analisa-crise-entre-michelle-e-flavio-e-mapeia-eleitores-decisivos/",
-      "time": "2026-06-27T07:49:50Z",
-      "cat": "economia",
+      "url": "https://exame.com/future-of-money/dolar-digital-quais-seriam-os-impactos-no-mercado-cripto-global-de-uma-stablecoin-do-fed/",
+      "time": "2026-06-27T10:00:12Z",
+      "cat": "cripto",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/Imagem-25-06-2026-as-07.29.png"
+      "image": "https://classic.exame.com/wp-content/uploads/2020/11/bitcoin-usd.jpg"
     },
     {
-      "title": "Copa do Mundo 2026: confira os resultados dos jogos de ontem, sexta-feira, 26",
-      "summary": "França goleia Noruega, Espanha confirma liderança e Cabo Verde faz história",
+      "title": "Gigante de R$ 5,6 bi, Rodobens fecha com o Mirassol de olho num mercado de R$ 600 milhões",
+      "summary": "Administradora de consórcio de 75 anos lança um plano de moto em co-branding com o clube e transforma a base de torcedores em canal de venda",
       "source": "Exame",
-      "url": "https://exame.com/esporte/copa-do-mundo-2026-confira-os-resultados-dos-jogos-de-ontem-sexta-feira-26/",
-      "time": "2026-06-27T07:46:02Z",
+      "url": "https://exame.com/negocios/gigante-de-r-56-bi-rodobens-fecha-com-o-mirassol-de-olho-num-mercado-de-r-600-milhoes/",
+      "time": "2026-06-27T09:02:18Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/Franca-Noruega.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/01/EX1283_MAT_MAT_POTY14.jpg"
     },
     {
-      "title": "Cientistas descobrem neurônios que ajudam o cérebro a ignorar distrações",
-      "summary": "Grupo de neurônios localizado em uma região evolutivamente antiga parece selecionar informações importantes e reduzir interferências",
-      "source": "Exame",
-      "url": "https://exame.com/ciencia/cientistas-descobrem-neuronios-que-ajudam-o-cerebro-a-ignorar-distracoes/",
-      "time": "2026-06-27T07:44:20Z",
-      "cat": "economia",
+      "title": "Citi aponta ações de internet chinesa como oportunidade de compra",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/citi-aponta-acoes-de-internet-chinesa-como-oportunidade-de-compra-1985695",
+      "time": "2026-06-27T11:24:26Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/05/blue-tumor-reveals-alzheimer-disease-human-brain-generated-by-ai.jpg"
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
       "title": "Por que a transformação da BMW depende da execução da NEUE KLASSE",
@@ -285,17 +261,7 @@
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Colômbia - Ações fecharam o pregão em alta e o Índice COLCAP avançou 1,09%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/colombia--acoes-fecharam-o-pregao-em-alta-e-o-indice-colcap-avancou-109-1985524",
-      "time": "2026-06-26T21:25:18Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": null
     }
   ],
-  "atualizado_em": "27/06/2026 10:57"
+  "atualizado_em": "27/06/2026 13:25"
 }
