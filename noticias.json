@@ -1,61 +1,113 @@
 {
   "headline": {
-    "title": "IRB(Re) (IRBR3) e Itaúsa (ITSA4): Veja quem paga dividendos na semana",
-    "summary": "IRB(Re) (IRBR3) e Itaúsa (ITSA4): Veja quem paga dividendos na semanaEsta semana começa com mais uma rodada de dividendos caindo na conta dos investidores, com destaque para a distribuição de proventos do IRB(Re) (IRBR3)",
-    "source": "Suno",
-    "url": "https://www.suno.com.br/noticias/irb-irbr3-itausa-itsa4-agenda-dividendos-26062026-go/",
-    "time": "2026-06-28T13:00:00Z",
+    "title": "Petrobras (PETR3;PETR4), Itaú (ITUB3;ITUB4) e mais 18 empresas pagam dividendos nesta semana; veja o calendário",
+    "summary": "Na semana de 29 de junho a 3 de julho, 20 companhias da bolsa brasileira pagam dividendos e juros sobre capital próprio (JCP) aos seus acionistas. Na terça-feira (30), a Petrobras (PETR3;PETR4) realiza pagamento de JCP n",
+    "source": "Money Times",
+    "url": "https://www.moneytimes.com.br/dividendos-da-semana-26-6-26-apsa/",
+    "time": "2026-06-28T16:00:00Z",
     "cat": "fundos",
     "tickers": [
-      "IRBR3"
+      "PETR3",
+      "PETR4",
+      "ITUB3"
     ],
-    "image": null
+    "image": "https://www.moneytimes.com.br/uploads/2025/08/itau-1.jpg"
   },
   "featured": [
     {
-      "title": "Inter vê chance rara na renda fixa e destaca retorno de mais de 3.000% do IPCA+8%",
-      "summary": "Com um retorno superior a 3.000% nesse período e acima de 200% na última década, o histórico reforça a avaliação do Inter de que os títulos públicos atrelados à inflação voltam a despontar entre as melhores oportunidades",
+      "title": "O inverno chegou para o bitcoin (BTC). E agora? Essa e as mais lidas da semana no Crypto Times",
+      "summary": "Olá, investidor e investidora de cripto! Sejam muito bem-vindos a mais uma edição da nossa coluna semanal do Crypto Times, a editoria de criptomoedas do Money Times. Para se inscrever e receber em primeira mão em todas a",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/inter-ve-chance-rara-na-renda-fixa-e-destaca-retorno-de-mais-de-3-000-do-ipca8-jcav/",
-      "time": "2026-06-28T13:28:31Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/06/selic-juros-renda-fixa-tesouro-direto-.jpg"
+      "url": "https://www.moneytimes.com.br/o-inverno-chegou-para-o-bitcoin-btc-e-agora-essa-e-as-mais-lidas-da-semana-no-crypto-times-rens/",
+      "time": "2026-06-28T14:00:00Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/ned-stark-personagem-do-game-of-thrones-com-uma-chuva-de-criptomoedas-ao-fundo-imagem-montagem-money-times-divulgacao-hbo-canva-pro-.png"
     },
     {
-      "title": "Ucrânia ataca Rússia com drones e incendeia importante refinaria de petróleo",
-      "summary": "A Ucrânia fez um intenso ataque de drones contra a Rússia neste domingo (28) conforme autoridades russas. A ofensiva incendiou uma importante refinaria de petróleo no sul do país e matou pelo menos duas pessoas. Os ataqu",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ucrania-ataca-russia-com-drones-e-incendeia-importante-refinaria-de-petroleo-jcav/",
-      "time": "2026-06-28T13:17:48Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/08/ucrania-imagem-canva-peter-muscutt-de-pexels.png"
+      "title": "IRB(Re) (IRBR3) e Itaúsa (ITSA4): Veja quem paga dividendos na semana",
+      "summary": "IRB(Re) (IRBR3) e Itaúsa (ITSA4): Veja quem paga dividendos na semanaEsta semana começa com mais uma rodada de dividendos caindo na conta dos investidores, com destaque para a distribuição de proventos do IRB(Re) (IRBR3)",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/irb-irbr3-itausa-itsa4-agenda-dividendos-26062026-go/",
+      "time": "2026-06-28T13:00:00Z",
+      "cat": "fundos",
+      "tickers": [
+        "IRBR3"
+      ],
+      "image": null
     }
   ],
   "all": [
     {
-      "title": "Irã faz duras críticas aos EUA após eliminação da Copa: ‘Tratamento injusto’",
-      "summary": "Em carta, a seleção destacou que levará consigo as experiências vividas durante o Mundial e manifestou o desejo de retornar ao país no futuro",
+      "title": "África do Sul x Canadá: modelo matemático aponta possível resultado do jogo; veja",
+      "summary": "Cálculo estatístico da Fundação Getúlio Vargas projeta a seleção que tem mais chances de ganhar partida deste domingo, 28",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/esportes/ira-faz-duras-criticas-aos-eua-apos-eliminacao-da-copa-tratamento-injusto/",
-      "time": "2026-06-28T12:38:15Z",
-      "cat": "internacional",
+      "url": "https://www.infomoney.com.br/esportes/africa-do-sul-x-canada-modelo-matematico-aponta-possivel-resultado-do-jogo-veja/",
+      "time": "2026-06-28T16:00:00Z",
+      "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-27T051804Z_445183880_UP1EM6R0EQ3DY_RTRMADP_3_SOCCER-WORLDCUP-EGY-IRN.jpg?fit=300%2C209&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2706_AfricadoSul_Canada.png?fit=300%2C191&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Lucros do setor industrial na China seguem resilientes em maio",
-      "summary": "O crescimento dos lucros das empresas industriais da China em maio foi de 21,1% em relação ao ano anterior, uma desaceleração em relação aos 24,7% registrados em abril",
+      "title": "Criança de 11 anos é resgatada em escombros de terremoto na Venezuela: ‘Esperança’",
+      "summary": "A informação foi confirmada pela presidente interina, Delcy Rodríguez",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mundo/lucros-do-setor-industrial-na-china-seguem-resilientes-em-maio/",
-      "time": "2026-06-28T12:30:00Z",
-      "cat": "internacional",
+      "url": "https://www.infomoney.com.br/mundo/crianca-de-11-anos-e-resgatada-em-escombros-de-terremoto-na-venezuela-esperanca/",
+      "time": "2026-06-28T15:45:00Z",
+      "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/03/2024-03-25T111032Z_1_LYNXNPEK2O0CS_RTROPTP_3_MACRO-CHINA-INDUSTRIA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-28T145736Z_203445207_RC223MASGVQ6_RTRMADP_3_VENEZUELA-QUAKE.jpg?fit=169%2C300&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Inter vê chance rara na renda fixa e destaca retorno de mais de 3.000% do IPCA+8%",
+      "title": "Petrobras (PETR3;PETR4), Itaú (ITUB3;ITUB4) e mais 18 empresas pagam dividendos nesta semana; veja o calendário",
+      "summary": "Na semana de 29 de junho a 3 de julho, 20 companhias da bolsa brasileira pagam dividendos e juros sobre capital próprio (JCP) aos seus acionistas. Na terça-feira (30), a Petrobras (PETR3;PETR4) realiza pagamento de JCP n",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/dividendos-da-semana-26-6-26-apsa/",
+      "time": "2026-06-28T16:00:00Z",
+      "cat": "fundos",
+      "tickers": [
+        "PETR3",
+        "PETR4",
+        "ITUB3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/08/itau-1.jpg"
+    },
+    {
+      "title": "Agenda: Payroll, jolts e PMI; veja os dados que vão mexer com os mercados esta semana",
+      "summary": "Indicadores econômicos globais na última semana de junho e início de julho sinalizam tendências para juros, inflação e crescimento nas principais economias.",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/agenda-payroll-jolts-e-pmi-veja-os-dados-que-vao-mexer-com-os-mercados-esta-semana/",
+      "time": "2026-06-28T15:00:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/agenda-da-semana-.jpg"
+    },
+    {
+      "title": "Empresa brasileira aposta em água premium captada na Amazônia para atender mercado de luxo",
+      "summary": "A empresa brasileira Ô Amazon Air Water está apostando na água produzida a partir da umidade da floresta amazônica para disputar espaço no mercado de bebidas premium. O produto é obtido por meio da condensação da umidade",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/empresa-brasileira-aposta-em-agua-premium-captada-na-amazonia-para-atender-mercado-de-luxo/",
+      "time": "2026-06-28T14:30:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/5e332c71-21b6-4eff-bef6-4da609aa6743-683x1024.jpeg"
+    },
+    {
+      "title": "O inverno chegou para o bitcoin (BTC). E agora? Essa e as mais lidas da semana no Crypto Times",
+      "summary": "Olá, investidor e investidora de cripto! Sejam muito bem-vindos a mais uma edição da nossa coluna semanal do Crypto Times, a editoria de criptomoedas do Money Times. Para se inscrever e receber em primeira mão em todas a",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/o-inverno-chegou-para-o-bitcoin-btc-e-agora-essa-e-as-mais-lidas-da-semana-no-crypto-times-rens/",
+      "time": "2026-06-28T14:00:00Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/ned-stark-personagem-do-game-of-thrones-com-uma-chuva-de-criptomoedas-ao-fundo-imagem-montagem-money-times-divulgacao-hbo-canva-pro-.png"
+    },
+    {
+      "title": "Inter vê chance rara na renda fixa e destaca retorno de mais de 3.000% do IPCA+8% em 25 anos",
       "summary": "Com um retorno superior a 3.000% nesse período e acima de 200% na última década, o histórico reforça a avaliação do Inter de que os títulos públicos atrelados à inflação voltam a despontar entre as melhores oportunidades",
       "source": "Money Times",
       "url": "https://www.moneytimes.com.br/inter-ve-chance-rara-na-renda-fixa-e-destaca-retorno-de-mais-de-3-000-do-ipca8-jcav/",
@@ -83,40 +135,6 @@
       "cat": "internacional",
       "tickers": [],
       "image": "https://www.moneytimes.com.br/uploads/2021/07/novo-ciclo-ipos-moneytimes.jpg"
-    },
-    {
-      "title": "Smart Fit (SMFT3): Por que o TotalPass vem gerando ruído na leitura sobre as ações? Analista explica",
-      "summary": "Apesar da preocupação com níveis de rentabilidade por cliente, Ruy Hungria, da Empiricus, aponta que o TotalPass tem papel importante na expansão da Smart Fit",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/smart-fit-smft3-por-que-o-totalpass-vem-gerando-ruido-na-leitura-sobre-as-acoes-analista-explica-lbrdjt004/",
-      "time": "2026-06-28T12:00:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2024/07/smart-fit.webp"
-    },
-    {
-      "title": "Trump confirma ataques dos EUA contra alvos do Irã e alerta para ‘violação’ do cessar-fogo",
-      "summary": "Os ataques aéreos dos EUA atingiram depósitos de mísseis e radares iranianos como resposta à violação do cessar-fogo, elevando tensões na região.",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/trump-confirma-ataques-dos-eua-contra-alvos-do-ira-e-alerta-para-violacao-do-cessar-fogo-jcav/",
-      "time": "2026-06-28T11:17:31Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/06/trump.png"
-    },
-    {
-      "title": "5 ações para bater o Ibovespa (IBOV) no curto prazo, segundo a Terra Investimentos",
-      "summary": "A carteira recomendada da Terra Investimentos para o período de 26 de junho a 03 de julho é composta pelas ações da Sabesp (SBSP3), MBRF (MBRF3), Suzano (SUZB3), Hypera (HYPE3) e Iguatemi (IGTI11), a mesma composição da ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/5-acoes-para-bater-o-ibovespa-ibov-no-curto-prazo-segundo-a-terra-investimentos-lmrs/",
-      "time": "2026-06-27T17:00:00Z",
-      "cat": "acoes",
-      "tickers": [
-        "SBSP3",
-        "MBRF3",
-        "SUZB3"
-      ],
-      "image": null
     },
     {
       "title": "IRB(Re) (IRBR3) e Itaúsa (ITSA4): Veja quem paga dividendos na semana",
@@ -195,24 +213,24 @@
       "image": null
     },
     {
-      "title": "Quais jogos da Copa serão exclusivos da CazéTV? Veja a programação",
-      "summary": "Emissora também enfrenta liminar do Conar e altera o formato dos anúncios de bets durante a Copa do Mundo",
+      "title": "Copa do Mundo 2026: veja como ficou a classificação do grupo L",
+      "summary": "Kane se torna maior artilheiro inglês em Copas em vitória sobre o Panamá",
       "source": "Exame",
-      "url": "https://exame.com/esporte/quais-jogos-da-copa-serao-exclusivos-da-cazetv-veja-a-programacao/",
-      "time": "2026-06-28T10:10:42Z",
+      "url": "https://exame.com/esporte/copa-do-mundo-2026-veja-como-ficou-a-classificacao-do-grupo-l/",
+      "time": "2026-06-28T12:28:50Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/MG_9809.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/HarryKane.jpg"
     },
     {
-      "title": "Seu patrimônio em criptoativos tem herdeiros?",
-      "summary": "Elaborar um testamento corretamente ou constituir uma holding familiar são caminhos não excludentes que podem ajudar na sucessão com ativos digitais",
-      "source": "Exame",
-      "url": "https://exame.com/future-of-money/seu-patrimonio-em-criptoativos-tem-herdeiros/",
-      "time": "2026-06-28T10:00:36Z",
-      "cat": "cripto",
+      "title": "Ibovespa sobe quase 3% na semana, mas gráfico semanal acende alerta para Bull Trap",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-sobe-quase-3-na-semana-mas-grafico-semanal-acende-alerta-para-bull-trap-1985541",
+      "time": "2026-06-28T15:16:06Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/05/kanchanara-ow-rGjlqJkM-unsplash.jpg"
+      "image": null
     },
     {
       "title": "Cobertura de posições vendidas em Treasuries acelera enquanto ações enfrentam pressão",
@@ -293,17 +311,7 @@
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Vendas de ações em Hong Kong atingem máxima de cinco anos impulsionadas pela IA",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/vendas-de-acoes-em-hong-kong-atingem-maxima-de-cinco-anos-impulsionadas-pela-ia-1985799",
-      "time": "2026-06-28T01:32:57Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "28/06/2026 13:29"
+  "atualizado_em": "28/06/2026 16:08"
 }
