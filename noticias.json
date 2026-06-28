@@ -1,60 +1,66 @@
 {
   "headline": {
-    "title": "Dívida pública federal chega a R$ 9 trilhões em maio, diz Tesouro Nacional",
-    "summary": "Crescimento foi de 2,66% em relação a abril, de acordo com o relatório",
-    "source": "InfoMoney",
-    "url": "https://www.infomoney.com.br/economia/divida-publica-federal-chega-a-r-9-trilhoes-em-maio-diz-tesouro-nacional/",
-    "time": "2026-06-27T21:00:00Z",
-    "cat": "acoes",
+    "title": "Selic só deve voltar a cair após El Niño e alívio do petróleo, diz economista",
+    "summary": "Adauto Lima, da Franklin Templeton, avalia que o BC deve interromper o ciclo de cortes e manter os juros elevados até que os choques inflacionários percam força",
+    "source": "Exame",
+    "url": "https://exame.com/economia/selic-so-deve-voltar-a-cair-apos-el-nino-e-alivio-do-petroleo-diz-economista/",
+    "time": "2026-06-28T07:55:13Z",
+    "cat": "economia",
     "tickers": [],
-    "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-22T213747Z_1_LYNXNPEL8L0X7_RTROPTP_4_MACRO-TRIBUTARIA-ALIQUOTA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    "image": "https://classic.exame.com/wp-content/uploads/2022/06/bc.jpg"
   },
   "featured": [
     {
-      "title": "5 ações para bater o Ibovespa (IBOV) no curto prazo, segundo a Terra Investimentos",
-      "summary": "A carteira recomendada da Terra Investimentos para o período de 26 de junho a 03 de julho é composta pelas ações da Sabesp (SBSP3), MBRF (MBRF3), Suzano (SUZB3), Hypera (HYPE3) e Iguatemi (IGTI11), a mesma composição da ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/5-acoes-para-bater-o-ibovespa-ibov-no-curto-prazo-segundo-a-terra-investimentos-lmrs/",
-      "time": "2026-06-27T17:00:00Z",
-      "cat": "acoes",
-      "tickers": [
-        "SBSP3",
-        "MBRF3",
-        "SUZB3"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/11/acoes-bolsa-grafico-1-1-1-1-1-1.jpg"
-    },
-    {
-      "title": "Netanyahu vê queda do regime do Irã e enviará delegação a Washington",
-      "summary": "Segundo Netanyahu, Israel \"não foi parte\" de um acordo entre Irã e Estados Unidos e tem interesses que pretende discutir com autoridades americanas",
+      "title": "Cate Blanchett cria ferramenta para autorizar (ou não) IA a usar sua imagem",
+      "summary": "A plataforma está disponível para os EUA e União Europeia",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/netanyahu-ve-queda-do-regime-do-ira-e-enviara-delegacao-a-washington/",
-      "time": "2026-06-27T21:45:34Z",
+      "url": "https://www.infomoney.com.br/consumo/cate-blanchett-ferramenta-nivel-consentimento-uso-ia/",
+      "time": "2026-06-28T11:00:00Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/2026-01-10T074308Z_861627589_RC2BSGA6IFR5_RTRMADP_3_ISRAEL-NETANYAHU-MILITARY-AID.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/1280px-Cate_Blanchett-63288.jpg?fit=300%2C225&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Juro alto trava inovação e asfixia indústria de transformação, dizem especialistas",
+      "summary": "Com Selic a 14,25%, setor produtivo perde espaço no PIB e vê o investimento em pesquisa secar diante da atratividade da renda fixa",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/economia/selic-alta-asfixia-industria-transformacao-inovacao/",
+      "time": "2026-06-28T08:00:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/alimentos.jpg?fit=300%2C197&amp;quality=70&amp;strip=all"
     }
   ],
   "all": [
     {
-      "title": "Netanyahu vê queda do regime do Irã e enviará delegação a Washington",
-      "summary": "Segundo Netanyahu, Israel \"não foi parte\" de um acordo entre Irã e Estados Unidos e tem interesses que pretende discutir com autoridades americanas",
+      "title": "Cate Blanchett cria ferramenta para autorizar (ou não) IA a usar sua imagem",
+      "summary": "A plataforma está disponível para os EUA e União Europeia",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/netanyahu-ve-queda-do-regime-do-ira-e-enviara-delegacao-a-washington/",
-      "time": "2026-06-27T21:45:34Z",
+      "url": "https://www.infomoney.com.br/consumo/cate-blanchett-ferramenta-nivel-consentimento-uso-ia/",
+      "time": "2026-06-28T11:00:00Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/2026-01-10T074308Z_861627589_RC2BSGA6IFR5_RTRMADP_3_ISRAEL-NETANYAHU-MILITARY-AID.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/1280px-Cate_Blanchett-63288.jpg?fit=300%2C225&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Dívida pública federal chega a R$ 9 trilhões em maio, diz Tesouro Nacional",
-      "summary": "Crescimento foi de 2,66% em relação a abril, de acordo com o relatório",
+      "title": "Juro alto trava inovação e asfixia indústria de transformação, dizem especialistas",
+      "summary": "Com Selic a 14,25%, setor produtivo perde espaço no PIB e vê o investimento em pesquisa secar diante da atratividade da renda fixa",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/economia/divida-publica-federal-chega-a-r-9-trilhoes-em-maio-diz-tesouro-nacional/",
-      "time": "2026-06-27T21:00:00Z",
+      "url": "https://www.infomoney.com.br/economia/selic-alta-asfixia-industria-transformacao-inovacao/",
+      "time": "2026-06-28T08:00:00Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-22T213747Z_1_LYNXNPEL8L0X7_RTROPTP_4_MACRO-TRIBUTARIA-ALIQUOTA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/alimentos.jpg?fit=300%2C197&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Receita adia exigência de CNPJ para pessoas físicas na emissão de documentos fiscais",
+      "summary": "Medida atinge autônomos, prestadores de serviço e produtores rurais no âmbito da reforma tributária; governo cita necessidade de adaptação e implantação de sistema simplificado",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/receita-adia-exigencia-de-cnpj-para-pessoas-fisicas-na-emissao-de-documentos-fiscais/",
+      "time": "2026-06-28T07:00:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/11/cropped-receita-federal.webp?fit=225%2C300&amp;quality=70&amp;strip=all"
     },
     {
       "title": "5 ações para bater o Ibovespa (IBOV) no curto prazo, segundo a Terra Investimentos",
@@ -80,7 +86,7 @@
       "tickers": [
         "BBAS3"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2024/05/banco-do-brasil-bbas3-radar-do-mercado.jpg"
+      "image": null
     },
     {
       "title": "Fundo imobiliário em liquidação e Tesouro IPCA+ 10%: Veja o que mais chamou atenção na semana",
@@ -90,7 +96,7 @@
       "time": "2026-06-27T14:14:02Z",
       "cat": "fundos",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/01/fiis-fundos-imobiliarios-imagem-jabkitticha-istockphoto.png"
+      "image": null
     },
     {
       "title": "Bitcoin (BTC) tenta recuperação após semana de forte volatilidade; confira preços das criptomoedas neste sábado (27)",
@@ -102,19 +108,7 @@
       "tickers": [
         "BTC"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/10/fintech-crypto.jpg"
-    },
-    {
-      "title": "Bitcoin (BTC) amplia correção e testa suporte crítico de longo prazo, apontam analistas do BTG",
-      "summary": "O bitcoin (BTC) segue pressionado e caminha para encerrar a última semana de junho com queda próxima de 5%, reforçando um cenário de fraqueza técnica que já se estende ao longo de 2026. No acumulado do ano, entretanto, a",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bitcoin-amplia-correcao-e-testa-suporte-critico-de-longo-prazo-apontam-analistas-do-btg-rens/",
-      "time": "2026-06-27T13:00:00Z",
-      "cat": "cripto",
-      "tickers": [
-        "BTC"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/04/bitcoin-btc-criptomoedas-e-o-risco-quantico-imagem-copilot.png"
+      "image": null
     },
     {
       "title": "Filha do “rei da orla” quer franquear negócio criado na pandemia; entenda",
@@ -193,24 +187,104 @@
       "image": null
     },
     {
-      "title": "PF indicia diretor-geral da ANM por suspeita de esquema de mineração ilegal",
-      "summary": "Investigação sobre extração irregular de minério em Minas Gerais também indiciou outro diretor da agência; ANM afirma que ainda não foi comunicada oficialmente sobre a conclusão do inquérito",
+      "title": "Modelo do MEI é deficitário, mas governo adia debate sobre Previdência",
+      "summary": "Ministro diz que não haverá aumento da contribuição previdenciária, apesar de reconhecer desequilíbrio estrutural no financiamento do regime",
       "source": "Exame",
-      "url": "https://exame.com/brasil/pf-indicia-diretor-geral-da-anm-por-suspeita-de-esquema-de-mineracao-ilegal/",
-      "time": "2026-06-27T17:26:55Z",
+      "url": "https://exame.com/brasil/modelo-do-mei-e-deficitario-mas-governo-adia-debate-sobre-previdencia/",
+      "time": "2026-06-28T07:59:05Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/Mauro-Henrique-Moreira-Sousa.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2023/12/GettyImages-1228362872-1-e1704473064731.jpg"
     },
     {
-      "title": "Cristiano Ronaldo joga hoje? Portugal e Colômbia disputam liderança",
-      "summary": "O português fez dois gols na última partida e chega com moral para a última rodada da fase de grupos",
+      "title": "A geração Z usa IA todo dia — mas está cada vez mais desconfiada",
+      "summary": "Uso se mantém estável, mas o entusiasmo despencou e a raiva cresceu, segundo levantamento da Gallup com jovens americanos",
       "source": "Exame",
-      "url": "https://exame.com/esporte/cristiano-ronaldo-joga-hoje-portugal-e-colombia-disputam-lideranca/",
-      "time": "2026-06-27T16:26:34Z",
+      "url": "https://exame.com/inteligencia-artificial/a-geracao-z-usa-ia-todo-dia-mas-esta-cada-vez-mais-desconfiada-dela/",
+      "time": "2026-06-28T07:55:43Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/AFP__20260617__B7F4993__v1__MidRes__FblWc2026Match23PorCod.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/gen_z.png"
+    },
+    {
+      "title": "Selic só deve voltar a cair após El Niño e alívio do petróleo, diz economista",
+      "summary": "Adauto Lima, da Franklin Templeton, avalia que o BC deve interromper o ciclo de cortes e manter os juros elevados até que os choques inflacionários percam força",
+      "source": "Exame",
+      "url": "https://exame.com/economia/selic-so-deve-voltar-a-cair-apos-el-nino-e-alivio-do-petroleo-diz-economista/",
+      "time": "2026-06-28T07:55:13Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2022/06/bc.jpg"
+    },
+    {
+      "title": "Wolfe Research mantém otimismo com ações e aposta em IA e semicondutores no 2º semestre",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/wolfe-research-mantem-otimismo-com-acoes-e-aposta-em-ia-e-semicondutores-no-2o-semestre-1985863",
+      "time": "2026-06-28T10:14:35Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Deutsche Bank destaca DexCom e Insulet entre as melhores ações de saúde",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/deutsche-bank-destaca-dexcom-e-insulet-entre-as-melhores-acoes-de-saude-93CH-1985861",
+      "time": "2026-06-28T10:11:05Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Por que investidores não estão comprando a queda das ações da BMW apesar do valor negativo",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-investidores-nao-estao-comprando-a-queda-das-acoes-da-bmw-apesar-do-valor-negativo-1985857",
+      "time": "2026-06-28T09:54:06Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "5 grandes movimentos de analistas em IA: preço-alvo da Micron elevado e cautela com valuation da SpaceX",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/5-grandes-movimentos-de-analistas-em-ia-precoalvo-da-micron-elevado-e-cautela-com-valuation-da-spacex-1985838",
+      "time": "2026-06-28T09:00:02Z",
+      "cat": "analise",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Fabricantes de chips de memória lucram com boom da IA enquanto preços disparam",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/fabricantes-de-chips-de-memoria-lucram-com-boom-da-ia-enquanto-precos-disparam-1985819",
+      "time": "2026-06-28T05:44:41Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Boom no capex ameaça reduzir recompras de ações, motor chave da demanda",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/boom-no-capex-ameaca-reduzir-recompras-de-acoes-motor-chave-da-demanda-1985803",
+      "time": "2026-06-28T02:02:14Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Vendas de ações em Hong Kong atingem máxima de cinco anos impulsionadas pela IA",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/vendas-de-acoes-em-hong-kong-atingem-maxima-de-cinco-anos-impulsionadas-pela-ia-1985799",
+      "time": "2026-06-28T01:32:57Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
       "title": "Rússia - Ações fecharam o pregão em queda e o Índice MOEX Russia Index terminou sem alterações",
@@ -221,57 +295,7 @@
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/LYNXMPED5E0GC-ORUBS_M.jpg"
-    },
-    {
-      "title": "Coreia do Sul é o mercado mais esticado no rali global de ações, diz BCA",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/coreia-do-sul-e-o-mercado-mais-esticado-no-rali-global-de-acoes-diz-bca-1985759",
-      "time": "2026-06-27T18:53:34Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "UBS apresenta estratégia de portfólio para mercados incertos",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ubs-traca-estrategia-de-portfolio-para-mercados-incertos-1985730",
-      "time": "2026-06-27T15:14:10Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Correlação entre títulos e ações cai ao menor nível em 30 anos",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/correlacao-entre-titulos-e-acoes-cai-ao-menor-nivel-em-30-anos-1985712",
-      "time": "2026-06-27T13:13:23Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Citi aponta ações de internet chinesa como oportunidade de compra",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/citi-aponta-acoes-de-internet-chinesa-como-oportunidade-de-compra-1985695",
-      "time": "2026-06-27T11:24:26Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Por que a transformação da BMW depende da execução da NEUE KLASSE",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-a-transformacao-da-bmw-depende-da-execucao-da-neue-klasse-1985672",
-      "time": "2026-06-27T09:27:41Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "27/06/2026 22:00"
+  "atualizado_em": "28/06/2026 11:05"
 }
