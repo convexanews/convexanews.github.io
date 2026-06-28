@@ -1,66 +1,108 @@
 {
   "headline": {
-    "title": "Selic só deve voltar a cair após El Niño e alívio do petróleo, diz economista",
-    "summary": "Adauto Lima, da Franklin Templeton, avalia que o BC deve interromper o ciclo de cortes e manter os juros elevados até que os choques inflacionários percam força",
-    "source": "Exame",
-    "url": "https://exame.com/economia/selic-so-deve-voltar-a-cair-apos-el-nino-e-alivio-do-petroleo-diz-economista/",
-    "time": "2026-06-28T07:55:13Z",
-    "cat": "economia",
-    "tickers": [],
-    "image": "https://classic.exame.com/wp-content/uploads/2022/06/bc.jpg"
+    "title": "IRB(Re) (IRBR3) e Itaúsa (ITSA4): Veja quem paga dividendos na semana",
+    "summary": "IRB(Re) (IRBR3) e Itaúsa (ITSA4): Veja quem paga dividendos na semanaEsta semana começa com mais uma rodada de dividendos caindo na conta dos investidores, com destaque para a distribuição de proventos do IRB(Re) (IRBR3)",
+    "source": "Suno",
+    "url": "https://www.suno.com.br/noticias/irb-irbr3-itausa-itsa4-agenda-dividendos-26062026-go/",
+    "time": "2026-06-28T13:00:00Z",
+    "cat": "fundos",
+    "tickers": [
+      "IRBR3"
+    ],
+    "image": null
   },
   "featured": [
     {
-      "title": "Cate Blanchett cria ferramenta para autorizar (ou não) IA a usar sua imagem",
-      "summary": "A plataforma está disponível para os EUA e União Europeia",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/consumo/cate-blanchett-ferramenta-nivel-consentimento-uso-ia/",
-      "time": "2026-06-28T11:00:00Z",
-      "cat": "acoes",
+      "title": "Inter vê chance rara na renda fixa e destaca retorno de mais de 3.000% do IPCA+8%",
+      "summary": "Com um retorno superior a 3.000% nesse período e acima de 200% na última década, o histórico reforça a avaliação do Inter de que os títulos públicos atrelados à inflação voltam a despontar entre as melhores oportunidades",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/inter-ve-chance-rara-na-renda-fixa-e-destaca-retorno-de-mais-de-3-000-do-ipca8-jcav/",
+      "time": "2026-06-28T13:28:31Z",
+      "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/1280px-Cate_Blanchett-63288.jpg?fit=300%2C225&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/selic-juros-renda-fixa-tesouro-direto-.jpg"
     },
     {
-      "title": "Juro alto trava inovação e asfixia indústria de transformação, dizem especialistas",
-      "summary": "Com Selic a 14,25%, setor produtivo perde espaço no PIB e vê o investimento em pesquisa secar diante da atratividade da renda fixa",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/economia/selic-alta-asfixia-industria-transformacao-inovacao/",
-      "time": "2026-06-28T08:00:00Z",
-      "cat": "acoes",
+      "title": "Ucrânia ataca Rússia com drones e incendeia importante refinaria de petróleo",
+      "summary": "A Ucrânia fez um intenso ataque de drones contra a Rússia neste domingo (28) conforme autoridades russas. A ofensiva incendiou uma importante refinaria de petróleo no sul do país e matou pelo menos duas pessoas. Os ataqu",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ucrania-ataca-russia-com-drones-e-incendeia-importante-refinaria-de-petroleo-jcav/",
+      "time": "2026-06-28T13:17:48Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/alimentos.jpg?fit=300%2C197&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2025/08/ucrania-imagem-canva-peter-muscutt-de-pexels.png"
     }
   ],
   "all": [
     {
-      "title": "Cate Blanchett cria ferramenta para autorizar (ou não) IA a usar sua imagem",
-      "summary": "A plataforma está disponível para os EUA e União Europeia",
+      "title": "Irã faz duras críticas aos EUA após eliminação da Copa: ‘Tratamento injusto’",
+      "summary": "Em carta, a seleção destacou que levará consigo as experiências vividas durante o Mundial e manifestou o desejo de retornar ao país no futuro",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/consumo/cate-blanchett-ferramenta-nivel-consentimento-uso-ia/",
-      "time": "2026-06-28T11:00:00Z",
-      "cat": "acoes",
+      "url": "https://www.infomoney.com.br/esportes/ira-faz-duras-criticas-aos-eua-apos-eliminacao-da-copa-tratamento-injusto/",
+      "time": "2026-06-28T12:38:15Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/1280px-Cate_Blanchett-63288.jpg?fit=300%2C225&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-27T051804Z_445183880_UP1EM6R0EQ3DY_RTRMADP_3_SOCCER-WORLDCUP-EGY-IRN.jpg?fit=300%2C209&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Juro alto trava inovação e asfixia indústria de transformação, dizem especialistas",
-      "summary": "Com Selic a 14,25%, setor produtivo perde espaço no PIB e vê o investimento em pesquisa secar diante da atratividade da renda fixa",
+      "title": "Lucros do setor industrial na China seguem resilientes em maio",
+      "summary": "O crescimento dos lucros das empresas industriais da China em maio foi de 21,1% em relação ao ano anterior, uma desaceleração em relação aos 24,7% registrados em abril",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/economia/selic-alta-asfixia-industria-transformacao-inovacao/",
-      "time": "2026-06-28T08:00:00Z",
-      "cat": "acoes",
+      "url": "https://www.infomoney.com.br/mundo/lucros-do-setor-industrial-na-china-seguem-resilientes-em-maio/",
+      "time": "2026-06-28T12:30:00Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/alimentos.jpg?fit=300%2C197&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/03/2024-03-25T111032Z_1_LYNXNPEK2O0CS_RTROPTP_3_MACRO-CHINA-INDUSTRIA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Receita adia exigência de CNPJ para pessoas físicas na emissão de documentos fiscais",
-      "summary": "Medida atinge autônomos, prestadores de serviço e produtores rurais no âmbito da reforma tributária; governo cita necessidade de adaptação e implantação de sistema simplificado",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/receita-adia-exigencia-de-cnpj-para-pessoas-fisicas-na-emissao-de-documentos-fiscais/",
-      "time": "2026-06-28T07:00:00Z",
+      "title": "Inter vê chance rara na renda fixa e destaca retorno de mais de 3.000% do IPCA+8%",
+      "summary": "Com um retorno superior a 3.000% nesse período e acima de 200% na última década, o histórico reforça a avaliação do Inter de que os títulos públicos atrelados à inflação voltam a despontar entre as melhores oportunidades",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/inter-ve-chance-rara-na-renda-fixa-e-destaca-retorno-de-mais-de-3-000-do-ipca8-jcav/",
+      "time": "2026-06-28T13:28:31Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/selic-juros-renda-fixa-tesouro-direto-.jpg"
+    },
+    {
+      "title": "Ucrânia ataca Rússia com drones e incendeia importante refinaria de petróleo",
+      "summary": "A Ucrânia fez um intenso ataque de drones contra a Rússia neste domingo (28) conforme autoridades russas. A ofensiva incendiou uma importante refinaria de petróleo no sul do país e matou pelo menos duas pessoas. Os ataqu",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ucrania-ataca-russia-com-drones-e-incendeia-importante-refinaria-de-petroleo-jcav/",
+      "time": "2026-06-28T13:17:48Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/08/ucrania-imagem-canva-peter-muscutt-de-pexels.png"
+    },
+    {
+      "title": "O que está por trás da retomada dos IPOs nos EUA? BTG explica os sinais do mercado",
+      "summary": "“O mercado de IPOs dos EUA está saindo de uma das maiores desacelerações da história moderna”, afirma o BTG Pactual em novo relatório. Após o “boom” de 2020 e 2021, impulsionado pelos juros próximos de zero e pela enorme",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/o-que-esta-por-tras-da-retomada-dos-ipos-nos-eua-btg-explica-os-sinais-do-mercado-ceci/",
+      "time": "2026-06-28T13:00:00Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2021/07/novo-ciclo-ipos-moneytimes.jpg"
+    },
+    {
+      "title": "Smart Fit (SMFT3): Por que o TotalPass vem gerando ruído na leitura sobre as ações? Analista explica",
+      "summary": "Apesar da preocupação com níveis de rentabilidade por cliente, Ruy Hungria, da Empiricus, aponta que o TotalPass tem papel importante na expansão da Smart Fit",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/smart-fit-smft3-por-que-o-totalpass-vem-gerando-ruido-na-leitura-sobre-as-acoes-analista-explica-lbrdjt004/",
+      "time": "2026-06-28T12:00:00Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/11/cropped-receita-federal.webp?fit=225%2C300&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2024/07/smart-fit.webp"
+    },
+    {
+      "title": "Trump confirma ataques dos EUA contra alvos do Irã e alerta para ‘violação’ do cessar-fogo",
+      "summary": "Os ataques aéreos dos EUA atingiram depósitos de mísseis e radares iranianos como resposta à violação do cessar-fogo, elevando tensões na região.",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/trump-confirma-ataques-dos-eua-contra-alvos-do-ira-e-alerta-para-violacao-do-cessar-fogo-jcav/",
+      "time": "2026-06-28T11:17:31Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/trump.png"
     },
     {
       "title": "5 ações para bater o Ibovespa (IBOV) no curto prazo, segundo a Terra Investimentos",
@@ -74,39 +116,17 @@
         "MBRF3",
         "SUZB3"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/11/acoes-bolsa-grafico-1-1-1-1-1-1.jpg"
-    },
-    {
-      "title": "Banco do Brasil (BBAS3) paga menos dividendos do que no passado; veja qual ‘bancão’ é recomendado pela Empiricus agora",
-      "summary": "Houve um período em que os papéis do Banco do Brasil (BBAS3) chamavam atenção quando o assunto era renda passiva por meio de dividendos. Porém, os números relacionados ao tema mudaram. Vale destacar que os grandes bancos",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/banco-do-brasil-bbas3-paga-menos-dividendos-do-que-no-passado-veja-qual-bancao-e-recomendado-pela-empiricus-agora-lbrdbb086/",
-      "time": "2026-06-27T15:00:00Z",
-      "cat": "fundos",
-      "tickers": [
-        "BBAS3"
-      ],
       "image": null
     },
     {
-      "title": "Fundo imobiliário em liquidação e Tesouro IPCA+ 10%: Veja o que mais chamou atenção na semana",
-      "summary": "Do fundo imobiliário que entrou em processo de liquidação até o banco que aprovou o pagamento de R$ 1,16 por ação em juros sobre o capital próprio (JCP), a semana foi marcada por uma série de fatos que dominaram o notici",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/fundo-imobiliario-em-liquidacao-e-tesouro-ipca-10-veja-o-que-mais-chamou-atencao-na-semana-igdl/",
-      "time": "2026-06-27T14:14:02Z",
+      "title": "IRB(Re) (IRBR3) e Itaúsa (ITSA4): Veja quem paga dividendos na semana",
+      "summary": "IRB(Re) (IRBR3) e Itaúsa (ITSA4): Veja quem paga dividendos na semanaEsta semana começa com mais uma rodada de dividendos caindo na conta dos investidores, com destaque para a distribuição de proventos do IRB(Re) (IRBR3)",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/irb-irbr3-itausa-itsa4-agenda-dividendos-26062026-go/",
+      "time": "2026-06-28T13:00:00Z",
       "cat": "fundos",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Bitcoin (BTC) tenta recuperação após semana de forte volatilidade; confira preços das criptomoedas neste sábado (27)",
-      "summary": "O bitcoin (BTC) é negociado na casa dos US$ 60,2 mil na manhã deste sábado (27), com leve alta de aproximadamente 1,7% nas últimas 24 horas, conforme dados da plataforma Coingecko. Apesar da recuperação diária, a maior c",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bitcoin-btc-tenta-recuperacao-apos-semana-de-forte-volatilidade-veja-precos-das-criptomoedas-neste-sabado-27-igdl/",
-      "time": "2026-06-27T13:24:40Z",
-      "cat": "cripto",
       "tickers": [
-        "BTC"
+        "IRBR3"
       ],
       "image": null
     },
@@ -175,46 +195,44 @@
       "image": null
     },
     {
-      "title": "VGIP11: fundo imobiliário mantém dividendos de IPCA+7,5% ao ano em 1 ano; veja resultados",
-      "summary": "O fundo imobiliário VGIP11 apurou resultado de R$ 12,405 milhões em maio, ligeiramente abaixo do mês anterior. As receitas totais alcançaram R$ 13,299 milhões, enquanto as despesas somaram R$ 893 mil no período. A distri",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/vgip11-resultado-maio-distribuicao-carteira/",
-      "time": "2026-06-26T18:15:06Z",
-      "cat": "fundos",
-      "tickers": [
-        "VGIP11"
-      ],
-      "image": null
-    },
-    {
-      "title": "Modelo do MEI é deficitário, mas governo adia debate sobre Previdência",
-      "summary": "Ministro diz que não haverá aumento da contribuição previdenciária, apesar de reconhecer desequilíbrio estrutural no financiamento do regime",
+      "title": "Quais jogos da Copa serão exclusivos da CazéTV? Veja a programação",
+      "summary": "Emissora também enfrenta liminar do Conar e altera o formato dos anúncios de bets durante a Copa do Mundo",
       "source": "Exame",
-      "url": "https://exame.com/brasil/modelo-do-mei-e-deficitario-mas-governo-adia-debate-sobre-previdencia/",
-      "time": "2026-06-28T07:59:05Z",
+      "url": "https://exame.com/esporte/quais-jogos-da-copa-serao-exclusivos-da-cazetv-veja-a-programacao/",
+      "time": "2026-06-28T10:10:42Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2023/12/GettyImages-1228362872-1-e1704473064731.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/MG_9809.jpg"
     },
     {
-      "title": "A geração Z usa IA todo dia — mas está cada vez mais desconfiada",
-      "summary": "Uso se mantém estável, mas o entusiasmo despencou e a raiva cresceu, segundo levantamento da Gallup com jovens americanos",
+      "title": "Seu patrimônio em criptoativos tem herdeiros?",
+      "summary": "Elaborar um testamento corretamente ou constituir uma holding familiar são caminhos não excludentes que podem ajudar na sucessão com ativos digitais",
       "source": "Exame",
-      "url": "https://exame.com/inteligencia-artificial/a-geracao-z-usa-ia-todo-dia-mas-esta-cada-vez-mais-desconfiada-dela/",
-      "time": "2026-06-28T07:55:43Z",
-      "cat": "economia",
+      "url": "https://exame.com/future-of-money/seu-patrimonio-em-criptoativos-tem-herdeiros/",
+      "time": "2026-06-28T10:00:36Z",
+      "cat": "cripto",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/gen_z.png"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/05/kanchanara-ow-rGjlqJkM-unsplash.jpg"
     },
     {
-      "title": "Selic só deve voltar a cair após El Niño e alívio do petróleo, diz economista",
-      "summary": "Adauto Lima, da Franklin Templeton, avalia que o BC deve interromper o ciclo de cortes e manter os juros elevados até que os choques inflacionários percam força",
-      "source": "Exame",
-      "url": "https://exame.com/economia/selic-so-deve-voltar-a-cair-apos-el-nino-e-alivio-do-petroleo-diz-economista/",
-      "time": "2026-06-28T07:55:13Z",
-      "cat": "economia",
+      "title": "Cobertura de posições vendidas em Treasuries acelera enquanto ações enfrentam pressão",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/cobertura-de-posicoes-vendidas-em-treasuries-acelera-enquanto-acoes-enfrentam-pressao-1985889",
+      "time": "2026-06-28T12:55:35Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2022/06/bc.jpg"
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Arábia Saudita - Ações fecharam o pregão em queda e o Índice Tadawul All Share recuou 0,23%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/arabia-saudita--acoes-fecharam-o-pregao-em-queda-e-o-indice-tadawul-all-share-recuou-023-1985887",
+      "time": "2026-06-28T12:45:18Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEE310YB_M.jpg"
     },
     {
       "title": "Wolfe Research mantém otimismo com ações e aposta em IA e semicondutores no 2º semestre",
@@ -285,17 +303,7 @@
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Rússia - Ações fecharam o pregão em queda e o Índice MOEX Russia Index terminou sem alterações",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/russia--acoes-fecharam-o-pregao-em-queda-e-o-indice-moex-russia-index-terminou-sem-alteracoes-1985774",
-      "time": "2026-06-27T21:20:18Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPED5E0GC-ORUBS_M.jpg"
     }
   ],
-  "atualizado_em": "28/06/2026 11:05"
+  "atualizado_em": "28/06/2026 13:29"
 }
