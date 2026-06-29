@@ -1,126 +1,194 @@
 {
   "headline": {
-    "title": "Ações da Robinhood sobem com volumes recordes em junho",
-    "summary": "",
-    "source": "Investing.com",
-    "url": "https://br.investing.com/news/stock-market-news/acoes-da-robinhood-sobem-com-volumes-recordes-em-junho-93CH-1986156",
-    "time": "2026-06-29T08:51:06Z",
-    "cat": "internacional",
+    "title": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda",
+    "summary": "Índices futuros dos EUA avançam em meio a tensões com Irã",
+    "source": "InfoMoney",
+    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-29062026/",
+    "time": "2026-06-29T13:08:28Z",
+    "cat": "economia",
     "tickers": [],
-    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-21-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
   },
   "featured": [
     {
-      "title": "Por que as ações da Trevi Finanziaria Industriale estão disparando hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-trevi-finanziaria-industriale-estao-disparando-hoje-93CH-1986146",
-      "time": "2026-06-29T08:40:13Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+      "title": "Cosan (CSAN3): Citi retoma cobertura com ‘alto risco’ e aponta dependência de queda dos juros",
+      "summary": "O Citi retomou a cobertura da Cosan (CSAN3) com recomendação neutra, classificação de alto risco e preço-alvo de R$ 4,50 por ação, avaliando que a companhia ainda depende de um cenário de queda dos juros no Brasil, melho",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/cosan-csan3-citi-retoma-cobertura-com-alto-risco-e-aponta-dependencia-de-queda-dos-juros-pads/",
+      "time": "2026-06-29T13:03:43Z",
+      "cat": "economia",
+      "tickers": [
+        "CSAN3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/02/cosan-csan3-5.jpg"
     },
     {
-      "title": "Bmg transfere carteira de R$ 750 milhões para FIDC",
-      "summary": "O Banco Bmg anunciou a transferência de R$ 750 milhões em direitos creditórios para o fundo de investimento em direitos creditórios (FIDC) Consig Premium I, veículo sob gestão da Angá Asset Management. Os direitos credit",
+      "title": "Entenda por que a Strategy, mesmo comprando bitcoin (BTC), é o atual calcanhar de Aquiles do mercado de criptomoedas",
+      "summary": "Faz quase um mês que a Strategy (STRC) fez a primeira venda de bitcoin (BTC) da história, um valor ínfimo de 32 unidades (equivalentes a US$ 100 milhões, em valores da época) frente às mais de 840 mil unidades detidas pe",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bmg-transfere-carteira-de-r-750-milhoes-para-fidc-fets/",
-      "time": "2026-06-29T08:57:00Z",
-      "cat": "analise",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2024/09/banco-bmg.webp"
+      "url": "https://www.moneytimes.com.br/entenda-por-que-a-strategy-mesmo-comprando-bitcoin-btc-e-o-atual-calcanhar-de-aquiles-do-mercado-de-criptomoedas-rens/",
+      "time": "2026-06-29T12:58:53Z",
+      "cat": "fundos",
+      "tickers": [
+        "BTC"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/03/michael-saylor-ia.jpg"
     }
   ],
   "all": [
     {
-      "title": "Dow Jones Futuro sobem após trégua entre EUA e Irã aliviar tensão no Oriente Médio",
-      "summary": "Relatos de trégua entre Estados Unidos e Irã reduzem a aversão ao risco e impulsionam os contratos futuros das bolsas americanas",
+      "title": "Coreia do Sul: governo e empresas revelam novo plano de investimento em chips e IA",
+      "summary": "O presidente Lee Jae Myung se reuniu com líderes da Samsung e da SK Hynix para detalhar o projeto, que prevê aportes massivos na fabricação de semicondutores e em centros de dados até 2035",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/dow-jones-futuro-sobem-apos-tregua-entre-eua-e-ira-aliviar-tensao-no-oriente-medio/",
-      "time": "2026-06-29T08:48:47Z",
+      "url": "https://www.infomoney.com.br/mundo/coreia-do-sul-governo-e-empresas-revelam-novo-plano-de-investimento-em-chips-e-ia/",
+      "time": "2026-06-29T13:12:59Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/2025-12-03T030823Z_415195107_RC2P8IAEDMIL_RTRMADP_3_SOUTHKOREA-POLITICS-LEE.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "O que a saída da Ultrapar da disputa pela Rumo representa para ações das companhias?",
+      "summary": "Apesar da saída da Ultrapar, o processo de venda continua, pois ainda há outros compradores interessados na aquisição do ativo",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/o-que-a-saida-da-ultrapar-da-disputa-pela-rumo-representa-para-acoes-das-companhias/",
+      "time": "2026-06-29T13:11:40Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/Captura-de-tela-2024-05-28-083158.png?fit=300%2C127&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda",
+      "summary": "Índices futuros dos EUA avançam em meio a tensões com Irã",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-29062026/",
+      "time": "2026-06-29T13:08:28Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-21-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Lula sanciona lei que exige boas práticas de fabricação no registro de medicamentos",
+      "summary": "Texto foi publicado no Diário Oficial da União nesta segunda-feira (29)",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/lula-sanciona-lei-que-exige-boas-praticas-de-fabricacao-no-registro-de-medicamentos/",
+      "time": "2026-06-29T12:59:43Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/Captura-de-tela-2025-11-04-132501.png?fit=300%2C199&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Alcolumbre marca votação de PEC de R$ 30 bi no Senado e põe governo em alerta",
+      "summary": "Proposta que prevê aposentadoria especial para agentes comunitários de saúde e de combate às endemias entra na pauta de terça-feira, apesar da resistência da equipe econômica do governo",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/alcolumbre-marca-votacao-de-pec-de-r-30-bi-no-senado-e-poe-governo-em-alerta/",
+      "time": "2026-06-29T12:55:11Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/alcolumbre.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Ibovespa avança com trégua entre EUA e Irã; 5 coisas para saber antes de investir hoje (29)",
+      "summary": "O Ibovespa (IBOV) inicia a semana com leva alta após a divulgação do Boletim Focus e a nova trégua entre Estados Unidos e Irã. Por volta de 10h10 (horário de Brasília), o principal índice da bolsa brasileira operava em a",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ibovespa-5-coisas-29-6-26-apsa/",
+      "time": "2026-06-29T13:12:24Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/mercado-bolsa-wall-street-stock-exchange.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/02/mercado-alta.jpg"
     },
     {
-      "title": "AtlasIntel mede primeiros efeitos de crises causadas por Michelle e Jaques Wagner",
-      "summary": "Pesquisa prevista para 1º de julho deve indicar se desgaste no bolsonarismo e caso Jaques Wagner já alteraram o cenário da disputa presidencial",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/atlasintel-mede-primeiros-efeitos-de-crises-causadas-por-michelle-e-jaques-wagner/",
-      "time": "2026-06-29T08:00:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/imagem-5.png?fit=300%2C163&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Alcolumbre abre negociação que pode acelerar PEC do fim da escala 6×1",
-      "summary": "Reunião convocada por Davi Alcolumbre pode definir o futuro da PEC que reduz a jornada para 40 horas semanais antes do recesso do Congresso",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/alcolumbre-abre-negociacao-que-pode-acelerar-pec-do-fim-da-escala-6x1/",
-      "time": "2026-06-29T08:00:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/2025-06-03T213859Z_1500500804_RC26VEAV1W6R_RTRMADP_3_BRAZIL-ECONOMY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Poupança: fuga estrutural deve continuar após primeira captação de 2026",
-      "summary": "Sazonalidade pode ter favorecido a poupança, mas migração para instrumentos de renda fixa mais rentáveis continua",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/onde-investir/poupanca-fuga-estrutural-deve-continuar/",
-      "time": "2026-06-29T08:00:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2022/02/Poupanca.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Justiça suspende venda da participação da Oi na V.tal por R$ 4,5 bi",
-      "summary": "A decisão monocrática atende a questionamentos de investidores sobre a homologação da proposta vencedora, travando temporariamente a negociação do principal ativo da operadora em recuperação judicial",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/justica-suspende-venda-da-participacao-da-oi-na-v-tal-por-r-45-bi/",
-      "time": "2026-06-29T00:55:44Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2022/10/oi-tele-oibr3.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Bmg transfere carteira de R$ 750 milhões para FIDC",
-      "summary": "O Banco Bmg anunciou a transferência de R$ 750 milhões em direitos creditórios para o fundo de investimento em direitos creditórios (FIDC) Consig Premium I, veículo sob gestão da Angá Asset Management. Os direitos credit",
+      "title": "Cosan (CSAN3): Citi retoma cobertura com ‘alto risco’ e aponta dependência de queda dos juros",
+      "summary": "O Citi retomou a cobertura da Cosan (CSAN3) com recomendação neutra, classificação de alto risco e preço-alvo de R$ 4,50 por ação, avaliando que a companhia ainda depende de um cenário de queda dos juros no Brasil, melho",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bmg-transfere-carteira-de-r-750-milhoes-para-fidc-fets/",
-      "time": "2026-06-29T08:57:00Z",
-      "cat": "analise",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2024/09/banco-bmg.webp"
+      "url": "https://www.moneytimes.com.br/cosan-csan3-citi-retoma-cobertura-com-alto-risco-e-aponta-dependencia-de-queda-dos-juros-pads/",
+      "time": "2026-06-29T13:03:43Z",
+      "cat": "economia",
+      "tickers": [
+        "CSAN3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/02/cosan-csan3-5.jpg"
     },
     {
-      "title": "Brasil x Japão na Copa do Mundo altera expediente de serviços; saiba o que acontece com bancos, Pix, bolsa e rodízio em SP",
-      "summary": "O jogo de hoje entre Brasil e Japão define quem avança às oitavas-de-final da Copa do Mundo de 2026 e — quem volta para casa. Devido ao horário da partida, às 14 horas, os investidores podem ter questionamentos sobre o f",
+      "title": "Entre touros e ursos, a bilheteria de Supergirl é um ursinho de pelúcia para Warner Bros; especialistas projetam prejuízo",
+      "summary": "A Supergirl pode até estar voando nas telas de cinema, mas suas vendas estão com dificuldades para decolar. O filme da prima do Superman estreou com uma bilheteria de apenas US$ 68 milhões em todo o mundo, cerca de R$ 35",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/brasil-japao-na-copa-do-mundo-altera-expediente-de-bancos-pix-bolsa-rodizio-em-sp-mlem/",
-      "time": "2026-06-29T08:05:00Z",
+      "url": "https://www.moneytimes.com.br/bilheteria-de-supergirl-warner-bros-especialistas-projetam-prejuizo-mlem/",
+      "time": "2026-06-29T13:02:26Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/06/copa-do-mundo-selecao-brasileira-neymar.jpg"
+      "image": null
     },
     {
-      "title": "Petróleo sobe após novos ataques entre EUA e Irã no Oriente Médio",
-      "summary": "Os preços do petróleo sobem nesta segunda-feira (29) após vários dias de ataques e contra-ataques entre os Estados Unidos e o Irã, que evidenciaram a fragilidade do acordo de paz provisório entre os dois países e voltara",
+      "title": "Entenda por que a Strategy, mesmo comprando bitcoin (BTC), é o atual calcanhar de Aquiles do mercado de criptomoedas",
+      "summary": "Faz quase um mês que a Strategy (STRC) fez a primeira venda de bitcoin (BTC) da história, um valor ínfimo de 32 unidades (equivalentes a US$ 100 milhões, em valores da época) frente às mais de 840 mil unidades detidas pe",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/petroleo-sobe-apos-novos-ataques-entre-eua-e-ira-no-oriente-medio-fets/",
-      "time": "2026-06-29T07:48:08Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/07/petroleo-1.jpg"
+      "url": "https://www.moneytimes.com.br/entenda-por-que-a-strategy-mesmo-comprando-bitcoin-btc-e-o-atual-calcanhar-de-aquiles-do-mercado-de-criptomoedas-rens/",
+      "time": "2026-06-29T12:58:53Z",
+      "cat": "fundos",
+      "tickers": [
+        "BTC"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/03/michael-saylor-ia.jpg"
     },
     {
-      "title": "Irã e EUA concordam em interromper ataques e retomar negociações, diz autoridade dos EUA",
-      "summary": "O Irã e os Estados Unidos concordaram em interromper as recentes hostilidades no Golfo e retomar as negociações sobre sua disputa em relação ao Estreito de Ormuz, disse uma autoridade norte-americana neste domingo (28), ",
+      "title": "Mini índice sobe 0,92% e interrompe queda; mini dólar mantém leve baixa, aponta BTG",
+      "summary": "O mini índice subiu 0,92% e interrompeu a sequência de quedas, enquanto o mini dólar ficou perto da estabilidade, com leve baixa de 0,09%. Segundo o BTG Pactual, o cenário técnico aponta melhora no curtíssimo prazo para ",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ira-e-eua-concordam-em-interromper-ataques-e-retomar-negociacoes-diz-autoridade-dos-eua-fets/",
-      "time": "2026-06-29T07:04:53Z",
-      "cat": "internacional",
+      "url": "https://www.moneytimes.com.br/mini-indice-sobe-092-e-interrompe-queda-mini-dolar-mantem-leve-baixa-aponta-btg-jvka/",
+      "time": "2026-06-29T12:57:45Z",
+      "cat": "economia",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/05/2026-05-20t173619z-1-lynxmpem4j1nr-rtroptp-4-iran-crisis-oil-supply-scaled.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2022/10/mini-indice-trade-capa-mt.jpg"
+    },
+    {
+      "title": "Braskem (BRKM5), Petrobras (PETR4), calendário de dividendos e outros destaques desta segunda (29)",
+      "summary": "O pedido de proteção contra cobrança de dívidas da Braskem (BRKM5), o pagamento da segunda parcela do Programa de Subvenção Econômica para a Petrobras (PETR4) e o calendário de pagamento de dividendos e JCP de julho são ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/braskem-brkm5-petrobras-petr4-calendario-de-dividendos-e-outros-destaques-desta-segunda-29/",
+      "time": "2026-06-29T12:47:53Z",
+      "cat": "fundos",
+      "tickers": [
+        "PETR4"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2024/08/braskem-brkm5.jpg"
+    },
+    {
+      "title": "Cosan (CSAN3) confirma avaliação de alternativas para participação na Rumo (RAIL3)",
+      "summary": "A Cosan (CSAN3) informou ao mercado, nesta segunda-feira (29), que avalia potenciais alternativas sobre a sua participação na Rumo (RAIL3), em linha com a estratégia de desalavancagem e otimização da estrutura de capital",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/cosan-csan3-confirma-avaliacao-de-alternativas-para-participacao-na-rumo-rail3-lmrs/",
+      "time": "2026-06-29T12:47:27Z",
+      "cat": "acoes",
+      "tickers": [
+        "CSAN3",
+        "RAIL3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/02/cosan-csan3-3.jpg"
+    },
+    {
+      "title": "Swing trade: BTG recomenda compra de ação com potencial de alta de 11,11%",
+      "summary": "O BTG Pactual incluiu Itaú Unibanco (ITUB4) entre as principais recomendações de swing trade desta semana, com potencial de alta de 11,11%, segundo relatório de análise técnica divulgado nesta segunda-feira (29). A casa ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/swing-trade-btg-recomenda-compra-de-itau-unibanco-itub4-com-potencial-de-alta-de-1111-jvka/",
+      "time": "2026-06-29T12:36:35Z",
+      "cat": "acoes",
+      "tickers": [
+        "ITUB4"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/11/day-trade-copa-btg-1-1-1.jpg"
+    },
+    {
+      "title": "Day trade: Compre C&A (CEAB3) e venda AZZAS 2154 (AZZA3) para ganhar até 1,48% hoje (29), segundo a Ágora",
+      "summary": "A CA (CEAB3) é uma das recomendações de compra em day trade da Ágora Investimentos para esta segunda-feira (29). As ações da empresa fecharam a sessão da última sexta-feira (26) cotadas a R$ 11,02. O potencial de ganho é",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/day-trade-compre-ca-ceab3-e-venda-azzas-2154-azza3-para-ganhar-ate-148-hoje-29-segundo-a-agora-jvka/",
+      "time": "2026-06-29T12:21:24Z",
+      "cat": "acoes",
+      "tickers": [
+        "CEAB3",
+        "AZZA3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/12/acoes-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-1-1-1-1-1-1-1-2-1-1-1-1.jpg"
     },
     {
       "title": "IRB(Re) (IRBR3) e Itaúsa (ITSA4): Veja quem paga dividendos na semana",
@@ -199,115 +267,135 @@
       "image": null
     },
     {
-      "title": "Biocombustíveis: o motor econômico que pode financiar a adaptação climática do Brasil",
-      "summary": "O setor reúne ativos irreplicáveis e gera a única receita estrutural capaz de financiar a resiliência do país sem pressão fiscal",
+      "title": "Alemanha tenta barrar demissões e fechamento de fábricas da Volkswagen; ação cai",
+      "summary": "Ações da Volkswagen recuam na manhã desta segunda-feira, 29; conselho da montadora se reunirá no dia 9",
       "source": "Exame",
-      "url": "https://exame.com/esg/biocombustiveis-o-motor-economico-que-pode-financiar-a-adaptacao-climatica-do-brasil/",
-      "time": "2026-06-29T05:45:22Z",
+      "url": "https://exame.com/invest/mercados/alemanha-tenta-barrar-demissoes-e-fechamento-de-fabricas-da-volkswagen-acao-cai/",
+      "time": "2026-06-29T10:03:11Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/truck-working-field-sunny-day.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2024/02/Volkswagen.jpg"
     },
     {
-      "title": "Focus, PMI da China e tensão entre EUA e Irã: o que move os mercados",
-      "summary": "No campo político, o mercado acompanha nesta segunda, 29, evento de Lula para anunciar medidas de incentivo ao crédito e a participação de Galípolo no BIS, na Suíça",
+      "title": "O banco virou operadora? A Gigs quer levar plano de celular para dentro dos apps financeiros",
+      "summary": "Fundada no Vale do Silício, a empresa cria infraestrutura para bancos e fintechs venderem telefonia sem antenas, lojas ou operação própria. E o Brasil virou principal aposta",
       "source": "Exame",
-      "url": "https://exame.com/invest/mercados/focus-pmi-da-china-e-tensao-entre-eua-e-ira-o-que-move-os-mercados/",
-      "time": "2026-06-29T05:30:39Z",
+      "url": "https://exame.com/negocios/o-banco-virou-operadora-a-gigs-quer-levar-plano-de-celular-para-dentro-dos-apps-financeiros/",
+      "time": "2026-06-29T09:57:32Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/10/GettyImages-990909558.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/gigs.jpg"
     },
     {
-      "title": "Tokens de IA: a moeda que pode virar o 'petróleo' da nova economia",
-      "summary": "Estudos acadêmicos e projeções da indústria descrevem a unidade básica da inteligência artificial como uma mercadoria padronizada, com preço em queda e até futuros sob estudo",
+      "title": "Presidente da Coreia do Sul manda investigar federação após vexame na Copa",
+      "summary": "Lee Jae-myung critica gestão do futebol sul-coreano, cobra explicações e diz que escolhas erradas para cargos de liderança levaram ao fracasso",
       "source": "Exame",
-      "url": "https://exame.com/inteligencia-artificial/os-tokens-de-ia-sao-a-nova-commodity-como-unidade-da-ia-virou-nova-moeda/",
-      "time": "2026-06-29T05:15:39Z",
-      "cat": "internacional",
+      "url": "https://exame.com/esporte/presidente-da-coreia-do-sul-manda-investigar-federacao-apos-vexame-na-copa/",
+      "time": "2026-06-29T09:49:09Z",
+      "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/ia_token_commodity.png"
+      "image": "https://classic.exame.com/wp-content/uploads/2025/06/AFP__20250602__48X44T2__v1__HighRes__SkoreaPoliticsVote.jpg"
     },
     {
-      "title": "Fusões e aquisições em lava-rápidos ganham força com queda nos preços",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/fusoes-e-aquisicoes-em-lavarapidos-ganham-forca-com-queda-nos-precos-93CH-1986158",
-      "time": "2026-06-29T08:51:57Z",
-      "cat": "internacional",
+      "title": "JBS sobe no pré-mercado em NY após inclusão oficial no Russell 3000",
+      "summary": "Empresa brasileira foi incluída na sexta, 26, no Russell 3000, que reúne aproximadamente as 3 mil maiores empresas do mercado americano",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/jbs-sobe-no-pre-mercado-em-ny-apos-inclusao-oficial-no-russell-3000/",
+      "time": "2026-06-29T09:37:29Z",
+      "cat": "economia",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2025/06/GettyImages-1233224257.jpg"
     },
     {
-      "title": "Ações da Robinhood sobem com volumes recordes em junho",
+      "title": "Por que as ações da Roblox estão disparando hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-robinhood-sobem-com-volumes-recordes-em-junho-93CH-1986156",
-      "time": "2026-06-29T08:51:06Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Por que as ações da Trevi Finanziaria Industriale estão disparando hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-trevi-finanziaria-industriale-estao-disparando-hoje-93CH-1986146",
-      "time": "2026-06-29T08:40:13Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-roblox-estao-disparando-hoje-93CH-1986661",
+      "time": "2026-06-29T12:51:24Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Indonésia - Ações fecharam o pregão em queda e o Índice IDX Composite recuou 1,50%",
+      "title": "Por que as ações da NeoVolta estão subindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/indonesia--acoes-fecharam-o-pregao-em-queda-e-o-indice-idx-composite-recuou-150-1986142",
-      "time": "2026-06-29T08:35:19Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC111HY_M.jpg"
-    },
-    {
-      "title": "Por que as ações da Exosens estão subindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-exosens-estao-subindo-hoje-93CH-1986139",
-      "time": "2026-06-29T08:32:15Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-neovolta-estao-subindo-hoje-93CH-1986645",
+      "time": "2026-06-29T12:45:45Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "ICOP lança oferta de aquisição pela Trevi Finanziaria Industriale",
+      "title": "Arábia Saudita - Ações fecharam o pregão em queda e o Índice Tadawul All Share recuou 1,06%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/icop-lanca-oferta-de-aquisicao-pela-trevi-finanziaria-industriale-93CH-1986138",
-      "time": "2026-06-29T08:29:11Z",
+      "url": "https://br.investing.com/news/stock-market-news/arabia-saudita--acoes-fecharam-o-pregao-em-queda-e-o-indice-tadawul-all-share-recuou-106-1986644",
+      "time": "2026-06-29T12:45:19Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Por que as ações da Larimar Therapeutics estão caindo hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-larimar-therapeutics-estao-caindo-hoje-93CH-1986643",
+      "time": "2026-06-29T12:44:45Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Por que a ação da British American Tobacco está caindo hoje?",
+      "title": "Ações da Surf Air Mobility disparam com expansão de parceria com a Palantir",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-a-acao-da-british-american-tobacco-esta-caindo-hoje-93CH-1986136",
-      "time": "2026-06-29T08:27:41Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-surf-air-mobility-disparam-com-expansao-de-parceria-com-a-palantir-93CH-1986639",
+      "time": "2026-06-29T12:42:37Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Por que as ações da Gerresheimer estão caindo hoje?",
+      "title": "Ações da VivoPower sobem após seleção de inquilino de IA na Noruega",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-gerresheimer-estao-caindo-hoje-93CH-1986133",
-      "time": "2026-06-29T08:22:23Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-vivopower-sobem-apos-selecao-de-inquilino-de-ia-na-noruega-93CH-1986633",
+      "time": "2026-06-29T12:40:06Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Ações da Evommune despencam após falha em estudo clínico",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-evommune-despencam-apos-falha-em-estudo-clinico-93CH-1986618",
+      "time": "2026-06-29T12:38:07Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Ações da Booz Allen sobem com parceria com a OpenAI",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-booz-allen-sobem-com-parceria-com-a-openai-93CH-1986609",
+      "time": "2026-06-29T12:32:36Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Por que a ação da Liberty Broadband está disparando hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-a-acao-da-liberty-broadband-esta-disparando-hoje-93CH-1986607",
+      "time": "2026-06-29T12:30:11Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "29/06/2026 08:59"
+  "atualizado_em": "29/06/2026 13:13"
 }
