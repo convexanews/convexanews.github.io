@@ -1,170 +1,138 @@
 {
   "headline": {
-    "title": "Petrobras (PETR4): Campo de Búzios bate recorde de produção com 1,2 milhão de barris por dia",
-    "summary": "A Petrobras (PETR4) atingiu um novo recorde de produção no Campo de Búzios, no pré-sal da Bacia de Santos. Na última sexta-feira (26), o ativo alcançou uma produção média de 1,2 milhão de barris de petróleo por dia, supe",
-    "source": "Suno",
-    "url": "https://www.suno.com.br/noticias/petrobras-recorde-producao-buzios-petr4-go/",
-    "time": "2026-06-29T16:45:03Z",
-    "cat": "acoes",
-    "tickers": [
-      "PETR4"
-    ],
-    "image": null
+    "title": "Ibovespa vai na contramão de Wall Street em recorde e fecha em queda; dólar sobe a R$ 5,17",
+    "summary": "O Ibovespa (IBOV) fechou com leve baixa, próximo à estabilidade em dia de baixa liquidez com o jogo do Brasil na Copa do Mundo, destoando do otimismo no exterior. Nesta segunda-feira (29), o principal índice da bolsa bra",
+    "source": "Money Times",
+    "url": "https://www.moneytimes.com.br/ibovespa-29-6-26-apsa/",
+    "time": "2026-06-29T20:26:46Z",
+    "cat": "economia",
+    "tickers": [],
+    "image": "https://www.moneytimes.com.br/uploads/2025/10/acoes-carteira-recomendada-mercados-1-1.jpg"
   },
   "featured": [
     {
-      "title": "B3 inicia negociação de contratos de eventos de IPCA e PIB",
-      "summary": "A B3 informou nesta segunda-feira que iniciou a negociação de contratos de eventos ligados ao Índice Nacional de Preços ao Consumidor Amplo (IPCA) e ao Produto Interno Bruto (PIB). Os produtos, identificados respectivame",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/b3-inicia-negociacao-de-contratos-de-eventos-de-ipca-e-pib/",
-      "time": "2026-06-29T18:12:00Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/07/b3-dividendos-1.jpg"
+      "title": "Petrobras (PETR4): Campo de Búzios bate recorde de produção com 1,2 milhão de barris por dia",
+      "summary": "A Petrobras (PETR4) atingiu um novo recorde de produção no Campo de Búzios, no pré-sal da Bacia de Santos. Na última sexta-feira (26), o ativo alcançou uma produção média de 1,2 milhão de barris de petróleo por dia, supe",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/petrobras-recorde-producao-buzios-petr4-go/",
+      "time": "2026-06-29T16:45:03Z",
+      "cat": "acoes",
+      "tickers": [
+        "PETR4"
+      ],
+      "image": null
     },
     {
-      "title": "Diretora do Fed diz que decisão da Suprema Corte protege independência da instituição",
-      "summary": "A decisão por 5 votos a 4 da mais alta instância judicial do país “reconhece que a independência do ‌Federal Reserve é essencial para cumprir o mandato do Congresso de estabilidade de preços e pleno emprego”, disse Lisa ",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/economia/diretora-do-fed-diz-que-decisao-da-suprema-corte-protege-independencia-da-instituicao/",
-      "time": "2026-06-29T18:02:26Z",
-      "cat": "internacional",
+      "title": "Ibovespa fecha no zero a zero em dia de 2 a 1 do Brasil; dólar fica em R$ 5,17",
+      "summary": "O volume financeiro somou R$ 13,9 bilhões, cerca de metade do giro registrado em um pregão típico",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/ibovespa-fecha-no-zero-a-zero-em-dia-de-2-a-1-do-brasil-dolar-fica-em-r-517/",
+      "time": "2026-06-29T17:41:15Z",
+      "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/438505845.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://classic.exame.com/wp-content/uploads/2021/05/DSC2685bx.jpg"
     }
   ],
   "all": [
     {
-      "title": "Ouro fecha em queda com redução do prêmio de risco geopolítico de olho em EUA-Irã",
-      "summary": "Para a MUFG, a perspectiva de retomada das conversas entre Washington e Teerã continua reduzindo o prêmio de risco incorporado ao ouro",
+      "title": "Ibovespa chega a flertar com 174 mil, mas fecha quase estável em dia de baixo volume",
+      "summary": "No exterior, o norte-americano SP 500 subiu mais de 1%, com a recuperação de ações do setor de tecnologia e o cenário geopolítico no radar",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ouro-fecha-em-queda-com-reducao-do-premio-de-risco-geopolitico-de-olho-em-eua-ira/",
-      "time": "2026-06-29T18:54:00Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/2026-01-26T091827Z_1_LYNXMPEM0P0E3_RTROPTP_4_GLOBAL-PRECIOUS-BRITAIN.jpg?fit=300%2C176&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Não haverá negociações entre Irã e EUA nos próximos dias, diz autoridade iraniana",
-      "summary": "Ele acrescentou que uma delegação técnica iraniana visitará o Catar nesta semana",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/nao-havera-negociacoes-entre-ira-e-eua-nos-proximos-dias-diz-autoridade-iraniana/",
-      "time": "2026-06-29T18:35:45Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-11T091004Z_1_LYNXMPEM4A0JD_RTROPTP_4_IRAN-CRISIS.jpg?fit=300%2C164&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Bukele busca indicação para 3º mandato em El Salvador após mudança constitucional",
-      "summary": "Em dezembro, ele afirmou estar aberto a permanecer no cargo por mais uma década",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mundo/bukele-busca-indicacao-para-3o-mandato-em-el-salvador-apos-mudanca-constitucional/",
-      "time": "2026-06-29T18:14:34Z",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-tem-leves-perdas-com-acao-da-cosan-entre-maiores-quedas/",
+      "time": "2026-06-29T20:56:49Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2023/08/400956318.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/06/Bolsa-pregao-def-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Diretora do Fed diz que decisão da Suprema Corte protege independência da instituição",
-      "summary": "A decisão por 5 votos a 4 da mais alta instância judicial do país “reconhece que a independência do ‌Federal Reserve é essencial para cumprir o mandato do Congresso de estabilidade de preços e pleno emprego”, disse Lisa ",
+      "title": "Bradesco eleva PIB de 2026 e vê inflação e Selic maiores neste ano e em 2027",
+      "summary": "A previsão para a alta do IPCA neste ano subiu de 5,0% para 5,3%, enquanto a do ano que vem aumentou de 3,7% para 4,1%",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/economia/diretora-do-fed-diz-que-decisao-da-suprema-corte-protege-independencia-da-instituicao/",
-      "time": "2026-06-29T18:02:26Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/438505845.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Protocolo para exportação de carne à UE é avanço, mas não deve evitar interrupções",
-      "summary": "Governo publicou o Protocolo de Certificação para Bovinos Livres do Uso de Medicamentos Antimicrobianos na tentativa de preservar o acesso da carne bovina brasileira à União Europeia",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/protocolo-para-exportacao-de-carne-a-ue-e-avanco-mas-nao-deve-evitar-interrupcoes/",
-      "time": "2026-06-29T17:55:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-20T115041Z_1_LYNXMPEM4J11T_RTROPTP_4_MBRF-RESULTS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Alemanha x Paraguai: modelo matemático aponta possível resultado do jogo; veja",
-      "summary": "Cálculo estatístico da Fundação Getúlio Vargas projeta a seleção que tem mais chances de ganhar partida desta segunda-feira, 29",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/esportes/alemanha-x-paraguai-modelo-matematico-aponta-possivel-resultado-do-jogo-veja/",
-      "time": "2026-06-29T17:30:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2906_Alemanha_Paraguai.png?fit=300%2C191&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Desenrola Adimplentes: UBS BB vê rentabilidade bem menor, mas garantias para bancos",
-      "summary": "Regras, na visão da equipe do UBS BB, criam uma nova categoria ⁠de ‌crédito consignado privado que será muito mais seguro devido ao estabelecimento de garantias ⁠mais robustas",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/desenrola-adimplentes-ubs-bb-ve-rentabilidade-bem-menor-mas-garantias-para-bancos/",
-      "time": "2026-06-29T17:22:10Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/daniel-dan-MFKO_qsfFJ8-unsplash-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "B3 inicia negociação de contratos de eventos de IPCA e PIB",
-      "summary": "A B3 informou nesta segunda-feira que iniciou a negociação de contratos de eventos ligados ao Índice Nacional de Preços ao Consumidor Amplo (IPCA) e ao Produto Interno Bruto (PIB). Os produtos, identificados respectivame",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/b3-inicia-negociacao-de-contratos-de-eventos-de-ipca-e-pib/",
-      "time": "2026-06-29T18:12:00Z",
+      "url": "https://www.infomoney.com.br/economia/bradesco-eleva-pib-de-2026-e-ve-inflacao-e-selic-maiores-neste-ano-e-em-2027/",
+      "time": "2026-06-29T20:49:39Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/07/b3-dividendos-1.jpg"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/bandeira-do-brasil-rio-2016.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Governo lança Desenrola Adimplentes, voltado ao trabalhador informal; confira detalhes e critérios de participação",
-      "summary": "O governo federal lançou nesta segunda-feira uma nova etapa do programa Novo Desenrola Brasil, conhecido como Desenrola 2.0. Batizada de Desenrola Adimplentes, a iniciativa é voltada a trabalhadores informais que mantêm ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/desenrola-adimplentes-lancamento-isca/",
-      "time": "2026-06-29T16:54:07Z",
+      "title": "Seleção Brasileira receberá R$ 78 milhões por classificação contra o Japão",
+      "summary": "Somado a valores da fase de grupos, CBF já embolsou R$ 181 milhões",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/esportes/selecao-brasileira-recebera-r-78-milhoes-por-classificacao-contra-o-japao/",
+      "time": "2026-06-29T20:48:58Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/05/img-0787.jpg"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-29T190624Z_300635863_UP1EM6T1H2NS2_RTRMADP_3_SOCCER-WORLDCUP-BRA-JPN.jpg?fit=300%2C195&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Bolsas da Europa recuam com baixa tech e incertezas sobre EUA e Irã",
-      "summary": "Os índices europeus fecharam a sessão desta segunda-feira (29) em baixa com a queda das ações de tecnologia, apesar da recuperação nos Estados Unidos, e as incertezas sobre a duração da trégua entre EUA e Irã. O índice p",
+      "title": "Bolsas de NY sobem e Dow renova recorde em dia de estreia da Alphabet no índice",
+      "summary": "Já a Nasdaq teve ganho de 2,07%, encerrando em 25.820,14 pontos, mostrando uma recomposição de ganhos mais sólida após liderar as perdas da semana passada",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/bolsas-de-ny-sobem-e-dow-renova-recorde-em-dia-de-estreia-da-alphabet-no-indice/",
+      "time": "2026-06-29T20:46:09Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/2026-02-17T175434Z_1885400349_RC20BDASG5F7_RTRMADP_3_LIFTOFF-MOBILE-IPO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Governo mira crédito com juros de até 957% ao ano e abre apuração sobre financeiras",
+      "summary": "Procedimento da Senacon analisa se taxas cobradas no crédito sem garantia respeitam as regras do Código de Defesa do Consumidor",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/governo-mira-credito-com-juros-de-ate-957-ao-ano-e-abre-apuracao-sobre-financeiras/",
+      "time": "2026-06-29T20:45:18Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/renda-juros.jpg?fit=300%2C197&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Google erra e aponta eliminação do Brasil antes do apito final",
+      "summary": "Busca indicava derrota para o Japão, mas Seleção venceu por 2 a 1 e avançou",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/esportes/google-erra-e-aponta-eliminacao-do-brasil-antes-do-apito-final/",
+      "time": "2026-06-29T20:41:46Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-29T190624Z_300635863_UP1EM6T1H2NS2_RTRMADP_3_SOCCER-WORLDCUP-BRA-JPN.jpg?fit=300%2C195&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Ibovespa vai na contramão de Wall Street em recorde e fecha em queda; dólar sobe a R$ 5,17",
+      "summary": "O Ibovespa (IBOV) fechou com leve baixa, próximo à estabilidade em dia de baixa liquidez com o jogo do Brasil na Copa do Mundo, destoando do otimismo no exterior. Nesta segunda-feira (29), o principal índice da bolsa bra",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/europa-29-6-26-apsa/",
-      "time": "2026-06-29T16:49:00Z",
+      "url": "https://www.moneytimes.com.br/ibovespa-29-6-26-apsa/",
+      "time": "2026-06-29T20:26:46Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/10/acoes-carteira-recomendada-mercados-1-1.jpg"
+    },
+    {
+      "title": "Wall Street avança e Dow Jones fecha em recorde com estreia da Alphabet no índice",
+      "summary": "Os índices de Wall Street subiram nesta segunda-feira (29) com recuperação das ações de tecnologia e o otimismo na trégua entre Estados Unidos e Irã, apesar das falas divergentes. Com a estreia da Alphabet, o Dow Jones f",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/wall-street-29-6-26-apsa/",
+      "time": "2026-06-29T20:08:20Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2021/08/europa-2.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2024/12/wall-street-treasuries.jpg"
     },
     {
-      "title": "‘Efeito Master’: Pesquisa BTG Pactual/Nexus indica oscilação dois pontos percentuais para Lula com investigação de Jaques Wagner",
-      "summary": "A operação da Polícia Federal investigando o senador Jaques Wagner, ex-líder do governo Lula no senado pode ter influenciado nas intenções de voto para o presidente na última pesquisa BTG Pactual/Nexus, explicou Gustavo ",
+      "title": "Milho encerra em queda em Chicago após operar abaixo de US$4/bu antes de dados do USDA",
+      "summary": "Os contratos futuros do milho negociados na bolsa de Chicago encerraram em baixa nesta segunda-feira, à medida que os operadores ajustavam suas posições antes da divulgação, na terça-feira (29), do relatório do Departame",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/efeito-master-pesquisa-btg-pactual-nexus-indica-oscilacao-dois-pontos-percentuais-para-lula-com-investigacao-de-jaques-wagner-ceci/",
-      "time": "2026-06-29T16:37:31Z",
-      "cat": "analise",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/04/o-presidente-da-republica-luiz-inacio-lula-da-silva-foto-fabio-rodrigues-pozzebomagencia-brasil-09092025-senador-flavio-bolsonaro-foto-lula-marquesagencia-brasil.png"
-    },
-    {
-      "title": "Compre Ultrapar (UGPA3) e outras três ações para ganhar mais de 4% nesta semana, segundo o Safra",
-      "summary": "A Safra Corretora recomenda a compra de quatro ações e venda de um papel em day trade para esta semana. A Ultrapar (UGPA3) está entre as oportunidades de compra. Confira as oportunidades de compra e venda entre os dias 2",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/day-trade-safra-29-6-26-apsa/",
-      "time": "2026-06-29T16:35:04Z",
-      "cat": "acoes",
-      "tickers": [
-        "UGPA3"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/10/acoes-carteiras-1-2-1-1-1-1-1.jpg"
-    },
-    {
-      "title": "Copa do Mundo: França continua favorita ao título, segundo banco Pine",
-      "summary": "Com o fim da fase de grupos, as seleções presentes na Copa do Mundo de 2026 começaram a disputar a etapa de 16 avos (ou segunda fase) no domingo (28). O mata-mata foi estreado pelo jogo entre África do Sul e Canadá. Com ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/copa-do-mundo-franca-continua-favorita-titulo-diz-banco-pine-mlem/",
-      "time": "2026-06-29T16:18:03Z",
+      "url": "https://www.moneytimes.com.br/milho-encerra-em-queda-em-chicago-apos-operar-abaixo-de-us4-bu-antes-de-dados-do-usda-pads/",
+      "time": "2026-06-29T20:06:34Z",
       "cat": "acoes",
       "tickers": [],
       "image": null
+    },
+    {
+      "title": "Dólar sobe a R$ 5,17 com incertezas no Oriente Médio e baixa liquidez",
+      "summary": "O dólar ganhou força ante o real diante das incertezas no Oriente Médio e da liquidez reduzida em dia de jogo do Brasil na Copa do Mundo. Nesta segunda-feira (29), o dólar à vista terminou as negociações a R$ 5,1743, com",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/dolar-29-6-26-apsa/",
+      "time": "2026-06-29T20:04:17Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/11/dolar-estrangeiros-1.jpg"
     },
     {
       "title": "BTG vê Banco Pine (PINE4) barato, mas alerta para consignado privado",
@@ -242,77 +210,155 @@
       "image": null
     },
     {
-      "title": "IRB(Re) (IRBR3) e Itaúsa (ITSA4): Veja quem paga dividendos na semana",
-      "summary": "IRB(Re) (IRBR3) e Itaúsa (ITSA4): Veja quem paga dividendos na semanaEsta semana começa com mais uma rodada de dividendos caindo na conta dos investidores, com destaque para a distribuição de proventos do IRB(Re) (IRBR3)",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/irb-irbr3-itausa-itsa4-agenda-dividendos-26062026-go/",
-      "time": "2026-06-28T13:00:00Z",
-      "cat": "fundos",
-      "tickers": [
-        "IRBR3"
-      ],
-      "image": null
-    },
-    {
-      "title": "Filha do “rei da orla” quer franquear negócio criado na pandemia; entenda",
-      "summary": "Filha do “rei da orla” quer franquear negócio criado na pandemia; entendaEmpreendedorismo pode começar em uma carrocinha de cachorro-quente ou em uma empresa criada no meio da pandemia. No caso da família Barreto, as dua",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/filha-rei-da-orla-franquear-negocio-mt/",
-      "time": "2026-06-27T14:15:00Z",
-      "cat": "acoes",
+      "title": "Festival de Parintins 2026: saiba qual foi o boi campeão após apuração",
+      "summary": "A apuração das notas define o campeão da 59ª edição após três noites de apresentações entre Caprichoso e Garantido",
+      "source": "Exame",
+      "url": "https://exame.com/pop/festival-de-parintins-2026-saiba-qual-foi-o-boi-campeao-apos-apuracao/",
+      "time": "2026-06-29T17:49:41Z",
+      "cat": "economia",
       "tickers": [],
-      "image": null
+      "image": "https://classic.exame.com/wp-content/uploads/2024/05/festival-paritins.jpg"
     },
     {
-      "title": "Alphabet estreia no Dow Jones Industrial Average enquanto índice se inclina para setor de tecnologia",
+      "title": "Keiko Fujimori é eleita presidente do Peru após 22 dias de apuração",
+      "summary": "Com a vitória confirmada, Keiko Fujimori assume a Presidência em um momento de divisão política e desafios econômicos e sociais",
+      "source": "Exame",
+      "url": "https://exame.com/mundo/keiko-fujimori-e-eleita-presidente-do-peru-apos-22-dias-de-apuracao/",
+      "time": "2026-06-29T17:48:38Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/AFP__20260624__B87Z8VQ__v1__HighRes__PeruElectionRunoff.jpg"
+    },
+    {
+      "title": "Ibovespa fecha no zero a zero em dia de 2 a 1 do Brasil; dólar fica em R$ 5,17",
+      "summary": "O volume financeiro somou R$ 13,9 bilhões, cerca de metade do giro registrado em um pregão típico",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/ibovespa-fecha-no-zero-a-zero-em-dia-de-2-a-1-do-brasil-dolar-fica-em-r-517/",
+      "time": "2026-06-29T17:41:15Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2021/05/DSC2685bx.jpg"
+    },
+    {
+      "title": "As novas pesquisas para presidente após crise entre Michelle e Flávio Bolsonaro",
+      "summary": "Segundo registros no sistema do Tribunal Superior Eleitoral (TSE), ao menos 33 levantamentos devem ser divulgados até a próxima sexta-feira, 3",
+      "source": "Exame",
+      "url": "https://exame.com/brasil/as-novas-pesquisas-para-presidente-apos-crise-entre-michelle-e-flavio-bolsonaro/",
+      "time": "2026-06-29T17:40:40Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2024/08/929532-urnas_eletronicas_0949.jpg"
+    },
+    {
+      "title": "Que horas será o jogo do Brasil contra Noruega ou Costa do Marfim? Veja data e programação",
+      "summary": "Seleção de Carlo Ancelotti volta a campo no domingo, 5, contra o vencedor do duelo entre Noruega e Costa do Marfim",
+      "source": "Exame",
+      "url": "https://exame.com/esporte/que-horas-sera-o-jogo-do-brasil-contra-noruega-ou-costa-do-marfim-veja-data-e-programacao/",
+      "time": "2026-06-29T17:14:47Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/AFP__20260624__B88K4UN__v1__HighRes__FblWc2026Match49ScoBra.jpg"
+    },
+    {
+      "title": "Ação da Cogent Communications sobe com venda de data centers por US$ 225 mi",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/alphabet-estreia-no-dow-jones-industrial-average-enquanto-indice-se-inclina-para-setor-de-tecnologia-1987131",
-      "time": "2026-06-29T19:00:09Z",
+      "url": "https://br.investing.com/news/stock-market-news/acao-da-cogent-communications-sobe-com-venda-de-data-centers-por-us-225-mi-93CH-1987290",
+      "time": "2026-06-29T21:01:06Z",
       "cat": "internacional",
       "tickers": [],
-      "image": null
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Apple acusa Índia de \"copiar e colar\" alegações de concorrentes em investigação antitruste",
+      "title": "Ações da Digital Realty caem após oferta secundária da Blackstone",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/apple-acusa-india-de-copiar-e-colar-alegacoes-de-concorrentes-em-investigacao-antitruste-1987121",
-      "time": "2026-06-29T18:49:27Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5S16F_1200_L.jpg"
-    },
-    {
-      "title": "Por que as ações da Unity Software estão subindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-unity-software-estao-subindo-hoje-93CH-1987115",
-      "time": "2026-06-29T18:34:46Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-digital-realty-caem-apos-oferta-secundaria-da-blackstone-93CH-1987282",
+      "time": "2026-06-29T20:57:37Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Por que as ações da Nano Nuclear Energy estão subindo hoje?",
+      "title": "Ações da PACS Group sobem com aquisição de 34 unidades de enfermagem",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-nano-nuclear-energy-estao-subindo-hoje-93CH-1987106",
-      "time": "2026-06-29T18:19:16Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-pacs-group-sobem-com-aquisicao-de-34-unidades-de-enfermagem-93CH-1987279",
+      "time": "2026-06-29T20:53:36Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Taiwan faz buscas em escritórios da Super Micro em investigação sobre chips",
+      "title": "Ações da Mama’s Creations caem após anúncio de oferta pública",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/autoridades-de-taiwan-fazem-buscas-em-escritorios-da-super-micro-em-investigacao-sobre-exportacao-de-chips-1987101",
-      "time": "2026-06-29T18:09:20Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-mamas-creations-caem-apos-anuncio-de-oferta-publica-93CH-1987276",
+      "time": "2026-06-29T20:49:51Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Ações da Vishay Intertechnology despencam com oferta de ações de US$ 750 milhões",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-vishay-intertechnology-despencam-com-oferta-de-acoes-de-us-750-milhoes-93CH-1987274",
+      "time": "2026-06-29T20:47:29Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Ações da Genmab sobem com resultados positivos em ensaio contra linfoma",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-genmab-sobem-com-resultados-positivos-em-ensaio-contra-linfoma-93CH-1987273",
+      "time": "2026-06-29T20:45:46Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Ibovespa fecha quase estável em dia de volume reduzido; Embraer cai mais de 2%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-tem-queda-discreta-com-pressao-de-embraer-em-dia-de-volume-reduzido-1987183",
+      "time": "2026-06-29T20:42:11Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB8T17B_M.jpg"
+    },
+    {
+      "title": "Ações da Praxis Precision Medicines caem com atraso na revisão do FDA",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-praxis-precision-medicines-caem-com-atraso-na-revisao-do-fda-93CH-1987266",
+      "time": "2026-06-29T20:40:42Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Ações da Gain Therapeutics disparam após aprovação do FDA para droga de Parkinson",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-gain-therapeutics-disparam-apos-aprovacao-do-fda-para-droga-de-parkinson-93CH-1987258",
+      "time": "2026-06-29T20:37:47Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Wall Street fecha em alta com diminuição de tensões entre EUA e Irã",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/wall-street-fecha-em-alta-com-diminuicao-de-tensoes-entre-eua-e-ira-1987253",
+      "time": "2026-06-29T20:35:29Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5S1BG_1200_L.jpg"
     }
   ],
-  "atualizado_em": "29/06/2026 19:04"
+  "atualizado_em": "29/06/2026 21:09"
 }
