@@ -1,130 +1,160 @@
 {
   "headline": {
-    "title": "Ibovespa vai na contramão de Wall Street em recorde e fecha em queda; dólar sobe a R$ 5,17",
-    "summary": "O Ibovespa (IBOV) fechou com leve baixa, próximo à estabilidade em dia de baixa liquidez com o jogo do Brasil na Copa do Mundo, destoando do otimismo no exterior. Nesta segunda-feira (29), o principal índice da bolsa bra",
-    "source": "Money Times",
-    "url": "https://www.moneytimes.com.br/ibovespa-29-6-26-apsa/",
-    "time": "2026-06-29T20:26:46Z",
-    "cat": "economia",
-    "tickers": [],
-    "image": "https://www.moneytimes.com.br/uploads/2025/10/acoes-carteira-recomendada-mercados-1-1.jpg"
+    "title": "Bitcoin foi o pior investimento do semestre: é a última chance de sair?",
+    "summary": "Criptomoeda recua 34% de janeiro a junho e fica atrás de todos os principais ativos do mercado; entenda as razões por trás da queda e o que os analistas dizem sobre chances de mais quedas",
+    "source": "InfoMoney",
+    "url": "https://www.infomoney.com.br/onde-investir/bitcoin-pior-investimento-1-semestre-2026/",
+    "time": "2026-06-30T08:00:00Z",
+    "cat": "cripto",
+    "tickers": [
+      "BTC"
+    ],
+    "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/BTCUSD_2026-06-29_17-40-04-e1782767847692.png?fit=300%2C148&amp;quality=70&amp;strip=all"
   },
   "featured": [
     {
-      "title": "Ibovespa e dólar hoje: Caged e JOLTS agitam os negócios após recorde de NY",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-caged-e-jolts-agitam-os-negocios-apos-recorde-de-ny-1987283",
-      "time": "2026-06-29T22:00:02Z",
-      "cat": "economia",
+      "title": "Tempo Real: Ibovespa monitora dados fiscais e mercado de trabalho",
+      "summary": "Resumo: O Ibovespa (IBOV) acompanha o PIB do Reino Unido, a balança orçamentária, o PPI e o Caged no Brasil, além do relatório Jolts nos Estados Unidos e PMI industrial no Japão. Destaques: Confira os principais temas do",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/tempo-real-ibovespa-hoje-mercado-ao-vivo-30-06-2026-jals-lils-apsa/",
+      "time": "2026-06-30T09:00:00Z",
+      "cat": "acoes",
       "tickers": [],
-      "image": null
+      "image": "https://www.moneytimes.com.br/uploads/2024/09/ibovespa-acoes.jpg"
     },
     {
-      "title": "Petrobras (PETR4): Campo de Búzios bate recorde de produção com 1,2 milhão de barris por dia",
-      "summary": "A Petrobras (PETR4) atingiu um novo recorde de produção no Campo de Búzios, no pré-sal da Bacia de Santos. Na última sexta-feira (26), o ativo alcançou uma produção média de 1,2 milhão de barris de petróleo por dia, supe",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/petrobras-recorde-producao-buzios-petr4-go/",
-      "time": "2026-06-29T16:45:03Z",
-      "cat": "acoes",
-      "tickers": [
-        "PETR4"
-      ],
-      "image": null
+      "title": "Dow Jones Futuro sobe após recorde de fechamento e avanço das ações de tecnologia",
+      "summary": "Na segunda-feira, o índice avançou 0,59% e encerrou acima dos 52 mil pontos pela primeira vez na história",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/dow-jones-futuro-sobe-apos-recorde-de-fechamento-e-avanco-das-acoes-de-tecnologia/",
+      "time": "2026-06-30T08:53:45Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/2025-08-01T084507Z_1985370783_RC27YFAI0042_RTRMADP_3_INDIA-STOCKS.jpg?fit=300%2C204&amp;quality=70&amp;strip=all"
     }
   ],
   "all": [
     {
-      "title": "Neymar ironiza ‘guru’ que previu eliminação do Brasil: ‘Favor tentar na próxima Copa’",
-      "summary": "Joachim Klement ficou famoso ao desenvolver um método para basear palpites no futebol. O \"guru\" acertou os campeões das três últimas Copas",
+      "title": "Caged e inflação ao produtor no Brasil, Jolts nos EUA e outros destaques desta terça",
+      "summary": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta terça-feira (30)",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/esportes/neymar-ironiza-guru-que-previu-eliminacao-do-brasil-favor-tentar-na-proxima-copa/",
-      "time": "2026-06-30T00:35:12Z",
+      "url": "https://www.infomoney.com.br/mercados/caged-inflacao-produtor-jolts-30062026/",
+      "time": "2026-06-30T09:12:25Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/444071502.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "“Desenrola Adimplentes”: qual o impacto para os bancos brasileiros?",
+      "summary": "UBS BB vê menor rentabilidade para as instituições financeiras, enquanto JPMorgan alerta para pressão sobre receitas",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/desenrola-adimplentes-qual-o-impacto-para-os-bancos-brasileiros/",
+      "time": "2026-06-30T09:00:00Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/copa-mundo-fifa-2026-eua-neymar-brasil02.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/daniel-dan-3SR040CKpB0-unsplash.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Lotofácil hoje, concurso 3722: Confira o resultado sorteado nesta segunda (29)",
-      "summary": "O prêmio estimado para este concurso era de R$ 1,5 milhão",
+      "title": "Celesc, Tim e Cemig lideram dia mais movimentado em dividendos de junho",
+      "summary": "Distribuidora catarinense acumula quatro proventos de datas-com distintas, chegando a R$ 3,51 por ação preferencial",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3722-confira-o-resultado-sorteado-nesta-segunda-29/",
-      "time": "2026-06-30T00:10:29Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/11-09-2020_loteria-4.webp?fit=300%2C225&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Quina hoje, concurso 7052: Confira o resultado sorteado nesta segunda (29)",
-      "summary": "O prêmio principal para este concurso era de R$ 397.871,60",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7052-confira-o-resultado-sorteado-nesta-segunda-29/",
-      "time": "2026-06-30T00:05:40Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=300%2C175&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Raízen (RAIZ4) tem prejuízo líquido de R$7,3 bi no 4° tri da safra 2025/26",
-      "summary": "A Raízen (RAIZ4) teve prejuízo líquido de R$ 7,3 bilhões no quarto trimestre da safra 2025/26, ante resultado negativo de R$ 2,5 bilhões no mesmo período da safra anterior, segundo relatório financeiro divulgado nesta se",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/raizen-raiz4-tem-prejuizo-liquido-de-r73-bi-no-4-tri-da-safra-2025-26/",
-      "time": "2026-06-29T21:58:50Z",
-      "cat": "acoes",
-      "tickers": [
-        "RAIZ4"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/09/raizen-raiz4-empresas.jpg"
-    },
-    {
-      "title": "Quer dividendos? JPMorgan elege uma das maiores pagadoras da bolsa; retornos beiram os 13% — enquanto ação pode chegar a R$ 136",
-      "summary": "Longe de setores como mineração, petróleo ou energia elétrica, a XP desponta como uma das maiores pagadoras de dividendos da Bolsa, segundo o JPMorgan. Em relatório, o banco elegeu a corretora como uma das preferidas de ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/quer-dividendos-jpmorgan-elege-uma-das-maiores-pagadoras-da-bolsa-retornos-beiram-os-13-enquanto-acao-pode-chegar-a-r-136/",
-      "time": "2026-06-29T21:35:46Z",
+      "url": "https://www.infomoney.com.br/onde-investir/celesc-tim-e-cemig-lideram-dia-mais-movimentado-em-dividendos-de-junho/",
+      "time": "2026-06-30T09:00:00Z",
       "cat": "fundos",
       "tickers": [],
-      "image": null
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/celesc.jpg?fit=300%2C150&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Ibovespa vai na contramão de Wall Street em recorde e fecha em queda; dólar sobe a R$ 5,17",
-      "summary": "O Ibovespa (IBOV) fechou com leve baixa, próximo à estabilidade em dia de baixa liquidez com o jogo do Brasil na Copa do Mundo, destoando do otimismo no exterior. Nesta segunda-feira (29), o principal índice da bolsa bra",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ibovespa-29-6-26-apsa/",
-      "time": "2026-06-29T20:26:46Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/10/acoes-carteira-recomendada-mercados-1-1.jpg"
-    },
-    {
-      "title": "Wall Street avança e Dow Jones fecha em recorde com estreia da Alphabet no índice",
-      "summary": "Os índices de Wall Street subiram nesta segunda-feira (29) com recuperação das ações de tecnologia e o otimismo na trégua entre Estados Unidos e Irã, apesar das falas divergentes. Com a estreia da Alphabet, o Dow Jones f",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/wall-street-29-6-26-apsa/",
-      "time": "2026-06-29T20:08:20Z",
+      "title": "Dow Jones Futuro sobe após recorde de fechamento e avanço das ações de tecnologia",
+      "summary": "Na segunda-feira, o índice avançou 0,59% e encerrou acima dos 52 mil pontos pela primeira vez na história",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/dow-jones-futuro-sobe-apos-recorde-de-fechamento-e-avanco-das-acoes-de-tecnologia/",
+      "time": "2026-06-30T08:53:45Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2024/12/wall-street-treasuries.jpg"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/2025-08-01T084507Z_1985370783_RC27YFAI0042_RTRMADP_3_INDIA-STOCKS.jpg?fit=300%2C204&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Milho encerra em queda em Chicago após operar abaixo de US$4/bu antes de dados do USDA",
-      "summary": "Os contratos futuros do milho negociados na bolsa de Chicago encerraram em baixa nesta segunda-feira, à medida que os operadores ajustavam suas posições antes da divulgação, na terça-feira (29), do relatório do Departame",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/milho-encerra-em-queda-em-chicago-apos-operar-abaixo-de-us4-bu-antes-de-dados-do-usda-pads/",
-      "time": "2026-06-29T20:06:34Z",
+      "title": "‘Pix do crédito empresarial’: duplicata escritural pode destravar R$ 11 trilhões",
+      "summary": "Nesta terça-feira o Banco Central lança oficialmente novo ecossistema digital que garante abertura da primeira fase",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/business/duplicata-escritural-promete-destravar-r-11-trilhoes-em-credito-empresarial/",
+      "time": "2026-06-30T08:00:00Z",
       "cat": "acoes",
       "tickers": [],
-      "image": null
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Banco-Central-do-Brasil.jpg?fit=300%2C178&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Dólar sobe a R$ 5,17 com incertezas no Oriente Médio e baixa liquidez",
-      "summary": "O dólar ganhou força ante o real diante das incertezas no Oriente Médio e da liquidez reduzida em dia de jogo do Brasil na Copa do Mundo. Nesta segunda-feira (29), o dólar à vista terminou as negociações a R$ 5,1743, com",
+      "title": "Bitcoin foi o pior investimento do semestre: é a última chance de sair?",
+      "summary": "Criptomoeda recua 34% de janeiro a junho e fica atrás de todos os principais ativos do mercado; entenda as razões por trás da queda e o que os analistas dizem sobre chances de mais quedas",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/onde-investir/bitcoin-pior-investimento-1-semestre-2026/",
+      "time": "2026-06-30T08:00:00Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/BTCUSD_2026-06-29_17-40-04-e1782767847692.png?fit=300%2C148&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Bolsas da Ásia fecham majoritariamente em alta após recuperação da tecnologia em NY",
+      "summary": "As bolsas asiáticas fecharam majoritariamente em alta nesta terça-feira (30), após a forte recuperação das ações de tecnologia em Nova York na sessão de ontem. Entre os mercados mais sensíveis ao desempenho do setor em W",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/dolar-29-6-26-apsa/",
-      "time": "2026-06-29T20:04:17Z",
+      "url": "https://www.moneytimes.com.br/bolsas-da-asia-fecham-majoritariamente-em-alta-apos-recuperacao-da-tecnologia-em-ny-fets/",
+      "time": "2026-06-30T09:13:59Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2020/08/1-150.jpg"
+    },
+    {
+      "title": "Tempo Real: Ibovespa monitora dados fiscais e mercado de trabalho",
+      "summary": "Resumo: O Ibovespa (IBOV) acompanha o PIB do Reino Unido, a balança orçamentária, o PPI e o Caged no Brasil, além do relatório Jolts nos Estados Unidos e PMI industrial no Japão. Destaques: Confira os principais temas do",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/tempo-real-ibovespa-hoje-mercado-ao-vivo-30-06-2026-jals-lils-apsa/",
+      "time": "2026-06-30T09:00:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2024/09/ibovespa-acoes.jpg"
+    },
+    {
+      "title": "EUA: pesquisa mostra que orgulho dos americanos pela sua história e democracia diminuiu",
+      "summary": "Os cidadãos dos Estados Unidos passaram, na última década, a ter menos orgulho da história do país ou da forma como sua democracia funciona, segundo uma nova pesquisa AP-NORC. O orgulho dos americanos na forma como a dem",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/eua-pesquisa-mostra-que-orgulho-dos-americanos-pela-sua-historia-e-democracia-diminuiu-fets/",
+      "time": "2026-06-30T08:28:00Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/02/cpi-inflacao-eua-estados-unidos.jpg"
+    },
+    {
+      "title": "Brasil anuncia US$ 100 milhões anuais para fundo de desenvolvimento econômico do Mercosul",
+      "summary": "O Brasil anunciou que vai destinar US$ 100 milhões por ano ao Fundo para a Convergência Estrutural do Mercosul (Focem), mecanismo criado para reduzir as desigualdades entre os países do bloco sul-americano. O anúncio foi",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/brasil-anuncia-us-100-milhoes-anuais-para-fundo-de-desenvolvimento-economico-do-mercosul-fets/",
+      "time": "2026-06-30T08:15:25Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2020/05/1-37.jpg"
+    },
+    {
+      "title": "Resiliência econômica da Europa dá ao BCE mais margem de manobra para ajustar juros, diz Lagarde",
+      "summary": "A economia da zona do euro parece ter desenvolvido maior resiliência a choques econômicos, permitindo que o Banco Central Europeu (BCE) aumente as taxas de juros com mais facilidade, sem temer que isso provoque tensões f",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/resiliencia-economica-da-europa-da-ao-bce-mais-margem-de-manobra-para-ajustar-juros-diz-lagarde-fets/",
+      "time": "2026-06-30T08:08:58Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/11/dolar-estrangeiros-1.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2023/03/bce-europa-lagarde-5.jpg"
+    },
+    {
+      "title": "Saiba quando e como sacar Bolsa Família, Gás do Povo, Pé-de-Meia e outros benefícios em julho",
+      "summary": "Com a chegada de julho, começam os pagamentos dos benefícios sociais do Governo Federal, cujas datas já foram definidas no início do ano. Para que você possa se organizar melhor, o Money Times relembra todos os meses os ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/bolsa-familia-gas-do-povo-pe-de-meia-calendario-dos-programas-sociais-para-julho-isca/",
+      "time": "2026-06-30T08:05:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.seudinheiro.com/uploads/2026/03/image-29.png"
     },
     {
       "title": "SNME11 avança na consolidação com KISU11 e reforça caixa para novas oportunidades",
@@ -189,105 +219,125 @@
       "image": null
     },
     {
-      "title": "Quem é Orlando Gill, herói da classificação do Paraguai na Copa do Mundo",
-      "summary": "No começo de carreira, o goleiro chegou a vender roupas, chuteiras e até uma camisa da seleção paraguaia sub-20 para ajudar nas despesas da família",
+      "title": "Os arquitetos do mercado: as mentes que ditam as regras nos bastidores da arte",
+      "summary": "Da curadoria da próxima Bienal de São Paulo às consultorias de alta gama, conheça os profissionais que selecionam as tendências e direcionam os investimentos em artes plásticas",
       "source": "Exame",
-      "url": "https://exame.com/esporte/quem-e-orlando-gill-heroi-da-classificacao-do-paraguai-na-copa-do-mundo/",
-      "time": "2026-06-29T21:04:25Z",
+      "url": "https://exame.com/casual/os-arquitetos-do-mercado-as-mentes-que-ditam-as-regras-nos-bastidores-da-arte/",
+      "time": "2026-06-30T06:30:05Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/AFP__20260629__B8QD78J__v1__HighRes__FblWc2026Match74GerPar.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/CASUAL3_Panorama_7.jpg"
     },
     {
-      "title": "Buffett adia doação à Fundação Gates durante revisão sobre Epstein",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/buffett-adia-doacao-a-fundacao-gates-durante-revisao-sobre-epstein-93CH-1987452",
-      "time": "2026-06-30T04:34:11Z",
+      "title": "China cria sistema para tirar o sal da água do mar sem usar energia elétrica",
+      "summary": "Inovações em tecnologia solar prometem estabilidade ecológica e financeira",
+      "source": "Exame",
+      "url": "https://exame.com/mundo/china-cria-sistema-para-tirar-o-sal-da-agua-do-mar-sem-usar-energia-eletrica/",
+      "time": "2026-06-30T06:01:52Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2024/04/GettyImages-1445381865.jpg"
     },
     {
-      "title": "Por que as ações da Sanyo Shokai estão disparando hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-sanyo-shokai-estao-disparando-hoje-93CH-1987449",
-      "time": "2026-06-30T04:32:35Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Bolsas asiáticas fecham mistas com PMI da China e cautela antes dos dados de emprego dos EUA",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/bolsas-asiaticas-fecham-mistas-com-pmi-da-china-e-cautela-antes-dos-dados-de-emprego-dos-eua-1987442",
-      "time": "2026-06-30T03:36:23Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Futuros de ações dos EUA estáveis com recuperação de tecnologia e foco nas negociações com o Irã",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/futuros-de-acoes-dos-eua-estaveis-com-recuperacao-de-tecnologia-e-foco-nas-negociacoes-com-o-ira-1987396",
-      "time": "2026-06-30T00:10:40Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "EUA lideram aumento das emissões globais de CO₂ em 2025, aponta relatório",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/eua-lideram-aumento-das-emissoes-globais-de-co-em-2025-aponta-relatorio-1987386",
-      "time": "2026-06-30T00:00:09Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/gas_M_1440047759.jpg"
-    },
-    {
-      "title": "Prejuízo da Raízen quase triplica no 4° tri da safra 2025/26",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/raizen-tem-prejuizo-liquido-de-r73-bi-no-4-tri-da-safra-202526-1987333",
-      "time": "2026-06-29T23:42:35Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Nova lista de ações selecionadas por IA para julho chega em breve",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/nova-lista-de-acoes-selecionadas-por-ia-para-julho-chega-em-breve-1986226",
-      "time": "2026-06-29T22:04:57Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Koei Group protocola pedido de IPO na Nasdaq com Roth Capital Partners",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/koei-group-protocola-pedido-de-ipo-na-nasdaq-com-roth-capital-partners-93CH-1987338",
-      "time": "2026-06-29T22:02:44Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Ibovespa e dólar hoje: Caged e JOLTS agitam os negócios após recorde de NY",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-caged-e-jolts-agitam-os-negocios-apos-recorde-de-ny-1987283",
-      "time": "2026-06-29T22:00:02Z",
+      "title": "Receita paga 2º lote de restituição do Imposto de Renda",
+      "summary": "Com os dois primeiros lotes, [grifar]o Fisco terá devolvido R$ 32 bilhões a 18,3 milhões de contribuintes",
+      "source": "Exame",
+      "url": "https://exame.com/invest/minhas-financas/receita-paga-2o-lote-de-restituicao-do-imposto-de-renda/",
+      "time": "2026-06-30T06:01:19Z",
       "cat": "economia",
       "tickers": [],
-      "image": null
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/economia-imposto-de-renda-irpf-2026-1773692468.avif"
+    },
+    {
+      "title": "Por que as ações da Kering estão caindo hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-kering-estao-caindo-hoje-93CH-1987631",
+      "time": "2026-06-30T09:17:40Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Ações da Kering caem 5% após Barclays alertar sobre guidance anual",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-kering-caem-5-apos-barclays-alertar-sobre-guidance-anual-1987620",
+      "time": "2026-06-30T09:02:43Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Por que as ações da J Sainsbury estão subindo hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-j-sainsbury-estao-subindo-hoje-93CH-1987610",
+      "time": "2026-06-30T08:52:30Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Por que as ações da Concentrix estão despencando hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-concentrix-estao-despencando-hoje-93CH-1987605",
+      "time": "2026-06-30T08:50:19Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Ações da Kruk sobem após upgrade do Citi para compra",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-kruk-sobem-apos-upgrade-do-citi-para-compra-93CH-1987604",
+      "time": "2026-06-30T08:50:05Z",
+      "cat": "analise",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Por que as ações da Teleperformance estão despencando hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-teleperformance-estao-despencando-hoje-93CH-1987602",
+      "time": "2026-06-30T08:48:51Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Por que as ações da EasyJet estão caindo hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-easyjet-estao-caindo-hoje-93CH-1987600",
+      "time": "2026-06-30T08:47:05Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Ações da Hensoldt caem após divulgação do impacto do cancelamento do contrato T126",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-hensoldt-caem-apos-divulgacao-do-impacto-do-cancelamento-do-contrato-t126-93CH-1987599",
+      "time": "2026-06-30T08:47:01Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Por que as ações da Bureau Veritas estão subindo hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-bureau-veritas-estao-subindo-hoje-93CH-1987595",
+      "time": "2026-06-30T08:44:25Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "30/06/2026 05:04"
+  "atualizado_em": "30/06/2026 09:35"
 }
