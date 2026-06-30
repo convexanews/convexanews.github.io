@@ -104,7 +104,7 @@
       "time": "2026-06-29T21:35:46Z",
       "cat": "fundos",
       "tickers": [],
-      "image": null
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/pib-real-inflacao-credito-deficit-superavit.jpg"
     },
     {
       "title": "Ibovespa vai na contramão de Wall Street em recorde e fecha em queda; dólar sobe a R$ 5,17",
@@ -145,6 +145,16 @@
       "cat": "economia",
       "tickers": [],
       "image": "https://www.moneytimes.com.br/uploads/2025/11/dolar-estrangeiros-1.jpg"
+    },
+    {
+      "title": "SNME11 avança na consolidação com KISU11 e reforça caixa para novas oportunidades",
+      "summary": "O fundo imobiliário SNME11 avançou em seu processo de consolidação ao concluir, em maio, a aprovação da incorporação do KISU11. A transação integra a estratégia de expansão do veículo, que também prevê a fusão com o SNFF",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/snme11-avanca-na-consolidacao-com-kisu11-e-reforca-caixa-para-novas-oportunidades/",
+      "time": "2026-06-29T23:05:07Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": null
     },
     {
       "title": "Ibovespa joga no empate em dia de Brasil e fecha praticamente estável",
@@ -199,29 +209,6 @@
       "image": null
     },
     {
-      "title": "Fiagro paga dividendos com yield de 17,27% ao ano; veja valores",
-      "summary": "O Fiagro RZAG11 registrou resultado de R$ 6,696 milhões em maio, inferior ao do mês anterior. As receitas totais somaram R$ 7,824 milhões, enquanto as despesas ficaram em R$ 762 mil. O resultado do mês correspondeu a R$ ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/rzag11-resultado-maio-dividend-yield/",
-      "time": "2026-06-29T15:05:07Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Cosan (CSAN3) avalia alternativas para venda de participação na Rumo (RAIL3)",
-      "summary": "Cosan (CSAN3) avalia alternativas para venda de participação na Rumo (RAIL3)A Cosan (CSAN3) informou nesta segunda-feira (29) que iniciou uma avaliação sobre possíveis alternativas para sua participação na Rumo (RAIL3), ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/cosan-csan3-avalia-alternativas-venda-participacao-rumo-go/",
-      "time": "2026-06-29T14:13:00Z",
-      "cat": "acoes",
-      "tickers": [
-        "CSAN3",
-        "RAIL3"
-      ],
-      "image": null
-    },
-    {
       "title": "Neymar 'zoa' previsão de matemático sobre eliminação do Brasil contra o Japão",
       "summary": "Para 2026, o economista projeta a Holanda como campeã em final contra Portugal",
       "source": "Exame",
@@ -232,24 +219,14 @@
       "image": "https://classic.exame.com/wp-content/uploads/2026/06/neymar1.jpg"
     },
     {
-      "title": "Físicos criam nova fase da matéria que desafia teorias quânticas",
-      "summary": "Experimento com átomos ultrafrios revelou uma organização inédita de partículas e abriu novas possibilidades para a simulação quântica",
-      "source": "Exame",
-      "url": "https://exame.com/ciencia/fisicos-criam-nova-fase-da-materia-que-desafia-teorias-quanticas/",
-      "time": "2026-06-29T19:06:54Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/fisica-quantica.png"
-    },
-    {
-      "title": "Indústria cultural da China bate recorde e supera RMB 20 trilhões em receita",
-      "summary": "Receita do setor atingiu o maior nível da história, impulsionada por publicidade online, jogos digitais e softwares para publicação",
-      "source": "Exame",
-      "url": "https://exame.com/pop/industria-cultural-da-china-bate-recorde-e-supera-rmb-20-trilhoes-em-receita/",
-      "time": "2026-06-29T18:56:07Z",
+      "title": "Prejuízo da Raízen quase triplica no 4° tri da safra 2025/26",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/raizen-tem-prejuizo-liquido-de-r73-bi-no-4-tri-da-safra-202526-1987333",
+      "time": "2026-06-29T23:42:35Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/04/57rvCPRt96byfpy4Zw7wtiYU2dc.webp"
+      "image": null
     },
     {
       "title": "Nova lista de ações selecionadas por IA para julho chega em breve",
@@ -282,16 +259,6 @@
       "image": null
     },
     {
-      "title": "Raízen tem prejuízo líquido de R$7,3 bi no 4° tri da safra 2025/26",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/raizen-tem-prejuizo-liquido-de-r73-bi-no-4-tri-da-safra-202526-1987333",
-      "time": "2026-06-29T21:56:08Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": null
-    },
-    {
       "title": "México - Ações fecharam o pregão em alta e o Índice S&P/BMV IPC avançou 0,62%",
       "summary": "",
       "source": "Investing.com",
@@ -310,17 +277,7 @@
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Ações da Abivax disparam após dados positivos de fase 3 em colite ulcerativa",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-abivax-disparam-apos-dados-positivos-de-fase-3-em-colite-ulcerativa-93CH-1987317",
-      "time": "2026-06-29T21:24:53Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "29/06/2026 22:37"
+  "atualizado_em": "30/06/2026 00:04"
 }
