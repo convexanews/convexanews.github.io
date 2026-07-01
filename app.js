@@ -26,6 +26,12 @@ function newsImg(n) {
   const url = safeUrl(n.image);
   return url || `./img/cat-${esc(n.cat || 'geral')}.jpg`;
 }
+// Se a imagem externa falhar (hotlink bloqueado, link morto), troca pela
+// imagem da categoria em vez de mostrar o ícone de imagem quebrada.
+function newsImgErr(img, cat) {
+  img.onerror = null;
+  img.src = `./img/cat-${esc(cat || 'geral')}.jpg`;
+}
 
 // ===== FAVORITOS =====
 let favs = new Set();
@@ -306,7 +312,9 @@ function renderNews() {
   const h = NEWS_DATA.headline;
   if (!h) return;
 
-  document.getElementById('heroImg').src = newsImg(h);
+  const heroImg = document.getElementById('heroImg');
+  heroImg.onerror = () => newsImgErr(heroImg, h.cat);
+  heroImg.src = newsImg(h);
   const heroTitle = document.getElementById('heroTitle');
   const hUrl = safeUrl(h.url);
   heroTitle.innerHTML = hUrl
@@ -321,7 +329,7 @@ function renderNews() {
   document.getElementById('featuredCards').innerHTML = (NEWS_DATA.featured || []).map(f => {
     const fUrl = safeUrl(f.url);
     const inner = `
-      <img class="featured-img" src="${newsImg(f)}" alt="" loading="lazy">
+      <img class="featured-img" src="${newsImg(f)}" alt="" loading="lazy" onerror="newsImgErr(this,'${esc(f.cat || 'geral')}')">
       <div class="featured-meta">
         <span>${esc(f.source)}</span><span>·</span><span>${esc(tempoRelativo(f.time))}</span>
         ${f.exclusive ? '<span class="exclusive-badge">EXCLUSIVO</span>' : ''}
@@ -360,7 +368,7 @@ function renderNewsList() {
   document.getElementById('newsGrid').innerHTML = items.map(n => {
     const nUrl = safeUrl(n.url);
     const inner = `
-      <img class="news-item-thumb" src="${newsImg(n)}" alt="" loading="lazy">
+      <img class="news-item-thumb" src="${newsImg(n)}" alt="" loading="lazy" onerror="newsImgErr(this,'${esc(n.cat || 'geral')}')">
       <div class="news-item-body">
         <div class="news-item-meta">
           <span class="news-item-source">${esc(n.source)}</span>

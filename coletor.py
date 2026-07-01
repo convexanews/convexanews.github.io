@@ -24,6 +24,20 @@ except ImportError:
 
 UA_HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36'}
 
+# Headers de navegador completos — alguns portais (Suno, Money Times) usam
+# proteção anti-bot que rejeita requisições com headers mínimos, principalmente
+# vindas de datacenters (caso do GitHub Actions).
+BROWSER_HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+    'Accept-Language': 'pt-BR,pt;q=0.9,en;q=0.8',
+    'Cache-Control': 'no-cache',
+    'Sec-Fetch-Dest': 'document',
+    'Sec-Fetch-Mode': 'navigate',
+    'Sec-Fetch-Site': 'none',
+    'Upgrade-Insecure-Requests': '1',
+}
+
 # ==================== AÇÕES BR (por setor) ====================
 ATIVOS_BR = {
     # Petróleo & Gás
@@ -387,9 +401,10 @@ def buscar_og_image(url):
     if not HAS_REQUESTS or not url:
         return None
     try:
-        resp = requests.get(url, headers=UA_HEADERS, timeout=10, allow_redirects=True)
-        # Só lê os primeiros 50KB para não baixar a página inteira
-        html = resp.text[:50000]
+        resp = requests.get(url, headers=BROWSER_HEADERS, timeout=10, allow_redirects=True)
+        # Lê até 300KB — a Suno, por exemplo, coloca o og:image depois dos 57KB,
+        # então o limite antigo de 50KB fazia a busca falhar mesmo com a página OK
+        html = resp.text[:300000]
         match = re.search(r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']', html, re.I)
         if not match:
             match = re.search(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']', html, re.I)
@@ -836,10 +851,26 @@ if noticias_raw:
     # Manchete escolhida por score (recência + impacto), não pela ordem do feed
     ordenadas = sorted(noticias_raw, key=pontuar_noticia, reverse=True)
 
-    # Busca og:image para as top notícias sem imagem (headline + featured + primeiras da lista)
+    # Reaproveita imagens descobertas em execuções anteriores (cache por URL):
+    # se numa rodada o portal respondeu com a og:image, não perde nas próximas
+    # mesmo que o site passe a bloquear a requisição.
+    try:
+        with open('noticias.json', 'r', encoding='utf-8') as f:
+            anterior = json.load(f)
+        cache_img = {}
+        for n in ([anterior.get('headline')] + anterior.get('featured', []) + anterior.get('all', [])):
+            if n and n.get('url') and n.get('image'):
+                cache_img[n['url']] = n['image']
+        for n in ordenadas:
+            if not n.get('image') and n['url'] in cache_img:
+                n['image'] = cache_img[n['url']]
+    except Exception:
+        pass
+
+    # Busca og:image para TODAS as notícias sem imagem (não só as top 15)
     print("Buscando imagens og:image para notícias sem thumbnail...")
-    sem_img = [n for n in ordenadas[:15] if not n.get('image')]
-    with ThreadPoolExecutor(max_workers=5) as ex:
+    sem_img = [n for n in ordenadas if not n.get('image')]
+    with ThreadPoolExecutor(max_workers=8) as ex:
         futures = {ex.submit(buscar_og_image, n['url']): n for n in sem_img}
         for fut in futures:
             n = futures[fut]
@@ -849,8 +880,8 @@ if noticias_raw:
                     n['image'] = img
             except Exception:
                 pass
-    com_img = sum(1 for n in ordenadas[:15] if n.get('image'))
-    print(f"  {com_img}/15 top notícias com imagem")
+    com_img = sum(1 for n in ordenadas if n.get('image'))
+    print(f"  {com_img}/{len(ordenadas)} notícias com imagem")
 
     noticias_json = {
         'headline': ordenadas[0],
