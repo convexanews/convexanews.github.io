@@ -1,180 +1,215 @@
 {
   "headline": {
-    "title": "Fed mais duro? Especialista vê alta nos juros dos EUA e faz alerta para o Brasil no 2º semestre",
-    "summary": "A sinalização de uma postura mais rígida do Federal Reserve, combinada com os riscos inflacionários decorrentes das tensões geopolíticas e das incertezas eleitorais no Brasil, deve manter os investidores em alerta ao lon",
-    "source": "Money Times",
-    "url": "https://www.moneytimes.com.br/fed-pode-subir-juros-ate-o-fim-do-ano-veja-os-impactos-para-o-brasil-segundo-especialista-ceci/",
-    "time": "2026-07-01T16:59:06Z",
-    "cat": "economia",
-    "tickers": [],
-    "image": "https://www.moneytimes.com.br/uploads/2026/06/pib-real-inflacao-credito-deficit-superavit.jpg"
+    "title": "Ações recomendadas para julho: Itaú (ITUB4), Petrobras (PETR4) e Vale (VALE3) entram no 2º tempo da Bolsa",
+    "summary": "A Bolsa virou o semestre como quem volta do intervalo com o jogo em aberto. As ações recomendadas para julho mostram um mercado menos disposto a improvisar e mais concentrado em nomes líquidos, defensivos e com geração d",
+    "source": "Suno",
+    "url": "https://www.suno.com.br/noticias/acoes-recomendadas-julho-itau-petrobras-vale-mt/",
+    "time": "2026-07-01T18:35:10Z",
+    "cat": "acoes",
+    "tickers": [
+      "ITUB4",
+      "PETR4",
+      "VALE3"
+    ],
+    "image": null
   },
   "featured": [
     {
-      "title": "Ações europeias interrompem alta em meio a preocupações com juros do Fed e guerra",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/world-news/acoes-europeias-interrompem-alta-em-meio-a-preocupacoes-com-juros-do-fed-e-guerra-1989910",
-      "time": "2026-07-01T16:35:28Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM60321_1200_L.jpg"
+      "title": "Petrobras (PETR4), Ambev (ABEV3) e mais: 10 ações para ter na carteira de julho, segundo BTG Pactual",
+      "summary": "O BTG Pactual realizou alguns ajustes na carteira recomendada de ações para o mês de julho. Tendo em vista uma perda de espaço dos ativos brasileiros perante os investidores estrangeiros, os analistas optaram por uma red",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/petrobras-petr4-ambev-abev3-e-mais-10-acoes-para-ter-na-carteira-de-julho-segundo-btg-pactual-lmrs/",
+      "time": "2026-07-01T18:41:55Z",
+      "cat": "analise",
+      "tickers": [
+        "PETR4",
+        "ABEV3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/acoes.jpg"
     },
     {
-      "title": "IRB (IRBR3): seguros crescem, lucro salta e um segmento dispara 52%",
-      "summary": "O mercado de seguros começou o segundo trimestre com fôlego. Segundo o Boletim IRB+Mercado, elaborado por IRB(+)Inteligência com dados da Susep, o faturamento total do setor avançou 5,7% em abril de 2026 ante o mesmo mês",
+      "title": "Petrobras retoma fábrica de fertilizantes; veja os reflexos para SNAG11 e agronegócio",
+      "summary": "A retomada das obras da Unidade de Fertilizantes Nitrogenados III (UFN-III), da Petrobras, recolocou em debate um ponto estrutural do agronegócio nacional: a elevada dependência de importações de fertilizantes nitrogenad",
       "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/irb-irbr3-mercado-seguros-abril-2026-mt/",
-      "time": "2026-07-01T16:05:07Z",
+      "url": "https://www.suno.com.br/noticias/petrobras-retoma-fabrica-de-fertilizantes-veja-os-reflexos-para-snag11-e-agronegocio/",
+      "time": "2026-07-01T19:25:15Z",
       "cat": "acoes",
-      "tickers": [
-        "IRBR3"
-      ],
+      "tickers": [],
       "image": null
     }
   ],
   "all": [
     {
-      "title": "Bolsas da Europa fecham na maioria em queda de olho em EUA-Irã e dados europeus",
-      "summary": "A desaceleração da inflação na zona do euro para 2,8% e declarações da presidente do BCE, Christine Lagarde, dividiram as atenções dos investidores, que adotaram uma postura defensiva nos mercados regionais",
+      "title": "Cantareira entra em alerta; sistema abastece metade da população da Grande SP",
+      "summary": "O principal manancial de São Paulo atingiu 39,87% da capacidade em junho, acionando a redução obrigatória na retirada de água, mas sem risco imediato de racionamento para a população",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/bolsas-da-europa-fecham-na-maioria-em-queda-de-olho-em-eua-ira-e-dados-europeus/",
-      "time": "2026-07-01T17:51:15Z",
+      "url": "https://www.infomoney.com.br/brasil/cantareira-entra-em-alerta-sistema-abastece-metade-da-populacao-da-grande-sp/",
+      "time": "2026-07-01T19:52:14Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/tap-791172_1280.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "EUA se recusam a prorrogar acordo comercial com México e Canadá e buscam alterações",
+      "summary": "“Os Estados Unidos não concordaram em renovar o USMCA em sua forma atual”, afirmou o representante comercial dos EUA, Jamieson Greer, em comunicado",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/economia/eua-se-recusam-a-prorrogar-acordo-comercial-com-mexico-e-canada-e-buscam-alteracoes/",
+      "time": "2026-07-01T19:46:42Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/04/bolsas-europa.jpg?fit=300%2C164&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-01T192841Z_1_LYNXMPEM603AP_RTROPTP_4_USA-TRADE-USMCA.jpg?fit=300%2C172&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Flávio critica Michelle: ‘Está equivocada ao insinuar que estive em festa de Vorcaro’",
-      "summary": "Senador diz que ex-primeira dama pode estar 'sendo induzida' no caso",
+      "title": "Imóveis de um dormitório lideram valorização no Brasil e têm metro quadrado mais caro",
+      "summary": "Unidades compactas subiram 7,3% em 12 meses; Salvador, Fortaleza e Vitória lideram a valorização entre as capitais.",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/flavio-critica-michelle-esta-equivocada-ao-insinuar-que-estive-em-festa-de-vorcaro/",
-      "time": "2026-07-01T17:47:22Z",
+      "url": "https://www.infomoney.com.br/consumo/imoveis-um-dormitorio-valorizacao/",
+      "time": "2026-07-01T19:30:00Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/flavio-bolsonaro-politico-pl.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Apartamento-1-dormitorio.jpg?fit=300%2C170&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Justiça italiana manda reabrir análise sobre extradição de Zambelli no caso da arma",
-      "summary": "Corte anulou decisão que autorizava envio da ex-deputada ao Brasil; pedido voltará à Corte de Apelação de Roma para novo julgamento",
+      "title": "Expert XP 2026 terá o ator e vencedor do Oscar Will Smith como atração principal",
+      "summary": "Ator e produtor compartilhará uma perspectiva única sobre carreira, trajetória e inspiração no maior festival de investimentos do mundo",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/justica-italiana-manda-reabrir-analise-sobre-extradicao-de-zambelli-no-caso-da-arma/",
-      "time": "2026-07-01T17:44:55Z",
+      "url": "https://www.infomoney.com.br/mercados/expert-xp-2026-tera-o-ator-e-vencedor-do-oscar-will-smith-como-atracao-principal/",
+      "time": "2026-07-01T19:21:09Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/zambelli-arma.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Captura-de-tela-2026-07-01-150547.png?fit=300%2C244&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Moedas de mercados emergentes apagam ganhos de 2026 com dólar ganhando força",
-      "summary": "Em um primeiro semestre volátil, que viu o índice se recuperar das mínimas de março, o índice de referência agora reverteu grande parte desses ganhos",
+      "title": "FII suspende dividendos; despenca 14,7% e já perde R$ 369 mi em valor de mercado",
+      "summary": "Atualmente, o mercado atribui um desconto próximo de 76% sobre os ativos do CACR11",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/moedas-de-mercados-emergentes-apagam-ganhos-de-2026-com-dolar-ganhando-forca/",
-      "time": "2026-07-01T17:42:48Z",
+      "url": "https://www.infomoney.com.br/onde-investir/fii-suspende-dividendos-despenca-147-e-ja-perde-r-369-mi-em-valor-de-mercado/",
+      "time": "2026-07-01T19:11:47Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/grafico-queda.jpg?fit=300%2C209&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Na BA, Lula diz que educação não ia bem na gestão Costa quando Jerônimo era candidato",
+      "summary": "Presidente também teceu críticas ao ex-prefeito de Salvador, ACM Neto (União Brasil), que deve disputar eleição ao governo da Bahia contra Jerônimo neste ano",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/na-ba-lula-diz-que-educacao-nao-ia-bem-na-gestao-costa-quando-jeronimo-era-candidato/",
+      "time": "2026-07-01T19:06:28Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-02T130230Z_1573548033_RC2R1GASYA1I_RTRMADP_3_USA-TRUMP-TARIFFS-BRAZIL.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Petróleo fecha em queda com negociações entre EUA e Irã e melhora no fornecimento global",
+      "summary": "Os contratos futuros do petróleo fecharam em queda, estendendo as perdas de terça-feira, em meio a sinais de que conversas técnicas indiretas entre os Estados Unidos e o Irã estão em andamento em Doha, enquanto o Estreit",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/petroleo-fecha-em-queda-com-negociacoes-entre-eua-e-ira-e-melhora-no-fornecimento-global/",
+      "time": "2026-07-01T19:29:53Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/07/petroleo-1.jpg"
+    },
+    {
+      "title": "Dividendos: 8 ações para buscar retornos em julho, segundo a Empiricus Research",
+      "summary": "A Empiricus Research realizou uma alteração na carteira recomendada de dividendos para o mês de julho, retirando Direcional (DIRR3) para adicionar Cyrela (CYRE3). A mudança busca adicionar um nome um pouco mais exposto a",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/dividendos-8-acoes-para-buscar-retornos-em-julho-segundo-a-empiricus-research-lmrs/",
+      "time": "2026-07-01T19:17:42Z",
+      "cat": "fundos",
+      "tickers": [
+        "DIRR3",
+        "CYRE3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/dividendos-1.jpg"
+    },
+    {
+      "title": "Kevin Warsh promete “decepcionar” quem acha que ele vai tolerar inflação acima de 2% nos EUA",
+      "summary": "O chair do Federal Reserve, Kevin Warsh, afirmou nesta quarta-feira que buscará com firmeza a meta de inflação de 2% do banco central dos Estados Unidos e que “decepcionará” quem espera uma política monetária frouxa, ape",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/chair-do-fed-promete-decepcionar-quem-achar-que-ele-vai-tolerar-inflacao-acima-de-2/",
+      "time": "2026-07-01T19:12:05Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Captura-de-tela-2026-07-01-144126.png?fit=300%2C215&amp;quality=70&amp;strip=all"
+      "image": null
     },
     {
-      "title": "Ganho de US$ 1,4 bi de Trump é maior do que qualquer empresa com cripto nos EUA",
-      "summary": "Quase toda a receita de Trump com criptomoedas veio de vendas únicas de tokens e ações, e não de lucros operacionais recorrentes",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mundo/ganho-de-us-14-bi-de-trump-e-maior-do-que-qualquer-empresa-com-cripto-nos-eua/",
-      "time": "2026-07-01T17:38:44Z",
-      "cat": "cripto",
+      "title": "Inscrições para bolsas do Prouni no segundo semestre de 2026 começam na semana que vem",
+      "summary": "As inscrições para o segundo semestre de 2026 do Programa Universidade para Todos (Prouni) começam na semana que vem. Os candidatos poderão se inscrever do dia 7 de julho (terça-feira) até as 23h59 de 10 de julho (sexta-",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/inscricoes-para-bolsas-prouni-segundo-semestre-de-2026-comecam-garg/",
+      "time": "2026-07-01T19:04:25Z",
+      "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/458680932.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": null
     },
     {
-      "title": "WEG: a boa e a má notícia para quem tem ou pensa em comprar as ações WEGE3",
-      "summary": "Expansão da capacidade produtiva deve gerar pressão sobre as margens nos próximos trimestres, mas reforça tese de crescimento estrutural",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/weg-a-boa-e-a-ma-noticia-para-quem-tem-ou-pensa-em-comprar-as-acoes-wege3/",
-      "time": "2026-07-01T17:25:00Z",
+      "title": "Petrobras (PETR4), Ambev (ABEV3) e mais: 10 ações para ter na carteira de julho, segundo BTG Pactual",
+      "summary": "O BTG Pactual realizou alguns ajustes na carteira recomendada de ações para o mês de julho. Tendo em vista uma perda de espaço dos ativos brasileiros perante os investidores estrangeiros, os analistas optaram por uma red",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/petrobras-petr4-ambev-abev3-e-mais-10-acoes-para-ter-na-carteira-de-julho-segundo-btg-pactual-lmrs/",
+      "time": "2026-07-01T18:41:55Z",
+      "cat": "analise",
+      "tickers": [
+        "PETR4",
+        "ABEV3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/acoes.jpg"
+    },
+    {
+      "title": "Petrobras retoma fábrica de fertilizantes; veja os reflexos para SNAG11 e agronegócio",
+      "summary": "A retomada das obras da Unidade de Fertilizantes Nitrogenados III (UFN-III), da Petrobras, recolocou em debate um ponto estrutural do agronegócio nacional: a elevada dependência de importações de fertilizantes nitrogenad",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/petrobras-retoma-fabrica-de-fertilizantes-veja-os-reflexos-para-snag11-e-agronegocio/",
+      "time": "2026-07-01T19:25:15Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Inter (INBR32) vê renda fixa no comando e Bolsa seletiva para julho",
+      "summary": "Julho começa com cara de segundo tempo: o jogo ainda está aberto, mas ninguém quer se expor sem defesa. No relatório de estratégia de alocação do Inter, a leitura é que o mês pede equilíbrio entre proteção, carrego e opo",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/inter-inbr32-alocacao-julho-renda-fixa-bolsa-mt/",
+      "time": "2026-07-01T19:25:07Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Ações recomendadas para julho: Itaú (ITUB4), Petrobras (PETR4) e Vale (VALE3) entram no 2º tempo da Bolsa",
+      "summary": "A Bolsa virou o semestre como quem volta do intervalo com o jogo em aberto. As ações recomendadas para julho mostram um mercado menos disposto a improvisar e mais concentrado em nomes líquidos, defensivos e com geração d",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/acoes-recomendadas-julho-itau-petrobras-vale-mt/",
+      "time": "2026-07-01T18:35:10Z",
       "cat": "acoes",
       "tickers": [
-        "WEGE3"
+        "ITUB4",
+        "PETR4",
+        "VALE3"
       ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/weg-2.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": null
     },
     {
-      "title": "Fluxo de petróleo em Ormuz supera 10 milhões de barris por dia e desafia Irã",
-      "summary": "Apoio militar dos EUA acelera tráfego no estreito, enquanto Teerã tenta preservar poder de pressão",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mundo/fluxo-de-petroleo-em-ormuz-supera-10-milhoes-de-barris-e-desafia-ira/",
-      "time": "2026-07-01T17:19:52Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/459768915.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Fictor quer watchdog fora do processo de recuperação judicial",
-      "summary": "O Grupo Fictor recorreu ao Tribunal de Justiça de São Paulo (TJ-SP) para tentar retirar da sua recuperação judicial um agente independente de monitoramento, conhecido no mercado como watchdog. Na prática, trata-se de uma",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/fictor-quer-watchdog-fora-do-processo-de-recuperacao-judicial/",
-      "time": "2026-07-01T17:37:46Z",
+      "title": "SLC compra fazendas no MT por R$ 1,85 bi; operação reforça tese do SNFZ11",
+      "summary": "A decisão da SLC Agrícola de pagar R$ 1,85 bilhão por cerca de 29 mil hectares agricultáveis do Grupo Radar, em Mato Grosso, reacendeu o interesse do mercado pelo ativo “terra”. O valor desembolsado, visto por parte dos ",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/slc-compra-fazendas-no-mt-por-r-185-bi-operacao-reforca-tese-do-snfz11/",
+      "time": "2026-07-01T18:25:09Z",
       "cat": "acoes",
       "tickers": [],
       "image": null
     },
     {
-      "title": "Caiado oficializa Kassab como pré-candidato a vice na chapa e critica Flávio Bolsonaro",
-      "summary": "O pré-candidato do PSD à Presidência da República, Ronaldo Caiado, oficializou nesta quarta (1º), o presidente nacional do partido, Gilberto Kassab, como seu vice na disputa pelo Palácio do Planalto. Em ato na sede da le",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ronaldo-caiado-oficializa-kassab-seu-pre-candidato-a-vice-na-chapa-e-critica-flavio-bolsonaro-gaep/",
-      "time": "2026-07-01T17:35:22Z",
-      "cat": "acoes",
-      "tickers": [],
+      "title": "BRCO11 eleva dividendos ao maior nível em um ano; descubra quanto",
+      "summary": "O fundo imobiliário BRCO11 vai pagar R$ 1,05 por cota referente à competência de junho de 2026, o maior patamar dos últimos 12 meses. O valor considera o desempenho operacional recente do portfólio e segue a política de ",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/brco11-rendimento-1-05-julho-2026/",
+      "time": "2026-07-01T18:05:07Z",
+      "cat": "fundos",
+      "tickers": [
+        "BRCO11"
+      ],
       "image": null
-    },
-    {
-      "title": "Anfavea: taxas do Moderfrota do Plano Safra 2026/27 são atrativas frente à Selic",
-      "summary": "A Associação Nacional dos Fabricantes de Veículos Automotores (Anfavea) informou, em nota, que houve um esforço do governo federal para incrementar o Plano Safra 2026/27, avaliando que, do ponto de vista das linhas desti",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/anfavea-taxas-do-moderfrota-do-plano-safra-2026-27-sao-atrativas-frente-a-selic-pads/",
-      "time": "2026-07-01T17:32:24Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2020/05/1-47.jpg"
-    },
-    {
-      "title": "Renegociação de dívidas rurais: Motta anuncia reunião com FPA e equipe econômica",
-      "summary": "O presidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB), informou nesta quarta-feira, 1º, que acertou a com a equipe econômica do governo e a Frente Parlamentar da Agropecuária (FPA) uma reunião na próxima ter",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/renegociacao-de-dividas-rurais-motta-anuncia-reuniao-com-fpa-e-equipe-economica-pads/",
-      "time": "2026-07-01T17:23:07Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Produção de petróleo do Brasil sobe 16,9% em maio para 4,3 mi barris/dia, diz ANP",
-      "summary": "A produção média de petróleo do Brasil cresceu 16,9% em maio, ante o mesmo período do ano passado, para 4,3 milhões de barris por dia (bpd), o segundo maior volume médio mensal da história, informou a Agência Nacional do",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/producao-de-petroleo-do-brasil-sobe-169-em-maio-para-43-mi-barris-dia-diz-anp-2/",
-      "time": "2026-07-01T17:06:31Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Petrobras ainda avalia redução do preço da gasolina, diz Magda Chambriard",
-      "summary": "A presidente da Petrobras, Magda Chambriard, disse nesta quarta-feira, 1, que ainda estuda se vai mexer no preço da gasolina, depois de reduzir o diesel e o querosene de aviação entre terça (30) e quarta, por conta da qu",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/petrobras-ainda-avalia-reducao-do-preco-da-gasolina-diz-magda-chambriard/",
-      "time": "2026-07-01T17:03:35Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/06/presidente-da-petrobras-magda-chambriard-05062025-reutersricardo-moraes.png"
-    },
-    {
-      "title": "Fed mais duro? Especialista vê alta nos juros dos EUA e faz alerta para o Brasil no 2º semestre",
-      "summary": "A sinalização de uma postura mais rígida do Federal Reserve, combinada com os riscos inflacionários decorrentes das tensões geopolíticas e das incertezas eleitorais no Brasil, deve manter os investidores em alerta ao lon",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/fed-pode-subir-juros-ate-o-fim-do-ano-veja-os-impactos-para-o-brasil-segundo-especialista-ceci/",
-      "time": "2026-07-01T16:59:06Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/06/pib-real-inflacao-credito-deficit-superavit.jpg"
     },
     {
       "title": "XPLG11 tem novo pagamento de dividendos; saiba os detalhes",
@@ -213,191 +248,127 @@
       "image": null
     },
     {
-      "title": "CDBs lidera ranking de investimentos dos brasileiros em 2026; veja lista completa",
-      "summary": "Os CDBs (Certificados de Depósito Bancário) seguem como o investimento mais popular entre os brasileiros em 2026. De acordo com um levantamento realizado pela Serasa em parceria com o Instituto Opinion Box, 56,7% dos inv",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/ranking-investimentos-brasileiros-jul-2026-cdb-acoes-go/",
-      "time": "2026-07-01T16:05:15Z",
-      "cat": "acoes",
+      "title": "Bilhões em inteligência artificial: como as gigantes da tecnologia aceleram seus investimentos",
+      "summary": "A corrida pela inteligência artificial mobiliza centenas de bilhões de dólares e redefine estratégias de negócios, inovação e competitividade no setor de tecnologia",
+      "source": "Exame",
+      "url": "https://exame.com/inteligencia-artificial/bilhoes-em-inteligencia-artificial-como-as-gigantes-da-tecnologia-aceleram-seus-investimentos/",
+      "time": "2026-07-01T16:40:02Z",
+      "cat": "economia",
       "tickers": [],
-      "image": null
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/2151612702.jpg"
     },
     {
-      "title": "IRB (IRBR3): seguros crescem, lucro salta e um segmento dispara 52%",
-      "summary": "O mercado de seguros começou o segundo trimestre com fôlego. Segundo o Boletim IRB+Mercado, elaborado por IRB(+)Inteligência com dados da Susep, o faturamento total do setor avançou 5,7% em abril de 2026 ante o mesmo mês",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/irb-irbr3-mercado-seguros-abril-2026-mt/",
-      "time": "2026-07-01T16:05:07Z",
-      "cat": "acoes",
+      "title": "Data center a gás viram tendência nos EUA e impulsionam mercado de geradores",
+      "summary": "Demanda provocada pela inteligência artificial deve elevar consumo de energia do setor em até 130% até 2030, segundo a AIE",
+      "source": "Exame",
+      "url": "https://exame.com/tecnologia/data-center-a-gas-viram-tendencia-nos-eua-e-impulsionam-mercado-de-geradores/",
+      "time": "2026-07-01T16:34:02Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/AdobeStock_618316997.jpeg"
+    },
+    {
+      "title": "O impacto da inteligência artificial na evolução das telecomunicações",
+      "summary": "Da gestão de redes ao atendimento ao cliente, a inteligência artificial está tornando as operações das empresas de telecomunicações mais rápidas, eficientes e personalizadas",
+      "source": "Exame",
+      "url": "https://exame.com/inteligencia-artificial/o-impacto-da-inteligencia-artificial-na-evolucao-das-telecomunicacoes/",
+      "time": "2026-07-01T16:15:12Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/98438.jpg"
+    },
+    {
+      "title": "Bélgica x Senegal: veja as escalações confirmadas para o jogo de hoje da Copa",
+      "summary": "O confronto é válido pelos 16 avos de final da Copa do Mundo de 2026, e a bola vai rolar às 17h, no Lumen Field, em Seattle",
+      "source": "Exame",
+      "url": "https://exame.com/esporte/belgica-x-senegal-veja-as-escalacoes-confirmadas-para-o-jogo-de-hoje-da-copa/",
+      "time": "2026-07-01T16:11:55Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/AFP__20260630__2283948786__v1__HighRes__NewZealandVBelgiumGroupGFifaWorldCup2026.jpg"
+    },
+    {
+      "title": "Ligação com PCC e caso Corinthians-VaideBet: quem é o brasileiro sancionado pelos EUA",
+      "summary": "Empresário chegou a ser preso em 2025; Departamento do Tesouro americano o coloca como líder de esquema criminoso",
+      "source": "Exame",
+      "url": "https://exame.com/brasil/ligacao-com-pcc-e-caso-corinthians-vaidebet-quem-e-o-brasileiro-sancionado-pelos-eua/",
+      "time": "2026-07-01T15:52:53Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/shimada2_5dd91e.jpeg"
+    },
+    {
+      "title": "Guggenheim aponta sua principal escolha de ação no setor farmacêutico",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/guggenheim-aponta-sua-principal-escolha-de-acao-no-setor-farmaceutico-93CH-1990070",
+      "time": "2026-07-01T19:40:23Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Embraer conclui aquisição de participação restante na EZ Air México",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/embraer-conclui-aquisicao-de-participacao-restante-na-ez-air-mexico-1990052",
+      "time": "2026-07-01T19:14:49Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEE0F0ML_M.jpg"
+    },
+    {
+      "title": "Por que as ações da Minerva (BEEF3) estão em queda hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-minerva-beef3-estao-em-queda-hoje-1990039",
+      "time": "2026-07-01T19:05:14Z",
+      "cat": "internacional",
       "tickers": [
-        "IRBR3"
+        "BEEF3"
       ],
       "image": null
     },
     {
-      "title": "Suzano (SUZB3) sobe após conclusão de joint venture com Kimberly-Clark",
-      "summary": "Suzano (SUZB3) sobe após conclusão de joint venture com Kimberly-ClarkA Suzano (SUZB3) opera em alta no pregão desta quarta-feira (1º), após anunciar a conclusão da joint venture firmada com a Kimberly-Clark. Por volta d",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/suzano-suzb3-conclusao-joint-venture-kimberly-clark-go/",
-      "time": "2026-07-01T14:40:00Z",
-      "cat": "acoes",
-      "tickers": [
-        "SUZB3"
-      ],
-      "image": null
-    },
-    {
-      "title": "Nike (NIKE34) prevê queda mais acentuada nas vendas com cautela do consumidor",
-      "summary": "Nike. Foto: PixabayA Nike (NIKE34) reduziu sua projeção de vendas após a pressão sobre os consumidores aumentar ao redor do mundo nos últimos meses. A fabricante de tênis e vestuário afirmou que o bom ritmo observado em ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/nike-preve-queda-acentuada-vendas-cautela-consumidor-go/",
-      "time": "2026-07-01T13:01:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2021/12/feet-gd6d142326_1920.jpg"
-    },
-    {
-      "title": "Itaúsa (ITSA4) e Bradesco (BBDC4) pagam dividendos nesta quarta; saiba mais",
-      "summary": "Itaúsa (ITSA4) e Bradesco (BBDC4) pagam dividendos nesta quarta; saiba maisOs investidores que compraram ações da Itaúsa (ITSA4) e do Bradesco (BBDC4) verão sua conta da corretora engordar com os dividendos que serão pag",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/itausa-itsa4-agenda-dividendos-01072026-go/",
-      "time": "2026-07-01T11:55:00Z",
-      "cat": "fundos",
-      "tickers": [
-        "BBDC4"
-      ],
-      "image": null
-    },
-    {
-      "title": "IFIX fecha em alta e retoma os 3.830 pontos no último pregão de junho",
-      "summary": "O IFIX encerrou o pregão desta terça-feira (30) aos 3.830,59 pontos, com alta de 0,31%, avanço de 11,88 pontos em relação ao fechamento anterior. O indicador voltou a subir e terminou a sessão próximo da máxima do dia, a",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/ifix-fecha-em-alta-e-retoma-os-3-830-pontos-no-ultimo-pregao-de-junho/",
-      "time": "2026-06-30T22:25:07Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "EUA não renovam acordo comercial com México e Canadá e cobram negociações anuais",
-      "summary": "Mudança na estratégia dos Estados Unidos pode prolongar negociações com Canadá e México e afetar planos de investimento na região",
-      "source": "Exame",
-      "url": "https://exame.com/mundo/eua-nao-renovam-acordo-comercial-com-mexico-e-canada-e-cobram-negociacoes-anuais/",
-      "time": "2026-07-01T14:53:09Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/Donald-Trump.jpg"
-    },
-    {
-      "title": "Enquanto mercado recua, Vivo aperta o passo e quer ser a empresa mais diversa do país, diz executivo",
-      "summary": "Com metas que vão até 2035, a Vivo diz ter ampliado a cobrança sobre líderes por resultados de diversidade, mesmo com o tema perdendo espaço em outras empresas",
-      "source": "Exame",
-      "url": "https://exame.com/carreira/enquanto-mercado-recua-vivo-aperta-o-passo-e-quer-ser-a-empresa-mais-diversa-do-pais-diz-executivo/",
-      "time": "2026-07-01T14:45:35Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/Fernando-Luciano_03_selecionada.jpg"
-    },
-    {
-      "title": "Revelação da Bósnia nasceu nos Estados Unidos e pode ser carrasco de anfitriões",
-      "summary": "Esmir Bajraktarević optou por defender a Bósnia e Herzegovina e enfrenta os EUA nesta quarta-feira, 1º, em busca de uma vaga nas oitavas de final",
-      "source": "Exame",
-      "url": "https://exame.com/esporte/revelacao-da-bosnia-nasceu-nos-estados-unidos-e-pode-ser-carrasco-de-anfitrioes/",
-      "time": "2026-07-01T14:22:41Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/AFP__20260625__2283214514__v1__HighRes__BosniaAndHerzegovinaVQatarGroupBFifaWorldCup.jpg"
-    },
-    {
-      "title": "Em Portugal, Kevin Warsh evita palpite sobre próximas decisões de juros nos EUA",
-      "summary": "Em declarações feitas nesta quarta no fórum do Banco Central Europeu (BCE) em Sintra, Warsh reiterou sua forte oposição ao uso do guidance",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/em-portugal-kevin-warsh-evita-palpite-sobre-proximas-decisoes-de-juros-nos-eua/",
-      "time": "2026-07-01T14:16:53Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/05/1200x800-1.png"
-    },
-    {
-      "title": "Goldman Sachs inicia cobertura da FedEx Freight com compra e preço-alvo de US$ 186",
+      "title": "Por que as ações da SanDisk estão despencando hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/goldman-sachs-inicia-cobertura-da-fedex-freight-com-compra-e-precoalvo-de-us-186-1989947",
-      "time": "2026-07-01T17:23:13Z",
-      "cat": "analise",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
-    },
-    {
-      "title": "Fabricante da Corona, Constellation, vê aglomerações impulsionadas pela Copa aumentando demanda por cerveja nos EUA",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/fabricante-da-corona-constellation-ve-aglomeracoes-impulsionadas-pela-copa-aumentando-demanda-por-cerveja-nos-eua-1989942",
-      "time": "2026-07-01T17:14:09Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPED040QR_M.jpg"
-    },
-    {
-      "title": "Ações da Tarsus caem após relatório de vendedor a descoberto",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-tarsus-caem-apos-relatorio-de-vendedor-a-descoberto-93CH-1989941",
-      "time": "2026-07-01T17:12:48Z",
-      "cat": "analise",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Bending Spoons abre a US$ 31 por ação, acima do preço de IPO de US$ 29",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/bending-spoons-abre-a-us-31-por-acao-acima-do-preco-de-ipo-de-us-29-432SI-1989943",
-      "time": "2026-07-01T17:05:06Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-sandisk-estao-despencando-hoje-93CH-1990035",
+      "time": "2026-07-01T18:48:44Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Ações da Bending Spoons sobem 7% em estreia nos EUA",
+      "title": "Negociação de opções da Orma Technologies salta para 4.300 contratos",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-bending-spoons-sobem-7-em-estreia-nos-eua-93CH-1989922",
-      "time": "2026-07-01T16:53:03Z",
+      "url": "https://br.investing.com/news/stock-market-news/negociacao-de-opcoes-da-orma-technologies-salta-para-4300-contratos-93CH-1990033",
+      "time": "2026-07-01T18:43:11Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Ações da ITG sobem 13% no primeiro dia após IPO de US$ 312 milhões",
+      "title": "Negociação de opções da Powell Industries dispara em meio à queda das ações",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-itg-sobem-13-no-primeiro-dia-apos-ipo-de-us-312-milhoes-93CH-1989920",
-      "time": "2026-07-01T16:50:56Z",
+      "url": "https://br.investing.com/news/stock-market-news/negociacao-de-opcoes-da-powell-industries-dispara-em-meio-a-queda-das-acoes-93CH-1990032",
+      "time": "2026-07-01T18:41:42Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Ações europeias interrompem alta em meio a preocupações com juros do Fed e guerra",
+      "title": "Negociação de opções da Check Point Software sobe ao maior nível desde 2021",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/world-news/acoes-europeias-interrompem-alta-em-meio-a-preocupacoes-com-juros-do-fed-e-guerra-1989910",
-      "time": "2026-07-01T16:35:28Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM60321_1200_L.jpg"
-    },
-    {
-      "title": "Ações da Lime sobem 8% na estreia após IPO de US$ 174 milhões",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-lime-sobem-8-na-estreia-apos-ipo-de-us-174-milhoes-93CH-1989905",
-      "time": "2026-07-01T16:30:11Z",
+      "url": "https://br.investing.com/news/stock-market-news/negociacao-de-opcoes-da-check-point-software-sobe-ao-maior-nivel-desde-2021-93CH-1990018",
+      "time": "2026-07-01T18:33:47Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "01/07/2026 17:55"
+  "atualizado_em": "01/07/2026 19:54"
 }
