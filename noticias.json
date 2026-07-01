@@ -25,7 +25,7 @@
       "image": "https://www.infomoney.com.br/wp-content/uploads/2025/03/Mulher_B3.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Ibovespa abre segundo semestre com leve queda; Dólar volta a R$ 5,20",
+      "title": "Ibovespa abre segundo semestre com leve queda; dólar volta a R$ 5,20",
       "summary": "Índices nos EUA fecham com baixas curtas, de olho nas ações de tecnologia",
       "source": "InfoMoney",
       "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-01072026/",
@@ -36,6 +36,16 @@
     }
   ],
   "all": [
+    {
+      "title": "Câmara acelera tramitação de projeto que equipara misoginia ao crime de racismo",
+      "summary": "Texto vai direto ao plenário, mas enfrenta resistência de bancadas evangélica e católica",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/camara-acelera-tramitacao-de-projeto-que-equipara-misoginia-ao-crime-de-racismo/",
+      "time": "2026-07-01T22:14:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/img20260225172024179.jpg?fit=300%2C179&amp;quality=70&amp;strip=all"
+    },
     {
       "title": "EUA x Bósnia e Herzegovina: modelo matemático aponta possível resultado do jogo; veja",
       "summary": "Cálculo estatístico da Fundação Getúlio Vargas projeta a seleção que tem mais chances de ganhar partida desta quarta-feira, 1º",
@@ -77,7 +87,7 @@
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/wall-street-IA-2.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Ibovespa abre segundo semestre com leve queda; Dólar volta a R$ 5,20",
+      "title": "Ibovespa abre segundo semestre com leve queda; dólar volta a R$ 5,20",
       "summary": "Índices nos EUA fecham com baixas curtas, de olho nas ações de tecnologia",
       "source": "InfoMoney",
       "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-01072026/",
@@ -87,56 +97,61 @@
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-17-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Ibovespa segue recuo em Wall Street; dólar sobe a R$ 5,21, maior nível em 3 meses",
-      "summary": "O Ibovespa (IBOV) seguiu o exterior e fechou em baixa, em sessão marcada pela volatilidade dos ativos, como provável reflexo da mudança nas alocações da bolsa. Nesta quarta-feira (1º), o principal índice da bolsa brasile",
+      "title": "BC aperta regulação para prestadoras de serviços de ativos virtuais",
+      "summary": "O Banco Central (BC) anunciou nesta quarta-feira (1) um aperto na regulação de sociedades prestadoras de serviços de ativos virtuais, argumentando que busca assegurar a solidez das instituições, mitigar riscos ao sistema",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ibovespa-1-7-26-apsa/",
-      "time": "2026-07-01T20:38:15Z",
-      "cat": "economia",
+      "url": "https://www.moneytimes.com.br/bc-aperta-regulacao-para-prestadoras-de-servicos-de-ativos-virtuais-vtra/",
+      "time": "2026-07-01T22:48:53Z",
+      "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/06/mercado-morning-ibovespa-wall-street-2.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/2026-06-29t115348z-1-lynxmpem5s0m7-rtroptp-4-brazil-economy-scaled.jpg"
     },
     {
-      "title": "Nova Engevix vence contratos de R$1,8 bi em retomada de planta de fertilizantes da Petrobras",
-      "summary": "A Nova Engevix, do grupo Nova Participações, em parceria com a chinesa Powerchina, venceu três dos 11 lotes licitados pela Petrobras (PETR4) para a retomada das obras da Unidade de Fertilizantes Nitrogenados (UFN-III), e",
+      "title": "Itaú (ITUB4) leva licitação bilionária em Minas; veja valores",
+      "summary": "O Itaú (ITUB4) venceu licitação para cuidar da folha salarial de funcionários públicos em Minas Gerais, mostra documento enviado ao mercado nesta quarta-feira (1º). Segundo o comunicado, o contrato é de R$ 2,1 bilhões po",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/nova-engevix-vence-contratos-de-r18-bi-em-retomada-de-planta-de-fertilizantes-da-petrobras-pads/",
-      "time": "2026-07-01T20:22:29Z",
+      "url": "https://www.moneytimes.com.br/itau-itub4-leva-licitacao-bilionaria-em-minas-para-funcionarios-publicos-veja-valores-rnda/",
+      "time": "2026-07-01T22:31:03Z",
       "cat": "acoes",
       "tickers": [
-        "PETR4"
+        "ITUB4"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/petrobras-fertilizantes-.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2025/11/itau-2.jpg"
     },
     {
-      "title": "Após Dow Jones bater recorde, Wall Street recua de olho em Warsh e à espera do payroll",
-      "summary": "Os índices de Wall Street perderam força de olho nas falas do presidente do Federal Reserve (Fed, o banco central dos Estados Unidos), Kevin Warsh, na baixa das ações de semicondutores, em movimento de realização de lucr",
+      "title": "Pontas opostas do Ibovespa: O que explica a queda da CSN (CSNA3) e a alta da Usiminas (USIM5) no 1º semestre",
+      "summary": "Duas ações do setor siderúrgico foram destaque no Ibovespa (IBOV) no primeiro semestre. Os desempenhos delas, no entanto, contaram duas histórias diferentes. Líder da ponta positiva do principal índice da bolsa brasileir",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/wall-street-1-7-26-apsa/",
-      "time": "2026-07-01T20:20:12Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/01/wall-street-treasuries.jpg"
+      "url": "https://www.moneytimes.com.br/por-que-csn-csna3-e-usiminas-usim5-lideram-pontas-opostas-no-ibovespa-no-1o-semestre-confira-o-que-esperar-das-acoes-a-frente-apsa/",
+      "time": "2026-07-01T21:56:49Z",
+      "cat": "acoes",
+      "tickers": [
+        "CSNA3",
+        "USIM5"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2024/09/usiminas-2.jpg"
     },
     {
-      "title": "Caixa atinge R$ 1 trilhão em carteira de crédito imobiliário e mantém 68% do mercado",
-      "summary": "A Caixa Econômica Federal alcançou R$ 1 trilhão em sua carteira de crédito imobiliário em junho, alta de mais de 14% em relação ao mesmo período do ano passado. O banco também manteve participação de cerca de 68% no merc",
+      "title": "Cade retoma investigação contra 99Food após rever arquivamento do processo",
+      "summary": "O Conselho Administrativo de Defesa Econômica (Cade) decidiu reabrir a investigação sobre supostas cláusulas contratuais adotadas pela 99Food para restringir a contratação de restaurantes por plataformas concorrentes. A ",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/caixa-atinge-r-1-trilhao-em-carteira-de-credito-imobiliario-e-mantem-68-do-mercado/",
-      "time": "2026-07-01T20:12:46Z",
-      "cat": "analise",
+      "url": "https://www.moneytimes.com.br/cade-retoma-investigacao-contra-99food-apos-rever-arquivamento-do-processo-vtra/",
+      "time": "2026-07-01T21:45:54Z",
+      "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2024/12/caixa-seguridade-cxse3.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2025/08/99-99food-imagem-reproducao99.png"
     },
     {
-      "title": "Dólar sobe a R$ 5,21 com sanção dos EUA a empresas brasileiras supostamente ligadas ao PCC",
-      "summary": "O dólar ganhou força ante o real em dia de pesquisa eleitoral, avanço da moeda globalmente e com sanções dos Estados Unidos a empresas brasileiras supostamente ligadas ao Primeiro Comando da Capital (PCC). Nesta quarta-f",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/dolar-1-7-26-apsa/",
-      "time": "2026-07-01T20:05:34Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/11/dolar-mercados-maxima.jpg"
+      "title": "PVBI11 já revelou quanto vai pagar de dividendos em julho; saiba o valor",
+      "summary": "O fundo imobiliário PVBI11 vai distribuir R$ 0,40 por cota referentes à competência de junho de 2026, repetindo o patamar observado desde abril. A data de pagamento está marcada para 7 de julho de 2026, enquanto a data-b",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/pvbi11-ja-revelou-quanto-vai-pagar-de-dividendos-em-julho-saiba-o-valor/",
+      "time": "2026-07-01T22:25:08Z",
+      "cat": "fundos",
+      "tickers": [
+        "PVBI11"
+      ],
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/120_Close_de_relat_rio_f_1_2026017_172843-1-jpg.webp"
     },
     {
       "title": "Fiagro AAZQ11 anuncia dividendos com yield de 1,14%; confira valor",
@@ -213,16 +228,34 @@
       "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     },
     {
-      "title": "BRCO11 eleva dividendos ao maior nível em um ano; descubra quanto",
-      "summary": "O fundo imobiliário BRCO11 vai pagar R$ 1,05 por cota referente à competência de junho de 2026, o maior patamar dos últimos 12 meses. O valor considera o desempenho operacional recente do portfólio e segue a política de ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/brco11-rendimento-1-05-julho-2026/",
-      "time": "2026-07-01T18:05:07Z",
-      "cat": "fundos",
-      "tickers": [
-        "BRCO11"
-      ],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
+      "title": "Governo diz que lamenta decisão da União Europeia de taxar importação de aço",
+      "summary": "Segundo o Itamaraty e o Ministério do Desenvolvimento, o novo regime de quotas adotado pelo bloco econômico representa uma medida unilateral",
+      "source": "Exame",
+      "url": "https://exame.com/economia/governo-diz-que-lamenta-decisao-da-uniao-europeia-de-taxar-importacao-de-aco/",
+      "time": "2026-07-01T19:42:20Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2025/03/000_36ZM2QH.jpg"
+    },
+    {
+      "title": "Câmara aprova regime de urgência para projeto de lei que criminaliza a misoginia",
+      "summary": "Texto recebeu 293 votos favoráveis e 158 contrários. Se a medida for aprovada pelo plenário, passará diretamente para a sanção do presidente Lula",
+      "source": "Exame",
+      "url": "https://exame.com/brasil/camara-aprova-regime-de-urgencia-para-projeto-de-lei-que-criminaliza-a-misoginia/",
+      "time": "2026-07-01T19:15:46Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/02/Hugo-Motta-presidente-da-camara-dos-deputaods.jpg"
+    },
+    {
+      "title": "As 5 criptomoedas mais recomendadas pelos analistas para julho",
+      "summary": "Especialistas consideram que será um mês bom para narrativas específicas e bastante seletividade",
+      "source": "Exame",
+      "url": "https://exame.com/future-of-money/as-5-criptomoedas-mais-recomendadas-pelos-analistas-para-julho/",
+      "time": "2026-07-01T18:38:25Z",
+      "cat": "cripto",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2024/06/GettyImages-919509810.jpg"
     },
     {
       "title": "Mendonça envia à PGR pedido de investigação sobre financiamento do filme 'Dark Horse'",
@@ -235,44 +268,44 @@
       "image": "https://classic.exame.com/wp-content/uploads/2023/01/52517715993_c413c9373f_o.jpg"
     },
     {
-      "title": "Regulamentação da Reforma Tributária traz conforto para o setor de infraestrutura",
-      "summary": "A regulamentação da Reforma Tributária traz maior previsibilidade ao setor de infraestrutura ao consolidar mudanças fundamentais",
-      "source": "Exame",
-      "url": "https://exame.com/economia/regulamentacao-da-reforma-tributaria-traz-conforto-para-o-setor-de-infraestrutura/",
-      "time": "2026-07-01T18:01:55Z",
+      "title": "Ibovespa e dólar hoje: Payroll nos EUA domina agenda; ações de chips pesam",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-payroll-nos-eua-domina-agenda-acoes-de-chips-pesam-1990031",
+      "time": "2026-07-01T22:00:02Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/Precificacao-na-Reforma-Tributaria-Indypendenz.jpg"
+      "image": null
     },
     {
-      "title": "Agenda climática já influencia investimentos e acesso a mercados, diz ministro do Meio Ambiente",
-      "summary": "Governo, bancos e empresas se reuniram na Arena B3, em São Paulo, para debater a arquitetura do mercado de carbono brasileiro, que entra agora na fase de consulta pública",
-      "source": "Exame",
-      "url": "https://exame.com/esg/agenda-climatica-ja-influencia-investimentos-e-acesso-a-mercados-diz-ministro-do-meio-ambiente/",
-      "time": "2026-07-01T18:00:17Z",
-      "cat": "economia",
+      "title": "Wall Street encerra sessão volátil em baixa, com queda das ações do setor de tecnologia",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/wall-street-encerra-sessao-volatil-em-baixa-com-queda-das-acoes-do-setor-de-tecnologia-1990251",
+      "time": "2026-07-01T21:49:28Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-01-at-15.30.22.jpeg"
+      "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM603GU_1200_L.jpg"
     },
     {
-      "title": "Dois comandos que ajudam o ChatGPT a criar checklists mais organizados",
-      "summary": "Descubra como duas instruções estratégicas transformam a IA em uma máquina de organização prática",
-      "source": "Exame",
-      "url": "https://exame.com/inteligencia-artificial/dois-comandos-que-ajudam-o-chatgpt-a-criar-checklists-mais-organizados/",
-      "time": "2026-07-01T17:46:03Z",
-      "cat": "economia",
+      "title": "Ações da Centrus Energy sobem com contrato de US$ 900 mi com o DOE",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-centrus-energy-sobem-com-contrato-de-us-900-mi-com-o-doe-93CH-1990246",
+      "time": "2026-07-01T21:40:56Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/12/GettyImages-2228371999.jpg"
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Ibovespa inicia julho com leve queda, a 3ª seguida; dólar sobe quase 1%",
-      "summary": "As bolsas em NY também encerraram o pregão desta quarta, 1°, em baixa, em movimento de realização de lucros após as fortes altas acumuladas nos últimos dias",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/ibovespa-inicia-julho-com-leve-queda-a-3a-seguida-dolar-sobe-quase-1/",
-      "time": "2026-07-01T17:46:02Z",
-      "cat": "economia",
+      "title": "México - Ações fecharam o pregão em alta e o Índice S&P/BMV IPC avançou 0,42%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/mexico--acoes-fecharam-o-pregao-em-alta-e-o-indice-spbmv-ipc-avancou-042-1990237",
+      "time": "2026-07-01T21:30:18Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2020/11/DSC2684bx.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEE1P09M_M.jpg"
     },
     {
       "title": "Colômbia - Ações fecharam o pregão em queda e o Índice COLCAP recuou 0,41%",
@@ -303,57 +336,7 @@
       "cat": "internacional",
       "tickers": [],
       "image": null
-    },
-    {
-      "title": "S&P rebaixa rating da Dish DBS para D após pedido de falência",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/sp-rebaixa-rating-da-dish-dbs-para-d-apos-pedido-de-falencia-93CH-1990200",
-      "time": "2026-07-01T20:54:06Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Ibovespa empata com CDI no 1º semestre; XP mira 200 mil pontos",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-empata-com-cdi-no-1o-semestre-xp-mira-200-mil-pontos-1990197",
-      "time": "2026-07-01T20:49:20Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "SoftBank retoma negociações por empréstimo de US$ 10 bilhões com garantia na OpenAI",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/softbank-retoma-negociacoes-por-emprestimo-de-us-10-bilhoes-com-garantia-na-openai-1990193",
-      "time": "2026-07-01T20:44:30Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Ibovespa começa julho em queda com investidor reticente sobre juros e eleição",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-fecha-em-queda-com-investidor-reticente-sobre-juros-e-eleicao-1990087",
-      "time": "2026-07-01T20:42:09Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/Brazil_Stock_Market_BOVESPA_M_1440056827.jpg"
-    },
-    {
-      "title": "Ações da BitGo sobem após suporte de custódia para Robinhood Chain",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-bitgo-sobem-apos-suporte-de-custodia-para-robinhood-chain-93CH-1990185",
-      "time": "2026-07-01T20:42:00Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "01/07/2026 21:37"
+  "atualizado_em": "01/07/2026 22:49"
 }
