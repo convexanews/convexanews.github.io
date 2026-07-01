@@ -1,136 +1,182 @@
 {
   "headline": {
-    "title": "Dólar fecha a R$ 5,16 no semestre: o que esperar até o fim de 2026?",
-    "summary": "Para analistas, a mudança de tendência observada em junho deve se manter e há riscos capazes de reverter parte da valorização acumulada pelo real ao longo de 2026",
-    "source": "InfoMoney",
-    "url": "https://www.infomoney.com.br/mercados/dolar-fecha-a-r-516-no-semestre-o-que-esperar-ate-o-fim-de-2026/",
-    "time": "2026-07-01T09:00:00Z",
-    "cat": "economia",
-    "tickers": [],
-    "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Cedulas-de-dolares-norte-americanos.jpg?fit=300%2C206&amp;quality=70&amp;strip=all"
+    "title": "Bitcoin (BTC) toca os US$ 58 mil de olho na taxa de juros do Japão; veja preços das criptomoedas nesta quarta-feira (1º)",
+    "summary": "O bitcoin (BTC) é negociado na casa dos US$ 58 mil na manhã desta quarta-feira (1º), com uma queda da ordem de 1% nas últimas 24h. O mercado global de criptomoedas opera majoritariamente em queda, com os investidores no ",
+    "source": "Money Times",
+    "url": "https://www.moneytimes.com.br/bom-dia-bitcoin-btc-precos-criptomoedas-hoje-rens-010726/",
+    "time": "2026-07-01T11:29:04Z",
+    "cat": "cripto",
+    "tickers": [
+      "BTC"
+    ],
+    "image": "https://www.moneytimes.com.br/uploads/2026/07/bitcoin-btc-escorregando-em-uma-casca-de-banana-imagem-copilot-300x159-1.png"
   },
   "featured": [
     {
-      "title": "Tempo Real: Ibovespa acompanha inflação na Europa e dados de atividade",
-      "summary": "Resumo: O Ibovespa (IBOV) opera atento ao CPI da zona do euro, aos PMIs industriais na Europa, Reino Unido, Brasil e Estados Unidos, além do relatório ADP nos EUA. Destaques: Confira os principais temas do Ibovespa e dos",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/tempo-real-ibovespa-hoje-mercado-ao-vivo-01-07-2026-jals-lils-apsa/",
-      "time": "2026-07-01T09:00:00Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2024/09/ibovespa-acoes.jpg"
-    },
-    {
-      "title": "Dow Jones Futuro adota cautela antes de discurso do presidente do Fed",
-      "summary": "Warsh fará sua primeira aparição pública no exterior como presidente do Fed nesta quarta",
+      "title": "Ibovespa Futuro recua 1% com pesquisa eleitoral e Fed no radar",
+      "summary": "Warsh participa de uma conferência do Banco Central Europeu",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/dow-jones-futuro-adota-cautela-antes-de-discurso-do-presidente-do-fed/",
-      "time": "2026-07-01T08:50:31Z",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-futuro-recua-1-com-pesquisa-eleitoral-e-fed-no-radar/",
+      "time": "2026-07-01T12:08:18Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/2025-08-01T084507Z_1985370783_RC27YFAI0042_RTRMADP_3_INDIA-STOCKS.jpg?fit=300%2C204&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/EspacoB3_04.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Dólar hoje sobe com foco em dados dos EUA",
+      "summary": "A divulgação dos indicadores guia os mercados em relação aos próximos passos dos juros na maior economia do mundo",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-01072026/",
+      "time": "2026-07-01T12:26:06Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-23T223943Z_1_LYNXMPEM3M1IY_RTROPTP_4_IRAN-ECONOMY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     }
   ],
   "all": [
     {
-      "title": "Dólar fecha a R$ 5,16 no semestre: o que esperar até o fim de 2026?",
-      "summary": "Para analistas, a mudança de tendência observada em junho deve se manter e há riscos capazes de reverter parte da valorização acumulada pelo real ao longo de 2026",
+      "title": "Greve dos rodoviários no Rio chega ao terceiro dia; trens e metrô reforçam operação",
+      "summary": "Sem acordo após audiência de conciliação, a paralisação dos rodoviários por reajuste salarial continua afetando a capital, levando a SuperVia e o MetrôRio a ampliarem a oferta de viagens para os passageiros",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/dolar-fecha-a-r-516-no-semestre-o-que-esperar-ate-o-fim-de-2026/",
-      "time": "2026-07-01T09:00:00Z",
+      "url": "https://www.infomoney.com.br/brasil/greve-dos-rodoviarios-no-rio-chega-ao-terceiro-dia-trens-e-metro-reforcam-operacao/",
+      "time": "2026-07-01T12:31:24Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/04/2025-04-28T205557Z_1_LYNXMPEL3R0ZP_RTROPTP_4_PORTUGAL-ENERGY-OUTAGES.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Dólar hoje sobe com foco em dados dos EUA",
+      "summary": "A divulgação dos indicadores guia os mercados em relação aos próximos passos dos juros na maior economia do mundo",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-01072026/",
+      "time": "2026-07-01T12:26:06Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Cedulas-de-dolares-norte-americanos.jpg?fit=300%2C206&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-23T223943Z_1_LYNXMPEM3M1IY_RTROPTP_4_IRAN-ECONOMY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Dow Jones Futuro adota cautela antes de discurso do presidente do Fed",
-      "summary": "Warsh fará sua primeira aparição pública no exterior como presidente do Fed nesta quarta",
+      "title": "Petróleo entrou em novo patamar de US$ 75, mesmo sob incertezas, diz CEO da Petrobras",
+      "summary": "'(O mercado de petróleo) ainda não ​voltou ao normal, mas US$72-75 parece mesmo um novo patamar”, disse Magda Chambriard",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/dow-jones-futuro-adota-cautela-antes-de-discurso-do-presidente-do-fed/",
-      "time": "2026-07-01T08:50:31Z",
+      "url": "https://www.infomoney.com.br/mercados/petroleo-entrou-em-novo-patamar-de-us-75-mesmo-sob-incertezas-diz-ceo-da-petrobras/",
+      "time": "2026-07-01T12:22:30Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/2025-08-01T084507Z_1985370783_RC27YFAI0042_RTRMADP_3_INDIA-STOCKS.jpg?fit=300%2C204&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Captura-de-tela-2026-06-23-131731.png?fit=300%2C210&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Allos, Equatorial e Alupar pagam dividendos em julho; veja agenda completa",
-      "summary": "Trio dos setores de shoppings e energia concentra os maiores destaques entre as 17 empresas que remuneram acionistas no mês",
+      "title": "Ação da Nike recua, com problemas na China e cautela atenuando visão de recuperação",
+      "summary": "A maior fabricante mundial de roupas esportivas vem enfrentando dificuldades para recuperar o impulso após perder participação de mercado para os concorrentes",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/onde-investir/agenda-dividendos-julho-2026/",
-      "time": "2026-07-01T08:00:00Z",
+      "url": "https://www.infomoney.com.br/mercados/acao-da-nike-recua-com-problemas-na-china-e-cautela-atenuando-visao-de-recuperacao/",
+      "time": "2026-07-01T12:21:00Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/09/2024-09-20T144426Z_1_LYNXMPEK8J0JC_RTROPTP_4_NIKE-CEO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Flávio apresenta 3 pilares da campanha para mulheres após crise com Michelle",
+      "summary": "Pré-campanha apresentará propostas nas áreas de segurança, oportunidades financeiras e cuidados com a saúde e ouvirá sugestões de parlamentares",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/flavio-apresenta-3-pilares-da-campanha-para-mulheres-apos-crise-com-michelle/",
+      "time": "2026-07-01T12:09:42Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-14T215009Z_865536769_RC2W7LAGCJVO_RTRMADP_3_BRAZIL-ELECTION-BOLSONARO-FILM_b0db1c.jpg?fit=300%2C212&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Ibovespa Futuro recua 1% com pesquisa eleitoral e Fed no radar",
+      "summary": "Warsh participa de uma conferência do Banco Central Europeu",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-futuro-recua-1-com-pesquisa-eleitoral-e-fed-no-radar/",
+      "time": "2026-07-01T12:08:18Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/EspacoB3_04.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "BB Investimentos zera carteira após queda de 6,44%; veja as ações escolhidas para julho",
+      "summary": "Semestre novo, vida nova: o BB Investimentos promoveu uma reformulação completa da Carteira 5+ para julho de 2026, substituindo todos os papéis que compunham a seleção no mês anterior. Com isso, deixam a carteira recomen",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/bb-investimentos-zera-carteira-apos-queda-de-644-veja-as-acoes-escolhidas-para-julho/",
+      "time": "2026-07-01T12:28:43Z",
+      "cat": "analise",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/acoes-carteira-recomendada-mercado-ibovespa-wall-street-morning.jpg"
+    },
+    {
+      "title": "Operação Rent a Car da PF mira assessores de Sóstenes Cavalcante; líder do PL não é alvo",
+      "summary": "A Polícia Federal (PF) deflagrou na manhã desta quarta (1º) a terceira fase da Operação Rent a Car, batizada de Galho Fraco II, que mira assessores do deputado federal Sóstenes Cavalcante (PL-RJ). A investigação apura um",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/operacao-rent-a-car-da-pf-mira-assessores-de-sostenes-cavalcantepl-ele-nao-e-alvo-gaep/",
+      "time": "2026-07-01T12:15:58Z",
       "cat": "fundos",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/01/Allos.jpg?fit=300%2C225&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/img20260528151529090.jpg"
     },
     {
-      "title": "Após 1º semestre de altos e baixos, o que esperar para o Ibovespa até o fim de 2026?",
-      "summary": "Com o foco migrando de geopolítica para juros, fiscal e eleições, investidores tentam calibrar o potencial de valorização do Ibovespa até o fim de 2026",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-apos-1o-semestre-de-altos-e-baixos-o-que-esperar-para-o-indice-ate-o-fim-de-2026/",
-      "time": "2026-07-01T08:00:00Z",
+      "title": "Prejuízos com ataques hackers caem 7% em junho, diz PeckShield",
+      "summary": "Em junho de 2026, o setor de criptomoedas registrou 40 grandes ataques, que somaram prejuízos de aproximadamente US$ 75,87 milhões, diz a agência de segurança on-chain PeckShield. O valor representa uma queda de 7,13% em",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/prejuizos-com-ataques-hackers-caem-7-em-junho-diz-peckshield-rens/",
+      "time": "2026-07-01T12:13:53Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-15T131611Z_1_LYNXMPEM5E14Q_RTROPTP_4_BRAZIL-STOCKS-PLUNGE.jpg?fit=300%2C230&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/ataque-hacker-as-criptomoedas-imagem-istock-id-da-foto-2213299463-data-do-upload10-de-maio-de-2025.png"
     },
     {
-      "title": "Trump declara mais de US$ 1 bilhão em renda com negócios ligados a criptomoedas",
-      "summary": "O presidente dos Estados Unidos, Donald Trump, declarou que obteve rendimentos de mais de US$ 1 bilhão com vendas de tokens e outros negócios ligados a criptomoedas. Em declaração anual de bens referente a 2025, divulgad",
+      "title": "Fundo imobiliário anuncia menor dividendo de sua história; gestora explica queda",
+      "summary": "O fundo imobiliário BB Premium Malls (BBIG11) anunciou que pagará R$ 0,02 por cota em dividendos no próximo dia 15 de julho, no menor valor repassado desde o início de suas operações, em abril de 2024. Na comparação com ",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/trump-declara-mais-de-us-1-bilhao-em-renda-com-negocios-ligados-a-criptomoedas-fets/",
-      "time": "2026-07-01T09:21:00Z",
+      "url": "https://www.moneytimes.com.br/fundo-imobiliario-anuncia-menor-dividendo-de-sua-historia-gestora-explica-queda-igdl/",
+      "time": "2026-07-01T11:59:45Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/image-1.png"
+    },
+    {
+      "title": "Suzano (SUZB3) conclui joint venture com Kimberly-Clark; veja valores e nova estrutura",
+      "summary": "A Suzano (SUZB3), gigante do setor de papel e celulose, anunciou ao mercado nesta quarta-feira (1) a conclusão da operação de joint venture com a Kimberly-Clark Corporation, após o cumprimento de todas as condições prece",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/suzano-suzb3-conclui-joint-venture-com-kimberly-clark-veja-valores-e-nova-estrutura-lmrs/",
+      "time": "2026-07-01T11:35:58Z",
+      "cat": "acoes",
+      "tickers": [
+        "SUZB3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/suzano.jpg"
+    },
+    {
+      "title": "Bitcoin (BTC) toca os US$ 58 mil de olho na taxa de juros do Japão; veja preços das criptomoedas nesta quarta-feira (1º)",
+      "summary": "O bitcoin (BTC) é negociado na casa dos US$ 58 mil na manhã desta quarta-feira (1º), com uma queda da ordem de 1% nas últimas 24h. O mercado global de criptomoedas opera majoritariamente em queda, com os investidores no ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/bom-dia-bitcoin-btc-precos-criptomoedas-hoje-rens-010726/",
+      "time": "2026-07-01T11:29:04Z",
       "cat": "cripto",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/08/designs-leonardo-2025-01-23t093649.213.jpg"
+      "tickers": [
+        "BTC"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/bitcoin-btc-escorregando-em-uma-casca-de-banana-imagem-copilot-300x159-1.png"
     },
     {
-      "title": "Bolsas da Ásia-Pacífico fecham mistas com incertezas sobre acordo EUA-Irã e Ormuz",
-      "summary": "As bolsas asiáticas fecharam sem direção única nesta quarta-feira (1º), à medida que persistiam as incertezas em torno do conflito no Oriente Médio e do acesso ao crucial Estreito de Ormuz, apesar de um acordo inicial pa",
+      "title": "Inflação da zona do euro desacelera mais do que o esperado e reduz pressão sobre o BCE",
+      "summary": "A inflação na zona do euro desacelerou no mês passado muito mais do que o esperado, reduzindo ainda mais a pressão sobre o Banco Central Europeu para que aumente novamente as taxas de juros neste mês a fim de compensar o",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bolsas-da-asia-pacifico-fecham-mistas-com-incertezas-sobre-acordo-eua-ira-e-ormuz-fets/",
-      "time": "2026-07-01T09:16:16Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2021/12/asia.jpg"
-    },
-    {
-      "title": "Tempo Real: Ibovespa acompanha inflação na Europa e dados de atividade",
-      "summary": "Resumo: O Ibovespa (IBOV) opera atento ao CPI da zona do euro, aos PMIs industriais na Europa, Reino Unido, Brasil e Estados Unidos, além do relatório ADP nos EUA. Destaques: Confira os principais temas do Ibovespa e dos",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/tempo-real-ibovespa-hoje-mercado-ao-vivo-01-07-2026-jals-lils-apsa/",
-      "time": "2026-07-01T09:00:00Z",
+      "url": "https://www.moneytimes.com.br/inflacao-na-zona-do-euro-cai-mais-do-que-o-esperado-e-reforca-argumentos-do-bce-a-favor-de-paciencia/",
+      "time": "2026-07-01T11:21:27Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2024/09/ibovespa-acoes.jpg"
+      "image": null
     },
     {
-      "title": "Após crise com Flávio, Michelle Bolsonaro anuncia saída do PL Mulher para dedicação “integral” ao marido e família",
-      "summary": "A ex-primeira-dama Michelle Bolsonaro anunciou na noite desta terça-feira (30) que vai deixar a presidência do PL Mulher, setorial do partido voltado para o público feminino. Ela diz que vai se dedicar aos cuidados do ma",
+      "title": "Mounjaro e Ozempic em alta: entenda como eles podem ajudar a ‘engordar’ o seu patrimônio",
+      "summary": "\"As medicações análogas ao GLP-1 consolidam uma nova fronteira de crescimento para a indústria farmacêutica\", aponta analista",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/apos-crise-com-flavio-michelle-bolsonaro-anuncia-saida-do-pl-mulher-para-dedicacao-integral-ao-marido-e-familia-fets/",
-      "time": "2026-07-01T08:52:14Z",
+      "url": "https://www.moneytimes.com.br/mounjaro-e-ozempic-em-alta-entenda-como-eles-podem-ajudar-a-engordar-o-seu-patrimonio-lbrdjm014/",
+      "time": "2026-07-01T11:00:00Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/06/michelle-bolsonaro-48679345758-1-scaled.jpg"
-    },
-    {
-      "title": "Petróleo caí levemente mesmo com aumento de preocupações com oferta após impasse em negociações",
-      "summary": "Os preços do petróleo leve queda nas negociações desta quarta-feira (1º), mesmo diante das preocupações de que o impasse nas negociações entre Irã e Estados Unidos para um acordo definitivo que encerre a guerra possa pro",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/petroleo-cai-levemente-mesmo-com-aumento-de-preocupacoes-com-oferta-apos-impasse-em-negociacoes-fets/",
-      "time": "2026-07-01T08:22:32Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/10/petroleo-eua-china-.jpg"
-    },
-    {
-      "title": "Stablecoins concentram 80% de ativos cripto declarados à Receita",
-      "summary": "Criptomoedas criadas para acompanhar o valor de moedas tradicionais, como o dólar e o real, as stablecoins passaram a concentrar a maior parte das operações com criptoativos declaradas à Receita Federal no Brasil. Segund",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/stablecoins-concentram-80-de-ativos-cripto-declarados-a-receita-fets/",
-      "time": "2026-07-01T08:21:00Z",
-      "cat": "cripto",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2021/08/tether-3.jpg"
+      "image": null
     },
     {
       "title": "IFIX fecha em alta e retoma os 3.830 pontos no último pregão de junho",
@@ -207,105 +253,137 @@
       "image": null
     },
     {
-      "title": "Lançamentos da Netflix em julho de 2026: veja os filmes e as séries",
-      "summary": "Enola Holmes 3', 'Ransom Canyon' e a franquia completa de 'Velozes e Furiosos' estão entre os destaques do mês",
+      "title": "Em busca de proteção: bolsa lidera em 12 meses, mas renda fixa ganha força em junho",
+      "summary": "Levantamento da Elos Ayta mostra alternância entre classes de ativos no primeiro semestre de 2026, com Ibovespa em alta no ano e maior interesse por ativos defensivos no mês passado",
       "source": "Exame",
-      "url": "https://exame.com/casual/lancamentos-da-netflix-em-julho-de-2026-veja-os-filmes-e-as-series/",
-      "time": "2026-07-01T06:31:05Z",
+      "url": "https://exame.com/invest/mercados/em-busca-de-protecao-bolsa-lidera-em-12-meses-mas-renda-fixa-ganha-forca-em-junho/",
+      "time": "2026-07-01T09:25:14Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/yNcfMiULkoh1h2yyNKFm4T9FvRM.webp"
+      "image": "https://classic.exame.com/wp-content/uploads/2022/03/Bolsa-lupa-filtro.jpeg"
     },
     {
-      "title": "BNP Paribas elege URW como operador de shoppings preferido e mantém preço-alvo de €113",
+      "title": "Brasil lidera número de agtechs na América Latina e reforça transformação do agronegócio",
+      "summary": "Estudo mostra que o Brasil concentra 78% das agtechs da América Latina, reforçando o protagonismo do agronegócio nacional em inovação e transformação digital",
+      "source": "Exame",
+      "url": "https://exame.com/agro/brasil-lidera-numero-de-agtechs-na-america-latina-e-reforca-transformacao-do-agronegocio/",
+      "time": "2026-07-01T09:15:37Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/124634.jpg"
+    },
+    {
+      "title": "Imóveis de um dormitório têm maior valorização anual no Brasil",
+      "summary": "Levantamento do FipeZAP aponta valorização de 7,3% para unidades pequenas, acima da média nacional",
+      "source": "Exame",
+      "url": "https://exame.com/mercado-imobiliario/imoveis-de-um-dormitorio-tem-maior-valorizacao-anual-no-brasil/",
+      "time": "2026-07-01T09:13:40Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2025/02/MG_6540.jpg"
+    },
+    {
+      "title": "Veja quais empresas da bolsa vão pagar dividendos em julho",
+      "summary": "Agenda reúne pagamentos de empresas de diversos setores, entre elas, dois dois grandes bancos",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/veja-quais-empresas-da-bolsa-vao-pagar-dividendos-em-julho/",
+      "time": "2026-07-01T09:00:45Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2023/10/dividendos.jpg"
+    },
+    {
+      "title": "O plano do Carrefour para fazer o cliente do Atacadão comprar no hipermercado — e vice-versa",
+      "summary": "Grupo lança programa de fidelidade que dá cashback válido entre Carrefour e Atacadão. No piloto na Paraíba, a frequência de compra dos clientes mais do que dobrou",
+      "source": "Exame",
+      "url": "https://exame.com/negocios/o-plano-do-carrefour-para-fazer-o-cliente-do-atacadao-comprar-no-hipermercado-e-vice-versa/",
+      "time": "2026-07-01T09:00:39Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2024/09/MG_0331.jpg"
+    },
+    {
+      "title": "Citi reduz preço-alvo da Strategy após revisão da previsão do Bitcoin",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/bnp-paribas-elege-urw-como-operador-de-shoppings-preferido-e-mantem-precoalvo-de-113-1989086",
-      "time": "2026-07-01T09:34:05Z",
+      "url": "https://br.investing.com/news/stock-market-news/citi-reduz-precoalvo-da-strategy-apos-revisao-da-previsao-do-bitcoin-1989405",
+      "time": "2026-07-01T12:08:02Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC"
+      ],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Shutterstock despenca no pré-mercado; Intuitive Machines e Grindr sobem",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/shutterstock-despenca-no-premercado-intuitive-machines-e-grindr-sobem-1989402",
+      "time": "2026-07-01T12:07:25Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "RBC corta preço-alvo da Dow em 45% e alerta para riscos da recuperação recente",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/rbc-corta-precoalvo-da-dow-em-45-e-alerta-para-riscos-da-recuperacao-recente-1989386",
+      "time": "2026-07-01T12:05:26Z",
       "cat": "analise",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Por que as ações do Italian Sea Group estão caindo hoje?",
+      "title": "Por que as ações da Alcoa estão caindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-do-italian-sea-group-estao-caindo-hoje-93CH-1989084",
-      "time": "2026-07-01T09:34:04Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-alcoa-estao-caindo-hoje-93CH-1989372",
+      "time": "2026-07-01T12:05:06Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Ações do Italian Sea Group despencam após pedido de proteção judicial",
+      "title": "Por que as ações da Intuitive Machines estão disparando hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-do-italian-sea-group-despencam-apos-pedido-de-protecao-judicial-1989081",
-      "time": "2026-07-01T09:25:21Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-intuitive-machines-estao-disparando-hoje-93CH-1989358",
+      "time": "2026-07-01T11:54:54Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Ações da ASOS disparam após venda de centro de distribuição",
+      "title": "Por que as ações da Oklo estão subindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-asos-disparam-apos-venda-de-centro-de-distribuicao-93CH-1989067",
-      "time": "2026-07-01T09:17:39Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-oklo-estao-subindo-hoje-93CH-1989329",
+      "time": "2026-07-01T11:39:12Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Citi analisa posicionamento em ações do setor químico dos EUA",
+      "title": "Por que as ações da Grindr estão disparando hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/citi-analisa-posicionamento-em-acoes-do-setor-quimico-dos-eua-93CH-1989065",
-      "time": "2026-07-01T09:15:20Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-grindr-estao-disparando-hoje-93CH-1989307",
+      "time": "2026-07-01T11:33:04Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Por que as ações da Nike estão caindo hoje?",
+      "title": "Ações do Patriot National Bancorp sobem após fim de acordo com regulador",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-nike-estao-caindo-hoje-93CH-1989060",
-      "time": "2026-07-01T09:06:40Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Ações da Oryzon Genomics caem 11% após anúncio de captação de até € 10 milhões",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-oryzon-genomics-caem-11-apos-anuncio-de-captacao-de-ate--10-milhoes-1989050",
-      "time": "2026-07-01T08:58:19Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Por que as ações da JD Sports Fashion estão caindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-jd-sports-fashion-estao-caindo-hoje-93CH-1989046",
-      "time": "2026-07-01T08:53:55Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Ações da Lonza sobem após expansão de parceria biofarmacêutica nos EUA",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-lonza-sobem-apos-expansao-de-parceria-biofarmaceutica-nos-eua-1989035",
-      "time": "2026-07-01T08:44:11Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-do-patriot-national-bancorp-sobem-apos-fim-de-acordo-com-regulador-93CH-1989305",
+      "time": "2026-07-01T11:30:38Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "01/07/2026 09:44"
+  "atualizado_em": "01/07/2026 12:34"
 }
