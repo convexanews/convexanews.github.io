@@ -895,4 +895,31 @@ if noticias_raw:
 else:
     print("Nenhuma noticia coletada.")
 
+# ==================== SITEMAP ====================
+# Atualiza o lastmod da home a cada execução — sinaliza pros buscadores que o
+# conteúdo é atualizado com frequência (melhora a taxa de re-crawl do Google).
+lastmod = datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%S+00:00')
+paginas_sitemap = [
+    ('https://bomdiainvestidor.com.br/', 'hourly', '1.0', lastmod),
+    ('https://bomdiainvestidor.com.br/sobre.html', 'monthly', '0.4', None),
+    ('https://bomdiainvestidor.com.br/privacidade.html', 'yearly', '0.2', None),
+    ('https://bomdiainvestidor.com.br/termos.html', 'yearly', '0.2', None),
+    ('https://bomdiainvestidor.com.br/contato.html', 'yearly', '0.2', None),
+    ('https://bomdiainvestidor.com.br/cartas-gestores/', 'weekly', '0.5', None),
+]
+linhas = ['<?xml version="1.0" encoding="UTF-8"?>',
+          '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+for loc, freq, prio, mod in paginas_sitemap:
+    linhas.append('  <url>')
+    linhas.append(f'    <loc>{loc}</loc>')
+    if mod:
+        linhas.append(f'    <lastmod>{mod}</lastmod>')
+    linhas.append(f'    <changefreq>{freq}</changefreq>')
+    linhas.append(f'    <priority>{prio}</priority>')
+    linhas.append('  </url>')
+linhas.append('</urlset>')
+with open('sitemap.xml', 'w', encoding='utf-8') as f:
+    f.write('\n'.join(linhas) + '\n')
+print("sitemap.xml atualizado")
+
 print("\nConcluido!")

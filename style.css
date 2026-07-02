@@ -1438,3 +1438,67 @@
     .artigos-grid { grid-template-columns: 1fr; }
     .artigo-detail-title { font-size: 24px; }
   }
+
+  /* ===== NOTICIA DETALHE ===== */
+  .noticia-det-cat {
+    display: inline-block; font-size: 12px; font-weight: 700; letter-spacing: 1px;
+    text-transform: uppercase; color: var(--accent, #c9920a); margin-bottom: 14px;
+  }
+  .noticia-det-titulo {
+    font-family: var(--font-serif); font-size: 36px; font-weight: 800;
+    line-height: 1.15; color: var(--text); margin-bottom: 16px; letter-spacing: -0.5px;
+  }
+  .noticia-det-meta {
+    display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
+    font-size: 13px; color: var(--text-secondary); margin-bottom: 22px;
+  }
+  .noticia-det-img {
+    display: block; width: 100%; max-height: 420px; object-fit: cover;
+    border-radius: 14px; margin-bottom: 24px; background: var(--bg-alt, var(--bg-dark));
+  }
+  .noticia-det-resumo {
+    font-size: 18px; line-height: 1.7; color: var(--text); margin-bottom: 28px;
+  }
+  .noticia-det-fonte-btn {
+    display: inline-block; padding: 12px 22px; border-radius: 10px;
+    background: var(--text); color: var(--bg, #fff); font-weight: 600; font-size: 14px;
+    text-decoration: none; margin-bottom: 28px; transition: opacity .15s;
+  }
+  .noticia-det-fonte-btn:hover { opacity: .85; }
+  .noticia-det-rel-titulo {
+    font-size: 20px; font-weight: 700; color: var(--text); margin: 12px 0 18px;
+  }
+  .noticia-det-rel { grid-template-columns: 1fr; }
+
+  /* ===== INSTAGRAM CTA ===== */
+  .ig-cta {
+    display: flex; align-items: center; justify-content: space-between; gap: 18px;
+    flex-wrap: wrap; padding: 20px 22px; border-radius: 14px; margin-bottom: 32px;
+    background: linear-gradient(135deg, rgba(201,146,10,0.08), rgba(201,146,10,0.03));
+    border: 1px solid rgba(201,146,10,0.25);
+  }
+  .ig-cta-text { display: flex; flex-direction: column; gap: 4px; }
+  .ig-cta-text strong { color: var(--text); font-size: 15px; }
+  .ig-cta-text span { color: var(--text-secondary); font-size: 13px; }
+  .ig-cta-btn {
+    padding: 10px 18px; border-radius: 10px; background: var(--accent, #c9920a);
+    color: #fff; font-weight: 700; font-size: 13px; text-decoration: none;
+    white-space: nowrap; transition: opacity .15s;
+  }
+  .ig-cta-btn:hover { opacity: .88; }
+  .ig-header-btn { display: inline-flex; align-items: center; justify-content: center; text-decoration: none; }
+  .ig-follow-card a { display: block; }
+  .ig-follow-inner { display: flex; align-items: center; gap: 14px; padding: 4px 0; }
+  .ig-follow-card {
+    background: linear-gradient(135deg, rgba(201,146,10,0.10), rgba(201,146,10,0.02));
+    border: 1px solid rgba(201,146,10,0.3);
+  }
+  .ig-follow-icon {
+    flex-shrink: 0; width: 52px; height: 52px; display: flex; align-items: center;
+    justify-content: center; border-radius: 12px; color: var(--accent, #c9920a);
+    background: rgba(201,146,10,0.12);
+  }
+  @media (max-width: 768px) {
+    .noticia-det-titulo { font-size: 26px; }
+    .ig-cta { flex-direction: column; align-items: flex-start; }
+  }

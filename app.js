@@ -145,6 +145,7 @@ function tempoRelativo(isoOrText) {
 function pageFromHash() {
   const h = location.hash.replace(/^#\/?/, '');
   if (h.startsWith('artigo/')) return 'artigo-detalhe';
+  if (h.startsWith('noticia/')) return 'noticia-detalhe';
   return VALID_PAGES.includes(h) ? h : 'noticias';
 }
 
@@ -156,12 +157,16 @@ function switchPage(page) {
   document.querySelectorAll('.nav-item, .mobile-nav-item').forEach(b => {
     b.classList.toggle('active', b.dataset.page === page);
   });
-  if (page !== 'artigo-detalhe' && location.hash !== '#/' + page) history.replaceState(null, '', '#/' + page);
+  if (page !== 'artigo-detalhe' && page !== 'noticia-detalhe' && location.hash !== '#/' + page) history.replaceState(null, '', '#/' + page);
   if (page === 'indicadores') loadIndicadores();
   if (page === 'artigos') loadArtigos();
   if (page === 'artigo-detalhe') {
     const slug = location.hash.replace(/^#\/?artigo\//, '');
     loadArtigoDetalhe(slug);
+  }
+  if (page === 'noticia-detalhe') {
+    const url = decodeURIComponent(location.hash.replace(/^#\/?noticia\//, ''));
+    renderNoticiaDetalhe(url);
   }
   window.scrollTo({ top: 0, behavior: 'smooth' });
 }
@@ -172,7 +177,9 @@ document.querySelectorAll('.nav-item, .mobile-nav-item').forEach(btn => {
 
 window.addEventListener('hashchange', () => {
   const p = pageFromHash();
-  if (p !== state.currentPage) switchPageGated(p);
+  // Páginas de detalhe re-renderizam mesmo se já ativas (ex: clicar numa
+  // notícia relacionada dentro de outra notícia)
+  if (p !== state.currentPage || p === 'noticia-detalhe' || p === 'artigo-detalhe') switchPageGated(p);
 });
 
 // ===== RELÓGIO / STATUS DO MERCADO =====
@@ -308,6 +315,76 @@ function tickerTagsHtml(tickers) {
   return (tickers || []).map(t => `<span class="ticker-tag">${esc(t)}</span>`).join('');
 }
 
+// Link interno da notícia (mantém o leitor no site em vez de mandar direto pro portal)
+function noticiaHash(n) {
+  return n && n.url ? '#/noticia/' + encodeURIComponent(n.url) : '';
+}
+
+function findNoticia(url) {
+  const pool = [NEWS_DATA.headline, ...(NEWS_DATA.featured || []), ...(NEWS_DATA.all || [])].filter(Boolean);
+  return pool.find(n => n.url === url);
+}
+
+let pendingNoticiaUrl = null;
+
+const IG_URL = 'https://www.instagram.com/bomdia_investidor/';
+
+function igCtaHtml() {
+  return `
+    <div class="ig-cta">
+      <div class="ig-cta-text">
+        <strong>📲 Siga o Bom Dia Investidor no Instagram</strong>
+        <span>Notícias do mercado, fechamento diário e conteúdo educativo todos os dias.</span>
+      </div>
+      <a class="ig-cta-btn" href="${IG_URL}" target="_blank" rel="noopener">Seguir @bomdia_investidor</a>
+    </div>`;
+}
+
+function renderNoticiaDetalhe(url) {
+  const el = document.getElementById('noticiaConteudo');
+  if (!el) return;
+  const n = findNoticia(url);
+  if (!n) {
+    // Notícias ainda carregando (acesso direto pelo link) — renderiza quando chegarem
+    pendingNoticiaUrl = url;
+    el.innerHTML = '<div class="loading-text">Carregando notícia...</div>';
+    return;
+  }
+  pendingNoticiaUrl = null;
+  document.title = `${n.title} | Bom Dia Investidor`;
+
+  const catLabel = (NEWS_DATA.categories.find(c => c.id === n.cat) || {}).label || 'Mercado';
+  const nUrl = safeUrl(n.url);
+  const relacionadas = (NEWS_DATA.all || [])
+    .filter(x => x.url && x.url !== n.url && x.cat === n.cat)
+    .slice(0, 4);
+
+  el.innerHTML = `
+    <div class="noticia-det-cat">${esc(catLabel)}</div>
+    <h1 class="noticia-det-titulo">${esc(n.title)}</h1>
+    <div class="noticia-det-meta">
+      <span class="hero-source">${esc(n.source)}</span><span>·</span><span>${esc(tempoRelativo(n.time))}</span>
+      ${(n.tickers || []).length ? `<span>·</span>${tickerTagsHtml(n.tickers)}` : ''}
+    </div>
+    <img class="noticia-det-img" src="${newsImg(n)}" alt="" onerror="newsImgErr(this,'${esc(n.cat || 'geral')}')">
+    <p class="noticia-det-resumo">${esc(n.summary || '')}</p>
+    ${nUrl ? `<a class="noticia-det-fonte-btn" href="${nUrl}" target="_blank" rel="noopener">Ler matéria completa no ${esc(n.source)} ↗</a>` : ''}
+    ${igCtaHtml()}
+    ${relacionadas.length ? `
+      <h2 class="noticia-det-rel-titulo">Notícias relacionadas</h2>
+      <div class="news-grid noticia-det-rel">
+        ${relacionadas.map(r => `
+          <div class="news-item"><a href="${noticiaHash(r)}">
+            <img class="news-item-thumb" src="${newsImg(r)}" alt="" loading="lazy" onerror="newsImgErr(this,'${esc(r.cat || 'geral')}')">
+            <div class="news-item-body">
+              <div class="news-item-meta"><span class="news-item-source">${esc(r.source)}</span><span>·</span><span>⏱ ${esc(tempoRelativo(r.time))}</span></div>
+              <div class="news-item-title"><span>${esc(r.title)}</span><span class="news-arrow">→</span></div>
+            </div>
+          </a></div>`).join('')}
+      </div>` : ''}
+  `;
+}
+
 function renderNews() {
   const h = NEWS_DATA.headline;
   if (!h) return;
@@ -316,11 +393,28 @@ function renderNews() {
   heroImg.onerror = () => newsImgErr(heroImg, h.cat);
   heroImg.src = newsImg(h);
   const heroTitle = document.getElementById('heroTitle');
-  const hUrl = safeUrl(h.url);
-  heroTitle.innerHTML = hUrl
-    ? `<a class="hero-link" href="${hUrl}" target="_blank" rel="noopener">${esc(h.title)}</a>`
+  heroTitle.innerHTML = h.url
+    ? `<a class="hero-link" href="${noticiaHash(h)}">${esc(h.title)}</a>`
     : esc(h.title);
   document.getElementById('heroSummary').textContent = h.summary || '';
+
+  // SEO: dados estruturados da manchete (Google Notícias / rich results)
+  let ld = document.getElementById('ldNews');
+  if (!ld) {
+    ld = document.createElement('script');
+    ld.type = 'application/ld+json';
+    ld.id = 'ldNews';
+    document.head.appendChild(ld);
+  }
+  ld.textContent = JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'NewsArticle',
+    headline: h.title,
+    description: h.summary || '',
+    image: h.image ? [h.image] : undefined,
+    datePublished: h.time,
+    publisher: { '@type': 'Organization', name: 'Bom Dia Investidor', url: 'https://bomdiainvestidor.com.br/' },
+  });
   const tickersHtml = tickerTagsHtml(h.tickers);
   document.getElementById('heroMeta').innerHTML = `
     <span class="hero-source">${esc(h.source)}</span><span>·</span><span>${esc(tempoRelativo(h.time))}</span>
@@ -337,7 +431,7 @@ function renderNews() {
       <div class="featured-title">${esc(f.title)}</div>
       <div class="featured-summary">${esc(f.summary || '')}</div>
       ${(f.tickers || []).length ? `<div class="featured-tickers">${tickerTagsHtml(f.tickers)}</div>` : ''}`;
-    return `<div class="featured-card">${fUrl ? `<a href="${fUrl}" target="_blank" rel="noopener">${inner}</a>` : inner}</div>`;
+    return `<div class="featured-card">${fUrl ? `<a href="${noticiaHash(f)}">${inner}</a>` : inner}</div>`;
   }).join('');
 
   document.getElementById('catFilters').innerHTML = NEWS_DATA.categories.map(c =>
@@ -345,6 +439,11 @@ function renderNews() {
   ).join('');
 
   renderNewsList();
+
+  // Se o usuário abriu um link direto de notícia antes dos dados carregarem
+  if (pendingNoticiaUrl && state.currentPage === 'noticia-detalhe') {
+    renderNoticiaDetalhe(pendingNoticiaUrl);
+  }
 }
 
 function filterNews(cat) {
@@ -365,7 +464,7 @@ function renderNewsList() {
     return;
   }
 
-  document.getElementById('newsGrid').innerHTML = items.map(n => {
+  const htmlItems = items.map(n => {
     const nUrl = safeUrl(n.url);
     const inner = `
       <img class="news-item-thumb" src="${newsImg(n)}" alt="" loading="lazy" onerror="newsImgErr(this,'${esc(n.cat || 'geral')}')">
@@ -381,8 +480,26 @@ function renderNewsList() {
           <span class="news-arrow">→</span>
         </div>
       </div>`;
-    return `<div class="news-item">${nUrl ? `<a href="${nUrl}" target="_blank" rel="noopener">${inner}</a>` : inner}</div>`;
-  }).join('');
+    return `<div class="news-item">${nUrl ? `<a href="${noticiaHash(n)}">${inner}</a>` : inner}</div>`;
+  });
+
+  // Card "Siga no Instagram" no meio da lista de notícias
+  const igCard = `
+    <div class="news-item ig-follow-card"><a href="${IG_URL}" target="_blank" rel="noopener">
+      <div class="ig-follow-inner">
+        <div class="ig-follow-icon">
+          <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4.5"/><circle cx="17.5" cy="6.5" r="1.3" fill="currentColor" stroke="none"/></svg>
+        </div>
+        <div class="news-item-body">
+          <div class="news-item-title"><span>Siga o Bom Dia Investidor no Instagram</span><span class="news-arrow">→</span></div>
+          <div class="news-item-meta"><span>@bomdia_investidor · fechamento de mercado, notícias e educação financeira</span></div>
+        </div>
+      </div>
+    </a></div>`;
+  const pos = Math.min(6, htmlItems.length);
+  htmlItems.splice(pos, 0, igCard);
+
+  document.getElementById('newsGrid').innerHTML = htmlItems.join('');
 }
 
 // ===== LISTAS DE ATIVOS (fallback BrAPI) =====
