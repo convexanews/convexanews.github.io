@@ -301,6 +301,7 @@ const NEWS_DATA_STATIC = {
 let NEWS_DATA = Object.assign({}, NEWS_DATA_STATIC);
 
 function renderNewsDynamic(data) {
+  newsCarregadas = true;
   NEWS_DATA = {
     headline: data.headline || NEWS_DATA_STATIC.headline,
     featured: data.featured || [],
@@ -326,6 +327,7 @@ function findNoticia(url) {
 }
 
 let pendingNoticiaUrl = null;
+let newsCarregadas = false;
 
 const IG_URL = 'https://www.instagram.com/bomdia_investidor/';
 
@@ -345,9 +347,19 @@ function renderNoticiaDetalhe(url) {
   if (!el) return;
   const n = findNoticia(url);
   if (!n) {
-    // Notícias ainda carregando (acesso direto pelo link) — renderiza quando chegarem
-    pendingNoticiaUrl = url;
-    el.innerHTML = '<div class="loading-text">Carregando notícia...</div>';
+    if (!newsCarregadas) {
+      // Notícias ainda carregando (acesso direto pelo link) — renderiza quando chegarem
+      pendingNoticiaUrl = url;
+      el.innerHTML = '<div class="loading-text">Carregando notícia...</div>';
+      return;
+    }
+    // Notícia antiga que já saiu da lista (o site mantém só as mais recentes)
+    pendingNoticiaUrl = null;
+    el.innerHTML = `
+      <h1 class="noticia-det-titulo">Essa notícia não está mais disponível</h1>
+      <p class="noticia-det-resumo">O Bom Dia Investidor mantém as notícias mais recentes do mercado. Essa já saiu da lista, mas tem muita coisa nova te esperando.</p>
+      <a class="noticia-det-fonte-btn" href="#/noticias" onclick="switchPage('noticias');return false;">Ver notícias de agora →</a>
+      ${igCtaHtml()}`;
     return;
   }
   pendingNoticiaUrl = null;
