@@ -334,11 +334,16 @@ const IG_URL = 'https://www.instagram.com/bomdia_investidor/';
 function igCtaHtml() {
   return `
     <div class="ig-cta">
-      <div class="ig-cta-text">
-        <strong>📲 Siga o Bom Dia Investidor no Instagram</strong>
-        <span>Notícias do mercado, fechamento diário e conteúdo educativo todos os dias.</span>
+      <div class="ig-cta-left">
+        <span class="ig-cta-icon">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.8"><rect x="2.5" y="2.5" width="19" height="19" rx="5.5"/><circle cx="12" cy="12" r="4.2"/><circle cx="17.3" cy="6.7" r="1.2" fill="#fff" stroke="none"/></svg>
+        </span>
+        <div class="ig-cta-text">
+          <strong>Acompanhe o mercado no Instagram</strong>
+          <span>@bomdia_investidor — fechamento diário, notícias e educação financeira</span>
+        </div>
       </div>
-      <a class="ig-cta-btn" href="${IG_URL}" target="_blank" rel="noopener">Seguir @bomdia_investidor</a>
+      <a class="ig-cta-btn" href="${IG_URL}" target="_blank" rel="noopener">Seguir</a>
     </div>`;
 }
 

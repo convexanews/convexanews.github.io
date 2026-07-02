@@ -1473,19 +1473,27 @@
   /* ===== INSTAGRAM CTA ===== */
   .ig-cta {
     display: flex; align-items: center; justify-content: space-between; gap: 18px;
-    flex-wrap: wrap; padding: 20px 22px; border-radius: 14px; margin-bottom: 32px;
-    background: linear-gradient(135deg, rgba(201,146,10,0.08), rgba(201,146,10,0.03));
-    border: 1px solid rgba(201,146,10,0.25);
+    flex-wrap: wrap; padding: 18px 20px; border-radius: 16px; margin-bottom: 32px;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.05);
   }
-  .ig-cta-text { display: flex; flex-direction: column; gap: 4px; }
-  .ig-cta-text strong { color: var(--text); font-size: 15px; }
-  .ig-cta-text span { color: var(--text-secondary); font-size: 13px; }
+  .ig-cta-left { display: flex; align-items: center; gap: 14px; min-width: 0; }
+  .ig-cta-icon {
+    flex-shrink: 0; width: 46px; height: 46px; border-radius: 14px;
+    display: flex; align-items: center; justify-content: center;
+    background: radial-gradient(circle at 30% 110%, #fdf497 0%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    box-shadow: 0 3px 10px rgba(214, 36, 159, 0.25);
+  }
+  .ig-cta-text { display: flex; flex-direction: column; gap: 3px; min-width: 0; }
+  .ig-cta-text strong { color: var(--text); font-size: 15px; letter-spacing: -0.2px; }
+  .ig-cta-text span { color: var(--text-secondary); font-size: 12.5px; }
   .ig-cta-btn {
-    padding: 10px 18px; border-radius: 10px; background: var(--accent, #c9920a);
-    color: #fff; font-weight: 700; font-size: 13px; text-decoration: none;
-    white-space: nowrap; transition: opacity .15s;
+    flex-shrink: 0; padding: 10px 26px; border-radius: 999px;
+    background: var(--text); color: var(--bg, #fff); font-weight: 700; font-size: 13px;
+    text-decoration: none; letter-spacing: 0.2px; transition: transform .15s, opacity .15s;
   }
-  .ig-cta-btn:hover { opacity: .88; }
+  .ig-cta-btn:hover { opacity: .88; transform: translateY(-1px); }
   .ig-header-btn { display: inline-flex; align-items: center; justify-content: center; text-decoration: none; }
   .ig-follow-card a { display: block; }
   .ig-follow-inner { display: flex; align-items: center; gap: 14px; padding: 4px 0; }
