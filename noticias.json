@@ -1,24 +1,26 @@
 {
   "headline": {
-    "title": "Estrangeiros revisam posição no Brasil diante de juros, eleições e fiscal, diz BTG",
-    "summary": "Após liderarem as entradas de recursos na Bolsa brasileira ao longo de 2025, os investidores estrangeiros começam a reavaliar suas posições diante do aumento das incertezas externas e dos desafios fiscais domésticos, seg",
+    "title": "Petróleo perde força com possível trégua no Oriente Médio; o que muda para a Petrobras (PETR4)?",
+    "summary": "Com o avanço das negociações entre Estados Unidos e Irã, investidores voltaram a discutir os possíveis impactos de um barril mais barato para a Petrobras",
     "source": "Money Times",
-    "url": "https://www.moneytimes.com.br/estrangeiros-tiram-r-78-bilhoes-da-bolsa-btg-revela-o-que-pode-trazer-o-dinheiro-de-volta-ceci/",
-    "time": "2026-07-03T16:43:16Z",
-    "cat": "economia",
-    "tickers": [],
-    "image": "https://www.moneytimes.com.br/uploads/2026/07/investidores-estrangeiros-dinheiro-bolsa-de-valores-acoes-lula-capa-mt.jpg"
+    "url": "https://www.moneytimes.com.br/petroleo-perde-forca-com-possivel-tregua-no-oriente-medio-o-que-muda-para-a-petrobras-petr4-lbrdvb001/",
+    "time": "2026-07-03T17:00:00Z",
+    "cat": "internacional",
+    "tickers": [
+      "PETR4"
+    ],
+    "image": "https://www.moneytimes.com.br/uploads/2025/10/tanque-de-diesel-r5-na-rpbc-petrobras.jpg"
   },
   "featured": [
     {
-      "title": "Ibovespa Hoje Ao Vivo: Bolsa sobe aos 174 mil, sem referência dos EUA",
-      "summary": "Índices futuros dos EUA operam mistos com bolsas fechadas por conta de feriado",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-03072026/",
-      "time": "2026-07-03T16:16:05Z",
-      "cat": "internacional",
+      "title": "Estrangeiros revisam posição no Brasil diante de juros, eleições e fiscal, diz BTG",
+      "summary": "Após liderarem as entradas de recursos na Bolsa brasileira ao longo de 2025, os investidores estrangeiros começam a reavaliar suas posições diante do aumento das incertezas externas e dos desafios fiscais domésticos, seg",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/estrangeiros-tiram-r-78-bilhoes-da-bolsa-btg-revela-o-que-pode-trazer-o-dinheiro-de-volta-ceci/",
+      "time": "2026-07-03T16:43:16Z",
+      "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-26-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/investidores-estrangeiros-dinheiro-bolsa-de-valores-acoes-lula-capa-mt.jpg"
     },
     {
       "title": "S&P 500 nas máximas? Ainda há espaço para alta, dizem Avenue e Franklin Templeton",
@@ -33,6 +35,16 @@
   ],
   "all": [
     {
+      "title": "Por que as canetas emagrecedoras viraram o novo fantasma das farmácias na B3?",
+      "summary": "O receio com a margem de lucro e a forte concorrência motivou a queda dos papéis, mas a XP avalia a reação do mercado como desmedida e mantém recomendação de compra no setor",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/por-que-as-canetas-emagrecedoras-viraram-o-novo-fantasma-das-farmacias-na-b3/",
+      "time": "2026-07-03T17:05:06Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-01T175022Z_1_LYNXMPEM302QE_RTROPTP_3_NOVO-NORDISK-STRATEGY.jpg?fit=300%2C198&amp;quality=70&amp;strip=all"
+    },
+    {
       "title": "Bolsas da Europa fecham em alta com PMIs europeus, com liquidez reduzida sem NY",
       "summary": "A recuperação de ações de chips e a perspectiva de um Fed menos restritivo sustentaram os ganhos nos mercados europeus, em um pregão de liquidez esvaziada pelo feriado americano",
       "source": "InfoMoney",
@@ -43,24 +55,46 @@
       "image": "https://www.infomoney.com.br/wp-content/uploads/2024/04/2024-04-24T185107Z_1_LYNXNPEK3N0TK_RTROPTP_4_EUROPE-STOCKS.jpg?fit=300%2C192&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Ibovespa Hoje Ao Vivo: Bolsa sobe aos 174 mil, sem referência dos EUA",
-      "summary": "Índices futuros dos EUA operam mistos com bolsas fechadas por conta de feriado",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-03072026/",
-      "time": "2026-07-03T16:16:05Z",
+      "title": "Petróleo fecha em alta de olho em EUA-Irã e em dia volátil com feriado em NY",
+      "summary": "Os contratos futuros de petróleo fecharam em alta, após oscilaram entre território positivo e negativo nesta sexta-feira, 3, em uma sessão de liquidez reduzida devido ao feriado nos Estados Unidos. O mercado acompanhou s",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/petroleo-fecha-em-alta-de-olho-em-eua-ira-e-em-dia-volatil-com-feriado-em-ny-jvka/",
+      "time": "2026-07-03T18:07:50Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-26-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2025/12/petroleo-brent-.jpg"
     },
     {
-      "title": "BBI vê Bolsa do Brasil em momento de “escuridão antes do amanhecer” e aponta gatilhos",
-      "summary": "Percepção predominante do banco é que os ativos brasileiros estão baratos, embora ainda faltem catalisadores capazes de destravar uma recuperação mais consistente",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/bbi-ve-bolsa-do-brasil-em-momento-de-escuridao-antes-do-amanhecer-e-aponta-gatilhos/",
-      "time": "2026-07-03T16:00:00Z",
+      "title": "Bolsas da Europa fecham em alta com PMIs europeus e impulso tech, com liquidez reduzida sem NY",
+      "summary": "As bolsas europeias fecharam em alta nesta sexta-feira, 2, impulsionadas pela recuperação das ações de tecnologia e pelo apetite por risco após dados recentes dos EUA reforçarem a percepção de que o Federal Reserve (Fed)",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/bolsas-da-europa-fecham-em-alta-com-pmis-europeus-e-impulso-tech-com-liquidez-reduzida-sem-ny-jvka/",
+      "time": "2026-07-03T17:58:08Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/europa-2-2.jpg"
+    },
+    {
+      "title": "Santander vê ação com potencial de alta de 115% e desconto de 45% frente aos pares",
+      "summary": "Embora tenha mantido recomendação outperform (equivalente à compra), o Santander cortou o preço-alvo para os papéis da PlanoPlano (PLPL3) de R$ 21 para R$ 18, o que ainda implica um potencial de valorização de 115% em re",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/planoplano-plpl3-santander-corta-preco-alvo-de-r-21-para-r-18-igdl/",
+      "time": "2026-07-03T17:53:32Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Captura-de-tela-2026-03-24-162333.png?fit=300%2C195&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/04/construtoras-construcao-civil-imagem-jongho-shinistockphoto-1.png"
+    },
+    {
+      "title": "Petróleo perde força com possível trégua no Oriente Médio; o que muda para a Petrobras (PETR4)?",
+      "summary": "Com o avanço das negociações entre Estados Unidos e Irã, investidores voltaram a discutir os possíveis impactos de um barril mais barato para a Petrobras",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/petroleo-perde-forca-com-possivel-tregua-no-oriente-medio-o-que-muda-para-a-petrobras-petr4-lbrdvb001/",
+      "time": "2026-07-03T17:00:00Z",
+      "cat": "internacional",
+      "tickers": [
+        "PETR4"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/10/tanque-de-diesel-r5-na-rpbc-petrobras.jpg"
     },
     {
       "title": "Estrangeiros revisam posição no Brasil diante de juros, eleições e fiscal, diz BTG",
@@ -93,44 +127,14 @@
       "image": "https://www.moneytimes.com.br/uploads/2026/06/dow-jonas-sp-500.jpg"
     },
     {
-      "title": "Operação apura irregularidades em emendas Pix de ministro do TCU e parlamentares",
-      "summary": "A Polícia Federal (PF) deflagrou nesta sexta (3), a Operação Acesso Negado, para investigar supostas irregularidades no repasse de emendas parlamentares na modalidade transferência especial, mais conhecidas como emendas ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/operacao-da-pf-apura-irregularidades-em-emendas-pix-de-ministro-do-tcu-e-parlamentares-gaep/",
-      "time": "2026-07-03T15:39:17Z",
-      "cat": "acoes",
+      "title": "Safra vê minério de ferro mais fraco e alerta ligado à China",
+      "summary": "O minério de ferro voltou a lembrar o mercado de que, nas commodities, a China ainda dita boa parte do ritmo. Em análise semanal, o Safra apontou queda nos contratos futuros da commodity, em meio à desaceleração da produ",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/safra-minerio-de-ferro-china-commodities-mt/",
+      "time": "2026-07-03T17:25:06Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/jhonatan-de-jesus-myke-sena-camara-dos-deputados.jpg"
-    },
-    {
-      "title": "Bolsa brasileira segue sem gatilhos para subir; juros nos EUA e fluxo para IA pesam sobre mercado, diz Bank of America",
-      "summary": "Apesar da recuperação recente do Ibovespa, a bolsa brasileira ainda carece de um gatilho capaz de sustentar uma valorização mais consistente. Para David Becker, chefe de economia no Brasil e estratégia para América Latin",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bolsa-brasileira-segue-sem-gatilhos-para-subir-juros-nos-eua-e-fluxo-para-ia-pesam-sobre-mercado-diz-bank-of-america/",
-      "time": "2026-07-03T15:36:25Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/bank-of-america-.jpg"
-    },
-    {
-      "title": "Fundos imobiliários (FIIs): Estes são os melhores para julho, segundo a EQI Research",
-      "summary": "A EQI Research promoveu ajustes em sua carteira recomendada de fundos imobiliários (FIIs) para julho, retirando da seleção o RBR Log (RBRL11) e redistribuindo o peso do ativo, que era de 5%, entre o BTG Pactual Crédito I",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/fundos-imobiliarios-fiis-estes-sao-os-melhores-para-julho-segundo-a-eqi-research-igdl/",
-      "time": "2026-07-03T15:32:17Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/admin-ajax-3.jpg"
-    },
-    {
-      "title": "Governo ajusta controles de exportação de carnes para atender exigências contra antimicrobianos da UE",
-      "summary": "O Ministério da Agricultura alterou os controles relacionados à exportação de carnes e derivados para atender à legislação da União Europeia sobre uso de antimicrobianos, com o objetivo de evitar uma suspensão dos embarq",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/governo-ajusta-controles-de-exportacao-de-carnes-para-atender-exigencias-contra-antimicrobianos-da-ue-pads/",
-      "time": "2026-07-03T15:19:46Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/carnes-uniao-europeia.jpg"
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     },
     {
       "title": "Isa Energia (ISAE4) cai mais de 3% após anunciar possível oferta de ações de R$ 650 mi",
@@ -209,14 +213,64 @@
       "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     },
     {
-      "title": "Como investir em energia solar? Setor movimenta R$ 300 bilhões e amplia opções na Bolsa",
-      "summary": "A energia solar deixou a fase de tendência para se firmar entre os principais pilares da infraestrutura do Brasil. Dados da Associação Brasileira de Energia Solar Fotovoltaica (ABSOLAR) indicam que o segmento já recebeu ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/como-investir-em-energia-solar-setor-movimenta-r-300-bilhoes-e-amplia-opcoes-na-bolsa/",
-      "time": "2026-07-02T23:45:07Z",
-      "cat": "acoes",
+      "title": "A aposta das startups para salvar as empresas com digitalização atrasada",
+      "summary": "Pesquisa indica que 94% das grandes empresas mantêm relações com startups para acelerar a transformação digital e reduzir riscos de TI",
+      "source": "Exame",
+      "url": "https://exame.com/bussola/inovacao-aberta-a-nova-aposta-das-startups-b2b/",
+      "time": "2026-07-03T15:00:56Z",
+      "cat": "economia",
       "tickers": [],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/120_Close_de_relat_rio_f_1_2026017_172843-1-1-jpg.webp"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/Substituindo-sistemas-legado-em-startups-DC-Studio.jpg"
+    },
+    {
+      "title": "Muito além dos músculos: estudo revela o que a musculação faz com o fígado",
+      "summary": "Pesquisa da Unicamp identificou alterações epigenéticas que melhoraram a sensibilidade à insulina e reduziram mecanismos ligados à esteatose",
+      "source": "Exame",
+      "url": "https://exame.com/ciencia/muito-alem-dos-musculos-estudo-revela-o-que-a-musculacao-faz-com-o-figado/",
+      "time": "2026-07-03T14:56:33Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/musculacao.jpg"
+    },
+    {
+      "title": "Europa tenta reduzir déficit com a China, mas calor recorde aumenta compra de ar-condicionado chinês",
+      "summary": "Enquanto busca equilibrar a balança comercial, o mercado europeu registra aumento na demanda por aparelhos de ar-condicionado fabricados por empresas chinesas devido à onda de calor que atinge o continente",
+      "source": "Exame",
+      "url": "https://exame.com/mundo/europa-tenta-reduzir-deficit-com-a-china-mas-calor-recorde-aumenta-compra-de-ar-condicionado-chines/",
+      "time": "2026-07-03T14:39:33Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/AFP__20260626__B8FU7ZQ__v2__HighRes__TopshotFranceWeatherClimateHeatwave.jpg"
+    },
+    {
+      "title": "China anuncia fim de incentivo fiscal para veículos elétricos e híbridos",
+      "summary": "A China encerrará, a partir de 1º de janeiro de 2027, a política de redução de 50% do imposto sobre veículos e embarcações para automóveis de baixo consumo energético",
+      "source": "Exame",
+      "url": "https://exame.com/mundo/china-anuncia-fim-de-incentivo-fiscal-para-veiculos-eletricos-e-hibridos/",
+      "time": "2026-07-03T14:37:23Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2025/03/BYD_Dolphin_White_DCW52001.jpg"
+    },
+    {
+      "title": "CATL lucra mais que 10 grandes montadoras chinesas juntas no 1º trimestre",
+      "summary": "A fabricante chinesa de baterias CATL registrou lucro de 20,7 bilhões de yuans no primeiro trimestre de 2026",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/catl-lucra-mais-que-10-grandes-montadoras-chinesas-juntas-no-1o-trimestre/",
+      "time": "2026-07-03T14:34:11Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2022/08/GettyImages-1226597507.jpg"
+    },
+    {
+      "title": "Consórcio da Alupar e Axia vencem relicitação de projetos de transmissão de energia",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/consorcio-da-alupar-arremata-maior-projeto-do-leilao-de-transmissao-de-energia-com-r11-bi-de-investimentos-1991932",
+      "time": "2026-07-03T18:00:29Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM620ZC_1200_L.jpg"
     },
     {
       "title": "Reino Unido - Ações fecharam o pregão em alta e o Índice Investing.com Reino Unido 100 avançou 0,12%",
@@ -287,37 +341,7 @@
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/LYNXMPEA740EB_M.jpg"
-    },
-    {
-      "title": "Bélgica - Ações fecharam o pregão em alta e o Índice BEL 20 avançou 0,43%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/belgica--acoes-fecharam-o-pregao-em-alta-e-o-indice-bel-20-avancou-043-1991893",
-      "time": "2026-07-03T16:05:20Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEA601YK_M.jpg"
-    },
-    {
-      "title": "Suécia - Ações fecharam o pregão em alta e o Índice OMX Stockholm 30 avançou 1,14%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/suecia--acoes-fecharam-o-pregao-em-alta-e-o-indice-omx-stockholm-30-avancou-114-1991892",
-      "time": "2026-07-03T16:00:46Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Finlândia - Ações fecharam o pregão em alta e o Índice OMX Helsinki 25 avançou 1,55%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/finlandia--acoes-fecharam-o-pregao-em-alta-e-o-indice-omx-helsinki-25-avancou-155-1991890",
-      "time": "2026-07-03T16:00:21Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": null
     }
   ],
-  "atualizado_em": "03/07/2026 16:54"
+  "atualizado_em": "03/07/2026 18:13"
 }
