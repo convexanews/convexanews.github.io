@@ -1,46 +1,133 @@
 {
   "headline": {
-    "title": "Ibovespa fecha em leve alta semanal, mas gráfico aponta \"terra de ninguém\" técnica",
-    "summary": "",
-    "source": "Investing.com",
-    "url": "https://br.investing.com/news/stock-market-news/ibovespa-fecha-em-leve-alta-semanal-mas-grafico-aponta-terra-de-ninguem-tecnica-1992003",
-    "time": "2026-07-04T12:00:03Z",
-    "cat": "internacional",
-    "tickers": [],
-    "image": null
+    "title": "Itaú BBA troca 80% das ações em carteira recomendada para julho; onde investir?",
+    "summary": "O Itaú BBA atualizou quase toda a carteira recomendada mensal de ações. Para julho, Aura Minerals (AURA33), BTG Pactual (BPAC11), Equatorial (EQTL3) e Petrobras (PETR4) deixam a seleção, dando espaço para a entrada da Em",
+    "source": "Money Times",
+    "url": "https://www.moneytimes.com.br/itau-bba-troca-80-das-acoes-em-carteira-recomendada-para-julho-onde-investir-lmrs/",
+    "time": "2026-07-04T14:00:00Z",
+    "cat": "analise",
+    "tickers": [
+      "BPAC11",
+      "EQTL3",
+      "PETR4"
+    ],
+    "image": "https://www.moneytimes.com.br/uploads/2026/07/acoes.jpg"
   },
   "featured": [
     {
-      "title": "Junho marca 2º mês de saída de estrangeiro da Bolsa, mas saldo segue acima de 2025",
-      "summary": "O movimento se deve tanto a fatores externos quanto internos",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/junho-marca-2o-mes-de-saida-de-estrangeiro-da-bolsa-mas-saldo-segue-acima-de-2025/",
-      "time": "2026-07-04T11:30:00Z",
-      "cat": "acoes",
+      "title": "A biblioteca ‘obrigatória’ de Wall Street e do Vale do Silício: os livros que grandes mentes leem para liderar sob pressão",
+      "summary": "Se a filosofia greco-romana parece distante do mundo dos negócios, basta olhar para as leituras de alguns dos nomes mais influentes de Wall Street, do Vale do Silício e da política. Em meio a milhares de títulos sobre in",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/biblioteca-obrigatoria-wall-street-vale-do-silicio-livros-filosofia-rsgp/",
+      "time": "2026-07-04T14:55:18Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/AdobeStock_866688608.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/designer20-202026-06-30t121623.470-1200x675-1.jpg"
     },
     {
-      "title": "Como esta farmacêutica brasileira fatura R$ 780 milhões com um mercado esquecido pela indústria",
-      "summary": "Líder histórica em contracepção e menopausa, a Libbs acelera lançamentos numa área que a indústria global deixou parada por décadas — e trouxe da Dinamarca sua aposta mais recente",
-      "source": "Exame",
-      "url": "https://exame.com/negocios/como-esta-farmaceutica-brasileira-fatura-r-780-milhoes-com-um-mercado-esquecido-pela-industria/",
-      "time": "2026-07-04T10:15:16Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/libbs.jpeg"
+      "title": "Ultrapar (UGPA3) lidera altas da semana no Ibovespa; Azzas 2154 (AZZA3) tem a maior queda do período",
+      "summary": "As ações da Ultrapar (UGPA3) encerraram a semana como o principal destaque positivo do Ibovespa, com valorização de 7,54%, enquanto a Azzas 2154 (AZZA3) teve a maior queda do índice no período, com recuo de 9,74%. O Ibov",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ultrapar-ugpa3-lidera-altas-da-semana-no-ibovespa-azzas-2154-azza3-tem-a-maior-queda-do-periodo/",
+      "time": "2026-07-04T12:30:00Z",
+      "cat": "acoes",
+      "tickers": [
+        "UGPA3",
+        "AZZA3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2024/09/ultrapar-ugpa3-day-trade.jpg"
     }
   ],
   "all": [
     {
-      "title": "Junho marca 2º mês de saída de estrangeiro da Bolsa, mas saldo segue acima de 2025",
-      "summary": "O movimento se deve tanto a fatores externos quanto internos",
+      "title": "Durigan diz que Fazenda é a menos culpada por juros altos e defende ajuste fiscal",
+      "summary": "Segundo Durigan, o que \"machuca a dívida pública\" atualmente é a taxa de juros",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/junho-marca-2o-mes-de-saida-de-estrangeiro-da-bolsa-mas-saldo-segue-acima-de-2025/",
-      "time": "2026-07-04T11:30:00Z",
+      "url": "https://www.infomoney.com.br/politica/durigan-diz-que-fazenda-e-a-menos-culpada-por-juros-altos-e-defende-ajuste-fiscal/",
+      "time": "2026-07-04T14:05:00Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/dario-durigan-ministro-fazenda-economia-governo02.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "A biblioteca ‘obrigatória’ de Wall Street e do Vale do Silício: os livros que grandes mentes leem para liderar sob pressão",
+      "summary": "Se a filosofia greco-romana parece distante do mundo dos negócios, basta olhar para as leituras de alguns dos nomes mais influentes de Wall Street, do Vale do Silício e da política. Em meio a milhares de títulos sobre in",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/biblioteca-obrigatoria-wall-street-vale-do-silicio-livros-filosofia-rsgp/",
+      "time": "2026-07-04T14:55:18Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/designer20-202026-06-30t121623.470-1200x675-1.jpg"
+    },
+    {
+      "title": "Itaú BBA troca 80% das ações em carteira recomendada para julho; onde investir?",
+      "summary": "O Itaú BBA atualizou quase toda a carteira recomendada mensal de ações. Para julho, Aura Minerals (AURA33), BTG Pactual (BPAC11), Equatorial (EQTL3) e Petrobras (PETR4) deixam a seleção, dando espaço para a entrada da Em",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/itau-bba-troca-80-das-acoes-em-carteira-recomendada-para-julho-onde-investir-lmrs/",
+      "time": "2026-07-04T14:00:00Z",
+      "cat": "analise",
+      "tickers": [
+        "BPAC11",
+        "EQTL3",
+        "PETR4"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/acoes.jpg"
+    },
+    {
+      "title": "Ibovespa: O que esperar do índice em julho e nos próximos trimestres, segundo análise técnica do BTG",
+      "summary": "O mês de julho apresenta um dos históricos mais favoráveis para o Ibovespa desde o início da série analisada pelo BTG Pactual, combinando retorno médio positivo, alta frequência de ganhos e menor volatilidade em relação ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ibovespa-o-que-esperar-do-indice-em-julho-e-nos-proximos-trimestres-segundo-analise-tecnica-do-btg/",
+      "time": "2026-07-04T13:16:45Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/AdobeStock_866688608.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/acoes-carteira-recomendada-mercado-ibovespa-wall-street-morning.jpg"
+    },
+    {
+      "title": "VILG11 e MCCI11 entram na carteira de FIIs que já rendeu 500% do Ifix em 2026; confira o portfólio",
+      "summary": "A carteira mensal TOP FIIs da Empiricus já está disponível e conta com 7 ativos promissores para julho; saiba mais",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/vilg11-e-mcci11-entram-na-carteira-de-fiis-que-ja-rendeu-500-do-ifix-em-2026-confira-o-portfolio-lbrdgm074/",
+      "time": "2026-07-04T13:00:00Z",
+      "cat": "fundos",
+      "tickers": [
+        "VILG11",
+        "MCCI11"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/11/fiis-fundos-imobiliarios-imagem-microstockhubistock.png"
+    },
+    {
+      "title": "Dividendos de julho, Fred Trajano sereno e FIIs: o que bombou no Money Times nesta semana",
+      "summary": "Na semana que marcou o fim de junho e do primeiro semestre e o início de julho e da segunda metade do ano, o calendário de dividendos foi a matéria que mais atraiu a atenção dos leitores do Money Times. Em seguida, apare",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/dividendos-de-julho-fred-trajano-sereno-e-fiis-o-que-bombou-no-money-times-nesta-semana/",
+      "time": "2026-07-04T12:36:24Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/calendario-baona-istock2.png"
+    },
+    {
+      "title": "Ultrapar (UGPA3) lidera altas da semana no Ibovespa; Azzas 2154 (AZZA3) tem a maior queda do período",
+      "summary": "As ações da Ultrapar (UGPA3) encerraram a semana como o principal destaque positivo do Ibovespa, com valorização de 7,54%, enquanto a Azzas 2154 (AZZA3) teve a maior queda do índice no período, com recuo de 9,74%. O Ibov",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ultrapar-ugpa3-lidera-altas-da-semana-no-ibovespa-azzas-2154-azza3-tem-a-maior-queda-do-periodo/",
+      "time": "2026-07-04T12:30:00Z",
+      "cat": "acoes",
+      "tickers": [
+        "UGPA3",
+        "AZZA3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2024/09/ultrapar-ugpa3-day-trade.jpg"
+    },
+    {
+      "title": "Junho marca 2º mês de saída de estrangeiro da Bolsa, mas saldo do ano segue maior que o de 2025",
+      "summary": "A B3 registrou saída líquida de capital externo na Bolsa pelo segundo mês consecutivo em junho. Os estrangeiros retiraram R$ 7,785 bilhões da Bolsa, o que reduziu o saldo positivo de 2026 para R$ 33,847 bilhões, a metade",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/junho-marca-2o-mes-de-saida-de-estrangeiro-da-bolsa-mas-saldo-do-ano-segue-maior-que-o-de-2025/",
+      "time": "2026-07-04T12:10:29Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/2026-06-29t201005z-1-lynxmpem5s1al-rtroptp-4-global-forex-scaled-e1783109112812.jpg"
     },
     {
       "title": "Genial troca BTLG11 por GGRC11 em carteira recomendada de FIIs para julho",
@@ -152,64 +239,34 @@
       "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     },
     {
-      "title": "Como esta farmacêutica brasileira fatura R$ 780 milhões com um mercado esquecido pela indústria",
-      "summary": "Líder histórica em contracepção e menopausa, a Libbs acelera lançamentos numa área que a indústria global deixou parada por décadas — e trouxe da Dinamarca sua aposta mais recente",
+      "title": "'You got mail': AOL, pioneira da internet, está voltando para Wall Street",
+      "summary": "Empresa foi comprada pela italiana Bending Spoons, dona do Vimeo, que pode captar US$ 18 bi na bolsa",
       "source": "Exame",
-      "url": "https://exame.com/negocios/como-esta-farmaceutica-brasileira-fatura-r-780-milhoes-com-um-mercado-esquecido-pela-industria/",
-      "time": "2026-07-04T10:15:16Z",
-      "cat": "economia",
+      "url": "https://exame.com/invest/mercados/you-got-mail-aol-pioneira-da-internet-esta-voltando-para-wall-street/",
+      "time": "2026-07-04T12:00:48Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/libbs.jpeg"
+      "image": "https://classic.exame.com/wp-content/uploads/2017/10/m800713.jpg"
     },
     {
-      "title": "Eleições 2026: veja como é definido o local de votação e como consultar o seu",
-      "summary": "Consulta do local de votação pode ser feita gratuitamente pelo portal do Tribunal Superior Eleitoral, informando o nome completo ou o número do título eleitoral",
+      "title": "Blockchain é forte aliado no combate a crimes financeiros",
+      "summary": "Rastreabilidade do blockchain e institucionalização do mercado podem tornar cripto um grande aliado das autoridades",
       "source": "Exame",
-      "url": "https://exame.com/eleicoes/guia-do-eleitor/eleicoes-2026-veja-como-e-definido-o-local-de-votacao-e-como-consultar-o-seu/",
-      "time": "2026-07-04T10:00:27Z",
-      "cat": "economia",
+      "url": "https://exame.com/future-of-money/blockchain-e-forte-aliado-no-combate-a-crimes-financeiros/",
+      "time": "2026-07-04T11:00:05Z",
+      "cat": "cripto",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2020/11/urna-eletronica-fabio-pozzebom-agbr.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2023/03/imagem-figma-cripto-15.jpg"
     },
     {
-      "title": "Mercado por Elas: CVM recua no relatório climático — quem vai pagar a conta?",
-      "summary": "Ao flexibilizar o relatório de sustentabilidade, a CVM coloca em risco avanços que refletiam em crédito e competitividade no mercado imobiliário.",
-      "source": "Exame",
-      "url": "https://exame.com/mercado-imobiliario/mercado-por-elas-quando-o-silencio-comunica/",
-      "time": "2026-07-04T10:00:23Z",
-      "cat": "analise",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2023/01/GettyImages-1231053747.jpg"
-    },
-    {
-      "title": "O mercado financeiro brasileiro precisa de infraestrutura tão ambiciosa quanto sua inovação",
-      "summary": "A próxima fronteira do avanço tecnológico no setor financeiro será feita nos bastidores na organização de fluxos de trabalho",
-      "source": "Exame",
-      "url": "https://exame.com/future-of-money/o-mercado-financeiro-brasileiro-precisa-de-infraestrutura-tao-ambiciosa-quanto-sua-inovacao/",
-      "time": "2026-07-04T10:00:08Z",
+      "title": "A inflação da IA é transitória?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/a-inflacao-da-ia-e-transitoria-1992138",
+      "time": "2026-07-04T14:23:27Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2023/02/GettyImages-1059661940.jpg"
-    },
-    {
-      "title": "Novo estudo associa GLP-1 a menos amputações e mortes em pacientes com diabetes",
-      "summary": "Análise comparou usuários de agonistas do receptor de GLP-1 com pacientes tratados com metformina durante cinco anos",
-      "source": "Exame",
-      "url": "https://exame.com/ciencia/novo-estudo-associa-glp-1-a-menos-amputacoes-e-mortes-em-pacientes-com-diabetes/",
-      "time": "2026-07-04T09:51:06Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/heart-health-vials-syringes-medical-chart.jpg"
-    },
-    {
-      "title": "Os charms de diamante que decoram as bolsas da Hermès",
-      "summary": "Marca criada por irmãs indiano-belgas transforma alças da Hermès em joias de até R$ 130 mil",
-      "source": "Exame",
-      "url": "https://exame.com/casual/os-charms-de-diamante-que-decoram-as-bolsas-da-hermes/",
-      "time": "2026-07-04T09:03:13Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/Bag-Bijoux.jpg"
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
       "title": "Ibovespa fecha em leve alta semanal, mas gráfico aponta \"terra de ninguém\" técnica",
@@ -250,17 +307,7 @@
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "HBR aprova realização de OPA para aquisição da Helbor",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/hbr-aprova-realizacao-de-opa-para-aquisicao-da-helbor-1992010",
-      "time": "2026-07-03T22:14:07Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB5S0BB_M.jpg"
     }
   ],
-  "atualizado_em": "04/07/2026 13:17"
+  "atualizado_em": "04/07/2026 16:00"
 }
