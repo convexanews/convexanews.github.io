@@ -1,79 +1,150 @@
 {
   "headline": {
-    "title": "Dólar recua a R$ 5,13 com expectativa de Fed menos agressivo",
-    "summary": "O dólar estendeu as perdas com os dados da atividade dos Estados Unidos reforçando a avaliação de um banco central menos duro na condução da política monetária. Nesta segunda-feira (6), o dólar à vista terminou as negoci",
+    "title": "Ibovespa recua de olho em tarifas dos EUA e Vale (VALE3); dólar cai a R$ 5,13",
+    "summary": "O Ibovespa (IBOV) encerrou a primeira sessão da semana em baixa pressionado pelas incertezas nas relações comerciais com os Estados Unidos e pela queda de Vale (VALE3). Nesta segunda-feira (6), o principal índice da bols",
     "source": "Money Times",
-    "url": "https://www.moneytimes.com.br/dolar-6-7-26-apsa/",
-    "time": "2026-07-06T20:03:12Z",
+    "url": "https://www.moneytimes.com.br/ibovespa-6-7-26-apsa/",
+    "time": "2026-07-06T20:26:50Z",
     "cat": "economia",
-    "tickers": [],
-    "image": "https://www.moneytimes.com.br/uploads/2026/02/dolar.jpg"
+    "tickers": [
+      "VALE3"
+    ],
+    "image": "https://www.moneytimes.com.br/uploads/2025/11/ibovespa-day-trade-2-1-1-1-2-1-1-1-1-1-1-1.jpg"
   },
   "featured": [
     {
-      "title": "15 ações para buscar retornos acima do Ibovespa em julho, segundo a Ativa",
-      "summary": "A Ativa Investimentos promoveu duas mudanças na Carteira Ibovespa+ para julho de 2026, em um movimento voltado à melhora da relação entre risco e retorno dos ativos. A corretora retirou Cosan (CSAN3) e RD Saúde (RADL3) d",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/15-acoes-para-buscar-retornos-acima-do-ibovespa-em-julho-segundo-a-ativa-jcav/",
-      "time": "2026-07-06T19:45:54Z",
-      "cat": "acoes",
-      "tickers": [
-        "CSAN3",
-        "RADL3"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/renda-fixa-carteira.jpg"
-    },
-    {
-      "title": "Taxas de DIs caem em sessão de dólar novamente abaixo dos R$ 5,15",
-      "summary": "Os juros futuros fecharam em baixa nesta segunda-feira acompanhando o recuo do dólar para baixo de R$ 5,15, em uma sessão de liquidez limitada e agenda esvaziada",
+      "title": "Ibovespa hoje fecha em queda, na contramão do exterior; dólar cai a R$ 5,13",
+      "summary": "Bolsas dos EUA começam semana de forma mista",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/taxas-de-dis-caem-em-sessao-de-dolar-novamente-abaixo-dos-r-515/",
-      "time": "2026-07-06T20:12:21Z",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-06072026/",
+      "time": "2026-07-06T21:13:15Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/real_moedadinheiro_jfcrz_abr_1701220046_1.jpeg?fit=300%2C179&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-13-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Dólar recua a R$ 5,13 com expectativa de Fed menos agressivo",
+      "summary": "O dólar estendeu as perdas com os dados da atividade dos Estados Unidos reforçando a avaliação de um banco central menos duro na condução da política monetária. Nesta segunda-feira (6), o dólar à vista terminou as negoci",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/dolar-6-7-26-apsa/",
+      "time": "2026-07-06T20:03:12Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/02/dolar.jpg"
     }
   ],
   "all": [
     {
-      "title": "Taxas de DIs caem em sessão de dólar novamente abaixo dos R$ 5,15",
-      "summary": "Os juros futuros fecharam em baixa nesta segunda-feira acompanhando o recuo do dólar para baixo de R$ 5,15, em uma sessão de liquidez limitada e agenda esvaziada",
+      "title": "ASSISTA AO GOL: Espanha marca nos acréscimos e elimina Portugal de Cristiano Ronaldo",
+      "summary": "Mikel Merino entrou aos 39 minutos do segundo tempo e seis minutos depois fez o gol da classificação da Espanha",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/taxas-de-dis-caem-em-sessao-de-dolar-novamente-abaixo-dos-r-515/",
-      "time": "2026-07-06T20:12:21Z",
+      "url": "https://www.infomoney.com.br/esportes/jogo-espanha-portugal-copa-2026/",
+      "time": "2026-07-06T21:43:44Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-06T212800Z_649879885_UP1EM761LQJIT_RTRMADP_3_SOCCER-WORLDCUP-POR-ESP.jpg?fit=300%2C189&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Governo autoriza concursos para Receita e Banco Central; editais saem em até 6 meses",
+      "summary": "Portarias publicadas pelo Ministério da Gestão liberam novas seleções para cargos de níveis médio e superior",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/carreira/concursos-receita-federal-e-banco-central/",
+      "time": "2026-07-06T21:30:00Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/real_moedadinheiro_jfcrz_abr_1701220046_1.jpeg?fit=300%2C179&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Concurso-Dataprev.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Ancelotti permanecerá como técnico para grande renovação da seleção",
-      "summary": "Rodrigo Caetano, diretor de futebol da CBF, disse que técnico continua no ciclo até a Copa do Mundo de 2030",
+      "title": "Ambev: ação cai após Brasil eliminado frustrar expectativa por mais vendas de cerveja",
+      "summary": "Analistas do Morgan Stanley, liderados por Sarah Simon, disseram que existe o risco de as vendas do terceiro trimestre na América Latina ficarem aquém das expectativas",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/esportes/ancelotti-permanecera-como-tecnico-para-grande-renovacao-da-selecao/",
-      "time": "2026-07-06T20:07:37Z",
+      "url": "https://www.infomoney.com.br/mercados/ambev-acao-cai-apos-brasil-eliminado-frustrar-expectativa-por-mais-vendas-de-cerveja/",
+      "time": "2026-07-06T21:23:07Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-06T190249Z_1_LYNXMPEM651BV_RTROPTP_4_SOCCER-WORLDCUP-BRA-NOR_rec_red.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Captura-de-tela-2026-07-06-182028.png?fit=300%2C181&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Hugo Motta cria comissão especial na Câmara para PEC da maioridade penal",
-      "summary": "Proposta que reduz idade penal de 18 para 16 anos avançou na CCJ da casa em junho",
+      "title": "Ibovespa hoje fecha em queda, na contramão do exterior; dólar cai a R$ 5,13",
+      "summary": "Bolsas dos EUA começam semana de forma mista",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/hugo-motta-cria-comissao-especial-na-camara-para-pec-da-maioridade-penal/",
-      "time": "2026-07-06T20:04:28Z",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-06072026/",
+      "time": "2026-07-06T21:13:15Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-13-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Ibovespa destoa de NY e cai 0,93% após bater maior patamar em um mês; entenda motivos",
+      "summary": "Rotação para IA, proximidade das eleições e início da audiência do Escritório do Representante dos Estados Unidos (USTR, na sigla em inglês) estiveram entre os motivos",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-destoa-de-ny-e-cai-093-apos-bater-maior-patamar-em-um-mes-entenda-motivos/",
+      "time": "2026-07-06T20:59:21Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/0d9a8755_1.webp?fit=300%2C225&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/Captura-de-tela-2025-12-10-110600.png?fit=300%2C197&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Petróleo fecha em queda com aumento da oferta global e negociações no Oriente Médio",
-      "summary": "O barril do WTI recuou para US$ 68,55 e o Brent para US$ 71,99 em dia de tráfego de navios normalizado, compensando as incertezas sobre as tarifas cobradas pelo Irã",
+      "title": "Bolsas de NY fecham em alta com retomada do setor tech; Dow Jones tem novo recorde",
+      "summary": "O Dow Jones subiu 0,30%, aos 53.056,80 pontos e em recorde intraday e de fechamento",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-06072026/",
-      "time": "2026-07-06T19:47:10Z",
+      "url": "https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-em-alta-com-retomada-do-setor-tech-dow-jones-tem-novo-recorde/",
+      "time": "2026-07-06T20:49:07Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/2026-01-16T221448Z_1_LYNXMPEM0F18J_RTROPTP_4_USA-OIL-PRODUCTION.jpg?fit=300%2C196&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/2026-02-17T175434Z_1885400349_RC20BDASG5F7_RTRMADP_3_LIFTOFF-MOBILE-IPO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Startups: Hotmart demite 10% do quadro global e fala em “reestruturação”",
+      "summary": "Companhia afirma que cortes fazem parte de uma estratégia para acelerar o crescimento e priorizar áreas consideradas estratégicas",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/business/startups-hotmart-demite-10-do-quadro-global-e-fala-em-reestruturacao/",
+      "time": "2026-07-06T20:39:21Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2021/12/hotmart-escritorio.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Startups: IA impulsiona recorde de investimentos de venture capital em 2026",
+      "summary": "Investimentos globais de venture capital atingiram US$ 510 bilhões no 1º semestre de 2026, com IA concentrando 43% do capital",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/business/startups-ia-impulsiona-recorde-de-investimentos-de-venture-capital-em-2026/",
+      "time": "2026-07-06T20:33:30Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/Image-95.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "9 ações gringas e um ETF para colocar na carteira em julho, segundo Safra",
+      "summary": "O Safra ajustou a sua carteira recomendada de BDRs para o mês de julho, com a retirada do Google (GOGL34) e Mastercard (MSCD34) para a entrada da TSMC (TSMC34) e NextEra (NEXT34). Os estrategistas Cauê Pinheiro, Yves Ada",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/9-acoes-gringas-e-um-etf-para-colocar-na-carteira-em-julho-segundo-safra-lils/",
+      "time": "2026-07-06T21:06:02Z",
+      "cat": "analise",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/acoes-carteira-recomendada-mercado-ibovespa-wall-street-morning.jpg"
+    },
+    {
+      "title": "Equiparação de PCC e CV como terroristas causa ‘risco de uso da força’ pelos EUA, alerta Itamaraty",
+      "summary": "O Ministério das Relações Exteriores do governo Lula informou, em ofício enviado à Câmara dos Deputados, que a classificação de organizações criminosas como o Primeiro Comando da Capital (PCC) e o Comando Vermelho (CV) c",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/equiparacao-de-pcc-e-cv-como-terroristas-dos-eua-causa-risco-de-uso-da-forca-diz-itamaraty-gaep/",
+      "time": "2026-07-06T20:55:20Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/mauro-vieira-valter-campanato-agencia-brasil.jpg"
+    },
+    {
+      "title": "Ibovespa recua de olho em tarifas dos EUA e Vale (VALE3); dólar cai a R$ 5,13",
+      "summary": "O Ibovespa (IBOV) encerrou a primeira sessão da semana em baixa pressionado pelas incertezas nas relações comerciais com os Estados Unidos e pela queda de Vale (VALE3). Nesta segunda-feira (6), o principal índice da bols",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ibovespa-6-7-26-apsa/",
+      "time": "2026-07-06T20:26:50Z",
+      "cat": "economia",
+      "tickers": [
+        "VALE3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/11/ibovespa-day-trade-2-1-1-1-2-1-1-1-1-1-1-1.jpg"
     },
     {
       "title": "Wall Street fecha em alta com ações de tecnologia; Dow Jones renova recordes históricos",
@@ -94,62 +165,6 @@
       "cat": "economia",
       "tickers": [],
       "image": "https://www.moneytimes.com.br/uploads/2026/02/dolar.jpg"
-    },
-    {
-      "title": "Petróleo fecha em leve queda e segue próximo a US$ 70 o barril com Oriente Médio no radar",
-      "summary": "Os preços do petróleo encerraram o pregão desta segunda-feira (6) em leve queda com declarações de avanço nas tratativas entre Estados Unidos e Irã e reação à decisão da Organização dos Países Exportadores de Petróleo e ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/petroleo-6-7-26-lils/",
-      "time": "2026-07-06T19:59:47Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/06/2026-06-25t200908z-1-lynxmpem5o1mg-rtroptp-4-global-oil-exports-scaled.jpg"
-    },
-    {
-      "title": "5 small caps com retornos de até 13,50% para ter na carteira de julho, segundo Ágora Investimentos",
-      "summary": "A Ágora Investimentos removeu as ações da Pague Menos (PGMN3) e Smart Fit (SMFT3) da carteira recomendada de small caps para o mês de julho. No lugar, entram JHSF (JHSF3) e Marcopolo (POMO4). De acordo com os analistas, ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/5-small-caps-com-retornos-de-ate-1350-para-ter-na-carteira-de-julho-segundo-agora-investimentos-lmrs/",
-      "time": "2026-07-06T19:53:26Z",
-      "cat": "analise",
-      "tickers": [
-        "JHSF3",
-        "POMO4"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2024/12/pictures-anna-6-1.jpg"
-    },
-    {
-      "title": "Especialista dá aula magna gratuita sobre IA nos investimentos nesta quarta-feira (8); veja como participar",
-      "summary": "As inscrições para o curso do Market Makers Academy são abertas nesta quarta-feira (8) e são totalmente gratuitas. Saiba como se inscrever.",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/especialista-da-aula-magna-gratuita-sobre-ia-nos-investimentos-nesta-quarta-feira-8-veja-como-participar-lbrdcp170/",
-      "time": "2026-07-06T19:46:41Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/inteligencia-artificial-claude-ia.png"
-    },
-    {
-      "title": "15 ações para buscar retornos acima do Ibovespa em julho, segundo a Ativa",
-      "summary": "A Ativa Investimentos promoveu duas mudanças na Carteira Ibovespa+ para julho de 2026, em um movimento voltado à melhora da relação entre risco e retorno dos ativos. A corretora retirou Cosan (CSAN3) e RD Saúde (RADL3) d",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/15-acoes-para-buscar-retornos-acima-do-ibovespa-em-julho-segundo-a-ativa-jcav/",
-      "time": "2026-07-06T19:45:54Z",
-      "cat": "acoes",
-      "tickers": [
-        "CSAN3",
-        "RADL3"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/renda-fixa-carteira.jpg"
-    },
-    {
-      "title": "Motta cria comissões especiais sobre redução da maioridade penal e outros três temas",
-      "summary": "O presidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB), anunciou na rede social X, nesta segunda (6) a criação de quatro comissões especiais, uma delas sobre a redução da maioridade penal no Brasil, que trami",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/motta-cria-comissoes-especiais-sobre-reducao-da-maioridade-penal-e-outros-tres-temas-gaep/",
-      "time": "2026-07-06T19:21:34Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/img20260701173132128.jpg"
     },
     {
       "title": "Mercado agro terá semana de teste para soja, milho, café e boi; entenda",
@@ -232,95 +247,105 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/133_Close_de_gr_fico_fin_1_2026017_173147-jpg.webp"
     },
     {
-      "title": "Boletim Focus: projeção do IPCA 2026 passa de 5,33% para 5,30%",
-      "summary": "Boletim Focus: projeção do IPCA 2026 passa de 5,33% para 5,30%A mediana do Boletim Focus para o IPCA de 2026 diminuiu de 5,33% para 5,30%. A estimativa está 0,80 ponto porcentual acima do teto da meta perseguida pelo Ban",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/boletim-focus-projecao-06072026-go/",
-      "time": "2026-07-06T13:57:06Z",
+      "title": "China aposta no hidrogênio verde e amplia investimentos para acelerar transição energética",
+      "summary": "Nos últimos anos, o hidrogênio passou a ganhar espaço em aplicações como lançamentos de foguetes, transporte, pesquisa científica e processos industriais",
+      "source": "Exame",
+      "url": "https://exame.com/ciencia/china-aposta-no-hidrogenio-verde-e-amplia-investimentos-para-acelerar-transicao-energetica/",
+      "time": "2026-07-06T18:22:32Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2025/02/airbus-hidrogenio.jpg"
+    },
+    {
+      "title": "‘Não queria essa vida’: a herdeira que tentou fugir dos eventos e hoje lidera sucessão com inovação",
+      "summary": "Ana Medeiros, do Grupo MM eventos, conta como prepara a sucessão familiar com inovação, finanças e visão de conselho",
+      "source": "Exame",
+      "url": "https://exame.com/carreira/nao-queria-essa-vida-a-herdeira-que-tentou-fugir-dos-eventos-e-hoje-lidera-sucessao-com-inovacao/",
+      "time": "2026-07-06T18:00:50Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2026/06/9ae4626b-boletim-focus-2-jpg.webp"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/DSC00263.jpg"
     },
     {
-      "title": "Só conhecimento técnico não basta: cinco formas de se preparar para o novo mercado de trabalho",
-      "summary": "Com a automação avançando, empresas passam a valorizar profissionais capazes de unir conhecimento técnico, adaptação e habilidades comportamentais",
+      "title": "Preservação da Amazônia depende de recursos globais e cooperação internacional",
+      "summary": "Trilha no Museu Goeldi usa totens interativos para aproximar o público da ciência amazônica e mostrar como dados, pesquisa local e conservação podem orientar a bioeconomia",
       "source": "Exame",
-      "url": "https://exame.com/carreira/so-conhecimento-tecnico-nao-basta-cinco-formas-de-se-preparar-para-o-novo-mercado-de-trabalho/",
-      "time": "2026-07-06T16:31:27Z",
+      "url": "https://exame.com/esg/preservacao-da-amazonia-depende-de-recursos-globais-e-cooperacao-internacional/",
+      "time": "2026-07-06T18:00:21Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/04/multiethnic-people-holding-clipboard.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2025/10/cirio4.jpg"
     },
     {
-      "title": "Brasil diz que governo Trump baseou proposta de tarifaço em alegações 'espúrias' e sem provas",
-      "summary": "USTR propôs tarifa de 12,5% ao país com base no suposto uso local de trabalho forçado",
+      "title": "Motta cria comissão especial para discutir redução da maioridade penal",
+      "summary": "A decisão, na prática, coloca o texto em tramitação na Casa. Com o recesso parlamentar e as eleições no radar, as discussões somente devem avançar após outubro",
       "source": "Exame",
-      "url": "https://exame.com/brasil/brasil-diz-que-governo-trump-baseou-proposta-de-tarifaco-em-alegacoes-espurias-e-sem-provas/",
-      "time": "2026-07-06T16:30:20Z",
-      "cat": "internacional",
+      "url": "https://exame.com/brasil/motta-cria-comissao-especial-para-discutir-reducao-da-maioridade-penal/",
+      "time": "2026-07-06T17:52:55Z",
+      "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/TrumpAviao.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/02/Hugo-Motta-presidente-da-camara-dos-deputaods.jpg"
     },
     {
-      "title": "Dior mostra vestidos de alta costura plissados ​​e esculturais em Paris após vestir Taylor Swift em casamento",
+      "title": "Colômbia - Ações fecharam o pregão em queda e o Índice COLCAP recuou 0,00%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/dior-mostra-vestidos-de-alta-costura-plissados-e-esculturais-em-paris-apos-vestir-taylor-swift-em-casamento-1993442",
-      "time": "2026-07-06T19:07:35Z",
-      "cat": "internacional",
+      "url": "https://br.investing.com/news/stock-market-news/colombia--acoes-fecharam-o-pregao-em-queda-e-o-indice-colcap-recuou-000-1993625",
+      "time": "2026-07-06T21:25:18Z",
+      "cat": "fundos",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM651C3_1200_L.jpg"
+      "image": "https://i-invdn-com.investing.com/news/Colombian_Securities_Exchange_M_1440056298.jpg"
     },
     {
-      "title": "Ações da Criteo disparam 29% após oferta de aquisição da Vista Equity",
+      "title": "Rússia - Ações fecharam o pregão em queda e o Índice MOEX Russia Index recuou 2,26%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-criteo-disparam-29-apos-oferta-de-aquisicao-da-vista-equity-93CH-1993441",
-      "time": "2026-07-06T19:01:07Z",
+      "url": "https://br.investing.com/news/stock-market-news/russia--acoes-fecharam-o-pregao-em-queda-e-o-indice-moex-russia-index-recuou-226-1993619",
+      "time": "2026-07-06T21:20:21Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB940R7_M.jpg"
     },
     {
-      "title": "Por que as ações da SpaceX estão caindo hoje?",
+      "title": "Por que as ações da Crinetics Pharmaceuticals dispararam hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-spacex-estao-caindo-hoje-93CH-1993438",
-      "time": "2026-07-06T18:53:54Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Por que as ações do Direxion Daily Semiconductor Bull 3X estão disparando hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-do-direxion-daily-semiconductor-bull-3x-estao-disparando-hoje-93CH-1993436",
-      "time": "2026-07-06T18:50:15Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-crinetics-pharmaceuticals-dispararam-hoje-93CH-1993593",
+      "time": "2026-07-06T21:04:20Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Ações da Thyssenkrupp disparam com contrato de submarinos no Canadá",
+      "title": "Por que as ações da Aligos Therapeutics estão disparando hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-thyssenkrupp-disparam-com-contrato-de-submarinos-no-canada-93CH-1993432",
-      "time": "2026-07-06T18:44:03Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-aligos-therapeutics-estao-disparando-hoje-93CH-1993588",
+      "time": "2026-07-06T21:01:57Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Por que as ações da First Solar estão disparando hoje?",
+      "title": "Ações da Toyota caem após anúncio de expansão de US$ 3,6 bi no Texas",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-first-solar-estao-disparando-hoje-93CH-1993423",
-      "time": "2026-07-06T18:39:40Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-toyota-caem-apos-anuncio-de-expansao-de-us-36-bi-no-texas-93CH-1993587",
+      "time": "2026-07-06T21:00:39Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Ações da Kroger caem após Trump anunciar corte de preços no Walmart",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-kroger-caem-apos-trump-anunciar-corte-de-precos-no-walmart-93CH-1993579",
+      "time": "2026-07-06T20:55:59Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "06/07/2026 20:25"
+  "atualizado_em": "06/07/2026 21:58"
 }
