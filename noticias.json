@@ -1,15 +1,13 @@
 {
   "headline": {
-    "title": "Ibovespa segue Wall Street, mas Petrobras (PETR4) alivia queda; dólar sobe a R$ 5,15",
-    "summary": "O Ibovespa (IBOV) encerrou em baixa, seguindo o exterior, mas teve a queda atenuada pela Petrobras (PETR4). A estatal avançou impulsionada pela alta do petróleo no mercado internacional após o Tesouro dos Estados Unidos ",
-    "source": "Money Times",
-    "url": "https://www.moneytimes.com.br/ibovespa-7-7-26-apsa/",
-    "time": "2026-07-07T20:29:40Z",
+    "title": "Ibovespa e dólar hoje: tensões no Oriente Médio e ata do Fed no radar",
+    "summary": "",
+    "source": "Investing.com",
+    "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-tensoes-no-oriente-medio-e-ata-do-fed-no-radar-1994895",
+    "time": "2026-07-07T22:00:02Z",
     "cat": "economia",
-    "tickers": [
-      "PETR4"
-    ],
-    "image": "https://www.moneytimes.com.br/uploads/2026/06/mercado-morning-ibovespa-wall-street-2.jpg"
+    "tickers": [],
+    "image": null
   },
   "featured": [
     {
@@ -39,6 +37,36 @@
   ],
   "all": [
     {
+      "title": "Tarifaço: Ministro diz que governo não sairá da ‘mesa de negociação’ e critica Flávio",
+      "summary": "Ele afirmou que houve uma rodada de conversa com técnicos nesta terça-feira e que a expectativa é de novas reuniões técnicas ainda nesta semana",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/tarifaco-ministro-diz-que-governo-nao-saira-da-mesa-de-negociacao-e-critica-flavio/",
+      "time": "2026-07-07T22:25:06Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/55187410663_55b7a1469e_c.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Risco à navegação no Estreito de Ormuz sobe para “grave” após ataques a navios-tanque",
+      "summary": "Os ataques interromperam uma frágil distensão entre Washington e Teerã, em vigor desde o final de junho",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mundo/risco-a-navegacao-no-estreito-de-ormuz-sobe-para-grave-apos-ataques-a-navios-tanque/",
+      "time": "2026-07-07T21:58:21Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/459768915.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Senado aprova criação do “Pix Pensão” para pagamento automático de pensão alimentícia",
+      "summary": "Texto prevê transferência mensal automática, bloqueio de valores em caso de atraso e segue para sanção presidencial",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/senado-aprova-criacao-do-pix-pensao-para-pagamento-automatico-de-pensao-alimenticia/",
+      "time": "2026-07-07T21:53:32Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/senado.jpeg?fit=300%2C199&amp;quality=70&amp;strip=all"
+    },
+    {
       "title": "Petróleo Brent sobe mais de 6% no after market após ataques dos EUA ao Irã",
       "summary": "Os contratos futuros do petróleo Brent, referência internacional, subiram 6,40%, a US$ 76,47 por barril",
       "source": "InfoMoney",
@@ -57,16 +85,6 @@
       "cat": "acoes",
       "tickers": [],
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-07T210033Z_1_LYNXMPEM661D8_RTROPTP_4_SOCCER-WORLDCUP-ARG-EGY.jpg?fit=300%2C211&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "EUA revogam licença para venda de petróleo iraniano após ataques em Ormuz",
-      "summary": "Medida eleva tensão com Teerã, impulsiona petróleo e ameaça negociações diplomáticas",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/eua-revogam-licenca-para-venda-de-petroleo-iraniano-apos-ataques-em-ormuz/",
-      "time": "2026-07-07T21:10:44Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/2025-06-19T183730Z_1077242207_RC2N3FAP1NPL_RTRMADP_3_IRAN-NUCLEAR-OPPOSITION-MOMENT.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
       "title": "Raízen (RAIZ4): Banco Central da Noruega reduz participação",
@@ -124,26 +142,46 @@
       "image": "https://www.moneytimes.com.br/uploads/2026/07/selic-juros-inflacao-.jpg"
     },
     {
-      "title": "Ibovespa segue Wall Street, mas Petrobras (PETR4) alivia queda; dólar sobe a R$ 5,15",
-      "summary": "O Ibovespa (IBOV) encerrou em baixa, seguindo o exterior, mas teve a queda atenuada pela Petrobras (PETR4). A estatal avançou impulsionada pela alta do petróleo no mercado internacional após o Tesouro dos Estados Unidos ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ibovespa-7-7-26-apsa/",
-      "time": "2026-07-07T20:29:40Z",
-      "cat": "economia",
-      "tickers": [
-        "PETR4"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/06/mercado-morning-ibovespa-wall-street-2.jpg"
+      "title": "Governo flexibiliza desconto na energia para irrigação; veja o impacto no SNAG11",
+      "summary": "O Ministério de Minas e Energia publicou uma portaria que altera as regras para concessão de descontos na tarifa de energia elétrica destinados às atividades de irrigação e aquicultura. A norma amplia a flexibilidade de ",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/governo-flexibiliza-desconto-na-energia-para-irrigacao-veja-o-impacto-no-snag11/",
+      "time": "2026-07-07T22:55:07Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/2_Close_de_m_os_revisa_1_2026017_17043-1-1-jpg.webp"
     },
     {
-      "title": "EUA revogam licença que autorizava venda de petróleo iraniano, diz autoridade",
-      "summary": "Os Estados Unidos revogaram uma licença geral que autorizava a venda de petróleo iraniano, afirmou uma autoridade norte-americana nesta terça-feira (7), alertando que as ações do Irã no Estreito de Ormuz eram “totalmente",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/eua-revogam-licenca-que-autorizava-venda-de-petroleo-iraniano-diz-autoridade-vtra/",
-      "time": "2026-07-07T20:28:33Z",
-      "cat": "internacional",
+      "title": "Em dia positivo para o TOPP11, IFIX fecha em queda de 0,17%",
+      "summary": "O IFIX encerrou o pregão desta terça-feira (7) aos 3.828,53 pontos, com queda de 0,17%. O recuo representou 6,48 pontos frente ao fechamento anterior, quando o índice havia terminado em 3.835,01 pontos. O resultado mante",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/em-dia-positivo-para-o-topp11-ifix-fecha-em-queda-de-017/",
+      "time": "2026-07-07T22:35:06Z",
+      "cat": "fundos",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/06/2026-06-26t103909z-1-lynxmpem5p0p3-rtroptp-4-iran-crisis-oman-hormuz-scaled.jpg"
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
+    },
+    {
+      "title": "BRCR11 anuncia novos dividendos para julho; veja valor e quem recebe",
+      "summary": "O fundo imobiliário BRCR11 (BTG Pactual Corporate Office Fund) informou uma nova distribuição de R$ 0,41 por cota em rendimentos. Terão direito ao pagamento os investidores posicionados no fundo ao fim do pregão desta te",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/brcr11-anuncia-novos-dividendos-para-julho-veja-valor-e-quem-recebe/",
+      "time": "2026-07-07T22:15:07Z",
+      "cat": "fundos",
+      "tickers": [
+        "BRCR11"
+      ],
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/45_Executivo_explicando_1_2026017_171124-1-jpg.webp"
+    },
+    {
+      "title": "Energia acelera captações; SNEL11 busca R$ 2,3 bi e ISA avalia oferta de R$ 650 mi",
+      "summary": "O setor de energia voltou a movimentar o mercado de capitais. Enquanto a ISA Energia (ISAE3) avalia uma oferta subsequente de ações de aproximadamente R$ 650 milhões, o fundo imobiliário SNEL11 mantém a quinta emissão de",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/energia-acelera-captacoes-snel11-busca-r-23-bi-e-isa-avalia-oferta-de-r-650-mi/",
+      "time": "2026-07-07T22:05:06Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/mercado-financeiro-investimentos-jpg.webp"
     },
     {
       "title": "Ibovespa recua com tensão no Oriente Médio, mas Petrobras (PETR4) evita queda maior",
@@ -204,48 +242,24 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/analista-financeiro-1_11.webp"
     },
     {
-      "title": "Petróleo perde prêmio de guerra, e DoE derruba previsão para o Brent",
-      "summary": "Petróleo perde prêmio de guerra, e DoE derruba previsão para o BrentO petróleo ficou mais barato no radar do governo americano depois que o risco geopolítico no Oriente Médio perdeu força. O Departamento de Energia dos E",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/petroleo-doe-previsao-brent-2026-2027-mt/",
-      "time": "2026-07-07T19:42:39Z",
+      "title": "Após eliminação, líderes da seleção fazem apelo à CBF para 2030",
+      "summary": "Danilo, Casemiro e Neymar defenderam estabilidade política e técnica para o próximo ciclo após a eliminação na Copa do Mundo 2026",
+      "source": "Exame",
+      "url": "https://exame.com/esporte/apos-eliminacao-lideres-da-selecao-fazem-apelo-a-cbf-para-2030/",
+      "time": "2026-07-07T19:47:20Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/05/casemiro-e-neymar-copa-do-mundo-convocacao.jpg"
+    },
+    {
+      "title": "Governo Lula critica Flávio por não pedir fim de tarifaço e sugerir subordinar PIX aos EUA",
+      "summary": "Senador participou de audiência pública do Escritório do Representante Comercial dos EUA nesta terça-feira",
+      "source": "Exame",
+      "url": "https://exame.com/brasil/governo-lula-diz-que-flavio-sugeriu-adiamento-de-tarifaco-contra-brasil-e-subordinar-pix-aos-eua/",
+      "time": "2026-07-07T18:58:43Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2026/01/49a1c43f-oil-rig-2191711_1280-jpg.webp"
-    },
-    {
-      "title": "Fundo Imobiliário OUJP11 convoca os cotistas para votação; entenda o cenário",
-      "summary": "O Fundo Imobiliário OUJP11 convocou seus cotistas para decidir sobre uma reorganização estrutural que, se aprovada, levará ao desmembramento do FII em dois fundos independentes. A proposta envolve a alienação integral da",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/fundo-imobiliario-oujp11-convoca-os-cotistas-para-votacao-entenda-o-cenario/",
-      "time": "2026-07-07T19:25:08Z",
-      "cat": "fundos",
-      "tickers": [
-        "OUJP11"
-      ],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/2_Close_de_m_os_revisa_1_2026017_17043-3-jpg.webp"
-    },
-    {
-      "title": "FII aprova oferta de R$ 100 mi em emissão para investidores profissionais",
-      "summary": "O fundo imobiliário ADSH11 (AD Shopping Fundo de Investimento Imobiliário) aprovou a segunda emissão de cotas, em oferta pública que poderá movimentar inicialmente R$ 100 milhões. A colocação foi aprovada por ato conjunt",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/fii-aprova-oferta-de-r-100-mi-em-emissao-para-investidores-profissionais/",
-      "time": "2026-07-07T18:45:16Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/analista-financeiro-1_10.webp"
-    },
-    {
-      "title": "Vale (VALE3) troca comando no conselho e mercado mede risco político",
-      "summary": "A Vale (VALE3) abriu a semana com mais um capítulo de governança no radar dos investidores. Daniel Stieler renunciou aos cargos de membro e presidente do Conselho de Administração da mineradora, com efeito imediato, ante",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/vale-vale3-conselho-risco-politico-governanca-mt/",
-      "time": "2026-07-07T18:45:07Z",
-      "cat": "acoes",
-      "tickers": [
-        "VALE3"
-      ],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/03/lula-e-Flavio-2-pb.jpg"
     },
     {
       "title": "Déficit comercial dos EUA cresce, mas exportações do Brasil caem ao menor nível",
@@ -268,24 +282,54 @@
       "image": "https://classic.exame.com/wp-content/uploads/2025/03/BC.jpeg"
     },
     {
-      "title": "Quantos anos Messi tem? Mesmo com idade avançada, craque é o artilheiro da Copa do Mundo",
-      "summary": "Mesmo em uma idade considerada avançada para o futebol de elite, camisa 10 segue sendo decisivo no Mundial",
-      "source": "Exame",
-      "url": "https://exame.com/esporte/quantos-anos-messi-tem-mesmo-com-idade-avancada-craque-e-o-artilheiro-da-copa-do-mundo/",
-      "time": "2026-07-07T18:15:25Z",
-      "cat": "economia",
+      "title": "Cury tem queda de 9,5% nas vendas líquidas do 2º tri",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/cury-tem-queda-de-95-nas-vendas-liquidas-do-2o-tri-1995146",
+      "time": "2026-07-07T22:42:08Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/AFP__20260617__B7CB6XQ__v1__HighRes__FblWc2026Match19ArgAlg.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEA8I09H_M.jpg"
     },
     {
-      "title": "PGR defende punição a ministro do STJ afastado por importunação sexual",
-      "summary": "O ministro tem denúncias de importunação sexual e é investigado após duas acusações; defesa nega irregularidades e apresentou laudo médico para contestar um dos relatos",
-      "source": "Exame",
-      "url": "https://exame.com/brasil/pgr-defende-punicao-a-ministro-do-stj-afastado-por-importunacao-sexual/",
-      "time": "2026-07-07T18:02:07Z",
+      "title": "Netflix, Disney e YouTube disputam pacote de direitos da Copa do Mundo por US$ 2 bilhões",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/netflix-disney-e-youtube-disputam-pacote-de-direitos-da-copa-do-mundo-por-us-2-bilhoes-1995115",
+      "time": "2026-07-07T22:03:15Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Ibovespa e dólar hoje: tensões no Oriente Médio e ata do Fed no radar",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-tensoes-no-oriente-medio-e-ata-do-fed-no-radar-1994895",
+      "time": "2026-07-07T22:00:02Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/12/Marco-Buzzi-Segunda-Secao-Superior-Tribunal-de-Justica.jpg"
+      "image": null
+    },
+    {
+      "title": "Credores da United PF Holdings discutem troca de dívida por participação acionária",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/credores-da-united-pf-holdings-discutem-troca-de-divida-por-participacao-acionaria-93CH-1995103",
+      "time": "2026-07-07T21:47:26Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Ações da MasTec sobem com aquisição da Superior Group por US$ 1,65 bi",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-mastec-sobem-com-aquisicao-da-superior-group-por-us-165-bi-93CH-1995102",
+      "time": "2026-07-07T21:44:44Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
       "title": "México - Ações fecharam o pregão em queda e o Índice S&P/BMV IPC recuou 1,17%",
@@ -306,67 +350,7 @@
       "cat": "fundos",
       "tickers": [],
       "image": null
-    },
-    {
-      "title": "Rússia - Ações fecharam o pregão em queda e o Índice MOEX Russia Index recuou 0,19%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/russia--acoes-fecharam-o-pregao-em-queda-e-o-indice-moex-russia-index-recuou-019-1995076",
-      "time": "2026-07-07T21:20:21Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Nasdaq tem forte queda com preocupações em torno da IA afetando fabricantes de chips",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/sp-500-fecha-em-baixacom-preocupacoes-com--ia-atingindo--fabricantes-de-chips-1994980",
-      "time": "2026-07-07T21:07:55Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM661AV_1200_L.jpg"
-    },
-    {
-      "title": "Risco à navegação no Estreito de Ormuz sobe para “grave” após ataques a navios-tanque",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/risco-a-navegacao-no-estreito-de-ormuz-sobe-para-grave-apos-ataques-a-naviostanque-1995037",
-      "time": "2026-07-07T20:56:25Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM661CF_1200_L.jpg"
-    },
-    {
-      "title": "Ações da Primo Water sobem com reestruturação de liderança",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-primo-water-sobem-com-reestruturacao-de-lideranca-93CH-1995035",
-      "time": "2026-07-07T20:53:59Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Ações da Children’s Place caem após saque de US$ 15 mi em linha de crédito",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-childrens-place-caem-apos-saque-de-us-15-mi-em-linha-de-credito-93CH-1995029",
-      "time": "2026-07-07T20:50:41Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "FuelCell Energy planeja oferta de ações entre US$ 21 e US$ 22",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/fuelcell-energy-planeja-oferta-de-acoes-entre-us-21-e-us-22-93CH-1995023",
-      "time": "2026-07-07T20:47:12Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "07/07/2026 21:53"
+  "atualizado_em": "07/07/2026 23:00"
 }
