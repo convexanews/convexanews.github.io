@@ -1,68 +1,148 @@
 {
   "headline": {
-    "title": "Federação do Irã ironiza eliminação dos EUA na Copa: “O mundo todo está dançando”",
-    "summary": "Entidade reagiu após derrota americana para a Bélgica e voltou a criticar declarações de autoridades dos EUA",
-    "source": "InfoMoney",
-    "url": "https://www.infomoney.com.br/esportes/federacao-do-ira-ironiza-eliminacao-dos-eua-na-copa-o-mundo-todo-esta-dancando/",
-    "time": "2026-07-07T15:34:04Z",
-    "cat": "internacional",
+    "title": "Samsung despenca após balanço recorde; entenda o motivo da queda",
+    "summary": "As ações da Samsung registraram forte queda nesta terça-feira (7), na bolsa de valores da Coreia do Sul, mesmo após a companhia divulgar um lucro operacional recorde no segundo trimestre. Os papéis chegaram a recuar mais",
+    "source": "Suno",
+    "url": "https://www.suno.com.br/noticias/samsung-cai-lucro-recorde-ia-acoes-jul26-go/",
+    "time": "2026-07-07T17:15:05Z",
+    "cat": "acoes",
     "tickers": [],
-    "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Captura-de-tela-2026-07-07-122959.png?fit=300%2C202&amp;quality=70&amp;strip=all"
+    "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
   },
   "featured": [
     {
-      "title": "Ações da RxSight despencam após corte nas projeções de vendas para 2026",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-rxsight-despencam-apos-corte-nas-projecoes-de-vendas-para-2026-93CH-1994740",
-      "time": "2026-07-07T15:34:38Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+      "title": "B3 lança Opções sobre contratos futuros de bitcoin (BTC), ethereum (ETH) e solana (SOL)",
+      "summary": "A B3 lançou na última segunda-feira (6) as Opções sobre contratos futuros deBitcoin (BIT), Ethereum (ETR) e Solana (SOL), ampliando a oferta de produtos ligados ao universo de criptoativos na bolsa brasileira. “O avanço ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/b3-lanca-opcoes-sobre-contratos-futuros-de-bitcoin-btc-ethereum-eth-e-solana-sol-rens/",
+      "time": "2026-07-07T17:00:14Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/centro-de-operacoes-b3-imagem-divulgacao.png"
     },
     {
-      "title": "Nem bancos, nem elétricas: rainha dos dividendos é a favorita de 14 analistas para julho",
-      "summary": "A Petrobras (PETR4) é a ação mais indicada na carteira consolidada de dividendos do Money Times para julho, que reúne as recomendações de 14 instituições. Com 10 indicações, a rainha dos dividendos da bolsa brasileira su",
+      "title": "Vale (VALE3): Renúncia de Stieler gera ruído, mas analistas veem risco político limitado",
+      "summary": "A renúncia de Daniel Stieler da presidência e do Conselho de Administração da Vale (VALE3) pode provocar um ruído de curto prazo entre investidores, mas analistas avaliam que o episódio não altera de forma relevante a te",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/nem-bancos-nem-eletricas-rainha-dos-dividendos-e-a-favorita-de-14-analistas-para-julho-pads/",
-      "time": "2026-07-07T15:29:43Z",
-      "cat": "fundos",
+      "url": "https://www.moneytimes.com.br/vale-vale3-renuncia-de-stieler-gera-ruido-mas-analistas-veem-risco-politico-limitado-vtra/",
+      "time": "2026-07-07T15:58:07Z",
+      "cat": "acoes",
       "tickers": [
-        "PETR4"
+        "VALE3"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/06/dividendos-banco-do-brasil-itau.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/vale.jpg"
     }
   ],
   "all": [
     {
-      "title": "Federação do Irã ironiza eliminação dos EUA na Copa: “O mundo todo está dançando”",
-      "summary": "Entidade reagiu após derrota americana para a Bélgica e voltou a criticar declarações de autoridades dos EUA",
+      "title": "Meta vê risco de multa de US$ 1,4 trilhão em ação sobre Facebook e Instagram",
+      "summary": "O valor, que não havia ‌sido divulgado anteriormente, é próximo da capitalização de mercado da Meta, em torno de US$1,5 trilhão",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/esportes/federacao-do-ira-ironiza-eliminacao-dos-eua-na-copa-o-mundo-todo-esta-dancando/",
-      "time": "2026-07-07T15:34:04Z",
+      "url": "https://www.infomoney.com.br/business/meta-ve-risco-de-multa-de-us-14-trilhao-em-acao-sobre-facebook-e-instagram/",
+      "time": "2026-07-07T17:55:37Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-29T181317Z_894935948_RC2GOJAX733N_RTRMADP_3_META-PLATFORMS-RESULTS.jpg?fit=300%2C194&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Europa estuda incluir calor extremo em teste de estresse para bancos",
+      "summary": "Autoridade avalia medir impacto de ondas de calor sobre crédito, perdas e atividade econômica",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/europa-estuda-incluir-calor-extremo-em-teste-de-estresse-para-bancos/",
+      "time": "2026-07-07T17:52:00Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Captura-de-tela-2026-07-07-122959.png?fit=300%2C202&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/460034358.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Alta do aluguel perde força em junho, mostra FGV",
-      "summary": "IVAR subiu 0,10% no mês e desacelerou para 4,46% em 12 meses, com recuo em São Paulo",
+      "title": "FGV: um único data center adiciona R$ 1,5 bi ao PIB e R$ 590 mi em renda do trabalho",
+      "summary": "Os números estão no estudo \"Potenciais Impactos Socioeconômicos da Consolidação do Brasil como Hub Internacional de Infraestrutura Digital na Era da Inteligência Artificial\", da FGV",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/alta-do-aluguel-perde-forca-em-junho-mostra-fgv/",
-      "time": "2026-07-07T15:24:50Z",
-      "cat": "acoes",
+      "url": "https://www.infomoney.com.br/business/fgv-um-unico-data-center-adiciona-r-15-bi-ao-pib-e-r-590-mi-em-renda-do-trabalho/",
+      "time": "2026-07-07T17:41:52Z",
+      "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/jakub-zerdzicki-RVk8EwpRwNs-unsplash.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/2025-12-21T230421Z_1895107206_RC274HA8C64G_RTRMADP_3_CHINA-ENERGYSTORAGE.jpg?fit=300%2C168&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "De Beers reduz preços de diamantes e sinaliza fim de estratégia para segurar mercado",
-      "summary": "Cortes amplos aproximam tabela oficial do mercado secundário em meio à crise do setor",
+      "title": "Bolsas da Europa fecham na maioria em queda com setor tech e em tensão em Ormuz",
+      "summary": "O setor de tecnologia recuou 3,5% com o temor sobre inteligência artificial, superando o alívio gerado pela produção industrial alemã e pela alta das petroleiras em dia de tensão em Ormuz",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/de-beers-reduz-precos-de-diamantes-e-sinaliza-fim-de-estrategia-para-segurar-mercado/",
-      "time": "2026-07-07T15:14:56Z",
+      "url": "https://www.infomoney.com.br/mercados/bolsas-da-europa-fecham-na-maioria-em-queda-com-setor-tech-e-em-tensao-em-ormuz/",
+      "time": "2026-07-07T17:40:44Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/04/2024-04-24T185107Z_1_LYNXNPEK3N0TK_RTROPTP_4_EUROPE-STOCKS.jpg?fit=300%2C192&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Dólar hoje sobe com Oriente Médio no foco",
+      "summary": "Na segunda-feira, a moeda norte-americana à vista fechou com queda de 0,71%, aos R$5,1322",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-07072026/",
+      "time": "2026-07-07T17:37:15Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-20T223032Z_1_LYNXMPEM2J18C_RTROPTP_3_AUSTRALIA-RBA-USD.jpg?fit=300%2C202&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "B3 lança Opções sobre contratos futuros de bitcoin (BTC), ethereum (ETH) e solana (SOL)",
+      "summary": "A B3 lançou na última segunda-feira (6) as Opções sobre contratos futuros deBitcoin (BIT), Ethereum (ETR) e Solana (SOL), ampliando a oferta de produtos ligados ao universo de criptoativos na bolsa brasileira. “O avanço ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/b3-lanca-opcoes-sobre-contratos-futuros-de-bitcoin-btc-ethereum-eth-e-solana-sol-rens/",
+      "time": "2026-07-07T17:00:14Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/centro-de-operacoes-b3-imagem-divulgacao.png"
+    },
+    {
+      "title": "‘O efeito é muito mais político do que comercial’: O que esperar da ação de Flávio Bolsonaro sobre o tarifaço, segundo especialista",
+      "summary": "As audiências envolvendo o senador e pré-candidato Flávio Bolsonaro e as tarifas comerciais dos EUA sobre o Brasil voltaram ao radar dos investidores. No entanto, o movimento tem um peso mais político do que comercial, s",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/efeito-e-muito-mais-politico-do-que-comercial-o-que-esperar-da-acao-de-flavio-bolsonaro-sobre-o-tarifaco-segundo-especialista-ceci/",
+      "time": "2026-07-07T16:59:34Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/460101629.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2025/07/tarifas-donald-trump-eua-e-ua-imagem-reutersdado-ruvicimagem-ilustrativa.png"
+    },
+    {
+      "title": "Banco Central aumenta fiscalização sobre criptomoedas e stablecoins; entenda como isso afeta o mercado brasileiro",
+      "summary": "O Banco Central publicou a Resolução BCB nº 580/2026 no início deste mês e vem apertando o cerco contra o mercado de criptomoedas nos últimos tempos. A norma enquadra as prestadoras de serviços de ativos virtuais (PSAVs)",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/banco-central-aumenta-fiscalizacao-sobre-criptomoedas-e-stablecoins-entenda-como-isso-afeta-o-mercado-brasileiro-rens/",
+      "time": "2026-07-07T16:32:45Z",
+      "cat": "cripto",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/banco-central-publica-regras-que-regulam-as-stablecoins-imagem-chatgpt-pro.png"
+    },
+    {
+      "title": "Europa: bolsas fecham na maioria em queda, sob pressão de ações de tecnologia e de olho em tensão em Ormuz",
+      "summary": "As bolsas europeias fecharam majoritariamente em queda nesta terça-feira, 7, pressionadas pela forte queda no setor de tecnologia, após o balanço da Samsung desencadear uma onda global de vendas em ações ligadas à inteli",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/europa-bolsas-fecham-na-maioria-em-queda-sob-pressao-do-setor-tech-de-olho-em-tensao-em-ormuz/",
+      "time": "2026-07-07T16:08:23Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/europa-2-2.jpg"
+    },
+    {
+      "title": "Vale (VALE3): Renúncia de Stieler gera ruído, mas analistas veem risco político limitado",
+      "summary": "A renúncia de Daniel Stieler da presidência e do Conselho de Administração da Vale (VALE3) pode provocar um ruído de curto prazo entre investidores, mas analistas avaliam que o episódio não altera de forma relevante a te",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/vale-vale3-renuncia-de-stieler-gera-ruido-mas-analistas-veem-risco-politico-limitado-vtra/",
+      "time": "2026-07-07T15:58:07Z",
+      "cat": "acoes",
+      "tickers": [
+        "VALE3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/vale.jpg"
     },
     {
       "title": "BTG vê temporada fraca para materiais básicos no 2º trimestre e aponta ação defensiva",
@@ -75,48 +155,24 @@
       "image": "https://www.moneytimes.com.br/uploads/2025/03/gerdau-ggbr4-goau4.jpg"
     },
     {
-      "title": "Nem bancos, nem elétricas: rainha dos dividendos é a favorita de 14 analistas para julho",
-      "summary": "A Petrobras (PETR4) é a ação mais indicada na carteira consolidada de dividendos do Money Times para julho, que reúne as recomendações de 14 instituições. Com 10 indicações, a rainha dos dividendos da bolsa brasileira su",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/nem-bancos-nem-eletricas-rainha-dos-dividendos-e-a-favorita-de-14-analistas-para-julho-pads/",
-      "time": "2026-07-07T15:29:43Z",
-      "cat": "fundos",
-      "tickers": [
-        "PETR4"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/06/dividendos-banco-do-brasil-itau.jpg"
-    },
-    {
-      "title": "Moura Dubeux (MDNE3): O que chamou a atenção dos analistas na prévia do 2T26; ação cai 5%",
-      "summary": "Negociadas fora do Ibovespa, as ações da Moura Dubeux (MDNE3) operam em queda nesta terça-feira (7), um dia após a divulgação da prévia operacional do segundo trimestre de 2026 (2T26). Apesar do movimento negativo do mer",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/moura-dubeux-mdne3-o-que-chamou-a-atencao-dos-analistas-na-previa-do-2t26-igdl/",
-      "time": "2026-07-07T15:27:28Z",
-      "cat": "acoes",
-      "tickers": [
-        "MDNE3"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/moura-dubeux.jpg"
-    },
-    {
-      "title": "Defesa de Flávio Bolsonaro pede a Fachin para trocar Flávio Dino por André Mendonça em investigação no caso ‘Dark Horse’",
-      "summary": "A defesa do senador Flávio Bolsonaro (PL) pediu ao presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, que a investigação sobre suposto repasse irregular de emendas a entidades ligadas à produção do film",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/defesa-de-flavio-bolsonaro-aciona-fachin-para-tirar-dino-de-caso-dark-horse-gaep/",
-      "time": "2026-07-07T14:55:41Z",
+      "title": "Samsung despenca após balanço recorde; entenda o motivo da queda",
+      "summary": "As ações da Samsung registraram forte queda nesta terça-feira (7), na bolsa de valores da Coreia do Sul, mesmo após a companhia divulgar um lucro operacional recorde no segundo trimestre. Os papéis chegaram a recuar mais",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/samsung-cai-lucro-recorde-ia-acoes-jul26-go/",
+      "time": "2026-07-07T17:15:05Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/55368717775-9b6a94552b-k.jpg"
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     },
     {
-      "title": "Enjoei (ENJU3): B3 estende prazo para ação voltar acima de R$ 1; empresa avalia grupamento dos papéis",
-      "summary": "A Enjoei (ENJU3) informou nesta segunda-feira (7), por meio de fato relevante, que recebeu da B3 um novo prazo para reenquadrar a cotação de suas ações ao valor mínimo de R$ 1,00 por papel. Segundo a companhia, a Bolsa b",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/enjoei-enju3-b3-estende-prazo-para-acao-voltar-acima-de-r-1-empresa-avalia-grupamento-ceci/",
-      "time": "2026-07-07T13:57:47Z",
+      "title": "Analistas veem SpaceX (SPCX) subir 40% e mirar receita de US$ 1 tri",
+      "summary": "A SpaceX (SPCX) não quer apenas lançar foguetes. Na visão do BTG Pactual, a companhia transformou o acesso ao espaço em uma espécie de avenida própria para capturar negócios que vão de internet via satélite a inteligênci",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/spacex-spcx-analistas-btg-compra-receita-us-1-trilhao-mt/",
+      "time": "2026-07-07T16:15:05Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/enjoei-enju3-imagem-divulgacao.png"
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/spacex-693229_1920-jpg.webp"
     },
     {
       "title": "Global X lança BDRs de ETFs de terras raras e IA na B3",
@@ -159,161 +215,95 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/9_Close_de_tela_de_not_1_2026017_155817-1-jpg.webp"
     },
     {
-      "title": "VRTA11: veja quanto R$ 15 mil renderam neste fundo de CRIs em 12 meses",
-      "summary": "A cota do fundo imobiliário VRTA11 ficou praticamente estável em 12 meses, com variação de 0,03%. Mesmo assim, uma aplicação de R$ 15 mil teria encerrado o período com montante superior ao inicial, puxada pela renda mens",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/vrta11-simulacao-12-meses-rendimentos/",
-      "time": "2026-07-07T12:15:07Z",
-      "cat": "acoes",
-      "tickers": [
-        "VRTA11"
-      ],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
-    },
-    {
-      "title": "B3 (B3SA3) e Afluente (AFLT3) pagam dividendos hoje; veja detalhes",
-      "summary": "B3 (B3SA3) e Afluente (AFLT3) pagam dividendos hoje; veja detalhesOs acionistas da B3 (B3SA3) e da Afluente (AFLT3) receberão nesta terça-feira os dividendos que serão distribuídos pelas companhias. Os rendimentos da B3 ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/a-b3-b3sa3-agenda-dividendos-07072026/",
-      "time": "2026-07-07T11:55:00Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2026/04/joelfotos-ballots-1195005-scaled-1-jpg.webp"
-    },
-    {
-      "title": "Ibovespa sente eliminação do Brasil e perde fôlego; foco agora é IPCA e Fed",
-      "summary": "Ibovespa sente eliminação do Brasil e perde fôlego; foco agora é IPCA e FedO Ibovespa começou a semana em campo defensivo. Mesmo com o avanço das bolsas em Nova York e um cenário doméstico relativamente favorável, o prin",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-06-julho-2026-fechamento-mt/",
-      "time": "2026-07-06T22:38:57Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
-    },
-    {
-      "title": "IFIX inicia semana em queda de 0,31%; MXRF11 negocia R$ 1,74 milhão",
-      "summary": "O IFIX terminou o pregão desta segunda-feira (6) aos 3.835,01 pontos, recuo de 0,31%, equivalente a 11,77 pontos em comparação ao encerramento anterior. O movimento manteve o índice no campo negativo ao fim da sessão, ap",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/ifix-inicia-semana-em-queda-de-031-mxrf11-negocia-r-174-milhao/",
-      "time": "2026-07-06T22:35:06Z",
-      "cat": "fundos",
-      "tickers": [
-        "MXRF11"
-      ],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/analista-explicando-1_10.webp"
-    },
-    {
-      "title": "DJ Khaled apostou no hexa e perdeu milhões com eliminação do Brasil da Copa",
-      "summary": "Astro da música investiu US$ 500 mil na conquista brasileira da Copa do Mundo de 2026 e viu o bilhete perder o valor com a queda diante da Noruega",
+      "title": "O melhor filme da carreira do Nolan? Críticos exaltam 'A Odisseia'",
+      "summary": "Primeira exibição para imprensa e convidados gera elogios ao elenco, à direção de Christopher Nolan e ao espetáculo visual",
       "source": "Exame",
-      "url": "https://exame.com/pop/dj-khaled-apostou-no-hexa-e-perdeu-milhoes-com-eliminacao-do-brasil-da-copa/",
-      "time": "2026-07-07T12:35:09Z",
+      "url": "https://exame.com/pop/o-melhor-filme-da-carreira-do-nolan-criticos-exaltam-a-odisseia/",
+      "time": "2026-07-07T14:21:12Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/AFP__20260705__2284781412__v1__HighRes__BrazilVNorwayRoundOf16FifaWorldCup2026.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/05/A-Odisseia-1.jpg"
     },
     {
-      "title": "Seara cresce no Oriente Médio e operação já fatura US$ 500 milhões, diz CEO",
-      "summary": "Com fábricas na Arábia Saudita e nos Emirados Árabes desde 2021, empresa da JBS aposta no mercado halal - que já é a segunda maior operação da companhia depois do Brasil, mesmo em meio a crise geopolítica",
+      "title": "Análise: estratégia de Flávio no tarifaço traz riscos políticos e poucos ganhos",
+      "summary": "Participação em audiência pública nos EUA coloca influência de presidenciável bolsonarista à prova",
       "source": "Exame",
-      "url": "https://exame.com/negocios/seara-cresce-no-oriente-medio-e-operacao-ja-fatura-us-500-milhoes-diz-ceo/",
-      "time": "2026-07-07T12:07:19Z",
+      "url": "https://exame.com/brasil/analise-estrategia-de-flavio-no-tarifaco-traz-riscos-politicos-e-poucos-ganhos/",
+      "time": "2026-07-07T13:44:42Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/CEO-DA-SEARA_119506.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/FlavioBolsonaro_EUA.jpg"
     },
     {
-      "title": "Polônia - Ações fecharam o pregão em queda e o Índice WIG30 recuou 0,41%",
+      "title": "Netflix divulga as primeiras imagens de 'Elize: Sombras de uma Mulher'; veja fotos",
+      "summary": "Produção retrata a trajetória de Elize Matsunaga, do casamento ao desfecho de um dos crimes mais conhecidos do país",
+      "source": "Exame",
+      "url": "https://exame.com/pop/netflix-divulga-as-primeiras-imagens-de-elize-sombras-de-uma-mulher-veja-fotos/",
+      "time": "2026-07-07T13:05:39Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/Elize-Sombras-de-uma-Mulher.jpeg"
+    },
+    {
+      "title": "Ações da Amrize despencam após rebaixamento da Truist por pressões no setor",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/polonia--acoes-fecharam-o-pregao-em-queda-e-o-indice-wig30-recuou-041-1994741",
-      "time": "2026-07-07T15:35:19Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/Warsaw_Stock_Exchange_M_1440056832.jpg"
-    },
-    {
-      "title": "Ações da RxSight despencam após corte nas projeções de vendas para 2026",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-rxsight-despencam-apos-corte-nas-projecoes-de-vendas-para-2026-93CH-1994740",
-      "time": "2026-07-07T15:34:38Z",
-      "cat": "internacional",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-amrize-despencam-apos-rebaixamento-da-truist-por-pressoes-no-setor-1994802",
+      "time": "2026-07-07T16:51:16Z",
+      "cat": "analise",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "SLCE3: Por que as ações da SLC Agrícola estão em alta hoje?",
+      "title": "Reino Unido - Ações fecharam o pregão em alta e o Índice Investing.com Reino Unido 100 avançou 0,16%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/slce3-por-que-as-acoes-da-slc-agricola-estao-em-alta-hoje-1994736",
-      "time": "2026-07-07T15:33:06Z",
-      "cat": "internacional",
-      "tickers": [
-        "SLCE3"
-      ],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEE5A1SE_M.jpg"
-    },
-    {
-      "title": "Turquia - Ações fecharam o pregão em alta e o Índice BIST 100 avançou 0,50%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/turquia--acoes-fecharam-o-pregao-em-alta-e-o-indice-bist-100-avancou-050-1994738",
-      "time": "2026-07-07T15:30:45Z",
+      "url": "https://br.investing.com/news/stock-market-news/reino-unido--acoes-fecharam-o-pregao-em-alta-e-o-indice-investingcom-reino-unido-100-avancou-016-1994775",
+      "time": "2026-07-07T16:09:10Z",
       "cat": "internacional",
       "tickers": [],
       "image": null
     },
     {
-      "title": "Dinamarca - Ações fecharam o pregão em alta e o Índice OMX Copenhagen 20 avançou 1,06%",
+      "title": "Espanha - Ações fecharam o pregão em queda e o Índice IBEX 35 recuou 0,22%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/dinamarca--acoes-fecharam-o-pregao-em-alta-e-o-indice-omx-copenhagen-20-avancou-106-1994737",
-      "time": "2026-07-07T15:30:20Z",
+      "url": "https://br.investing.com/news/stock-market-news/espanha--acoes-fecharam-o-pregao-em-queda-e-o-indice-ibex-35-recuou-022-1994774",
+      "time": "2026-07-07T16:08:43Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/bmachada1_p1_M_1440050351.jpg"
+    },
+    {
+      "title": "Portugal - Ações fecharam o pregão em alta e o Índice PSI avançou 0,35%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/portugal--acoes-fecharam-o-pregao-em-alta-e-o-indice-psi-avancou-035-1994773",
+      "time": "2026-07-07T16:08:19Z",
       "cat": "internacional",
       "tickers": [],
       "image": null
     },
     {
-      "title": "Marrocos - Ações fecharam o pregão em queda e o Índice Moroccan All Shares recuou 0,96%",
+      "title": "Holanda - Ações fecharam o pregão em queda e o Índice AEX recuou 0,32%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/marrocos--acoes-fecharam-o-pregao-em-queda-e-o-indice-moroccan-all-shares-recuou-096-1994719",
-      "time": "2026-07-07T15:10:19Z",
+      "url": "https://br.investing.com/news/stock-market-news/holanda--acoes-fecharam-o-pregao-em-queda-e-o-indice-aex-recuou-032-1994772",
+      "time": "2026-07-07T16:07:53Z",
       "cat": "internacional",
       "tickers": [],
-      "image": null
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0Q0MJ_M.jpg"
     },
     {
-      "title": "Economista da Apollo aponta estagnação de margens do S&P 493 como risco para Big Tech",
+      "title": "Itália - Ações fecharam o pregão em queda e o Índice Investing.com Itália 40 recuou 0,88%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/economista-da-apollo-aponta-estagnacao-de-margens-do-sp-493-como-risco-para-big-tech-93CH-1994707",
-      "time": "2026-07-07T15:01:41Z",
+      "url": "https://br.investing.com/news/stock-market-news/italia--acoes-fecharam-o-pregao-em-queda-e-o-indice-investingcom-italia-40-recuou-088-1994771",
+      "time": "2026-07-07T16:07:25Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Noruega - Ações fecharam o pregão em alta e o Índice Oslo OBX avançou 0,53%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/noruega--acoes-fecharam-o-pregao-em-alta-e-o-indice-oslo-obx-avancou-053-1994706",
-      "time": "2026-07-07T15:00:47Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6208D_M.jpg"
-    },
-    {
-      "title": "Israel - Ações fecharam o pregão em queda e o Índice TA 35 recuou 1,95%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/israel--acoes-fecharam-o-pregao-em-queda-e-o-indice-ta-35-recuou-195-1994705",
-      "time": "2026-07-07T15:00:21Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": null
+      "image": "https://i-invdn-com.investing.com/news/Borsa-milan_M_1440048322.jpg"
     }
   ],
-  "atualizado_em": "07/07/2026 15:43"
+  "atualizado_em": "07/07/2026 17:58"
 }
