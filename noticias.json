@@ -77,16 +77,6 @@
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-09T194503Z_1_LYNXMPEM480DO_RTROPTP_4_IRAN-CRISIS-OMAN-HORMUZ.jpg?fit=300%2C197&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Técnico do Egito critica arbitragem e diz que não vai mais assistir à Copa",
-      "summary": "Hossam Hassan reclama de gol anulado, pênalti não marcado e fala em derrota injusta contra a Argentina",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/esportes/tecnico-do-egito-critica-arbitragem-e-diz-que-nao-vai-mais-assistir-a-copa/",
-      "time": "2026-07-07T21:28:01Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-07T210033Z_1_LYNXMPEM661D8_RTROPTP_4_SOCCER-WORLDCUP-ARG-EGY.jpg?fit=300%2C211&amp;quality=70&amp;strip=all"
-    },
-    {
       "title": "Raízen (RAIZ4): Banco Central da Noruega reduz participação",
       "summary": "A Raízen (RAIZ4) informou nesta terça-feira (7), por meio de comunicado ao mercado, que recebeu correspondência do Norges Bank Investment Management (Banco Central da Noruega) comunicando a redução de sua participação ac",
       "source": "Money Times",
@@ -140,6 +130,28 @@
       "cat": "internacional",
       "tickers": [],
       "image": "https://www.moneytimes.com.br/uploads/2026/07/selic-juros-inflacao-.jpg"
+    },
+    {
+      "title": "HGRE11 rescinde venda e terreno volta a ficar disponível para negociações",
+      "summary": "O fundo imobiliário HGRE11 (Pátria Escritórios) comunicou nesta terça-feira (7) a assinatura de um distrato para encerrar o compromisso de venda de um terreno nas ruas da Alegria e Visconde de Parnaíba, na região central",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/hgre11-rescinde-venda-e-terreno-volta-a-ficar-disponivel-para-negociacoes/",
+      "time": "2026-07-07T23:55:06Z",
+      "cat": "acoes",
+      "tickers": [
+        "HGRE11"
+      ],
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/executivo-analisando-1_01-1.webp"
+    },
+    {
+      "title": "FII GAME11 lucra R$ 3,16 mi, supera benchmark e reforça reservas de dividendos",
+      "summary": "O fundo imobiliário GAME11 apurou em maio resultado líquido de R$ 3,16 milhões, correspondente a R$ 0,111 por cota. O desempenho foi sustentado principalmente pela atualização monetária dos ativos indexados ao IPCA que c",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/fii-game11-lucra-r-316-mi-supera-benchmark-e-reforca-reservas-de-dividendos/",
+      "time": "2026-07-07T23:15:04Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/163_Analista_observando__1_2026017_173849-1-jpg.webp"
     },
     {
       "title": "Governo flexibiliza desconto na energia para irrigação; veja o impacto no SNAG11",
@@ -230,16 +242,34 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/153_Detalhe_de_gr_fico_f_1_2026017_173633-1-jpg.webp"
     },
     {
-      "title": "RECR11 anuncia dividendos para julho; veja valor, datas e quem tem direito",
-      "summary": "O RECR11 confirmou nova distribuição de rendimentos referente a junho de 2026. O fundo pagará R$ 1,0759 por cota aos investidores elegíveis, em linha com o calendário divulgado para o mês de julho. O fundo imobiliário RE",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/recr11-anuncia-dividendos-para-julho-veja-valor-datas-e-quem-tem-direito/",
-      "time": "2026-07-07T20:25:09Z",
-      "cat": "fundos",
-      "tickers": [
-        "RECR11"
-      ],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/analista-financeiro-1_11.webp"
+      "title": "Com quartas definidas, Brasil tem sua segunda pior colocação em Copas do Mundo",
+      "summary": "A definição da classificação final foi influenciada pelos resultados das demais seleções eliminadas",
+      "source": "Exame",
+      "url": "https://exame.com/esporte/com-quartas-definidas-brasil-tem-sua-segunda-pior-colocacao-em-copas-do-mundo/",
+      "time": "2026-07-07T20:47:28Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/d65455556d87a25acbddd8cb8d08596cb6e5b344.jpg"
+    },
+    {
+      "title": "Remédio em São Paulo pode ter variação de até 2.400% no preço, aponta Procon",
+      "summary": "Foram analisados preços em dez farmácias físicas, distribuídas pelas cinco regiões da capital paulista",
+      "source": "Exame",
+      "url": "https://exame.com/economia/remedio-em-sao-paulo-pode-ter-variacao-de-ate-2-400-no-preco-aponta-procon/",
+      "time": "2026-07-07T20:34:25Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2020/06/Drogaria-São-Paulo_Interna-2.jpg"
+    },
+    {
+      "title": "Ações de fabricantes chinesas de chips disparam com avanço da demanda por IA",
+      "summary": "O movimento foi reforçado pela expectativa em torno da estreia da sul-coreana SK Hynix na Nasdaq e pela previsão de novos aumentos nos preços desses componentes",
+      "source": "Exame",
+      "url": "https://exame.com/tecnologia/acoes-de-fabricantes-chinesas-de-chips-disparam-com-avanco-da-demanda-por-ia/",
+      "time": "2026-07-07T20:04:04Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2025/08/chips-nvidia.jpg"
     },
     {
       "title": "Após eliminação, líderes da seleção fazem apelo à CBF para 2030",
@@ -250,36 +280,6 @@
       "cat": "economia",
       "tickers": [],
       "image": "https://classic.exame.com/wp-content/uploads/2026/05/casemiro-e-neymar-copa-do-mundo-convocacao.jpg"
-    },
-    {
-      "title": "Governo Lula critica Flávio por não pedir fim de tarifaço e sugerir subordinar PIX aos EUA",
-      "summary": "Senador participou de audiência pública do Escritório do Representante Comercial dos EUA nesta terça-feira",
-      "source": "Exame",
-      "url": "https://exame.com/brasil/governo-lula-diz-que-flavio-sugeriu-adiamento-de-tarifaco-contra-brasil-e-subordinar-pix-aos-eua/",
-      "time": "2026-07-07T18:58:43Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/03/lula-e-Flavio-2-pb.jpg"
-    },
-    {
-      "title": "Déficit comercial dos EUA cresce, mas exportações do Brasil caem ao menor nível",
-      "summary": "Déficit comercial americano em bens e serviços chegou a US$ 77,6 bilhões em maio, alta de mais de 42% em relação ao mês anterior, diz Departamento de Comércio dos EUA",
-      "source": "Exame",
-      "url": "https://exame.com/mundo/deficit-comercial-dos-eua-cresce-mas-exportacoes-do-brasil-caem-ao-menor-nivel/",
-      "time": "2026-07-07T18:38:28Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/Donald-Trump.jpg"
-    },
-    {
-      "title": "Excesso de obrigações de empresas cripto pode ter levado BC a adiar reporte obrigatório",
-      "summary": "Executivo diz que o mais importante para as companhias agora é garantir o envio de documentos para o processo de licença de PSAV",
-      "source": "Exame",
-      "url": "https://exame.com/future-of-money/excesso-de-obrigacoes-de-empresas-cripto-pode-ter-levado-bc-a-adiar-reporte-obrigatorio/",
-      "time": "2026-07-07T18:28:03Z",
-      "cat": "cripto",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/03/BC.jpeg"
     },
     {
       "title": "Cury tem queda de 9,5% nas vendas líquidas do 2º tri",
@@ -352,5 +352,5 @@
       "image": null
     }
   ],
-  "atualizado_em": "07/07/2026 23:00"
+  "atualizado_em": "07/07/2026 23:57"
 }
