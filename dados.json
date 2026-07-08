@@ -10881,18 +10881,18 @@
     "BTC": {
       "stock": "BTC",
       "name": "BTC",
-      "close": 61759.56,
-      "change": -2.43,
-      "volume": 31681308672,
+      "close": 62245.09,
+      "change": -1.66,
+      "volume": 33002362880,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
       "dy": null,
       "pvp": null,
-      "perf_1m": -4.13,
-      "perf_3m": -24.15,
-      "perf_6m": -15.06,
-      "perf_12m": -43.88,
+      "perf_1m": -3.37,
+      "perf_3m": -23.56,
+      "perf_6m": -14.39,
+      "perf_12m": -43.44,
       "spark": [
         108950.27,
         117300.79,
@@ -10923,24 +10923,24 @@
         77539.17,
         66703.66,
         65710.4,
-        61759.56
+        62245.09
       ]
     },
     "ETH": {
       "stock": "ETH",
       "name": "ETH",
-      "close": 1730.13,
-      "change": -2.17,
-      "volume": 10698032128,
+      "close": 1743.55,
+      "change": -1.41,
+      "volume": 10841300992,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
       "dy": null,
       "pvp": null,
-      "perf_1m": -1.02,
-      "perf_3m": -26.4,
-      "perf_6m": -18.64,
-      "perf_12m": -55.68,
+      "perf_1m": -0.25,
+      "perf_3m": -25.83,
+      "perf_6m": -18.01,
+      "perf_12m": -55.33,
       "spark": [
         2615.51,
         3759.47,
@@ -10971,24 +10971,24 @@
         2131.41,
         1857.72,
         1724.61,
-        1730.13
+        1743.55
       ]
     },
     "SOL": {
       "stock": "SOL",
       "name": "SOL",
-      "close": 77.02,
-      "change": -4.5,
-      "volume": 2678724096,
+      "close": 77.43,
+      "change": -3.99,
+      "volume": 2673228544,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
       "dy": null,
       "pvp": null,
-      "perf_1m": 7.07,
-      "perf_3m": -13.6,
-      "perf_6m": -15.21,
-      "perf_12m": -60.38,
+      "perf_1m": 7.64,
+      "perf_3m": -13.14,
+      "perf_6m": -14.76,
+      "perf_12m": -60.17,
       "spark": [
         151.81,
         181.55,
@@ -11019,24 +11019,24 @@
         87.16,
         74.14,
         71.17,
-        77.02
+        77.43
       ]
     },
     "ADA": {
       "stock": "ADA",
       "name": "ADA",
       "close": 0.17,
-      "change": -5.27,
-      "volume": 372780480,
+      "change": -4.18,
+      "volume": 377962272,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
       "dy": null,
       "pvp": null,
-      "perf_1m": -0.77,
-      "perf_3m": -38.02,
-      "perf_6m": -40.13,
-      "perf_12m": -74.18,
+      "perf_1m": 0.37,
+      "perf_3m": -37.31,
+      "perf_6m": -39.44,
+      "perf_12m": -73.88,
       "spark": [
         0.59,
         0.86,
@@ -11073,18 +11073,18 @@
     "XRP": {
       "stock": "XRP",
       "name": "XRP",
-      "close": 1.08,
-      "change": -3.21,
-      "volume": 1585079296,
+      "close": 1.09,
+      "change": -2.41,
+      "volume": 1610597248,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
       "dy": null,
       "pvp": null,
-      "perf_1m": -9.2,
-      "perf_3m": -24.47,
-      "perf_6m": -24.76,
-      "perf_12m": -57.83,
+      "perf_1m": -8.45,
+      "perf_3m": -23.84,
+      "perf_6m": -24.14,
+      "perf_12m": -57.48,
       "spark": [
         2.31,
         3.46,
@@ -11115,24 +11115,24 @@
         1.37,
         1.21,
         1.19,
-        1.08
+        1.09
       ]
     },
     "BNB": {
       "stock": "BNB",
       "name": "BNB",
-      "close": 560.34,
-      "change": -2.85,
-      "volume": 1149551488,
+      "close": 564.3,
+      "change": -2.17,
+      "volume": 1165056896,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
       "dy": null,
       "pvp": null,
-      "perf_1m": -6.76,
-      "perf_3m": -13.47,
-      "perf_6m": -14.82,
-      "perf_12m": -49.39,
+      "perf_1m": -6.1,
+      "perf_3m": -12.86,
+      "perf_6m": -14.22,
+      "perf_12m": -49.03,
       "spark": [
         660.76,
         757.74,
@@ -11163,24 +11163,24 @@
         657.35,
         650.43,
         616.09,
-        560.34
+        564.3
       ]
     },
     "DOGE": {
       "stock": "DOGE",
       "name": "DOGE",
       "close": 0.07,
-      "change": -4.1,
-      "volume": 675360960,
+      "change": -3.13,
+      "volume": 672913344,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
       "dy": null,
       "pvp": null,
-      "perf_1m": -17.08,
-      "perf_3m": -36.72,
-      "perf_6m": -28.16,
-      "perf_12m": -63.02,
+      "perf_1m": -16.24,
+      "perf_3m": -36.08,
+      "perf_6m": -27.43,
+      "perf_12m": -62.65,
       "spark": [
         0.17,
         0.27,
@@ -11239,14 +11239,14 @@
   },
   "dolar": {
     "stock": "USD/BRL",
-    "close": 5.1549,
-    "change": 0.22
+    "close": 5.156,
+    "change": 0.24
   },
-  "atualizado_em": "08/07/2026 09:25",
+  "atualizado_em": "08/07/2026 11:46",
   "euro": {
     "stock": "EUR/BRL",
-    "close": 5.8798,
-    "change": 0.02
+    "close": 5.8786,
+    "change": -0.01
   },
   "di_futuro": [
     {
@@ -11309,32 +11309,32 @@
   "commodities": {
     "OURO": {
       "stock": "Ouro",
-      "close": 4067.5,
-      "change": -1.88,
+      "close": 4055.8,
+      "change": -2.16,
       "unidade": "US$/onça"
     },
     "PRATA": {
       "stock": "Prata",
-      "close": 58.88,
-      "change": -3.37,
+      "close": 58.72,
+      "change": -3.63,
       "unidade": "US$/onça"
     },
     "BRENT": {
       "stock": "Petróleo Brent",
-      "close": 78.94,
-      "change": 6.45,
+      "close": 78.58,
+      "change": 5.96,
       "unidade": "US$/barril"
     },
     "WTI": {
       "stock": "Petróleo WTI",
-      "close": 75.07,
-      "change": 6.57,
+      "close": 74.51,
+      "change": 5.78,
       "unidade": "US$/barril"
     },
     "GAS": {
       "stock": "Gás Natural",
-      "close": 3.33,
-      "change": 1.99,
+      "close": 3.31,
+      "change": 1.38,
       "unidade": "US$/MMBtu"
     },
     "COBRE": {
@@ -11351,28 +11351,28 @@
     },
     "SOJA": {
       "stock": "Soja",
-      "close": 1200.25,
-      "change": 0.29,
+      "close": 1200.75,
+      "change": 0.33,
       "unidade": "¢/bushel"
     },
     "MILHO": {
       "stock": "Milho",
-      "close": 464.0,
-      "change": 4.86,
+      "close": 463.75,
+      "change": 4.8,
       "unidade": "¢/bushel"
     },
     "CAFE": {
       "stock": "Café",
-      "close": 299.65,
-      "change": -9.64,
+      "close": 314.85,
+      "change": -5.05,
       "unidade": "¢/libra"
     },
     "ACUCAR": {
       "stock": "Açúcar",
-      "close": 15.23,
-      "change": 0.59,
+      "close": 15.28,
+      "change": 0.92,
       "unidade": "¢/libra"
     }
   },
-  "atualizado_iso": "2026-07-08T09:25:24Z"
+  "atualizado_iso": "2026-07-08T11:46:24Z"
 }
