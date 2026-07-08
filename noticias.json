@@ -1,98 +1,166 @@
 {
   "headline": {
-    "title": "Ata do Fed sai hoje: o que esperar sobre novos rumos dos juros nos EUA",
-    "summary": "Inflação acima da meta mantém debate interno sobre o futuro da política monetária americana \\",
-    "source": "Exame",
-    "url": "https://exame.com/invest/mercados/ata-do-fed-sai-hoje-o-que-esperar-sobre-novos-rumos-dos-juros-nos-eua/",
-    "time": "2026-07-08T11:48:36Z",
-    "cat": "economia",
-    "tickers": [],
-    "image": "https://classic.exame.com/wp-content/uploads/2025/06/GettyImages-1783893975.jpg"
+    "title": "Ibovespa Hoje Ao Vivo: Bolsa cai 1% com tensões geopolíticas; VALE3 despenca 4%",
+    "summary": "Bolsas dos EUA recuam após Trump declarar fim do cessar-fogo com Irã",
+    "source": "InfoMoney",
+    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-08072026/",
+    "time": "2026-07-08T15:52:08Z",
+    "cat": "acoes",
+    "tickers": [
+      "VALE3"
+    ],
+    "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Ibovespa-ao-vivo-bolsa-de-valores-23.png?fit=300%2C186&amp;quality=70&amp;strip=all"
   },
   "featured": [
     {
-      "title": "Qual a diferença entre IPCA e INPC? Veja o que muda entre os dois índices",
-      "summary": "Ambos medem a alta dos preços, mas consideram públicos diferentes e servem de referência para situações distintas",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/minhas-financas/diferenca-ipca-e-inpc/",
-      "time": "2026-07-08T15:15:42Z",
+      "title": "Tesouro IPCA+: juro real recorde impulsiona corrida de investidores e vendas saltam 73% no semestre",
+      "summary": "A disparada das taxas do Tesouro IPCA+ no primeiro semestre de 2026 desencadeou uma corrida dos investidores pelos títulos públicos atrelados à inflação. As vendas da modalidade somaram R$ 18,8 bilhões entre janeiro e ju",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/tesouro-ipca-juro-real-recorde-impulsiona-corrida-de-investidores-e-vendas-saltam-73-no-semestre-jcav/",
+      "time": "2026-07-08T16:39:31Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/IPCA-e-INPC.jpg?fit=300%2C186&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/mercados-juros-economia-.jpg"
     },
     {
-      "title": "Petróleo dispara e fica próximo dos US$ 80 após ameaça do Irã de fechar o Estreito de Ormuz",
-      "summary": "Os preços do petróleo voltaram a ganhar fôlego nesta quarta-feira (8) após o Irã ameaçar um novo fechamento do Estreito de Ormuz, caso seja atacado pelos Estados Unidos, segundo a rede televisiva iraniana Press TV. O paí",
+      "title": "Sem licitação, Banco do Brasil (BBAS3) fecha contrato de R$ 2,3 bilhões com Correios",
+      "summary": "O Banco do Brasil (BBAS3) fechou um contrato de até R$ 2,3 bilhões com os Correios para a prestação de serviços postais pelos próximos cinco anos. A informação foi divulgada pelo banco em comunicado ao mercado nesta terç",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/petroleo-intradia-8-7-26-apsa/",
-      "time": "2026-07-08T15:04:32Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/12/petroleo-brent-.jpg"
+      "url": "https://www.moneytimes.com.br/sem-licitacao-banco-do-brasil-bbas3-fecha-contrato-de-r-23-bilhoes-com-correios/",
+      "time": "2026-07-08T16:43:48Z",
+      "cat": "acoes",
+      "tickers": [
+        "BBAS3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/correios-entregas-sedex2.jpg"
     }
   ],
   "all": [
     {
-      "title": "Qual a diferença entre IPCA e INPC? Veja o que muda entre os dois índices",
-      "summary": "Ambos medem a alta dos preços, mas consideram públicos diferentes e servem de referência para situações distintas",
+      "title": "Bolsas da Europa fecham em queda com cessar-fogo EUA-Irã ameaçado; Madri lidera baixa",
+      "summary": "As declarações de Donald Trump sobre o fim do cessar-fogo e a ameaça de cortar o comércio com os espanhóis derrubaram os mercados, liderados pelas perdas em Madri",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/minhas-financas/diferenca-ipca-e-inpc/",
-      "time": "2026-07-08T15:15:42Z",
-      "cat": "economia",
+      "url": "https://www.infomoney.com.br/mercados/bolsas-da-europa-fecham-em-queda-com-cessar-fogo-eua-ira-ameacado-madri-lidera-baixa/",
+      "time": "2026-07-08T16:21:56Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/IPCA-e-INPC.jpg?fit=300%2C186&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/04/2024-04-24T185107Z_1_LYNXNPEK3N0TK_RTROPTP_4_EUROPE-STOCKS.jpg?fit=300%2C192&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Bank of America considerava a OpenAI arriscada demais, mas agora quer lucrar com IPO",
-      "summary": "Após rejeitar pedido anterior, banco liberou crédito à OpenAI de olho em uma das maiores listagens dos EUA",
+      "title": "Por que o Ibovespa recua nesta quarta, mesmo com forte alta de petroleiras?",
+      "summary": "Os papéis da Vale recuam cerca de 3%, após o Morgan Stanley rebaixar a recomendação da Vale de overweight (equivalente à compra) para equal-weight (neutro)",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/bank-of-america-considerava-a-openai-arriscada-demais-mas-agora-quer-lucrar-com-ipo/",
-      "time": "2026-07-08T15:11:48Z",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-abertura-fechamento-08072026/",
+      "time": "2026-07-08T16:09:08Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/460064745.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/b3-bolsa-acoes.webp?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Natura (NATU3) sobe mais de 5% mesmo após prévia de lucro 10% menor no 2T",
-      "summary": "Mesmo com as projeções mais pessimistas de lucro, a companhia afirmou esperar uma melhora na margem EBITDA",
+      "title": "Rússia proíbe exportação de diesel para aumentar oferta interna",
+      "summary": "A medida foi anunciada pelo vice-primeiro-ministro Alexander Novak como uma resposta para conter problemas generalizados de abastecimento e escassez no mercado interno do país",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/natura-natu3-sobe-mais-de-5-mesmo-apos-previa-do-2t-com-lucro-10-menor/",
-      "time": "2026-07-08T15:07:18Z",
+      "url": "https://www.infomoney.com.br/mundo/russia-proibe-exportacao-de-diesel-para-aumentar-oferta-interna/",
+      "time": "2026-07-08T16:00:58Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-04T173533Z_1_LYNXMPEM531C1_RTROPTP_4_RUSSIA-TANZANIA.jpg?fit=300%2C222&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Comissão convoca Mauro Vieira para explicar risco de ação militar dos EUA no Brasil",
+      "summary": "Convocação ocorre após Itamaraty dizer que medida dos EUA pode ter impacto sobre a soberania nacional",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/comissao-convoca-mauro-vieira-para-explicar-risco-de-acao-militar-dos-eua-no-brasil/",
+      "time": "2026-07-08T15:57:02Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/lula8627-1.webp?fit=300%2C225&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Ibovespa Hoje Ao Vivo: Bolsa cai 1% com tensões geopolíticas; VALE3 despenca 4%",
+      "summary": "Bolsas dos EUA recuam após Trump declarar fim do cessar-fogo com Irã",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-08072026/",
+      "time": "2026-07-08T15:52:08Z",
+      "cat": "acoes",
+      "tickers": [
+        "VALE3"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Ibovespa-ao-vivo-bolsa-de-valores-23.png?fit=300%2C186&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Petróleo reacende alerta para inflação e pode travar queda dos juros no Brasil",
+      "summary": "Analistas dizem que alta do barril pode pressionar combustíveis, fretes, dólar e expectativas, mesmo com o Brasil sendo produtor da commodity",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/petroleo-reacende-alerta-para-inflacao-e-pode-travar-queda-dos-juros-no-brasil/",
+      "time": "2026-07-08T15:47:19Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/ChatGPT-Image-8-de-jul.-de-2026-12_40_12.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Sem licitação, Banco do Brasil (BBAS3) fecha contrato de R$ 2,3 bilhões com Correios",
+      "summary": "O Banco do Brasil (BBAS3) fechou um contrato de até R$ 2,3 bilhões com os Correios para a prestação de serviços postais pelos próximos cinco anos. A informação foi divulgada pelo banco em comunicado ao mercado nesta terç",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/sem-licitacao-banco-do-brasil-bbas3-fecha-contrato-de-r-23-bilhoes-com-correios/",
+      "time": "2026-07-08T16:43:48Z",
+      "cat": "acoes",
+      "tickers": [
+        "BBAS3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/correios-entregas-sedex2.jpg"
+    },
+    {
+      "title": "Tesouro IPCA+: juro real recorde impulsiona corrida de investidores e vendas saltam 73% no semestre",
+      "summary": "A disparada das taxas do Tesouro IPCA+ no primeiro semestre de 2026 desencadeou uma corrida dos investidores pelos títulos públicos atrelados à inflação. As vendas da modalidade somaram R$ 18,8 bilhões entre janeiro e ju",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/tesouro-ipca-juro-real-recorde-impulsiona-corrida-de-investidores-e-vendas-saltam-73-no-semestre-jcav/",
+      "time": "2026-07-08T16:39:31Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/mercados-juros-economia-.jpg"
+    },
+    {
+      "title": "Crédito privado: BTG escolhe 9 títulos para colocar na carteira em julho",
+      "summary": "O BTG Pactual promoveu apenas uma alteração em sua carteira de títulos incentivados de crédito privado para julho. A equipe incluiu a debênture incentivada da Equatorial Goiás (CGOSA2) e retirou o papel da Energisa Paraí",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/credito-privado-btg-escolhe-9-titulos-para-colocar-na-carteira-em-julho-jcav/",
+      "time": "2026-07-08T16:20:58Z",
+      "cat": "analise",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/credito-privado-debentures-cri-cra-lci-lca.jpg"
+    },
+    {
+      "title": "Ações da Natura (NATU3) sobem até 6% mesmo após previsão de queda na receita; JP Morgan mantém compra, mas acende alerta",
+      "summary": "As ações da Natura (NATU3) operam na ponta positiva do Ibovespa (IBOV) no pregão desta quarta-feira (8), após a companhia de cosméticos divulgar dados preliminares do segundo trimestre de 2026 (2T26) que antecipam uma po",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/acoes-da-natura-natu3-saltam-mesmo-apos-previsao-de-queda-na-receita-jp-morgan-mantem-compra-mas-acende-alerta-lmrs/",
+      "time": "2026-07-08T16:12:51Z",
       "cat": "acoes",
       "tickers": [
         "NATU3"
       ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/03/Captura-de-tela-2025-03-17-094531.png?fit=300%2C172&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/natura-.jpg"
     },
     {
-      "title": "Barsi Investimentos dobra de tamanho ao adquirir a Diagrama; quer R$ 20 bi até 2030",
-      "summary": "A operação adiciona R$ 900 milhões em ativos, 35 assessores e cerca de 4 mil novos clientes à estrutura",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/advisor/barsi-investimentos-dobra-de-tamanho-ao-adquirir-a-diagrama-quer-r-20-bi-ate-2030/",
-      "time": "2026-07-08T15:00:00Z",
+      "title": "Justiça Eleitoral amplia fiscalização com auditoria para apurar cumprimento de cota de gênero nas eleições",
+      "summary": "O Ministério Público Eleitoral (MPE) e os tribunais regionais eleitorais mudaram a estratégia de fiscalização sobre o cumprimento da cota de gênero de 30% de candidaturas femininas nas eleições 2026. O processo de verifi",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/justica-eleitoral-amplia-fiscalizacao-com-auditoria-para-apurar-cumprimento-de-cota-de-genero-nas-eleicoes-gaep/",
+      "time": "2026-07-08T15:27:09Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/dji-0062-scaled.jpg"
+    },
+    {
+      "title": "Pix restrito: A medida do BC que pode impactar bancos e fintechs com falhas na segurança",
+      "summary": "O Banco Central (BC) avalia restringir o acesso ao Pix de bancos e fintechs que apresentarem falhas em sua segurança cibernética. Nos últimos 12 meses, o órgão registrou mais de R$ 1,5 bilhão em desvios provocados por at",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/pix-restrito-medida-bc-imapcta-bancos-e-fintechs-garg/",
+      "time": "2026-07-08T15:24:51Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/01/MOV3726.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Bolsas de NY operam em queda após Trump dizer que cessar-fogo EUA-Irã “acabou”",
-      "summary": "A retomada dos ataques dos EUA contra o Irã no fim da noite de terça (7) reverteu o tom positivo dos mercados financeiros e a esperança de normalização do tráfego pelo Estreito de Ormuz",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/bolsas-de-ny-operam-em-queda-apos-trump-dizer-que-cessar-fogo-eua-ira-acabou/",
-      "time": "2026-07-08T14:59:00Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/2026-02-17T175434Z_1885400349_RC20BDASG5F7_RTRMADP_3_LIFTOFF-MOBILE-IPO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "FMI eleva projeção para PIB do Brasil em 2026 e 2027, mas ainda prevê desaceleração",
-      "summary": "Em abril, o FMI já havia elevado a projeção em 0,3 ponto, para 1,9%, ao incorporar em seus cálculos o possível efeito positivo da guerra no Oriente Médio sobre a economia brasileira",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/fmi-eleva-projecao-para-pib-do-brasil-em-2026-e-2027-mas-ainda-preve-desaceleracao/",
-      "time": "2026-07-08T14:57:59Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/10/2024-10-21T113056Z_1_LYNXMPEK9K0E4_RTROPTP_4_IMF-WORLDBANK.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/pix-receita-federal.jpg"
     },
     {
       "title": "Petróleo dispara e fica próximo dos US$ 80 após ameaça do Irã de fechar o Estreito de Ormuz",
@@ -105,34 +173,24 @@
       "image": "https://www.moneytimes.com.br/uploads/2025/12/petroleo-brent-.jpg"
     },
     {
-      "title": "‘Você vê falhas do Flávio em dizer que adie a tarifação; é inaceitável’, diz Ronaldo Caiado",
-      "summary": "O pré-candidato do PSD à presidência da República, Ronaldo Caiado, criticou o senador Flávio Bolsonaro (PL-RJ) por ter sugerido o adiamento do tarifaço dos Estados Unidos ao Brasil e afirmou que o posicionamento é inacei",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/voce-ve-falhas-do-flavio-em-dizer-que-adie-a-tarifacao-e-inaceitavel-diz-ronaldo-caiado-gaep/",
-      "time": "2026-07-08T14:59:54Z",
-      "cat": "acoes",
+      "title": "Pequenos FIIs movimentam quase R$ 70 milhões em novos negócios",
+      "summary": "Dois FIIs de menor porte anunciaram operações que, somadas, movimentam cerca de R$ 68,4 milhões. As movimentações abrangem novos investimentos em projetos residenciais na cidade de São Paulo e a alienação de um ativo com",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/pequenos-fiis-movimentam-quase-r-70-milhoes-em-novos-negocios/",
+      "time": "2026-07-08T16:45:06Z",
+      "cat": "fundos",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/03/img-0567.jpeg"
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     },
     {
-      "title": "Cury (CURY3): Ações recuam 5% após prévia do 2T26; o que dizem os analistas?",
-      "summary": "Negociadas dentro do Ibovespa, as ações da Cury (CURY3) operam em queda nesta quarta-feira (8), um dia após a construtora divulgar sua prévia operacional do segundo trimestre de 2026 (2T26). Apesar do movimento negativo ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/cury-cury3-acoes-recuam-5-apos-previa-do-2t26-o-que-dizem-os-analistas-igdl/",
-      "time": "2026-07-08T14:41:54Z",
-      "cat": "acoes",
+      "title": "Ibovespa recua, em meio à tensão entre EUA e Irã, mas alta do petróleo amortece queda",
+      "summary": "Ibovespa recua, em meio à tensão entre EUA e Irã, mas alta do petróleo amortece quedaO agravamento das tensões entre Estados Unidos e Irã, que empurra as cotações do petróleo para alta próxima a 5%, guia o Ibovespa na se",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-recua-em-meio-a-tensao-entre-eua-08062026-go/",
+      "time": "2026-07-08T15:50:00Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/03/cury-cury3-imagem-divulgacao.png"
-    },
-    {
-      "title": "PF faz operação de busca e apreensão na casa de Jair Bolsonaro; ‘cortina de fumaça e perseguição’, diz Flávio Bolsonaro",
-      "summary": "A Polícia Federal realizou, na manhã desta quarta (8) uma operação de busca e apreensão na residência onde o ex-presidente Jair Bolsonaro (PL) está em prisão domiciliar, em um condomínio de Brasília (DF). A ação ocorre a",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/pf-faz-operacao-de-busca-e-apreensao-na-casa-de-jair-bolsonaro-cortina-de-fumaca-diz-flavio-bolsonaro-gaep/",
-      "time": "2026-07-08T14:20:27Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/03/2026-03-27t141813z-1-lynxmpem2q0vv-rtroptp-4-politica-bolsonaro-alta.jpg"
+      "image": "https://files.sunoresearch.com.br/n/uploads/2026/05/30169c1a-ifix-2-1-png.webp"
     },
     {
       "title": "FMI corta previsão do PIB global em 2026, eleva a de 2027 e vê desinflação estagnada",
@@ -205,177 +263,125 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/executivo-analisando-1_01-1.webp"
     },
     {
-      "title": "FII GAME11 lucra R$ 3,16 mi, supera benchmark e reforça reservas de dividendos",
-      "summary": "O fundo imobiliário GAME11 apurou em maio resultado líquido de R$ 3,16 milhões, correspondente a R$ 0,111 por cota. O desempenho foi sustentado principalmente pela atualização monetária dos ativos indexados ao IPCA que c",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/fii-game11-lucra-r-316-mi-supera-benchmark-e-reforca-reservas-de-dividendos/",
-      "time": "2026-07-07T23:15:04Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/163_Analista_observando__1_2026017_173849-1-jpg.webp"
-    },
-    {
-      "title": "Governo flexibiliza desconto na energia para irrigação; veja o impacto no SNAG11",
-      "summary": "O Ministério de Minas e Energia publicou uma portaria que altera as regras para concessão de descontos na tarifa de energia elétrica destinados às atividades de irrigação e aquicultura. A norma amplia a flexibilidade de ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/governo-flexibiliza-desconto-na-energia-para-irrigacao-veja-o-impacto-no-snag11/",
-      "time": "2026-07-07T22:55:07Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/2_Close_de_m_os_revisa_1_2026017_17043-1-1-jpg.webp"
-    },
-    {
-      "title": "Flávio Bolsonaro propõe aos EUA criar zona de livre comércio nas Américas",
-      "summary": "Pré-candidato participou de audiência sobre o tarifaço americano, criticou a política externa do governo e afirmou que defenderá uma área de livre comércio entre países do continente",
+      "title": "Airbus aposta em motor a hidrogênio e acelera corrida pela aviação limpa",
+      "summary": "Empresa lança joint venture com a alemã MTU e concentra esforços em tecnologia elétrica movida a hidrogênio; após adiar o lançamento de sua aeronave de zero emissão para a década de 2040",
       "source": "Exame",
-      "url": "https://exame.com/brasil/flavio-bolsonaro-propoe-aos-eua-criar-zona-de-livre-comercio-nas-americas/",
-      "time": "2026-07-08T12:19:34Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/05/flavio-bolsonaro-15.jpg"
-    },
-    {
-      "title": "'Crédito privado tem risco e captação deve perder força', diz diretor da Anbima",
-      "summary": "Mesmo com retomada dos aportes em 2026, cenário de juros elevados e casos de inadimplência devem reduzir o ritmo de entrada de recursos nos fundos",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/credito-privado-tem-risco-e-captacao-deve-perder-forca-diz-diretor-da-anbima/",
-      "time": "2026-07-08T12:00:57Z",
+      "url": "https://exame.com/esg/airbus-aposta-em-motor-a-hidrogenio-e-acelera-corrida-pela-aviacao-limpa/",
+      "time": "2026-07-08T13:50:22Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2020/11/DSC2572bx.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2022/07/airbus-beluga-xl.jpg"
     },
     {
-      "title": "Ata do Fed sai hoje: o que esperar sobre novos rumos dos juros nos EUA",
-      "summary": "Inflação acima da meta mantém debate interno sobre o futuro da política monetária americana \\",
+      "title": "Fim do exit em dólar? compradores nacionais lideram aquisições no setor de tecnologia",
+      "summary": "Empreendedores ainda sonham em vender em dólar, mas maioria dos compradores é nacional",
       "source": "Exame",
-      "url": "https://exame.com/invest/mercados/ata-do-fed-sai-hoje-o-que-esperar-sobre-novos-rumos-dos-juros-nos-eua/",
-      "time": "2026-07-08T11:48:36Z",
+      "url": "https://exame.com/bussola/fim-do-exit-em-dolar-compradores-nacionais-lideram-aquisicoes-no-setor-de-tecnologia/",
+      "time": "2026-07-08T13:00:22Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/06/GettyImages-1783893975.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/Compradores-de-empresas-de-tecnologia-DC-Studio.jpg"
     },
     {
-      "title": "Zema reage ao crescimento de Renan Santos e questiona falta de experiência",
-      "summary": "Pré-candidato do Novo questionou a falta de experiência do adversário, que respondeu chamando o ex-governador de integrante da elite mineira; disputa pelo eleitor de direita se intensifica.",
+      "title": "Fundos voltados à economia real somam R$ 62,7 bi em captação e atraem estrangeiros",
+      "summary": "FIPs registram captação líquida positiva há 12 meses; FIDCs também se destacam, segundo dados da Anbima",
       "source": "Exame",
-      "url": "https://exame.com/brasil/zema-reage-ao-crescimento-de-renan-santos-e-questiona-falta-de-experiencia/",
-      "time": "2026-07-08T11:46:12Z",
+      "url": "https://exame.com/invest/mercados/fundos-voltados-a-economia-real-somam-r-627-bi-em-captacao-e-atraem-estrangeiros/",
+      "time": "2026-07-08T12:54:31Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/lula-flavio-caiado-renan-e-zema.png"
+      "image": "https://classic.exame.com/wp-content/uploads/2021/05/DSC2685bx.jpg"
     },
     {
-      "title": "Trump volta a ameaçar romper relações com a Espanha",
-      "summary": "Americano critica país por não colaborar na guerra contra o Irã",
-      "source": "Exame",
-      "url": "https://exame.com/mundo/trump-volta-a-ameacar-romper-relacoes-com-a-espanha/",
-      "time": "2026-07-08T11:36:25Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/03/AFP__20260304__99VJ79E__v4__HighRes__ComboSpainUsIranDiplomacyWar.jpg"
-    },
-    {
-      "title": "Lula participa de lançamento da ponte Salvador-Itaparica e oposição critica atraso da obra",
-      "summary": "Projeto da maior ponte da América Latina, segundo o governo, virou um dos principais temas da disputa eleitoral na Bahia após evento com Lula",
-      "source": "Exame",
-      "url": "https://exame.com/brasil/lula-participa-de-lancamento-da-ponte-salvador-itaparica-e-oposicao-critica-atraso-da-obra/",
-      "time": "2026-07-08T11:32:34Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/Lula_entreguismo.jpg"
-    },
-    {
-      "title": "HSBC retira recomendação de “overweight” para ações de mercados emergentes devido a temores com gastos com IA",
+      "title": "Citi aponta as melhores ações de ferramentas para ciências da vida e diagnósticos para o segundo semestre",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/hsbc-retira-recomendacao-de-overweight-para-acoes-de-mercados-emergentes-devido-a-temores-com-gastos-com-ia-1995993",
-      "time": "2026-07-08T15:14:29Z",
-      "cat": "analise",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM670WK_1200_L.jpg"
-    },
-    {
-      "title": "PSSA3: Por que as ações da Porto estão em alta hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/pssa3-por-que-as-acoes-da-porto-estao-em-alta-hoje-1995989",
-      "time": "2026-07-08T15:12:04Z",
+      "url": "https://br.investing.com/news/stock-market-news/citi-aponta-as-melhores-acoes-de-ferramentas-para-ciencias-da-vida-e-diagnosticos-para-o-segundo-semestre-93CH-1996066",
+      "time": "2026-07-08T16:24:02Z",
       "cat": "internacional",
-      "tickers": [
-        "PSSA3"
-      ],
-      "image": null
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Marrocos - Ações fecharam o pregão em queda e o Índice Moroccan All Shares recuou 0,93%",
+      "title": "Bank of America eleva previsão para o gás natural por preocupações com oferta",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/marrocos--acoes-fecharam-o-pregao-em-queda-e-o-indice-moroccan-all-shares-recuou-093-1995988",
-      "time": "2026-07-08T15:10:19Z",
+      "url": "https://br.investing.com/news/stock-market-news/bank-of-america-eleva-previsao-para-o-gas-natural-por-preocupacoes-com-oferta-93CH-1996062",
+      "time": "2026-07-08T16:22:20Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Por que as ações da Lyft estão caindo hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-lyft-estao-caindo-hoje-93CH-1996052",
+      "time": "2026-07-08T16:09:37Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Reino Unido - Ações fecharam o pregão em queda e o Índice Investing.com Reino Unido 100 recuou 1,80%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/reino-unido--acoes-fecharam-o-pregao-em-queda-e-o-indice-investingcom-reino-unido-100-recuou-180-1996051",
+      "time": "2026-07-08T16:09:21Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC2028Y_M.jpg"
+    },
+    {
+      "title": "Espanha - Ações fecharam o pregão em queda e o Índice IBEX 35 recuou 3,01%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/espanha--acoes-fecharam-o-pregao-em-queda-e-o-indice-ibex-35-recuou-301-1996050",
+      "time": "2026-07-08T16:08:53Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPED990I2_M.jpg"
+    },
+    {
+      "title": "Portugal - Ações fecharam o pregão em queda e o Índice PSI recuou 1,77%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/portugal--acoes-fecharam-o-pregao-em-queda-e-o-indice-psi-recuou-177-1996049",
+      "time": "2026-07-08T16:08:27Z",
       "cat": "internacional",
       "tickers": [],
       "image": null
     },
     {
-      "title": "Chefe da VDA alerta para demissões e fechamento de fábricas na Alemanha",
+      "title": "Holanda - Ações fecharam o pregão em queda e o Índice AEX recuou 0,26%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/chefe-da-vda-alerta-para-demissoes-e-fechamento-de-fabricas-na-alemanha-93CH-1995986",
-      "time": "2026-07-08T15:07:16Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Bank of America concede linha de crédito à OpenAI antes de IPO planejado",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/bank-of-america-concede-linha-de-credito-a-openai-antes-de-ipo-planejado-93CH-1995980",
-      "time": "2026-07-08T15:04:08Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Noruega - Ações fecharam o pregão em alta e o Índice Oslo OBX avançou 0,55%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/noruega--acoes-fecharam-o-pregao-em-alta-e-o-indice-oslo-obx-avancou-055-1995977",
-      "time": "2026-07-08T15:00:20Z",
+      "url": "https://br.investing.com/news/stock-market-news/holanda--acoes-fecharam-o-pregao-em-queda-e-o-indice-aex-recuou-026-1996048",
+      "time": "2026-07-08T16:08:01Z",
       "cat": "internacional",
       "tickers": [],
       "image": null
     },
     {
-      "title": "Mistral AI lança modelo de robótica para navegação industrial",
+      "title": "Itália - Ações fecharam o pregão em queda e o Índice Investing.com Itália 40 recuou 1,31%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/mistral-ai-lanca-modelo-de-robotica-para-navegacao-industrial-93CH-1995976",
-      "time": "2026-07-08T14:59:39Z",
+      "url": "https://br.investing.com/news/stock-market-news/italia--acoes-fecharam-o-pregao-em-queda-e-o-indice-investingcom-italia-40-recuou-131-1996047",
+      "time": "2026-07-08T16:07:33Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+      "image": "https://i-invdn-com.investing.com/news/24d11f31158a22052b99c540acf83bfb_M.jpg"
     },
     {
-      "title": "Opções da Conagra Brands sinalizam variação de 5,5% nos resultados de 15 de julho",
+      "title": "Alemanha - Ações fecharam o pregão em queda e o Índice DAX recuou 2,35%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/opcoes-da-conagra-brands-sinalizam-variacao-de-55-nos-resultados-de-15-de-julho-93CH-1995973",
-      "time": "2026-07-08T14:56:15Z",
+      "url": "https://br.investing.com/news/stock-market-news/alemanha--acoes-fecharam-o-pregao-em-queda-e-o-indice-dax-recuou-235-1996046",
+      "time": "2026-07-08T16:07:00Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Por que as ações da Beam Therapeutics estão caindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-beam-therapeutics-estao-caindo-hoje-93CH-1995972",
-      "time": "2026-07-08T14:55:33Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+      "image": null
     }
   ],
-  "atualizado_em": "08/07/2026 15:21"
+  "atualizado_em": "08/07/2026 16:57"
 }
