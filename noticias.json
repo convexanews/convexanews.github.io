@@ -1,27 +1,17 @@
 {
   "headline": {
-    "title": "Ibovespa e dólar hoje: tensões no Oriente Médio e ata do Fed no radar",
-    "summary": "",
-    "source": "Investing.com",
-    "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-tensoes-no-oriente-medio-e-ata-do-fed-no-radar-1994895",
-    "time": "2026-07-07T22:00:02Z",
-    "cat": "economia",
-    "tickers": [],
-    "image": null
+    "title": "Ibovespa recua com tensão no Oriente Médio, mas Petrobras (PETR4) evita queda maior",
+    "summary": "O Ibovespa ampliou as perdas nesta terça-feira (7), em um pregão marcado pela volta da aversão ao risco após novos episódios de tensão entre Estados Unidos e Irã. O principal índice da B3 caiu 0,25%, aos 172.020,68 ponto",
+    "source": "Suno",
+    "url": "https://www.suno.com.br/noticias/ibovespa-hoje-07-julho-2026-fechamento-mt/",
+    "time": "2026-07-07T21:35:09Z",
+    "cat": "acoes",
+    "tickers": [
+      "PETR4"
+    ],
+    "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
   },
   "featured": [
-    {
-      "title": "Ibovespa recua com tensão no Oriente Médio, mas Petrobras (PETR4) evita queda maior",
-      "summary": "O Ibovespa ampliou as perdas nesta terça-feira (7), em um pregão marcado pela volta da aversão ao risco após novos episódios de tensão entre Estados Unidos e Irã. O principal índice da B3 caiu 0,25%, aos 172.020,68 ponto",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-07-julho-2026-fechamento-mt/",
-      "time": "2026-07-07T21:35:09Z",
-      "cat": "acoes",
-      "tickers": [
-        "PETR4"
-      ],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
-    },
     {
       "title": "Raízen (RAIZ4): Banco Central da Noruega reduz participação",
       "summary": "A Raízen (RAIZ4) informou nesta terça-feira (7), por meio de comunicado ao mercado, que recebeu correspondência do Norges Bank Investment Management (Banco Central da Noruega) comunicando a redução de sua participação ac",
@@ -33,6 +23,19 @@
         "RAIZ4"
       ],
       "image": "https://www.moneytimes.com.br/uploads/2025/07/raizen-raiz4.jpg"
+    },
+    {
+      "title": "Morgan Stanley vê oportunidade após correção do petróleo, eleva Prio (PRIO3) e mantém Petrobras (PETR4) favorita",
+      "summary": "O Morgan Stanley elevou a recomendação da Prio (PRIO3) para overweight (equivalente à compra) e manteve a Petrobras (PETR4) entre suas principais apostas para o setor de petróleo na América Latina. Para o banco, a correç",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/morgan-stanley-ve-oportunidade-apos-correcao-do-petroleo-eleva-prio-prio3-e-mantem-petrobras-petr4-favorita/",
+      "time": "2026-07-07T20:40:10Z",
+      "cat": "internacional",
+      "tickers": [
+        "PRIO3",
+        "PETR4"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/08/prio-prio3.jpg"
     }
   ],
   "all": [
@@ -270,65 +273,85 @@
       "image": "https://classic.exame.com/wp-content/uploads/2021/09/36999321892_132e34a27c_o.jpg"
     },
     {
-      "title": "Bolsas asiáticas recuam com temores sobre valuations de IA e alta do petróleo",
+      "title": "Taiwan - Ações fecharam o pregão em queda e o Índice Taiwan Weighted recuou 0,48%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-asiaticas-se-estabilizam-com-recuperacao-de-chips-de-ia-mas-riscos-geopoliticos-limitam-ganhos-1995212",
-      "time": "2026-07-08T02:07:43Z",
+      "url": "https://br.investing.com/news/stock-market-news/taiwan--acoes-fecharam-o-pregao-em-queda-e-o-indice-taiwan-weighted-recuou-048-1995261",
+      "time": "2026-07-08T06:05:20Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPED6O07Z_M.jpg"
+    },
+    {
+      "title": "Barclays aposta na Daimler Truck com recuperação na América do Norte",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/barclays-aposta-na-daimler-truck-com-recuperacao-na-america-do-norte-1995260",
+      "time": "2026-07-08T06:02:53Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Cury tem queda de 9,5% nas vendas líquidas do 2º tri",
+      "title": "Por que as ações da Sichuan Kelun Biotech estão caindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/cury-tem-queda-de-95-nas-vendas-liquidas-do-2o-tri-1995146",
-      "time": "2026-07-07T22:42:08Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEA8I09H_M.jpg"
-    },
-    {
-      "title": "Netflix, Disney e YouTube disputam pacote de direitos da Copa do Mundo por US$ 2 bilhões",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/netflix-disney-e-youtube-disputam-pacote-de-direitos-da-copa-do-mundo-por-us-2-bilhoes-1995115",
-      "time": "2026-07-07T22:03:15Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-sichuan-kelun-biotech-estao-caindo-hoje-93CH-1995254",
+      "time": "2026-07-08T05:55:46Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Ibovespa e dólar hoje: tensões no Oriente Médio e ata do Fed no radar",
+      "title": "Por que as ações da Muyuan Foods estão caindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-tensoes-no-oriente-medio-e-ata-do-fed-no-radar-1994895",
-      "time": "2026-07-07T22:00:02Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Credores da United PF Holdings discutem troca de dívida por participação acionária",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/credores-da-united-pf-holdings-discutem-troca-de-divida-por-participacao-acionaria-93CH-1995103",
-      "time": "2026-07-07T21:47:26Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-muyuan-foods-estao-caindo-hoje-93CH-1995253",
+      "time": "2026-07-08T05:55:07Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Ações da MasTec sobem com aquisição da Superior Group por US$ 1,65 bi",
+      "title": "Kid Group registra crescimento de 9% na receita no segundo trimestre",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-mastec-sobem-com-aquisicao-da-superior-group-por-us-165-bi-93CH-1995102",
-      "time": "2026-07-07T21:44:44Z",
+      "url": "https://br.investing.com/news/stock-market-news/kid-group-registra-crescimento-de-9-na-receita-no-segundo-trimestre-93CH-1995252",
+      "time": "2026-07-08T05:50:46Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Receita de aluguel da Neobo estável no 2º tri com lucro em queda",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/receita-de-aluguel-da-neobo-estavel-no-2o-tri-com-lucro-em-queda-93CH-1995251",
+      "time": "2026-07-08T05:47:20Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Telenor compra participação de controle na Bahnhof por US$ 629,7 milhões",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/telenor-compra-participacao-de-controle-na-bahnhof-por-us-6297-milhoes-93CH-1995250",
+      "time": "2026-07-08T05:44:27Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Bernstein aponta as melhores companhias aéreas europeias antes da temporada de resultados",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/bernstein-aponta-as-melhores-companhias-aereas-europeias-antes-da-temporada-de-resultados-93CH-1995245",
+      "time": "2026-07-08T05:21:50Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "08/07/2026 03:17"
+  "atualizado_em": "08/07/2026 06:27"
 }
