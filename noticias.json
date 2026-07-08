@@ -1,170 +1,210 @@
 {
   "headline": {
-    "title": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta",
-    "summary": "Índices futuros dos EUA recuam após Trump declarar fim do cessar-fogo com Irã",
-    "source": "InfoMoney",
-    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-08072026/",
-    "time": "2026-07-08T11:32:43Z",
+    "title": "BTG muda visão para Selic e passa a projetar mais dois cortes de juros em 2026; veja o que mudou",
+    "summary": "O BTG Pactual revisou sua expectativa para a política monetária brasileira e passou a projetar uma Selic de 13,75% ao fim de 2026, após incorporar mais dois cortes de 0,25 ponto percentual neste segundo semestre. A mudan",
+    "source": "Money Times",
+    "url": "https://www.moneytimes.com.br/btg-muda-visao-para-selic-e-passa-a-projetar-mais-dois-cortes-de-juros-em-2026-veja-o-que-mudou-jcav/",
+    "time": "2026-07-08T13:29:04Z",
     "cat": "economia",
     "tickers": [],
-    "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Ibovespa-ao-vivo-bolsa-de-valores-7.png?fit=300%2C186&amp;quality=70&amp;strip=all"
+    "image": "https://www.moneytimes.com.br/uploads/2026/07/selic-juros-economia-brasil.png"
   },
   "featured": [
     {
-      "title": "Mercados em queda com retomada do conflito EUA-Irã; petróleo avança e Ibovespa em dólar cai",
-      "summary": "Os mercados globais operam em queda nesta quarta-feira (8), à medida que investidores acompanham a escalada das tensões geopolíticas no Oriente Médio e aguardam sinais sobre os próximos passos da política monetária dos E",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/mercados-em-queda-com-retomada-do-conflito-eua-ira-petroleo-avanca-mais-de-5-e-ibovespa-em-dolar-cai/",
-      "time": "2026-07-08T10:06:39Z",
-      "cat": "economia",
+      "title": "Ibovespa cai com crise entre EUA e Irã e ata do Fed no radar",
+      "summary": "Petróleo dispara, Wall Street cai e bolsas globais ampliam a aversão ao risco",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/ibovespa-cai-com-crise-entre-eua-e-ira-e-ata-do-fed-no-radar/",
+      "time": "2026-07-08T10:51:14Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/mercado-morning-ibovespa-wall-street-2.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2020/12/DSC2655bx.jpg"
     },
     {
-      "title": "Dólar opera perto da máxima após Trump dizer que cessar-fogo 'acabou'",
-      "summary": "Mercado acompanha crise no Oriente Médio e aguarda a ata do Fed para definir o rumo do dólar",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/dolar-opera-perto-da-maxima-apos-trump-dizer-que-cessar-fogo-acabou/",
-      "time": "2026-07-08T08:10:20Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/01/bank-number-usa-bills-dollar.jpg"
+      "title": "Petrobras (PETR4), PetroReconcavo (RECV3) e outras petroleiras têm forte alta na B3",
+      "summary": "As ações das petroleiras assumem a dianteira da ponta positiva do Ibovespa (IBOV) nesta quarta-feira (8), em dia de forte aversão a risco no cenário externo e disparada dos preços do petróleo no mercado internacional. Na",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/petroreconcavo-recv3-petrobras-petr4-e-outras-petroleiras-tem-forte-alta-na-b3-lils/",
+      "time": "2026-07-08T13:56:41Z",
+      "cat": "acoes",
+      "tickers": [
+        "PETR4",
+        "RECV3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/dig47411.jpg.lyenzpccmopr47vjqa0a.1ymzu4pl-1.jpg"
     }
   ],
   "all": [
     {
-      "title": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta",
-      "summary": "Índices futuros dos EUA recuam após Trump declarar fim do cessar-fogo com Irã",
+      "title": "Fundos captam R$ 184,7 bilhões no semestre, segundo melhor resultado em cinco anos",
+      "summary": "Fundos de renda fixa atraíram R$ 108,4 bilhões entre janeiro e junho, enquanto multimercados seguem com resgates",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/onde-investir/fundos-captam-r-1847-bilhoes-no-semestre-segundo-melhor-resultado-em-cinco-anos/",
+      "time": "2026-07-08T14:02:30Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2020/10/Fundos-de-investimento-advisory-.jpg?fit=300%2C168&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Renda Fixa Hoje: as taxas de CDBs, LCIs e LCAs na XP com a tensão entre EUA e Irã",
+      "summary": "Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-08072026/",
+      "time": "2026-07-08T13:58:32Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-22T202658Z_1_LYNXMPEM5L1HK_RTROPTP_4_USA-TRUMP.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "FMI corta previsão do PIB global em 2026, eleva a de 2027 e vê desinflação estagnada",
+      "summary": "A atualização do relatório destaca os impactos das tensões no Oriente Médio sobre a atividade econômica, mas aponta para uma aceleração do PIB mundial para 3,4% em 2027 com o impulso da inteligência artificial",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/economia/fmi-corta-previsao-do-pib-global-em-2026-eleva-a-de-2027-e-ve-desinflacao-estagnada/",
+      "time": "2026-07-08T13:49:12Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/04/2024-04-16T131144Z_1_LYNXNPEK3F0I3_RTROPTP_4_MACRO-FMI-BRASIL.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Ibovespa Hoje Ao Vivo: Bolsa cai com tensões renovadas entre Irã e EUA",
+      "summary": "Bolsas dos EUA recuam após Trump declarar fim do cessar-fogo com Irã",
       "source": "InfoMoney",
       "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-08072026/",
-      "time": "2026-07-08T11:32:43Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Ibovespa-ao-vivo-bolsa-de-valores-7.png?fit=300%2C186&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Ex-diretor do BC vai contra o consenso e aposta em continuidade dos cortes da Selic",
-      "summary": "Família de fundos Itaú Janeiro, comandada pelo ex-diretor de Política Monetária do BC, Bruno Serra, projeta novas reduções da taxa básica em agosto e setembro - e se posiciona para esse cenário",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/onde-investir/ex-diretor-do-bc-vai-contra-o-consenso-e-aposta-em-continuidade-dos-cortes-da-selic/",
-      "time": "2026-07-08T11:23:16Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/Bruno-Serra-CIO-do-fundo-Itau-Janeiro.png?fit=300%2C198&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Cury tem queda de 9,5% nas vendas líquidas do 2º tri",
-      "summary": "Os lançamentos atingiram R$ 2,26 bilhões no período, alta de 1,4% na comparação anual",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/cury-tem-queda-de-95-nas-vendas-liquidas-do-2o-tri/",
-      "time": "2026-07-08T11:20:07Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/cury.png?fit=300%2C202&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Petrobras, Motiva, Tenda, Assaí, Klabin e mais ações para acompanhar hoje",
-      "summary": "Confira os principais destaques do noticiário corporativo desta quarta-feira (8)",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/petrobras-motiva-tenda-assai-klabin-e-mais-acoes-para-acompanhar-hoje/",
-      "time": "2026-07-08T11:13:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/EspacoB3_01.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Motiva (MOTV3) registra alta de 3,4% no tráfego em junho",
-      "summary": "Nos seis primeiros meses do ano, o volume atingiu 515,4 milhões de veículos equivalentes, crescimento de 3,1% frente ao mesmo período do ano passado",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/motiva-motv3-registra-alta-de-34-no-trafego-em-junho/",
-      "time": "2026-07-08T10:43:53Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/unnamed.jpg.jpeg?fit=300%2C181&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Bolsas da Europa recuam com alta do petróleo; Trump diz que acordo com Irã “acabou”",
-      "summary": "EUA bombardearam alvos no Irã, em retaliação a ataques de Teerã contra três embarcações no Estreito de Ormuz",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/bolsas-da-europa-recuam-com-alta-do-petroleo-trump-diz-que-acordo-com-ira-acabou/",
-      "time": "2026-07-08T10:41:38Z",
+      "time": "2026-07-08T13:34:12Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/ataque-abbas-ira-guerra-eua-01.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Ibovespa-ao-vivo-bolsa-de-valores-25.png?fit=300%2C186&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Small cap da bolsa aprova nova distribuição de dividendos; veja datas e valores por ação",
-      "summary": "Uma das small caps negociadas na bolsa de valores, a Mitre Realty (MTRE3) aprovou a distribuição de R$ 9 milhões em dividendos intermediários, mostra aviso divulgado ao mercado nessa terça-feira (7). Segundo o documento,",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/small-cap-da-bolsa-aprova-nova-distribuicao-de-dividendos-veja-datas-e-valores-por-acao-igdl/",
-      "time": "2026-07-08T11:10:12Z",
-      "cat": "fundos",
+      "title": "OMS diz que casos de câncer podem quase dobrar até 2050 e pede ação urgente de países",
+      "summary": "Organização divulgou que, em 2024, 20,6 milhões de casos foram diagnosticados, taxa pode chegar a 35 milhões em 2050",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/saude/oms-diz-que-casos-de-cancer-podem-quase-dobrar-ate-2050-e-pede-acao-urgente-de-paises/",
+      "time": "2026-07-08T13:32:32Z",
+      "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/01/dinheiro-dividendos-imagem-emerson-barreto-istockphoto.png"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/16897.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Fundo imobiliário rescinde venda de terreno em São Paulo; IFIX amplia perdas",
-      "summary": "O fundo imobiliário Pátria Escritório (HGRE11) anunciou, por meio de fato relevante, que rescindiu, em comum acordo com a contraparte, o compromisso de venda de um terreno localizado nas ruas da Alegria e Visconde de Par",
+      "title": "A Bolsa funcionará no feriado de 9 de julho em São Paulo? Veja horários",
+      "summary": "A B3 (B3SA3) informou que manterá o funcionamento normal de seus mercados na próxima quinta-feira (9)",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/a-bolsa-funcionara-no-feriado-de-9-de-julho-em-sao-paulo-veja-horarios/",
+      "time": "2026-07-08T13:29:17Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/B3.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Petrobras (PETR4), PetroReconcavo (RECV3) e outras petroleiras têm forte alta na B3",
+      "summary": "As ações das petroleiras assumem a dianteira da ponta positiva do Ibovespa (IBOV) nesta quarta-feira (8), em dia de forte aversão a risco no cenário externo e disparada dos preços do petróleo no mercado internacional. Na",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/fundo-imobiliario-rescinde-venda-de-terreno-em-sao-paulo-ifix-amplia-perdas-igdl/",
-      "time": "2026-07-08T11:03:11Z",
+      "url": "https://www.moneytimes.com.br/petroreconcavo-recv3-petrobras-petr4-e-outras-petroleiras-tem-forte-alta-na-b3-lils/",
+      "time": "2026-07-08T13:56:41Z",
+      "cat": "acoes",
+      "tickers": [
+        "PETR4",
+        "RECV3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/dig47411.jpg.lyenzpccmopr47vjqa0a.1ymzu4pl-1.jpg"
+    },
+    {
+      "title": "Alphabet (GOGL34) se destaca como líder em inovação tecnológica e inteligência artificial",
+      "summary": "A inteligência artificial deve continuar como uma das principais forças capazes de moldar a economia americana nas próximas décadas, ainda que seja difícil antecipar quais empresas dominarão esse novo ciclo. OpenAI e Ant",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/alphabet-gogl34-se-destaca-como-lider-em-inovacao-tecnologica-e-inteligencia-artificial/",
+      "time": "2026-07-08T13:55:24Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/08/istock-1346058768.jpg"
+    },
+    {
+      "title": "Wall Street recua com retomada da guerra no Oriente Médio e ameaças de Trump",
+      "summary": "Os índices de Wall Street iniciam o pregão desta quarta-feira (8) em baixa com a retomada das tensões geopolíticas no Oriente Médio. Confira o desempenho dos índices logo após a abertura: O que mexe com Wall Street hoje?",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/wall-street-abertura-8-7-26-apsa/",
+      "time": "2026-07-08T13:53:51Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/12/wall-street-1.jpg"
+    },
+    {
+      "title": "Swing trade: BTG recomenda compra de PetroRio (PRIO3) com potencial de alta de 15,25%",
+      "summary": "O BTG Pactual anunciou a compra de PetroRio (PRIO3) como nova operação de swing trade em relatório divulgado nesta quarta-feira (8). O papel tem potencial de valorização de 15,25%, com preço-alvo de R$ 65,00. O stop suge",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/swing-trade-btg-recomenda-compra-de-petrorio-prio3-com-potencial-de-alta-de-1525-jvka/",
+      "time": "2026-07-08T13:37:53Z",
+      "cat": "acoes",
+      "tickers": [
+        "PRIO3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/08/prio-prio3.jpg"
+    },
+    {
+      "title": "BTG muda visão para Selic e passa a projetar mais dois cortes de juros em 2026; veja o que mudou",
+      "summary": "O BTG Pactual revisou sua expectativa para a política monetária brasileira e passou a projetar uma Selic de 13,75% ao fim de 2026, após incorporar mais dois cortes de 0,25 ponto percentual neste segundo semestre. A mudan",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/btg-muda-visao-para-selic-e-passa-a-projetar-mais-dois-cortes-de-juros-em-2026-veja-o-que-mudou-jcav/",
+      "time": "2026-07-08T13:29:04Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/selic-juros-economia-brasil.png"
+    },
+    {
+      "title": "FMI melhora projeções para economia do Brasil em 2026 e 2027, mas vê desaceleração para ano que vem",
+      "summary": "O Fundo Monetário Internacional (FMI) melhorou suas projeções para a economia do Brasil em 2026 e em 2027, mas passou a ver uma desaceleração da atividade no próximo ano, de acordo com relatório divulgado nesta quarta-fe",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/fmi-eleva-projecoes-de-crescimento-do-brasil-em-2026-e-2027-prevendo-desaceleracao-no-proximo-ano/",
+      "time": "2026-07-08T13:26:10Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/fmi-.jpg"
+    },
+    {
+      "title": "Ibovespa cai com fim do cessar-fogo entre EUA e Irã; 5 coisas para saber antes de investir hoje (8)",
+      "summary": "O Ibovespa (IBOV) acompanha o aumento da aversão a risco global com a escalada das tensões entre Estados Unidos e Irã após o presidente norte-americano Donald Trump declarar o fim do cessar-fogo temporário entre os dois ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ibovespa-5-coisas-8-7-26-lils/",
+      "time": "2026-07-08T13:11:52Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/12/ibovespa-day-trade-2-1-1-1-2-1-1-1-1-1-1-1-1-1.jpg"
+    },
+    {
+      "title": "Cury (CURY3): vendas líquidas caem 9,5% no 2T26, mas geração de caixa sobe",
+      "summary": "Cury (CURY3): vendas líquidas caem 9,5% no 2T26, mas geração de caixa sobeA Cury (CURY3) encerrou o segundo trimestre de 2026 com vendas líquidas de R$ 2,05 bilhões, uma queda de 9,5% em relação ao mesmo período do ano p",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/cury-cury3-previa-operacional-2t26-vendas-geracao-caixa-go/",
+      "time": "2026-07-08T13:46:15Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://files.sunoresearch.com.br/n/uploads/2026/03/cranes-3703469_1280-1-jpg.webp"
+    },
+    {
+      "title": "Três FIIs pagam dividendos nesta quarta; GGRC11 rende 1,04% no mês",
+      "summary": "Cotistas de 3 fundos imobiliários recebem dividendos nesta quarta-feira, com destaque para GGRC11 e AIEC11. O GGRC11 vai pagar R$ 0,10 por cota, enquanto o AIEC11 distribuirá R$ 0,38. O PATC11 também entra na lista, com ",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/dividendos-fiis-hoje-ggrc11-aiec11/",
+      "time": "2026-07-08T13:05:10Z",
       "cat": "fundos",
       "tickers": [
-        "HGRE11"
+        "GGRC11",
+        "PATC11"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/02/fundos-imobiliarios-fiis-recomendacoes-analistas.png"
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     },
     {
-      "title": "Bitcoin (BTC) cai com volta das tensões da guerra no Irã; veja o preço das criptomoedas nesta quarta-feira (8)",
-      "summary": "O bitcoin (BTC) é negociado na casa dos US$ 61 mil na manhã desta quarta-feira (8), com uma queda de mais de 2% nas últimas 24h. O mercado global de criptomoedas recua na manhã de hoje, com o acirramento da guerra entre ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bom-dia-bitcoin-btc-criptomoedas-precos-hoje-rens-08026/",
-      "time": "2026-07-08T10:50:35Z",
-      "cat": "cripto",
+      "title": "Rede D’Or (RDOR3) e Equatorial (EQTL3) pagam dividendos nesta quarta; veja detalhes",
+      "summary": "Rede DOr (RDOR3) e Equatorial (EQTL3) pagam dividendos nesta quarta; veja detalhesOs investidores que compraram ações da Rede DOr (RDOR3) e da Equatorial (EQTL3) verão sua conta da corretora engordar com os dividendos qu",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/a-rede-dor-rdor3-agenda-dividendos-08072026-go/",
+      "time": "2026-07-08T11:55:00Z",
+      "cat": "fundos",
       "tickers": [
-        "BTC"
+        "RDOR3",
+        "EQTL3"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/bitcoin-btc-em-meio-a-guerra-imagem-chatgpt.png"
-    },
-    {
-      "title": "Ações de Hong Kong sobem com compras nas baixas; índices da China atingem mínima em um mês",
-      "summary": "As ações de Hong Kong registraram sua maior alta em três meses nesta quarta-feira (8) uma vez que os papéis do setor de tecnologia atraíram compras nas baixas, enquanto o mercado da China atingiu a mínima em um mês. O ín",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/acoes-de-hong-kong-sobem-com-compras-nas-baixas-indices-da-china-atingem-minima-em-um-mes/",
-      "time": "2026-07-08T10:31:43Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2024/09/acoes-asia-china-bolsas.jpg"
-    },
-    {
-      "title": "Mercados em queda com retomada do conflito EUA-Irã; petróleo avança e Ibovespa em dólar cai",
-      "summary": "Os mercados globais operam em queda nesta quarta-feira (8), à medida que investidores acompanham a escalada das tensões geopolíticas no Oriente Médio e aguardam sinais sobre os próximos passos da política monetária dos E",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/mercados-em-queda-com-retomada-do-conflito-eua-ira-petroleo-avanca-mais-de-5-e-ibovespa-em-dolar-cai/",
-      "time": "2026-07-08T10:06:39Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/mercado-morning-ibovespa-wall-street-2.jpg"
-    },
-    {
-      "title": "Entrevista: O ‘lado invisível’ da Eucatex (EUCA4) que o mercado não acompanha, segundo o VP",
-      "summary": "Engana-se quem pensa que uma das principais fabricantes de painéis, portas e tintas do Brasil, a Eucatex (EUCA4), foca apenas nas vendas de seus produtos. Na verdade, é justamente longe da comercialização que está o meca",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/entrevista-o-lado-invisivel-da-eucatex-euca4-que-o-mercado-nao-acompanha-segundo-o-vp-igdl/",
-      "time": "2026-07-08T10:00:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/11/jose-antonio-goulart-vice-presidente-executivo-e-diretor-da-eucatex-imagem-divulgacao.png"
-    },
-    {
-      "title": "Trump diz que acordo provisório com o Irã para encerrar a guerra “acabou”; petróleo reage e dispara mais de 6%",
-      "summary": "O presidente dos Estados Unidos, Donald Trump, afirmou nesta quarta-feira (8) que o memorando de entendimento assinado com o Irã para encerrar o conflito acabou, acrescentando que não deseja manter negociações com Teerã.",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/trump-diz-que-acordo-provisorio-com-o-ira-para-encerrar-a-guerra-acabou-petroleo-reage-e-dispara-mais-de-6-fets/",
-      "time": "2026-07-08T09:29:36Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/06/2026-06-09t165451z-1-lynxmpem581ap-rtroptp-4-usa-trump-scaled-e1781115121270.jpg"
+      "image": "https://files.sunoresearch.com.br/n/uploads/2026/05/Dividendos_Pixabay13-jpg.webp"
     },
     {
       "title": "HGRE11 rescinde venda e terreno volta a ficar disponível para negociações",
@@ -221,169 +261,127 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/45_Executivo_explicando_1_2026017_171124-1-jpg.webp"
     },
     {
-      "title": "Energia acelera captações; SNEL11 busca R$ 2,3 bi e ISA avalia oferta de R$ 650 mi",
-      "summary": "O setor de energia voltou a movimentar o mercado de capitais. Enquanto a ISA Energia (ISAE3) avalia uma oferta subsequente de ações de aproximadamente R$ 650 milhões, o fundo imobiliário SNEL11 mantém a quinta emissão de",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/energia-acelera-captacoes-snel11-busca-r-23-bi-e-isa-avalia-oferta-de-r-650-mi/",
-      "time": "2026-07-07T22:05:06Z",
-      "cat": "acoes",
+      "title": "Como a Suvinil usou regeneração urbana para revitalizar uma comunidade no Recife",
+      "summary": "Projeto une investimento social, arte e infraestrutura resiliente para fortalecer o território onde a empresa mantém uma de suas principais operações no Nordeste",
+      "source": "Exame",
+      "url": "https://exame.com/esg/como-a-suvinil-usou-regeneracao-urbana-para-revitalizar-uma-comunidade-no-recife/",
+      "time": "2026-07-08T11:00:04Z",
+      "cat": "economia",
       "tickers": [],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/mercado-financeiro-investimentos-jpg.webp"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-07-at-12.48.04.jpeg"
     },
     {
-      "title": "Ibovespa recua com tensão no Oriente Médio, mas Petrobras (PETR4) evita queda maior",
-      "summary": "O Ibovespa ampliou as perdas nesta terça-feira (7), em um pregão marcado pela volta da aversão ao risco após novos episódios de tensão entre Estados Unidos e Irã. O principal índice da B3 caiu 0,25%, aos 172.020,68 ponto",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-07-julho-2026-fechamento-mt/",
-      "time": "2026-07-07T21:35:09Z",
-      "cat": "acoes",
+      "title": "Bitcoin cai com a volta do conflito entre EUA e Irã; indicador preocupa",
+      "summary": "Retomada da guerra já faz o petróleo subir e a aversão a risco tomar conta dos mercados",
+      "source": "Exame",
+      "url": "https://exame.com/future-of-money/bitcoin-hoje-08-07-2026/",
+      "time": "2026-07-08T10:57:33Z",
+      "cat": "cripto",
       "tickers": [
-        "PETR4"
+        "BTC"
       ],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2023/03/imagem-figma-bitcoin-2-7.jpg"
     },
     {
-      "title": "BTLG11 reduz vacância, amplia renegociações e mantém reciclagem em 2026",
-      "summary": "O fundo imobiliário BTLG11 (BTG Pactual Logística) concentrou, no primeiro semestre de 2026, maiores esforços na gestão operacional do portfólio. A leitura dos relatórios gerenciais de janeiro a junho indica que, além de",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/btlg11-reduz-vacancia-amplia-renegociacoes-e-mantem-reciclagem-em-2026/",
-      "time": "2026-07-07T21:25:09Z",
-      "cat": "acoes",
-      "tickers": [
-        "BTLG11"
-      ],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
-    },
-    {
-      "title": "ETF de empresas sólidas da Investo anuncia pagamento dividendos; veja valor",
-      "summary": "O ETF BEST11, da Investo, anunciou a distribuição de R$ 0,299803 por cota em dividendos aos seus cotistas. Terão direito ao pagamento os investidores posicionados no fundo ao fim do pregão de 1º de julho de 2026. A parti",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/etf-empresas-solidas-investo-anuncia-pagamento-dividendos-valor/",
-      "time": "2026-07-07T21:05:09Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/11108-jpg.webp"
-    },
-    {
-      "title": "Megaoperação nacional mira facções e cumpre 273 mandados em 15 estados",
-      "summary": "Ação coordenada pela Polícia Federal mobiliza 18 Forças Integradas de Combate ao Crime Organizado e cumpre mandados de prisão e busca relacionados ao tráfico de drogas, armas e lavagem de dinheiro",
+      "title": "Ibovespa cai com crise entre EUA e Irã e ata do Fed no radar",
+      "summary": "Petróleo dispara, Wall Street cai e bolsas globais ampliam a aversão ao risco",
       "source": "Exame",
-      "url": "https://exame.com/brasil/megaoperacao-nacional-mira-faccoes-e-cumpre-273-mandados-em-15-estados/",
-      "time": "2026-07-08T08:26:19Z",
+      "url": "https://exame.com/invest/mercados/ibovespa-cai-com-crise-entre-eua-e-ira-e-ata-do-fed-no-radar/",
+      "time": "2026-07-08T10:51:14Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2020/12/DSC2655bx.jpg"
+    },
+    {
+      "title": "Crianças usam inteligência artificial em ritmo três vezes maior que adultos, aponta Unicef",
+      "summary": "Levantamento da Unicef em dez países mostra que crianças recorrem à inteligência artificial para estudar, buscar conselhos e se divertir, mas também temem golpes e deepfakes",
+      "source": "Exame",
+      "url": "https://exame.com/inteligencia-artificial/criancas-usam-inteligencia-artificial-em-ritmo-tres-vezes-maior-que-adultos-aponta-unicef/",
+      "time": "2026-07-08T10:46:32Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2023/08/135ee9b2-756b-4e0f-8743-dcdc7adc07d1.jpeg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/110814.jpg"
     },
     {
-      "title": "Dólar opera perto da máxima após Trump dizer que cessar-fogo 'acabou'",
-      "summary": "Mercado acompanha crise no Oriente Médio e aguarda a ata do Fed para definir o rumo do dólar",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/dolar-opera-perto-da-maxima-apos-trump-dizer-que-cessar-fogo-acabou/",
-      "time": "2026-07-08T08:10:20Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/01/bank-number-usa-bills-dollar.jpg"
-    },
-    {
-      "title": "Pesquisa Meio/Ideia: desaprovação de Lula recua ao menor nível desde janeiro",
-      "summary": "Índice cai de 51,4% para 48,5%, mas segue numericamente acima da aprovação, que se manteve estável em 46,5%",
-      "source": "Exame",
-      "url": "https://exame.com/brasil/pesquisa-meio-ideia-desaprovacao-de-lula-recua-ao-menor-nivel-desde-janeiro/",
-      "time": "2026-07-08T07:10:05Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/Lula_INSS.jpg"
-    },
-    {
-      "title": "Duplicata escritural impulsiona FIDCs e fortalece mercado de capitais, dizem gestores",
-      "summary": "Especialistas avaliam que maior transparência e segurança das duplicatas podem ampliar a participação dos FIDCs no financiamento das empresas",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/duplicata-escritural-impulsiona-fidcs-e-fortalece-mercado-de-capitais-dizem-gestores/",
-      "time": "2026-07-08T07:02:00Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2022/06/capa-5.jpg"
-    },
-    {
-      "title": "Por que as ações da Exxon Mobil estão subindo hoje?",
+      "title": "Por que as ações da Kura Sushi USA estão caindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-exxon-mobil-estao-subindo-hoje-93CH-1995639",
-      "time": "2026-07-08T11:40:53Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-kura-sushi-usa-estao-caindo-hoje-93CH-1995842",
+      "time": "2026-07-08T13:31:50Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Por que as ações da FuelCell Energy estão despencando hoje?",
+      "title": "Por que a ação da Castellum está caindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-fuelcell-energy-estao-despencando-hoje-93CH-1995628",
-      "time": "2026-07-08T11:39:17Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-a-acao-da-castellum-esta-caindo-hoje-93CH-1995836",
+      "time": "2026-07-08T13:27:58Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "HSBC eleva ações da zona do euro e reduz exposição a mercados emergentes",
+      "title": "Negociação de opções da Glencore dispara com foco em calls de julho",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/hsbc-eleva-acoes-da-zona-do-euro-e-reduz-exposicao-a-mercados-emergentes-1995615",
-      "time": "2026-07-08T11:31:14Z",
+      "url": "https://br.investing.com/news/stock-market-news/negociacao-de-opcoes-da-glencore-dispara-com-foco-em-calls-de-julho-93CH-1995828",
+      "time": "2026-07-08T13:21:43Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Ações da Kodiak Gas sobem com acordo de energia com Baker Hughes",
+      "title": "Ibovespa recua na abertura com geopolítica em foco",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-kodiak-gas-sobem-com-acordo-de-energia-com-baker-hughes-93CH-1995604",
-      "time": "2026-07-08T11:27:19Z",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-recua-na-abertura-com-geopolitica-em-foco-1995827",
+      "time": "2026-07-08T13:21:13Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Por que esta ação de Biotecnologia é a principal escolha da TD Cowen Now",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-esta-acao-de-biotecnologia-e-a-principal-escolha-da-td-cowen-agora-93CH-1995825",
+      "time": "2026-07-08T13:20:28Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Bath & Body Works cai após Goldman Sachs rebaixar ação por sentimento fraco",
+      "title": "UE planeja flexibilizar mercado de carbono em meio a preocupações com competitividade",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/bath--body-works-cai-apos-goldman-sachs-rebaixar-acao-por-sentimento-fraco-1995612",
-      "time": "2026-07-08T11:25:33Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Kepler eleva recomendação da Viaplay após venda na Holanda e foco nórdico",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/kepler-eleva-recomendacao-da-viaplay-apos-venda-na-holanda-e-foco-nordico-1995587",
-      "time": "2026-07-08T11:14:06Z",
-      "cat": "analise",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Ações da Navitas Semiconductor caem após processo de patente da Wolfspeed",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-navitas-semiconductor-caem-apos-processo-de-patente-da-wolfspeed-93CH-1995575",
-      "time": "2026-07-08T11:12:10Z",
+      "url": "https://br.investing.com/news/stock-market-news/ue-planeja-flexibilizar-mercado-de-carbono-em-meio-a-preocupacoes-com-competitividade-93CH-1995802",
+      "time": "2026-07-08T13:06:28Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Futuros da TSX caem com alta do petróleo e tensões no Oriente Médio",
+      "title": "Bernstein diz que o potencial de lucros da Ryanair está subavaliado",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/futuros-da-tsx-caem-com-alta-do-petroleo-e-tensoes-no-oriente-medio-1995551",
-      "time": "2026-07-08T11:02:08Z",
+      "url": "https://br.investing.com/news/stock-market-news/bernstein-diz-que-o-potencial-de-lucros-da-ryanair-esta-subavaliado-93CH-1995792",
+      "time": "2026-07-08T13:03:15Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Ações da AeroVironment sobem 7% após perspectivas do investor day",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-aerovironment-sobem-7-apos-perspectivas-do-investor-day-1995787",
+      "time": "2026-07-08T12:59:11Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "08/07/2026 11:46"
+  "atualizado_em": "08/07/2026 14:04"
 }
