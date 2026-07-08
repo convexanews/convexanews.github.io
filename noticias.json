@@ -1,146 +1,188 @@
 {
   "headline": {
-    "title": "Mercado revisa juros nos EUA e Fed pode recorrer à venda de treasuries, diz analista",
-    "summary": "O mercado revisou as expectativas para a taxa básica de juros norte-americana e agora espera uma alta na reunião de setembro do Federal Reserve (Fed), após projeções recentes de cortes para este ano e para o início de 20",
+    "title": "Ibovespa acompanha cautela externa e fecha no vermelho com Vale (VALE3); dólar cai a R$ 5,14",
+    "summary": "O Ibovespa (IBOV) acompanhou a cautela externa com troca de ameaças militares entre Estados Unidos e Irã. O tom negativo foi limitado pela forte valorização do petróleo no mercado internacional. Nesta quarta-feira (8), o",
     "source": "Money Times",
-    "url": "https://www.moneytimes.com.br/mercado-revisa-juros-nos-eua-e-fed-pode-recorrer-a-venda-de-treasuries-diz-analista-jvka/",
-    "time": "2026-07-08T18:50:38Z",
+    "url": "https://www.moneytimes.com.br/ibovespa-8-7-26-lils/",
+    "time": "2026-07-08T20:16:49Z",
     "cat": "economia",
-    "tickers": [],
-    "image": "https://www.moneytimes.com.br/uploads/2025/07/federal-reserve-eua.jpg"
+    "tickers": [
+      "VALE3"
+    ],
+    "image": "https://www.moneytimes.com.br/uploads/2026/07/mercado-morning-ibovespa-wall-street-2.jpg"
   },
   "featured": [
     {
-      "title": "R$ 10 mil em Itaú (ITUB4) viraram R$ 60 mil em 10 anos (e não foi só a valorização da ação); confira",
-      "summary": "Na hora de investir em ações a longo prazo, o investidor pode contar com estratégias muito valiosas envolvendo dividendos.",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/r-10-mil-em-itau-itub4-viraram-r-60-mil-em-10-anos-e-nao-foi-so-a-valorizacao-da-acao-confira-lbrdcp171/",
-      "time": "2026-07-08T19:00:00Z",
-      "cat": "acoes",
-      "tickers": [
-        "ITUB4"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/image-12.png"
+      "title": "Ibovespa cai com Vale e seguindo exterior; dólar cai a R$ 5,14",
+      "summary": "Bolsas dos EUA recuam após Trump declarar fim do cessar-fogo com Irã",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-08072026/",
+      "time": "2026-07-08T21:04:16Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Ibovespa-ao-vivo-bolsa-de-valores-23.png?fit=300%2C186&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Vale (VALE3): Morgan Stanley rebaixa recomendação com piora da perspectiva para minério de ferro",
-      "summary": "O Morgan Stanley rebaixou a recomendação da Vale (VALE3) de overweight (equivalente à compra) para equal-weight (desempenho em linha com o mercado) e reduziu o preço-alvo dos ADRs da mineradora de US$ 19,50 para US$ 16,5",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/vale-vale3-morgan-stanley-rebaixa-recomendacao-com-piora-da-perspectiva-para-minerio-de-ferro/",
-      "time": "2026-07-08T18:54:14Z",
-      "cat": "analise",
+      "title": "Ibovespa perde os 170 mil pontos no pior momento com tensão entre EUA e Irã; Petrobras (PETR4) ameniza perdas",
+      "summary": "O Ibovespa voltou a sentir o peso da aversão ao risco global nesta quarta-feira (8). O agravamento das tensões entre Estados Unidos e Irã, aliado às preocupações com inflação e juros elevados por mais tempo, derrubou o p",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-08-julho-2026-fechamento-mt/",
+      "time": "2026-07-08T20:55:05Z",
+      "cat": "internacional",
       "tickers": [
-        "VALE3"
+        "PETR4"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/05/vale-vale3.jpg"
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     }
   ],
   "all": [
     {
-      "title": "Jeremy Grantham diz que futuro vai rir da SpaceX: “IPO mais maluco da história”",
-      "summary": "Cofundador da gestora GMO questiona metas da empresa de Elon Musk, mas inclusão em índices deve sustentar demanda pelas ações",
+      "title": "STF valida regra que reserva 30% dos fundos eleitorais para candidaturas negras",
+      "summary": "Maioria acompanhou voto de Cristiano Zanin e rejeitou os argumentos de que a regra configuraria uma anistia às legendas",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/business/global/jeremy-grantham-diz-que-futuro-vai-rir-da-spacex-ipo-mais-maluco-da-historia/",
-      "time": "2026-07-08T20:00:22Z",
+      "url": "https://www.infomoney.com.br/politica/stf-valida-regra-que-reserva-30-dos-fundos-eleitorais-para-candidaturas-negras/",
+      "time": "2026-07-08T21:38:48Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/FAMED-INVESTOR-JEREMY-GRANTHAM-SAYS-HISTORY-WILL-END-UP-LAUGHING-AT-SPACEX-THE-CRAZIEST-IPO-IN-THE-HISTORY-OF-MAN-THAT-JUST-JOINED-THE-NASDAQ-100.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-12T143253Z_1_LYNXNPEL8B0NG_RTROPTP_4_POLITICA-JULGAMENTO-BOLSONARO-ATA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Petróleo fecha em alta forte e bate máxima em três semanas com ameaças em Ormuz",
-      "summary": "Os preços do WTI e do Brent atingiram os maiores patamares desde junho após Donald Trump dar por encerrado o acerto provisório e Teerã prometer bloquear a circulação de navios na região",
+      "title": "Bolsas de NY fecham em queda após Trump dizer que cessar-fogo EUA-Irã “acabou”",
+      "summary": "A retomada dos ataques dos EUA contra o Irã no fim da noite de terça (7) reverteu o tom positivo dos mercados financeiros e a esperança de normalização do tráfego pelo Estreito de Ormuz",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-08072026/",
-      "time": "2026-07-08T19:48:33Z",
+      "url": "https://www.infomoney.com.br/mercados/bolsas-de-ny-operam-em-queda-apos-trump-dizer-que-cessar-fogo-eua-ira-acabou/",
+      "time": "2026-07-08T21:16:31Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-13T065550Z_1509234591_RC2B2KA1A9FJ_RTRMADP_3_IRAN-CRISIS-OIL-BLOCKADE.jpg?fit=300%2C201&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/2026-02-17T175434Z_1885400349_RC20BDASG5F7_RTRMADP_3_LIFTOFF-MOBILE-IPO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Irã reage a Trump e diz que responderá com ação, não com “vulgaridade”",
-      "summary": "Chancelaria iraniana acusa EUA de violar entendimento e reforça defesa da soberania no Estreito de Ormuz",
+      "title": "Vale (VALE3) fecha com queda de 4,5% após corte de recomendação por Morgan Stanley",
+      "summary": "O minério passou a ser considerado a commodity menos preferida do time de análise do banco entre as cobertas pelo relatório, o que impactou recomendação da mineradora",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mundo/ira-reage-a-trump-e-diz-que-respondera-com-acao-nao-com-vulgaridade/",
-      "time": "2026-07-08T19:46:12Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/2026-02-20T144558Z_220113103_RC2QNJA5KLTT_RTRMADP_3_IRAN-CRISIS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Justiça dos EUA libera US$ 5,77 milhões a escritora e impõe revés a Trump",
-      "summary": "Juiz rejeita pedido do presidente para segurar pagamento enquanto busca reabrir recurso na Suprema Corte",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mundo/justica-dos-eua-libera-us-577-milhoes-a-escritora-e-impoe-reves-a-trump/",
-      "time": "2026-07-08T19:35:40Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/460226513.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Petróleo salta 5% e atinge maior nível em três semanas com ameaça de bloqueio em Ormuz",
-      "summary": "Os preços do petróleo encerraram o pregão desta quarta-feira (8) em alta com a nova rodada de tensões entre Estados Unidos e Irã, além de temores de que um novo fechamento do Estreito de Ormuz impacte a oferta da commodi",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/petroleo-6-7-26-apsa/",
-      "time": "2026-07-08T19:34:51Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/petroleo-foto-alteryourreality-istock.jpg"
-    },
-    {
-      "title": "Até convenção, vou trabalhar em reaproximação de Michelle e Flávio Bolsonaro, diz Valdemar",
-      "summary": "O presidente do PL, Valdemar Costa Neto, afirmou nesta quarta (8) que o partido trabalhará nos próximos 20 dias para uma reaproximação entre o pré-candidato à Presidência Flávio Bolsonaro (PL-RJ) e a ex-primeira-dama Mic",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ate-convencao-vou-trabalhar-em-reaproximacao-de-michelle-e-flavio-bolsonaro-diz-valdemar-gaep/",
-      "time": "2026-07-08T19:33:05Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/valdemar-costa-neto-marcelo-casal-jr-agencia-brasil-scaled.jpg"
-    },
-    {
-      "title": "Ultrapar (UGPA3): BofA eleva recomendação para compra e vê espaço para dividendos maiores",
-      "summary": "Diante de uma relação risco-retorno mais atrativa, o Bank of America (BofA) elevou a recomendação da Ultrapar (UGPA3) de neutra para compra e o preço-alvo de R$ 34 para R$ 37, o que implica um potencial de alta de aproxi",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ultrapar-ugpa3-bofa-eleva-recomendacao-para-compra-e-ve-espaco-para-dividendos-maiores-lmrs/",
-      "time": "2026-07-08T19:03:34Z",
-      "cat": "fundos",
-      "tickers": [
-        "UGPA3"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/ultrapar.jpg"
-    },
-    {
-      "title": "R$ 10 mil em Itaú (ITUB4) viraram R$ 60 mil em 10 anos (e não foi só a valorização da ação); confira",
-      "summary": "Na hora de investir em ações a longo prazo, o investidor pode contar com estratégias muito valiosas envolvendo dividendos.",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/r-10-mil-em-itau-itub4-viraram-r-60-mil-em-10-anos-e-nao-foi-so-a-valorizacao-da-acao-confira-lbrdcp171/",
-      "time": "2026-07-08T19:00:00Z",
-      "cat": "acoes",
-      "tickers": [
-        "ITUB4"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/image-12.png"
-    },
-    {
-      "title": "Vale (VALE3): Morgan Stanley rebaixa recomendação com piora da perspectiva para minério de ferro",
-      "summary": "O Morgan Stanley rebaixou a recomendação da Vale (VALE3) de overweight (equivalente à compra) para equal-weight (desempenho em linha com o mercado) e reduziu o preço-alvo dos ADRs da mineradora de US$ 19,50 para US$ 16,5",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/vale-vale3-morgan-stanley-rebaixa-recomendacao-com-piora-da-perspectiva-para-minerio-de-ferro/",
-      "time": "2026-07-08T18:54:14Z",
+      "url": "https://www.infomoney.com.br/mercados/vale-vale3-cai-mais-de-4-apos-corte-de-recomendacao-por-morgan-stanley/",
+      "time": "2026-07-08T21:05:10Z",
       "cat": "analise",
       "tickers": [
         "VALE3"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/05/vale-vale3.jpg"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-04T142216Z_1_LYNXMPEM2310U_RTROPTP_4_USA-STOCKS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Mercado revisa juros nos EUA e Fed pode recorrer à venda de treasuries, diz analista",
-      "summary": "O mercado revisou as expectativas para a taxa básica de juros norte-americana e agora espera uma alta na reunião de setembro do Federal Reserve (Fed), após projeções recentes de cortes para este ano e para o início de 20",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/mercado-revisa-juros-nos-eua-e-fed-pode-recorrer-a-venda-de-treasuries-diz-analista-jvka/",
-      "time": "2026-07-08T18:50:38Z",
+      "title": "Ibovespa cai com Vale e seguindo exterior; dólar cai a R$ 5,14",
+      "summary": "Bolsas dos EUA recuam após Trump declarar fim do cessar-fogo com Irã",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-08072026/",
+      "time": "2026-07-08T21:04:16Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/07/federal-reserve-eua.jpg"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Ibovespa-ao-vivo-bolsa-de-valores-23.png?fit=300%2C186&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Por que o Ibovespa recuou nesta quarta, mesmo com forte alta de petroleiras?",
+      "summary": "Os papéis da Vale recuam cerca de 4%, após o Morgan Stanley rebaixar a recomendação da Vale de overweight (equivalente à compra) para equal-weight (neutro)",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-abertura-fechamento-08072026/",
+      "time": "2026-07-08T20:52:05Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/b3-bolsa-acoes.webp?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "FBI investiga operações financeiras da federação argentina de futebol, diz jornal",
+      "summary": "A investigação está em andamento, em caráter preliminar, desde 2025 e é conduzida por agentes baseados em Washington, D.C., e na Flórida",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/esportes/fbi-investiga-operacoes-financeiras-da-federacao-argentina-de-futebol-diz-jornal/",
+      "time": "2026-07-08T20:36:02Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-07T150758Z_1197014152_UP1EM7716199P_RTRMADP_3_SOCCER-WORLDCUP-ARG-EGY.jpg?fit=300%2C222&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Juros futuros sobem com fim do acordo entre EUA e Irã, mas mercado mantém aposta de corte na Selic em agosto",
+      "summary": "A curva de juros futuros avançou em toda os vencimentos, com alta de mais de 10 pontos-base nos vértices de médio prazo, na esteira do desempenho dos títulos do Tesouro norte-americano (Treasuries) e a forte valorização ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/juros-futuros-sobem-com-fim-do-acordo-entre-eua-e-ira-mas-mercado-mantem-aposta-de-corte-na-selic-em-agosto-lils/",
+      "time": "2026-07-08T21:14:53Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/selic-juros-economia-brasil.png"
+    },
+    {
+      "title": "Mercado reduz chance do Fed subir juros em setembro",
+      "summary": "O mercado reduziu levemente as apostas de que o Federal Reserve (Fed, o Banco Central dos Estados Unidos) elevará os juros na reunião de setembro, ainda que essa hipótese siga predominante, segundo a ferramenta FedWatch,",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/mercado-reduz-chance-do-fed-subir-juros-em-setembro-lils/",
+      "time": "2026-07-08T20:51:09Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/juros-futuros.jpg"
+    },
+    {
+      "title": "Ibovespa acompanha cautela externa e fecha no vermelho com Vale (VALE3); dólar cai a R$ 5,14",
+      "summary": "O Ibovespa (IBOV) acompanhou a cautela externa com troca de ameaças militares entre Estados Unidos e Irã. O tom negativo foi limitado pela forte valorização do petróleo no mercado internacional. Nesta quarta-feira (8), o",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ibovespa-8-7-26-lils/",
+      "time": "2026-07-08T20:16:49Z",
+      "cat": "economia",
+      "tickers": [
+        "VALE3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/mercado-morning-ibovespa-wall-street-2.jpg"
+    },
+    {
+      "title": "Wall Street fecha sem direção única após escalada no Oriente Médio e após ata do Fed",
+      "summary": "Os índices de Wall Street encerraram o pregão sem direção única diante das tensões no Estreito de Ormuz e da divulgação da ata da última reunião de política monetária do Federal Reserve (Fed, o banco central dos Estados ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/wall-street-8-7-26-apsa/",
+      "time": "2026-07-08T20:09:47Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/2026-07-08t201408z-1-lynxmpem671c6-rtroptp-4-usa-stocks-scaled-e1783543662678.jpg"
+    },
+    {
+      "title": "Dólar cai a R$ 5,14 com ‘ajuda’ da disparada dos preços do petróleo",
+      "summary": "O dólar à vista cedeu ante o real com a forte valorização do petróleo no mercado internacional em meio a nova escalada de tensões entre Estados Unidos e Irã com o fim do cessar-fogo temporário. Nesta quarta-feira (8), o ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/dolar-8-7-26-lils/",
+      "time": "2026-07-08T20:02:54Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/dolar-real-1.jpg"
+    },
+    {
+      "title": "VISC11 vê vendas dos shoppings crescerem 12,7% e aumento de reserva de lucro",
+      "summary": "O fundo imobiliário VISC11, voltado a shopping centers, registrou em junho resultado de R$ 0,88 por cota e confirmou a distribuição de R$ 0,84 por cota aos cotistas, preservando o guidance de rendimentos comunicado para ",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/visc11-ve-vendas-dos-shoppings-crescerem-127-e-aumento-de-reserva-de-lucro/",
+      "time": "2026-07-08T20:55:14Z",
+      "cat": "acoes",
+      "tickers": [
+        "VISC11"
+      ],
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
+    },
+    {
+      "title": "Ibovespa perde os 170 mil pontos no pior momento com tensão entre EUA e Irã; Petrobras (PETR4) ameniza perdas",
+      "summary": "O Ibovespa voltou a sentir o peso da aversão ao risco global nesta quarta-feira (8). O agravamento das tensões entre Estados Unidos e Irã, aliado às preocupações com inflação e juros elevados por mais tempo, derrubou o p",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-08-julho-2026-fechamento-mt/",
+      "time": "2026-07-08T20:55:05Z",
+      "cat": "internacional",
+      "tickers": [
+        "PETR4"
+      ],
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
+    },
+    {
+      "title": "ETF NDIV11 da Nu Asset anuncia dividendos para julho; veja valor",
+      "summary": "O ETF NDIV11, da NU Asset, anunciou dividendos de R$ 0,38958 por cota; yield é de 0,32% sobre fechamento de junho O NDIV11 anunciou a distribuição de R$ 0,3895801 por cota aos investidores. Terão direito ao provento os c",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/etf-ndiv11-nu-asset-anuncia-dividendos-julho-veja-valor/",
+      "time": "2026-07-08T20:25:09Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     },
     {
       "title": "Blue Origin, de Jeff Bezos, busca captação de US$ 10 bilhões",
@@ -205,137 +247,105 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/e7611134-agenciasantander_3abr-jpg.webp"
     },
     {
-      "title": "Minha Casa Minha Vida segura construção em meio à queda das ações",
-      "summary": "Mesmo com a queda recente das ações de construtoras na Bolsa, o Minha Casa Minha Vida segue como um dos principais pontos de sustentação da construção residencial no Brasil. Análise do Safra aponta que os fundamentos do ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/minha-casa-minha-vida-construcao-habitacao-popular-mt/",
-      "time": "2026-07-08T17:05:10Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
-    },
-    {
-      "title": "Pequenos FIIs movimentam quase R$ 70 milhões em novos negócios",
-      "summary": "Dois FIIs de menor porte anunciaram operações que, somadas, movimentam cerca de R$ 68,4 milhões. As movimentações abrangem novos investimentos em projetos residenciais na cidade de São Paulo e a alienação de um ativo com",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/pequenos-fiis-movimentam-quase-r-70-milhoes-em-novos-negocios/",
-      "time": "2026-07-08T16:45:06Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
-    },
-    {
-      "title": "'Golpe' e Forças Armadas: entenda a crise entre Petro e Espriella na Colômbia",
-      "summary": "Espriella, presidente eleito da Colômbia suspendeu a transição de governo, acusa Gustavo Petro de tentar permanecer no poder e diz que recorrerá às instituições para garantir a posse em 7 de agosto",
+      "title": "As atrizes com mais indicações e vitórias no Emmy",
+      "summary": "A cerimônia do Emmy de 2026 está marcada para o dia 14 de setembro, no Peacok Theater, em Los Angeles",
       "source": "Exame",
-      "url": "https://exame.com/mundo/golpe-e-forcas-armadas-entenda-a-crise-entre-petro-e-espriella-na-colombia/",
-      "time": "2026-07-08T16:58:42Z",
+      "url": "https://exame.com/pop/as-atrizes-com-mais-indicacoes-e-vitorias-no-emmy/",
+      "time": "2026-07-08T18:12:02Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/AFP__20260707__B9HK8WE__v1__HighRes__ComboFilesColombiaPoliticsElection.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_tina-fey5.jpg"
     },
     {
-      "title": "Os cinco atores com mais indicações ao Emmy",
-      "summary": "Entre os destaques desta edição estão séries como The Pitt (HBO Max), Pluribus (Apple TV), Widow's Bay (Apple TV) Hacks (HBO Max)",
+      "title": "Projeto cripto quer que todos possam criar seus próprios mercados preditivos",
+      "summary": "Em entrevista à EXAME, o CEO da Rain Protocol falou sobre o lançamento da plataforma Rain Trade e a proibição de sites do tipo no Brasil",
       "source": "Exame",
-      "url": "https://exame.com/pop/os-cinco-atores-com-mais-indicacoes-ao-emmy/",
-      "time": "2026-07-08T16:38:13Z",
+      "url": "https://exame.com/future-of-money/projeto-cripto-quer-que-todos-possam-criar-seus-proprios-mercados-preditivos/",
+      "time": "2026-07-08T17:47:38Z",
+      "cat": "cripto",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/03/Apostas-Polymarket.jpg"
+    },
+    {
+      "title": "Rússia suspende exportação de diesel; entenda impacto para o Brasil",
+      "summary": "Medida vale até 31 de julho e busca conter a escassez de combustível provocada por ataques ucranianos a refinarias; Brasil é um dos principais compradores do diesel russo",
+      "source": "Exame",
+      "url": "https://exame.com/mundo/russia-suspende-exportacao-de-diesel-entenda-impacto-para-o-brasil/",
+      "time": "2026-07-08T17:47:07Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_fox1.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2022/09/terminal-de-gasoduto-Nord-Stream-na-Alemanha-gas-natural.jpg"
     },
     {
-      "title": "Menina de 12 anos cria recepcionista com inteligência artificial para pequenas empresas",
-      "summary": "A jovem empreendedora usou ferramentas de inteligência artificial para criar uma plataforma que automatiza o atendimento telefônico e o agendamento de clientes",
-      "source": "Exame",
-      "url": "https://exame.com/inteligencia-artificial/menina-de-12-anos-cria-recepcionista-com-inteligencia-artificial-para-pequenas-empresas/",
-      "time": "2026-07-08T16:29:55Z",
+      "title": "Rússia - Ações fecharam o pregão em alta e o Índice MOEX Russia Index avançou 1,46%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/russia--acoes-fecharam-o-pregao-em-alta-e-o-indice-moex-russia-index-avancou-146-1996379",
+      "time": "2026-07-08T21:20:21Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Ações da GoPro disparam após CEO anunciar financiamento de US$ 20 mi",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-gopro-disparam-apos-ceo-anunciar-financiamento-de-us-20-mi-93CH-1996368",
+      "time": "2026-07-08T21:13:58Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "OpenAI retira recomendação do benchmark de programação SWE-Bench Pro",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/openai-retira-recomendacao-do-benchmark-de-programacao-swebench-pro-93CH-1996333",
+      "time": "2026-07-08T20:55:20Z",
+      "cat": "analise",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Ações da MDA Space caem com oferta de US$ 712 mi para aquisição",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-mda-space-caem-com-oferta-de-us-712-mi-para-aquisicao-93CH-1996322",
+      "time": "2026-07-08T20:45:17Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Ibovespa fecha em queda com Oriente Médio e juros dos EUA em foco",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-fecha-em-queda-com-oriente-medio-e-juros-dos-eua-em-foco-1996208",
+      "time": "2026-07-08T20:42:07Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/6a343b08f4bed3c6152cbc2e.webp"
+      "image": null
     },
     {
-      "title": "Por que as ações da NVIDIA estão subindo hoje?",
+      "title": "Accor contrata Goldman Sachs para IPO da Ennismore nos EUA",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-nvidia-estao-subindo-hoje-93CH-1996179",
-      "time": "2026-07-08T19:19:38Z",
+      "url": "https://br.investing.com/news/stock-market-news/accor-contrata-goldman-sachs-para-ipo-da-ennismore-nos-eua-93CH-1996293",
+      "time": "2026-07-08T20:37:15Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Por que as ações da Bloom Energy estão caindo hoje?",
+      "title": "Ações da Sonos caem após demissão de executivos de design",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-bloom-energy-estao-caindo-hoje-93CH-1996168",
-      "time": "2026-07-08T19:08:44Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Ações da Alignment Healthcare despencam após processo de denúncia",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-alignment-healthcare-despencam-apos-processo-de-denuncia-93CH-1996164",
-      "time": "2026-07-08T18:58:07Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "CURY3: Por que as ações da Cury estão em queda hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/cury3-por-que-as-acoes-da-cury-estao-em-queda-hoje-1996159",
-      "time": "2026-07-08T18:52:14Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEA601RG_M.jpg"
-    },
-    {
-      "title": "Michael Burry aposta alto em jogos online e ignora mercados de previsão",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/michael-burry-aposta-alto-em-jogos-online-e-ignora-mercados-de-previsao-1996163",
-      "time": "2026-07-08T18:48:09Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "BofA elege as melhores ações industriais para o segundo trimestre de 2026",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/bofa-elege-as-melhores-acoes-industriais-para-o-segundo-trimestre-de-2026-93CH-1996148",
-      "time": "2026-07-08T18:36:55Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "SANB11: BTG prevê 2T26 fraco e lucro abaixo do consenso para o Santander Brasil",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/sanb11-btg-preve-2t26-fraco-e-lucro-abaixo-do-consenso-para-o-santander-brasil-1996147",
-      "time": "2026-07-08T18:36:36Z",
-      "cat": "internacional",
-      "tickers": [
-        "SANB11"
-      ],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB301LL_M.jpg"
-    },
-    {
-      "title": "SMAG Mobile Antenna Masts define preço de IPO em €46 por ação",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/smag-mobile-antenna-masts-define-preco-de-ipo-em-46-por-acao-93CH-1996120",
-      "time": "2026-07-08T17:47:50Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-sonos-caem-apos-demissao-de-executivos-de-design-93CH-1996288",
+      "time": "2026-07-08T20:33:22Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "08/07/2026 20:03"
+  "atualizado_em": "08/07/2026 21:41"
 }
