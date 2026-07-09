@@ -1,27 +1,17 @@
 {
   "headline": {
-    "title": "Ibovespa e dólar hoje: petróleo dispara com falas de Trump e Fed traz cautela",
-    "summary": "",
-    "source": "Investing.com",
-    "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-petroleo-dispara-com-falas-de-trump-e-fed-traz-cautela-1996198",
-    "time": "2026-07-08T22:00:02Z",
+    "title": "Ibovespa acompanha cautela externa e fecha no vermelho com Vale (VALE3); dólar cai a R$ 5,14",
+    "summary": "O Ibovespa (IBOV) acompanhou a cautela externa com troca de ameaças militares entre Estados Unidos e Irã. O tom negativo foi limitado pela forte valorização do petróleo no mercado internacional. Nesta quarta-feira (8), o",
+    "source": "Money Times",
+    "url": "https://www.moneytimes.com.br/ibovespa-8-7-26-lils/",
+    "time": "2026-07-08T20:16:49Z",
     "cat": "economia",
-    "tickers": [],
-    "image": null
+    "tickers": [
+      "VALE3"
+    ],
+    "image": "https://www.moneytimes.com.br/uploads/2026/07/mercado-morning-ibovespa-wall-street-2.jpg"
   },
   "featured": [
-    {
-      "title": "Ibovespa acompanha cautela externa e fecha no vermelho com Vale (VALE3); dólar cai a R$ 5,14",
-      "summary": "O Ibovespa (IBOV) acompanhou a cautela externa com troca de ameaças militares entre Estados Unidos e Irã. O tom negativo foi limitado pela forte valorização do petróleo no mercado internacional. Nesta quarta-feira (8), o",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ibovespa-8-7-26-lils/",
-      "time": "2026-07-08T20:16:49Z",
-      "cat": "economia",
-      "tickers": [
-        "VALE3"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/mercado-morning-ibovespa-wall-street-2.jpg"
-    },
     {
       "title": "Ibovespa perde os 170 mil pontos no pior momento com tensão entre EUA e Irã; Petrobras (PETR4) ameniza perdas",
       "summary": "O Ibovespa voltou a sentir o peso da aversão ao risco global nesta quarta-feira (8). O agravamento das tensões entre Estados Unidos e Irã, aliado às preocupações com inflação e juros elevados por mais tempo, derrubou o p",
@@ -33,9 +23,29 @@
         "PETR4"
       ],
       "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
+    },
+    {
+      "title": "Juros futuros sobem com fim do acordo entre EUA e Irã, mas mercado mantém aposta de corte na Selic em agosto",
+      "summary": "A curva de juros futuros avançou em toda os vencimentos, com alta de mais de 10 pontos-base nos vértices de médio prazo, na esteira do desempenho dos títulos do Tesouro norte-americano (Treasuries) e a forte valorização ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/juros-futuros-sobem-com-fim-do-acordo-entre-eua-e-ira-mas-mercado-mantem-aposta-de-corte-na-selic-em-agosto-lils/",
+      "time": "2026-07-08T21:14:53Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/selic-juros-economia-brasil.png"
     }
   ],
   "all": [
+    {
+      "title": "Trump diz que Espanha ‘voltou atrás’ e sinaliza retomada de relações",
+      "summary": "Segundo o mandatário, o governo espanhol demonstrou disposição para se reaproximar de Washington",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mundo/trump-diz-que-espanha-voltou-atras-e-sinaliza-retomada-de-relacoes/",
+      "time": "2026-07-09T01:52:16Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/458680932.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
     {
       "title": "Quina hoje, concurso 7060: confira o resultado sorteado nesta quarta (8)",
       "summary": "O prêmio deste concurso era de R$ 8.354.230,07",
@@ -50,41 +60,11 @@
       "title": "Lotofácil hoje, concurso 3730: confira o resultado sorteado nesta quarta (8)",
       "summary": "O prêmio estimado para este concurso era de R$ 8 milhões",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/lotofacil-hoje-concurso-3730-confira-o-resultado-sorteado-nesta-quarta-8/",
+      "url": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3730-confira-o-resultado-sorteado-nesta-quarta-8/",
       "time": "2026-07-09T00:03:24Z",
       "cat": "acoes",
       "tickers": [],
       "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/11-09-2020_loteria-4.webp?fit=300%2C225&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Flávio Bolsonaro propõe criação de zona de livre comércio com os EUA",
-      "summary": "Pré-candidato defendeu proposta durante live para seguidores no dia seguinte à sua participação na audiência do Escritório do Representante de Comércio americano",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/flavio-bolsonaro-propoe-criacao-de-zona-de-livre-comercio-com-os-eua/",
-      "time": "2026-07-08T23:46:09Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/55191708448_d2a64c4536_c_b2e54a.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Listagem da SK Hynix nos EUA tem demanda 7 vezes maior que a oferta",
-      "summary": "Fabricante sul-coreana de chips pode levantar US$ 24,5 bilhões em uma das maiores estreias estrangeiras em Wall Street",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/listagem-da-sk-hynix-nos-eua-tem-demanda-7-vezes-maior-que-a-oferta/",
-      "time": "2026-07-08T22:37:40Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/460245838.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Petróleo Brent avança mais de 7% no after market após novos ataques dos EUA ao Irã",
-      "summary": "Os contratos, tanto o Brent quanto o WTI, já haviam encerrado o pregão regular com alta forte nesta quarta-feira, 08",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/petroleo-brent-avanca-mais-de-7-no-after-market-apos-novos-ataques-dos-eua-ao-ira/",
-      "time": "2026-07-08T21:58:00Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/arvind-vallabh-rqWWhKzVCaU-unsplash.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
     },
     {
       "title": "Juros futuros sobem com fim do acordo entre EUA e Irã, mas mercado mantém aposta de corte na Selic em agosto",
@@ -137,6 +117,16 @@
       "cat": "economia",
       "tickers": [],
       "image": "https://www.moneytimes.com.br/uploads/2026/07/dolar-real-1.jpg"
+    },
+    {
+      "title": "IBBP11 anuncia dividendos com yield de 1,06%; confira valor",
+      "summary": "O fundo imobiliário IBBP11 anunciou a distribuição de R$ 0,0821 por cota em rendimentos aos cotistas. Considerando a cotação de R$ 7,75 por cota, o pagamento corresponde a um dividend yield mensal de aproximadamente 1,06",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibbp11-anuncia-dividendos-com-yield-de-106-confira-valor/",
+      "time": "2026-07-09T00:15:05Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/73_Close_de_gr_fico_de__1_2026017_161445-1-jpg.webp"
     },
     {
       "title": "RECT11 anuncia novos dividendos para julho; veja quanto fundo pagará por cota",
@@ -225,16 +215,6 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/1a32795a-stock-vs-market-md-jpg.webp"
     },
     {
-      "title": "Dividendos do MAXR11 atingem o topo em três meses; saiba quem recebe",
-      "summary": "O fundo imobiliário MAXR11 aumentou o valor repassado aos cotistas. O provento de julho de 2026 será de R$ 0,27 por cota em dividendos, ante R$ 0,25 no mês anterior, o maior rendimento dos últimos três meses. A data-base",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/maxr11-provento-027-incorporacao-capitania/",
-      "time": "2026-07-08T19:55:07Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
-    },
-    {
       "title": "Após eliminação na Copa, Neymar vive indefinição em relação ao futuro no Santos",
       "summary": "O craque brasileiro sinalizou sua despedida da Seleção e deve retornar ao Santos para finalizar a temporada de 2026",
       "source": "Exame",
@@ -245,6 +225,66 @@
       "image": "https://classic.exame.com/wp-content/uploads/2026/07/AFP__20260629__2283879738__v1__HighRes__BrazilVJapanRoundOf32FifaWorldCup2026.jpg"
     },
     {
+      "title": "Bolsas asiáticas caem com petróleo e Samsung pesando; chips japoneses limitam perdas",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/bolsas-asiaticas-caem-com-petroleo-e-samsung-pesando-chips-japoneses-limitam-perdas-1996563",
+      "time": "2026-07-09T03:39:32Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Por que a ação da Zhipu AI está disparando hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-a-acao-da-zhipu-ai-esta-disparando-hoje-93CH-1996559",
+      "time": "2026-07-09T03:39:16Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Por que as ações da Kioxia estão disparando hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-kioxia-estao-disparando-hoje-93CH-1996546",
+      "time": "2026-07-09T02:17:54Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Futuros das bolsas americanas estáveis após tensões renovadas entre EUA e Irã",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/futuros-das-bolsas-americanas-estaveis-apos-tensoes-renovadas-entre-eua-e-ira-1996521",
+      "time": "2026-07-09T01:01:09Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Zhipu AI capta US$ 4 bilhões em emissão de ações com desconto em Hong Kong",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/zhipu-ai-capta-us-4-bilhoes-em-emissao-de-acoes-com-desconto-em-hong-kong-1996494",
+      "time": "2026-07-09T00:17:08Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Bain Capital vende participação total na fabricante de memória japonesa Kioxia",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/bain-capital-vende-participacao-total-na-fabricante-de-memoria-japonesa-kioxia-1996479",
+      "time": "2026-07-08T23:53:05Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
       "title": "Estados americanos podem entrar com ação judicial na próxima semana para impedir acordo entre Paramount e Warner Bros., dizem fontes",
       "summary": "",
       "source": "Investing.com",
@@ -253,87 +293,7 @@
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/LYNXMPEA8I09H_M.jpg"
-    },
-    {
-      "title": "Mosaic reduz temporariamente operações com fosfato no Brasil devido a restrições de enxofre",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/mosaic-reduz-temporariamente-operacoes-com-fosfato-no-brasil-devido-a-restricoes-de-enxofre-1996473",
-      "time": "2026-07-08T23:28:07Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEA8I09H_M.jpg"
-    },
-    {
-      "title": "ICVA mostra queda real de 2,8% nas vendas no varejo em junho, pior desempenho desde a pandemia",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/icva-mostra-queda-real-de-28-nas-vendas-no-varejo-em-junho-pior-desempenho-desde-a-pandemia-1996457",
-      "time": "2026-07-08T22:56:07Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEA8I09H_M.jpg"
-    },
-    {
-      "title": "Natura: Short squeeze dispara NTCO3 +4,97% e coloca ação no topo do Ibovespa",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/natura-short-squeeze-dispara-ntco3-497-e-coloca-acao-no-topo-do-ibovespa-1996441",
-      "time": "2026-07-08T22:14:36Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Paramount não fechará acordo com Warner Bros antes de 22 de julho, em meio à investigação no Oregon",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/paramount-nao-fechara-acordo-com-warner-bros-antes-de-22-de-julho-em-meio-a-investigacao-no-oregon-1996443",
-      "time": "2026-07-08T22:14:29Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM671FU_1200_L.jpg"
-    },
-    {
-      "title": "Ibovespa e dólar hoje: petróleo dispara com falas de Trump e Fed traz cautela",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-petroleo-dispara-com-falas-de-trump-e-fed-traz-cautela-1996198",
-      "time": "2026-07-08T22:00:02Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "S&P rebaixa rating da Cosan para B+ após enfraquecimento da diversificação",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/sp-rebaixa-rating-da-cosan-para-b-apos-enfraquecimento-da-diversificacao-93CH-1996403",
-      "time": "2026-07-08T21:32:00Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "S&P rebaixa rating da Century Communities por pressões macroeconômicas",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/sp-rebaixa-rating-da-century-communities-por-pressoes-macroeconomicas-93CH-1996402",
-      "time": "2026-07-08T21:31:46Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "México - Ações fecharam o pregão em queda e o Índice S&P/BMV IPC recuou 0,10%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/mexico--acoes-fecharam-o-pregao-em-queda-e-o-indice-spbmv-ipc-recuou-010-1996401",
-      "time": "2026-07-08T21:30:19Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/Mexican_Stock_Exchange_M_1440056312.jpg"
     }
   ],
-  "atualizado_em": "09/07/2026 00:09"
+  "atualizado_em": "09/07/2026 04:52"
 }
