@@ -23,17 +23,27 @@
       "image": "https://www.moneytimes.com.br/uploads/2025/07/slc-agricola-slce3-tarifaco-algodao-1.jpg"
     },
     {
-      "title": "QI Tech compra a Autobanking para atacar um mercado de R$ 544 bilhões",
-      "summary": "A empresa quer encurtar a aprovação de crédito e descentralizar um setor dominado por bancos",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/business/qi-tech-compra-a-autobanking-para-atacar-um-mercado-de-r-544-bilhoes/",
-      "time": "2026-07-09T15:14:21Z",
-      "cat": "acoes",
+      "title": "Selic a 14%? Opções na B3 (B3SA3) apontam corte em agosto",
+      "summary": "As apostas do mercado para a próxima reunião do Copom mudaram de lado. Contratos de Opções de Copom negociados na B3 (B3SA3) indicam que investidores precificam uma probabilidade de 75,5% para um corte de 0,25 ponto perc",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/selic-opcoes-copom-b3-b3sa3-corte-agosto-mt/",
+      "time": "2026-07-09T15:55:07Z",
+      "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Pedro-Mac-Dowell.jpg?fit=300%2C238&amp;quality=70&amp;strip=all"
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/iStock-1489161417-1-jpg.webp"
     }
   ],
   "all": [
+    {
+      "title": "Entenda o esquema no Rio Metrópole e quem é quem na investigação do MPRJ",
+      "summary": "Veja quem são os investigados, quais empresas participariam do esquema e como, segundo o MP, o dinheiro circulava até ser sacado em espécie",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/entenda-o-esquema-no-rio-metropole-e-quem-e-quem-na-investigacao-do-mprj/",
+      "time": "2026-07-09T15:50:22Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/mjrj.webp?fit=300%2C168&amp;quality=70&amp;strip=all"
+    },
     {
       "title": "Aliados aconselham Flávio a adiar escolha ao Senado no Rio após operações da PF",
       "summary": "Estratégia busca reduzir tempo de exposição do futuro indicado antes do registro das candidaturas, mas amplia irritação no partido às vésperas das convenções",
@@ -65,14 +75,36 @@
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/braskem-petroquimica-triunfo-rs.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Azul celebra relistagem na NYSE e marca nova fase após reestruturação",
-      "summary": "A empresa participou da tradicional cerimônia de abertura do pregão da bolsa norte-americana, conhecida como ring the bell, reunindo executivos e tripulantes em Nova York",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/azul-celebra-relistagem-na-nyse-e-marca-nova-fase-apos-reestruturacao/",
-      "time": "2026-07-09T14:38:52Z",
-      "cat": "acoes",
+      "title": "Micron amplia plano para os EUA e projeta investimentos de US$ 250 bilhões até 2035",
+      "summary": "A Micron Technology anunciou nesta quinta-feira (9) que planeja investir mais de US$ 250 bilhões nos Estados Unidos até 2035, impulsionada pela crescente demanda por chips de memória na era da IA e pela iniciativa do pre",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/micron-amplia-plano-para-os-eua-e-projeta-investimentos-de-us250-bilhoes-ate-2035-rens/",
+      "time": "2026-07-09T15:53:00Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-09-at-11.17.52.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/logo-da-micron-11-de-junho-de-2026-imagem-reutersdado-ruvicimagem-ilustrativa.png"
+    },
+    {
+      "title": "Incorporadoras recuam na bolsa após prévias do 2T26, mas Empiricus vê “janela” em um papel",
+      "summary": "A Empiricus Research segue vendo a Direcional Engenharia (DIRR3) como uma das alternativas mais interessantes entre as incorporadoras listadas em bolsa, destacando que a companhia apresenta um múltiplo historicamente ain",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/incorporadoras-recuam-na-bolsa-apos-previas-do-2t26-mas-empiricus-ve-janela-em-um-papel-igdl/",
+      "time": "2026-07-09T15:34:16Z",
+      "cat": "acoes",
+      "tickers": [
+        "DIRR3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/04/construtoras-construcao-civil-imagem-jongho-shinistockphoto-1.png"
+    },
+    {
+      "title": "LCI, LCA e debêntures: Taxar incentivados não resolve distorção e pode penalizar crédito privado, dizem especialistas",
+      "summary": "As declarações do secretário do Tesouro Nacional, Daniel Leal, sobre a necessidade de rever os títulos incentivados, como LCIs, LCAs e debêntures incentivadas, encontraram resistência no mercado financeiro. Especialistas",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/tributar-incentivadas-nao-resolvem-o-principal-problema-e-podem-penalizar-credito-privado-dizem-especialistas-jcav/",
+      "time": "2026-07-09T15:22:39Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/mercados-brasil-mercado-brasileiro-.png"
     },
     {
       "title": "SLC (SLCE3) vai às compras e ação salta no Ibovespa, mas XP vê ponto desfavorável",
@@ -139,34 +171,24 @@
       "image": "https://www.moneytimes.com.br/uploads/2026/07/2026-07-09t124801z-1-lynxmpem680ti-rtroptp-4-usa-economy-scaled.jpg"
     },
     {
-      "title": "Oferta de ADRs da SK Hynix nos Estados Unidos tem demanda mais de sete vezes superior à oferta, diz fonte",
-      "summary": "A demanda pela listagem de certificados de depósito (ADRs na sigla em inglês) da SK Hynix, no valor de US$ 28 bilhões, foi mais de sete vezes superior ao número de ações disponíveis, segundo uma fonte a par do assunto, o",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/oferta-de-adrs-da-sk-hynix-nos-eua-tem-demanda-mais-de-sete-vezes-superior-a-oferta-diz-fonte-rens/",
-      "time": "2026-07-09T14:08:50Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/logotipo-da-sk-hynix-nesta-ilustracao-tirada-em-11-de-junho-de-2026-imagem-reuters-dado-ruvic.png"
-    },
-    {
-      "title": "Sigo pedindo à Febraban para estender o Desenrola Adimplentes aos bancos privados, diz Durigan",
-      "summary": "O ministro da Fazenda, Dario Durigan, disse nesta quinta-feira (9) que continua tentando que a Federação Brasileira de Bancos (Febraban) contribua para estender o Desenrola Adimplentes, programa de renegociação de dívida",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/sigo-pedindo-a-febraban-para-estender-o-desenrola-adimplentes-aos-bancos-privados-diz-durigan/",
-      "time": "2026-07-09T14:07:47Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/dario-durigan-marcelo-camargo-agencia-brasil-scaled.jpg"
-    },
-    {
-      "title": "MP de dívidas rurais pode ter juros de até 12% ao ano e prazo de até 10 anos, diz Durigan",
-      "summary": "O governo pretende editar uma medida provisória nos próximos dias sobre renegociações de dívidas rurais, após finalizar negociações com parlamentares, com possibilidade de juros anuais de até 12% e prazo de pagamento de ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/mp-de-dividas-rurais-pode-ter-juros-de-ate-12-ao-ano-e-prazo-de-ate-10-anos-diz-durigan/",
-      "time": "2026-07-09T14:04:06Z",
+      "title": "Selic a 14%? Opções na B3 (B3SA3) apontam corte em agosto",
+      "summary": "As apostas do mercado para a próxima reunião do Copom mudaram de lado. Contratos de Opções de Copom negociados na B3 (B3SA3) indicam que investidores precificam uma probabilidade de 75,5% para um corte de 0,25 ponto perc",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/selic-opcoes-copom-b3-b3sa3-corte-agosto-mt/",
+      "time": "2026-07-09T15:55:07Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/2026-07-09t122807z-1-lynxmpem680s0-rtroptp-4-usa-trump-tariffs-brazil.jpg"
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/iStock-1489161417-1-jpg.webp"
+    },
+    {
+      "title": "FII amplia resultado e entrega yield de 13,9% ao ano aos cotistas",
+      "summary": "O fundo imobiliário CPSH11 apurou resultado de R$ 11,702 milhões em maio, ligeiramente acima do mês anterior. As receitas totais somaram R$ 12,966 milhões, enquanto as despesas ficaram em R$ 1,264 milhão no período. A di",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/cpsh11-resultado-maio-rendimentos-distribuicao/",
+      "time": "2026-07-09T15:25:07Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     },
     {
       "title": "HSML11 vê resultado recuar, enquanto shoppings vendem 9% mais; entenda",
@@ -255,16 +277,36 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/profissional-de-inve-1_03.webp"
     },
     {
-      "title": "VISC11 vê vendas dos shoppings crescerem 12,7% e aumento de reserva de lucro",
-      "summary": "O fundo imobiliário VISC11, voltado a shopping centers, registrou em junho resultado de R$ 0,88 por cota e confirmou a distribuição de R$ 0,84 por cota aos cotistas, preservando o guidance de rendimentos comunicado para ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/visc11-ve-vendas-dos-shoppings-crescerem-127-e-aumento-de-reserva-de-lucro/",
-      "time": "2026-07-08T20:55:14Z",
-      "cat": "acoes",
+      "title": "Hora de entrar é agora: gestora diz que o ciclo de 4 anos do bitcoin está vivo e dá sinal de compra",
+      "summary": "Nível de preço em que a maior das criptomoedas se encontra parece muito com o fundo dos ciclos anteriores",
+      "source": "Exame",
+      "url": "https://exame.com/future-of-money/hora-de-entrar-e-agora-gestora-diz-que-o-ciclo-de-4-anos-do-bitcoin-esta-vivo-da-sinal-de-compra/",
+      "time": "2026-07-09T12:39:35Z",
+      "cat": "cripto",
       "tickers": [
-        "VISC11"
+        "BTC"
       ],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2023/02/bitcoin-8.png"
+    },
+    {
+      "title": "Conselho da Hugo Boss vê oferta de 2 bilhões de euros do Frasers como insuficiente",
+      "summary": "Proposta prevê o pagamento de 38 euros por ação, mas grife alemã afirma que o valor não reflete seu potencial de longo prazo",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/conselho-da-hugo-boss-ve-oferta-de-2-bilhoes-de-euros-do-frasers-como-insuficiente/",
+      "time": "2026-07-09T12:20:00Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2025/05/hugo-boss.jpg"
+    },
+    {
+      "title": "Governo Trump critica decisão do Brasil de expulsar russo acusado de espionagem",
+      "summary": "Departamento de Estado afirma que saída de Sergey Cherkasov do Brasil enfraquece esforços conjuntos contra interferência estrangeira",
+      "source": "Exame",
+      "url": "https://exame.com/brasil/governo-trump-critica-decisao-do-brasil-de-expulsar-russo-acusado-de-espionagem/",
+      "time": "2026-07-09T12:15:10Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2023/07/russo.jpg"
     },
     {
       "title": "O maior erro das lideranças com a nova geração",
@@ -297,105 +339,97 @@
       "image": "https://classic.exame.com/wp-content/uploads/2025/01/digital-robotica-inteligencia-artificial-inovacao2-1.jpg"
     },
     {
-      "title": "Mercado passa a apostar em corte de 0,25 ponto na Selic em agosto, diz B3",
-      "summary": "Levantamento mostra que investidores atribuem 75,5% de probabilidade a uma nova redução da taxa básica de juros na reunião do Copom dos dias 4 e 5 de agosto",
-      "source": "Exame",
-      "url": "https://exame.com/economia/mercado-passa-a-apostar-em-corte-de-025-ponto-na-selic-em-agosto-diz-b3/",
-      "time": "2026-07-09T11:42:49Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2022/06/bc.jpg"
-    },
-    {
-      "title": "Invasão viking no Google? Busca por Haaland ganha animação especial; veja",
-      "summary": "Ação faz referência à cultura da Noruega e ao protagonismo do atacante na Copa do Mundo de 2026; o próprio jogador convidou fãs a pesquisarem seu nome",
-      "source": "Exame",
-      "url": "https://exame.com/esporte/invasao-viking-no-google-busca-por-haaland-ganha-animacao-especial-veja/",
-      "time": "2026-07-09T11:34:06Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/AFP__20260705__B9BW26J__v1__HighRes__FblWc2026Match91BraNor.jpg"
-    },
-    {
-      "title": "MP de dívidas do agro terá impacto fiscal adicional de até R$ 3 bi por ano, diz Durigan",
-      "summary": "Governo deverá incluir produtor não atingido por tragédia climática no programa, após pressão da bancada ruralista",
-      "source": "Exame",
-      "url": "https://exame.com/brasil/mp-de-dividas-do-agro-tera-impacto-fiscal-adicional-de-ate-r-3-bi-por-ano-diz-durigan/",
-      "time": "2026-07-09T11:18:03Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/Durigan_rural_a4e4f9.jpg"
-    },
-    {
-      "title": "Noruega - Ações fecharam o pregão em queda e o Índice Oslo OBX recuou 1,00%",
+      "title": "Polônia - Ações fecharam o pregão em alta e o Índice WIG30 avançou 0,32%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/noruega--acoes-fecharam-o-pregao-em-queda-e-o-indice-oslo-obx-recuou-100-1997404",
-      "time": "2026-07-09T14:55:43Z",
+      "url": "https://br.investing.com/news/stock-market-news/polonia--acoes-fecharam-o-pregao-em-alta-e-o-indice-wig30-avancou-032-1997454",
+      "time": "2026-07-09T15:35:19Z",
       "cat": "internacional",
       "tickers": [],
       "image": null
     },
     {
-      "title": "Israel - Ações fecharam o pregão em queda e o Índice TA 35 recuou 0,82%",
+      "title": "Turquia - Ações fecharam o pregão em queda e o Índice BIST 100 recuou 0,60%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/israel--acoes-fecharam-o-pregao-em-queda-e-o-indice-ta-35-recuou-082-1997403",
-      "time": "2026-07-09T14:55:18Z",
+      "url": "https://br.investing.com/news/stock-market-news/turquia--acoes-fecharam-o-pregao-em-queda-e-o-indice-bist-100-recuou-060-1997453",
+      "time": "2026-07-09T15:30:48Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPED4B0KY_M.jpg"
+    },
+    {
+      "title": "Dinamarca - Ações fecharam o pregão em alta e o Índice OMX Copenhagen 20 avançou 0,32%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/dinamarca--acoes-fecharam-o-pregao-em-alta-e-o-indice-omx-copenhagen-20-avancou-032-1997452",
+      "time": "2026-07-09T15:30:22Z",
       "cat": "internacional",
       "tickers": [],
       "image": null
     },
     {
-      "title": "Opções da Intuitive Surgical sinalizam movimento de 7% nos resultados de 16 de julho",
+      "title": "Avaliação da Mercor dobra para US$ 20 bilhões com crescimento de receita",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/opcoes-da-intuitive-surgical-sinalizam-movimento-de-7-nos-resultados-de-16-de-julho-93CH-1997402",
-      "time": "2026-07-09T14:55:14Z",
+      "url": "https://br.investing.com/news/stock-market-news/avaliacao-da-mercor-dobra-para-us-20-bilhoes-com-crescimento-de-receita-93CH-1997449",
+      "time": "2026-07-09T15:25:54Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Ações da UnitedHealth podem oscilar 6,1% com resultados em 16 de julho",
+      "title": "Apollo Micro Systems adquire participação de 41% na Premier Explosives",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-unitedhealth-podem-oscilar-61-com-resultados-em-16-de-julho-93CH-1997401",
-      "time": "2026-07-09T14:54:06Z",
+      "url": "https://br.investing.com/news/stock-market-news/apollo-micro-systems-adquire-participacao-de-41-na-premier-explosives-93CH-1997448",
+      "time": "2026-07-09T15:25:10Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Opções da Netflix sinalizam variação de 7,3% no resultado de 16 de julho",
+      "title": "SLCE3: Por que as ações da SLC Agrícola estão em alta hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/opcoes-da-netflix-sinalizam-variacao-de-73-no-resultado-de-16-de-julho-93CH-1997400",
-      "time": "2026-07-09T14:53:08Z",
+      "url": "https://br.investing.com/news/stock-market-news/slce3-por-que-as-acoes-da-slc-agricola-estao-em-alta-hoje-1997443",
+      "time": "2026-07-09T15:19:47Z",
+      "cat": "internacional",
+      "tickers": [
+        "SLCE3"
+      ],
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEE5A1SE_M.jpg"
+    },
+    {
+      "title": "Por que as ações da MDA Space estão caindo hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-mda-space-estao-caindo-hoje-93CH-1997442",
+      "time": "2026-07-09T15:17:58Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Grécia - Ações fecharam o pregão em alta e o Índice Athens General Composite avançou 0,19%",
+      "title": "Marrocos - Ações fecharam o pregão em queda e o Índice Moroccan All Shares recuou 0,75%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/grecia--acoes-fecharam-o-pregao-em-alta-e-o-indice-athens-general-composite-avancou-019-1997396",
-      "time": "2026-07-09T14:50:20Z",
+      "url": "https://br.investing.com/news/stock-market-news/marrocos--acoes-fecharam-o-pregao-em-queda-e-o-indice-moroccan-all-shares-recuou-075-1997438",
+      "time": "2026-07-09T15:15:21Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB720F4_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEA7H0NX_M.jpg"
     },
     {
-      "title": "Altman, da OpenAI, fala sobre custos de computação e avanços em modelos de IA",
+      "title": "Por que as ações da Rackspace Technology estão despencando hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/altman-da-openai-fala-sobre-custos-de-computacao-e-avancos-em-modelos-de-ia-1997387",
-      "time": "2026-07-09T14:40:21Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-rackspace-technology-estao-despencando-hoje-93CH-1997418",
+      "time": "2026-07-09T15:05:44Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "09/07/2026 15:17"
+  "atualizado_em": "09/07/2026 15:56"
 }
