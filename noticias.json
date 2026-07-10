@@ -1,128 +1,188 @@
 {
   "headline": {
-    "title": "Dólar cai a R$ 5,10 após IPCA reforçar expectativa de novo corte na Selic",
-    "summary": "O dólar à vista operava em baixa ante o real na manhã desta sexta-feira (10) com os investidores reagindo a novos dados de inflação brasileira, que reforçaram a expectativa de um novo corte na taxa básica de juros, a Sel",
-    "source": "Money Times",
-    "url": "https://www.moneytimes.com.br/dolar-intradia-10-7-26-lils/",
-    "time": "2026-07-10T15:15:48Z",
-    "cat": "economia",
-    "tickers": [],
-    "image": "https://www.moneytimes.com.br/uploads/2026/07/dolar-real-1.jpg"
+    "title": "Balanços 2T26: veja quando saem os resultados de Vale (VALE3), Itaú (ITUB4) e Petrobras (PETR4)",
+    "summary": "A temporada de balanços vai colocar a Bolsa em modo raio-X. Entre julho e agosto, bancos, petroleiras, mineradoras, varejistas, elétricas e empresas de saúde divulgam seus números do segundo trimestre, em uma agenda que ",
+    "source": "Suno",
+    "url": "https://www.suno.com.br/noticias/calendario-de-balancos-2t26-vale-itau-petrobras/",
+    "time": "2026-07-10T17:45:06Z",
+    "cat": "acoes",
+    "tickers": [
+      "VALE3",
+      "ITUB4",
+      "PETR4"
+    ],
+    "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/05023660-xp-jpg.webp"
   },
   "featured": [
     {
-      "title": "Ibovespa Hoje Ao Vivo: Bolsa dispara 2% e tenta voltar aos 177 mil pontos",
-      "summary": "Bolsas dos EUA operam mistas, mas devem encerrar semana com ganhos",
+      "title": "Carteira do Itaú BBA busca retorno de até 122% do CDI e IPCA+ de 8,8% em crédito privado; veja as escolhas",
+      "summary": "O Itaú BBA manteve uma visão positiva para o mercado de crédito privado em julho e montou uma carteira de debêntures incentivadas, CRIs e CRAs que oferece retornos de até 122% do CDI, além de taxas de 15,2% ao ano em tít",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/carteira-do-itau-bba-busca-retorno-de-ate-122-do-cdi-e-ipca-de-88-em-credito-privado-jcav/",
+      "time": "2026-07-10T17:43:15Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/credito-privado-renda-fixa-real-.jpg"
+    },
+    {
+      "title": "Ibovespa Hoje Ao Vivo: Bolsa dispara 2% e retoma os 177 mil pontos",
+      "summary": "Bolsas dos EUA têm leves ganhos e devem encerrar semana em alta",
       "source": "InfoMoney",
       "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-10072026/",
-      "time": "2026-07-10T14:58:45Z",
+      "time": "2026-07-10T16:29:00Z",
       "cat": "acoes",
       "tickers": [],
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-27-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Correios freiam reestruturação para evitar greve, enquanto tentam captar R$ 7 bilhões no mercado",
-      "summary": "A direção dos Correios promoveu, na quinta-feira (9), um recuo estratégico para evitar uma greve nacional. Em documento enviado aos representantes dos trabalhadores, o presidente da estatal, Emmanoel Rondon, juntamente c",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/correios-freiam-reestruturacao-para-evitar-greve-enquanto-tentam-captar-r-7-bilhoes-no-mercado/",
-      "time": "2026-07-10T14:55:06Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/correios.jpg"
     }
   ],
   "all": [
     {
-      "title": "Irã pediu para continuar negociações e EUA concordaram, diz Trump",
-      "summary": "Ele ​acrescentou ​que o ⁠cessar-fogo ​entre as ​duas nações 'acabou'",
+      "title": "Ações da SK Hynix disparam 14% em estreia nos EUA impulsionadas por euforia com IA",
+      "summary": "Fabricante sul-coreana de chips é a mais recente empresa a aproveitar a onda de interesse dos investidores em companhias vistas como grandes beneficiárias da revolução da IA",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ira-pediu-para-continuar-negociacoes-e-eua-concordaram-diz-trump/",
-      "time": "2026-07-10T15:20:01Z",
+      "url": "https://www.infomoney.com.br/mercados/acoes-da-sk-hynix-disparam-14-em-estreia-nos-eua-impulsionadas-por-euforia-com-ia/",
+      "time": "2026-07-10T17:27:20Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/459630763.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-10T160447Z_1_LYNXMPEM690YJ_RTROPTP_4_SK-HYNIX-LISTING.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Trump afirma que não vai sancionar projeto de lei bipartidário sobre habitação",
-      "summary": "O projeto de lei sobre habitação foi um raro exemplo de acordo bipartidário sobre uma legislação importante no Congresso profundamente dividido",
+      "title": "Brasil pode atrair trilhões em investimentos verdes, projeta especialista da FGV",
+      "summary": "Segundo Annelise Vendramini, informação e estabilidade regulatória são fundamentais para transformar potencial em negócios",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mundo/trump-afirma-que-nao-vai-sancionar-projeto-de-lei-bipartidario-sobre-habitacao/",
-      "time": "2026-07-10T15:03:05Z",
-      "cat": "internacional",
+      "url": "https://www.infomoney.com.br/brasil/brasil-pode-atrair-trilhoes-em-investimentos-verdes-diz-especialista-da-fgv/",
+      "time": "2026-07-10T17:00:20Z",
+      "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/460205580.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/10/shutterstock_1078231196.png?fit=300%2C201&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Ibovespa Hoje Ao Vivo: Bolsa dispara 2% e tenta voltar aos 177 mil pontos",
-      "summary": "Bolsas dos EUA operam mistas, mas devem encerrar semana com ganhos",
+      "title": "Ibovespa Hoje Ao Vivo: Bolsa dispara 2% e retoma os 177 mil pontos",
+      "summary": "Bolsas dos EUA têm leves ganhos e devem encerrar semana em alta",
       "source": "InfoMoney",
       "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-10072026/",
-      "time": "2026-07-10T14:58:45Z",
+      "time": "2026-07-10T16:29:00Z",
       "cat": "acoes",
       "tickers": [],
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-27-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Jogadores do Egito são recebidos como heróis após atuação na Copa do Mundo",
-      "summary": "País conseguiu atingiu melhor campanha de sua história ao chegar nas oitavas de final da competição",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/jogadores-do-egito-sao-recebidos-como-herois-apos-atuacao-na-copa-do-mundo/",
-      "time": "2026-07-10T14:35:49Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-10T122258Z_1_LYNXMPEM690OM_RTROPTP_4_SOCCER-WORLDCUP-EGYPT-TEAM-ARRIVAL_rec_red.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Desconto na cota é o suficiente? veja como identificar um FII realmente barato",
-      "summary": "Um P/VP baixo, por si só, não é garantia de potencial de valorização",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/onde-investir/desconto-na-cota-e-o-suficiente-veja-como-identificar-um-fii-realmente-barato/",
-      "time": "2026-07-10T14:30:00Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Captura-de-Tela-2026-07-09-as-11.52.11.png?fit=300%2C160&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Em crise, Oncoclínicas (ONCO3) tenta rescindir contrato de imóvel em São Paulo com fundo imobiliário",
-      "summary": "O Tellus Healthcare Mixed-Use FII informou ao mercado que recebeu uma comunicação da Oncoclínicas (ONCO3) sobre a rescisão antecipada de um contrato de locação atípico na modalidade built-to-suit, quando o imóvel é const",
+      "title": "Carteira do Itaú BBA busca retorno de até 122% do CDI e IPCA+ de 8,8% em crédito privado; veja as escolhas",
+      "summary": "O Itaú BBA manteve uma visão positiva para o mercado de crédito privado em julho e montou uma carteira de debêntures incentivadas, CRIs e CRAs que oferece retornos de até 122% do CDI, além de taxas de 15,2% ao ano em tít",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/em-crise-oncoclinicas-onco3-tenta-rescindir-contrato-de-imovel-em-sao-paulo-com-fundo-imobiliario-vtra/",
-      "time": "2026-07-10T15:28:21Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/03/oncoclinicas.jpg"
-    },
-    {
-      "title": "Dólar cai a R$ 5,10 após IPCA reforçar expectativa de novo corte na Selic",
-      "summary": "O dólar à vista operava em baixa ante o real na manhã desta sexta-feira (10) com os investidores reagindo a novos dados de inflação brasileira, que reforçaram a expectativa de um novo corte na taxa básica de juros, a Sel",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/dolar-intradia-10-7-26-lils/",
-      "time": "2026-07-10T15:15:48Z",
+      "url": "https://www.moneytimes.com.br/carteira-do-itau-bba-busca-retorno-de-ate-122-do-cdi-e-ipca-de-88-em-credito-privado-jcav/",
+      "time": "2026-07-10T17:43:15Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/dolar-real-1.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/credito-privado-renda-fixa-real-.jpg"
     },
     {
-      "title": "SLC Agrícola (SLCE3): Bank of America eleva preço-alvo por menor impacto no caixa, mas mantém recomendação",
-      "summary": "A revisão dos termos da aquisição de terras em Mato Grosso levou o Bank of America a elevar o preço-alvo para as ações da SLC Agrícola (SLCE3), mas não foi suficiente para mudar a visão cautelosa do banco sobre a companh",
+      "title": "O que faz o Ibovespa saltar mais de 4 mil pontos nesta sexta-feira (10)",
+      "summary": "O Ibovespa (IBOV) ganha mais de 4 mil pontos durante a sessão desta sexta-feira (10) com uma combinação de fatores domésticos e externos que impulsionam o apetite a risco dos investidores. Por volta de 14h (horário de Br",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/slc-agricola-slce3-bank-of-america-eleva-preco-alvo-por-menor-impacto-no-caixa-mas-mantem-recomendacao-pads/",
-      "time": "2026-07-10T14:57:24Z",
-      "cat": "analise",
-      "tickers": [
-        "SLCE3"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/03/slc-agricola-slce3.jpg"
-    },
-    {
-      "title": "Correios freiam reestruturação para evitar greve, enquanto tentam captar R$ 7 bilhões no mercado",
-      "summary": "A direção dos Correios promoveu, na quinta-feira (9), um recuo estratégico para evitar uma greve nacional. Em documento enviado aos representantes dos trabalhadores, o presidente da estatal, Emmanoel Rondon, juntamente c",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/correios-freiam-reestruturacao-para-evitar-greve-enquanto-tentam-captar-r-7-bilhoes-no-mercado/",
-      "time": "2026-07-10T14:55:06Z",
+      "url": "https://www.moneytimes.com.br/ibovespa-intradia-10-7-26-lils/",
+      "time": "2026-07-10T17:35:52Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/correios.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/brasil-acoes-brasileiras-ibovespa-bolsa-de-valores-capa-mt.jpg"
+    },
+    {
+      "title": "Nem a Copa do Mundo anima o Itaú BBA: Por que o banco segue neutro com Ambev (ABEV3)?",
+      "summary": "O Itaú BBA manteve a recomendação neutra para a Ambev (ABEV3), com expectativa de desempenho para o segundo trimestre em linha com o mercado. O preço-alvo da ação ficou definido em R$ 17, um potencial de valorização em t",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/nem-a-copa-do-mundo-anima-o-itau-bba-veja-por-que-o-banco-segue-neutro-com-ambev-abev3-ceci/",
+      "time": "2026-07-10T17:31:10Z",
+      "cat": "acoes",
+      "tickers": [
+        "ABEV3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2024/05/ambev-1t24-resultados.png"
+    },
+    {
+      "title": "Banco Master: grupo ligado a Daniel Vorcaro oferecia até R$ 2 milhões para ataques ao Banco Central, diz PF",
+      "summary": "A Polícia Federal afirma que um grupo ligado ao ex-controlador do Banco Master, Daniel Vorcaro, oferecia pagamentos de até R$ 2 milhões para que influenciadores digitais produzissem conteúdos contra o Banco Central nas r",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/banco-master-grupo-ligado-a-daniel-vorcaro-oferecia-ate-r-2-milhoes-para-ataques-ao-banco-central-diz-pf-vtra/",
+      "time": "2026-07-10T17:00:05Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/02/screenshot-2026-02-20-135238.png"
+    },
+    {
+      "title": "Trump diz que EUA aceitaram pedido do Irã para continuar negociações, mas que cessar-fogo acabou",
+      "summary": "O presidente dos EUA, Donald Trump, afirmou nesta sexta-feira que o Irã pediu a continuação das negociações e que os EUA concordaram, mas que o cessar-fogo acabou. Seus comentários vieram após três petroleiros comerciais",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/trump-diz-que-eua-aceitaram-pedido-do-ira-para-continuar-negociacoes-mas-que-cessar-fogo-acabou/",
+      "time": "2026-07-10T16:59:42Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/2026-07-10t150718z-2-lynxmpem690ul-rtroptp-4-nato-summit-trump-scaled.jpg"
+    },
+    {
+      "title": "Fed revela resiliência surpreendente do sistema financeiro americano em meio a crises",
+      "summary": "O sistema financeiro dos EUA permaneceu sólido e resiliente, com vulnerabilidades praticamente inalteradas desde o início do ano, afirmou o Federal Reserve (Fed) em seu relatório semestral de política monetária divulgado",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/fed-diz-que-sistema-financeiro-dos-eua-permaneceu-solido-no-1o-semestre-e-reforca-duplo-mandato/",
+      "time": "2026-07-10T16:43:23Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2024/10/ata-do-fomc-juros-fed-federal-reserve-estados-unidos-eua.jpg"
+    },
+    {
+      "title": "Balanços 2T26: veja quando saem os resultados de Vale (VALE3), Itaú (ITUB4) e Petrobras (PETR4)",
+      "summary": "A temporada de balanços vai colocar a Bolsa em modo raio-X. Entre julho e agosto, bancos, petroleiras, mineradoras, varejistas, elétricas e empresas de saúde divulgam seus números do segundo trimestre, em uma agenda que ",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/calendario-de-balancos-2t26-vale-itau-petrobras/",
+      "time": "2026-07-10T17:45:06Z",
+      "cat": "acoes",
+      "tickers": [
+        "VALE3",
+        "ITUB4",
+        "PETR4"
+      ],
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/05023660-xp-jpg.webp"
+    },
+    {
+      "title": "EcoRodovias (ECOR3) entra em ponto de compra, aponta análise técnica",
+      "summary": "A EcoRodovias (ECOR3) voltou ao radar de compra após uma queda relevante no preço das ações. Segundo análise técnica da Inter, o recuo visto entre o topo de 29 de janeiro de 2026 e o fundo de 19 de junho pode não represe",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ecorodovias-ecor3-compra-analise-tecnica-mt/",
+      "time": "2026-07-10T16:55:06Z",
+      "cat": "acoes",
+      "tickers": [
+        "ECOR3"
+      ],
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/unnamed-3-jpg.webp"
+    },
+    {
+      "title": "Ibovespa sobe mais de 2% após IPCA abaixo do esperado",
+      "summary": "O Ibovespa está operando em forte alta na tarde desta sexta-feira (10). Por volta das 12h40, o principal índice acionário da bolsa brasileira salta 2,07%, aos 176.311,73 pontos. A forte variação positiva do Ibovespa ocor",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-intradia-10062026-go/",
+      "time": "2026-07-10T16:15:07Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
+    },
+    {
+      "title": "Nubank (ROXO34) recebe autorização para operar como banco múltiplo no México",
+      "summary": "Nubank (ROXO34) recebe autorização para operar como banco múltiplo no MéxicoO Nubank (ROXO34) recebeu a autorização de reguladores para iniciar as operações como banco múltiplo no México, informou a fintech em comunicado",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/nubank-recebe-autorizacao-banco-multiplo-no-mexico-go/",
+      "time": "2026-07-10T15:35:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://files.sunoresearch.com.br/n/uploads/2026/05/nubank-4-2-jpg.webp"
+    },
+    {
+      "title": "IPCA desacelera para 0,16% em junho, com queda dos alimentos",
+      "summary": "IPCA desacelera para 0,16% em junho, com queda dos alimentosO Índice Nacional de Preços ao Consumidor Amplo (IPCA), considerado a inflação oficial do país, subiu 0,16% em junho, segundo dados divulgados nesta sexta-feira",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ipca-junho-2026-desacelera-queda-alimentos-go/",
+      "time": "2026-07-10T14:40:00Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://files.sunoresearch.com.br/n/uploads/2026/04/48082f7c-ballots-1194989_1280-jpg.webp"
     },
     {
       "title": "Dividendo do IRIM11 salta 24%; saiba quanto você vai receber",
@@ -160,157 +220,95 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/close-de-m-os-revisa-1_02-1.webp"
     },
     {
-      "title": "IFIX fecha em alta de 0,27%; SNEL11 lidera negócios no pregão",
-      "summary": "O IFIX encerrou o pregão desta quinta-feira (9) aos 3.831,41 pontos, em alta de 0,27%. O avanço corresponde a 10,35 pontos frente ao fechamento anterior. Ao longo da sessão, o índice de fundos imobiliários retomou o movi",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/ifix-fecha-em-alta-de-027-snel11-lidera-negocios-no-pregao/",
-      "time": "2026-07-09T22:35:05Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
-    },
-    {
-      "title": "Ibovespa reage e se aproxima dos 173 mil pontos com alívio no Oriente Médio",
-      "summary": "Ibovespa reage e se aproxima dos 173 mil pontos com alívio no Oriente MédioO Ibovespa recuperou parte das perdas da semana e voltou a se aproximar dos 173 mil pontos nesta quinta-feira (9), impulsionado pelo alívio nas t",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-09-julho-2026-fechamento-mt/",
-      "time": "2026-07-09T21:24:20Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2026/05/0734ea5f-ibovespa-6-1-jpg.webp"
-    },
-    {
-      "title": "ETFs de renda fixa ganham espaço como alternativa à reserva de liquidez; entenda",
-      "summary": "ETFs de renda fixa ganham espaço como alternativa à reserva de liquidez; entendaA combinação de juros elevados, maior oferta de produtos e busca por eficiência tributária tem impulsionado o mercado de ETFs de renda fixa ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/etfs-de-renda-fixa-alternativa-reserva-liquidez-gss/",
-      "time": "2026-07-09T21:06:43Z",
+      "title": "Novo técnico de Portugal, Jorge Jesus evita dizer que ciclo de Cristiano Ronaldo acabou",
+      "summary": "Jorge Jesus ressaltou que qualquer definição sobre o futuro do jogador dependerá de suas condições e de sua própria decisão",
+      "source": "Exame",
+      "url": "https://exame.com/esporte/novo-tecnico-de-portugal-jorge-jesus-evita-dizer-que-ciclo-de-cristiano-ronaldo-acabou/",
+      "time": "2026-07-10T14:14:33Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2026/07/close-up-money-put-aside-savings-scaled.webp"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/a491cdad5c038be13d2321a03fb990fd24b27f6f.jpg"
     },
     {
-      "title": "BBIG11 registra lucro de R$ 1,8 milhão e entrega dividend yield acima de 1%",
-      "summary": "O FII BBIG11 encerrou maio com lucro líquido de R$ 1,824 milhão e manteve a distribuição de R$ 0,07 por cota aos investidores. A gestão reforçou a estratégia de pagamentos recorrentes, apesar do aumento das despesas fina",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/bbig11-registra-lucro-de-r-18-milhao-e-entrega-dividend-yield-acima-de-1/",
-      "time": "2026-07-09T21:05:10Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/173_Close_de_relat_rio_f_1_2026017_163819-jpg.webp"
-    },
-    {
-      "title": "Mais de 5 mil morrem por onda de calor na Alemanha: entenda a crise na Europa",
-      "summary": "A Europa Ocidental registrou o mês de junho mais quente desde o início das medições, com temperatura média de 20,74°C; Na Espanha, incêndios florestais já deixam 12 mortos",
-      "source": "Exame",
-      "url": "https://exame.com/esg/mais-de-5-mil-morrem-por-onda-de-calor-na-alemanha-entenda-a-crise-na-europa/",
-      "time": "2026-07-10T12:04:58Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2024/01/GettyImages-521677396-1.jpg"
-    },
-    {
-      "title": "Ações da SoftBank disparam após lançamento do GPT-5.6 da OpenAI",
-      "summary": "Conglomerado japonês subiu mais de 11% e liderou ganhos do Nikkei 225 em sessão puxada por apostas em inteligência artificia",
-      "source": "Exame",
-      "url": "https://exame.com/inteligencia-artificial/acoes-da-softbank-disparam-apos-lancamento-do-gpt-5-6-da-openai/",
-      "time": "2026-07-10T11:14:36Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/11/openai_softbank.jpg"
-    },
-    {
-      "title": "Bitcoin sobe 4% em 7 dias e supera os US$ 64 mil; a retomada começou?",
-      "summary": "Especialistas dizem que o pior do pessimismo parece ter passado, enquanto a maior das criptomoedas busca romper uma resistência importante",
-      "source": "Exame",
-      "url": "https://exame.com/future-of-money/bitcoin-sobe-4-em-7-dias-e-supera-os-us-64-mil-a-retomada-comecou/",
-      "time": "2026-07-10T11:06:38Z",
-      "cat": "cripto",
-      "tickers": [
-        "BTC"
-      ],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/kanchanara-7E3QGntO66M-unsplash.jpg"
-    },
-    {
-      "title": "Por que as ações da Netflix estão caindo hoje?",
+      "title": "EUA facilitam exportação de certos itens militares, chips de IA e satélites para Emirados Árabes Unidos",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-netflix-estao-caindo-hoje-93CH-1998596",
-      "time": "2026-07-10T15:17:25Z",
+      "url": "https://br.investing.com/news/stock-market-news/eua-facilitam-exportacao-de-certos-itens-militares-chips-de-ia-e-satelites-para-emirados-arabes-unidos-1998693",
+      "time": "2026-07-10T17:35:32Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6911N_1200_L.jpg"
+    },
+    {
+      "title": "Por que as ações da BETA Technologies estão disparando hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-beta-technologies-estao-disparando-hoje-93CH-1998674",
+      "time": "2026-07-10T17:05:53Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Marrocos - Ações fecharam o pregão em alta e o Índice Moroccan All Shares avançou 0,37%",
+      "title": "Ações da BETA Technologies sobem após primeiros voos aprovados pela FAA",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/marrocos--acoes-fecharam-o-pregao-em-alta-e-o-indice-moroccan-all-shares-avancou-037-1998590",
-      "time": "2026-07-10T15:10:20Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB280W7_M.jpg"
-    },
-    {
-      "title": "Asahi perde participação de mercado no Japão com clima fraco afetando a demanda por cerveja",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/asahi-perde-participacao-de-mercado-no-japao-com-clima-fraco-afetando-a-demanda-por-cerveja-93CH-1998588",
-      "time": "2026-07-10T15:09:14Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-beta-technologies-sobem-apos-primeiros-voos-aprovados-pela-faa-93CH-1998673",
+      "time": "2026-07-10T17:01:10Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Noruega - Ações fecharam o pregão em queda e o Índice Oslo OBX recuou 0,30%",
+      "title": "Negociação de opções da Novavax salta para o nível mais alto em meses",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/noruega--acoes-fecharam-o-pregao-em-queda-e-o-indice-oslo-obx-recuou-030-1998578",
-      "time": "2026-07-10T15:00:23Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Negociação de opções da Wolfspeed dispara enquanto ação recua",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/negociacao-de-opcoes-da-wolfspeed-dispara-enquanto-acao-recua-93CH-1998575",
-      "time": "2026-07-10T15:00:06Z",
+      "url": "https://br.investing.com/news/stock-market-news/negociacao-de-opcoes-da-novavax-salta-para-o-nivel-mais-alto-em-meses-93CH-1998666",
+      "time": "2026-07-10T16:44:38Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Ações da Travelers podem variar 3,2% com resultados em 17 de julho",
+      "title": "Por que as ações da NVIDIA estão subindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-travelers-podem-variar-32-com-resultados-em-17-de-julho-93CH-1998574",
-      "time": "2026-07-10T14:57:46Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-nvidia-estao-subindo-hoje-93CH-1998663",
+      "time": "2026-07-10T16:42:33Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Israel - Ações fecharam o pregão em alta e o Índice TA 35 avançou 0,04%",
+      "title": "Negociação de opções da Circle Internet dispara para 195.548 contratos",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/israel--acoes-fecharam-o-pregao-em-alta-e-o-indice-ta-35-avancou-004-1998571",
-      "time": "2026-07-10T14:55:20Z",
+      "url": "https://br.investing.com/news/stock-market-news/negociacao-de-opcoes-da-circle-internet-dispara-para-195548-contratos-93CH-1998659",
+      "time": "2026-07-10T16:37:07Z",
       "cat": "internacional",
       "tickers": [],
-      "image": null
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Dados de opções da Regions Financial apontam para variação de 3,9% nos resultados",
+      "title": "Negociação de opções da Kenvue dispara com calls dominando a atividade",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/dados-de-opcoes-da-regions-financial-apontam-para-variacao-de-39-nos-resultados-93CH-1998566",
-      "time": "2026-07-10T14:54:49Z",
+      "url": "https://br.investing.com/news/stock-market-news/negociacao-de-opcoes-da-kenvue-dispara-com-calls-dominando-a-atividade-93CH-1998658",
+      "time": "2026-07-10T16:35:40Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Por que as ações da Micron estão caindo hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-micron-estao-caindo-hoje-93CH-1998651",
+      "time": "2026-07-10T16:25:35Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "10/07/2026 15:32"
+  "atualizado_em": "10/07/2026 17:47"
 }
