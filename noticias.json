@@ -13,6 +13,16 @@
   },
   "featured": [
     {
+      "title": "R$ 8 bilhões em jogo: resort de Ivanka Trump na Albânia enfrenta investigação",
+      "summary": "Terrenos vendidos a Kushner para o Sazan Island Resort entram na mira de autoridades e moradores locais",
+      "source": "Exame",
+      "url": "https://exame.com/mercado-imobiliario/r-8-bilhoes-em-jogo-resort-de-ivanka-trump-na-albania-enfrenta-investigacao/",
+      "time": "2026-07-11T15:38:02Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/Sazan_godinet_dhe_port.jpg"
+    },
+    {
       "title": "Ibovespa dispara quase 3% com IPCA surpreendente e renova máxima em quase dois meses",
       "summary": "O Ibovespa encerrou a semana em forte alta após o IPCA de junho surpreender positivamente o mercado e reforçar as apostas de um novo corte da Selic em agosto. O principal índice da B3 avançou 2,97% nesta sexta-feira (10)",
       "source": "Suno",
@@ -21,41 +31,62 @@
       "cat": "economia",
       "tickers": [],
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/Ibovespa-2-1-jpg.webp"
-    },
-    {
-      "title": "CSN Mineração (CMIN3) salta 21% e MRV (MRVE3) tem pior saldo semanal no Ibovespa; veja os destaques do índice",
-      "summary": "O Ibovespa (IBOV) engatou a terceira semana consecutiva de ganhos com a expectativa da retomada de negociações entre Estados Unidos e Irã para um acordo de paz definitivo no Oriente Médio e aumento das apostas de continu",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ibovespa-destaques-da-semana-28-lils/",
-      "time": "2026-07-11T13:01:00Z",
-      "cat": "acoes",
-      "tickers": [
-        "CMIN3",
-        "MRVE3"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/11/day-trade-copa-btg-1-1-2-1-1.jpg"
     }
   ],
   "all": [
     {
-      "title": "Presidente libanês mantém negociações com Israel apesar da continuidade dos ataques",
-      "summary": "Entendimentos diplomáticos enfrentam oposição do secretário-geral do Hezbollah, Naim Qassem, e do líder druso, Walid Jumblatt, que consideram o tratado inteiramente favorável aos interesses israelenses",
+      "title": "STF cobra explicações da PM do Rio sobre armas apreendidas em operação contra Canella",
+      "summary": "Ministro do Supremo também ordenou que a corporação explique situação de policial preso",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mundo/presidente-libanes-mantem-negociacoes-com-israel-apesar-da-continuidade-dos-ataques/",
-      "time": "2026-07-11T15:29:40Z",
+      "url": "https://www.infomoney.com.br/politica/stf-cobra-explicacoes-da-pm-do-rio-sobre-armas-apreendidas-em-operacao-contra-canella/",
+      "time": "2026-07-11T18:00:00Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Libano.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/02092025-pzzb0229.webp?fit=300%2C179&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Oi assina venda de unidade de serviços telefônicos para a Método Telecomunicações",
-      "summary": "Proposta da Método, no valor de R$ 60,1 milhões, foi a vencedora do procedimento competitivo ocorrido em abril; recursos são essenciais para dar um respiro para a Oi",
+      "title": "Noruega x Inglaterra: modelo matemático aponta possível resultado do jogo; veja",
+      "summary": "Cálculo estatístico da Fundação Getúlio Vargas projeta a seleção que tem mais chances de ganhar partida deste sábado, 11",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/oi-assina-venda-de-unidade-de-servicos-telefonicos-para-a-metodo-telecomunicacoes/",
-      "time": "2026-07-11T14:59:26Z",
+      "url": "https://www.infomoney.com.br/esportes/noruega-x-inglaterra-modelo-matematico-aponta-possivel-resultado-do-jogo-veja/",
+      "time": "2026-07-11T18:00:00Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/623743086_18067298714206625_3316031805936652681_n.jpg?fit=300%2C181&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/1107_Noruega_Inglaterra.png?fit=300%2C191&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Al-Hilal prepara nova oferta milionária para Raphinha, diz site",
+      "summary": "Para levar o atleta, o Al-Hilal seria auxiliado pelo PIF (Public Investments Fund), o fundo soberano da Arábia Saudita",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/esportes/al-hilal-prepara-nova-oferta-milionaria-para-raphinha-diz-site/",
+      "time": "2026-07-11T17:00:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/2025-05-11T163420Z_1_LYNXMPEL4A08K_RTROPTP_4_FUTEBOL-ESPANHA-BARCELONA-REAL.jpg?fit=300%2C195&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Suzano (SUZB3), Sabesp (SBSP3) e mais 3 ações para ter na carteira de curto prazo, segundo a Terra",
+      "summary": "A carteira recomendada da Terra Investimentos para o período de 10 a 17 de julho não teve alterações em relação a semana anterior. Dessa maneira, o portfólio é composto pelas ações da Sabesp (SBSP3), MBRF (MBRF3), Suzano",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/suzano-suzb3-sabesp-sbsp3-e-mais-3-acoes-para-ter-na-carteira-de-curto-prazo-segundo-a-terra-lmrs/",
+      "time": "2026-07-11T17:00:00Z",
+      "cat": "analise",
+      "tickers": [
+        "SUZB3",
+        "SBSP3",
+        "MBRF3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/acoes-1.jpg"
+    },
+    {
+      "title": "FIIs e FI-Infra: Os melhores fundos para investir em julho, segundo o BTG",
+      "summary": "O BTG Pactual promoveu ajustes em sua carteira recomendada de fundos listados para o mês de julho, retirando Tellus Properties (TEPP11) e Itaú Asset Rura (RURA11) da seleção e diminuindo, em 2 pontos percentuais, a parti",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/fiis-e-fi-infra-os-melhores-fundos-para-investir-em-julho-segundo-o-btg-igdl/",
+      "time": "2026-07-11T16:00:00Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/01/fiis-fundos-imobiliarios-imagem-sommart-istockphoto.png"
     },
     {
       "title": "Bitcoin (BTC) sobe e mantém nível dos US$ 64 mil com otimismo do setor de tecnologia; veja preços das criptomoedas neste sábado (11)",
@@ -131,16 +162,6 @@
       "cat": "acoes",
       "tickers": [],
       "image": "https://www.moneytimes.com.br/uploads/2025/04/notas-de-50-reais.png"
-    },
-    {
-      "title": "Empresas do S&P 500 reportarão maior crescimento de lucros em 5 anos no 2T26, projeta FactSet",
-      "summary": "O índice SP 500 deve registrar um dos melhores desempenhos de lucro dos últimos anos no segundo trimestre de 2026 (2T26). Segundo análise de John Butters, da FactSet, a expansão dos resultados das empresas que compõem o ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/empresas-do-sp-500-reportarao-maior-crescimento-de-lucros-em-5-anos-no-2-tri-projeta-factset-lils/",
-      "time": "2026-07-11T12:29:48Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/2026-07-06t134208z-1-lynxmpem650w6-rtroptp-4-usa-stocks-economy-investors.jpg"
     },
     {
       "title": "RBRR11 anuncia maiores dividendos em 1 ano; veja quanto",
@@ -229,34 +250,34 @@
       "image": "https://files.sunoresearch.com.br/n/uploads/2022/12/bandeira-chinesa-china.jpg"
     },
     {
-      "title": "Taylor Swift pagou mais de US$ 160 mil por operação de segurança de seu casamento",
-      "summary": "Cantora bancou o alvará especial para a operação montada durante a cerimônia com Travis Kelce",
+      "title": "Inscrições do Prouni do segundo semestre são prorrogadas até domingo",
+      "summary": "A inscrição deve ser feita exclusivamente pelo portal Acesso Único, utilizando login gov.br, com CPF e senha",
       "source": "Exame",
-      "url": "https://exame.com/pop/taylor-swift-pagou-mais-de-us-160-mil-por-operacao-de-seguranca-de-seu-casamento/",
-      "time": "2026-07-11T12:38:01Z",
+      "url": "https://exame.com/brasil/inscricoes-do-prouni-do-segundo-semestre-sao-prorrogadas-ate-domingo/",
+      "time": "2026-07-11T15:48:00Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/taylor-swift-vivienne.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2024/03/20230627_124014_0.jpg"
     },
     {
-      "title": "Morre Jayden Adams, jogador da África do Sul que participou da Copa do Mundo 2026, aos 25 anos",
-      "summary": "Morte do atleta foi confirmada por familiares e representantes",
+      "title": "R$ 8 bilhões em jogo: resort de Ivanka Trump na Albânia enfrenta investigação",
+      "summary": "Terrenos vendidos a Kushner para o Sazan Island Resort entram na mira de autoridades e moradores locais",
       "source": "Exame",
-      "url": "https://exame.com/esporte/morre-jayden-adams-jogador-da-africa-do-sul-que-participou-da-copa-do-mundo-de-2026-aos-25-anos/",
-      "time": "2026-07-11T11:23:06Z",
-      "cat": "economia",
+      "url": "https://exame.com/mercado-imobiliario/r-8-bilhoes-em-jogo-resort-de-ivanka-trump-na-albania-enfrenta-investigacao/",
+      "time": "2026-07-11T15:38:02Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/Jayden-Adams.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/Sazan_godinet_dhe_port.jpg"
     },
     {
-      "title": "Scaloni rebate acusações de favorecimento na Copa e reacende rivalidade entre Brasil e Argentina",
-      "summary": "Após reclamações contra decisões do VAR, treinador da Argentina diz que a seleção transforma críticas em reação dentro de campo",
+      "title": "Que horas começa Brasil x Estados Unidos? veja onde assistir ao jogo da Liga das Nações feminina",
+      "summary": "Seleção brasileira encerra a primeira fase da Liga das Nações contra as norte-americanas após derrota para a Tailândia com equipe reserva",
       "source": "Exame",
-      "url": "https://exame.com/esporte/scaloni-rebate-acusacoes-de-favorecimento-na-copa-e-reacende-rivalidade-entre-brasil-e-argentina/",
-      "time": "2026-07-11T11:10:29Z",
+      "url": "https://exame.com/esporte/brasil-x-estados-unidos-veja-horario-e-onde-assistir-ao-jogo-da-liga-das-nacoes-feminina-vnl-2026/",
+      "time": "2026-07-11T15:00:04Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/Scaloni-tecnico-da-selecao-argentina.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/volei-ana-cristina-brasil-polonia-vnl.jpg"
     },
     {
       "title": "China suspende exportações de hélio em meio a tensões no Oriente Médio",
@@ -307,17 +328,7 @@
       "cat": "fundos",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/Colombian_Securities_Exchange_M_1440056298.jpg"
-    },
-    {
-      "title": "Rússia - Ações fecharam o pregão em queda e o Índice MOEX Russia Index recuou 2,13%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/russia--acoes-fecharam-o-pregao-em-queda-e-o-indice-moex-russia-index-recuou-213-1998844",
-      "time": "2026-07-10T21:20:22Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": null
     }
   ],
-  "atualizado_em": "11/07/2026 15:53"
+  "atualizado_em": "11/07/2026 18:56"
 }
