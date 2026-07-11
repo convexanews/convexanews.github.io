@@ -1,13 +1,15 @@
 {
   "headline": {
-    "title": "Haddad, sobre taxa de juros: Banco Central está criando problema desnecessariamente",
-    "summary": "O pré-candidato do PT ao governo de São Paulo e ex-ministro da Fazenda, Fernando Haddad, afirmou nesta sexta-feira (10) que o Banco Central (BC) cria um problema desnecessário ao manter a taxa básica de juros em 14,25% a",
+    "title": "Bitcoin (BTC) sobe e mantém nível dos US$ 64 mil com otimismo do setor de tecnologia; veja preços das criptomoedas neste sábado (11)",
+    "summary": "O bitcoin (BTC) opera em leve alta neste sábado (11), mantendo o patamar de US$ 64 mil, com ganho de 0,60% nas últimas 24h. O mercado global de criptomoedas avança hoje ainda de olho na estreia bilionária da SK Hynix, a ",
     "source": "Money Times",
-    "url": "https://www.moneytimes.com.br/haddad-sobre-taxa-de-juros-banco-central-esta-criando-problema-desnecessariamente-lils/",
-    "time": "2026-07-11T12:03:16Z",
-    "cat": "economia",
-    "tickers": [],
-    "image": "https://www.moneytimes.com.br/uploads/2026/05/img-9528-e1779403075258.jpg"
+    "url": "https://www.moneytimes.com.br/bitcoin-btc-11-7-26-lils/",
+    "time": "2026-07-11T15:15:47Z",
+    "cat": "cripto",
+    "tickers": [
+      "BTC"
+    ],
+    "image": "https://www.moneytimes.com.br/uploads/2026/07/bitcoin-btc-em-disparada-de-precos-imagem-chatgpt.png"
   },
   "featured": [
     {
@@ -36,14 +38,66 @@
   ],
   "all": [
     {
-      "title": "XP mantém otimismo com PIB e prevê dólar a R$ 5,00; veja os destaques da semana",
-      "summary": "Incertezas políticas e a queda das commodities explicam a pressão cambial",
+      "title": "Presidente libanês mantém negociações com Israel apesar da continuidade dos ataques",
+      "summary": "Entendimentos diplomáticos enfrentam oposição do secretário-geral do Hezbollah, Naim Qassem, e do líder druso, Walid Jumblatt, que consideram o tratado inteiramente favorável aos interesses israelenses",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/onde-investir/xp-mantem-otimismo-com-pib-e-preve-dolar-a-r-500-veja-os-destaques-da-semana/",
-      "time": "2026-07-11T10:23:00Z",
-      "cat": "economia",
+      "url": "https://www.infomoney.com.br/mundo/presidente-libanes-mantem-negociacoes-com-israel-apesar-da-continuidade-dos-ataques/",
+      "time": "2026-07-11T15:29:40Z",
+      "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/pexels-hoang-nc-483165236-15947457.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Libano.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Oi assina venda de unidade de serviços telefônicos para a Método Telecomunicações",
+      "summary": "Proposta da Método, no valor de R$ 60,1 milhões, foi a vencedora do procedimento competitivo ocorrido em abril; recursos são essenciais para dar um respiro para a Oi",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/oi-assina-venda-de-unidade-de-servicos-telefonicos-para-a-metodo-telecomunicacoes/",
+      "time": "2026-07-11T14:59:26Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/623743086_18067298714206625_3316031805936652681_n.jpg?fit=300%2C181&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Bitcoin (BTC) sobe e mantém nível dos US$ 64 mil com otimismo do setor de tecnologia; veja preços das criptomoedas neste sábado (11)",
+      "summary": "O bitcoin (BTC) opera em leve alta neste sábado (11), mantendo o patamar de US$ 64 mil, com ganho de 0,60% nas últimas 24h. O mercado global de criptomoedas avança hoje ainda de olho na estreia bilionária da SK Hynix, a ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/bitcoin-btc-11-7-26-lils/",
+      "time": "2026-07-11T15:15:47Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/bitcoin-btc-em-disparada-de-precos-imagem-chatgpt.png"
+    },
+    {
+      "title": "Suno adquire 4,6% das ações da Gafisa (GFSA3); objetivo é ‘estritamente de investimento’",
+      "summary": "A Gafisa (GFSA3) informou que a gestora Suno passou a deter 4,6% do capital social da companhia, o que corresponde a 7.235.506 ações ordinárias. Segundo o comunicado, a Suno informou à Gafisa que o objetivo da participaç",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/suno-adquire-46-das-acoes-da-gafisa-gfsa3-objetivo-e-estritamente-de-investimento-lils/",
+      "time": "2026-07-11T15:00:56Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/gafisa-6.jpg"
+    },
+    {
+      "title": "Oi (OIBR3) assina venda de unidade de telefonia para Método Telecomunicações",
+      "summary": "A Oi (OIBR3), em recuperação judicial, formalizou a venda da unidade de serviços telefônicos para a Método Telecomunicações e Comércio. Em fato relevante à Comissão de Valores Mobiliários (CVM) divulgado na manhã deste s",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/oi-oibr3-assina-venda-de-unidade-de-telefonia-para-metodo-lils/",
+      "time": "2026-07-11T14:41:13Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2020/07/1-91.jpg"
+    },
+    {
+      "title": "‘O Príncipe’ dos investimentos: Como Maquiavel ajuda a pensar patrimônio e estratégia",
+      "summary": "Aquele que abandona o que se faz por aquilo que se deveria fazer aprende antes a ruína do que a sua preservação. Essa é uma das máximas de O Príncipe, de Nicolau Maquiavel, uma das obras mais influentes — e controversas ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/o-principe-dos-investimentos-como-maquiavel-ajuda-a-pensar-patrimonio-e-estrategia-rnda/",
+      "time": "2026-07-11T14:30:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/01/fundos-de-investimentos-.jpg"
     },
     {
       "title": "CSN Mineração (CMIN3) salta 21% e MRV (MRVE3) tem pior saldo semanal no Ibovespa; veja os destaques do índice",
@@ -87,16 +141,6 @@
       "cat": "internacional",
       "tickers": [],
       "image": "https://www.moneytimes.com.br/uploads/2026/07/2026-07-06t134208z-1-lynxmpem650w6-rtroptp-4-usa-stocks-economy-investors.jpg"
-    },
-    {
-      "title": "Haddad, sobre taxa de juros: Banco Central está criando problema desnecessariamente",
-      "summary": "O pré-candidato do PT ao governo de São Paulo e ex-ministro da Fazenda, Fernando Haddad, afirmou nesta sexta-feira (10) que o Banco Central (BC) cria um problema desnecessário ao manter a taxa básica de juros em 14,25% a",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/haddad-sobre-taxa-de-juros-banco-central-esta-criando-problema-desnecessariamente-lils/",
-      "time": "2026-07-11T12:03:16Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/05/img-9528-e1779403075258.jpg"
     },
     {
       "title": "RBRR11 anuncia maiores dividendos em 1 ano; veja quanto",
@@ -185,24 +229,44 @@
       "image": "https://files.sunoresearch.com.br/n/uploads/2022/12/bandeira-chinesa-china.jpg"
     },
     {
-      "title": "O 'difícil' começo do mercado preditivo no Brasil",
-      "summary": "Resolução do CMN trouxe limites mais claros, mas abriu novas disputas sobre competências, classificação jurídica e alcance da regulação",
+      "title": "Taylor Swift pagou mais de US$ 160 mil por operação de segurança de seu casamento",
+      "summary": "Cantora bancou o alvará especial para a operação montada durante a cerimônia com Travis Kelce",
       "source": "Exame",
-      "url": "https://exame.com/future-of-money/o-dificil-comeco-do-mercado-preditivo-no-brasil/",
-      "time": "2026-07-11T10:00:56Z",
+      "url": "https://exame.com/pop/taylor-swift-pagou-mais-de-us-160-mil-por-operacao-de-seguranca-de-seu-casamento/",
+      "time": "2026-07-11T12:38:01Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/12/exemplos-kalshi-1.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/taylor-swift-vivienne.jpg"
     },
     {
-      "title": "Messi joga hoje? Veja as prováveis escalações de Argentina x Suíça na Copa do Mundo",
-      "summary": "Argentina e Suíça disputam a última vaga nas semifinais da Copa do Mundo 2026 neste sábado",
+      "title": "Morre Jayden Adams, jogador da África do Sul que participou da Copa do Mundo 2026, aos 25 anos",
+      "summary": "Morte do atleta foi confirmada por familiares e representantes",
       "source": "Exame",
-      "url": "https://exame.com/esporte/messi-joga-hoje-veja-as-provaveis-escalacoes-de-argentina-x-suica-na-copa-do-mundo/",
-      "time": "2026-07-11T09:51:42Z",
+      "url": "https://exame.com/esporte/morre-jayden-adams-jogador-da-africa-do-sul-que-participou-da-copa-do-mundo-de-2026-aos-25-anos/",
+      "time": "2026-07-11T11:23:06Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/messi-argentina-egito-copa-do-mundo.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/Jayden-Adams.jpg"
+    },
+    {
+      "title": "Scaloni rebate acusações de favorecimento na Copa e reacende rivalidade entre Brasil e Argentina",
+      "summary": "Após reclamações contra decisões do VAR, treinador da Argentina diz que a seleção transforma críticas em reação dentro de campo",
+      "source": "Exame",
+      "url": "https://exame.com/esporte/scaloni-rebate-acusacoes-de-favorecimento-na-copa-e-reacende-rivalidade-entre-brasil-e-argentina/",
+      "time": "2026-07-11T11:10:29Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/Scaloni-tecnico-da-selecao-argentina.jpg"
+    },
+    {
+      "title": "China suspende exportações de hélio em meio a tensões no Oriente Médio",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/china-suspende-exportacoes-de-helio-em-meio-a-tensoes-no-oriente-medio-1999020",
+      "time": "2026-07-11T14:58:52Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
       "title": "América corporativa oferece provas mais sólidas de que a IA está impulsionando lucros e produtividade",
@@ -253,17 +317,7 @@
       "cat": "internacional",
       "tickers": [],
       "image": null
-    },
-    {
-      "title": "Holtec Nuclear entra com pedido de IPO na Nasdaq",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/holtec-nuclear-entra-com-pedido-de-ipo-na-nasdaq-432SI-1998850",
-      "time": "2026-07-10T21:16:01Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "11/07/2026 13:10"
+  "atualizado_em": "11/07/2026 15:53"
 }
