@@ -13,18 +13,6 @@
   },
   "featured": [
     {
-      "title": "Projeto de deputado após fracasso do Brasil na Copa, desempenho do bitcoin, Wall Street e mais: o que bombou na semana",
-      "summary": "O projeto de lei do deputado Luiz Carlos Hauly (Podemos-PR), após o fracasso da Seleção Brasileira na Copa do Mundo, e o avanço do bitcoin em 11 de junho estão entre os assuntos que ganharam destaque entre os leitores. E",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/projeto-de-deputado-apos-fracasso-do-brasil-na-copa-desempenho-do-bitcoin-wall-street-e-mais-o-que-bombou-na-semana-lmrs/",
-      "time": "2026-07-12T12:02:15Z",
-      "cat": "cripto",
-      "tickers": [
-        "BTC"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/selecao-brasileira-copa-do-mundo.jpg"
-    },
-    {
       "title": "Ibovespa dispara quase 3% com IPCA surpreendente e renova máxima em quase dois meses",
       "summary": "O Ibovespa encerrou a semana em forte alta após o IPCA de junho surpreender positivamente o mercado e reforçar as apostas de um novo corte da Selic em agosto. O principal índice da B3 avançou 2,97% nesta sexta-feira (10)",
       "source": "Suno",
@@ -33,18 +21,48 @@
       "cat": "economia",
       "tickers": [],
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/Ibovespa-2-1-jpg.webp"
+    },
+    {
+      "title": "Duplicata escritural, que pode “destravar” R$ 11 tri, ainda engatinha entre empresas",
+      "summary": "Tema tem disputado a atenção com pautas consideradas mais imediatas, sobretudo a transição da reforma tributária",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/economia/duplicata-escritural-que-pode-destravar-r-11-tri-ainda-engatinha-entre-empresas/",
+      "time": "2026-07-12T20:27:47Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Banco-Central-do-Brasil.jpg?fit=300%2C178&amp;quality=70&amp;strip=all"
     }
   ],
   "all": [
     {
-      "title": "Ataques israelenses em Gaza matam 6 pessoas, incluindo uma criança, segundo médicos",
-      "summary": "As forças armadas israelenses afirmaram não ter conhecimento do incidente",
+      "title": "Duplicata escritural, que pode “destravar” R$ 11 tri, ainda engatinha entre empresas",
+      "summary": "Tema tem disputado a atenção com pautas consideradas mais imediatas, sobretudo a transição da reforma tributária",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mundo/ataques-israelenses-em-gaza-matam-6-pessoas-incluindo-uma-crianca-segundo-medicos/",
-      "time": "2026-07-12T18:30:51Z",
+      "url": "https://www.infomoney.com.br/economia/duplicata-escritural-que-pode-destravar-r-11-tri-ainda-engatinha-entre-empresas/",
+      "time": "2026-07-12T20:27:47Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/gaza-3.png?fit=300%2C161&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Banco-Central-do-Brasil.jpg?fit=300%2C178&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Calendário econômico da semana: inflação e Livro Bege nos EUA são foco",
+      "summary": "Tudo o que o investidor precisa saber antes de operar na semana",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/calendario-economico-da-semana-inflacao-e-livro-bege-nos-eua-sao-foco/",
+      "time": "2026-07-12T20:00:00Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/2024-05-10T142108Z_1_LYNXMPEK490G1_RTROPTP_3_USA-ECONOMY-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "SpaceX pode atingir valor de mercado de US$ 10 tri com expansão do Starship",
+      "summary": "No lançamento, o valor de mercado era de US$ 1,7 trilhão; hoje, é de US$ 1,9 trilhão",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/spacex-pode-atingir-valor-de-mercado-de-us-10-tri-com-expansao-do-starship/",
+      "time": "2026-07-12T19:07:23Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-11T194115Z_1_LYNXMPEM5A1HW_RTROPTP_4_SPACEX-IPO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
       "title": "Lojas Renner (LREN3) e Telefônica Brasil (VIVT3) pagam dividendos nesta semana; veja o calendário",
@@ -235,14 +253,14 @@
       "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     },
     {
-      "title": "Taylor Swift amplia domínio na indústria com cinco indicações ao Emmy por especial ‘The Eras Tour’",
-      "summary": "Nos últimos anos, Taylor Swift passou a ser vista como uma das executivas mais influentes da indústria do entretenimento",
-      "source": "Exame",
-      "url": "https://exame.com/pop/taylor-swift-amplia-dominio-na-industria-com-cinco-indicacoes-ao-emmy-por-especial-the-eras-tour/",
-      "time": "2026-07-12T15:19:58Z",
-      "cat": "economia",
+      "title": "Rússia - Ações fecharam o pregão em queda e o Índice MOEX Russia Index terminou sem alterações",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/russia--acoes-fecharam-o-pregao-em-queda-e-o-indice-moex-russia-index-terminou-sem-alteracoes-1999235",
+      "time": "2026-07-12T21:20:21Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/taylor-swift-versace.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC1112Z_M.jpg"
     },
     {
       "title": "Por que o UBS acredita que o mercado altista pode sobreviver a juros mais altos?",
@@ -313,17 +331,7 @@
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Rússia - Ações fecharam o pregão em queda e o Índice MOEX Russia Index terminou sem alterações",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/russia--acoes-fecharam-o-pregao-em-queda-e-o-indice-moex-russia-index-terminou-sem-alteracoes-1999076",
-      "time": "2026-07-11T21:20:24Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEA7S070_M.jpg"
     }
   ],
-  "atualizado_em": "12/07/2026 19:00"
+  "atualizado_em": "12/07/2026 21:45"
 }
