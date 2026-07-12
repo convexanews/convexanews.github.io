@@ -1,17 +1,29 @@
 {
   "headline": {
-    "title": "Projeto de deputado após fracasso do Brasil na Copa, desempenho do bitcoin, Wall Street e mais: o que bombou na semana",
-    "summary": "O projeto de lei do deputado Luiz Carlos Hauly (Podemos-PR), após o fracasso da Seleção Brasileira na Copa do Mundo, e o avanço do bitcoin em 11 de junho estão entre os assuntos que ganharam destaque entre os leitores. E",
+    "title": "Bitcoin (BTC) sobe mais de 2% na semana e sustenta os US$ 64 mil; veja os preços das criptomoedas neste domingo (12)",
+    "summary": "As maiores criptomoedas do mundo registram desempenhos mistos neste domingo (12). Por volta de 11h50 (horário de Brasília), o bitcoin (BTC) recuava 0,36% nas últimas 24 horas, a US$ 64,119.84. Na semana, no entanto, o cr",
     "source": "Money Times",
-    "url": "https://www.moneytimes.com.br/projeto-de-deputado-apos-fracasso-do-brasil-na-copa-desempenho-do-bitcoin-wall-street-e-mais-o-que-bombou-na-semana-lmrs/",
-    "time": "2026-07-12T12:02:15Z",
+    "url": "https://www.moneytimes.com.br/bitcoin-btc-sobe-mais-de-2-na-semana-e-sustenta-os-us-64-mil-veja-os-precos-das-criptomoedas-neste-domingo-12-lmrs/",
+    "time": "2026-07-12T15:01:04Z",
     "cat": "cripto",
     "tickers": [
       "BTC"
     ],
-    "image": "https://www.moneytimes.com.br/uploads/2026/07/selecao-brasileira-copa-do-mundo.jpg"
+    "image": "https://www.moneytimes.com.br/uploads/2026/07/bitcoin-btc-em-meio-a-guerra-imagem-chatgpt.png"
   },
   "featured": [
+    {
+      "title": "Projeto de deputado após fracasso do Brasil na Copa, desempenho do bitcoin, Wall Street e mais: o que bombou na semana",
+      "summary": "O projeto de lei do deputado Luiz Carlos Hauly (Podemos-PR), após o fracasso da Seleção Brasileira na Copa do Mundo, e o avanço do bitcoin em 11 de junho estão entre os assuntos que ganharam destaque entre os leitores. E",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/projeto-de-deputado-apos-fracasso-do-brasil-na-copa-desempenho-do-bitcoin-wall-street-e-mais-o-que-bombou-na-semana-lmrs/",
+      "time": "2026-07-12T12:02:15Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/selecao-brasileira-copa-do-mundo.jpg"
+    },
     {
       "title": "CDI é melhor que títulos atrelados ao IPCA? Relatório mostra qual investimento protege (mesmo) contra inflação",
       "summary": "Durante muito tempo, investidores deram preferência a investimentos atrelados ao CDI como forma de se proteger contra a inflação, deixando de lado títulos do Tesouro atrelados ao IPCA. No entanto, um novo relatório da TA",
@@ -21,48 +33,52 @@
       "cat": "economia",
       "tickers": [],
       "image": "https://www.moneytimes.com.br/uploads/2026/01/dinheiro-dividendos-imagem-emerson-barreto-istockphoto.png"
-    },
-    {
-      "title": "Dança das cadeiras: BofA avalia quais ações devem entrar e sair na 1ª prévia do Ibovespa",
-      "summary": "O Bank of America (BofA) considera, em estimativa preliminar, quais nomes devem entrar e sair do Ibovespa (IBOV), diante da proximidade da primeira prévia da nova carteira, que será divulgada em 3 de agosto. De acordo co",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/danca-das-cadeiras-bofa-avalia-quais-acoes-devem-entrar-e-sair-na-1a-previa-do-ibovespa-apsa/",
-      "time": "2026-07-12T11:58:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/08/itau-1.jpg"
     }
   ],
   "all": [
     {
-      "title": "Crocantes e práticas: frutas liofilizadas viram febre, mas é preciso moderação",
-      "summary": "Alternativa promete praticidade e nutrientes, mas nutricionista alerta que pequenas porções concentram açúcares e calorias",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/saude/crocantes-e-praticas-frutas-liofilizadas-viram-febre-snack-fitness-mas-e-preciso-moderacao/",
-      "time": "2026-07-12T12:44:19Z",
-      "cat": "acoes",
+      "title": "‘EUA deveriam retomar bloqueio ao petróleo do Irã; Brent ainda subestima riscos’, diz Brooks",
+      "summary": "O pesquisador sênior da Brookings Institution e ex-economista-chefe do Instituto de Finanças Internacionais (IIF, na sigla em inglês), Robin Brooks, afirmou que os Estados Unidos deveriam restabelecer o bloqueio às expor",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/eua-deveriam-retomar-bloqueio-ao-petroleo-do-ira-brent-ainda-subestima-riscos-diz-brooks-lmrs/",
+      "time": "2026-07-12T15:08:47Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Captura-de-tela-2026-07-12-094222.png?fit=300%2C166&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/petroleo.jpg"
     },
     {
-      "title": "Justiça de SP absolve Thiago Brennand de condenação de oito anos por estupro",
-      "summary": "A decisão de maio reverteu por dois votos a um a condenação em primeira instância de oito anos de prisão, ocorrida em agosto de 2025",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/brasil/justica-de-sp-absolve-thiago-brennand-de-condenacao-de-oito-anos-por-estupro/",
-      "time": "2026-07-12T12:21:22Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Captura-de-tela-2026-07-12-091938.png?fit=300%2C193&amp;quality=70&amp;strip=all"
+      "title": "Bitcoin (BTC) sobe mais de 2% na semana e sustenta os US$ 64 mil; veja os preços das criptomoedas neste domingo (12)",
+      "summary": "As maiores criptomoedas do mundo registram desempenhos mistos neste domingo (12). Por volta de 11h50 (horário de Brasília), o bitcoin (BTC) recuava 0,36% nas últimas 24 horas, a US$ 64,119.84. Na semana, no entanto, o cr",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/bitcoin-btc-sobe-mais-de-2-na-semana-e-sustenta-os-us-64-mil-veja-os-precos-das-criptomoedas-neste-domingo-12-lmrs/",
+      "time": "2026-07-12T15:01:04Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/bitcoin-btc-em-meio-a-guerra-imagem-chatgpt.png"
     },
     {
-      "title": "Rogéria, Michelle e Ana Cristina: rixas marcam vida política de mulheres de Bolsonaro",
-      "summary": "Ex-presidente colocou Rogéria, Ana Cristina e Michelle em diferentes cargos, o que acarretou disputas na própria família",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/rogeria-michelle-e-ana-cristina-rixas-marcam-vida-politica-de-mulheres-de-bolsonaro/",
-      "time": "2026-07-12T12:15:56Z",
-      "cat": "acoes",
+      "title": "Agenda: inflação nos EUA, IBC-Br e PIB da China concentram atenções dos mercados; confira os indicadores da semana",
+      "summary": "A semana entre 13 e 17 de julho será marcada por uma série de indicadores econômicos que prometem movimentar ainda mais as expectativas do mercado. Entre os destaques, a prévia do PIB brasileiro, inflação nos Estado Unid",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/agenda-inflacao-nos-eua-ibc-br-e-pib-da-china-concentram-atencoes-dos-mercados-confira-os-indicadores-da-semana/",
+      "time": "2026-07-12T15:00:00Z",
+      "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/12/michelle-bolsonaro.jpg?fit=300%2C183&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/agenda-indicadores-economicos-mercados-.jpg"
+    },
+    {
+      "title": "Investidores em criptomoedas, atenção: ‘see you, space cowboy!’ e as mais lidas do Crypto Times",
+      "summary": "Olá, investidor e investidora de cripto! Sejam muito bem-vindos a mais uma edição da nossa coluna semanal do Crypto Times, a editoria de bitcoin (BTC) e criptomoedas do Money Times. Para se inscrever e receber em primeir",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/investidores-em-criptomoedas-atencao-see-you-space-cowboy-e-as-mais-lidas-do-crypto-times-rens/",
+      "time": "2026-07-12T14:00:00Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/cowboy-bebop-1998-imagem-reproducao.png"
     },
     {
       "title": "CDI é melhor que títulos atrelados ao IPCA? Relatório mostra qual investimento protege (mesmo) contra inflação",
@@ -115,52 +131,6 @@
       "cat": "acoes",
       "tickers": [],
       "image": "https://www.moneytimes.com.br/uploads/2025/08/itau-1.jpg"
-    },
-    {
-      "title": "Irã anuncia novo fechamento do Estreito de Ormuz e diz ter atingido embarcação na rota",
-      "summary": "A Marinha da Guarda Revolucionária do Irã (IRGC, na sigla em inglês) anunciou no sábado (11), um novo fechamento do Estreito de Ormuz por tempo indeterminado e afirmou ter atingido uma embarcação que tentou cruzar a rota",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ira-anuncia-novo-fechamento-do-estreito-de-ormuz-e-diz-ter-atingido-embarcacao-na-rota-lmrs/",
-      "time": "2026-07-12T11:15:12Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/estreito-de-ormuz.jpg"
-    },
-    {
-      "title": "Suzano (SUZB3), Sabesp (SBSP3) e mais 3 ações para ter na carteira de curto prazo, segundo a Terra",
-      "summary": "A carteira recomendada da Terra Investimentos para o período de 10 a 17 de julho não teve alterações em relação a semana anterior. Dessa maneira, o portfólio é composto pelas ações da Sabesp (SBSP3), MBRF (MBRF3), Suzano",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/suzano-suzb3-sabesp-sbsp3-e-mais-3-acoes-para-ter-na-carteira-de-curto-prazo-segundo-a-terra-lmrs/",
-      "time": "2026-07-11T17:00:00Z",
-      "cat": "analise",
-      "tickers": [
-        "SUZB3",
-        "SBSP3",
-        "MBRF3"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/acoes-1.jpg"
-    },
-    {
-      "title": "FIIs e FI-Infra: Os melhores fundos para investir em julho, segundo o BTG",
-      "summary": "O BTG Pactual promoveu ajustes em sua carteira recomendada de fundos listados para o mês de julho, retirando Tellus Properties (TEPP11) e Itaú Asset Rura (RURA11) da seleção e diminuindo, em 2 pontos percentuais, a parti",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/fiis-e-fi-infra-os-melhores-fundos-para-investir-em-julho-segundo-o-btg-igdl/",
-      "time": "2026-07-11T16:00:00Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/01/fiis-fundos-imobiliarios-imagem-sommart-istockphoto.png"
-    },
-    {
-      "title": "Bitcoin (BTC) sobe e mantém nível dos US$ 64 mil com otimismo do setor de tecnologia; veja preços das criptomoedas neste sábado (11)",
-      "summary": "O bitcoin (BTC) opera em leve alta neste sábado (11), mantendo o patamar de US$ 64 mil, com ganho de 0,60% nas últimas 24h. O mercado global de criptomoedas avança hoje ainda de olho na estreia bilionária da SK Hynix, a ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bitcoin-btc-11-7-26-lils/",
-      "time": "2026-07-11T15:15:47Z",
-      "cat": "cripto",
-      "tickers": [
-        "BTC"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/bitcoin-btc-em-disparada-de-precos-imagem-chatgpt.png"
     },
     {
       "title": "Lojas Renner (LREN3) e Moura Dubeux (MDNE3): Veja quem paga dividendos na semana",
@@ -252,34 +222,34 @@
       "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     },
     {
-      "title": "Valentina fazia figuração no SBT. Hoje, toda transação na Paulista passa por ela",
-      "summary": "A corretora Valentina Caran é a convidada do primeiro episódio de Por trás do tijolo, o novo programa de mercado imobiliário da EXAME",
+      "title": "Messi x Bellingham: o duelo entre duas gerações pelo sonho da final",
+      "summary": "Essa é a primeira vez que Messi enfrenta a seleção inglesa em sua carreira",
       "source": "Exame",
-      "url": "https://exame.com/mercado-imobiliario/valentina-fazia-figuracao-no-sbt-hoje-toda-transacao-na-paulista-passa-por-ela/",
-      "time": "2026-07-12T10:00:20Z",
+      "url": "https://exame.com/esporte/messi-x-bellingham-o-duelo-entre-duas-geracoes-pelo-sonho-da-final/",
+      "time": "2026-07-12T11:17:43Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/Valentina-Caran-Episodio-Por-tras-do-tijolo.png"
+      "image": "https://classic.exame.com/wp-content/uploads/2025/11/GettyImages-2246545934.jpg"
     },
     {
-      "title": "O valor milionário por trás da restauração um superiate clássico",
-      "summary": "Malahne, Christina O e outros clássicos mostram o preço de devolver a vida a embarcações que atravessaram guerras, décadas de abandono e trocaram várias vezes de dono",
-      "source": "Exame",
-      "url": "https://exame.com/casual/o-valor-milionario-por-tras-da-restauracao-um-superiate-classico/",
-      "time": "2026-07-12T09:28:33Z",
+      "title": "Por que o UBS acredita que o mercado altista pode sobreviver a juros mais altos?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-o-ubs-acredita-que-o-mercado-altista-pode-sobreviver-a-juros-mais-altos-1999192",
+      "time": "2026-07-12T14:28:36Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/iates-renovacao-1.jpg"
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Vida Imobiliária: A geração que prefere mobilidade a grandes apartamentos",
-      "summary": "Jovens priorizam localização, caminhabilidade e tempo livre em vez de espaço dentro de casa",
-      "source": "Exame",
-      "url": "https://exame.com/mercado-imobiliario/vida-imobiliaria-a-geracao-que-prefere-mobilidade-a-metragem/",
-      "time": "2026-07-12T09:00:23Z",
-      "cat": "economia",
+      "title": "Goldman Sachs aponta perspectiva do Fed como risco para ações dos EUA antes do CPI",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/goldman-sachs-aponta-perspectiva-do-fed-como-risco-para-acoes-dos-eua-antes-do-cpi-1999182",
+      "time": "2026-07-12T14:01:47Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2023/06/MG_0544.jpg"
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
       "title": "Arábia Saudita - Ações fecharam o pregão em alta e o Índice Tadawul All Share avançou 0,10%",
@@ -340,27 +310,7 @@
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/LYNXMPEA7S070_M.jpg"
-    },
-    {
-      "title": "China suspende exportações de hélio em meio a tensões no Oriente Médio",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/china-suspende-exportacoes-de-helio-em-meio-a-tensoes-no-oriente-medio-1999020",
-      "time": "2026-07-11T14:58:52Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "América corporativa oferece provas mais sólidas de que a IA está impulsionando lucros e produtividade",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/america-corporativa-oferece-provas-mais-solidas-de-que-a-ia-esta-impulsionando-lucros-e-produtividade-1999000",
-      "time": "2026-07-11T12:25:07Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "12/07/2026 13:12"
+  "atualizado_em": "12/07/2026 15:56"
 }
