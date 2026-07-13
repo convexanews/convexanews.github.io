@@ -1,96 +1,128 @@
 {
   "headline": {
-    "title": "Mercado eleva apostas de alta dos juros pelo Fed em setembro após tensão EUA-Irã",
-    "summary": "O mercado ampliou as apostas de que o Federal Reserve (Fed) elevará os juros na reunião de setembro, em meio à escalada das tensões entre Estados Unidos e Irã, que impulsionou os preços do petróleo e reforçou preocupaçõe",
+    "title": "Fed pode elevar juros no curto prazo se inflação continuar alta, diz Waller",
+    "summary": "O banco central dos EUA pode precisar aumentar as taxas de juros “no curto prazo” se os próximos dados mostrarem que a inflação continua bem acima da meta de 2%, afirmou na segunda-feira (13) o diretor do Federal Reserve",
     "source": "Money Times",
-    "url": "https://www.moneytimes.com.br/cme-mercado-reforca-apostas-em-alta-de-juros-pelo-fed-em-setembro-sob-crise-no-oriente-medio-jcav/",
-    "time": "2026-07-13T17:08:15Z",
+    "url": "https://www.moneytimes.com.br/waller-do-fed-diz-que-talvez-seja-necessario-aumentar-juros-no-curto-prazo-jcav/",
+    "time": "2026-07-13T18:46:10Z",
     "cat": "economia",
     "tickers": [],
-    "image": "https://www.moneytimes.com.br/uploads/2026/07/selic-juros-economia-brasil.png"
+    "image": "https://www.moneytimes.com.br/uploads/2026/07/diretor-do-federal-reserve-christopher-j.-waller-chega-em-forum-em-sintra-portugal-30-de-junho-de-2026.-reuterspedro-rocha.png"
   },
   "featured": [
     {
-      "title": "Selic alta mantém ETFs pós-fixados em evidência; veja como esses fundos capturam os juros",
-      "summary": "Selic alta mantém ETFs pós-fixados em evidência; veja como esses fundos capturam os jurosA expectativa de que a Selic permaneça entre 13,50% e 14% até o fim de 2026 tem mantido os investimentos pós-fixados entre os princ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/selic-alta-pos-fixados-evidencia-gss/",
-      "time": "2026-07-13T12:06:33Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2026/04/iStock-1489161417-1-jpg.webp"
-    },
-    {
-      "title": "Ibovespa Hoje Ao Vivo: Bolsa cai e tenta sustentar os 176 mil pontos",
-      "summary": "Bolsas dos EUA operam mistas, com escalada de tensões com o Irã no radar",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-13072026/",
-      "time": "2026-07-13T16:37:40Z",
+      "title": "Ibovespa ganha sinal de alta e pode buscar 179 mil pontos no curto prazo, diz Itaú BBA",
+      "summary": "O Ibovespa (IBOV) saltou mais de quatro mil pontos apenas no pregão da última sexta-feira (10) e alcançou os 177 mil pontos em dia de forte apetite a risco do investidor. Para a análise técnica do Itaú BBA, a disparada d",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ibovespai-ganha-sinal-de-alta-e-pode-buscar-179-mil-pontos-no-curto-prazo-diz-itau-bba-lils/",
+      "time": "2026-07-13T18:31:01Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-12-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/day-trade.jpg"
+    },
+    {
+      "title": "Mercado Livre (MELI34) resiste aos juros, enquanto Magalu (MGLU3) e Casas Bahia (BHIA3) patinam",
+      "summary": "O Mercado Livre (MELI34) segue como a principal aposta do Safra no comércio eletrônico da América Latina, mesmo após a piora do cenário macroeconômico no Brasil. O banco revisou estimativas e preços-alvo para empresas do",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/mercado-livre-meli34-ecommerce-magalu-casas-bahia-mt/",
+      "time": "2026-07-13T18:25:05Z",
+      "cat": "economia",
+      "tickers": [
+        "MGLU3"
+      ],
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/mercado-livre-meli34-favorita-santander-divulgacao-jpg.webp"
     }
   ],
   "all": [
     {
-      "title": "Quem paga pelos cuidados na velhice? Veja o gasto que não pode faltar no planejamento",
-      "summary": "Ignorar os cuidados de longo prazo pode gerar endividamento e afetar toda a família, dizem especialistas",
+      "title": "Preços de canetas emagrecedoras podem transformar mercado no Brasil e afetar ações",
+      "summary": "Estratégia agressiva da EMS com o Ozivy eleva projeção de volumes, mas diminui ticket médio e impõe margens pressionadas para concorrentes como a Hypera",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/minhas-financas/quem-paga-pelos-cuidados-na-velhice-veja-o-gasto-que-nao-pode-faltar-no-planejamento/",
-      "time": "2026-07-13T17:30:00Z",
+      "url": "https://www.infomoney.com.br/mercados/precos-de-canetas-emagrecedoras-podem-transformar-mercado-no-brasil-glp-1-e-afetar-acoes/",
+      "time": "2026-07-13T19:14:42Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/Envelhecimento.png?fit=300%2C179&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/04/2025-03-21T161239Z_413525030_RC2KH6A9B7JK_RTRMADP_3_HYPERA-SEMAGLUTIDE.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Bolsas da Europa fecham perto da estabilidade com foco no Irã e avanço do petróleo",
-      "summary": "Os índices europeus registraram ganhos leves sob o impulso de petroleiras diante do avanço da commodity, enquanto aéreas e o setor de tecnologia limitaram os avanços do pregão",
+      "title": "Petróleo brent sobe mais de 8% com escalada de tensões por Estreito de Ormuz",
+      "summary": "Irã intensifica ataques a bases dos EUA no Golfo",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/bolsas-da-europa-fecham-perto-da-estabilidade-com-foco-no-ira-e-avanco-do-petroleo/",
-      "time": "2026-07-13T17:12:56Z",
+      "url": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-13072026/",
+      "time": "2026-07-13T18:56:11Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/04/2024-04-24T185107Z_1_LYNXNPEK3N0TK_RTROPTP_4_EUROPE-STOCKS.jpg?fit=300%2C192&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/hormuz-estreito-guerra-ira-eua-petroleo.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Administradora do CACR11 anuncia renúncia; entenda o que acontece com FII",
-      "summary": "A BRL Trust, atual administradora do fundo, comunicou formalmente sua renúncia ao cargo",
+      "title": "Para recuperar o engajamento, a Netflix está considerando o impensável: TV ao vivo",
+      "summary": "Com sinais de desgaste no uso da plataforma, empresa avalia TV ao vivo e parcerias com outros streamings",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/onde-investir/administradora-do-cacr11-anuncia-renuncia-entenda-o-que-acontece-com-fii/",
-      "time": "2026-07-13T17:11:59Z",
-      "cat": "fundos",
+      "url": "https://www.infomoney.com.br/business/para-recuperar-o-engajamento-a-netflix-esta-considerando-o-impensavel-tv-ao-vivo/",
+      "time": "2026-07-13T18:53:02Z",
+      "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/pexels-sevenstormphotography-443383-1.jpg?fit=300%2C225&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/10/shutterstock_1192576591.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Maior impacto da guerra para América Latina e Caribe foi na inflação, diz Cepal",
-      "summary": "Choque da alta acelerada do barril do petróleo e de outros produtos básicos gerou pressões inflacionárias na região, capturadas pelas recentes divulgações dos índices de preços ao consumidor (IPCs) de abril",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/economia/maior-impacto-da-guerra-para-america-latina-e-caribe-foi-na-inflacao-diz-cepal/",
-      "time": "2026-07-13T17:00:00Z",
+      "title": "Ouro fecha em queda com expectativas de aperto monetário nos EUA após escalada das tensões entre EUA-Irã",
+      "summary": "O ouro encerrou em baixa nesta segunda-feira (13) em queda forte, voltando a recuar abaixo de US$ 4 mil, em meio a um novo acirramento de tensões no Oriente Médio, o que impulsionou o petróleo e o dólar, além de renovar ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ouro-13-7-26-lils/",
+      "time": "2026-07-13T18:56:55Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/12/prata-e-ouro.png"
+    },
+    {
+      "title": "Fed pode elevar juros no curto prazo se inflação continuar alta, diz Waller",
+      "summary": "O banco central dos EUA pode precisar aumentar as taxas de juros “no curto prazo” se os próximos dados mostrarem que a inflação continua bem acima da meta de 2%, afirmou na segunda-feira (13) o diretor do Federal Reserve",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/waller-do-fed-diz-que-talvez-seja-necessario-aumentar-juros-no-curto-prazo-jcav/",
+      "time": "2026-07-13T18:46:10Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-28T150652Z_1_LYNXMPEM5R0FH_RTROPTP_4_IRAN-CRISIS-FERTILIZERS.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/diretor-do-federal-reserve-christopher-j.-waller-chega-em-forum-em-sintra-portugal-30-de-junho-de-2026.-reuterspedro-rocha.png"
     },
     {
-      "title": "Ibovespa Hoje Ao Vivo: Bolsa cai e tenta sustentar os 176 mil pontos",
-      "summary": "Bolsas dos EUA operam mistas, com escalada de tensões com o Irã no radar",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-13072026/",
-      "time": "2026-07-13T16:37:40Z",
+      "title": "Ibovespa ganha sinal de alta e pode buscar 179 mil pontos no curto prazo, diz Itaú BBA",
+      "summary": "O Ibovespa (IBOV) saltou mais de quatro mil pontos apenas no pregão da última sexta-feira (10) e alcançou os 177 mil pontos em dia de forte apetite a risco do investidor. Para a análise técnica do Itaú BBA, a disparada d",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ibovespai-ganha-sinal-de-alta-e-pode-buscar-179-mil-pontos-no-curto-prazo-diz-itau-bba-lils/",
+      "time": "2026-07-13T18:31:01Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-12-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/day-trade.jpg"
     },
     {
-      "title": "Nasdaq e S&P 500 perdem força perto de resistências; guerra e balanços pressionam",
-      "summary": "Índices recuam após duas semanas de recuperação, em meio à alta da cautela com o petróleo e a temporada de resultados",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/nasdaq-e-sp-500-perdem-forca-perto-de-resistencias-guerra-e-balancos-pressionam/",
-      "time": "2026-07-13T16:27:26Z",
+      "title": "Novo tarifaço de Trump e ação da família Bolsonaro nos Estados Unidos podem mudar cenário eleitoral",
+      "summary": "O que pode mudar o desempenho dos pré-candidatos a presidente da República nas pesquisas eleitorais e quando serão divulgados os próximos levantamentos paras as eleições 2026 foram os principais temas do Giro do Mercado ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/giro-do-mercado-sobre-atuacao-de-eduardo-bolsonaro-isca/",
+      "time": "2026-07-13T18:21:31Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/wall-street-IA-2.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/05/img20250204192412467.jpg"
+    },
+    {
+      "title": "Bolsas da Europa fecham em alta apesar de disparada dos preços do petróleo",
+      "summary": "Os índices europeus fecharam o pregão desta segunda-feira (13) majoritariamente em alta, em um pregão marcado pela escalada das tensões entre Estados Unidos e Irã e disparada dos preços do petróleo. O índice pan-europeu ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/europa-13-7-26-lils/",
+      "time": "2026-07-13T18:06:20Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2021/07/acoes-europa.jpg"
+    },
+    {
+      "title": "Por que o Ibovespa perde mais de 2 mil pontos nesta segunda-feira (13)",
+      "summary": "O Ibovespa (IBOV) perdeu mais de 2 mil pontos nesta segunda-feira (13) diante da escalada na guerra entre Estados Unidos e Irã. Mais cedo, o presidente dos EUA, Donald Trump, afirmou que os norte-americanos implementaria",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ibovespa-intradia-13-7-26-apsa/",
+      "time": "2026-07-13T17:53:06Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/02/trump-wall-street.jpg"
     },
     {
       "title": "CNH pelo celular transforma início da primeira habilitação, mas ainda exige etapas presenciais",
@@ -103,74 +135,16 @@
       "image": "https://www.moneytimes.com.br/uploads/2022/06/cnh-novo-modelo.jpg"
     },
     {
-      "title": "Petróleo salta 7% e barril volta a US$ 80 com disputa pelo Estreito de Ormuz",
-      "summary": "Os preços do petróleo aceleraram os ganhos no início da tarde desta segunda-feira (13) e saltam mais de 6% em meio a nova escalada de tensões entre Estados Unidos e Irã. Por volta de 14h40 (horário de Brasília), o contra",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/petroleo-intradia-13-7-26-lils/",
-      "time": "2026-07-13T17:42:14Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/06/2026-06-25t200908z-1-lynxmpem5o1mg-rtroptp-4-global-oil-exports-scaled.jpg"
-    },
-    {
-      "title": "Inscrições para vaga de corretor de redação do Enem estão abertas, mas terminam logo; veja quem pode se candidatar",
-      "summary": "As inscrições para avaliadores das redações do Exame Nacional do Ensino Médio (Enem) 2026 já estão abertas. Os interessados têm apenas esta quarta-feira (15) para se inscrever. O Cebraspe, banca responsável pela escolha ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/inscricoes-para-vaga-de-corretor-de-redacao-do-enem-estao-abertas-mas-terminam-logo-veja-quem-pode-se-candidatar-ceci/",
-      "time": "2026-07-13T17:36:04Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/istock-2239166976-e1783963750525.jpg"
-    },
-    {
-      "title": "Venda Aura Minerals (AURA33) e compre outras quatro ações para ganhar mais de 4% nesta semana, segundo o Safra",
-      "summary": "A Safra Corretora recomenda a venda de Aura Minerals (AURA33) e compra de outros papéis em day trade para esta semana. Confira as oportunidades de compra e venda entre os dias 13 e 17 de julho: Empresa Ativo Call Entrada",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/venda-aura-minerals-aura33-e-compre-outras-quatro-acoes-para-ganhar-mais-de-4-nesta-semana-segundo-o-safra-lils/",
-      "time": "2026-07-13T17:11:23Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/12/acoes-bolsa-grafico-1-1-1-1-1-1-1-1.jpg"
-    },
-    {
-      "title": "Mercado eleva apostas de alta dos juros pelo Fed em setembro após tensão EUA-Irã",
-      "summary": "O mercado ampliou as apostas de que o Federal Reserve (Fed) elevará os juros na reunião de setembro, em meio à escalada das tensões entre Estados Unidos e Irã, que impulsionou os preços do petróleo e reforçou preocupaçõe",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/cme-mercado-reforca-apostas-em-alta-de-juros-pelo-fed-em-setembro-sob-crise-no-oriente-medio-jcav/",
-      "time": "2026-07-13T17:08:15Z",
+      "title": "Mercado Livre (MELI34) resiste aos juros, enquanto Magalu (MGLU3) e Casas Bahia (BHIA3) patinam",
+      "summary": "O Mercado Livre (MELI34) segue como a principal aposta do Safra no comércio eletrônico da América Latina, mesmo após a piora do cenário macroeconômico no Brasil. O banco revisou estimativas e preços-alvo para empresas do",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/mercado-livre-meli34-ecommerce-magalu-casas-bahia-mt/",
+      "time": "2026-07-13T18:25:05Z",
       "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/selic-juros-economia-brasil.png"
-    },
-    {
-      "title": "Órgãos reguladores dos EUA pedem que bancos gerenciem riscos “elevados” de clientes imigrantes",
-      "summary": "As principais agências federais de regulação bancária dos Estados Unidos emitiram nesta segunda-feira, 13, novas diretrizes pedindo que credores gerenciem riscos elevados de clientes imigrantes. As recomendações referem-",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/orgaos-reguladores-dos-eua-pedem-que-bancos-gerenciem-riscos-elevados-de-clientes-imigrantes-jvka/",
-      "time": "2026-07-13T17:07:23Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2023/05/eua-bancos-fdic.jpg"
-    },
-    {
-      "title": "Documentos revelam que Trump investiu lucros com criptomoedas em ações e títulos",
-      "summary": "As declarações financeiras do presidente dos EUA, Donald Trump, mostram que, enquanto ele e seus dois filhos mais velhos incentivavam os investidores a aplicar seu dinheiro em projetos de criptomoedas o que resultou em p",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/documentos-revelam-que-trump-investiu-lucros-com-criptomoedas-em-acoes-e-titulos/",
-      "time": "2026-07-13T16:54:50Z",
-      "cat": "cripto",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/2026-07-13t153125z-1-lynxmpem6c0vw-rtroptp-4-usa-trump-crypto-invest-scaled.jpg"
-    },
-    {
-      "title": "Mercado Livre (MELI) segue entre as favoritas do Safra mesmo após corte no preço-alvo",
-      "summary": "O Safra cortou o preço-alvo para as ações do Mercado Livre (MELI), negociadas na Nasdaq, de US$ 2.400 para US$ 2.300, o que ainda representa um potencial de valorização de 24% sobre o preço de fechamento anterior. A reco",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/mercado-livre-meli-segue-entre-as-favoritas-do-safra-mesmo-apos-corte-no-preco-alvo-lmrs/",
-      "time": "2026-07-13T16:13:16Z",
-      "cat": "analise",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/mercado-livre.jpg"
+      "tickers": [
+        "MGLU3"
+      ],
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/mercado-livre-meli34-favorita-santander-divulgacao-jpg.webp"
     },
     {
       "title": "MRV (MRVE3) frustra no 2T26, mas analistas veem ação quase dobrar",
@@ -235,69 +209,76 @@
       "image": "https://files.sunoresearch.com.br/n/uploads/2026/04/iStock-1489161417-1-jpg.webp"
     },
     {
-      "title": "Resultado do XPLG11 sobe em junho e fundo movimenta locações; confira",
-      "summary": "O fundo imobiliário XPLG11 apurou resultado de R$ 45,024 milhões em junho, ligeiramente acima do mês anterior. As receitas totais somaram R$ 55,439 milhões no período, enquanto as despesas ficaram em R$ 10,415 milhões. P",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/rendimentos-do-xplg11-pagamento-junho/",
-      "time": "2026-07-13T12:05:06Z",
-      "cat": "acoes",
-      "tickers": [
-        "XPLG11"
-      ],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/215_Mesa_de_escrit_rio_c_1_2026017_16482-1-jpg.webp"
-    },
-    {
-      "title": "Lojas Renner (LREN3) e Moura Dubeux (MDNE3): Veja quem paga dividendos na semana",
-      "summary": "Lojas Renner (LREN3) e Moura Dubeux (MDNE3): Veja quem paga dividendos na semanaOs investidores com foco no recebimento de dividendos para engordar o patrimônio terão nesta semana a distribuição de proventos de empresas ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/lojas-renner-lren3-moura-dubeux-mdne3-agenda-dividendos-10072026-go/",
-      "time": "2026-07-12T13:00:00Z",
-      "cat": "fundos",
-      "tickers": [
-        "LREN3",
-        "MDNE3"
-      ],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/06/btlg11-jpg.webp"
-    },
-    {
-      "title": "'GTA 6': Jogo disponível para Playstation 5 aparece em oferta por menos de R$ 370",
-      "summary": "Oferta reduz o preço de GTA 6 para PS5 antes do lançamento previsto para novembro",
+      "title": "Brasil anuncia aporte de US$ 100 milhões anuais ao fundo estrutural do Mercosul",
+      "summary": "Anúncio foi feito durante a 68ª Cúpula do bloco em Assunção; recursos do Focem financiam obras de infraestrutura para reduzir assimetrias regionais",
       "source": "Exame",
-      "url": "https://exame.com/pop/gta-6-jogo-disponivel-para-playstation-5-aparece-em-oferta-por-menos-de-r-370/",
-      "time": "2026-07-13T13:58:26Z",
+      "url": "https://exame.com/esferabrasil/brasil-anuncia-aporte-de-us-100-milhoes-anuais-ao-fundo-estrutural-do-mercosul/",
+      "time": "2026-07-13T15:38:56Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/GTA-6.jpeg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/AFP__20260629__B8NE3W8__v1__HighRes__ParaguayMercosurSummit.jpg"
     },
     {
-      "title": "BTG/Nexus: aprovação e desaprovação de Lula empatam em 47%",
-      "summary": "No recorte demográfico, as mulheres avaliam o governo Lula melhor do que os homens: 54% dos que aprovam são mulheres, enquanto 40% são homens",
+      "title": "Trader prevê que o bull market do bitcoin começará em setembro",
+      "summary": "Investidor previu que quem esperar até o ano que vem para se posicionar na criptomoeda perderá o começo do próximo ciclo de alta",
       "source": "Exame",
-      "url": "https://exame.com/brasil/btg-nexus-aprovacao-e-desaprovacao-de-lula-empatam-em-47/",
-      "time": "2026-07-13T13:48:55Z",
+      "url": "https://exame.com/future-of-money/trader-preve-que-o-bull-market-do-bitcoin-comecara-em-setembro/",
+      "time": "2026-07-13T15:16:35Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC"
+      ],
+      "image": "https://classic.exame.com/wp-content/uploads/2023/02/bitcoin-5.png"
+    },
+    {
+      "title": "Bancos passam a considerar a IA como critério na análise de crédito para empresas — entenda o porquê",
+      "summary": "Além dos indicadores financeiros, alguns credores começam a avaliar como empresas utilizam inteligência artificial para medir competitividade e riscos futuros",
+      "source": "Exame",
+      "url": "https://exame.com/inteligencia-artificial/bancos-passam-a-considerar-a-ia-como-criterio-na-analise-de-credito-para-empresas-entenda-o-porque/",
+      "time": "2026-07-13T15:15:20Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/Lula_delcy.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/2148525366.jpg"
     },
     {
-      "title": "Vossloh reduz projeções de vendas e lucros para 2026 por mudanças na demanda",
+      "title": "Negociação de opções da Figma salta para mais de 145.000 contratos",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/vossloh-reduz-projecoes-de-vendas-e-lucros-para-2026-por-mudancas-na-demanda-93CH-2000158",
-      "time": "2026-07-13T17:30:12Z",
+      "url": "https://br.investing.com/news/stock-market-news/negociacao-de-opcoes-da-figma-salta-para-mais-de-145000-contratos-93CH-2000197",
+      "time": "2026-07-13T18:58:06Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Estados liderados pela Califórnia entram com ação judicial para bloquear acordo de US$110 bi entre Paramount e Warner Bros. Discovery",
+      "title": "AMER3: Por que as ações da Americanas estão em queda hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/estados-liderados-pela-california-entram-com-acao-judicial-para-bloquear-acordo-de-us110-bi-entre-paramount-e-warner-bros-discovery-2000156",
-      "time": "2026-07-13T17:28:49Z",
+      "url": "https://br.investing.com/news/stock-market-news/amer3-por-que-as-acoes-da-americanas-estao-em-queda-hoje-2000183",
+      "time": "2026-07-13T18:34:46Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6C104_1200_L.jpg"
+      "image": null
+    },
+    {
+      "title": "Por que as ações da Chipotle Mexican Grill estão disparando hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-chipotle-mexican-grill-estao-disparando-hoje-93CH-2000182",
+      "time": "2026-07-13T18:34:27Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Ações europeias ficam estáveis com salto do petróleo após agravamento de tensões entre EUA e Irã",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/economy-news/acoes-europeias-ficam-estaveis-com-salto-do-petroleo-apos-agravamento-de-tensoes-entre-eua-e-ira-2000151",
+      "time": "2026-07-13T17:14:32Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6C0ZR_1200_L.jpg"
     },
     {
       "title": "Por que as ações da Deckers Outdoor estão subindo hoje?",
@@ -328,7 +309,17 @@
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Por que as ações da TransDigm estão caindo hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-transdigm-estao-caindo-hoje-93CH-2000121",
+      "time": "2026-07-13T16:36:10Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "13/07/2026 17:54"
+  "atualizado_em": "13/07/2026 19:22"
 }
