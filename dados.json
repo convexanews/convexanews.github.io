@@ -5521,7 +5521,7 @@
         119.9,
         118.76,
         126.55,
-        124.29,
+        124.3,
         120.88,
         121.07,
         123.49,
@@ -5795,7 +5795,7 @@
         57.85,
         57.64,
         57.37,
-        57.55,
+        57.56,
         57.58,
         57.43,
         57.7,
@@ -6789,7 +6789,7 @@
       "spark": [
         132.95,
         132.08,
-        128.43,
+        128.44,
         127.37,
         129.15,
         132.28,
@@ -10773,18 +10773,18 @@
     "BTC": {
       "stock": "BTC",
       "name": "BTC",
-      "close": 62002.7,
-      "change": -2.75,
-      "volume": 30719240192,
+      "close": 61881.64,
+      "change": -2.94,
+      "volume": 37393260544,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
       "dy": null,
       "pvp": null,
-      "perf_1m": -3.05,
-      "perf_3m": -24.14,
-      "perf_6m": -9.36,
-      "perf_12m": -41.81,
+      "perf_1m": -3.24,
+      "perf_3m": -24.28,
+      "perf_6m": -9.53,
+      "perf_12m": -41.92,
       "spark": [
         119116.12,
         117635.88,
@@ -10815,24 +10815,24 @@
         75825.73,
         63239.52,
         63540.84,
-        62002.7
+        61881.64
       ]
     },
     "ETH": {
       "stock": "ETH",
       "name": "ETH",
-      "close": 1758.14,
-      "change": -2.64,
-      "volume": 11113223168,
+      "close": 1756.1,
+      "change": -2.75,
+      "volume": 11260644352,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
       "dy": null,
       "pvp": null,
-      "perf_1m": 1.83,
-      "perf_3m": -24.85,
-      "perf_6m": -11.78,
-      "perf_12m": -51.19,
+      "perf_1m": 1.71,
+      "perf_3m": -24.93,
+      "perf_6m": -11.88,
+      "perf_12m": -51.25,
       "spark": [
         2973.36,
         3727.27,
@@ -10863,24 +10863,24 @@
         2070.86,
         1686.4,
         1710.98,
-        1758.14
+        1756.1
       ]
     },
     "SOL": {
       "stock": "SOL",
       "name": "SOL",
-      "close": 74.34,
-      "change": -3.3,
-      "volume": 1961865984,
+      "close": 74.41,
+      "change": -3.21,
+      "volume": 1934728832,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
       "dy": null,
       "pvp": null,
-      "perf_1m": 3.38,
-      "perf_3m": -23.64,
-      "perf_6m": -12.48,
-      "perf_12m": -55.24,
+      "perf_1m": 3.48,
+      "perf_3m": -23.56,
+      "perf_6m": -12.39,
+      "perf_12m": -55.2,
       "spark": [
         161.19,
         186.78,
@@ -10911,24 +10911,24 @@
         83.59,
         66.31,
         69.72,
-        74.34
+        74.41
       ]
     },
     "ADA": {
       "stock": "ADA",
       "name": "ADA",
       "close": 0.16,
-      "change": -3.62,
-      "volume": 269378720,
+      "change": -3.56,
+      "volume": 260214240,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
       "dy": null,
       "pvp": null,
-      "perf_1m": -1.47,
-      "perf_3m": -44.36,
-      "perf_6m": -38.78,
-      "perf_12m": -71.74,
+      "perf_1m": -1.4,
+      "perf_3m": -44.32,
+      "perf_6m": -38.74,
+      "perf_12m": -71.72,
       "spark": [
         0.74,
         0.82,
@@ -10966,17 +10966,17 @@
       "stock": "XRP",
       "name": "XRP",
       "close": 1.06,
-      "change": -2.63,
-      "volume": 1258266752,
+      "change": -2.51,
+      "volume": 1221014784,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
       "dy": null,
       "pvp": null,
-      "perf_1m": -6.33,
-      "perf_3m": -28.41,
-      "perf_6m": -22.37,
-      "perf_12m": -54.22,
+      "perf_1m": -6.21,
+      "perf_3m": -28.33,
+      "perf_6m": -22.27,
+      "perf_12m": -54.17,
       "spark": [
         2.84,
         3.14,
@@ -11013,18 +11013,18 @@
     "BNB": {
       "stock": "BNB",
       "name": "BNB",
-      "close": 564.11,
-      "change": -1.71,
-      "volume": 1005602048,
+      "close": 564.47,
+      "change": -1.65,
+      "volume": 989752832,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
       "dy": null,
       "pvp": null,
-      "perf_1m": -4.37,
-      "perf_3m": -15.8,
-      "perf_6m": -11.09,
-      "perf_12m": -43.16,
+      "perf_1m": -4.31,
+      "perf_3m": -15.75,
+      "perf_6m": -11.04,
+      "perf_12m": -43.13,
       "spark": [
         692.23,
         785.61,
@@ -11055,24 +11055,24 @@
         655.6,
         603.63,
         581.16,
-        564.11
+        564.47
       ]
     },
     "DOGE": {
       "stock": "DOGE",
       "name": "DOGE",
       "close": 0.07,
-      "change": -1.82,
-      "volume": 490375264,
+      "change": -1.88,
+      "volume": 480854624,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
       "dy": null,
       "pvp": null,
-      "perf_1m": -13.4,
-      "perf_3m": -35.87,
-      "perf_6m": -21.05,
-      "perf_12m": -57.33,
+      "perf_1m": -13.45,
+      "perf_3m": -35.91,
+      "perf_6m": -21.09,
+      "perf_12m": -57.36,
       "spark": [
         0.2,
         0.24,
@@ -11134,7 +11134,7 @@
     "close": 5.1366,
     "change": 0.56
   },
-  "atualizado_em": "13/07/2026 21:55",
+  "atualizado_em": "13/07/2026 22:55",
   "euro": {
     "stock": "EUR/BRL",
     "close": 5.8656,
@@ -11201,26 +11201,26 @@
   "commodities": {
     "OURO": {
       "stock": "Ouro",
-      "close": 4008.7,
-      "change": -2.32,
+      "close": 4010.4,
+      "change": -2.28,
       "unidade": "US$/onça"
     },
     "PRATA": {
       "stock": "Prata",
-      "close": 57.98,
-      "change": -3.06,
+      "close": 57.99,
+      "change": -3.04,
       "unidade": "US$/onça"
     },
     "BRENT": {
       "stock": "Petróleo Brent",
-      "close": 83.18,
-      "change": 9.43,
+      "close": 83.43,
+      "change": 9.76,
       "unidade": "US$/barril"
     },
     "WTI": {
       "stock": "Petróleo WTI",
-      "close": 78.0,
-      "change": 9.23,
+      "close": 78.23,
+      "change": 9.55,
       "unidade": "US$/barril"
     },
     "GAS": {
@@ -11266,5 +11266,5 @@
       "unidade": "¢/libra"
     }
   },
-  "atualizado_iso": "2026-07-13T21:55:55Z"
+  "atualizado_iso": "2026-07-13T22:55:39Z"
 }
