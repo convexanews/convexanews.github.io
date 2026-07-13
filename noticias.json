@@ -11,6 +11,16 @@
   },
   "featured": [
     {
+      "title": "STF bloqueia R$ 6 milhões de Eduardo Cunha por indicação de emendas",
+      "summary": "O ministro do Supremo Tribunal Federal (STF) Flávio Dino determinou, no último dia 6 de julho, o bloqueio de R$ R$ 6.150.378 do ex-deputado federal e ex-presidente da Câmara dos Deputados Eduardo Cunha (Republicanos-MG).",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/stf-bloqueia-r-6-milhoes-de-eduardo-cunha-por-indicacao-de-emendas-fets/",
+      "time": "2026-07-13T03:04:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2019/08/eduardo-cunha.jpg"
+    },
+    {
       "title": "ONU expressa preocupação com escalada de ataques EUA-Irã; Teerã alega autodefesa",
       "summary": "Guterres afirmou que \"um retorno a hostilidades em grande escala teria consequências catastróficas",
       "source": "InfoMoney",
@@ -19,16 +29,6 @@
       "cat": "internacional",
       "tickers": [],
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Giovanna-Suto-Imagem-criada-com-IA-Copilot.jpg?fit=300%2C192&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Petróleo sobe forte após EUA e Irã trocarem ataques e divergirem sobre Ormuz",
-      "summary": "Irã disse que o estreito estaria fechado “até novo aviso”, declaração negada pelos EUA",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/petroleo-sobe-forte-apos-eua-e-ira-trocarem-ataques-e-divergirem-sobre-ormuz/",
-      "time": "2026-07-12T23:15:00Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Giovanna-Sutto-Imagem-criada-com-auxilio-de-IA-Copilot.jpg?fit=300%2C196&amp;quality=70&amp;strip=all"
     }
   ],
   "all": [
@@ -81,6 +81,16 @@
       "cat": "economia",
       "tickers": [],
       "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/2024-05-10T142108Z_1_LYNXMPEK490G1_RTROPTP_3_USA-ECONOMY-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "STF bloqueia R$ 6 milhões de Eduardo Cunha por indicação de emendas",
+      "summary": "O ministro do Supremo Tribunal Federal (STF) Flávio Dino determinou, no último dia 6 de julho, o bloqueio de R$ R$ 6.150.378 do ex-deputado federal e ex-presidente da Câmara dos Deputados Eduardo Cunha (Republicanos-MG).",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/stf-bloqueia-r-6-milhoes-de-eduardo-cunha-por-indicacao-de-emendas-fets/",
+      "time": "2026-07-13T03:04:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2019/08/eduardo-cunha.jpg"
     },
     {
       "title": "Lojas Renner (LREN3) e Telefônica Brasil (VIVT3) pagam dividendos nesta semana; veja o calendário",
@@ -170,16 +180,6 @@
         "BTC"
       ],
       "image": "https://www.moneytimes.com.br/uploads/2026/07/selecao-brasileira-copa-do-mundo.jpg"
-    },
-    {
-      "title": "Delta IA: ferramenta usada para buscar lucros durante a Copa abre novo lote de acessos na segunda-feira (13)",
-      "summary": "A Copa do Mundo reuniu torcedores do mundo inteiro nos Estados Unidos. Entre eles, estava Valter Rebelo, head de criptomoedas da Empiricus, mas com um objetivo que ia além de acompanhar os jogos da Seleção Brasileira. O ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/delta-ia-ferramenta-usada-para-buscar-lucros-durante-a-copa-abre-novo-lote-de-acessos-na-segunda-feira-13-lbrdis606/",
-      "time": "2026-07-12T12:00:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/valter-rebelo.jpg"
     },
     {
       "title": "Lojas Renner (LREN3) e Moura Dubeux (MDNE3): Veja quem paga dividendos na semana",
@@ -351,5 +351,5 @@
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "13/07/2026 02:43"
+  "atualizado_em": "13/07/2026 06:18"
 }
