@@ -13,92 +13,76 @@
   },
   "featured": [
     {
-      "title": "Análise: Por que os economistas continuam desconfiando do bitcoin?",
-      "summary": "Em meu artigo de estreia no Money Times, ao final de 2021, tratei de como grandes economistas não acreditavam no potencial das criptomoedas não lastreadas como moeda. De lá para cá, o tema evoluiu bastante, e as criptomo",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/analise-por-que-os-economistas-continuam-desconfiando-do-bitcoin/",
-      "time": "2026-07-13T19:28:27Z",
-      "cat": "cripto",
-      "tickers": [
-        "BTC"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/bitcoin-btc-e-as-criptomoedas-em-alta-imagem-istock-.jpg"
+      "title": "Ibovespa cai mais de 1% com tensão no Oriente Médio e petróleo em disparada",
+      "summary": "O Ibovespa encerrou a sessão desta segunda-feira (13) em queda, pressionado pela forte piora do cenário geopolítico após a escalada das tensões entre Estados Unidos e Irã. O principal índice da B3 recuou 1,20%, aos 175.7",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-fechamento-petrobras-mt/",
+      "time": "2026-07-13T21:25:05Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/191b2a55-bolsa-800x450-2-jpg.webp"
     },
     {
-      "title": "Mercado Livre (MELI34) resiste aos juros, enquanto Magalu (MGLU3) e Casas Bahia (BHIA3) patinam",
-      "summary": "O Mercado Livre (MELI34) segue como a principal aposta do Safra no comércio eletrônico da América Latina, mesmo após a piora do cenário macroeconômico no Brasil. O banco revisou estimativas e preços-alvo para empresas do",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/mercado-livre-meli34-ecommerce-magalu-casas-bahia-mt/",
-      "time": "2026-07-13T18:25:05Z",
+      "title": "Ibovespa hoje fecha em queda, seguindo exterior; dólar sobe para R$ 5,13",
+      "summary": "As bolsas de Nova York fecharam em queda nesta segunda em meio a escalada de ataques no Oriente Médio",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-13072026/",
+      "time": "2026-07-13T21:16:23Z",
       "cat": "economia",
-      "tickers": [
-        "MGLU3"
-      ],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/mercado-livre-meli34-favorita-santander-divulgacao-jpg.webp"
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-12-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     }
   ],
   "all": [
     {
-      "title": "Dólar hoje sobe 0,46%, a R$ 5,13, seguindo exterior, com tensões no Oriente Médio",
-      "summary": "Forças dos EUA e do Irã ⁠trocaram ataques intensos com mísseis e drones durante o fim de semana",
+      "title": "Moro critica decisão que proibiu visitas de Flávio a Bolsonaro: “falta legalidade”",
+      "summary": "A vedação de visitas de Flávio ao pai terá duração de 90 dias",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-13072026/",
-      "time": "2026-07-13T20:24:00Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/blogging-guide-K5DY18hy5JQ-unsplash_red.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Petróleo fecha em alta de 9% com escalada de tensões no Irã e disputa em Ormuz",
-      "summary": "Irã intensifica ataques a bases dos EUA no Golfo",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-13072026/",
-      "time": "2026-07-13T19:54:02Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/hormuz-estreito-guerra-ira-eua-petroleo.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Comando Vermelho cria ‘diretor de governança’ em presídio do Rio",
-      "summary": "Conversas interceptadas revelam que a cúpula da facção transformou Gericinó em um centro de decisões do tráfico, com ordens para disputas, invasões de territórios e punições em diferentes estados do país",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/brasil/comando-vermelho-cria-diretor-de-governanca-em-presidio-do-rio/",
-      "time": "2026-07-13T19:43:15Z",
+      "url": "https://www.infomoney.com.br/politica/moro-critica-decisao-que-proibiu-visitas-de-flavio-a-bolsonaro-falta-legalidade/",
+      "time": "2026-07-13T21:35:08Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/complexo-da-penha.avif?resize=300,168"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/04/53613354248_02f7509ec6_c.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "WEG (WEGE3): por que a ação está caindo 5%? Resposta está em mais um tri desafiador",
-      "summary": "Citi vê o segundo trimestre de 2026 marcado por crescimento mais fraco da receita, impacto do real mais forte e margens ainda abaixo dos níveis históricos",
+      "title": "Randolfe diz haver acordo por MP do Frete: “Sem razão para paralisação”",
+      "summary": "Segundo ele, isso tende a desestimular uma eventual paralisação de caminhoneiros",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/weg-wege3-por-que-a-acao-esta-caindo-5-resposta-esta-em-mais-um-tri-desafiador/",
-      "time": "2026-07-13T19:42:55Z",
+      "url": "https://www.infomoney.com.br/politica/randolfe-diz-haver-acordo-por-mp-do-frete-sem-razao-para-paralisacao/",
+      "time": "2026-07-13T21:27:31Z",
       "cat": "acoes",
-      "tickers": [
-        "WEGE3"
-      ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/weg-2.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Petrobras e mais petroleiras sobem mais de 3% acompanhando alta forte do petróleo",
-      "summary": "Os contratos do Brent e do WTI decolam com altas superiores a 8% após retorno do bloqueio do Estreito de Ormuz",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/petrobras-e-mais-petroleiras-sobem-mais-de-3-acompanhando-alta-forte-do-petroleo/",
-      "time": "2026-07-13T19:37:48Z",
-      "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-15T191150Z_1_LYNXMPEM4E1EG_RTROPTP_3_BRAZIL-PETROBRAS.jpg?fit=300%2C172&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/55239568570_e1e91841aa_o.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Juíza barra acordo de imunidade fiscal de Trump e vê manobra sem base legal",
-      "summary": "Decisão afirma que ação contra o IRS foi movida de má-fé e proíbe uso do suposto acordo em processos futuros",
+      "title": "Ibovespa hoje fecha em queda, seguindo exterior; dólar sobe para R$ 5,13",
+      "summary": "As bolsas de Nova York fecharam em queda nesta segunda em meio a escalada de ataques no Oriente Médio",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mundo/juiza-barra-acordo-de-imunidade-fiscal-de-trump-e-ve-manobra-sem-base-legal/",
-      "time": "2026-07-13T19:36:21Z",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-13072026/",
+      "time": "2026-07-13T21:16:23Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-26T030050Z_1048769190_RC2RWKA1RWYW_RTRMADP_3_USA-TRUMP-DINNER.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-12-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Juros altos expõem os riscos do crédito privado; veja os setores preferidos dos gestores",
+      "summary": "Juros altos funcionam como uma faca de dois gumes para os investidores de renda fixa. De um lado, aumentam os retornos, especialmente nos títulos atrelados à Selic ou ao CDI. De outro, elevam o custo da dívida das empres",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/a-elite-da-renda-fixa-apenas-tres-setores-convencem-os-gestores-de-credito/",
+      "time": "2026-07-13T21:44:00Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/pib-real-inflacao-credito-deficit-superavit.jpg"
+    },
+    {
+      "title": "Preços do cacau despencam na bolsa ICE; café também cai",
+      "summary": "Os contratos futuros do cacau despencaram quase 10% durante o pregão da bolsa ICE nesta segunda-feira (13), antes de recuperarem parte das perdas, enquanto o café também fechou em baixa, com o mercado permanecendo voláti",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/precos-do-cacau-despencam-na-bolsa-ice-cafe-tambem-cai-pads/",
+      "time": "2026-07-13T20:37:53Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2024/12/cacau-cafe.jpg"
     },
     {
       "title": "Soja sobe em Chicago por clima para safra dos EUA e alta do petróleo",
@@ -143,48 +127,14 @@
       "image": "https://www.moneytimes.com.br/uploads/2026/02/dolar.jpg"
     },
     {
-      "title": "BTG Pactual (BPAC11) inicia operação no Uruguai",
-      "summary": "BTG Pactual expande na América Latina com a compra do HSBC Uruguai, trazendo serviços completos de gestão, crédito e investimentos ao país.",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/btg-pactual-bpac11-inicia-operacao-no-uruguai/",
-      "time": "2026-07-13T20:02:36Z",
-      "cat": "analise",
-      "tickers": [
-        "BPAC11"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/03/btg-pactual.jpg"
-    },
-    {
-      "title": "Petróleo dispara quase 10% com nova escalada nas tensões entre EUA e Irã e cobrança de pedágio em Ormuz",
-      "summary": "Os preços do petróleo dispararam nesta segunda-feira (13) e voltaram ao nível de US$ 80 o barril em meio a escalada das tensões entre Estados Unidos e Irã e a disputa sobre controle do Estreito de Ormuz. O contrato mais ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/petroleo-13-7-26-lils/",
-      "time": "2026-07-13T19:40:25Z",
+      "title": "Ibovespa cai mais de 1% com tensão no Oriente Médio e petróleo em disparada",
+      "summary": "O Ibovespa encerrou a sessão desta segunda-feira (13) em queda, pressionado pela forte piora do cenário geopolítico após a escalada das tensões entre Estados Unidos e Irã. O principal índice da B3 recuou 1,20%, aos 175.7",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-fechamento-petrobras-mt/",
+      "time": "2026-07-13T21:25:05Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/bombas-de-extracao-sao-vistas-durante-o-por-do-sol-no-campo-petrolifero-de-daqing-na-provincia-de-heilongjiang-na-china-em-22-de-agosto-de-2019.-reutersstringer-e1783973214970.jpg"
-    },
-    {
-      "title": "Análise: Por que os economistas continuam desconfiando do bitcoin?",
-      "summary": "Em meu artigo de estreia no Money Times, ao final de 2021, tratei de como grandes economistas não acreditavam no potencial das criptomoedas não lastreadas como moeda. De lá para cá, o tema evoluiu bastante, e as criptomo",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/analise-por-que-os-economistas-continuam-desconfiando-do-bitcoin/",
-      "time": "2026-07-13T19:28:27Z",
-      "cat": "cripto",
-      "tickers": [
-        "BTC"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/bitcoin-btc-e-as-criptomoedas-em-alta-imagem-istock-.jpg"
-    },
-    {
-      "title": "Antimicrobianos: Brasil pode ficar fora do mercado europeu até 2028, aponta especialista",
-      "summary": "Tic, tac, tic, tac. A indústria da carne acompanha com atenção a contagem regressiva até 3 de setembro, data que marca a entrada em vigor das novas exigências da União Europeia para a importação de produtos de origem ani",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/antimicrobianos-brasil-pode-ficar-fora-do-mercado-europeu-ate-2028-aponta-especialista-pads/",
-      "time": "2026-07-13T19:23:02Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/boi-antimicrobianos-carne.jpg"
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/191b2a55-bolsa-800x450-2-jpg.webp"
     },
     {
       "title": "Mercado Livre (MELI34) resiste aos juros, enquanto Magalu (MGLU3) e Casas Bahia (BHIA3) patinam",
@@ -251,95 +201,125 @@
       "image": "https://files.sunoresearch.com.br/n/uploads/2023/05/inflacao-ipca.jpg"
     },
     {
-      "title": "Como configurar a autenticação de 2 fatores no celular: passo a passo fácil",
-      "summary": "Recurso adiciona uma camada extra de proteção a contas em redes sociais e serviços como Gmail e Gov.br e pode ser ativado em poucos minutos",
+      "title": "Trump cita morte de senador para pressionar aprovação de projeto sobre criptomoedas",
+      "summary": "Com a morte do senador Lindsey Graham e a hospitalização de outro parlamentar, a maioria republicana no Senado foi reduzida para 51 a 47",
       "source": "Exame",
-      "url": "https://exame.com/tecnologia/examelab/como-configurar-a-autenticacao-de-2-fatores-no-celular-passo-a-passo-facil/",
-      "time": "2026-07-13T17:20:50Z",
+      "url": "https://exame.com/future-of-money/trump-cita-morte-de-senador-para-pressionar-aprovacao-de-projeto-sobre-criptomoedas/",
+      "time": "2026-07-13T18:12:27Z",
+      "cat": "cripto",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/AFP__20260708__B9L89A8__v1__HighRes__TurkeyUsNatoSummitDefence.jpg"
+    },
+    {
+      "title": "Sensação da Espanha, Yamal completa 19 anos, vira fenômeno nas redes e atrai geração Z",
+      "summary": "Seu sucesso no Barça abriu portas para a seleção principal da Espanha, onde se consolidou como uma estrela mundial ao conquistar a Eurocopa 2024",
+      "source": "Exame",
+      "url": "https://exame.com/esporte/sensacao-da-espanha-yamal-completa-19-anos-vira-fenomeno-nas-redes-e-atrai-geracao-z/",
+      "time": "2026-07-13T18:07:18Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/microsoft-authenticator.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/belgica-x-espanha-copa-do-mundo-1.jpg"
     },
     {
-      "title": "Odisseu da vida real: imagens revelam último barco de lenda da exploração",
-      "summary": "Submersível responsável por redescobrir os restos do Titanic resgatou imagens do Quest, embarcação onde Ernest Shackleton morreu",
+      "title": "China recupera mais de 180 milhões de hectares de pastagens e amplia conservação ambiental",
+      "summary": "Os dados foram apresentados durante o evento temático chinês do Ano Internacional das Pastagens e dos Pastores",
       "source": "Exame",
-      "url": "https://exame.com/ciencia/odisseu-da-vida-real-imagens-revelam-ultimo-barco-de-lenda-da-exploracao/",
-      "time": "2026-07-13T16:56:15Z",
+      "url": "https://exame.com/mundo/china-recupera-mais-de-180-milhoes-de-hectares-de-pastagens-e-amplia-conservacao-ambiental/",
+      "time": "2026-07-13T17:48:30Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2020/07/GettyImages-910491566.jpg"
+    },
+    {
+      "title": "Trump fará discurso à nação nesta segunda-feira em meio à escalada da tensão entre EUA e Irã",
+      "summary": "Discurso ocorre em meio à troca de ataques entre Estados Unidos e Irã e à ruptura do cessar-fogo firmado em junho",
+      "source": "Exame",
+      "url": "https://exame.com/mundo/trump-fara-discurso-a-nacao-nesta-segunda-feira-em-meio-a-escalada-da-tensao-entre-eua-e-ira/",
+      "time": "2026-07-13T17:46:43Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/AFP__20260708__B9NA9CD__v1__HighRes__TurkeyNatoSummitDefence.jpg"
+    },
+    {
+      "title": "Brasil endurece regras para uso de antimicrobianos na pecuária para mercados mais exigentes",
+      "summary": "A publicação da Portaria SDA/MAPA nº 1.617/2026 proibiu a fabricação, a importação, a comercialização e a utilização de cinco antimicrobianos como promotores de crescimento na alimentação animal",
+      "source": "Exame",
+      "url": "https://exame.com/agro/brasil-endurece-regras-para-uso-de-antimicrobianos-na-pecuaria-para-mercados-mais-exigentes/",
+      "time": "2026-07-13T17:46:13Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/1.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2025/07/Gado.jpg"
     },
     {
-      "title": "Ações da Q32 Bio caem com plano de oferta pública de US$ 200 mi",
+      "title": "Os sete melhores FIIs para acompanhar, segundo analista do Bank of America",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-q32-bio-caem-com-plano-de-oferta-publica-de-us-200-mi-93CH-2000262",
-      "time": "2026-07-13T20:16:42Z",
+      "url": "https://br.investing.com/news/stock-market-news/os-sete-melhores-fiis-para-acompanhar-segundo-analista-do-bank-of-america-93CH-2000385",
+      "time": "2026-07-13T21:53:21Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "S&P Global melhora perspectiva da Revvity com redução de alavancagem",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/sp-global-melhora-perspectiva-da-revvity-com-reducao-de-alavancagem-93CH-2000370",
+      "time": "2026-07-13T21:38:43Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Ações da Trex sobem após elevação das projeções para 2026",
+      "title": "México - Ações fecharam o pregão em queda e o Índice S&P/BMV IPC recuou 0,79%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-trex-sobem-apos-elevacao-das-projecoes-para-2026-93CH-2000256",
-      "time": "2026-07-13T20:13:53Z",
+      "url": "https://br.investing.com/news/stock-market-news/mexico--acoes-fecharam-o-pregao-em-queda-e-o-indice-spbmv-ipc-recuou-079-2000362",
+      "time": "2026-07-13T21:30:18Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/Mexican_Stock_Exchange_M_1440056303.jpg"
+    },
+    {
+      "title": "Ibovespa e dólar hoje: CPI dos EUA e tensão global ditam o ritmo",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-cpi-dos-eua-e-tensao-global-ditam-o-ritmo-2000220",
+      "time": "2026-07-13T21:30:02Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "L3Harris garante modificação de contrato de US$ 70,8 milhões com a Marinha dos EUA",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/l3harris-garante-modificacao-de-contrato-de-us-708-milhoes-com-a-marinha-dos-eua-93CH-2000361",
+      "time": "2026-07-13T21:28:45Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Ações da Lulu’s Fashion Lounge disparam após revisão estratégica",
+      "title": "Colômbia - Ações fecharam o pregão em queda e o Índice COLCAP terminou sem alterações",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-lulus-fashion-lounge-disparam-apos-revisao-estrategica-93CH-2000245",
-      "time": "2026-07-13T20:09:12Z",
-      "cat": "internacional",
+      "url": "https://br.investing.com/news/stock-market-news/colombia--acoes-fecharam-o-pregao-em-queda-e-o-indice-colcap-terminou-sem-alteracoes-2000358",
+      "time": "2026-07-13T21:25:18Z",
+      "cat": "fundos",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+      "image": null
     },
     {
-      "title": "Ibovespa fecha em queda com escalada no conflito EUA-Irã",
+      "title": "Rússia - Ações fecharam o pregão em alta e o Índice MOEX Russia Index avançou 0,65%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-fecha-em-queda-com-escalada-no-conflito-euaira-2000239",
-      "time": "2026-07-13T20:07:53Z",
+      "url": "https://br.investing.com/news/stock-market-news/russia--acoes-fecharam-o-pregao-em-alta-e-o-indice-moex-russia-index-avancou-065-2000355",
+      "time": "2026-07-13T21:20:20Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEE771DO_M.jpg"
-    },
-    {
-      "title": "State Bank vende US$ 278,5 milhões em ações para investidores âncora",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/state-bank-vende-us-2785-milhoes-em-acoes-para-investidores-ancora-93CH-2000236",
-      "time": "2026-07-13T20:06:26Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Por que as ações da Biogen estão subindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-biogen-estao-subindo-hoje-93CH-2000233",
-      "time": "2026-07-13T20:05:18Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "YPF Energía Eléctrica protocola pedido de IPO em Nova York",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ypf-energia-electrica-protocola-pedido-de-ipo-em-nova-york-432SI-2000232",
-      "time": "2026-07-13T19:53:02Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEE390V4_M.jpg"
     }
   ],
-  "atualizado_em": "13/07/2026 20:38"
+  "atualizado_em": "13/07/2026 21:55"
 }
