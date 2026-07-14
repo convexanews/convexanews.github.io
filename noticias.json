@@ -1,37 +1,57 @@
 {
   "headline": {
-    "title": "Ibovespa cai mais de 1% com tensão no Oriente Médio e petróleo em disparada",
-    "summary": "O Ibovespa encerrou a sessão desta segunda-feira (13) em queda, pressionado pela forte piora do cenário geopolítico após a escalada das tensões entre Estados Unidos e Irã. O principal índice da B3 recuou 1,20%, aos 175.7",
-    "source": "Suno",
-    "url": "https://www.suno.com.br/noticias/ibovespa-hoje-fechamento-petrobras-mt/",
-    "time": "2026-07-13T21:25:05Z",
+    "title": "Petróleo sobe mais de 3% e atinge máxima de um mês enquanto EUA e Irã intensificam ataques",
+    "summary": "Os preços do petróleo sobem mais de 3% nesta terça-feira (14), atingindo o maior nível em quatro semanas, à medida que os Estados Unidos restabeleceram seu bloqueio naval ao Irã enquanto os dois países intensificavam os ",
+    "source": "Money Times",
+    "url": "https://www.moneytimes.com.br/petroleo-sobe-mais-de-3-e-atinge-maxima-de-um-mes-enquanto-eua-e-ira-intensificam-ataques-fets/",
+    "time": "2026-07-14T07:55:50Z",
     "cat": "internacional",
     "tickers": [],
-    "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/191b2a55-bolsa-800x450-2-jpg.webp"
+    "image": "https://www.moneytimes.com.br/uploads/2026/06/2026-06-25t200908z-1-lynxmpem5o1mg-rtroptp-4-global-oil-exports-scaled.jpg"
   },
   "featured": [
     {
-      "title": "YPF Energía Eléctrica pede IPO nos EUA com Itaú BBA entre coordenadores",
-      "summary": "A operação tem o Goldman Sachs, a BofA Securities e o Citigroup entre os coordenadores globais",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ypf-energia-electrica-pede-ipo-nos-eua-com-itau-bba-entre-coordenadores/",
-      "time": "2026-07-14T02:19:55Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/2026-02-17T175434Z_1885400349_RC20BDASG5F7_RTRMADP_3_LIFTOFF-MOBILE-IPO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Ações da Baidu despencam quase 10% com preocupações sobre publicidade",
+      "title": "Por que a ação da Mycronic está disparando hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-baidu-despencam-quase-10-com-preocupacoes-sobre-publicidade-93CH-2000483",
-      "time": "2026-07-14T04:45:19Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-a-acao-da-mycronic-esta-disparando-hoje-93CH-2000595",
+      "time": "2026-07-14T07:51:27Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Por que as ações da Evotec estão despencando 33% hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-evotec-estao-despencando-33-hoje-93CH-2000591",
+      "time": "2026-07-14T07:47:38Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
   "all": [
+    {
+      "title": "Estender uma bandeira na Copa do Mundo exige coordenação — e muitos braços",
+      "summary": "Equipes de bastidores coordenam a entrada e a exibição das bandeiras gigantes em campo antes de cada jogo; a preparação leva dias",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/business/global/estender-uma-bandeira-na-copa-do-mundo-exige-coordenacao-e-muitos-bracos/",
+      "time": "2026-07-14T08:00:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/SOC-CUP-FLAGS-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Nova febre da renda fixa vira colosso que oferece até CDI+5%, mas exige cuidados",
+      "summary": "Ricardo Binelli, sócio da Solis, vê fundos de recebíveis atrativos para o varejo, mas alerta para riscos da disputa por ativos reduzir controles de prazos e liquidez; veja mais recomendações de especialistas",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/onde-investir/fidcs-viram-febre-mas-exigem-atencao/",
+      "time": "2026-07-14T08:00:00Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2021/12/Ricardo-Binelli-socio-diretor-da-Solis-Investimentos-gestora-de-referencia-em-FIDCs-no-Brasil.png?fit=295%2C300&amp;quality=70&amp;strip=all"
+    },
     {
       "title": "Aluguel acumula alta de 5,24% no semestre e segue pressionando orçamento",
       "summary": "Aumento fica acima da inflação, superando IPCA e IGP-M; demanda aquecida mantém os preços elevados nas principais capitais brasileiras",
@@ -103,14 +123,24 @@
       "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/11-09-2020_loteria-5.webp?fit=300%2C225&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Quina hoje, concurso 7064: confira o resultado sorteado nesta segunda (13)",
-      "summary": "O prêmio deste concurso era de R$ 1.437.874,27",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7064-confira-o-resultado-sorteado-nesta-segunda-13/",
-      "time": "2026-07-14T00:03:11Z",
-      "cat": "acoes",
+      "title": "Petróleo sobe mais de 3% e atinge máxima de um mês enquanto EUA e Irã intensificam ataques",
+      "summary": "Os preços do petróleo sobem mais de 3% nesta terça-feira (14), atingindo o maior nível em quatro semanas, à medida que os Estados Unidos restabeleceram seu bloqueio naval ao Irã enquanto os dois países intensificavam os ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/petroleo-sobe-mais-de-3-e-atinge-maxima-de-um-mes-enquanto-eua-e-ira-intensificam-ataques-fets/",
+      "time": "2026-07-14T07:55:50Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=300%2C175&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/2026-06-25t200908z-1-lynxmpem5o1mg-rtroptp-4-global-oil-exports-scaled.jpg"
+    },
+    {
+      "title": "Agência de navegação da ONU se opõe à cobrança de taxas em qualquer estreito, após plano de Trump sobre Ormuz",
+      "summary": "A agência de navegação da ONU afirmou nesta segunda-feira (13) que se opõe à cobrança de taxas sobre navios que transitam por vias navegáveis, mas que aguardaria mais detalhes depois que o presidente dos Estados Unidos, ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/agencia-de-navegacao-da-onu-se-opoe-a-cobranca-de-taxas-em-qualquer-estreito-apos-plano-de-trump-sobre-ormuz-fets/",
+      "time": "2026-07-14T07:28:00Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/05/2026-05-20t173619z-1-lynxmpem4j1nr-rtroptp-4-iran-crisis-oil-supply-scaled.jpg"
     },
     {
       "title": "Arandu, antiga Reag, apresenta laudo para OPA e ajusta preço da oferta",
@@ -131,26 +161,6 @@
       "cat": "economia",
       "tickers": [],
       "image": "https://www.moneytimes.com.br/uploads/2026/06/pib-real-inflacao-credito-deficit-superavit.jpg"
-    },
-    {
-      "title": "Preços do cacau despencam na bolsa ICE; café também cai",
-      "summary": "Os contratos futuros do cacau despencaram quase 10% durante o pregão da bolsa ICE nesta segunda-feira (13), antes de recuperarem parte das perdas, enquanto o café também fechou em baixa, com o mercado permanecendo voláti",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/precos-do-cacau-despencam-na-bolsa-ice-cafe-tambem-cai-pads/",
-      "time": "2026-07-13T20:37:53Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2024/12/cacau-cafe.jpg"
-    },
-    {
-      "title": "Soja sobe em Chicago por clima para safra dos EUA e alta do petróleo",
-      "summary": "Os contratos futuros de soja negociados na bolsa de Chicago encerraram em alta nesta segunda-feira, após atingirem seus níveis mais altos desde o final de maio durante o pregão, impulsionados pelas previsões de condições",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/soja-sobe-em-chicago-por-clima-para-safra-dos-eua-e-alta-do-petroleo-pads/",
-      "time": "2026-07-13T20:32:57Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/soja-petroleo.jpg"
     },
     {
       "title": "BRCO11 aparece entre os FIIs mais recomendados de julho; veja por que o fundo é destaque",
@@ -219,85 +229,125 @@
       "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     },
     {
-      "title": "Mineradoras de lítio da ASX recuam com queda nos preços do metal",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/mineradoras-de-litio-da-asx-recuam-com-queda-nos-precos-do-metal-2000486",
-      "time": "2026-07-14T05:15:02Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Por que as ações do IDBI Bank estão subindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-do-idbi-bank-estao-subindo-hoje-93CH-2000484",
-      "time": "2026-07-14T05:01:30Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Ações da Baidu despencam quase 10% com preocupações sobre publicidade",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-baidu-despencam-quase-10-com-preocupacoes-sobre-publicidade-93CH-2000483",
-      "time": "2026-07-14T04:45:19Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Yaskawa Electric cai à mínima de abril após resultados fracos",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/yaskawa-electric-cai-a-minima-de-abril-apos-resultados-fracos-2000482",
-      "time": "2026-07-14T04:20:20Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Vault e Genesis fecham fusão para criar gigante do ouro avaliada em US$ 8,73 bilhões",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/vault-e-genesis-fecham-fusao-para-criar-gigante-do-ouro-avaliada-em-us-873-bilhoes-2000480",
-      "time": "2026-07-14T04:10:45Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Por que as ações da Oriental Land estão disparando hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-oriental-land-estao-disparando-hoje-93CH-2000478",
-      "time": "2026-07-14T04:07:18Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Por que as ações da SK Hynix estão caindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-sk-hynix-estao-caindo-hoje-93CH-2000472",
-      "time": "2026-07-14T03:39:20Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Bolsas asiáticas recuam com alta do petróleo e dados de inflação dos EUA no radar",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/bolsas-asiaticas-recuam-com-alta-do-petroleo-e-dados-de-inflacao-dos-eua-no-radar-2000466",
-      "time": "2026-07-14T02:58:11Z",
+      "title": "Aluguéis crescem acima da inflação e rentabilidade favorece imóveis compactos",
+      "summary": "Em junho, apartamentos de 1 dormitório lideram preço e retorno, enquanto unidades maiores apresentam valorização moderada nos últimos 12 meses",
+      "source": "Exame",
+      "url": "https://exame.com/mercado-imobiliario/alugueis-crescem-acima-da-inflacao-e-rentabilidade-favorece-imoveis-compactos/",
+      "time": "2026-07-14T05:00:49Z",
       "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2019/10/gettyimages-1074469186.gif"
+    },
+    {
+      "title": "Rede de restaurante de frango entra em negócio de data center e ação desaba",
+      "summary": "Empresa da Malásia, dona da rede Chicken Claypot House tenta se reinventar com infraestrutura em inteligência artificial",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/rede-de-restaurante-de-frango-entra-em-negocio-de-data-center-e-acao-desaba/",
+      "time": "2026-07-14T05:00:38Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/cch-holdings-chicken-claypot-house-malasia-data-centers.jpg.png"
+    },
+    {
+      "title": "Por que a ação da Mycronic está disparando hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-a-acao-da-mycronic-esta-disparando-hoje-93CH-2000595",
+      "time": "2026-07-14T07:51:27Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Por que a ação da Balder está caindo hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-a-acao-da-balder-esta-caindo-hoje-93CH-2000594",
+      "time": "2026-07-14T07:48:46Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Por que as ações da Evotec estão despencando 33% hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-evotec-estao-despencando-33-hoje-93CH-2000591",
+      "time": "2026-07-14T07:47:38Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Ações da IQE sobem com pedido de US$ 14 milhões ligado à IA",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-iqe-sobem-com-pedido-de-us-14-milhoes-ligado-a-ia-93CH-2000578",
+      "time": "2026-07-14T07:33:36Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Por que a ação da Pepco está disparando hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-a-acao-da-pepco-esta-disparando-hoje-93CH-2000577",
+      "time": "2026-07-14T07:33:22Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Por que as ações da Robert Walters estão caindo hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-robert-walters-estao-caindo-hoje-93CH-2000576",
+      "time": "2026-07-14T07:32:28Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Por que as ações da Ashmore estão caindo hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-ashmore-estao-caindo-hoje-93CH-2000575",
+      "time": "2026-07-14T07:31:20Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Por que as ações da Norwegian Air estão caindo hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-norwegian-air-estao-caindo-hoje-93CH-2000574",
+      "time": "2026-07-14T07:29:30Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Por que a ação da Lifco está subindo hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-a-acao-da-lifco-esta-subindo-hoje-93CH-2000571",
+      "time": "2026-07-14T07:26:50Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Três ações de operadoras de aeroportos para considerar, segundo o BofA",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/tres-acoes-de-operadoras-de-aeroportos-para-considerar-segundo-o-bofa-93CH-2000570",
+      "time": "2026-07-14T07:26:25Z",
+      "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "14/07/2026 05:30"
+  "atualizado_em": "14/07/2026 08:03"
 }
