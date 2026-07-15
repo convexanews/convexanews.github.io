@@ -1,6 +1,6 @@
 {
   "headline": {
-    "title": "Ibovespa recua com expectativa de tarifaço dos EUA e Itaú (ITUB4); dólar sobe a R$ 5,07",
+    "title": "Ibovespa recua com Itaú (ITUB4) e expectativa de tarifaço dos EUA; dólar sobe a R$ 5,07",
     "summary": "O Ibovespa (IBOV) destoou do otimismo em Wall Street e encerrou em baixa com os investidores esperando o anúncio de um novo tarifaço dos Estados Unidos. Nesta quarta-feira (15), o principal índice da bolsa brasileira ter",
     "source": "Money Times",
     "url": "https://www.moneytimes.com.br/ibovespa-15-7-26-apsa/",
@@ -13,69 +13,126 @@
   },
   "featured": [
     {
-      "title": "Wall Street avança após mercado adiar aposta de alta nos juros pelo Fed; Oriente Médio fica no radar",
-      "summary": "Os índices de Wall Street enfrentaram um pregão volátil nesta quarta-feira (15) com os investidores dividindo as atenções entre novos dados de inflação e desdobramentos do conflito entre Estados Unidos e Irã no Oriente M",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/wall-street-15-7-26-lils/",
-      "time": "2026-07-15T20:03:57Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/imagem-reuters-andrew-kelly.jpg"
+      "title": "Ibovespa fecha em queda com tarifaço dos EUA no radar; Itaú (ITUB4) pesa no índice",
+      "summary": "O Ibovespa encerrou o pregão desta quarta-feira (15) em queda, na contramão das bolsas americanas, pressionado pela expectativa de novas tarifas dos Estados Unidos sobre produtos brasileiros e pela cautela dos investidor",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-15-julho-2026-itub4-tarifaco-eua-mt/",
+      "time": "2026-07-15T21:10:05Z",
+      "cat": "internacional",
+      "tickers": [
+        "ITUB4"
+      ],
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/791bcb81-dsc2631bx-1-jpg.webp"
     },
     {
-      "title": "Governo vai editar MP para renegociação de R$ 100 bilhões em dívidas rurais com juros de até 11%",
-      "summary": "A Medida Provisória que será editada pelo governo federal para renegociação das dívidas rurais deve alcançar mais de R$ 100 bilhões em operações a serem repactuadas com juros de 5% ao ano a 11% ao ano, conforme o porte d",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/governo-vai-editar-mp-para-renegociacao-de-r-100-bilhoes-em-dividas-rurais-com-juros-de-ate-11-pads/",
-      "time": "2026-07-15T18:55:49Z",
+      "title": "Ibovespa hoje fecha em queda, na contramão do exterior; dólar fica estável em R$ 5,07",
+      "summary": "Bolsas dos EUA avançam com ganhos de ações de Big Techs",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-15072026/",
+      "time": "2026-07-15T21:17:31Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/09/itr-imoveis-rurais-imposto-territorial-rural-.jpg"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/Ibovespa-hoje-ao-vivo-10.png?fit=300%2C186&amp;quality=70&amp;strip=all"
     }
   ],
   "all": [
     {
-      "title": "Camil (CAML3): dados mostram cenário desafiador e ação cai 18% após resultado fraco",
-      "summary": "Balanço não agrada investidores",
+      "title": "Hedge funds chineses que lucraram com IA começam a buscar a saída",
+      "summary": "Gestoras reduzem exposição e monitoram sinais de que o rali pode ter ido longe demais",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/camil-caml3-dados-mostram-cenario-desafiador-e-acao-cai-15-apos-resultado-fraco/",
-      "time": "2026-07-15T20:31:39Z",
+      "url": "https://www.infomoney.com.br/onde-investir/hedge-funds-chineses-que-lucraram-com-ia-comecam-a-buscar-a-saida/",
+      "time": "2026-07-15T21:31:07Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/CamilAlimentos_Divulgacao.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/460666325.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "MRV chega a subir forte com desinvestimentos na Luggo, mas fecha em leve alta",
-      "summary": "Os ativos fazem parte da Luggo, plataforma de aluguel por assinatura da MRV",
+      "title": "Assaí Farma deve ampliar receita, mas não significa reprecificação imediata das ações",
+      "summary": "Primeira farmácia dentro de um supermercado Assaí será inaugurada nesta quinta-feira, 16",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/mrv-mrve3-acao-sobe-apos-anuncio-de-desinvestimento-de-ativos-da-luggo/",
-      "time": "2026-07-15T20:30:25Z",
+      "url": "https://www.infomoney.com.br/mercados/assai-farma-deve-ampliar-receita-mas-nao-significa-reprecificacao-imediata-das-acoes/",
+      "time": "2026-07-15T21:18:22Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/Captura-de-tela-2024-08-13-191553.png?fit=300%2C198&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/04/51c992a1-assai-e1550777557316-1024x613-1.png?fit=300%2C180&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Federação alemã de futebol recusa apoio à reeleição de Infantino, diz jornal",
-      "summary": "DFB recusou-se a assinar uma carta de apoio, ao contrário de outras associações, que se arrependeram disso após o caso do cartão vermelho ao americano Balogun",
+      "title": "Ibovespa hoje fecha em queda, na contramão do exterior; dólar fica estável em R$ 5,07",
+      "summary": "Bolsas dos EUA avançam com ganhos de ações de Big Techs",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/esportes/federacao-alema-de-futebol-recusa-apoia-a-reeleicao-de-infantino-diz-jornal/",
-      "time": "2026-07-15T20:26:35Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-10T192241Z_2003234317_UP1EM6A1HTR11_RTRMADP_3_SOCCER-WORLDCUP-INFANTINO.jpg?fit=300%2C206&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Atividade econômica ganha força e inflação pode estar melhorando, diz pesquisa do Fed",
-      "summary": "O documento do Fed indica moderação na alta de preços, mas destaca as incertezas de empresários e famílias em relação ao impacto dos custos de combustíveis sobre as perspectivas econômicas",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/atividade-economica-ganha-forca-e-inflacao-pode-estar-melhorando-diz-pesquisa-do-fed/",
-      "time": "2026-07-15T20:11:00Z",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-15072026/",
+      "time": "2026-07-15T21:17:31Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/FED-INDEPENDENCE_2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/Ibovespa-hoje-ao-vivo-10.png?fit=300%2C186&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Ibovespa recua com expectativa de tarifaço dos EUA e Itaú (ITUB4); dólar sobe a R$ 5,07",
+      "title": "Anthropic agenda reuniões com investidores antes de mega IPO",
+      "summary": "Dona do Claude pode abrir capital já em outubro e sair na frente de OpenAI e DeepSeek",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/anthropic-agenda-reunioes-com-investidores-antes-de-mega-ipo/",
+      "time": "2026-07-15T21:15:05Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/460700341.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Ibovespa cai com cautela sobre tarifa dos EUA, na contramão das altas em NY",
+      "summary": "Em dia de vencimento de opções sobre índice, pesaram ainda sobre a Bolsa brasileira a pesquisa Genial/Quaest e o cenário fiscal",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-cai-com-cautela-sobre-tarifa-dos-eua-na-contramao-das-altas-em-ny/",
+      "time": "2026-07-15T21:06:00Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/09/Captura-de-tela-2024-09-06-100616.png?fit=300%2C202&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Mercado precifica um novo corte na Selic em setembro após dados de inflação nos EUA",
+      "summary": "A curva de juros futuros fechou a sessão desta quarta-feira (15) perto da estabilidade com o alívio nos rendimentos dos títulos do Tesouro dos Estados Unidos, os Treasuries, após novos dados de inflação norte-americanos ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/mercado-precifica-um-novo-corte-na-selic-em-setembro-apos-dados-de-inflacao-nos-eua-lils/",
+      "time": "2026-07-15T21:44:32Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/juros-futuros.jpg"
+    },
+    {
+      "title": "Vibra (VBBR3) segue favorita do Morgan Stanley, que eleva preço-alvo; saiba mais",
+      "summary": "O Morgan Stanley elevou os preços-alvo de Vibra Energia (VBBR3) e Ultrapar (UGPA3) após revisar para cima suas projeções para as distribuidoras de combustíveis, diante de margens consideradas excepcionalmente fortes no s",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/vibra-vbbr3-segue-favorita-do-morgan-stanley-que-eleva-preco-alvo-saiba-mais/",
+      "time": "2026-07-15T21:30:31Z",
+      "cat": "analise",
+      "tickers": [
+        "VBBR3",
+        "UGPA3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/03/vibra-vbbr3.jpg"
+    },
+    {
+      "title": "Axia Energia (AXIA3) avança em restauração do vertedouro da usina de Furnas, em Minas Gerais",
+      "summary": "A Axia Energia (AXIA3) completou o primeiro mês de obras na restauração do vertedouro da Usina Hidrelétrica de Furnas (UHE Furnas) em Minas Gerais. A duração total da obra está prevista para seis meses, com investimentos",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/axia-energia-axia3-avanca-em-restauracao-do-vertedouro-da-usina-de-furnas-em-minas-gerais/",
+      "time": "2026-07-15T20:46:11Z",
+      "cat": "acoes",
+      "tickers": [
+        "AXIA3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/11/axia-energia-1.jpg"
+    },
+    {
+      "title": "Trump diz que Irã quer conversar e que é melhor suspender cortes de juros do que aumentar",
+      "summary": "O presidente norte-americano, Donald Trump, voltou a dizer nesta quarta-feira, 15, que o Irã quer conversar com os Estados Unidos e que as forças militares persas estão debilitadas. Em entrevista à Fox Business, o republ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/trump-diz-que-ira-quer-conversar-e-que-e-melhor-suspender-cortes-de-juros-do-que-aumentar/",
+      "time": "2026-07-15T20:34:25Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/2026-06-09t165451z-1-lynxmpem581ap-rtroptp-4-usa-trump-scaled-e1781115121270.jpg"
+    },
+    {
+      "title": "Ibovespa recua com Itaú (ITUB4) e expectativa de tarifaço dos EUA; dólar sobe a R$ 5,07",
       "summary": "O Ibovespa (IBOV) destoou do otimismo em Wall Street e encerrou em baixa com os investidores esperando o anúncio de um novo tarifaço dos Estados Unidos. Nesta quarta-feira (15), o principal índice da bolsa brasileira ter",
       "source": "Money Times",
       "url": "https://www.moneytimes.com.br/ibovespa-15-7-26-apsa/",
@@ -127,54 +184,16 @@
       "image": "https://www.moneytimes.com.br/uploads/2026/07/petroleo.jpg"
     },
     {
-      "title": "Governo incorpora Selic de 14% e aumenta previsão para a inflação de 2026",
-      "summary": "O Ministério da Fazenda avalia que o ciclo de afrouxamento monetário deve ser mais curto do que o esperado há dois meses. No novo Boletim MacroFiscal, a pasta incorporou uma taxa Selic terminal de 14% em 2026 e, ao mesmo",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/governo-incorpora-selic-de-14-e-aumenta-previsao-para-a-inflacao-de-2026-jcav/",
-      "time": "2026-07-15T19:29:42Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/tarifa-de-trump-ministerio-da-fazenda.jpg"
-    },
-    {
-      "title": "Passagem aérea sobe quatro vezes mais que a de ônibus em 2026; entenda a alta de preços",
-      "summary": "No primeiro semestre de 2026, a escolha entre viajar de avião ou de ônibus pelo Brasil foi definida pelo orçamento doméstico. As passagens aéreas acumularam uma alta de 23,1% de janeiro a junho deste ano, enquanto as de ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/passagem-aerea-sobe-quatro-vezes-mais-que-a-de-onibus-em-2026-entenda-a-alta-de-precos-gaep/",
-      "time": "2026-07-15T19:21:37Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/passagens-aereas-e-de-onibus.png"
-    },
-    {
-      "title": "Mercado joga alta dos juros dos EUA para outubro após dados fracos",
-      "summary": "Os operadores de mercado reduziram as expectativas para alta nas taxas de juros dos EUA e passaram a projetá-la apenas para outubro, ante a expectativa de ajustes já na reunião de setembro. De acordo com a ferramenta CME",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/mercado-joga-alta-dos-juros-dos-eua-para-outubro-apos-dados-fracos-jcav/",
-      "time": "2026-07-15T18:59:48Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/11/acoes-internacionais-eua-carteira-recomendada-1.jpg"
-    },
-    {
-      "title": "Governo vai editar MP para renegociação de R$ 100 bilhões em dívidas rurais com juros de até 11%",
-      "summary": "A Medida Provisória que será editada pelo governo federal para renegociação das dívidas rurais deve alcançar mais de R$ 100 bilhões em operações a serem repactuadas com juros de 5% ao ano a 11% ao ano, conforme o porte d",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/governo-vai-editar-mp-para-renegociacao-de-r-100-bilhoes-em-dividas-rurais-com-juros-de-ate-11-pads/",
-      "time": "2026-07-15T18:55:49Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/09/itr-imoveis-rurais-imposto-territorial-rural-.jpg"
-    },
-    {
-      "title": "O cenário piorou, e é hora de segurar a carteira, diz BofA; veja uma ação para comprar e duas para evitar",
-      "summary": "O cenário piorou. Pelo menos essa é a visão do Bank of America (BofA) para a economia brasileira: os economistas veem mais juros pela frente. Se antes a expectativa era de uma Selic em torno de 12%, agora o cenário é de ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/o-cenario-piorou-e-e-hora-de-segurar-a-carteira-diz-bofa-veja-uma-acao-para-comprar-e-duas-para-evitar/",
-      "time": "2026-07-15T18:51:30Z",
-      "cat": "analise",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2024/11/queda.jpg"
+      "title": "Ibovespa fecha em queda com tarifaço dos EUA no radar; Itaú (ITUB4) pesa no índice",
+      "summary": "O Ibovespa encerrou o pregão desta quarta-feira (15) em queda, na contramão das bolsas americanas, pressionado pela expectativa de novas tarifas dos Estados Unidos sobre produtos brasileiros e pela cautela dos investidor",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-15-julho-2026-itub4-tarifaco-eua-mt/",
+      "time": "2026-07-15T21:10:05Z",
+      "cat": "internacional",
+      "tickers": [
+        "ITUB4"
+      ],
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/791bcb81-dsc2631bx-1-jpg.webp"
     },
     {
       "title": "Marcopolo (POMO4): mercado de ônibus perde fôlego e acende alerta",
@@ -221,54 +240,104 @@
       "image": "https://files.sunoresearch.com.br/n/uploads/2021/04/43c9c7ac-tw-morganstanley-jpg.webp"
     },
     {
-      "title": "CACR11: BRL Trust renuncia à administração em meio à crise; gestor diz que decisão não teve explicação",
-      "summary": "A crise envolvendo o CACR11 (Cartesia Recebíveis Imobiliários) avançou após a BRL Trust comunicar, por fato relevante, sua renúncia à função de administradora do fundo. O movimento ocorre em meio à suspensão de dividendo",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/cacr11-brl-trust-renuncia-a-administracao-em-meio-a-crise-gestor-diz-que-decisao-nao-teve-explicacao/",
-      "time": "2026-07-15T00:45:06Z",
-      "cat": "acoes",
+      "title": "China concentra quase um terço das exportações brasileiras e bate recordes no comércio com o Brasil",
+      "summary": "As exportações brasileiras para o país asiático somaram US$58,3 bilhões entre janeiro e junho, enquanto as importações chegaram a US$38,5 bilhões, de acordo com levantamento do Conselho Empresarial Brasil-China",
+      "source": "Exame",
+      "url": "https://exame.com/brasil/china-concentra-quase-um-terco-das-exportacoes-brasileiras-e-bate-recordes-no-comercio-com-o-brasil/",
+      "time": "2026-07-15T18:46:52Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/9_Close_de_tela_de_not_1_2026017_155817-2-jpg.webp"
+      "image": "https://classic.exame.com/wp-content/uploads/2023/11/ChinaBrasil.jpg"
     },
     {
-      "title": "Maior Copa de todos os tempos, Fifa deve bater recorde de arrecadação",
-      "summary": "Edição atual deve chegar a US$ 9 bilhões e ser a mais rentável de toda a história",
-      "source": "Exame",
-      "url": "https://exame.com/esporte/maior-copa-de-todos-os-tempos-fifa-deve-bater-recorde-de-arrecadacao/",
-      "time": "2026-07-15T16:58:40Z",
+      "title": "México - Ações fecharam o pregão em queda e o Índice S&P/BMV IPC recuou 0,17%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/mexico--acoes-fecharam-o-pregao-em-queda-e-o-indice-spbmv-ipc-recuou-017-2003154",
+      "time": "2026-07-15T21:30:20Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPED8P25V_M.jpg"
+    },
+    {
+      "title": "Ibovespa e dólar hoje repercutem tarifas dos EUA e balanços americanos",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-repercutem-tarifas-dos-eua-e-balancos-americanos-2002985",
+      "time": "2026-07-15T21:30:02Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/AFP__20260628__B8LH32W__v1__HighRes__FblWc2026Match73RsaCan.jpg"
+      "image": null
     },
     {
-      "title": "Câmara aprova projeto de lei que impede prescrição de pena para condenados foragidos",
-      "summary": "Texto altera o Código Penal para impedir que o período de fuga seja contabilizado na prescrição da execução da pena; proposta segue para análise do Senado",
-      "source": "Exame",
-      "url": "https://exame.com/brasil/camara-aprova-projeto-de-lei-que-impede-prescricao-de-pena-para-condenados-foragidos/",
-      "time": "2026-07-15T16:55:50Z",
-      "cat": "economia",
+      "title": "Paranapanema recebe proposta de investimento de US$40 mi por holding de Dubai",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/paranapanema-recebe-proposta-de-investimento-de-us40-mi-por-holding-de-dubai-2003149",
+      "time": "2026-07-15T21:28:11Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2023/05/camara-dos-deputados.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB1Q06W_M.jpg"
     },
     {
-      "title": "Queda da França impede Kylian Mbappé de alcançar recorde de Cafu",
-      "summary": "Com a eliminação francesa na semifinal, o ex-lateral brasileiro é o único jogador a atuar em três finais consecutivas de Copa do Mundo",
-      "source": "Exame",
-      "url": "https://exame.com/esporte/queda-da-franca-impede-kylian-mbappe-de-alcancar-recorde-de-cafu/",
-      "time": "2026-07-15T16:44:07Z",
+      "title": "Colômbia - Ações fecharam o pregão em queda e o Índice COLCAP recuou 0,29%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/colombia--acoes-fecharam-o-pregao-em-queda-e-o-indice-colcap-recuou-029-2003147",
+      "time": "2026-07-15T21:25:21Z",
       "cat": "fundos",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/AFP__20260608__B6EQ3LW__v5__HighRes__FblWc2026FriendlyFraNir.jpg"
+      "image": null
     },
     {
-      "title": "Jair Bolsonaro contradiz Flávio e afirma ao STF que filho leu carta em live sem sua autorização",
-      "summary": "Alexandre de Moraes pediu explicações à defesa, enviou o caso à Procuradoria-Geral Eleitoral e suspendeu as visitas de Flávio por 90 dias",
-      "source": "Exame",
-      "url": "https://exame.com/brasil/jair-bolsonaro-contradiz-flavio-e-diz-ao-stf-que-filho-leu-carta-em-live-sem-sua-autorizacao/",
-      "time": "2026-07-15T16:37:41Z",
-      "cat": "economia",
+      "title": "Rússia - Ações fecharam o pregão em queda e o Índice MOEX Russia Index recuou 2,68%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/russia--acoes-fecharam-o-pregao-em-queda-e-o-indice-moex-russia-index-recuou-268-2003143",
+      "time": "2026-07-15T21:20:22Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/05/flavio-bolsonaro-14.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB4B0FU_M.jpg"
+    },
+    {
+      "title": "Por que as ações da VivoSim Labs estão caindo hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-vivosim-labs-estao-caindo-hoje-93CH-2003141",
+      "time": "2026-07-15T21:18:44Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Bancos de Wall Street prevêem que “superciclo” da IA impulsionará negócios",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/bancos-de-wall-street-preveem-que-superciclo-da-ia-impulsionara-negocios-2003137",
+      "time": "2026-07-15T21:14:07Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Ibovespa fecha em queda descolado de NY com investidor à espera de decisão dos EUA sobre tarifas",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-fecha-em-queda-descolado-de-ny-com-engie-entre-maiores-quedas-b3-sobe-2003027",
+      "time": "2026-07-15T20:42:09Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB7N133_M.jpg"
+    },
+    {
+      "title": "Ações em movimento no after-hours: JBHT, UAL, ASTS, JBL",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-em-movimento-no-afterhours-jbht-ual-asts-jbl-432SI-2003087",
+      "time": "2026-07-15T20:33:01Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
       "title": "E.U.A. - Ações fecharam o pregão em alta e o Índice Dow Jones Industrial Average avançou 0,29%",
@@ -279,57 +348,7 @@
       "cat": "internacional",
       "tickers": [],
       "image": null
-    },
-    {
-      "title": "Canadá - Ações fecharam o pregão em alta e o Índice S&P/TSX avançou 0,27%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/canada--acoes-fecharam-o-pregao-em-alta-e-o-indice-sptsx-avancou-027-2003084",
-      "time": "2026-07-15T20:30:51Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Brasil - Ações fecharam o pregão em queda e o Índice Bovespa recuou 0,36%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/brasil--acoes-fecharam-o-pregao-em-queda-e-o-indice-bovespa-recuou-036-2003083",
-      "time": "2026-07-15T20:30:22Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB7N133_M.jpg"
-    },
-    {
-      "title": "Melhores ações de semicondutores analógicos com recuperação do setor ganhando força",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/melhores-acoes-de-semicondutores-analogicos-com-recuperacao-do-setor-ganhando-forca-93CH-2003081",
-      "time": "2026-07-15T20:30:08Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Ações da AST SpaceMobile caem com oferta de dívida de US$ 1 bi",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-ast-spacemobile-caem-com-oferta-de-divida-de-us-1-bi-93CH-2003036",
-      "time": "2026-07-15T20:09:24Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Ibovespa fecha em queda descolado de NY com Engie entre maiores quedas; B3 sobe",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-fecha-em-queda-descolado-de-ny-com-engie-entre-maiores-quedas-b3-sobe-2003027",
-      "time": "2026-07-15T20:07:06Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB7N133_M.jpg"
     }
   ],
-  "atualizado_em": "15/07/2026 20:33"
+  "atualizado_em": "15/07/2026 22:00"
 }
