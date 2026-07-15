@@ -1,37 +1,79 @@
 {
   "headline": {
-    "title": "Ibovespa sobe com alívio nos EUA e dólar cai abaixo de R$ 5,10",
-    "summary": "O Ibovespa fechou em alta nesta terça-feira (14), embalado pelo aumento do apetite por risco após a divulgação de um índice de preços ao consumidor (CPI) dos Estados Unidos abaixo das expectativas. O principal índice da ",
-    "source": "Suno",
-    "url": "https://www.suno.com.br/noticias/ibovespa-hoje-fechamento-petrobras-mt-2/",
-    "time": "2026-07-14T20:55:08Z",
-    "cat": "economia",
-    "tickers": [],
-    "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/Ibovespa-2-1-1-jpg.webp"
+    "title": "J&F confirma visita de comitiva da Vale (VALE3), mas nega que LHG Mining esteja à venda",
+    "summary": "A JF S.A., conglomerado dos irmãos Batista que é integrado pela JBS e outras companhias, confirmou que recebeu, a pedido da Vale (VALE3), uma comitiva para conhecer as instalações da LHG Mining e as melhorias implementad",
+    "source": "Money Times",
+    "url": "https://www.moneytimes.com.br/jf-confirma-visita-de-comitiva-da-vale-vale3-mas-nega-que-lhg-mining-esteja-a-venda-fets/",
+    "time": "2026-07-15T07:08:00Z",
+    "cat": "acoes",
+    "tickers": [
+      "VALE3"
+    ],
+    "image": "https://www.moneytimes.com.br/uploads/2026/07/vale.jpg"
   },
   "featured": [
     {
-      "title": "Por que as ações da Ather Energy estão disparando hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-ather-energy-estao-disparando-hoje-93CH-2001863",
-      "time": "2026-07-15T04:59:50Z",
-      "cat": "internacional",
+      "title": "IPCA+8% é para todo mundo? Entenda se taxa rara sozinha justifica aplicar no Tesouro",
+      "summary": "Especialistas indicam fatias, vencimentos e alternativas para conservadores, moderados e arrojados, e para diferentes horizontes de investimento",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/onde-investir/tesouro-ipca-8-recomendacoes-perfil-risco-prazo/",
+      "time": "2026-07-15T08:00:00Z",
+      "cat": "economia",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/ipca-8-vale-investidor.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Ações da Tasly Pharmaceutical disparam após resultado acima do esperado",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-tasly-pharmaceutical-disparam-apos-resultado-acima-do-esperado-93CH-2001862",
-      "time": "2026-07-15T04:59:48Z",
-      "cat": "internacional",
+      "title": "FGC ainda tem R$ 1,83 bilhões para devolver a clientes de bancos do grupo Master; veja como sacar",
+      "summary": "O Fundo Garantidor de Créditos (FGC) ainda tem um montante de R$ 1,83 bilhão reservado para investidores e correntistas de instituições ligadas ao grupo Master que ainda não pediram o reembolso. Segundo balanço divulgado",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/fgc-ainda-tem-r-183-bilhoes-para-devolver-a-clientes-de-bancos-do-grupo-master-veja-como-sacar-fets/",
+      "time": "2026-07-15T07:33:00Z",
+      "cat": "acoes",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2024/02/banco-master-compra-will-bank.jpg"
     }
   ],
   "all": [
+    {
+      "title": "IPCA+8% é para todo mundo? Entenda se taxa rara sozinha justifica aplicar no Tesouro",
+      "summary": "Especialistas indicam fatias, vencimentos e alternativas para conservadores, moderados e arrojados, e para diferentes horizontes de investimento",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/onde-investir/tesouro-ipca-8-recomendacoes-perfil-risco-prazo/",
+      "time": "2026-07-15T08:00:00Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/ipca-8-vale-investidor.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "As empresas da B3 que investiram bem no passado – e estão colhendo frutos hoje",
+      "summary": "Mapeamento do Santander identifica companhias listadas na bolsa brasileira que superaram a fase de gastos pesados e iniciaram um ciclo de forte geração de caixa e eficiência operacional",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/as-empresas-da-b3-que-investiram-bem-no-passado-e-estao-colhendo-frutos-hoje/",
+      "time": "2026-07-15T08:00:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/compagnons-R401qwThw7w-unsplash-e1777550375830.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Quando cai o pagamento do Bolsa Família em julho? Veja valores e como consultar",
+      "summary": "Os depósitos acontecem de forma escalonada, ao longo dos últimos dez dias úteis do mês",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/minhas-financas/pagamento-do-bolsa-familia-em-julho/",
+      "time": "2026-07-15T08:00:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/53627831838_2fa74e7364_o.webp?fit=300%2C179&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Receita paga cashback do Imposto de Renda hoje; veja que recebe restituição especial",
+      "summary": "O pagamento de cerca de R$ 460 milhões a quase 3,5 milhões de contribuintes será efetuado exclusivamente na conta do contribuinte vinculada à chave Pix do tipo CPF",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/minhas-financas/receita-paga-cashback-do-imposto-de-renda-hoje-veja-que-recebe-restituicao-especial/",
+      "time": "2026-07-15T07:00:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/real_moedadinheiro_jfcrz_abr_1701220046_1.jpeg?fit=300%2C179&amp;quality=70&amp;strip=all"
+    },
     {
       "title": "Nunes Marques arquiva ação de deputados do PSOL contra Bolsonaro sobre CPI da Covid",
       "summary": "Magistrado acolheu uma manifestação da PGR que concluiu não haver indícios dos crimes de corrupção ativa e advocacia administrativa na conduta do ex-presidente",
@@ -73,14 +115,36 @@
       "image": "https://www.infomoney.com.br/wp-content/uploads/2024/10/loteria_lotofacil_Marcelo-Camargo-Agencia-Brasil-e1751562724210.webp?fit=300%2C191&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Mega-Sena hoje, concurso 3031: confira o resultado sorteado nesta terça (14)",
-      "summary": "O prêmio deste concurso era de R$ 24.158.890,40",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/consumo/mega-sena-hoje-concurso-3031-confira-o-resultado-sorteado-nesta-terca-14/",
-      "time": "2026-07-15T00:02:10Z",
+      "title": "Petróleo segue em alta e sobe mais de 1% com agravamento de hostilidades entre EUA e Irã",
+      "summary": "Os preços do petróleo sobem acima de 1% nesta quarta-feira (15), depois que o presidente Donald Trump restabeleceu um bloqueio naval a todos os portos iranianos e Teerã lançou ataques contra infraestrutura dos Estados Un",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/petroleo-segue-em-alta-e-sobe-mais-de-1-com-agravamento-de-hostilidades-entre-eua-e-ira-fets/",
+      "time": "2026-07-15T07:50:48Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2024/10/petroleo-petroleira-acao-ira-prio-1.jpg"
+    },
+    {
+      "title": "FGC ainda tem R$ 1,83 bilhões para devolver a clientes de bancos do grupo Master; veja como sacar",
+      "summary": "O Fundo Garantidor de Créditos (FGC) ainda tem um montante de R$ 1,83 bilhão reservado para investidores e correntistas de instituições ligadas ao grupo Master que ainda não pediram o reembolso. Segundo balanço divulgado",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/fgc-ainda-tem-r-183-bilhoes-para-devolver-a-clientes-de-bancos-do-grupo-master-veja-como-sacar-fets/",
+      "time": "2026-07-15T07:33:00Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/20230622_182658.jpg?fit=300%2C179&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2024/02/banco-master-compra-will-bank.jpg"
+    },
+    {
+      "title": "J&F confirma visita de comitiva da Vale (VALE3), mas nega que LHG Mining esteja à venda",
+      "summary": "A JF S.A., conglomerado dos irmãos Batista que é integrado pela JBS e outras companhias, confirmou que recebeu, a pedido da Vale (VALE3), uma comitiva para conhecer as instalações da LHG Mining e as melhorias implementad",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/jf-confirma-visita-de-comitiva-da-vale-vale3-mas-nega-que-lhg-mining-esteja-a-venda-fets/",
+      "time": "2026-07-15T07:08:00Z",
+      "cat": "acoes",
+      "tickers": [
+        "VALE3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/vale.jpg"
     },
     {
       "title": "Vale (VALE3) elege presidente tampão para conselho; veja quem assume",
@@ -207,85 +271,95 @@
       "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     },
     {
-      "title": "De craque a ídolo pop: como Haaland mobilizou milhões de fãs na China",
-      "summary": "Atacante da Noruega reúne milhões de seguidores, inspira memes, músicas e apelidos carinhosos, consolidando uma popularidade que vai além do futebol",
-      "source": "Exame",
-      "url": "https://exame.com/pop/de-craque-a-idolo-pop-como-haaland-mobilizou-milhoes-de-fas-na-china/",
-      "time": "2026-07-14T20:00:01Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/AFP__20260713__C23F47Z__v5__HighRes__FootballWorldCup2026.jpg"
-    },
-    {
-      "title": "Por que as ações da Ather Energy estão disparando hoje?",
+      "title": "BofA eleva Imperial Brands para compra e vê preocupações com crescimento em 2026 diminuindo",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-ather-energy-estao-disparando-hoje-93CH-2001863",
-      "time": "2026-07-15T04:59:50Z",
+      "url": "https://br.investing.com/news/stock-market-news/bofa-eleva-imperial-brands-para-compra-e-ve-preocupacoes-com-crescimento-em-2026-diminuindo-2002007",
+      "time": "2026-07-15T08:01:45Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Ações da Tasly Pharmaceutical disparam após resultado acima do esperado",
+      "title": "Por que a ação da Mowi está disparando hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-tasly-pharmaceutical-disparam-apos-resultado-acima-do-esperado-93CH-2001862",
-      "time": "2026-07-15T04:59:48Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-a-acao-da-mowi-esta-disparando-hoje-93CH-2002001",
+      "time": "2026-07-15T07:59:42Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Por que as ações da China National Building Material estão despencando hoje?",
+      "title": "Por que as ações da Barratt Redrow estão subindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-china-national-building-material-estao-despencando-hoje-93CH-2001860",
-      "time": "2026-07-15T04:48:39Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-barratt-redrow-estao-subindo-hoje-93CH-2002000",
+      "time": "2026-07-15T07:58:18Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Ações da SK Hynix em Seul disparam com alta do setor de tecnologia nos EUA",
+      "title": "Ações de luxo europeias disparam após resultados sólidos da Richemont",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-sk-hynix-disparam-em-seul-com-alta-do-setor-de-tecnologia-nos-eua-2001859",
-      "time": "2026-07-15T04:36:08Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-de-luxo-europeias-disparam-apos-resultados-solidos-da-richemont-2002008",
+      "time": "2026-07-15T07:57:34Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Bolsas asiáticas sobem com CPI dos EUA; KOSPI lidera ganhos",
+      "title": "Por que as ações da Richemont disparam hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/bolsas-asiaticas-sobem-com-cpi-fraco-dos-eua-kospi-se-destaca-2001852",
-      "time": "2026-07-15T03:36:08Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-richemont-disparam-hoje-93CH-2001999",
+      "time": "2026-07-15T07:54:29Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Por que as ações da SoftBank estão caindo hoje?",
+      "title": "Ações da Mowi disparam após colheita de salmão superar guidance no 2º tri",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-softbank-estao-caindo-hoje-93CH-2001846",
-      "time": "2026-07-15T03:00:28Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-mowi-disparam-apos-colheita-de-salmao-superar-guidance-no-2o-tri-2001998",
+      "time": "2026-07-15T07:51:01Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "DeepSeek busca rodada de US$ 71 bilhões e prepara IPO na China",
+      "title": "Por que as ações da Storebrand estão disparando hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/deepseek-busca-rodada-de-us-71-bilhoes-e-prepara-ipo-na-china-2001843",
-      "time": "2026-07-15T02:32:52Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-storebrand-estao-disparando-hoje-93CH-2001989",
+      "time": "2026-07-15T07:44:32Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Berenberg inicia cobertura da Burkhalter com recomendação de manutenção",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/berenberg-inicia-cobertura-da-burkhalter-com-recomendacao-de-manutencao-2001991",
+      "time": "2026-07-15T07:44:12Z",
+      "cat": "analise",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Por que as ações da ICG estão em alta hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-icg-estao-em-alta-hoje-93CH-2001978",
+      "time": "2026-07-15T07:30:48Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "15/07/2026 05:31"
+  "atualizado_em": "15/07/2026 08:09"
 }
