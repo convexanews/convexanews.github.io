@@ -1,93 +1,168 @@
 {
   "headline": {
-    "title": "Em meio a juros recordes, B3 lança índices que seguem Tesouro IPCA+",
-    "summary": "Indicadores acompanham carteiras de NTN-Bs com prazos de referência de dois, cinco e dez anos e servem de base para ETFs",
-    "source": "InfoMoney",
-    "url": "https://www.infomoney.com.br/onde-investir/em-meio-a-juros-recordes-b3-lanca-indices-que-seguem-tesouro-ipca/",
-    "time": "2026-07-16T18:49:32Z",
+    "title": "Ibovespa cai 1,24% com pressão de Vale, bancos e Petrobras; dólar sobe para R$ 5,09",
+    "summary": "A confirmação da tarifa adicional de 25% anunciada pelos Estados Unidos sobre diversos produtos brasileiros também pesou sobre a bolsa",
+    "source": "Exame",
+    "url": "https://exame.com/invest/mercados/ibovespa-cai-124-com-pressao-de-vale-bancos-e-petrobras-dolar-sobe-para-r-509/",
+    "time": "2026-07-16T17:36:22Z",
     "cat": "economia",
     "tickers": [],
-    "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/nicholas-cappello-Wb63zqJ5gnE-unsplash.jpg?fit=300%2C199&amp;quality=70&amp;strip=all"
+    "image": "https://classic.exame.com/wp-content/uploads/2021/05/DSC2685bx.jpg"
   },
   "featured": [
     {
-      "title": "Vale (VALE3) ou Petrobras (PETR4): quem pagou mais dividendos nos últimos 12 meses?",
-      "summary": "Dividendos seguem entre os principais atrativos para investidores que buscam renda passiva na bolsa. Entre as maiores pagadoras da B3, Petrobras (PETR4) e Vale (VALE3) costumam figurar entre as preferidas do mercado. Mas",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/vale3-ou-petr4-quem-pagou-mais-dividendos-mt/",
-      "time": "2026-07-16T16:15:05Z",
-      "cat": "fundos",
-      "tickers": [
-        "VALE3",
-        "PETR4"
-      ],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/vale-vs-petrobras-png.webp"
+      "title": "Ibovespa fecha em queda de mais de 1% pressionado por Vale e Itaú",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-fecha-em-queda-de-mais-de-1-pressionado-por-vale-e-itau-2004491",
+      "time": "2026-07-16T20:35:32Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB7N0OD_M.jpg"
     },
     {
-      "title": "Bradesco (BBDC4), Itaú (ITUB4) ou Santander (SANB11): XP aponta apenas um ganhador no 2T26",
-      "summary": "Contagem regressiva para o começo de mais uma temporada de resultados dos bancões. No dia 29 de julho, o Santander Brasil (SANB11) dá o pontapé inicial, seguido pelo Itaú Unibanco (ITUB4), no dia 4, e pelo Bradesco (BBDC",
+      "title": "Novo ‘tarifaço’ de Trump assusta mercado e Ibovespa recua 1%; dólar sobe a R$ 5,09",
+      "summary": "O Ibovespa (IBOV) teve um dia de aversão a risco com novo tarifaço do governo Trump sobre Brasil e escalada das tensões entre EUA e Irã em foco. Nesta quinta-feira (16), o principal índice da bolsa brasileira terminou as",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bradesco-bbdc-itau-itub4-ou-santander-sanb11-xp-aponta-um-ganhador-no-2t26-rnda/",
-      "time": "2026-07-16T19:20:32Z",
-      "cat": "acoes",
-      "tickers": [
-        "BBDC4",
-        "ITUB4",
-        "SANB11"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/bradesco-itau-santander.jpg"
+      "url": "https://www.moneytimes.com.br/ibovespa-16-7-26-lils/",
+      "time": "2026-07-16T20:24:35Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/queda-ibovespa.jpg"
     }
   ],
   "all": [
     {
-      "title": "Operador de teleprompter de Trump é investigado por usar informação privilegiada",
-      "summary": "A Kalshi informou que congelou mais de US$ 90 mil em lucros mantidos em uma conta de cliente",
+      "title": "Netflix desaponta em receita no 2T26 e reduz guidance para o ano; ação tomba 8% em NY",
+      "summary": "A receita da gigante de streaming ficou em US$ 12,56 bilhões, abaixo dos US$ 12,58 bilhões previstos pelos analistas",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/operador-de-teleprompter-de-trump-e-investigado-por-usar-informacao-privilegiada/",
-      "time": "2026-07-16T19:38:47Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-06T182443Z_648735012_RC2PJKARP04K_RTRMADP_3_IRAN-CRISIS-USA-TRUMP.jpg?fit=300%2C214&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Resultados do 2T26 da WEG serão fracos como o mercado pensa? Veja possibilidades",
-      "summary": "Analistas do mercado financeiro cruzaram as prévias do próximo trimestre da WEG com os resultados da sua principal concorrente, a ABB; entenda como a leitura pode prever o 2T26 da companhia",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/resultados-do-2t26-da-weg-serao-fracos-como-o-mercado-pensa-veja-possibilidades/",
-      "time": "2026-07-16T19:23:41Z",
+      "url": "https://www.infomoney.com.br/mercados/netflix-desaponta-em-receita-no-2t26-e-reduz-guidance-para-o-ano-acao-tomba-8-em-ny/",
+      "time": "2026-07-16T20:44:05Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/weg.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/2024-05-15T193801Z_1_LYNXMPEK4E0WW_RTROPTP_4_NETFLIX-AD-PLAN.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Em meio a juros recordes, B3 lança índices que seguem Tesouro IPCA+",
-      "summary": "Indicadores acompanham carteiras de NTN-Bs com prazos de referência de dois, cinco e dez anos e servem de base para ETFs",
+      "title": "Dólar hoje sobe 0,40%, a R$ 5,09, após EUA anunciarem tarifa sobre o Brasil",
+      "summary": "Moeda norte-americana tem sinais mistos ante as demais divisas.",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/onde-investir/em-meio-a-juros-recordes-b3-lanca-indices-que-seguem-tesouro-ipca/",
-      "time": "2026-07-16T18:49:32Z",
+      "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-16072026/",
+      "time": "2026-07-16T20:42:31Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/nicholas-cappello-Wb63zqJ5gnE-unsplash.jpg?fit=300%2C199&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-22T221253Z_1_LYNXNPEL8L0XW_RTROPTP_4_DOLAR-ABRE.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Ânima sobe mais de 9% após forte queda na véspera e com aumento de participação",
-      "summary": "Ações sobem mais de 9% hoje, após queda superior a 30%",
+      "title": "Bolsas de NY fecham em queda com techs penalizadas após balanço da TSMC",
+      "summary": "Uma forte correção no setor de semicondutores foi desencadeada pela reação negativa ao aumento dos investimentos da TSMC",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-em-queda-com-techs-penalizadas-apos-balanco-da-tsmc/",
+      "time": "2026-07-16T20:37:55Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-29T060934Z_964769431_RC25EKAJLMU1_RTRMADP_3_USA-MARKETS-IRAN-TRADING.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Copel cai 2,8% após elevar meta de alavancagem; JPMorgan tem cautela sobre dividendos",
+      "summary": "Apesar do JPMorgan avaliar que a mudança traz mais flexibilidade ao balanço, banco mantém visão conservadora para a remuneração aos acionistas",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/copel-cai-3-apos-elevar-meta-de-alavancagem-jpmorgan-tem-cautela-sobre-dividendos/",
+      "time": "2026-07-16T20:25:26Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2023/09/Texto-4-10_2022.jpeg?fit=300%2C169&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Ânima salta 8,8% após forte queda na véspera e com aumento de participação",
+      "summary": "Na véspera, papéis caíram 32,75%, com mercado vendo negativamente a aquisição pela FMU",
       "source": "InfoMoney",
       "url": "https://www.infomoney.com.br/mercados/anima-sobe-mais-de-9-apos-forte-queda-na-vespera-e-com-aumento-de-participacao/",
-      "time": "2026-07-16T18:38:02Z",
+      "time": "2026-07-16T20:18:59Z",
       "cat": "acoes",
       "tickers": [],
       "image": "https://www.infomoney.com.br/wp-content/uploads/2024/03/anima-unifacs.jpg?fit=300%2C199&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Ibovespa Hoje Ao Vivo: Bolsa cai mais de 1%, aos 173 mil, com tarifaço dos EUA",
-      "summary": "Bolsas dos EUA operam mistas com tensão geopolítica no radar e novos dados econômicos",
+      "title": "Juros futuros fecham em alta com tarifas dos EUA e Treasuries",
+      "summary": "O avanço das taxas foi impulsionado pela nova taxa americana sobre produtos brasileiros e por dados de resiliência econômica nos Estados Unidos",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-16072026/",
-      "time": "2026-07-16T18:35:13Z",
+      "url": "https://www.infomoney.com.br/mercados/juros-futuros-fecham-em-alta-com-tarifas-dos-eua-e-treasuries/",
+      "time": "2026-07-16T20:17:36Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/real_moedadinheiro_jfcrz_abr_1701220046_1.jpeg?fit=300%2C179&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Clube dos US$ 100 bilhões: apenas três empresas da B3 romperam essa barreira desde 2020",
+      "summary": "Em um mercado que reúne centenas de companhias listadas e movimenta trilhões de reais em valor de mercado, apenas três empresas brasileiras conseguiram superar a marca de US$ 100 bilhões em valor de mercado desde janeiro",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/clube-dos-us-100-bilhoes-apenas-tres-empresas-da-b3-romperam-essa-barreira-desde-2020/",
+      "time": "2026-07-16T20:53:13Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/chatgpt-image-16-de-jul.-de-2026-17-50-24.png"
+    },
+    {
+      "title": "Novo ‘tarifaço’ de Trump assusta mercado e Ibovespa recua 1%; dólar sobe a R$ 5,09",
+      "summary": "O Ibovespa (IBOV) teve um dia de aversão a risco com novo tarifaço do governo Trump sobre Brasil e escalada das tensões entre EUA e Irã em foco. Nesta quinta-feira (16), o principal índice da bolsa brasileira terminou as",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ibovespa-16-7-26-lils/",
+      "time": "2026-07-16T20:24:35Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/queda-ibovespa.jpg"
+    },
+    {
+      "title": "BTG Pactual (BPAC11) abre ao mercado plataforma de securitização e inicia nova fase da BSec",
+      "summary": "O BTG Pactual (BPAC11) anunciou uma nova fase da BSec, sua plataforma de securitização, que passa a operar de forma independente e oferecer soluções para operações no mercado de capitais. A plataforma reúne serviços de s",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/btg-pactual-bpac11-abre-ao-mercado-plataforma-de-securitizacao-e-inicia-nova-fase-da-bsec-rnda/",
+      "time": "2026-07-16T20:14:37Z",
+      "cat": "analise",
+      "tickers": [
+        "BPAC11"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2024/09/btg-1.jpg"
+    },
+    {
+      "title": "Wall Street recua com pressão de tecnologia; Nasdaq cai mais de 1%",
+      "summary": "Os índices de Wall Street fecharam em baixa diante da forte queda do segmento de semicondutores após a Taiwan Semiconductor anunciar o aumento dos investimentos ligados à inteligência artificial (IA). Apesar dos dados po",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/wall-street-16-7-26-apsa/",
+      "time": "2026-07-16T20:08:47Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/Ibovespa-ao-vivo-30.png?fit=300%2C186&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/2026-07-06t134208z-1-lynxmpem650w6-rtroptp-4-usa-stocks-economy-investors-e1784123087988.jpg"
+    },
+    {
+      "title": "Dólar avança e fecha a R$ 5,09 com novo tarifaço de Trump",
+      "summary": "O dólar à vista ganhou força ante o real com o novo tarifaço dos Estados Unidos sobre produtos brasileiros. Dados de varejo e pesquisas eleitorais, além da escalada de tensões no Oriente Médio, ficaram no radar. Nesta qu",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/dolar-16-7-26-lils/",
+      "time": "2026-07-16T20:04:57Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/dolar-estrangeiros-1.jpg"
+    },
+    {
+      "title": "Petróleo recua apesar de incertezas no Oriente Médio",
+      "summary": "Os preços do petróleo encerraram o pregão desta quinta-feira (16) em baixa, apesar da continuidade das tensões no Oriente Médio e da possível ação dos houthis no conflito. O contrato mais líquido do petróleo Brent, refer",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/petroleo-16-7-26-apsa/",
+      "time": "2026-07-16T19:48:00Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/petroleo-ira-2.jpg"
+    },
+    {
+      "title": "Fundo indica valor de mercado de US$52 bi para DeepSeek",
+      "summary": "A empresa chinesa Anhui Korrun informou que um fundo no qual uma subsidiária investe aplicou 2,90 bilhões de iuans para adquirir uma participação indireta de 0,8265% na desenvolvedora de modelos de inteligência artificia",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/fundo-indica-valor-de-mercado-de-us52-bi-para-deepseek/",
+      "time": "2026-07-16T19:39:48Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/2026-07-07t140442z-1-lynxmpem660sz-rtroptp-4-deepseek-china-scaled.jpg"
     },
     {
       "title": "Uber fecha acordo de US$15 bi com Delivery Hero para criar gigante global de entrega de comida",
@@ -100,58 +175,44 @@
       "image": "https://www.moneytimes.com.br/uploads/2026/07/jonathan-kemper-zfgz31-t-bg-unsplash.jpg"
     },
     {
-      "title": "BTG vê Smart Fit (SMFT3) entre os destaques do varejo no 2T26 e projeta potencial de alta de 48%",
-      "summary": "O BTG Pactual avalia que o segundo trimestre de 2026 (2T26) ainda será difícil para o varejo brasileiro, refletindo um cenário macroeconômico com juros elevados e falta de alívio no orçamento do consumidor. Apesar disso,",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/btg-ve-smart-fit-smft3-entre-os-destaques-do-varejo-no-2t26-e-projeta-potencial-de-alta-de-48-lmrs/",
-      "time": "2026-07-16T19:36:45Z",
+      "title": "Fundos da Suno Asset anunciam novos dividendos com yield que supera 2%; SNME11 e SNFF11 elevam distribuição",
+      "summary": "A Suno Asset divulgou uma nova rodada de distribuição de rendimentos para os fundos sob sua gestão, com data-base em 15 de julho e pagamento em 24 de julho. Os proventos refletem os resultados de junho e abrangem fundos ",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/fundos-da-suno-asset-anunciam-novos-dividendos-com-yield-que-supera-2-snme11-e-snff11-elevam-distribuicao/",
+      "time": "2026-07-16T20:55:06Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/9_Close_de_tela_de_not_1_2026017_155817-1-1-jpg.webp"
+    },
+    {
+      "title": "Copel (CPLE3) ganha fôlego para dividendos, e analistas veem retorno de 41%",
+      "summary": "A Copel (CPLE3) atualizou sua política de dividendos e deu mais flexibilidade para manter pagamentos aos acionistas enquanto executa novos investimentos. Segundo relatório do BTG Pactual, a companhia definiu uma alavanca",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/copel-cple3-dividendos-politica-btg-mt/",
+      "time": "2026-07-16T20:45:05Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
+    },
+    {
+      "title": "Brasil e Índia ampliam aproximação e podem abrir novas oportunidades para Fiagros",
+      "summary": "A relação entre Brasil e Índia caminha para uma nova etapa de cooperação, com reflexos diretos sobre o agronegócio e os fiagros. Embora os dois países figurem entre as principais economias emergentes, especialistas avali",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/brasil-e-india-ampliam-aproximacao-e-podem-abrir-novas-oportunidades-para-fiagros/",
+      "time": "2026-07-16T20:25:08Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/smart-fit.jpg"
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/77_Mesa_corporativa_com_1_2026017_161539-3-jpg.webp"
     },
     {
-      "title": "BHP registra produção recorde de minério de ferro e preços mais altos no trimestre",
-      "summary": "A BHP reportou nesta quinta-feira uma produção recorde de minério de ferro e preços realizados mais elevados, apesar das restrições de compra impostas pelo China Mineral Resources Group (CMRG) em meio a tensas negociaçõe",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bhp-registra-producao-recorde-de-minerio-de-ferro-e-precos-mais-altos-no-trimestre/",
-      "time": "2026-07-16T19:22:53Z",
+      "title": "B3 (B3SA3): Regime Fácil já movimenta R$ 149 milhões; entenda",
+      "summary": "O Regime Fácil começou a sair do papel na B3 (B3SA3). Desde que entrou em vigor, em 16 de março, a iniciativa já registrou quatro emissões de títulos de dívida corporativa, que somaram R$ 149 milhões em captações. Na prá",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/b3-b3sa3-regime-facil-captacao-empresas-mt/",
+      "time": "2026-07-16T19:45:08Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2022/07/2022-07-08t111909z-1-lynxmpei670hp-rtroptp-4-bhp-group-au-divestiture-coal.jpg"
-    },
-    {
-      "title": "Bradesco (BBDC4), Itaú (ITUB4) ou Santander (SANB11): XP aponta apenas um ganhador no 2T26",
-      "summary": "Contagem regressiva para o começo de mais uma temporada de resultados dos bancões. No dia 29 de julho, o Santander Brasil (SANB11) dá o pontapé inicial, seguido pelo Itaú Unibanco (ITUB4), no dia 4, e pelo Bradesco (BBDC",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bradesco-bbdc-itau-itub4-ou-santander-sanb11-xp-aponta-um-ganhador-no-2t26-rnda/",
-      "time": "2026-07-16T19:20:32Z",
-      "cat": "acoes",
-      "tickers": [
-        "BBDC4",
-        "ITUB4",
-        "SANB11"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/bradesco-itau-santander.jpg"
-    },
-    {
-      "title": "Vieira diz que declarações de Rubio são ‘inaceitáveis’ e ‘ofensivas’ e que EUA exigiram ‘capitulação’ em negociações sobre tarifas",
-      "summary": "O ministro das Relações Exteriores, Mauro Vieira, classificou, nesta quinta-feira (16) como inaceitáveis e ofensivas as declarações do secretário de Estado dos Estados Unidos, Marco Rubio, em rede social nas quais disse ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/vieira-diz-que-declaracoes-de-rubio-sao-inaceitaveis-e-ofensivas-e-que-eua-exigiram-capitulacao-em-negociacoes-sobre-tarifas-gaep/",
-      "time": "2026-07-16T18:24:31Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/mauro-vieira-valter-campanato-agencia-brasil-e1784225694912.jpg"
-    },
-    {
-      "title": "Abaixo dos US$ 4.000: Ouro bate mínima durante sessão de olho no Oriente Médio e em juros",
-      "summary": "O ouro fechou em baixa nesta quinta-feira (16), voltando a cair abaixo de US$ 4 mil com um dólar mais forte diante das expectativas de juros elevados nos Estados Unidos com a continuidade das tensões no Oriente Médio. Na",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/abaixo-dos-us-4-000-ouro-bate-minima-durante-sessao-de-olho-no-oriente-medio-apsa/",
-      "time": "2026-07-16T18:19:57Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/04/aura-minerals-negociacao-de-ouro-barras-de-ouro-com-estoque-grafico-credito-da-imagem-e-crowistockphoto-id-da-foto-2219056031.png"
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/Centro-de-Operacoes-B3_04_B3_Divulgacao-scaled-1-jpg.webp"
     },
     {
       "title": "Como investir em SpaceX (SPCX34) pela B3? Veja passo a passo",
@@ -189,58 +250,144 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/close-de-gr-fico-fin-1_03-1.webp"
     },
     {
-      "title": "Dólar abre em alta após confirmação de novas tarifas dos EUA; entenda",
-      "summary": "O dólar abriu em alta nesta quinta-feira (16), em um dia marcado pela repercussão da decisão dos Estados Unidos de confirmar uma tarifa adicional de 25% sobre parte dos produtos brasileiros. Por volta das 10h, a moeda no",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/dolar-16062026-alta-tarifas-eua-brasil-25-go/",
-      "time": "2026-07-16T13:15:06Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/pexels-cottonbro-4761796-scaled-1-jpg.webp"
-    },
-    {
-      "title": "Seis FIIs distribuem dividendos nesta quinta; IRIM11 rende 1,79% no mês",
-      "summary": "Investidores de 6 fundos imobiliários recebem dividendos hoje na conta da corretora. Entre os destaques estão o RBRR11, que pagará nesta quinta-feira R$ 0,98 por cota, e o RBRY11, com remuneração de R$ 1,00 por cota aos ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/dividendos-hoje-fundos-imobiliarios-pagam/",
-      "time": "2026-07-16T11:55:07Z",
-      "cat": "fundos",
-      "tickers": [
-        "RBRR11"
-      ],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/mesa-com-documentos-1_01.webp"
-    },
-    {
-      "title": "RBRP11 vende imóvel com desconto e estima impacto negativo nos dividendos",
-      "summary": "O fundo Pátria Properties comunicou ao mercado a conclusão da venda do conjunto comercial nº 2401 do Edifício Castello Branco, localizado na Avenida República do Chile, no Centro do Rio de Janeiro. A escritura foi assina",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/rbrp11-vende-imovel-com-desconto-e-estima-impacto-negativo-nos-dividendos/",
-      "time": "2026-07-16T01:35:06Z",
-      "cat": "fundos",
-      "tickers": [
-        "RBRP11"
-      ],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/120_Close_de_relat_rio_f_1_2026017_172843-2-jpg.webp"
-    },
-    {
-      "title": "Edge adquire Akaer para avançar na fabricação de drones militares no Brasil",
-      "summary": "Empresas assinaram contrato nesta quarta-feira, que depende ainda de aprovação",
+      "title": "Novo tarifaço dos EUA afeta 18% das exportações brasileiras, diz governo Lula",
+      "summary": "Ministro afirma que medida dos EUA deve atingir US$ 7,4 bilhões em exportações brasileiras e relata impasses nas negociações com o governo Trump",
       "source": "Exame",
-      "url": "https://exame.com/economia/edge-adquire-akaer-para-avancar-na-fabricacao-de-drones-militares-no-brasil/",
-      "time": "2026-07-16T15:57:01Z",
-      "cat": "economia",
+      "url": "https://exame.com/economia/novo-tarifaco-dos-eua-afeta-18-das-exportacoes-brasileiras-diz-governo-lula/",
+      "time": "2026-07-16T17:52:20Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/edge-2.png"
+      "image": "https://classic.exame.com/wp-content/uploads/2024/02/MG_9104_site.jpg"
     },
     {
-      "title": "A nova arma do marketing digital: inteligência artificial para criar anúncios mais eficientes",
-      "summary": "Recursos de inteligência artificial permitem testar campanhas, entender o público e otimizar resultados com mais agilidade",
+      "title": "Netflix tem lucro de US$ 3,4 bi no trimestre, mas guidance decepciona Wall Street",
+      "summary": "No pós-mercado desta quinta-feira, as ações da companhia despencavam quase 8%",
       "source": "Exame",
-      "url": "https://exame.com/inteligencia-artificial/a-nova-arma-do-marketing-digital-inteligencia-artificial-para-criar-anuncios-mais-eficientes/",
-      "time": "2026-07-16T15:33:49Z",
+      "url": "https://exame.com/invest/mercados/netflix-tem-lucro-de-us-34-bi-no-trimestre-mas-guidance-decepciona-wall-street/",
+      "time": "2026-07-16T17:48:46Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2025/07/freepik__the-style-is-modern-and-it-is-a-detailed-illustrat__25158.png"
+    },
+    {
+      "title": "Ibovespa cai 1,24% com pressão de Vale, bancos e Petrobras; dólar sobe para R$ 5,09",
+      "summary": "A confirmação da tarifa adicional de 25% anunciada pelos Estados Unidos sobre diversos produtos brasileiros também pesou sobre a bolsa",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/ibovespa-cai-124-com-pressao-de-vale-bancos-e-petrobras-dolar-sobe-para-r-509/",
+      "time": "2026-07-16T17:36:22Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/04/IA-agentica-para-marketing-Taris-Tonsa.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2021/05/DSC2685bx.jpg"
+    },
+    {
+      "title": "‘Comece pequeno, mas comece’: jovem de 22 anos criou soluções para impactara estudantes no Brasil",
+      "summary": "Aos 22 anos, Clara Prado criou projetos que ampliaram o acesso, impactaram milhares de jovens e ganharam reconhecimento nacional",
+      "source": "Exame",
+      "url": "https://exame.com/carreira/comece-pequeno-mas-comece-jovem-de-22-anos-criou-solucoes-para-impactara-estudantes-no-brasil/",
+      "time": "2026-07-16T17:31:39Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2025/11/Ana-Clara-Prado-RochaDireitoUniversidade-Federal-de-Sergipe-.jpg"
+    },
+    {
+      "title": "B3 lança Ibovespa da renda fixa para acompanhar retornos de títulos do Tesouro",
+      "summary": "Novos indicadores se dividem em prazos de vencimento de dois, cinco e 10 anos; ETFs que refletirão os índices serão lançados nesta sexta-feira, 17",
+      "source": "Exame",
+      "url": "https://exame.com/invest/onde-investir/b3-lanca-ibovespa-da-renda-fixa-para-acompanhar-retornos-de-titulos-do-tesouro/",
+      "time": "2026-07-16T17:17:40Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/b3.png"
+    },
+    {
+      "title": "Wall Street fecha em baixa com fraqueza  do setor de chips ofuscando resultados sólidos  e dados econômicos",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/wall-street-fecha-em-baixa-com-fraqueza--do-setor-de-chips-ofuscando-resultados-solidos--edados-economicos-2004591",
+      "time": "2026-07-16T20:42:49Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Ações da Coca-Cola caem após ataque ransomware paralisar produção da fairlife",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-cocacola-caem-apos-ataque-ransomware-paralisar-producao-da-fairlife-2004588",
+      "time": "2026-07-16T20:38:26Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Ibovespa fecha em queda de mais de 1% pressionado por Vale e Itaú",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-fecha-em-queda-de-mais-de-1-pressionado-por-vale-e-itau-2004491",
+      "time": "2026-07-16T20:35:32Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB7N0OD_M.jpg"
+    },
+    {
+      "title": "IPO da SBI Funds Management recebe lances de US$ 31 bilhões",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/ipo-da-sbi-funds-management-recebe-lances-de-us-31-bilhoes-93CH-2004566",
+      "time": "2026-07-16T20:34:07Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "E.U.A. - Ações fecharam o pregão em queda e o Índice Dow Jones Industrial Average recuou 0,20%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/eua--acoes-fecharam-o-pregao-em-queda-e-o-indice-dow-jones-industrial-average-recuou-020-2004562",
+      "time": "2026-07-16T20:31:33Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Ações da REGENXBIO despencam com plano de oferta pública de US$ 100 mi",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-regenxbio-despencam-com-plano-de-oferta-publica-de-us-100-mi-93CH-2004561",
+      "time": "2026-07-16T20:31:03Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Canadá - Ações fecharam o pregão em queda e o Índice S&P/TSX recuou 0,21%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/canada--acoes-fecharam-o-pregao-em-queda-e-o-indice-sptsx-recuou-021-2004560",
+      "time": "2026-07-16T20:30:47Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Brasil - Ações fecharam o pregão em queda e o Índice Bovespa recuou 1,24%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/brasil--acoes-fecharam-o-pregao-em-queda-e-o-indice-bovespa-recuou-124-2004559",
+      "time": "2026-07-16T20:30:21Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB90228_M.jpg"
+    },
+    {
+      "title": "Taxas de DIs sobem em dia de alta dos rendimentos dos Treasuries e leilão robusto do Tesouro",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/economy-news/taxas-de-dis-sobem-em-dia-de-alta-dos-rendimentos-dos-treasuries-e-leilao-robusto-do-tesouro-2004476",
+      "time": "2026-07-16T19:49:09Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": null
     },
     {
       "title": "Ações da Comcast podem oscilar 5,2% com resultados em 23 de julho",
@@ -251,67 +398,7 @@
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Ações da Blackstone podem oscilar 4,2% com resultados em 23 de julho",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-blackstone-podem-oscilar-42-com-resultados-em-23-de-julho-93CH-2004460",
-      "time": "2026-07-16T18:59:45Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Ação da United Rentals pode oscilar 6,5% com resultado trimestral",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acao-da-united-rentals-pode-oscilar-65-com-resultado-trimestral-93CH-2004458",
-      "time": "2026-07-16T18:58:38Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Opções da Union Pacific sinalizam variação de 3,1% no dia do resultado",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/opcoes-da-union-pacific-sinalizam-variacao-de-31-no-dia-do-resultado-93CH-2004457",
-      "time": "2026-07-16T18:57:45Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Ações da Honeywell podem oscilar 2,9% com resultados em 23 de julho",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-honeywell-podem-oscilar-29-com-resultados-em-23-de-julho-93CH-2004456",
-      "time": "2026-07-16T18:56:28Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "As melhores ações de IA física para acompanhar, segundo a Oppenheimer",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/as-melhores-acoes-de-ia-fisica-para-acompanhar-segundo-a-oppenheimer-93CH-2004450",
-      "time": "2026-07-16T18:48:57Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Truist rebaixa Lululemon Athletica para venda e vê queda de quase 20%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/truist-rebaixa-lululemon-athletica-para-venda-e-ve-queda-de-quase-20-2004448",
-      "time": "2026-07-16T18:42:11Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "16/07/2026 19:41"
+  "atualizado_em": "16/07/2026 20:56"
 }
