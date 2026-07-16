@@ -4,83 +4,157 @@
     "summary": "Índices futuros dos EUA operam mistos",
     "source": "InfoMoney",
     "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-16072026/",
-    "time": "2026-07-16T10:59:14Z",
+    "time": "2026-07-16T12:06:32Z",
     "cat": "economia",
     "tickers": [],
     "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-19-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
   },
   "featured": [
     {
-      "title": "Mercado repercute novo tarifaço contra o Brasil; Ibovespa em dólar cai hoje (16)",
-      "summary": "O mercado acompanha nesta quarta-feira (16) os desdobramentos da decisão dos Estados Unidos de impor uma tarifa adicional de 25% sobre produtos brasileiros. Embora a medida represente uma nova barreira comercial para exp",
+      "title": "Bitcoin (BTC) sustenta US$ 64 mil após máxima mensal; veja desempenho das criptomoedas hoje (16)",
+      "summary": "O bitcoin (BTC) é negociado na casa dos US$ 64,1 mil na manhã desta quinta-feira (16), com queda de aproximadamente 0,7% nas últimas 24 horas, segundo dados da plataforma Coingecko. No acumulado dos últimos sete dias, a ",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/mercado-repercute-novo-tarifaco-contra-o-brasil-ibovespa-em-dolar-cai-hoje-16/",
-      "time": "2026-07-16T10:07:15Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/mercado-morning-ibovespa-wall-street-2.jpg"
+      "url": "https://www.moneytimes.com.br/bitcoin-btc-sustenta-us-64-mil-apos-maxima-mensal-veja-desempenho-das-criptomoedas-hoje-16-igdl/",
+      "time": "2026-07-16T12:06:54Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/image-34.png"
     },
     {
-      "title": "Bolsas da Ásia fecham majoritariamente em baixa, com tombo em Seul após BoK elevar juros",
-      "summary": "As bolsas asiáticas fecharam majoritariamente em baixa nesta quinta-feira (16), com a de Seul tombando mais de 6% após o Banco da Coreia (BoK) elevar juros pela primeira vez em três anos e meio. Liderando as perdas, o ín",
+      "title": "Ibovespa futuro cai aos 177 mil pontos com tarifaço dos EUA; dólar sobe a R$ 5,09",
+      "summary": "O Ibovespa futuro (WINQ26) recuou 0,37%, aos 177.130 pontos, após a abertura, às 9h (horário de Brasília), após a confirmação do novo tarifaço a produtos brasileiros pelo Escritório do Representante de Comércio dos Estad",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bolsas-da-asia-fecham-majoritariamente-em-baixa-com-tombo-em-seul-apos-bok-elevar-juros-fets/",
-      "time": "2026-07-16T09:04:00Z",
+      "url": "https://www.moneytimes.com.br/ibovespa-futuro-16-7-26-apsa/",
+      "time": "2026-07-16T12:17:39Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2023/06/bolsas-asiaticas-fecham.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2025/12/acoes-bolsa-grafico-1-1-1-1-1-1-1.jpg"
     }
   ],
   "all": [
+    {
+      "title": "Minério fica estável entre oferta elevada e risco de greve em Port Hedland",
+      "summary": "Minério de ferro fica estável enquanto traders pesam oferta contra risco de greve em Port Hedland",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/minerio-fica-estavel-entre-oferta-elevada-e-risco-de-greve-em-port-hedland/",
+      "time": "2026-07-16T12:24:29Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/03/406619472.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Dólar hoje sobe ligeiramente após EUA anunciarem tarifa sobre o Brasil",
+      "summary": "Moeda norte-americana tem sinais mistos ante as demais divisas.",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-16072026/",
+      "time": "2026-07-16T12:18:56Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-22T221253Z_1_LYNXNPEL8L0XW_RTROPTP_4_DOLAR-ABRE.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Ibovespa Futuro tem leve alta de olho em nova tarifa dos EUA sobre produtos do Brasil",
+      "summary": "Nova tarifa de 25% entra em vigor a partir de 22 de julho",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-futuro-tem-leve-alta-de-olho-em-nova-tarifa-dos-eua-sobre-produtos-do-brasil/",
+      "time": "2026-07-16T12:17:01Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/EspacoB3_01.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Vendas no varejo do Brasil avançam 0,1% em maio e frustram projeções do mercado",
+      "summary": "A expectativa em pesquisa da Reuters era de alta de 0,50% na comparação mensal e de avanço de 1,15% sobre um ano antes",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/economia/vendas-no-varejo-do-brasil-avancam-01-em-maio-e-frustram-projecoes-do-mercado/",
+      "time": "2026-07-16T12:16:08Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/varejo.jpg?fit=300%2C196&amp;quality=70&amp;strip=all"
+    },
     {
       "title": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta",
       "summary": "Índices futuros dos EUA operam mistos",
       "source": "InfoMoney",
       "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-16072026/",
-      "time": "2026-07-16T10:59:14Z",
+      "time": "2026-07-16T12:06:32Z",
       "cat": "economia",
       "tickers": [],
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-19-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Lula: “dia 15/7 passará para história das relações Brasil-EUA como marco lastimável”",
-      "summary": "Presidente Lula compartilhou via X nota do governo repudiando decisão dos EUA de impor tarifa de 25% a produtos brasileiros; Brasil diz que iniciará instrumentos de reciprocidade",
+      "title": "Qual o valor do IPCA? Entenda o cálculo do índice e seus efeitos sobre as finanças",
+      "summary": "Além de refletir a inflação, o índice influencia os ganhos na renda fixa e variável e o custo do crédito",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/lula-dia-15-7-passara-para-historia-das-relacoes-brasil-eua-como-marco-lastimavel/",
-      "time": "2026-07-16T10:44:59Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/lula-presidente-politica-pt-retrato-brasil02.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Minidólar (WDOQ26): análise técnica aponta regiões decisivas para o dólar futuro",
-      "summary": "Saiba o que esperar para o minidólar nesta quinta (16)",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdoq26-16072026/",
-      "time": "2026-07-16T10:06:00Z",
+      "url": "https://www.infomoney.com.br/minhas-financas/qual-o-valor-do-ipca/",
+      "time": "2026-07-16T12:00:00Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/WDOQ26-15-MINUTOS-16.07.2026.png?fit=300%2C137&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/IPCA.jpg?fit=300%2C188&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Day Trade hoje (16): Ibovespa perde fôlego; recuperação ainda continua?",
-      "summary": "Confira os pontos de suporte e resistência do mini-índice e minidólar",
+      "title": "“Tínhamos R$ 50 para pagar 1.500 funcionários”, diz CEO do Grupo Feital, sobre crise",
+      "summary": "Empresa familiar, que é a maior distribuidora de aço inoxidável, quase quebrou no Plano Collor e hoje lidera mercado na América Latina",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-16072026/",
-      "time": "2026-07-16T10:00:00Z",
+      "url": "https://www.infomoney.com.br/business/tinhamos-r-50-para-pagar-1-500-funcionarios-diz-ceo-do-grupo-feital-sobre-crise/",
+      "time": "2026-07-16T12:00:00Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/12/Daytrade-hoje.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/feital.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Light anuncia homologação de aumento de capital e pede fim da recuperação judicial",
-      "summary": "Empresa afirma ter cumprido as principais obrigações previstas no plano de recuperação",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/light-anuncia-homologacao-de-aumento-de-capital-e-pede-fim-da-recuperacao-judicial/",
-      "time": "2026-07-16T09:51:58Z",
+      "title": "Ibovespa futuro cai aos 177 mil pontos com tarifaço dos EUA; dólar sobe a R$ 5,09",
+      "summary": "O Ibovespa futuro (WINQ26) recuou 0,37%, aos 177.130 pontos, após a abertura, às 9h (horário de Brasília), após a confirmação do novo tarifaço a produtos brasileiros pelo Escritório do Representante de Comércio dos Estad",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ibovespa-futuro-16-7-26-apsa/",
+      "time": "2026-07-16T12:17:39Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/12/acoes-bolsa-grafico-1-1-1-1-1-1-1.jpg"
+    },
+    {
+      "title": "Bitcoin (BTC) sustenta US$ 64 mil após máxima mensal; veja desempenho das criptomoedas hoje (16)",
+      "summary": "O bitcoin (BTC) é negociado na casa dos US$ 64,1 mil na manhã desta quinta-feira (16), com queda de aproximadamente 0,7% nas últimas 24 horas, segundo dados da plataforma Coingecko. No acumulado dos últimos sete dias, a ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/bitcoin-btc-sustenta-us-64-mil-apos-maxima-mensal-veja-desempenho-das-criptomoedas-hoje-16-igdl/",
+      "time": "2026-07-16T12:06:54Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/image-34.png"
+    },
+    {
+      "title": "Oncoclínicas (ONCO3) recebe oferta não vinculante da IG4 para potencial transação de R$ 500 milhões",
+      "summary": "A Oncoclínicas (ONCO3) recebeu uma oferta não vinculante da IG4 Capital, gestora especializada em empresas com dificuldades, para uma potencial transação de R$ 500 milhões, envolvendo a subscrição de debêntures conversív",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/oncoclinicas-onco3-recebe-oferta-nao-vinculante-da-ig4-para-potencial-transacao-de-r-500-milhoes-lmrs/",
+      "time": "2026-07-16T11:59:31Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2023/05/systemuploadsnewse9fa09a35b726b82dea-700x460xfit-ae8b3.jpg?fit=300%2C197&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/oncoclinicas-1.jpg"
+    },
+    {
+      "title": "Tarifa de Trump ameaça US$ 11 bilhões em exportações brasileiras, diz Amcham",
+      "summary": "A Câmara Americana de Comércio para o Brasil (Amcham Brasil) classificou como um resultado muito negativo para a relação bilateral a decisão do governo dos Estados Unidos de impor uma tarifa adicional de 25% sobre cerca ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/tarifa-de-trump-ameaca-us-11-bilhoes-em-exportacoes-brasileiras-diz-amcham/",
+      "time": "2026-07-16T11:42:39Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/eua-trump-brasil-tarifas.jpg"
+    },
+    {
+      "title": "Governo chama tarifaço de ‘marco lastimável’, culpa Bolsonaro e prepara retaliação",
+      "summary": "O governo federal elevou o tom contra a decisão dos Estados Unidos de impor uma tarifa de 25% sobre produtos brasileiros e afirmou que responderá tanto no campo diplomático quanto jurídico. Em nota divulgada na quarta-fe",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/governo-chama-tarifaco-dos-eua-de-marco-lastimavel-prepara-retaliacao-e-culpa-bolsonaro-jcav/",
+      "time": "2026-07-16T11:24:32Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/05/55255464883-e5e65a46ed-k.jpg"
     },
     {
       "title": "Fundo imobiliário anuncia recompra de até 10% das cotas; IFIX avança",
@@ -95,36 +169,16 @@
       "image": "https://www.moneytimes.com.br/uploads/2026/06/imoveis-fiis-fundos-imobilarios-imagem-watchara-ritjanistock-id-da-foto1389305098.png"
     },
     {
-      "title": "Mercado repercute novo tarifaço contra o Brasil; Ibovespa em dólar cai hoje (16)",
-      "summary": "O mercado acompanha nesta quarta-feira (16) os desdobramentos da decisão dos Estados Unidos de impor uma tarifa adicional de 25% sobre produtos brasileiros. Embora a medida represente uma nova barreira comercial para exp",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/mercado-repercute-novo-tarifaco-contra-o-brasil-ibovespa-em-dolar-cai-hoje-16/",
-      "time": "2026-07-16T10:07:15Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/mercado-morning-ibovespa-wall-street-2.jpg"
-    },
-    {
-      "title": "3tentos (TTEN3) celebra 5 anos do IPO mesmo com águas agitadas, mas CEO faz alerta: ‘É necessária uma intervenção no agro’",
-      "summary": "Uma das histórias de sucesso que resistiram ao teste do tempo entre a onda de IPOs de 2021 é a da 3tentos (TTEN3). Cinco anos após estrear na B3, a companhia fundada pelos irmãos Dumoncel, em 1995, em Santa Bárbara do Su",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/3tentos-tten3-celebra-5-anos-do-ipo-mesmo-com-aguas-agitadas-mas-ceo-faz-alerta-e-necessaria-uma-intervencao-no-agro-pads/",
-      "time": "2026-07-16T10:00:00Z",
-      "cat": "acoes",
+      "title": "Seis FIIs distribuem dividendos nesta quinta; IRIM11 rende 1,79% no mês",
+      "summary": "Investidores de 6 fundos imobiliários recebem dividendos hoje na conta da corretora. Entre os destaques estão o RBRR11, que pagará nesta quinta-feira R$ 0,98 por cota, e o RBRY11, com remuneração de R$ 1,00 por cota aos ",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/dividendos-hoje-fundos-imobiliarios-pagam/",
+      "time": "2026-07-16T11:55:07Z",
+      "cat": "fundos",
       "tickers": [
-        "TTEN3"
+        "RBRR11"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/3tentos-tten3.jpg"
-    },
-    {
-      "title": "Bolsas da Ásia fecham majoritariamente em baixa, com tombo em Seul após BoK elevar juros",
-      "summary": "As bolsas asiáticas fecharam majoritariamente em baixa nesta quinta-feira (16), com a de Seul tombando mais de 6% após o Banco da Coreia (BoK) elevar juros pela primeira vez em três anos e meio. Liderando as perdas, o ín",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bolsas-da-asia-fecham-majoritariamente-em-baixa-com-tombo-em-seul-apos-bok-elevar-juros-fets/",
-      "time": "2026-07-16T09:04:00Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2023/06/bolsas-asiaticas-fecham.jpg"
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/mesa-com-documentos-1_01.webp"
     },
     {
       "title": "RBRP11 vende imóvel com desconto e estima impacto negativo nos dividendos",
@@ -219,95 +273,115 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/173_Close_de_relat_rio_f_1_2026017_163819-1-jpg.webp"
     },
     {
-      "title": "SNME11 pagará maior dividendo da sua história, com yield mensal de 2,34%",
-      "summary": "O fundo imobiliário SNME11 aprovou a distribuição de R$ 0,22 por cota em rendimentos relativos ao resultado de junho de 2026. O pagamento, o maior já anunciado pelo FII, ocorrerá em 24 de julho, para investidores com pos",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/snme11-pagara-maior-dividendo-da-sua-historia-com-yield-mensal-de-234/",
-      "time": "2026-07-15T22:25:09Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/analista-concentrado-1_09-1.webp"
-    },
-    {
-      "title": "Premiação de R$ 650 mil une saúde, empreendedorismo e agronegócio",
-      "summary": "Em sua oitava edição, Prêmio Duda Ermírio de Moraes – iniciativa A.C.Camargo Cancer Center, Insper e Esalq/USP – une três premiações co-realizadas",
+      "title": "Governo lança crédito para renegociação de dívidas rurais; como vai funcionar",
+      "summary": "Medida provisória cria linhas de crédito, amplia prazos de pagamento e atende produtores afetados por clima e oscilações de preços",
       "source": "Exame",
-      "url": "https://exame.com/bussola/premiacao-de-r-650-mil-une-saude-empreendedorismo-e-agronegocio/",
-      "time": "2026-07-16T07:00:51Z",
+      "url": "https://exame.com/agro/governo-lanca-credito-para-renegociacao-de-dividas-rurais-como-vai-funcionar/",
+      "time": "2026-07-16T09:03:32Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/premio-jose-eduardo-ermirio-de-moraes-empreendedorismo-insper-scaled-1.jpeg"
+      "image": "https://classic.exame.com/wp-content/uploads/2025/10/EX1280_EX1280_AGRO_2.jpg"
     },
     {
-      "title": "Por que as ações da UnitedHealth estão disparando hoje?",
+      "title": "TSMC bate recorde de lucro e aumenta investimentos em chips para IA",
+      "summary": "As ações da fabricante de chips, listada na bolsa de Bolsa de Taiwan, fecharam em alta de 1,23%",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/tsmc-bate-recorde-de-lucro-e-aumenta-investimentos-em-chips-para-ia/",
+      "time": "2026-07-16T08:59:33Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2023/06/GettyImages-1258472857.jpg"
+    },
+    {
+      "title": "Tarifa de Trump ameaça US$ 11 bi em exportações do Brasil",
+      "summary": "Câmara Americana diz que medida dos EUA prejudica indústria e agronegócio, encarece produtos e defende retomada das negociações entre os dois países",
+      "source": "Exame",
+      "url": "https://exame.com/brasil/tarifa-de-trump-ameaca-us-11-bi-em-exportacoes-do-brasil/",
+      "time": "2026-07-16T08:50:09Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2025/11/EX1281_VISAOGLOBAL_2.jpg"
+    },
+    {
+      "title": "BTIG rebaixa Etsy para neutro após forte rali das ações",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-unitedhealth-estao-disparando-hoje-93CH-2003597",
-      "time": "2026-07-16T10:40:12Z",
+      "url": "https://br.investing.com/news/stock-market-news/btig-rebaixa-etsy-para-neutro-apos-forte-rali-das-acoes-2003772",
+      "time": "2026-07-16T12:02:03Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Por que as ações da Cintas estão subindo hoje?",
+      "title": "Por que a ação da Tele2 está caindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-cintas-estao-subindo-hoje-93CH-2003588",
-      "time": "2026-07-16T10:37:39Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-a-acao-da-tele2-esta-caindo-hoje-93CH-2003741",
+      "time": "2026-07-16T11:57:54Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Índia - Ações fecharam o pregão inalteradas e o Índice Nifty 50 recuou 0,02%",
+      "title": "Por que as ações da Abbott Laboratories estão disparando hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/india--acoes-fecharam-o-pregao-inalteradas-e-o-indice-nifty-50-recuou-002-2003581",
-      "time": "2026-07-16T10:30:36Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Ações de seguros disparam com revisão de guidance da UnitedHealth",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-de-seguros-disparam-com-revisao-de-guidance-da-unitedhealth-93CH-2003567",
-      "time": "2026-07-16T10:22:38Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-abbott-laboratories-estao-disparando-hoje-93CH-2003737",
+      "time": "2026-07-16T11:54:57Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Digi Spain estreia na bolsa espanhola 7% acima do preço do IPO",
+      "title": "Por que as ações da Sodexo estão subindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/digi-spain-estreia-na-bolsa-espanhola-7-acima-do-preco-do-ipo-93CH-2003561",
-      "time": "2026-07-16T10:16:32Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-sodexo-estao-subindo-hoje-93CH-2003734",
+      "time": "2026-07-16T11:53:03Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Por que as ações da Teleperformance estão caindo hoje?",
+      "title": "Por que as ações da GE Aerospace estão caindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-teleperformance-estao-caindo-hoje-93CH-2003556",
-      "time": "2026-07-16T10:15:37Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-ge-aerospace-estao-caindo-hoje-93CH-2003729",
+      "time": "2026-07-16T11:47:24Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Por que as ações da All For One estão disparando hoje?",
+      "title": "Ações da AeroVironment sobem após upgrade do Raymond James",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-all-for-one-estao-disparando-hoje-93CH-2003545",
-      "time": "2026-07-16T10:12:09Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-aerovironment-sobem-apos-upgrade-do-raymond-james-93CH-2003723",
+      "time": "2026-07-16T11:44:27Z",
+      "cat": "analise",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Futuros da TSX recuam com riscos geopolíticos ofuscando o Banco do Canadá",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/futuros-da-tsx-recuam-com-riscos-geopoliticos-ofuscando-o-banco-do-canada-2003719",
+      "time": "2026-07-16T11:42:12Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Por que as ações do U.S. Bancorp estão caindo hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-do-us-bancorp-estao-caindo-hoje-93CH-2003705",
+      "time": "2026-07-16T11:41:44Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "16/07/2026 10:59"
+  "atualizado_em": "16/07/2026 12:26"
 }
