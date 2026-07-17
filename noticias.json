@@ -13,27 +13,82 @@
   },
   "featured": [
     {
-      "title": "Ibovespa fecha quase estável com Petrobras atenuando pressão de bancos",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-fecha-quase-estavel-com-petrobras-atenuando-pressao-de-bancos-2005647",
-      "time": "2026-07-17T20:07:06Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Dólar hoje sobe a R$ 5,11, com ataques entre EUA e Irã; na semana, moeda fica estável",
-      "summary": "O dólar à vista encerrou a sessão de quinta-feira com alta de 0,40%, aos R$5,0984",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-17072026/",
-      "time": "2026-07-17T20:25:56Z",
+      "title": "Petrobras segura Ibovespa na estabilidade, mas índice cai 2,33% na semana; dólar sobe",
+      "summary": "As bolsas de Nova York encerraram o pregão desta sexta em forte queda, pressionadas principalmente pelas ações de techs",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/petrobras-segura-ibovespa-na-estabilidade-mas-indice-cai-233-na-semana-dolar-sobe/",
+      "time": "2026-07-17T17:42:05Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-22T221253Z_1_LYNXNPEL8L0XW_RTROPTP_4_DOLAR-ABRE.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://classic.exame.com/wp-content/uploads/2020/11/DSC2687bx.jpg"
+    },
+    {
+      "title": "Ibovespa fecha estável com apoio de Petrobras (PETR4), mas encerra semana em queda",
+      "summary": "O Ibovespa conseguiu driblar a aversão global ao risco nesta sexta-feira (17) e encerrou o pregão praticamente estável, sustentado pela forte alta das ações da Petrobras (PETR3; PETR4). O principal índice da B3 fechou co",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-17-julho-2026-petr4-fechamento-mt/",
+      "time": "2026-07-17T21:15:07Z",
+      "cat": "acoes",
+      "tickers": [
+        "PETR4",
+        "PETR3"
+      ],
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/7a2811c9-down-800x450-1-jpg.webp"
     }
   ],
   "all": [
+    {
+      "title": "Ibovespa hoje fecha em queda com tarifaço dos EUA; dólar sobe e fica em R$ 5,09",
+      "summary": "Bolsas dos EUA recuam com sell-off de ações de fabricantes de chips",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-17072026/",
+      "time": "2026-07-17T21:20:23Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Ibovespa-ao-vivo-bolsa-de-valores-8.png?fit=300%2C186&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Petrobras (PETR4): ações têm nova alta com avanço do petróleo por conflito EUA-Irã",
+      "summary": "Os preços do petróleo subiram forte depois que os EUA e o Irã intensificaram os ataques em todo o Golfo Pérsico",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/petrobras-petr4-acoes-tem-nova-alta-com-avanco-do-petroleo-por-conflito-eua-ira/",
+      "time": "2026-07-17T20:51:44Z",
+      "cat": "internacional",
+      "tickers": [
+        "PETR4"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/petrobras-agencia-brasil.webp?fit=300%2C180&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Ações da Netflix tombam após resultado e com cenário de desaceleração do crescimento",
+      "summary": "Empresa projetou uma receita de US$ 12,9 bilhões para o trimestre atual e um lucro de 82 centavos por ação, ambos valores um pouco abaixo das expectativas dos analistas",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/acoes-da-netflix-tombam-apos-resultado-com-cenario-de-desaceleracao-do-crescimento/",
+      "time": "2026-07-17T20:50:05Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/446692241.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Ibovespa fecha quase estável com Petrobras atenuando pressão de bancos",
+      "summary": "O volume financeiro no pregão somou R$ 23,86 bilhões, em sessão ainda marcada pelo vencimento de opções sobre ações na bolsa paulista",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-fecha-quase-estavel-com-petrobras-atenuando-pressao-de-bancos/",
+      "time": "2026-07-17T20:48:43Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/06/Bolsa-pregao-def.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Bolsas de NY fecham em forte queda com tombo de techs e balanços no radar",
+      "summary": "O Nasdaq recuou 1,40%, encerrando nos 25.520,24 pontos, e acumulando perdas de 2,9% na semana",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-em-forte-queda-com-tombo-de-techs-e-balancos-no-radar/",
+      "time": "2026-07-17T20:39:35Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/438121626.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
     {
       "title": "Taxas dos DIs fecham com altas firmes em dia de aversão a risco",
       "summary": "Os juros futuros fecharam em alta firme de até 20 pontos-base, impulsionados pelo avanço do dólar e pelo conflito entre EUA e Irã, que ofuscaram o resultado acima do esperado do IBC-Br",
@@ -55,44 +110,26 @@
       "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-22T221253Z_1_LYNXNPEL8L0XW_RTROPTP_4_DOLAR-ABRE.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Patria registra locações 31% acima da média e vê nova fase para FIIs de escritórios",
-      "summary": "O Patria Investimentos verifica uma aceleração das locações em lajes corporativas, com redução gradual da vacância",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/onde-investir/patria-registra-locacoes-31-acima-da-media-e-ve-nova-fase-para-fiis-de-escritorios/",
-      "time": "2026-07-17T20:08:30Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/06/avenidajuscelinosp.jpg?fit=300%2C225&amp;quality=70&amp;strip=all"
+      "title": "Raízen (RAIZ4): B3 estende prazo para companhia reenquadrar ações abaixo de R$ 1",
+      "summary": "A Raízen (RAIZ4) informou nesta sexta-feira (17) que recebeu da B3 uma prorrogação do prazo para apresentar um plano de reenquadramento da cotação de suas ações preferenciais, que seguem negociadas abaixo de R$ 1. Segund",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/raizen-raiz4-b3-estende-prazo-para-companhia-reenquadrar-acoes-abaixo-de-r-1-pads/",
+      "time": "2026-07-17T21:17:36Z",
+      "cat": "acoes",
+      "tickers": [
+        "RAIZ4"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/12/raizen-raiz4.jpg"
     },
     {
-      "title": "Petróleo fecha em alta de mais de 4% com nova escalada de tensões no Oriente Médio",
-      "summary": "O preço do barril subiu forte após Teerã bombardear uma usina kuwaitiana e ameaçar paralisar as exportações de energia na região, enquanto os EUA preparam expansão militar",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-17072026/",
-      "time": "2026-07-17T19:46:26Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-11T111734Z_1_LYNXMPEM2A0PZ_RTROPTP_4_IRAN-CRISIS-OIL.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Por que a inflação de alimentos não vai salvar o atacarejo? Veja o que diz o JPMorgan",
-      "summary": "Enquanto a alta nos preços dos alimentos deveria impulsionar as vendas e o ticket médio, o avanço de uma nova dinâmica rebaixa o consumo e trava a recuperação de gigantes como Assaí e Grupo Mateus",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/por-que-a-inflacao-de-alimentos-nao-vai-salvar-o-atacarejo-veja-o-que-diz-o-jpmorgan/",
-      "time": "2026-07-17T19:22:39Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Inflacao-Alimentos.jpg?fit=300%2C196&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Infantino já tem apoio de mais de 200 federações para reeleição na Fifa, diz jornal",
-      "summary": "Segundo o The Guardian, presidente da entidade chega amplamente fortalecido para a disputa, mesmo em meio a críticas recentes à sua gestão após o caso Balogun",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/infantino-ja-tem-apoio-de-mais-de-200-federacoes-para-reeleicao-na-fifa-diz-jornal/",
-      "time": "2026-07-17T19:19:52Z",
+      "title": "Próximo de sair da bolsa, Helbor (HBOR3) tem queda nas vendas no 2T26 com ausência de lançamentos",
+      "summary": "A Helbor (HBOR3) divulgou sua prévia operacional do segundo trimestre de 2026, marcada pela ausência de lançamentos no período e pela desaceleração das vendas. A incorporadora vendeu R$ 338,5 milhões em Valor Geral de Ve",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/proximo-de-sair-da-bolsa-helbor-hbor3-tem-queda-nas-vendas-no-2o-trimestre-com-ausencia-de-lancamentos-rnda/",
+      "time": "2026-07-17T20:49:05Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/2026-02-24T210138Z_858889990_RC219JAEG1XV_RTRMADP_3_SOCCER-WORLDCUP-BROKER.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2021/07/helbor-1.jpg"
     },
     {
       "title": "Wall Street pressiona, Ibovespa ‘resiste’ com Petrobras (PETR4) e fecha em leve baixa; dólar sobe a R$ 5,11",
@@ -160,34 +197,27 @@
       "image": "https://www.moneytimes.com.br/uploads/2026/04/2026-04-09t231834z-1-lynxmpem381ft-rtroptp-4-brazil-banco-master-scaled-e1776172545482.jpg"
     },
     {
-      "title": "Fim da euforia? Gestores reposicionam carteiras diante da desaceleração dos gastos com IA",
-      "summary": "A disparada das fabricantes de chips de IA enfrentou turbulências em meio a preocupações com as avaliações e a sustentabilidade de suas receitas robustas, levando alguns investidores a se posicionarem discretamente para ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/fim-da-euforia-gestores-reposicionam-carteiras-diante-da-desaceleracao-dos-gastos-com-ia-igdl/",
-      "time": "2026-07-17T19:06:13Z",
-      "cat": "analise",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/inteligencia-artificial-ia.png"
+      "title": "Ibovespa fecha estável com apoio de Petrobras (PETR4), mas encerra semana em queda",
+      "summary": "O Ibovespa conseguiu driblar a aversão global ao risco nesta sexta-feira (17) e encerrou o pregão praticamente estável, sustentado pela forte alta das ações da Petrobras (PETR3; PETR4). O principal índice da B3 fechou co",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-17-julho-2026-petr4-fechamento-mt/",
+      "time": "2026-07-17T21:15:07Z",
+      "cat": "acoes",
+      "tickers": [
+        "PETR4",
+        "PETR3"
+      ],
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/7a2811c9-down-800x450-1-jpg.webp"
     },
     {
-      "title": "Itaú BBA encerra cobertura de CVC (CVCB3)",
-      "summary": "O Itaú BBA encerrou a cobertura das ações da CVC (CVCB3). A partir desta sexta-feira (17), o banco deixará de fazer recomendação, estimativas, preço-alvo e atualizações regulares de research sobre a companhia. A decisão ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/itau-bba-encerra-cobertura-de-cvc-cvcb3-acoes-caem-lils/",
-      "time": "2026-07-17T18:43:27Z",
+      "title": "Como investir em Nvidia (NVDC34) pela B3? Veja passo a passo",
+      "summary": "Como investir em Nvidia (NVDC34) pela B3? Veja passo a passoA Nvidia deixou de ser apenas o nome por trás das placas de vídeo e virou uma das empresas mais acompanhadas do mundo com o avanço da inteligência artificial. P",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/como-investir-nvidia-nvdc34-b3-bdr-mt/",
+      "time": "2026-07-17T20:40:00Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/cvc-cvcb3-turismo-viagens.jpg"
-    },
-    {
-      "title": "Lula diz que só falará de tarifaço após manifestação de Trump e que ninguém vencerá o Brasil mentindo",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) disse nesta sexta-feira (17) que só falará da tarifa de 25% imposta pelos Estados Unidos a várias importações brasileiras após uma manifestação do presidente norte-americano, D",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/lula-diz-que-so-falara-de-tarifaco-apos-manifestacao-de-trump-e-que-ninguem-vencera-o-brasil-mentindo-gaep/",
-      "time": "2026-07-17T18:29:12Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/06/789d2314-8364-41d9-9d7a-3f8b7322d017-e1784312928297.jpg"
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/05/nvidia.webp"
     },
     {
       "title": "Fed: inflação alta demais ainda pede cautela, diz dirigente",
@@ -254,24 +284,24 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/detalhe-de-relat-rio-1_02.webp"
     },
     {
-      "title": "IBC-Br sobe 0,1% em maio e supera expectativas do mercado; veja detalhes",
-      "summary": "O IBC-Br, indicador do Banco Central (BC) considerado uma prévia do Produto Interno Bruto (PIB), subiu 0,1% em maio na comparação com abril, na série com ajuste sazonal. Os dados foram divulgados nesta sexta-feira (17). ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/ibc-br-maio-2026-alta-supera-expectativas-mercado-go/",
-      "time": "2026-07-17T13:45:04Z",
-      "cat": "acoes",
+      "title": "CVM inicia grupo de trabalho para ‘futura regulação da tokenização’",
+      "summary": "O GT reunirá representantes de 14 componentes organizacionais da CVM e também poderá trazer representantes de entidades governamentais, autorreguladores, associações do mercado e especialistas",
+      "source": "Exame",
+      "url": "https://exame.com/future-of-money/cvm-inicia-grupo-de-trabalho-para-futura-regulacao-da-tokenizacao/",
+      "time": "2026-07-17T18:07:55Z",
+      "cat": "economia",
       "tickers": [],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/HSML11-png.webp"
+      "image": "https://classic.exame.com/wp-content/uploads/2023/01/GettyImages-1231053747.jpg"
     },
     {
-      "title": "Desconto de 28%, carteira e dividendos: o raio-x completo do VGHF11",
-      "summary": "Negociado a cerca de R$ 6 por cota e cotado abaixo do valor patrimonial, o fundo imobiliário VGHF11 é um multiestratégia sob gestão da Valora. O FII soma aproximadamente R$ 1,4 bilhão em patrimônio e reúne mais de 378 mi",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/fundo-imobiliario-vghf11-raiox-carteira-dividendos-pvp/",
-      "time": "2026-07-17T12:25:07Z",
-      "cat": "fundos",
+      "title": "Petrobras segura Ibovespa na estabilidade, mas índice cai 2,33% na semana; dólar sobe",
+      "summary": "As bolsas de Nova York encerraram o pregão desta sexta em forte queda, pressionadas principalmente pelas ações de techs",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/petrobras-segura-ibovespa-na-estabilidade-mas-indice-cai-233-na-semana-dolar-sobe/",
+      "time": "2026-07-17T17:42:05Z",
+      "cat": "economia",
       "tickers": [],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/close-de-smartphone-1_02-1.webp"
+      "image": "https://classic.exame.com/wp-content/uploads/2020/11/DSC2687bx.jpg"
     },
     {
       "title": "Reserva é a primeira marca masculina do Brasil a criar uma linha de paternidade",
@@ -284,34 +314,54 @@
       "image": "https://classic.exame.com/wp-content/uploads/2029/07/MATERIA-1.png"
     },
     {
-      "title": "Novo tarifaço atinge US$ 7,2 bilhões de exportações aos EUA, diz ApexBrasil",
-      "summary": "Produtos mais afetados são fabricados em estados como São Paulo e Santa Catarina",
-      "source": "Exame",
-      "url": "https://exame.com/mundo/novo-tarifaco-atinge-us-72-bilhoes-de-exportacoes-aos-eua-diz-apexbrasil/",
-      "time": "2026-07-17T16:00:17Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/10/cana-de-acucar-energia.jpg"
-    },
-    {
       "title": "Wall Street encerra dia e semana em baixa, conforme onda de vendas no setor de semicondutores se amplia",
       "summary": "",
       "source": "Investing.com",
       "url": "https://br.investing.com/news/stock-market-news/wall-street-encerra-dia-e-semana-em-baixa-conforme-onda-de-vendas-no-setor-de-semicondutores-se-amplia-2005662",
-      "time": "2026-07-17T20:21:46Z",
+      "time": "2026-07-17T21:00:29Z",
       "cat": "internacional",
       "tickers": [],
       "image": null
     },
     {
-      "title": "Ibovespa fecha quase estável com Petrobras atenuando pressão de bancos",
+      "title": "Stifel aponta as melhores ações de tecnologia em supply chain, lideradas pela Celestica",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-fecha-quase-estavel-com-petrobras-atenuando-pressao-de-bancos-2005647",
-      "time": "2026-07-17T20:07:06Z",
+      "url": "https://br.investing.com/news/stock-market-news/stifel-aponta-as-melhores-acoes-de-tecnologia-em-supply-chain-lideradas-pela-celestica-93CH-2005687",
+      "time": "2026-07-17T20:40:59Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "E.U.A. - Ações fecharam o pregão em queda e o Índice Dow Jones Industrial Average recuou 0,77%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/eua--acoes-fecharam-o-pregao-em-queda-e-o-indice-dow-jones-industrial-average-recuou-077-2005676",
+      "time": "2026-07-17T20:31:33Z",
       "cat": "internacional",
       "tickers": [],
       "image": null
+    },
+    {
+      "title": "Canadá - Ações fecharam o pregão em queda e o Índice S&P/TSX recuou 0,22%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/canada--acoes-fecharam-o-pregao-em-queda-e-o-indice-sptsx-recuou-022-2005675",
+      "time": "2026-07-17T20:30:47Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB230DM_M.jpg"
+    },
+    {
+      "title": "Brasil - Ações fecharam o pregão em queda e o Índice Bovespa recuou 0,06%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/brasil--acoes-fecharam-o-pregao-em-queda-e-o-indice-bovespa-recuou-006-2005674",
+      "time": "2026-07-17T20:30:21Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC37167_M.jpg"
     },
     {
       "title": "SpaceX planeja outra tentativa de lançamento da Starship na próxima semana, enquanto ações caem",
@@ -342,27 +392,7 @@
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/facebook_2_M_1440049069.jpg"
-    },
-    {
-      "title": "Investidores se preparam para desaceleração dos gastos de IA das hyperscalers",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/investidores-se-preparam-para-desaceleracao-dos-gastos-de-ia-das-hyperscalers-2005605",
-      "time": "2026-07-17T18:56:26Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB5S0BB_M.jpg"
-    },
-    {
-      "title": "Ações da Green Plains sobem 10% após UBS elevar preço-alvo",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-green-plains-sobem-10-apos-ubs-elevar-precoalvo-93CH-2005604",
-      "time": "2026-07-17T18:53:08Z",
-      "cat": "analise",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "17/07/2026 20:27"
+  "atualizado_em": "17/07/2026 21:22"
 }
