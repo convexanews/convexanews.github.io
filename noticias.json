@@ -1,78 +1,173 @@
 {
   "headline": {
-    "title": "Por que o bitcoin (BTC) pode estar em uma das melhores janelas de compra da história, segundo o BTG",
-    "summary": "A forte queda do bitcoin (BTC) ao longo de 2026, de mais de 25%, pode representar uma oportunidade para investidores de longo prazo, segundo relatório divulgado pelo BTG Pactual. Na avaliação do banco, a desvalorização s",
+    "title": "Wall Street pressiona, Ibovespa ‘resiste’ com Petrobras (PETR4) e fecha em leve baixa; dólar sobe a R$ 5,11",
+    "summary": "Em dia de risk-off no mercado internacional, o Ibovespa (IBOV) cedeu à pressão externa e encerrou o último pregão da semana em tom negativo com vencimento de opções e realização das blue chips. As perdas foram limitadas ",
     "source": "Money Times",
-    "url": "https://www.moneytimes.com.br/por-que-o-bitcoin-btc-pode-estar-em-uma-das-melhores-janelas-de-compra-da-historia-segundo-o-btg-igdl/",
-    "time": "2026-07-17T18:25:04Z",
-    "cat": "cripto",
+    "url": "https://www.moneytimes.com.br/ibovespa-17-7-26-lils/",
+    "time": "2026-07-17T20:23:57Z",
+    "cat": "economia",
     "tickers": [
-      "BTC"
+      "PETR4"
     ],
-    "image": "https://www.moneytimes.com.br/uploads/2026/07/bitcoin-btc-em-disparada-de-precos-imagem-chatgpt-1.png"
+    "image": "https://www.moneytimes.com.br/uploads/2026/07/queda-ibovespa.jpg"
   },
   "featured": [
     {
-      "title": "Itaú BBA encerra cobertura de CVC (CVCB3)",
-      "summary": "O Itaú BBA encerrou a cobertura das ações da CVC (CVCB3). A partir desta sexta-feira (17), o banco deixará de fazer recomendação, estimativas, preço-alvo e atualizações regulares de research sobre a companhia. A decisão ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/itau-bba-encerra-cobertura-de-cvc-cvcb3-acoes-caem-lils/",
-      "time": "2026-07-17T18:43:27Z",
-      "cat": "acoes",
+      "title": "Ibovespa fecha quase estável com Petrobras atenuando pressão de bancos",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-fecha-quase-estavel-com-petrobras-atenuando-pressao-de-bancos-2005647",
+      "time": "2026-07-17T20:07:06Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/cvc-cvcb3-turismo-viagens.jpg"
+      "image": null
     },
     {
-      "title": "Fed: inflação alta demais ainda pede cautela, diz dirigente",
-      "summary": "Fed: inflação alta demais ainda pede cautela, diz dirigenteA inflação segue sendo a pedra no sapato do Fed, mesmo com a economia americana mostrando sinais de crescimento e consumo estável. A presidente do Federal Reserv",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/fed-inflacao-alta-beth-hammack-juros-eua-mt/",
-      "time": "2026-07-17T18:30:00Z",
+      "title": "Dólar hoje sobe a R$ 5,11, com ataques entre EUA e Irã; na semana, moeda fica estável",
+      "summary": "O dólar à vista encerrou a sessão de quinta-feira com alta de 0,40%, aos R$5,0984",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-17072026/",
+      "time": "2026-07-17T20:25:56Z",
       "cat": "economia",
       "tickers": [],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/06/pexels-pixabay-259191-png.webp"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-22T221253Z_1_LYNXNPEL8L0XW_RTROPTP_4_DOLAR-ABRE.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     }
   ],
   "all": [
     {
-      "title": "Ouro fecha em alta com demanda por segurança e expectativa de Fed mais restritivo",
-      "summary": "O preço da commodity avançou puxado pela busca por segurança e queda nos juros dos Treasuries, embora tenha encerrado a semana com perdas acumuladas de 2,30%",
+      "title": "Taxas dos DIs fecham com altas firmes em dia de aversão a risco",
+      "summary": "Os juros futuros fecharam em alta firme de até 20 pontos-base, impulsionados pelo avanço do dólar e pelo conflito entre EUA e Irã, que ofuscaram o resultado acima do esperado do IBC-Br",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ouro-fecha-em-alta-com-demanda-por-seguranca-e-expectativa-de-fed-mais-restritivo/",
-      "time": "2026-07-17T18:25:13Z",
+      "url": "https://www.infomoney.com.br/mercados/taxas-dos-dis-fecham-com-altas-firmes-em-dia-de-aversao-a-risco/",
+      "time": "2026-07-17T20:26:44Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/daniel-dan-ZbMuzk8iJAI-unsplash.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Dólar hoje sobe a R$ 5,11, com ataques entre EUA e Irã; na semana, moeda fica estável",
+      "summary": "O dólar à vista encerrou a sessão de quinta-feira com alta de 0,40%, aos R$5,0984",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-17072026/",
+      "time": "2026-07-17T20:25:56Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-22T221253Z_1_LYNXNPEL8L0XW_RTROPTP_4_DOLAR-ABRE.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Patria registra locações 31% acima da média e vê nova fase para FIIs de escritórios",
+      "summary": "O Patria Investimentos verifica uma aceleração das locações em lajes corporativas, com redução gradual da vacância",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/onde-investir/patria-registra-locacoes-31-acima-da-media-e-ve-nova-fase-para-fiis-de-escritorios/",
+      "time": "2026-07-17T20:08:30Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/06/avenidajuscelinosp.jpg?fit=300%2C225&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Petróleo fecha em alta de mais de 4% com nova escalada de tensões no Oriente Médio",
+      "summary": "O preço do barril subiu forte após Teerã bombardear uma usina kuwaitiana e ameaçar paralisar as exportações de energia na região, enquanto os EUA preparam expansão militar",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-17072026/",
+      "time": "2026-07-17T19:46:26Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/zlataky-cz-fqUBQejVYDM-unsplash.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-11T111734Z_1_LYNXMPEM2A0PZ_RTROPTP_4_IRAN-CRISIS-OIL.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Potência climática, Brasil ainda captura pouco do investimento global",
-      "summary": "Apesar das vantagens em biodiversidade, agricultura e energia, o País ainda recebe uma parcela reduzida dos recursos destinados a tecnologias climáticas",
+      "title": "Por que a inflação de alimentos não vai salvar o atacarejo? Veja o que diz o JPMorgan",
+      "summary": "Enquanto a alta nos preços dos alimentos deveria impulsionar as vendas e o ticket médio, o avanço de uma nova dinâmica rebaixa o consumo e trava a recuperação de gigantes como Assaí e Grupo Mateus",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/business/brasil-tem-tudo-para-liderar-economia-climatica/",
-      "time": "2026-07-17T18:15:23Z",
-      "cat": "acoes",
+      "url": "https://www.infomoney.com.br/mercados/por-que-a-inflacao-de-alimentos-nao-vai-salvar-o-atacarejo-veja-o-que-diz-o-jpmorgan/",
+      "time": "2026-07-17T19:22:39Z",
+      "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/muda-de-dinheiro-economia-verde.jpg?fit=300%2C199&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Inflacao-Alimentos.jpg?fit=300%2C196&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "BB pode ter alívio com programa de renegociação agro, mas cautela segue",
-      "summary": "O governo federal publicou na noite de quarta-feira a Medida Provisória 1.376, criando um amplo programa de reestruturação de dívidas do setor rural, com taxas de juros de até 12% e prazos que podem chegar a 10 anos, inc",
+      "title": "Infantino já tem apoio de mais de 200 federações para reeleição na Fifa, diz jornal",
+      "summary": "Segundo o The Guardian, presidente da entidade chega amplamente fortalecido para a disputa, mesmo em meio a críticas recentes à sua gestão após o caso Balogun",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/bb-pode-ter-alivio-com-programa-de-renegociacao-agro-mas-cautela-segue/",
-      "time": "2026-07-17T18:01:36Z",
+      "url": "https://www.infomoney.com.br/politica/infantino-ja-tem-apoio-de-mais-de-200-federacoes-para-reeleicao-na-fifa-diz-jornal/",
+      "time": "2026-07-17T19:19:52Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/Captura-de-tela-2025-09-04-120225-e1778772425676.png?fit=300%2C175&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/2026-02-24T210138Z_858889990_RC219JAEG1XV_RTRMADP_3_SOCCER-WORLDCUP-BROKER.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Mais 12,5% e temor com reciprocidade: tarifaço ainda não foi precificado pelo mercado",
-      "summary": "Para analistas, uma resposta do governo brasileiro abre caminho para uma escalada, uma contra-resposta, fazenco com que uma disputa pontual se torne uma guerra comercial de verdade",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/mais-125-e-temor-com-reciprocidade-tarifaco-ainda-nao-foi-precificado-no-mercado/",
-      "time": "2026-07-17T18:00:00Z",
+      "title": "Wall Street pressiona, Ibovespa ‘resiste’ com Petrobras (PETR4) e fecha em leve baixa; dólar sobe a R$ 5,11",
+      "summary": "Em dia de risk-off no mercado internacional, o Ibovespa (IBOV) cedeu à pressão externa e encerrou o último pregão da semana em tom negativo com vencimento de opções e realização das blue chips. As perdas foram limitadas ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ibovespa-17-7-26-lils/",
+      "time": "2026-07-17T20:23:57Z",
+      "cat": "economia",
+      "tickers": [
+        "PETR4"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/queda-ibovespa.jpg"
+    },
+    {
+      "title": "Wall Street tomba 1% na semana com tecnologia e alta do petróleo; Nasdaq lidera perdas",
+      "summary": "Os índices de Wall Street fecharam em baixa nesta sexta-feira (17) após o setor de tecnologia estender as perdas da véspera, além do avanço dos preços do petróleo no mercado internacional. Confira o fechamento dos índice",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/wall-street-17-7-26-apsa/",
+      "time": "2026-07-17T20:08:23Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/2026-07-17t151109z-1-lynxmpem6g0y2-rtroptp-4-usa-banks-prime-brokerage-scaled.jpg"
+    },
+    {
+      "title": "Dólar sobe a R$ 5,11 com ‘risk-off’ nos mercados globais",
+      "summary": "O dólar à vista ganhou força no último pregão desta semana com aumento da aversão a risco externa. Nesta sexta-feira (17), o dólar à vista terminou as negociações a R$ 5,1112, com alta de 0,24%. O dólar acompanhou o fort",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/dolar-17-7-26-lils/",
+      "time": "2026-07-17T20:03:10Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/dolar-real-1.jpg"
+    },
+    {
+      "title": "CSN (CSNA3) e CSN Mineração (CMIN3): Safra corta preços-alvo; o que fazer com as ações?",
+      "summary": "O Safra cortou os preços-alvo para as ações da CSN (CSNA3) e CSN Mineração (CMIN3). No caso da CSN, o preço-alvo foi cortado de R$ 11,30 para R$ 6,10 no final de 2026, o que ainda representa um potencial de valorização d",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/csn-csna3-e-csn-mineracao-cmin3-safra-corta-precos-alvo-apos-reavaliar-perspectivas-o-que-fazer-com-as-acoes-lmrs/",
+      "time": "2026-07-17T20:02:14Z",
+      "cat": "acoes",
+      "tickers": [
+        "CSNA3",
+        "CMIN3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/csn-csn-mineracao.jpg"
+    },
+    {
+      "title": "Petróleo avança cerca de 16% na semana com intensificação do conflito no Oriente Médio",
+      "summary": "Os preços do petróleo encerraram o pregão em alta após a intensificação de ataques dos Estados Unidos ao Irã, o que trouxe cautela aos mercados globais. O contrato mais líquido do petróleo Brent, referência para o mercad",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/petroleo-17-7-26-apsa/",
+      "time": "2026-07-17T19:36:04Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2024/06/petroleo-o-que-esta-acontecendo-com-a-commodity-brasil-economia-eua.webp"
+    },
+    {
+      "title": "Procuradoria pede bloqueio de fundos da teia do Master por rombo de R$ 640 mi no RioPrevidência",
+      "summary": "A Procuradoria-Geral do Estado do Rio de Janeiro pediu à Justiça o bloqueio de bens de três gestoras ligadas à Master Corretora, braço de investimentos do conglomerado gerido por Daniel Vorcaro, e de seus respectivos dir",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/procuradoria-pede-bloqueio-de-fundos-da-teia-do-master-por-rombo-de-r-640-mi-no-rioprevidencia/",
+      "time": "2026-07-17T19:30:30Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/trump-tarifa-brasil-montagem.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/04/2026-04-09t231834z-1-lynxmpem381ft-rtroptp-4-brazil-banco-master-scaled-e1776172545482.jpg"
+    },
+    {
+      "title": "Fim da euforia? Gestores reposicionam carteiras diante da desaceleração dos gastos com IA",
+      "summary": "A disparada das fabricantes de chips de IA enfrentou turbulências em meio a preocupações com as avaliações e a sustentabilidade de suas receitas robustas, levando alguns investidores a se posicionarem discretamente para ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/fim-da-euforia-gestores-reposicionam-carteiras-diante-da-desaceleracao-dos-gastos-com-ia-igdl/",
+      "time": "2026-07-17T19:06:13Z",
+      "cat": "analise",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/inteligencia-artificial-ia.png"
     },
     {
       "title": "Itaú BBA encerra cobertura de CVC (CVCB3)",
@@ -93,38 +188,6 @@
       "cat": "internacional",
       "tickers": [],
       "image": "https://www.moneytimes.com.br/uploads/2026/06/789d2314-8364-41d9-9d7a-3f8b7322d017-e1784312928297.jpg"
-    },
-    {
-      "title": "Por que o bitcoin (BTC) pode estar em uma das melhores janelas de compra da história, segundo o BTG",
-      "summary": "A forte queda do bitcoin (BTC) ao longo de 2026, de mais de 25%, pode representar uma oportunidade para investidores de longo prazo, segundo relatório divulgado pelo BTG Pactual. Na avaliação do banco, a desvalorização s",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/por-que-o-bitcoin-btc-pode-estar-em-uma-das-melhores-janelas-de-compra-da-historia-segundo-o-btg-igdl/",
-      "time": "2026-07-17T18:25:04Z",
-      "cat": "cripto",
-      "tickers": [
-        "BTC"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/bitcoin-btc-em-disparada-de-precos-imagem-chatgpt-1.png"
-    },
-    {
-      "title": "Com inflação comportada e balanços do 2T26, especialista vê ‘trigger’ para estrangeiro na bolsa — e eleição pode ajudar ainda mais",
-      "summary": "O preço baixo da bolsa brasileira e os números que as empresas devem divulgar na temporada de balanços do segundo trimestre podem ajudar a atrair capital estrangeiro para o mercado nacional, avalia Fernando Cinelli, fund",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/reprecificacao-de-ativos-tecnologia-cenario-eleitoral-na-bolsa-giro-do-mercado-garg/",
-      "time": "2026-07-17T17:42:53Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/dolar-estrangeiros-1.jpg"
-    },
-    {
-      "title": "Bolsas da Europa recuam com tech; Londres destoa com escolha de Andy Burham como novo premiê",
-      "summary": "Os índices europeus fecharam majoritariamente em queda nesta sexta-feira (17), diante da venda global de ações de tecnologia, em especial de fabricantes de chips. O índice pan-europeu Stoxx 600 encerrou as negociações co",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/europa-17-7-26-apsa/",
-      "time": "2026-07-17T16:59:30Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2021/09/europa.jpg"
     },
     {
       "title": "Fed: inflação alta demais ainda pede cautela, diz dirigente",
@@ -211,14 +274,14 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/close-de-smartphone-1_02-1.webp"
     },
     {
-      "title": "Irã ameaça impedir exportações de petróleo e gás por conta de ataques dos EUA",
-      "summary": "Irã ameaça impedir exportações de petróleo e gás por conta de ataques dos EUAA Guarda Revolucionária Islâmica do Irã alertou que, enquanto os Estados Unidos continuarem os ataques contra alvos iranianos, não haverá nenhu",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/ira-afirma-que-impedira-exportacoes-de-petroleo-e-gas-go/",
-      "time": "2026-07-17T12:25:00Z",
-      "cat": "internacional",
+      "title": "Reserva é a primeira marca masculina do Brasil a criar uma linha de paternidade",
+      "summary": "Marca reforça a parceria com a Safety First porque acredita no cuidado desde o primeiro colo",
+      "source": "Exame",
+      "url": "https://exame.com/marketing/reserva-marca-masculina-linha-paternidade/",
+      "time": "2026-07-17T17:23:00Z",
+      "cat": "economia",
       "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2026/03/49a1c43f-oil-rig-2191711_1280-jpg.webp"
+      "image": "https://classic.exame.com/wp-content/uploads/2029/07/MATERIA-1.png"
     },
     {
       "title": "Novo tarifaço atinge US$ 7,2 bilhões de exportações aos EUA, diz ApexBrasil",
@@ -231,34 +294,54 @@
       "image": "https://classic.exame.com/wp-content/uploads/2025/10/cana-de-acucar-energia.jpg"
     },
     {
-      "title": "Inscrição Fies: prazo para se inscrever termina hoje, 17",
-      "summary": "Inscrições do Fies 2026/2 terminam nesta sexta, 17, às 23h59. Veja o número de vagas, quem pode participar, o que é o Fies Social e o cronograma completo.",
-      "source": "Exame",
-      "url": "https://exame.com/brasil/inscricao-fies-prazo-para-se-inscrever-termina-hoje-17/",
-      "time": "2026-07-17T15:59:09Z",
-      "cat": "economia",
+      "title": "Wall Street encerra dia e semana em baixa, conforme onda de vendas no setor de semicondutores se amplia",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/wall-street-encerra-dia-e-semana-em-baixa-conforme-onda-de-vendas-no-setor-de-semicondutores-se-amplia-2005662",
+      "time": "2026-07-17T20:21:46Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2020/10/novo_fies_03.09.2019.jpg"
+      "image": null
     },
     {
-      "title": "Malware para macOS rouba carteiras de criptomoedas e sequestra contas do Telegram",
-      "summary": "Segundo a SlowMist, o malware rouba credenciais para sequestrar sessões do Telegram e descriptografar wallets",
-      "source": "Exame",
-      "url": "https://exame.com/future-of-money/malware-para-macos-rouba-carteiras-de-criptomoedas-e-sequestra-contas-do-telegram/",
-      "time": "2026-07-17T15:49:01Z",
-      "cat": "cripto",
+      "title": "Ibovespa fecha quase estável com Petrobras atenuando pressão de bancos",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-fecha-quase-estavel-com-petrobras-atenuando-pressao-de-bancos-2005647",
+      "time": "2026-07-17T20:07:06Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2021/03/GettyImages-594644139.jpeg"
+      "image": null
     },
     {
-      "title": "O que o IPO da SpaceX revela sobre o futuro do software",
-      "summary": "Em junho, a SpaceX fez o maior IPO da história. No mesmo período, o múltiplo mediano de SaaS caiu cerca de 70%. O mercado não parou de avaliar software — parou de avaliá-lo com uma régua só",
-      "source": "Exame",
-      "url": "https://exame.com/inteligencia-artificial/o-que-o-ipo-da-spacex-revela-sobre-o-futuro-do-software/",
-      "time": "2026-07-17T15:34:30Z",
-      "cat": "economia",
+      "title": "SpaceX planeja outra tentativa de lançamento da Starship na próxima semana, enquanto ações caem",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/spacex-planeja-outra-tentativa-de-lancamento-da-starship-na-proxima-semana-enquanto-acoes-caem-2005623",
+      "time": "2026-07-17T19:28:27Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/EX1288_Carta.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEA8I09H_M.jpg"
+    },
+    {
+      "title": "Ações da SpaceX sobem com contrato do Pentágono, enquanto CoreWeave cai",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-spacex-sobem-com-contrato-do-pentagono-enquanto-coreweave-cai-2005621",
+      "time": "2026-07-17T19:18:34Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Juiz dos EUA não impedirá Meta de demitir funcionários que entraram com ação por discriminação relacionada à IA",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/juiz-dos-eua-nao-impedira-meta-de-demitir-funcionarios-que-entraram-com-acao-por-discriminacao-relacionada-a-ia-2005615",
+      "time": "2026-07-17T19:14:32Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/facebook_2_M_1440049069.jpg"
     },
     {
       "title": "Investidores se preparam para desaceleração dos gastos de IA das hyperscalers",
@@ -279,87 +362,7 @@
       "cat": "analise",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Negociação de opções da Western Union dispara para 10.701 contratos",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/negociacao-de-opcoes-da-western-union-dispara-para-10701-contratos-93CH-2005602",
-      "time": "2026-07-17T18:42:24Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Ação da Charter Communications pode oscilar 12% com resultados",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acao-da-charter-communications-pode-oscilar-12-com-resultados-93CH-2005598",
-      "time": "2026-07-17T18:35:06Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Ações da SLB podem oscilar 3,2% com resultados em 24 de julho",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-slb-podem-oscilar-32-com-resultados-em-24-de-julho-93CH-2005597",
-      "time": "2026-07-17T18:33:23Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Ações de embalagens para acompanhar, segundo o Raymond James",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-de-embalagens-para-acompanhar-segundo-o-raymond-james-93CH-2005595",
-      "time": "2026-07-17T18:27:44Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "VIVA3: Por que as ações da Vivara estão em queda hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/viva3-por-que-as-acoes-da-vivara-estao-em-queda-hoje-2005594",
-      "time": "2026-07-17T18:26:54Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Ação da Verizon pode oscilar 3,9% com resultado do dia 24/07",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acao-da-verizon-pode-oscilar-39-com-resultado-do-dia-2407-93CH-2005591",
-      "time": "2026-07-17T18:21:26Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Por que as ações da Monster Beverage estão caindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-monster-beverage-estao-caindo-hoje-93CH-2005589",
-      "time": "2026-07-17T18:18:49Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Por que as ações da Synopsys estão despencando hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-synopsys-estao-despencando-hoje-93CH-2005588",
-      "time": "2026-07-17T18:17:41Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "17/07/2026 19:06"
+  "atualizado_em": "17/07/2026 20:27"
 }
