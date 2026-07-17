@@ -13,6 +13,16 @@
   },
   "featured": [
     {
+      "title": "Ibovespa hoje fecha estável com Petrobras e petróleo em alta; dólar sobe a R$ 5,11",
+      "summary": "Bolsas dos EUA recuam com sell-off de ações de fabricantes de chips",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-17072026/",
+      "time": "2026-07-17T21:20:23Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Ibovespa-ao-vivo-bolsa-de-valores-8.png?fit=300%2C186&amp;quality=70&amp;strip=all"
+    },
+    {
       "title": "Petrobras segura Ibovespa na estabilidade, mas índice cai 2,33% na semana; dólar sobe",
       "summary": "As bolsas de Nova York encerraram o pregão desta sexta em forte queda, pressionadas principalmente pelas ações de techs",
       "source": "Exame",
@@ -21,24 +31,11 @@
       "cat": "economia",
       "tickers": [],
       "image": "https://classic.exame.com/wp-content/uploads/2020/11/DSC2687bx.jpg"
-    },
-    {
-      "title": "Ibovespa fecha estável com apoio de Petrobras (PETR4), mas encerra semana em queda",
-      "summary": "O Ibovespa conseguiu driblar a aversão global ao risco nesta sexta-feira (17) e encerrou o pregão praticamente estável, sustentado pela forte alta das ações da Petrobras (PETR3; PETR4). O principal índice da B3 fechou co",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-17-julho-2026-petr4-fechamento-mt/",
-      "time": "2026-07-17T21:15:07Z",
-      "cat": "acoes",
-      "tickers": [
-        "PETR4",
-        "PETR3"
-      ],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/7a2811c9-down-800x450-1-jpg.webp"
     }
   ],
   "all": [
     {
-      "title": "Ibovespa hoje fecha em queda com tarifaço dos EUA; dólar sobe e fica em R$ 5,09",
+      "title": "Ibovespa hoje fecha estável com Petrobras e petróleo em alta; dólar sobe a R$ 5,11",
       "summary": "Bolsas dos EUA recuam com sell-off de ações de fabricantes de chips",
       "source": "InfoMoney",
       "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-17072026/",
@@ -284,6 +281,18 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/detalhe-de-relat-rio-1_02.webp"
     },
     {
+      "title": "Bitcoin está em momento de rara oportunidade, diz BTG",
+      "summary": "Combinação de indicadores descontados e fundamentos preservados apesar da queda torna a moeda digital atrativa para investimento gradual",
+      "source": "Exame",
+      "url": "https://exame.com/future-of-money/bitcoin-esta-em-momento-de-rara-oportunidade-diz-btg/",
+      "time": "2026-07-17T19:20:11Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC"
+      ],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/kanchanara-7E3QGntO66M-unsplash.jpg"
+    },
+    {
       "title": "CVM inicia grupo de trabalho para ‘futura regulação da tokenização’",
       "summary": "O GT reunirá representantes de 14 componentes organizacionais da CVM e também poderá trazer representantes de entidades governamentais, autorreguladores, associações do mercado e especialistas",
       "source": "Exame",
@@ -312,6 +321,46 @@
       "cat": "economia",
       "tickers": [],
       "image": "https://classic.exame.com/wp-content/uploads/2029/07/MATERIA-1.png"
+    },
+    {
+      "title": "México - Ações fecharam o pregão em alta e o Índice S&P/BMV IPC avançou 0,42%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/mexico--acoes-fecharam-o-pregao-em-alta-e-o-indice-spbmv-ipc-avancou-042-2005712",
+      "time": "2026-07-17T21:30:20Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPED7S129_M.jpg"
+    },
+    {
+      "title": "Ibovespa e dólar hoje: petróleo sobe com fechamento de Ormuz; Focus no radar",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-petroleo-sobe-com-fechamento-de-ormuz-focus-no-radar-2005611",
+      "time": "2026-07-17T21:30:02Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Colômbia - Ações fecharam o pregão em alta e o Índice COLCAP avançou 0,58%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/colombia--acoes-fecharam-o-pregao-em-alta-e-o-indice-colcap-avancou-058-2005709",
+      "time": "2026-07-17T21:25:20Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Rússia - Ações fecharam o pregão em queda e o Índice MOEX Russia Index recuou 2,83%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/russia--acoes-fecharam-o-pregao-em-queda-e-o-indice-moex-russia-index-recuou-283-2005705",
+      "time": "2026-07-17T21:20:22Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB750QO_M.jpg"
     },
     {
       "title": "Wall Street encerra dia e semana em baixa, conforme onda de vendas no setor de semicondutores se amplia",
@@ -362,37 +411,7 @@
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/LYNXNPEC37167_M.jpg"
-    },
-    {
-      "title": "SpaceX planeja outra tentativa de lançamento da Starship na próxima semana, enquanto ações caem",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/spacex-planeja-outra-tentativa-de-lancamento-da-starship-na-proxima-semana-enquanto-acoes-caem-2005623",
-      "time": "2026-07-17T19:28:27Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEA8I09H_M.jpg"
-    },
-    {
-      "title": "Ações da SpaceX sobem com contrato do Pentágono, enquanto CoreWeave cai",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-spacex-sobem-com-contrato-do-pentagono-enquanto-coreweave-cai-2005621",
-      "time": "2026-07-17T19:18:34Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Juiz dos EUA não impedirá Meta de demitir funcionários que entraram com ação por discriminação relacionada à IA",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/juiz-dos-eua-nao-impedira-meta-de-demitir-funcionarios-que-entraram-com-acao-por-discriminacao-relacionada-a-ia-2005615",
-      "time": "2026-07-17T19:14:32Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/facebook_2_M_1440049069.jpg"
     }
   ],
-  "atualizado_em": "17/07/2026 21:22"
+  "atualizado_em": "17/07/2026 22:21"
 }
