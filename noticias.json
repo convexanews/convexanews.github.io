@@ -1,39 +1,80 @@
 {
   "headline": {
-    "title": "Ibovespa e dólar hoje esperam IBC-Br; tarifaço dos EUA e Fed rígido pesam",
-    "summary": "",
-    "source": "Investing.com",
-    "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-esperam-ibcbr-tarifaco-dos-eua-e-fed-rigido-pesam-2004452",
-    "time": "2026-07-16T21:30:03Z",
-    "cat": "economia",
+    "title": "Ibovespa cai mais de 1% com tarifaço dos EUA e amplia perdas na semana",
+    "summary": "Ibovespa cai mais de 1% com tarifaço dos EUA e amplia perdas na semanaA confirmação do novo tarifaço dos Estados Unidos sobre produtos brasileiros derrubou o Ibovespa nesta quinta-feira (16). O principal índice da B3 per",
+    "source": "Suno",
+    "url": "https://www.suno.com.br/noticias/ibovespa-hoje-16-julho-2026-petr4-tarifaco-eua-mt/",
+    "time": "2026-07-16T22:06:01Z",
+    "cat": "internacional",
     "tickers": [],
-    "image": null
+    "image": "https://files.sunoresearch.com.br/n/uploads/2026/07/c05e2f54-ibovespa-800x450-1-2-jpg.webp"
   },
   "featured": [
     {
-      "title": "Ibovespa cai mais de 1% com tarifaço dos EUA e amplia perdas na semana",
-      "summary": "Ibovespa cai mais de 1% com tarifaço dos EUA e amplia perdas na semanaA confirmação do novo tarifaço dos Estados Unidos sobre produtos brasileiros derrubou o Ibovespa nesta quinta-feira (16). O principal índice da B3 per",
+      "title": "XPML11 ou VISC11: qual o melhor FII de shopping? Veja principais indicadores",
+      "summary": "Entre os maiores fundos imobiliários de shopping centers listados na B3, XP Malls (XPML11) e Vinci Shopping Centers (VISC11) costumam atrair investidores interessados em renda mensal e exposição ao varejo físico. Ambos r",
       "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-16-julho-2026-petr4-tarifaco-eua-mt/",
-      "time": "2026-07-16T22:06:01Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2026/07/c05e2f54-ibovespa-800x450-1-2-jpg.webp"
-    },
-    {
-      "title": "RCRB11 lucra R$ 10,9 mi com venda de participação em edifício da Paulista",
-      "summary": "O fundo imobiliário Rio Bravo Renda Corporativa (RCRB11) concluiu a alienação de sua participação integral no edifício Parque Cultural Paulista, situado na Avenida Paulista, em São Paulo. A transação foi formalizada com ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/rcrb11-lucra-r-109-mi-com-venda-de-participacao-em-edificio-da-paulista/",
-      "time": "2026-07-16T23:25:07Z",
+      "url": "https://www.suno.com.br/noticias/xpml11-ou-visc11-qual-o-melhor-fii-de-shopping-veja-principais-indicadores/",
+      "time": "2026-07-17T00:15:05Z",
       "cat": "fundos",
       "tickers": [
-        "RCRB11"
+        "XPML11",
+        "VISC11"
       ],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/analista-concentrado-1_10-2.webp"
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/detalhe-de-m-os-segu-1_03-1.webp"
+    },
+    {
+      "title": "Após ação do STF, projeto em SC prevê cota racial sujeita à renda e teto de vagas",
+      "summary": "A ideia surgiu após o Supremo Tribunal Federal (STF) derrubar por unanimidade a lei estadual que proibia as cotas e punia instituições públicas que aplicassem a política",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/apos-acao-do-stf-projeto-em-sc-preve-cota-racial-sujeita-a-renda-e-teto-de-vagas/",
+      "time": "2026-07-17T01:50:43Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-15_S-ORDINARIA_DC-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     }
   ],
   "all": [
+    {
+      "title": "Após ação do STF, projeto em SC prevê cota racial sujeita à renda e teto de vagas",
+      "summary": "A ideia surgiu após o Supremo Tribunal Federal (STF) derrubar por unanimidade a lei estadual que proibia as cotas e punia instituições públicas que aplicassem a política",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/apos-acao-do-stf-projeto-em-sc-preve-cota-racial-sujeita-a-renda-e-teto-de-vagas/",
+      "time": "2026-07-17T01:50:43Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-15_S-ORDINARIA_DC-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Quina hoje, concurso 7067: confira o resultado sorteado nesta quinta (16)",
+      "summary": "O prêmio deste concurso era de R$ 6.975.963,81",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7067-confira-o-resultado-sorteado-nesta-quinta-16/",
+      "time": "2026-07-17T00:22:33Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=300%2C175&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Lotofácil hoje, concurso 3737: confira o resultado sorteado nesta quinta (16)",
+      "summary": "O prêmio estimado para este concurso era de R$ 10 milhões",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3737-confira-o-resultado-sorteado-nesta-quinta-16/",
+      "time": "2026-07-17T00:20:58Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/10/loteria_lotofacil_Marcelo-Camargo-Agencia-Brasil-e1751562724210.webp?fit=300%2C191&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Mega-Sena hoje, concurso 3032: confira o resultado sorteado nesta quinta (16)",
+      "summary": "O prêmio deste concurso era de R$ 29.104.440,27",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/consumo/mega-sena-hoje-concurso-3032-confira-o-resultado-sorteado-nesta-quinta-16/",
+      "time": "2026-07-17T00:16:51Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/09/cropped-Image-6-e1725979055362.jpg?fit=225%2C300&amp;quality=70&amp;strip=all"
+    },
     {
       "title": "“Nunca nada tão óbvio esteve tão barato”, diz Appel, da Adam, sobre alocação em IA",
       "summary": "Para o gestor, o que mais surpreende não é a oportunidade em si, mas o número de investidores que não enxergam o cenário",
@@ -43,46 +84,6 @@
       "cat": "acoes",
       "tickers": [],
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Marcio-Appel-socio-fundador-e-CEO-da-Adam-Capital.webp?fit=300%2C131&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Rede social de Trump venderá a bancos acesso “mais rápido” às publicações",
-      "summary": "O produto, chamado 'Truth API', entregará aos clientes as publicações das 10 contas mais influentes em um ritmo significativamente mais rápido do que uma notificação push comum na plataforma Truth Social",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/business/rede-social-de-trump-vendera-a-bancos-acesso-mais-rapido-as-publicacoes/",
-      "time": "2026-07-16T23:04:28Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/11/2024-11-08T164351Z_1_LYNXMPEKA70N2_RTROPTP_4_USA-TRUMP-TRUTH-SOCIAL.jpg?fit=300%2C196&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "B3 registra R$ 149 milhões captados por empresas no Regime Fácil, em 4 emissões",
-      "summary": "O Regime Fácil entrou em vigor em 16 de março deste ano e permite a emissão de renda fixa e ações, incluindo abertura de capital (IPO, em inglês), para empresas com faturamento anual até R$ 500 milhões",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/business/b3-registra-r-149-milhoes-captados-por-empresas-no-regime-facil-em-4-emissoes/",
-      "time": "2026-07-16T22:48:09Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/EspacoB3_01.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Abicalçados vê retrocesso em tarifaço no setor e reduz projeção de exportações",
-      "summary": "A aplicação desta tarifa adicional reduz significativamente a competitividade do calçado brasileiro nos Estados Unidos e inviabiliza muitas operações que vinham sendo retomadas desde o fim da tarifa adicional de 40%, afi",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/business/abicalcados-ve-retrocesso-em-tarifaco-no-setor-e-reduz-projecao-de-exportacoes/",
-      "time": "2026-07-16T22:40:02Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/mathias-reding-VZzp1uxnkI8-unsplash.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Nova tarifa dos EUA afetará até 18% das exportações do Brasil, diz ministro",
-      "summary": "Impacto estimado chega a US$ 7,4 bilhões, e governo promete apoio aos setores mais afetados",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/economia/nova-tarifa-dos-eua-afetara-ate-18-das-exportacoes-do-brasil-diz-ministro/",
-      "time": "2026-07-16T22:12:21Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-03T180918Z_1_LYNXMPEM6210K_RTROPTP_4_USA-TRUMP-TARIFFS-BRAZIL.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
     },
     {
       "title": "Retaliação do Brasil aos EUA pode envolver royalties do audiovisual e patentes farmacêuticas, dizem fontes",
@@ -135,6 +136,19 @@
       "cat": "acoes",
       "tickers": [],
       "image": "https://www.moneytimes.com.br/uploads/2026/07/netflix.jpg"
+    },
+    {
+      "title": "XPML11 ou VISC11: qual o melhor FII de shopping? Veja principais indicadores",
+      "summary": "Entre os maiores fundos imobiliários de shopping centers listados na B3, XP Malls (XPML11) e Vinci Shopping Centers (VISC11) costumam atrair investidores interessados em renda mensal e exposição ao varejo físico. Ambos r",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/xpml11-ou-visc11-qual-o-melhor-fii-de-shopping-veja-principais-indicadores/",
+      "time": "2026-07-17T00:15:05Z",
+      "cat": "fundos",
+      "tickers": [
+        "XPML11",
+        "VISC11"
+      ],
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/detalhe-de-m-os-segu-1_03-1.webp"
     },
     {
       "title": "RCRB11 lucra R$ 10,9 mi com venda de participação em edifício da Paulista",
@@ -231,16 +245,24 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/Centro-de-Operacoes-B3_04_B3_Divulgacao-scaled-1-jpg.webp"
     },
     {
-      "title": "Como investir em SpaceX (SPCX34) pela B3? Veja passo a passo",
-      "summary": "Investir na empresa de Elon Musk sem abrir conta no exterior já é possível para brasileiros. A SpaceX (SPCX34) pode ser acessada pela B3 por meio de um BDR, certificado negociado no Brasil que representa ações emitidas f",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/como-investir-spacex-spcx34-b3-bdr-mt/",
-      "time": "2026-07-16T17:45:07Z",
-      "cat": "acoes",
-      "tickers": [
-        "SPCX34"
-      ],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
+      "title": "O que mudou na adaptação de 'O Senhor das Moscas'? Minissérie chegou ao Globoplay",
+      "summary": "A produção escrita por Jack Thorne faz ajustes importantes para transformar o romance de 1954 em uma experiência pensada para a televisão",
+      "source": "Exame",
+      "url": "https://exame.com/pop/o-que-mudou-na-adaptacao-de-o-senhor-das-moscas-minisserie-chegou-ao-globoplay/",
+      "time": "2026-07-16T23:25:21Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/05/senhor-das-moscas-serie-bbc.jpg"
+    },
+    {
+      "title": "Tuchel seguirá como treinador da Inglaterra mesmo após eliminação na Copa",
+      "summary": "A seleção inglesas perdeu para a Argentina na semifinal do Mundial, mas o treinador alemão deverá seguir no comando da equipe",
+      "source": "Exame",
+      "url": "https://exame.com/esporte/tuchel-seguira-como-treinador-da-inglaterra-mesmo-apos-eliminacao-na-copa/",
+      "time": "2026-07-16T21:00:40Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/AFP__20260706__B9C68CW__v1__HighRes__FblWc2026Match92MexEng.jpg"
     },
     {
       "title": "Nunes Marques defende ação antecipada das plataformas nas eleições de 2026",
@@ -253,24 +275,24 @@
       "image": "https://classic.exame.com/wp-content/uploads/2024/03/53512202167_594dd99898_o.jpg"
     },
     {
-      "title": "EUA queriam tarifa zero a setor automotivo e acesso a minerais críticos nas negociações com Brasil",
-      "summary": "Ministro diz que Brasil rejeitou pedidos para restringir acesso de rivais a minerais críticos",
-      "source": "Exame",
-      "url": "https://exame.com/brasil/eua-queriam-tarifa-zero-a-setor-automotivo-e-acesso-a-minerais-criticos-nas-negociacoes-com-brasil/",
-      "time": "2026-07-16T20:12:21Z",
+      "title": "Futuros de ações dos EUA caem após guidance decepcionante da Netflix",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/futuros-de-acoes-dos-eua-caem-apos-guidance-decepcionante-da-netflix-2004764",
+      "time": "2026-07-17T02:17:46Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-16-at-17.51.33.jpeg"
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Cristiano Ronaldo pode estampar a capa do EA FC 27, aponta vazamento",
-      "summary": "Já a edição padrão teria como opções uma dupla formada por Jude Bellingham e Ousmane Dembélé",
-      "source": "Exame",
-      "url": "https://exame.com/pop/cristiano-ronaldo-pode-estampar-a-capa-do-ea-fc-27-aponta-vazamento/",
-      "time": "2026-07-16T19:33:36Z",
-      "cat": "economia",
+      "title": "Ações da SpaceX caem após cancelamento de lançamento do Starship",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-spacex-caem-apos-cancelamento-de-lancamento-do-starship-93CH-2004723",
+      "time": "2026-07-16T23:52:18Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/cristiano-ronaldo-grupo-k-portugal-x-uzbequistao-copa-do-mundo-2026.jpg"
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
       "title": "Lavvi tem queda de 11% nas vendas líquidas do 2º tri",
@@ -291,57 +313,7 @@
       "cat": "internacional",
       "tickers": [],
       "image": null
-    },
-    {
-      "title": "México - Ações fecharam o pregão em queda e o Índice S&P/BMV IPC recuou 0,07%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/mexico--acoes-fecharam-o-pregao-em-queda-e-o-indice-spbmv-ipc-recuou-007-2004661",
-      "time": "2026-07-16T21:30:20Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEE1P09M_M.jpg"
-    },
-    {
-      "title": "Ibovespa e dólar hoje esperam IBC-Br; tarifaço dos EUA e Fed rígido pesam",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-esperam-ibcbr-tarifaco-dos-eua-e-fed-rigido-pesam-2004452",
-      "time": "2026-07-16T21:30:03Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Colômbia - Ações fecharam o pregão em queda e o Índice COLCAP recuou 0,30%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/colombia--acoes-fecharam-o-pregao-em-queda-e-o-indice-colcap-recuou-030-2004658",
-      "time": "2026-07-16T21:25:21Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Por que as ações da Regenxbio estão caindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-regenxbio-estao-caindo-hoje-93CH-2004650",
-      "time": "2026-07-16T21:22:29Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Rússia - Ações fecharam o pregão em queda e o Índice MOEX Russia Index recuou 4,26%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/russia--acoes-fecharam-o-pregao-em-queda-e-o-indice-moex-russia-index-recuou-426-2004649",
-      "time": "2026-07-16T21:20:20Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB4H0KM_M.jpg"
     }
   ],
-  "atualizado_em": "16/07/2026 23:59"
+  "atualizado_em": "17/07/2026 03:29"
 }
