@@ -1,18 +1,31 @@
 {
   "headline": {
-    "title": "Hapvida (HAPV3) lidera ganhos, enquanto Auren (AURE3) despenca 11%; veja os destaques do Ibovespa na semana",
-    "summary": "O Ibovespa (IBOV) interrompeu a sequência de três ganhos semanais consecutivos com aumento da aversão externa em meio à escalada das tensões no Oriente Médio e novo tarifaço de Trump sobre o Brasil. O principal índice da",
-    "source": "Money Times",
-    "url": "https://www.moneytimes.com.br/destaques-ibovespa-semana-29-lils/",
-    "time": "2026-07-18T13:02:00Z",
+    "title": "Petrobras (PETR4) e BB (BBAS3) à venda? Zema promete privatização para bancar obras",
+    "summary": "Pré-candidato do Novo afirma que recursos das vendas financiariam estradas, ferrovias, hidrovias e portos em todo o país.",
+    "source": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/zema-promete-privatizar-petrobras-e-banco-do-brasil-para-investir-em-infraestrutura/",
+    "time": "2026-07-18T19:15:00Z",
     "cat": "acoes",
     "tickers": [
-      "HAPV3",
-      "AURE3"
+      "PETR4",
+      "BBAS3"
     ],
-    "image": "https://www.moneytimes.com.br/uploads/2026/07/acoes-ibovespa-ibov.jpg"
+    "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/romeu-zema-governador-minas-gerais-politica-novo03.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
   },
   "featured": [
+    {
+      "title": "Hapvida (HAPV3) lidera ganhos, enquanto Auren (AURE3) despenca 11%; veja os destaques do Ibovespa na semana",
+      "summary": "O Ibovespa (IBOV) interrompeu a sequência de três ganhos semanais consecutivos com aumento da aversão externa em meio à escalada das tensões no Oriente Médio e novo tarifaço de Trump sobre o Brasil. O principal índice da",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/destaques-ibovespa-semana-29-lils/",
+      "time": "2026-07-18T13:02:00Z",
+      "cat": "acoes",
+      "tickers": [
+        "HAPV3",
+        "AURE3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/acoes-ibovespa-ibov.jpg"
+    },
     {
       "title": "Bitcoin se aproxima dos US$ 64 mil em recuperação após temores com IA; confira os preços das criptomoedas neste sábado (18)",
       "summary": "O bitcoin (BTC) é negociado perto dos US$ 64 mil na manhã deste sábado (18), com ganho de 1,5% nas últimas 24 horas, segundo dados da plataforma Coingecko. No acumulado da semana, no entanto, a principal criptomoeda do m",
@@ -24,21 +37,22 @@
         "BTC"
       ],
       "image": "https://www.moneytimes.com.br/uploads/2025/10/fintech-crypto.jpg"
-    },
-    {
-      "title": "Bitcoin testa suporte crítico e segue com viés de baixa, diz BTG Pactual",
-      "summary": "O bitcoin voltou a perder força e segue pressionando uma região considerada decisiva do ponto de vista técnico, segundo relatório divulgado pelo BTG Pactual nesta sexta-feira (17). Na avaliação da equipe de análise técni",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bitcoin-testa-suporte-critico-e-segue-com-vies-de-baixa-diz-btg-pactual-vtra/",
-      "time": "2026-07-18T13:00:00Z",
-      "cat": "cripto",
-      "tickers": [
-        "BTC"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/03/bitcoin-btc-e-a-gangorra-de-precos-imagem-copilot.png"
     }
   ],
   "all": [
+    {
+      "title": "Petrobras (PETR4) e BB (BBAS3) à venda? Zema promete privatização para bancar obras",
+      "summary": "Pré-candidato do Novo afirma que recursos das vendas financiariam estradas, ferrovias, hidrovias e portos em todo o país.",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/zema-promete-privatizar-petrobras-e-banco-do-brasil-para-investir-em-infraestrutura/",
+      "time": "2026-07-18T19:15:00Z",
+      "cat": "acoes",
+      "tickers": [
+        "PETR4",
+        "BBAS3"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/romeu-zema-governador-minas-gerais-politica-novo03.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
+    },
     {
       "title": "Iguatemi (IGTI11) e mais 4 ações para investir na semana, segundo Terra Investimentos",
       "summary": "A carteira recomendada da Terra Investimentos para o período de 17 a 24 de julho não passou por alterações em relação a semana anterior. O portfólio permanece composto pelas ações da Sabesp (SBSP3), MBRF (MBRF3), Suzano ",
@@ -220,34 +234,44 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/05/nvidia.webp"
     },
     {
-      "title": "Empresa de game acertou os últimos 4 campeões da Copa — e pode cravar de novo",
-      "summary": "Simulação da EA Sports apontou a Espanha como campeã antes do início do torneio",
+      "title": "Google entra na brincadeira e transforma meme de Cucurella em animação especial",
+      "summary": "Meme que viralizou durante o Mundial ganhou uma animação especial na plataforma e virou parte do clima da decisão entre Espanha e Argentina",
       "source": "Exame",
-      "url": "https://exame.com/esporte/empresa-de-game-acertou-os-ultimos-4-campeoes-da-copa-e-pode-cravar-de-novo/",
-      "time": "2026-07-18T15:27:37Z",
+      "url": "https://exame.com/esporte/google-entra-na-brincadeira-e-transforma-meme-de-cucurella-em-animacao-especial/",
+      "time": "2026-07-18T18:09:40Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/AFP__20260718__C2JE663__v1__HighRes__ComboFblWc2026Match104EspArgFinal.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/Marc-Cucurella.jpg"
     },
     {
-      "title": "Por que a campanha ucraniana de 40 dias na Rússia mudou rumo da guerra?",
-      "summary": "Após anos de linhas de frente congeladas e uma guerra frustrante de desgaste, a Ucrânia leva a ofensiva ao coração russo",
+      "title": "Brasileiro gasta 42% mais em supermercado para conseguir 'selinho\"",
+      "summary": "Levantamento também aponta avanço de até 185,7% nas vendas de produtos de higiene durante as campanhas",
       "source": "Exame",
-      "url": "https://exame.com/mundo/por-que-a-campanha-ucraniana-de-40-dias-na-russia-mudou-rumo-da-guerra/",
-      "time": "2026-07-18T12:00:24Z",
+      "url": "https://exame.com/invest/minhas-financas/brasileiro-gasta-42-mais-em-supermercado-para-conseguir-selinho/",
+      "time": "2026-07-18T17:30:00Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/02/000_36YE8WF.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/8782.jpg"
     },
     {
-      "title": "Nem Argentina, nem Espanha: final da Copa chega com empate nos palpites, segundo Mercado Pago",
-      "summary": "Levantamento do Bolão 2026 mostra Argentina e Espanha com 46% dos palpites cada entre 9,8 milhões de participantes no Brasil",
+      "title": "IPOs de IA: como os bilionários estão pressionando os aluguéis em São Francisco",
+      "summary": "O crescimento vertiginoso das startups de inteligência artificial concentra riqueza, pressiona o mercado imobiliário e divide a cidade entre uma nova elite milionária e o restante da população",
       "source": "Exame",
-      "url": "https://exame.com/esporte/nem-argentina-nem-espanha-final-da-copa-chega-com-empate-nos-palpites-segundo-mercado-pago/",
-      "time": "2026-07-18T12:00:18Z",
+      "url": "https://exame.com/mercado-imobiliario/ipos-de-ia-como-os-bilionarios-estao-pressionando-os-alugueis-em-sao-francisco/",
+      "time": "2026-07-18T17:00:16Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/AFP__20260717__C2DF4CQ__v1__HighRes__ComboFblWc2026Match104EspArgFinal.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2025/01/estados-unidos-casas-imoveis-novos.jpg"
+    },
+    {
+      "title": "Rússia - Ações fecharam o pregão em queda e o Índice MOEX Russia Index terminou sem alterações",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/russia--acoes-fecharam-o-pregao-em-queda-e-o-indice-moex-russia-index-terminou-sem-alteracoes-2005950",
+      "time": "2026-07-18T21:20:20Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEDAE0U1_M.jpg"
     },
     {
       "title": "CFM International obtém aprovação para melhorar durabilidade de motor a jato",
@@ -300,5 +324,5 @@
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "18/07/2026 18:58"
+  "atualizado_em": "18/07/2026 21:46"
 }
