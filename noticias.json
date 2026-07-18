@@ -1,148 +1,196 @@
 {
   "headline": {
-    "title": "Wall Street pressiona, Ibovespa ‘resiste’ com Petrobras (PETR4) e fecha em leve baixa; dólar sobe a R$ 5,11",
-    "summary": "Em dia de risk-off no mercado internacional, o Ibovespa (IBOV) cedeu à pressão externa e encerrou o último pregão da semana em tom negativo com vencimento de opções e realização das blue chips. As perdas foram limitadas ",
+    "title": "Hapvida (HAPV3) lidera ganhos, enquanto Auren (AURE3) despenca 11%; veja os destaques do Ibovespa na semana",
+    "summary": "O Ibovespa (IBOV) interrompeu a sequência de três ganhos semanais consecutivos com aumento da aversão externa em meio à escalada das tensões no Oriente Médio e novo tarifaço de Trump sobre o Brasil. O principal índice da",
     "source": "Money Times",
-    "url": "https://www.moneytimes.com.br/ibovespa-17-7-26-lils/",
-    "time": "2026-07-17T20:23:57Z",
-    "cat": "economia",
+    "url": "https://www.moneytimes.com.br/destaques-ibovespa-semana-29-lils/",
+    "time": "2026-07-18T13:02:00Z",
+    "cat": "acoes",
     "tickers": [
-      "PETR4"
+      "HAPV3",
+      "AURE3"
     ],
-    "image": "https://www.moneytimes.com.br/uploads/2026/07/queda-ibovespa.jpg"
+    "image": "https://www.moneytimes.com.br/uploads/2026/07/acoes-ibovespa-ibov.jpg"
   },
   "featured": [
     {
-      "title": "Ibovespa fecha estável com apoio de Petrobras (PETR4), mas encerra semana em queda",
-      "summary": "O Ibovespa conseguiu driblar a aversão global ao risco nesta sexta-feira (17) e encerrou o pregão praticamente estável, sustentado pela forte alta das ações da Petrobras (PETR3; PETR4). O principal índice da B3 fechou co",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-17-julho-2026-petr4-fechamento-mt/",
-      "time": "2026-07-17T21:15:07Z",
-      "cat": "acoes",
+      "title": "Bitcoin testa suporte crítico e segue com viés de baixa, diz BTG Pactual",
+      "summary": "O bitcoin voltou a perder força e segue pressionando uma região considerada decisiva do ponto de vista técnico, segundo relatório divulgado pelo BTG Pactual nesta sexta-feira (17). Na avaliação da equipe de análise técni",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/bitcoin-testa-suporte-critico-e-segue-com-vies-de-baixa-diz-btg-pactual-vtra/",
+      "time": "2026-07-18T13:00:00Z",
+      "cat": "cripto",
       "tickers": [
-        "PETR4",
-        "PETR3"
+        "BTC"
       ],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/7a2811c9-down-800x450-1-jpg.webp"
+      "image": "https://www.moneytimes.com.br/uploads/2026/03/bitcoin-btc-e-a-gangorra-de-precos-imagem-copilot.png"
     },
     {
-      "title": "IA batizada em homenagem ao Pink Floyd faz mercado viver novo “choque DeepSeek”",
-      "summary": "Criado pela Moonshot AI, o modelo combina eficiência, baixo custo e forte desempenho, aprofundando a competição entre chineses e americanos no setor",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/business/global/ia-batizada-em-homenagem-ao-pink-floyd-faz-mercado-viver-novo-choque-deepseek/",
-      "time": "2026-07-18T08:00:00Z",
+      "title": "3tentos (TTEN3): CEO vê preocupação excessiva com o biodiesel; ‘A Indonésia já está indo para B50 e nós estamos discutindo B16’",
+      "summary": "O atraso na elevação da mistura obrigatória de biodiesel segue no radar da 3tentos (TTEN3). Para o CEO da companhia, João Marcelo Dumoncel, o Brasil já superou as dúvidas técnicas sobre a qualidade do combustível renováv",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/3tentos-tten3-ceo-ve-preocupacao-excessiva-com-o-biodiesel-a-indonesia-ja-esta-indo-para-b50-e-nos-estamos-discutindo-b16-pads/",
+      "time": "2026-07-18T13:00:00Z",
       "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/MARKETS-MAY-HAVE-JUST-EXPERIENCED-THEIR-SECOND-DEEPSEEK-SHOCK-THIS-TIME-THANKS-TO-A-CHINESE-AI-LAB-NAMED-AFTER-A-PINK-FLOYD-ALBUM.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "tickers": [
+        "TTEN3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/3tentos-tten3-1.jpg"
     }
   ],
   "all": [
     {
-      "title": "IA batizada em homenagem ao Pink Floyd faz mercado viver novo “choque DeepSeek”",
-      "summary": "Criado pela Moonshot AI, o modelo combina eficiência, baixo custo e forte desempenho, aprofundando a competição entre chineses e americanos no setor",
+      "title": "Ataques ucranianos com drones deixam 7 mortos e mais de 50 feridos em regiões russas",
+      "summary": "Zelensky afirma que ataques de longo alcance atingiram instalações logísticas nas regiões de Moscou e Tambov",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/business/global/ia-batizada-em-homenagem-ao-pink-floyd-faz-mercado-viver-novo-choque-deepseek/",
-      "time": "2026-07-18T08:00:00Z",
+      "url": "https://www.infomoney.com.br/mundo/ataques-ucranianos-com-drones-deixam-7-mortos-e-mais-de-50-feridos-em-regioes-russas/",
+      "time": "2026-07-18T12:55:00Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/MARKETS-MAY-HAVE-JUST-EXPERIENCED-THEIR-SECOND-DEEPSEEK-SHOCK-THIS-TIME-THANKS-TO-A-CHINESE-AI-LAB-NAMED-AFTER-A-PINK-FLOYD-ALBUM.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2022/03/guerra-na-ucrania-1024x597.jpg.webp?fit=300%2C175&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Lotofácil hoje, concurso 3738: confira o resultado sorteado nesta sexta (17)",
-      "summary": "O prêmio estimado para este concurso era de R$ 2 milhões",
+      "title": "Moraes nega autorização a visita de Milei em prisão domiciliar de Bolsonaro",
+      "summary": "Visitas foram suspensas por descumprimento de medidas cautelares",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/lotofacil-hoje-concurso-3738-confira-o-resultado-sorteado-nesta-sexta-17/",
-      "time": "2026-07-18T00:08:50Z",
+      "url": "https://www.infomoney.com.br/politica/moraes-nega-autorizacao-a-visita-de-milei-em-prisao-domiciliar-de-bolsonaro/",
+      "time": "2026-07-18T12:16:00Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/11-09-2020_loteria-5.webp?fit=300%2C225&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/Captura-de-tela-2025-09-08-081628.png?fit=300%2C225&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Quina hoje, concurso 7068: confira o resultado sorteado nesta sexta (17)",
-      "summary": "O prêmio deste concurso era de R$ 8.074.041,96",
+      "title": "Economia climática pode criar as próximas gigantes globais",
+      "summary": "Especialistas comparam a transição climática à Revolução Digital e alertam que investidores podem ficar de fora de uma das maiores transformações econômicas das próximas décadas",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7068-confira-o-resultado-sorteado-nesta-sexta-17/",
-      "time": "2026-07-18T00:04:26Z",
+      "url": "https://www.infomoney.com.br/mercados/economia-climatica-pode-criar-as-proximas-gigantes-globais/",
+      "time": "2026-07-18T12:05:00Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=300%2C175&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/sustentabilidade-mundo.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Raízen (RAIZ4): B3 estende prazo para companhia reenquadrar ações abaixo de R$ 1",
-      "summary": "A Raízen (RAIZ4) informou nesta sexta-feira (17) que recebeu da B3 uma prorrogação do prazo para apresentar um plano de reenquadramento da cotação de suas ações preferenciais, que seguem negociadas abaixo de R$ 1. Segund",
+      "title": "De day trade a swing trade: operação de Ivy Hypolito alcançou 10 mil pontos no Índice",
+      "summary": "Posição permaneceu aberta além do pregão até um fator inesperado determinar a saída",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/de-day-trade-swing-trade-operacao-de-ivy-hypolito-alcancou-10-mil-pontos-no-indice/",
+      "time": "2026-07-18T12:00:00Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Ivy-Hypolito-GainDelas-episodio-82-1.jpeg?fit=300%2C172&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Os CFOs nunca mudaram tanto de emprego. E isso revela uma transformação silenciosa",
+      "summary": "Rotatividade recorde entre diretores financeiros mostra que o cargo deixou de ser apenas técnico e passou a exigir liderança, estratégia e condução da transformação dos negócios",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/carreira/os-cfos-nunca-mudaram-tanto-de-emprego-e-isso-revela-uma-transformacao-silenciosa/",
+      "time": "2026-07-18T11:56:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/cfo.png?fit=300%2C169&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Fundo de IA da Safra rende quase 150% e vira ‘aposta única na vida’",
+      "summary": "A gestora afirma ter sido a primeira do país a lançar um fundo ligado diretamente ao tema",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/onde-investir/fundo-de-ia-da-safra-rende-quase-150-e-vira-aposta-unica-na-vida/",
+      "time": "2026-07-18T11:55:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Daniel-Weeks-da-Safra-Asset.-2.webp?fit=300%2C164&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Ações ligadas a IA desafiam cenário macroeconômico e saltam 20% no 1º semestre",
+      "summary": "Desempenho chama atenção em meio à inflação pressionada pela guerra e à perspectiva de juros altos nos EUA.",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/acoes-ligadas-a-ia-desafiam-cenario-macroeconomico-e-saltam-20-no-1o-semestre/",
+      "time": "2026-07-18T11:46:06Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Estrategia-automarizada.-Imagem-gerada-com-uso-de-Inteligencia-Artificial-Bruno-Nadai-1.jpeg?fit=300%2C168&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Hapvida (HAPV3) lidera ganhos, enquanto Auren (AURE3) despenca 11%; veja os destaques do Ibovespa na semana",
+      "summary": "O Ibovespa (IBOV) interrompeu a sequência de três ganhos semanais consecutivos com aumento da aversão externa em meio à escalada das tensões no Oriente Médio e novo tarifaço de Trump sobre o Brasil. O principal índice da",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/raizen-raiz4-b3-estende-prazo-para-companhia-reenquadrar-acoes-abaixo-de-r-1-pads/",
-      "time": "2026-07-17T21:17:36Z",
+      "url": "https://www.moneytimes.com.br/destaques-ibovespa-semana-29-lils/",
+      "time": "2026-07-18T13:02:00Z",
       "cat": "acoes",
       "tickers": [
-        "RAIZ4"
+        "HAPV3",
+        "AURE3"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/12/raizen-raiz4.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/acoes-ibovespa-ibov.jpg"
     },
     {
-      "title": "Próximo de sair da bolsa, Helbor (HBOR3) tem queda nas vendas no 2T26 com ausência de lançamentos",
-      "summary": "A Helbor (HBOR3) divulgou sua prévia operacional do segundo trimestre de 2026, marcada pela ausência de lançamentos no período e pela desaceleração das vendas. A incorporadora vendeu R$ 338,5 milhões em Valor Geral de Ve",
+      "title": "Clássico no lugar do ‘moderno’? Veja 3 motivos para preferir uma ação de ‘bancão’ gringo no lugar de ativo ligado ao mercado cripto",
+      "summary": "Em relatório especial, analista da Empiricus apresenta 3 motivos para comprar BDRs de um banco norte-americano tradicional a partir de agora – no lugar de uma corretora de criptoativos",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/proximo-de-sair-da-bolsa-helbor-hbor3-tem-queda-nas-vendas-no-2o-trimestre-com-ausencia-de-lancamentos-rnda/",
-      "time": "2026-07-17T20:49:05Z",
-      "cat": "acoes",
+      "url": "https://www.moneytimes.com.br/veja-3-motivos-para-preferir-uma-acao-de-bancao-no-lugar-de-ativo-ligado-ao-mercado-cripto-lbrdaz256/",
+      "time": "2026-07-18T13:00:00Z",
+      "cat": "cripto",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2021/07/helbor-1.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/dolar-cripto-banco-bdr.jpg"
     },
     {
-      "title": "Wall Street pressiona, Ibovespa ‘resiste’ com Petrobras (PETR4) e fecha em leve baixa; dólar sobe a R$ 5,11",
-      "summary": "Em dia de risk-off no mercado internacional, o Ibovespa (IBOV) cedeu à pressão externa e encerrou o último pregão da semana em tom negativo com vencimento de opções e realização das blue chips. As perdas foram limitadas ",
+      "title": "Bitcoin testa suporte crítico e segue com viés de baixa, diz BTG Pactual",
+      "summary": "O bitcoin voltou a perder força e segue pressionando uma região considerada decisiva do ponto de vista técnico, segundo relatório divulgado pelo BTG Pactual nesta sexta-feira (17). Na avaliação da equipe de análise técni",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ibovespa-17-7-26-lils/",
-      "time": "2026-07-17T20:23:57Z",
-      "cat": "economia",
+      "url": "https://www.moneytimes.com.br/bitcoin-testa-suporte-critico-e-segue-com-vies-de-baixa-diz-btg-pactual-vtra/",
+      "time": "2026-07-18T13:00:00Z",
+      "cat": "cripto",
       "tickers": [
-        "PETR4"
+        "BTC"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/queda-ibovespa.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2026/03/bitcoin-btc-e-a-gangorra-de-precos-imagem-copilot.png"
     },
     {
-      "title": "Wall Street tomba 1% na semana com tecnologia e alta do petróleo; Nasdaq lidera perdas",
-      "summary": "Os índices de Wall Street fecharam em baixa nesta sexta-feira (17) após o setor de tecnologia estender as perdas da véspera, além do avanço dos preços do petróleo no mercado internacional. Confira o fechamento dos índice",
+      "title": "3tentos (TTEN3): CEO vê preocupação excessiva com o biodiesel; ‘A Indonésia já está indo para B50 e nós estamos discutindo B16’",
+      "summary": "O atraso na elevação da mistura obrigatória de biodiesel segue no radar da 3tentos (TTEN3). Para o CEO da companhia, João Marcelo Dumoncel, o Brasil já superou as dúvidas técnicas sobre a qualidade do combustível renováv",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/wall-street-17-7-26-apsa/",
-      "time": "2026-07-17T20:08:23Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/2026-07-17t151109z-1-lynxmpem6g0y2-rtroptp-4-usa-banks-prime-brokerage-scaled.jpg"
-    },
-    {
-      "title": "Dólar sobe a R$ 5,11 com ‘risk-off’ nos mercados globais",
-      "summary": "O dólar à vista ganhou força no último pregão desta semana com aumento da aversão a risco externa. Nesta sexta-feira (17), o dólar à vista terminou as negociações a R$ 5,1112, com alta de 0,24%. O dólar acompanhou o fort",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/dolar-17-7-26-lils/",
-      "time": "2026-07-17T20:03:10Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/dolar-real-1.jpg"
-    },
-    {
-      "title": "CSN (CSNA3) e CSN Mineração (CMIN3): Safra corta preços-alvo; o que fazer com as ações?",
-      "summary": "O Safra cortou os preços-alvo para as ações da CSN (CSNA3) e CSN Mineração (CMIN3). No caso da CSN, o preço-alvo foi cortado de R$ 11,30 para R$ 6,10 no final de 2026, o que ainda representa um potencial de valorização d",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/csn-csna3-e-csn-mineracao-cmin3-safra-corta-precos-alvo-apos-reavaliar-perspectivas-o-que-fazer-com-as-acoes-lmrs/",
-      "time": "2026-07-17T20:02:14Z",
+      "url": "https://www.moneytimes.com.br/3tentos-tten3-ceo-ve-preocupacao-excessiva-com-o-biodiesel-a-indonesia-ja-esta-indo-para-b50-e-nos-estamos-discutindo-b16-pads/",
+      "time": "2026-07-18T13:00:00Z",
       "cat": "acoes",
       "tickers": [
-        "CSNA3",
-        "CMIN3"
+        "TTEN3"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/csn-csn-mineracao.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/3tentos-tten3-1.jpg"
     },
     {
-      "title": "Petróleo avança cerca de 16% na semana com intensificação do conflito no Oriente Médio",
-      "summary": "Os preços do petróleo encerraram o pregão em alta após a intensificação de ataques dos Estados Unidos ao Irã, o que trouxe cautela aos mercados globais. O contrato mais líquido do petróleo Brent, referência para o mercad",
+      "title": "Axia Energia (AXIA3) aprova 11ª emissão de R$ 500 milhões em debêntures com vencimento em 2036",
+      "summary": "O Consellho de Administração da Axia Energia (AXIA3) aprovou a 11ª emissão de debêntures simples, não conversíveis em ações, em série única, no valor de R$ 500 milhões, informou a companhia em fato relevante na noite de ",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/petroleo-17-7-26-apsa/",
-      "time": "2026-07-17T19:36:04Z",
-      "cat": "internacional",
+      "url": "https://www.moneytimes.com.br/axia-energia-axia3-aprova-11a-emissao-de-r-500-milhoes-em-debentures-com-vencimento-em-2036-apsa/",
+      "time": "2026-07-18T12:46:04Z",
+      "cat": "acoes",
+      "tickers": [
+        "AXIA3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/11/axia-energia.jpg"
+    },
+    {
+      "title": "Transferência de US$ 288 milhões em cripto, top picks de bancos e compras da SLC (SLCE3): o que bombou no Money Times nesta semana",
+      "summary": "Na semana que inicia a segunda metade de julho, a matéria sobre a transferência de cerca de US$ 288 milhões (mais de R$ 1,4 bilhão) em bitcoin (BTC) e ethereum (ETH) realizada pelos Estados Unidos (EUA) ter acendido um a",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/top-lidas-money-times-18-7-26-apsa/",
+      "time": "2026-07-18T12:17:18Z",
+      "cat": "cripto",
+      "tickers": [
+        "SLCE3",
+        "BTC",
+        "ETH"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/bitcoin-btc-e-as-criptomoedas-em-alta-imagem-istock-1024x585-1.jpg"
+    },
+    {
+      "title": "Ações ligadas à IA saltam 20% no 1º semestre, mas sustentabilidade do rali é incerta",
+      "summary": "O setor de tecnologia despontou como o principal destaque de Wall Street no primeiro semestre de 2026. Apesar da recente liquidação das ações, as gigantes do setor ainda acumulam ganhos expressivos no ano, levando o índi",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/acoes-ligadas-a-ia-saltam-20-no-1o-semestre-mas-sustentabilidade-do-rali-e-incerta-apsa/",
+      "time": "2026-07-18T11:39:59Z",
+      "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2024/06/petroleo-o-que-esta-acontecendo-com-a-commodity-brasil-economia-eua.webp"
+      "image": "https://www.moneytimes.com.br/uploads/2025/12/data-centers-o-pilar-da-tecnologia-para-a-inteligencia-artificial-ia-imagem-canva-pro.png"
     },
     {
       "title": "Junho registrou entrada de 41 mil novos investidores em FIIs, mostra B3",
@@ -232,24 +280,24 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/05/nvidia.webp"
     },
     {
-      "title": "Netflix revela compra de empresa de IA de Ben Affleck por US$ 587 milhões",
-      "summary": "Aquisição da InterPositive foi concluída em março de 2026 e paga integralmente em dinheiro",
+      "title": "Se o ChatGPT planejasse as férias, para onde ele mandaria sua família? Veja as recomendações",
+      "summary": "Levantamento analisou 45 tipos de perguntas sobre o período de recesso e identificou padrões nas respostas da inteligência artificial para viagens, educação, entretenimento e consumo",
       "source": "Exame",
-      "url": "https://exame.com/pop/netflix-revela-compra-de-empresa-de-ia-de-ben-affleck-por-us-587-milhoes/",
-      "time": "2026-07-18T07:00:26Z",
+      "url": "https://exame.com/invest/minhas-financas/se-o-chatgpt-planejasse-as-ferias-para-onde-ele-mandaria-sua-familia-veja-as-recomendacoes/",
+      "time": "2026-07-18T10:00:02Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2022/06/ben-afleck-filho-bate-carro.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/feriasescolares.png"
     },
     {
-      "title": "Portas abertas: como os modelos de IA de código aberto estão democratizando o acesso à tecnologia",
-      "summary": "Gratuitos ou de baixo custo, os modelos de código aberto estão permitindo que startups, pesquisadores e pequenas empresas desenvolvam soluções de inteligência artificial sem depender exclusivamente das gigantes de tecnol",
+      "title": "Câmeras analógicas vivem nova fase e conquistam uma geração de fotógrafos",
+      "summary": "Da Pentax à Rollei, marcas apostam em produtos inéditos para atender uma demanda que cresce entre iniciantes e entusiastas",
       "source": "Exame",
-      "url": "https://exame.com/inteligencia-artificial/portas-abertas-como-os-modelos-de-ia-de-codigo-aberto-estao-democratizando-o-acesso-a-tecnologia/",
-      "time": "2026-07-18T06:08:47Z",
+      "url": "https://exame.com/pop/cameras-analogicas-vivem-nova-fase-e-conquistam-uma-geracao-de-fotografos/",
+      "time": "2026-07-18T08:51:44Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/trilionarios.png"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/ChatGPT-Image-17-de-jul.-de-2026-19_28_11.png"
     },
     {
       "title": "UBS projeta mercado da economia espacial em US$ 1,3 trilhão até 2040",
@@ -340,17 +388,7 @@
       "cat": "internacional",
       "tickers": [],
       "image": null
-    },
-    {
-      "title": "Canadá - Ações fecharam o pregão em queda e o Índice S&P/TSX recuou 0,22%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/canada--acoes-fecharam-o-pregao-em-queda-e-o-indice-sptsx-recuou-022-2005675",
-      "time": "2026-07-17T20:30:47Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB230DM_M.jpg"
     }
   ],
-  "atualizado_em": "18/07/2026 10:16"
+  "atualizado_em": "18/07/2026 13:06"
 }
