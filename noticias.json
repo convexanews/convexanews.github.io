@@ -1,40 +1,92 @@
 {
   "headline": {
-    "title": "Criptomoedas: bitcoin opera em alta com sinais de mediação no Oriente Médio",
-    "summary": "A criptomoeda avançou embalada pelo apetite ao risco e pela trégua geopolítica, enquanto ETFs do setor registraram nova sequência de entradas líquidas de capital",
-    "source": "InfoMoney",
-    "url": "https://www.infomoney.com.br/mercados/criptomoedas-bitcoin-opera-em-alta-com-sinais-de-mediacao-no-oriente-medio/",
-    "time": "2026-07-20T20:11:46Z",
-    "cat": "cripto",
+    "title": "Petrobras (PETR4) amortece queda do Ibovespa, que segue Wall Street; dólar recua a R$ 5,08",
+    "summary": "Diante das incertezas globais, o Ibovespa (IBOV) recuou em linha com a baixa das ações norte-americanas após a continuidade da escalada nas tensões no Oriente Médio. As perdas, porém, foram limitadas pelo desempenho da P",
+    "source": "Money Times",
+    "url": "https://www.moneytimes.com.br/ibovespa-20-7-26-apsa/",
+    "time": "2026-07-20T20:28:56Z",
+    "cat": "economia",
     "tickers": [
-      "BTC"
+      "PETR4"
     ],
-    "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/yigit-ali-atasoy-z1jggXh29_Q-unsplash.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+    "image": "https://www.moneytimes.com.br/uploads/2026/07/queda-ibovespa.jpg"
   },
   "featured": [
     {
-      "title": "Juros futuros a partir de janeiro de 2028 fecham em alta em sessão de volatilidade",
-      "summary": "Os contratos mais longos registraram ganhos após uma sessão volátil impulsionada pelo conflito entre EUA e Irã, enquanto o mercado aguarda as decisões do Copom",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/juros-futuros-a-partir-de-janeiro-de-2028-fecham-em-alta-em-sessao-de-volatilidade/",
-      "time": "2026-07-20T20:13:57Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/joelfotos-money-1194986_1280-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "title": "Ibovespa cai pelo quinto pregão seguido com pressão de Vale (VALE3)",
+      "summary": "O Ibovespa encerrou esta segunda-feira (20) em queda, registrando o quinto pregão consecutivo no vermelho. Após ensaiar uma recuperação pela manhã e voltar a superar os 174 mil pontos, o principal índice da B3 perdeu for",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-20-julho-2026-vale3-fechamento-mt/",
+      "time": "2026-07-20T21:35:08Z",
+      "cat": "acoes",
+      "tickers": [
+        "VALE3"
+      ],
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     },
     {
-      "title": "Dólar recua a R$ 5,08 e dribla aversão a risco com otimismo doméstico",
-      "summary": "O dólar à vista perdeu força no primeiro pregão da semana diante do otimismo do cenário doméstico prevalecendo ante a cautela no exterior com o conflito no Oriente Médio. Nesta segunda-feira (20), o dólar à vista termino",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/dolar-20-7-26-apsa/",
-      "time": "2026-07-20T20:02:00Z",
+      "title": "Inflação deve prevalecer sem ajuste fiscal, sinaliza gestora de R$ 3 bilhões",
+      "summary": "O executivo classifica as contas públicas como delicadas",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/onde-investir/inflacao-deve-prevalecer-sem-ajuste-fiscal-sinaliza-gestora-de-r-3-bilhoes/",
+      "time": "2026-07-20T21:03:18Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/dolar-estrangeiros-1.jpg"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Marcio-Appel-socio-fundador-e-CEO-da-Adam-Capital-1.webp?fit=300%2C151&amp;quality=70&amp;strip=all"
     }
   ],
   "all": [
     {
+      "title": "Inflação deve prevalecer sem ajuste fiscal, sinaliza gestora de R$ 3 bilhões",
+      "summary": "O executivo classifica as contas públicas como delicadas",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/onde-investir/inflacao-deve-prevalecer-sem-ajuste-fiscal-sinaliza-gestora-de-r-3-bilhoes/",
+      "time": "2026-07-20T21:03:18Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Marcio-Appel-socio-fundador-e-CEO-da-Adam-Capital-1.webp?fit=300%2C151&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Bolsas de NY fecham em queda com quadro geopolítico e Dow Jones mais pressionado",
+      "summary": "O Nasdaq perdeu os ganhos na reta final do pregão e caiu 0,05%, encerrando nos 25.508,07 pontos.",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-em-queda-com-quadro-geopolitico-e-dow-jones-mais-pressionado/",
+      "time": "2026-07-20T21:00:42Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/2024-08-21T202205Z_1_LYNXMPEK7K0OP_RTROPTP_3_WALLST-FECHA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Ibovespa fecha em queda de 0,2% com menor liquidez e foco do mercado no Oriente Médio",
+      "summary": "O volume financeiro no pregão desta segunda-feira somou R$15,9 bilhões, ante média diária no ano de R$33,7 bilhões",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/sinal-de-dialogo-eua-ira-e-incapaz-de-animar-ibovespa-com-cautela-e-focando-juros/",
+      "time": "2026-07-20T20:55:26Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/03/Mulher_B3.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Ibovespa fecha em baixa, com exterior; dólar recua a R$ 5,09",
+      "summary": "Principais índices nos EUA terminam no vermelho, com guerra no Oriente Médio",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-20072026/",
+      "time": "2026-07-20T20:33:07Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Ibovespa-ao-vivo-3.png?fit=300%2C186&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Dólar hoje fecha em baixa de 0,4%, a R$ 5,09, com investidores seguindo exterior",
+      "summary": "Os investidores globais seguiram monitorando o noticiário sobre o Oriente Médio, após Irã e Estados Unidos intensificarem seus ataques",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-20072026/",
+      "time": "2026-07-20T20:23:34Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Cedulas-de-dolares-norte-americanos.jpg?fit=300%2C206&amp;quality=70&amp;strip=all"
+    },
+    {
       "title": "Juros futuros a partir de janeiro de 2028 fecham em alta em sessão de volatilidade",
       "summary": "Os contratos mais longos registraram ganhos após uma sessão volátil impulsionada pelo conflito entre EUA e Irã, enquanto o mercado aguarda as decisões do Copom",
       "source": "InfoMoney",
@@ -45,56 +97,52 @@
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/joelfotos-money-1194986_1280-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Criptomoedas: bitcoin opera em alta com sinais de mediação no Oriente Médio",
-      "summary": "A criptomoeda avançou embalada pelo apetite ao risco e pela trégua geopolítica, enquanto ETFs do setor registraram nova sequência de entradas líquidas de capital",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/criptomoedas-bitcoin-opera-em-alta-com-sinais-de-mediacao-no-oriente-medio/",
-      "time": "2026-07-20T20:11:46Z",
-      "cat": "cripto",
+      "title": "Banco Master: Travessia acionou B3, CERC e BC por disputa de carteira ligada ao Credcesta",
+      "summary": "A B3 identificou indícios consistentes de cessão em duplicidade envolvendo parte da carteira de créditos cedida pelo Banco Master que lastreia a 8ª emissão de debêntures da companhia. O Banco Master está em liquidação ex",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/banco-master-travessia-acionou-b3-cerc-e-bc-por-disputa-de-carteira-ligada-ao-credcesta/",
+      "time": "2026-07-20T21:35:05Z",
+      "cat": "analise",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/11/banco-master-1.jpg"
+    },
+    {
+      "title": "MP pede condenação do Grupo Mateus (GMAT3) por saídas de emergência lacradas",
+      "summary": "O Ministério Público do Maranhão ingressou com ação na Justiça em que pede a condenação do Grupo Mateus (GMAT3) a uma indenização de R$ 20 milhões por supostas falhas no sistema de segurança de suas lojas que submetem os",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/mp-pede-condenacao-do-grupo-mateus-gmat3-por-saidas-de-emergencia-lacradas/",
+      "time": "2026-07-20T21:30:35Z",
+      "cat": "acoes",
       "tickers": [
-        "BTC"
+        "GMAT3"
       ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/yigit-ali-atasoy-z1jggXh29_Q-unsplash.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2024/09/grupo-mateus.jpg"
     },
     {
-      "title": "Classificação final da Copa: Brasil ficou em 11º e Iraque em último",
-      "summary": "O ranking final reflete não apenas a campanha dos finalistas, mas também o desempenho de todas as equipes ao longo do torneio",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/esportes/classificacao-final-da-copa-brasil-ficou-em-11o-e-iraque-em-ultimo/",
-      "time": "2026-07-20T20:08:59Z",
+      "title": "De Petrobras (PETR4) a Banco do Brasil (BBAS3): Santander aponta quem deve entregar os melhores e os piores resultados do 2T26",
+      "summary": "O Santander vê Petrobras (PETR4), Prio (PRIO3), Bradesco (BBDC4), TIM (TIMS3), Smart Fit (SMFT3), Gerdau (GGBR4), Multiplan (MULT3), Nubank (ROXO34), Fras-le (FRAS3) e Usiminas (USIM5) como os principais destaques positi",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/de-petrobras-petr4-a-banco-do-brasil-bbas3-santander-aponta-quem-deve-entregar-os-melhores-e-os-piores-resultados-do-2t26/",
+      "time": "2026-07-20T20:53:35Z",
       "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-05T225044Z_483878304_UP1EM751PRCTY_RTRMADP_3_SOCCER-WORLDCUP-BRA-NOR.jpg?fit=300%2C201&amp;quality=70&amp;strip=all"
+      "tickers": [
+        "PETR4",
+        "BBAS3",
+        "PRIO3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2024/11/petrobras-petr4-1.jpg"
     },
     {
-      "title": "Dino encaminha à PF explicações de Kassab e Valdemar sobre destinação de emendas",
-      "summary": "Presidente do PL mudou versão sobre a sua atuação na destinação de verba",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/dino-encaminha-a-pf-explicacoes-de-kassab-e-valdemar-sobre-destinacao-de-emendas/",
-      "time": "2026-07-20T20:01:34Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/55268377008_dba86148f0_k.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Setor de construção da B3 não alcança expectativas do Safra no 2T26; entenda",
-      "summary": "Restrições no crédito da Caixa e retração no segmento popular desaceleraram vendas e elevaram os estoques das incorporadoras no período",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/setor-de-construcao-da-b3-nao-alcanca-expectativas-do-safra-no-2t26-entenda/",
-      "time": "2026-07-20T20:00:47Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/construcao.png?fit=300%2C191&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Petróleo fecha em alta após Trump elevar o tom de vingança contra Irã",
-      "summary": "Esmail Baghaei afirmou que as negociações com os EUA poderiam ser conduzidas com base nos interesses nacionais",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-20072026/",
-      "time": "2026-07-20T19:46:53Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Guerra-Petroleo.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+      "title": "Petrobras (PETR4) amortece queda do Ibovespa, que segue Wall Street; dólar recua a R$ 5,08",
+      "summary": "Diante das incertezas globais, o Ibovespa (IBOV) recuou em linha com a baixa das ações norte-americanas após a continuidade da escalada nas tensões no Oriente Médio. As perdas, porém, foram limitadas pelo desempenho da P",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ibovespa-20-7-26-apsa/",
+      "time": "2026-07-20T20:28:56Z",
+      "cat": "economia",
+      "tickers": [
+        "PETR4"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/queda-ibovespa.jpg"
     },
     {
       "title": "Wall Street cai após falas de Trump sobre Irã; semicondutores perdem força",
@@ -139,54 +187,28 @@
       "image": "https://www.moneytimes.com.br/uploads/2026/07/3tentos-tten3-santander-.jpg"
     },
     {
-      "title": "Citi mantém preferência por exportadoras em contexto de juros mais elevados nos EUA; veja quais",
-      "summary": "Na avaliação do Citi, a inflação persistente nos Estados Unidos e o novo presidente do Federal Reserve (Fed, o banco central dos EUA), Kevin Warsh, em busca de consolidar a sua credibilidade, podem manter os juros elevad",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/citi-mantem-preferencia-por-exportadoras-em-contexto-de-juros-mais-elevados-nos-eua-confira-quais-apsa/",
-      "time": "2026-07-20T19:23:45Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/acoes-carteira-recomendada-ibovespa-mercados-.png"
-    },
-    {
-      "title": "Reino Unido troca de premiê pela 7ª vez desde o Brexit e mercado reage com queda da libra e alta dos juros",
-      "summary": "O Reino Unido empossou Andy Burnham como primeiro-ministro, o sétimo desde o Brexit, em 2016, substituindo Keir Starmer. A mudança ampliou a incerteza fiscal e pressionou os ativos britânicos. A libra esterlina caiu para",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/libra-cai-e-juros-de-titulos-sobem-com-a-promessa-do-novo-premie-de-circuit-breaker-em-downing-street/",
-      "time": "2026-07-20T19:09:13Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/2026-07-17t113951z-1-lynxmpem6g0mz-rtroptp-4-britain-politics-scaled.jpg"
-    },
-    {
-      "title": "Depois da alta das bolsas, chega a hora da verdade: HSBC aponta as melhores ações para a temporada do 2T26",
-      "summary": "A temporada de resultados do segundo trimestre de 2026 (2T26) na América Latina deve começar sem grandes catalisadores para as bolsas, na avaliação do HSBC. O banco afirma que as revisões de lucros perderam força ao long",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/depois-da-alta-das-bolsas-chega-a-hora-da-verdade-hsbc-aponta-as-melhores-acoes-para-o-2t26-jcav/",
-      "time": "2026-07-20T19:06:54Z",
+      "title": "Ibovespa cai pelo quinto pregão seguido com pressão de Vale (VALE3)",
+      "summary": "O Ibovespa encerrou esta segunda-feira (20) em queda, registrando o quinto pregão consecutivo no vermelho. Após ensaiar uma recuperação pela manhã e voltar a superar os 174 mil pontos, o principal índice da B3 perdeu for",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-20-julho-2026-vale3-fechamento-mt/",
+      "time": "2026-07-20T21:35:08Z",
       "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/istock-1003379998-e1783706272643.jpg"
+      "tickers": [
+        "VALE3"
+      ],
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     },
     {
-      "title": "Em convenção do PSD, Eduardo Paes chama grupo de Cláudio Castro de ‘organização criminosa’",
-      "summary": "O PSD confirmou o ex-prefeito do Rio de Janeiro Eduardo Paes como candidato ao governo do Estado em convenção na capital fluminense na manhã desta segunda-feira (20). Apoiado por partidos do centro à esquerda, Paes criti",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/em-convencao-do-psd-eduardo-paes-chama-grupo-de-claudio-castro-de-organizacao-criminosa-gaep/",
-      "time": "2026-07-20T19:01:21Z",
+      "title": "Klabin (KLBN11): resultado deve melhorar, mas analista vê alerta na ação",
+      "summary": "Klabin (KLBN11). Foto: Divulgação.A Klabin (KLBN11) deve apresentar uma recuperação ampla no segundo trimestre de 2026, mas sem espaço para muito entusiasmo na ação. Segundo relatório da Genial Investimentos, a companhia",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/klabin-klbn11-resultados-2t26-analise-mt/",
+      "time": "2026-07-20T20:40:00Z",
       "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/toms0787-scaled-e1784573964782.jpg"
-    },
-    {
-      "title": "Gestora que administrava fundo ligado a primo de Vorcaro desmonta posição na Gafisa (GFSA3)",
-      "summary": "A gestora LAD Capital reduziu, na última sexta-feira (17), em cerca de 35% a posição de fundos sob sua gestão na Gafisa (GFSA3), apenas 11 dias após comunicar uma participação superior a 20% no capital da incorporadora. ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/gestora-que-administrava-fundo-ligado-a-primo-de-vorcaro-desmonta-posicao-na-gafisa-gfsa3/",
-      "time": "2026-07-20T18:59:27Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/gafisa-6.jpg"
+      "tickers": [
+        "KLBN11"
+      ],
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/02/klabin-4.jpg"
     },
     {
       "title": "BTG Pactual (BPAC11) vira favorito em trimestre azedo para corretoras e bolsa",
@@ -238,155 +260,85 @@
       "image": "https://files.sunoresearch.com.br/n/uploads/2026/04/e24e1db1-totem-rondonopolis-1-jpg.webp"
     },
     {
-      "title": "Nu Asset lança três ETFs de renda fixa IPCA+",
-      "summary": "Nu Asset lança três ETFs de renda fixa IPCA+A Nu Asset ampliou sua linha de ETFs de renda fixa com o lançamento de três fundos negociados na B3 que oferecem exposição a títulos públicos indexados à inflação. O NB0211, NB",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/nu-asset-lanca-etfs-renda-fixa-ipca-gss/",
-      "time": "2026-07-20T14:06:30Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2026/07/hand-putting-coin-piggy-bank-growth-chart-scaled.webp"
-    },
-    {
-      "title": "Boletim Focus corta projeção do IPCA 2026 para 5,15%, ainda acima do teto da meta",
-      "summary": "Boletim Focus corta projeção do IPCA 2026 para 5,15%, ainda acima do teto da metaA mediana do Boletim Focus para o IPCA de 2026 caiu pela terceira semana seguida, desta vez de 5,16% para 5,15%, acima da meta perseguida p",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/mediana-de-ipca-2026-esta-em-515-2062026-go/",
-      "time": "2026-07-20T13:39:27Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2026/03/bfc933fb-4096-2731-max-jpg.webp"
-    },
-    {
-      "title": "Estágios, trainees e IA: por que empresas precisam repensar a formação de jovens profissionais",
-      "summary": "Estudo mostra que a maioria das empresas brasileiras ainda não definiu como adaptar programas de talentos ao avanço da inteligência artificial",
+      "title": "As marcas mais relevantes entenderam algo que o mercado esqueceu",
+      "summary": "No Native Advertising Days London, líderes globais mostraram por que contexto, confiança e histórias valem mais do que alcance",
       "source": "Exame",
-      "url": "https://exame.com/inteligencia-artificial/estagios-trainees-e-ia-por-que-empresas-precisam-repensar-a-formacao-de-jovens-profissionais/",
-      "time": "2026-07-20T17:10:50Z",
+      "url": "https://exame.com/marketing/as-marcas-mais-relevantes-entenderam-algo-que-o-mercado-esqueceu/",
+      "time": "2026-07-20T17:59:13Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/16437.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/NAD26_Global-30.jpg"
     },
     {
-      "title": "Com 25,2 milhões de participantes, Bolão do Mercado Pago entra no Guinness",
-      "summary": "Ao todo, a iniciativa registrou 966 milhões de palpites ao longo da Copa do Mundo",
-      "source": "Exame",
-      "url": "https://exame.com/marketing/com-252-milhoes-de-participantes-bolao-do-mercado-pago-entra-no-guinness/",
-      "time": "2026-07-20T17:08:22Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/Felipe-Castano-head-de-growth-marketing-do-Mercado-Pago.jpg"
-    },
-    {
-      "title": "US$ 497 bilhões e um novo endereço: BTG Pactual cruza o Prata e inicia operações no Uruguai",
-      "summary": "Cifra corresponde aos ativos sob gestão do maior banco de investimentos da América Latina, que assumiu o HSBC local",
-      "source": "Exame",
-      "url": "https://exame.com/invest/btg-insights/us-497-bilhoes-e-um-novo-endereco-btg-pactual-cruza-o-prata-e-inicia-operacoes-no-uruguai/",
-      "time": "2026-07-20T17:02:01Z",
-      "cat": "analise",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2017/03/thinkstockphotos-501912859-e1490721327919.jpg"
-    },
-    {
-      "title": "Opinião: o tarifaço vai criar oportunidades para o varejo",
-      "summary": "A taxa de 25% imposta pelos EUA vai além das exportações e exigirá estratégia do varejo brasileiro para conter a alta do câmbio e estoques",
-      "source": "Exame",
-      "url": "https://exame.com/bussola/opiniao-o-tarifaco-vai-criar-oportunidades-para-o-varejo/",
-      "time": "2026-07-20T17:00:46Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/Tarifas-vao-beneficiar-o-varejo-Rokas-Tenys.jpg"
-    },
-    {
-      "title": "Práticas informais aumentam riscos de crimes financeiros",
-      "summary": "Especialistas alertam que operações como aceitar pagamentos de terceiros ou realizar vendas sem nota fiscal podem servir de base para investigações por lavagem de dinheiro",
-      "source": "Exame",
-      "url": "https://exame.com/esferabrasil/praticas-informais-aumentam-riscos-de-crimes-financeiros/",
-      "time": "2026-07-20T16:47:35Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2021/04/DJI_0081.jpg"
-    },
-    {
-      "title": "Ações da Alcoa reduzem perdas após medida de Trump sobre tarifas de alumínio",
+      "title": "Rússia - Ações fecharam o pregão em alta e o Índice MOEX Russia Index avançou 1,99%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-alcoa-reduzem-perdas-apos-medida-de-trump-sobre-tarifas-de-aluminio-93CH-2007328",
-      "time": "2026-07-20T20:01:51Z",
+      "url": "https://br.investing.com/news/stock-market-news/russia--acoes-fecharam-o-pregao-em-alta-e-o-indice-moex-russia-index-avancou-199-2007438",
+      "time": "2026-07-20T21:20:20Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB4P0E4_M.jpg"
+    },
+    {
+      "title": "Índices de Wall Street caem, com Irã e temporada de divulgação de resultados  em foco",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/sp-500-registra-leve-queda-com-ira-e-temporada-de-resultados-financeiros-em-foco-2007390",
+      "time": "2026-07-20T21:14:26Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Ações da Magnolia Oil & Gas caem com oferta de ações de US$ 1 bi",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-magnolia-oil--gas-caem-com-oferta-de-acoes-de-us-1-bi-93CH-2007430",
+      "time": "2026-07-20T21:11:10Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Ações da Karman Space & Defense caem apesar de aquisição de US$ 94 mi no Reino Unido",
+      "title": "Ibovespa fecha em queda com menor liquidez e foco no Oriente Médio",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-karman-space--defense-caem-apesar-de-aquisicao-de-us-94-mi-no-reino-unido-93CH-2007325",
-      "time": "2026-07-20T19:52:46Z",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-fecha-praticamente-estavel-com-menor-liquidez-e-foco-no-oriente-medio-2007347",
+      "time": "2026-07-20T20:42:09Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+      "image": null
     },
     {
-      "title": "Ações da Ondas sobem com contrato de defesa australiano de US$ 6,9 mi",
+      "title": "E.U.A. - Ações fecharam o pregão em queda e o Índice Dow Jones Industrial Average recuou 0,59%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-ondas-sobem-com-contrato-de-defesa-australiano-de-us-69-mi-93CH-2007323",
-      "time": "2026-07-20T19:47:22Z",
+      "url": "https://br.investing.com/news/stock-market-news/eua--acoes-fecharam-o-pregao-em-queda-e-o-indice-dow-jones-industrial-average-recuou-059-2007383",
+      "time": "2026-07-20T20:31:32Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+      "image": null
     },
     {
-      "title": "Ações da Diana Shipping sobem com novo contrato de afretamento",
+      "title": "Canadá - Ações fecharam o pregão em queda e o Índice S&P/TSX recuou 0,86%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-diana-shipping-sobem-com-novo-contrato-de-afretamento-93CH-2007321",
-      "time": "2026-07-20T19:44:56Z",
+      "url": "https://br.investing.com/news/stock-market-news/canada--acoes-fecharam-o-pregao-em-queda-e-o-indice-sptsx-recuou-086-2007382",
+      "time": "2026-07-20T20:30:47Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+      "image": null
     },
     {
-      "title": "Ações da Amentum sobem com seleção para projeto de IA do DOE",
+      "title": "Brasil - Ações fecharam o pregão em queda e o Índice Bovespa recuou 0,20%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-amentum-sobem-com-selecao-para-projeto-de-ia-do-doe-93CH-2007315",
-      "time": "2026-07-20T19:36:35Z",
+      "url": "https://br.investing.com/news/stock-market-news/brasil--acoes-fecharam-o-pregao-em-queda-e-o-indice-bovespa-recuou-020-2007380",
+      "time": "2026-07-20T20:30:21Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Ações da Nuvation Bio sobem com expansão do estudo de safusidenib",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-nuvation-bio-sobem-com-expansao-do-estudo-de-safusidenib-93CH-2007313",
-      "time": "2026-07-20T19:32:20Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Ações de embalagem para ficar de olho, segundo o Bank of America",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-de-embalagem-para-ficar-de-olho-segundo-o-bank-of-america-93CH-2007310",
-      "time": "2026-07-20T19:27:37Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Ações da Kalaris Therapeutics caem apesar de nomeação de nova CFO",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-kalaris-therapeutics-caem-apesar-de-nomeacao-de-nova-cfo-93CH-2007309",
-      "time": "2026-07-20T19:27:35Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+      "image": null
     }
   ],
-  "atualizado_em": "20/07/2026 20:19"
+  "atualizado_em": "20/07/2026 21:42"
 }
