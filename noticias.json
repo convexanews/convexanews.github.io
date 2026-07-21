@@ -13,6 +13,16 @@
   },
   "featured": [
     {
+      "title": "Ibovespa e dólar hoje: mercado no compasso do Oriente Médio e do Fed",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-mercado-no-compasso-do-oriente-medio-e-do-fed-2007316",
+      "time": "2026-07-21T02:20:11Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": null
+    },
+    {
       "title": "Ibovespa cai pelo quinto pregão seguido com pressão de Vale (VALE3)",
       "summary": "O Ibovespa encerrou esta segunda-feira (20) em queda, registrando o quinto pregão consecutivo no vermelho. Após ensaiar uma recuperação pela manhã e voltar a superar os 174 mil pontos, o principal índice da B3 perdeu for",
       "source": "Suno",
@@ -23,60 +33,58 @@
         "VALE3"
       ],
       "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
-    },
-    {
-      "title": "Ibovespa e dólar hoje: mercado no compasso do Oriente Médio e do Fed",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-mercado-no-compasso-do-oriente-medio-e-do-fed-2007316",
-      "time": "2026-07-20T21:30:02Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": null
     }
   ],
   "all": [
     {
-      "title": "Irmãos criam negócio com picape de US$ 4 mil e faturam mais de US$ 3 milhões nos EUA",
-      "summary": "Empresa de retirada de entulho e revenda de usados nasceu na pandemia, cresceu com apoio das redes sociais e agora planeja expandir a operação",
+      "title": "Em meio a tarifaço, Alckmin diz que exportações à Europa cresceram R$ 10 bi",
+      "summary": "Com apenas dois meses de vigência de acordo Mercosul-UE, houve um aumento de 26% nas exportações em comparação ao mesmo período de 2025",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/business/irmaos-criam-negocio-com-picape-de-us-4-mil-e-faturam-mais-de-us-3-milhoes-nos-eua/",
-      "time": "2026-07-20T22:50:53Z",
+      "url": "https://www.infomoney.com.br/mercados/em-meio-a-tarifaco-alckmin-diz-que-exportacoes-a-europa-cresceram-r-10-bi/",
+      "time": "2026-07-21T02:14:19Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Captura-de-tela-2026-07-20-194814.png?fit=300%2C217&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/55130728686_c1386d1cc7_c.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Moraes arquiva investigação contra Bolsonaro no caso Abin Paralela",
-      "summary": "Ministro entendeu que condenação na trama golpista já incluiu acusação",
+      "title": "Relator da CPI do Crime Organizado chama decisão da PGR de ‘tentativa de intimidação’",
+      "summary": "Paulo Gonet encaminhou à Procuradoria Eleitoral de Sergipe uma representação do ministro Gilmar Mendes, do STF, contra o Alessandro Vieira",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/moraes-arquiva-investigacao-contra-bolsonaro-no-caso-abin-paralela/",
-      "time": "2026-07-20T22:39:12Z",
+      "url": "https://www.infomoney.com.br/politica/relator-da-cpi-do-crime-organizado-chama-decisao-da-pgr-de-tentativa-de-intimidacao/",
+      "time": "2026-07-21T02:02:33Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/0d7a7436.webp?fit=300%2C179&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2022/11/52144118823_0b0ce2e1d5_c-e1758730770503.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "TRXF11 anuncia investimento de R$ 1,4 bilhão em complexo logístico em Guarulhos (SP)",
-      "summary": "Dois dos três galpões do complexo em Guarulhos já estão locados ao Mercado Livre; operação elevará em 19% a ABL do fundo",
+      "title": "Federação PSDB-Cidadania oficializa candidatura de Ciro Gomes ao governo do Ceará",
+      "summary": "Ciro Gomes vai competir contra a chapa de seu irmão Cid Gomes, que foi escolhido pelo presidente Luiz Inácio Lula da Silva (PT)",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/onde-investir/trxf11-anuncia-investimento-de-r-14-bilhao-em-complexo-logistico-em-guarulhos/",
-      "time": "2026-07-20T22:30:25Z",
-      "cat": "acoes",
-      "tickers": [
-        "TRXF11"
-      ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/galpao-logistico.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Fifa abre investigação sobre briga após final entre Espanha e Argentina",
-      "summary": "Entidade nomeou um promotor disciplinar e de ética para apurar a confusão generalizada após a vitória espanhola por 1 a 0 na prorrogação",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/esportes/fifa-abre-investigacao-sobre-briga-apos-final-entre-espanha-e-argentina/",
-      "time": "2026-07-20T22:17:21Z",
+      "url": "https://www.infomoney.com.br/politica/federacao-psdb-cidadania-oficializa-candidatura-de-ciro-gomes-ao-governo-do-ceara/",
+      "time": "2026-07-21T01:49:59Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-19T220932Z_1412782405_UP1EM7J1PBX28_RTRMADP_3_SOCCER-WORLDCUP-ESP-ARG.jpg?fit=300%2C184&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Captura-de-tela-2026-05-16-184833.png?fit=300%2C185&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Flávio Bolsonaro: Espero em breve contar com federação União-PP em âmbito nacional",
+      "summary": "Há meses, Flávio tenta captar o apoio de PP e União Brasil, mas as investigações sobre o Master esfriaram as conversas",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/flavio-bolsonaro-espero-em-breve-contar-com-federacao-uniao-pp-em-ambito-nacional/",
+      "time": "2026-07-21T01:40:40Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/flavio-bolsonaro-politico-pl.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Lotofácil hoje, concurso 3740: confira o resultado sorteado nesta segunda (20)",
+      "summary": "O prêmio estimado para este concurso era de R$ 10 milhões",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/lotofacil-hoje-concurso-3740-confira-o-resultado-sorteado-nesta-segunda-20/",
+      "time": "2026-07-21T00:09:26Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/11-09-2020_loteria-4.webp?fit=300%2C225&amp;quality=70&amp;strip=all"
     },
     {
       "title": "Para manter nome, Nubank (ROXO34) compra banco carioca com 3 décadas de estrada",
@@ -157,6 +165,16 @@
       "image": "https://www.moneytimes.com.br/uploads/2026/07/dolar-estrangeiros-1.jpg"
     },
     {
+      "title": "EXES11 pagará dividendos com yield de 1,35%; confira valor",
+      "summary": "O fundo imobiliário (FII) EXES11 aprovou a distribuição de R$ 0,13 por cota em rendimentos aos cotistas, conforme comunicado ao mercado. O valor será creditado aos investidores que estiverem aptos segundo a data-base def",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/exes11-pagara-dividendos-com-yield-de-135-confira-valor/",
+      "time": "2026-07-21T00:55:04Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/153_Detalhe_de_gr_fico_f_1_2026017_173633-4-jpg.webp"
+    },
+    {
       "title": "SNME11 avança 1,40% em momento de crescimento da base de investidores dos FIIs",
       "summary": "As cotas do fundo imobiliário SNME11 fecharam o pregão desta segunda-feira a R$ 9,43, avanço de 1,40% em relação ao dia anterior. A movimentação ocorreu após a divulgação de novos dados da B3 que apontam a continuidade d",
       "source": "Suno",
@@ -203,95 +221,115 @@
       "image": "https://files.sunoresearch.com.br/n/uploads/2022/02/klabin-4.jpg"
     },
     {
-      "title": "Trump assina decreto que altera tarifas sobre importações de alumínio dos EUA",
-      "summary": "Casa Branca afirma que a demanda por alumínio primário supera a capacidade de produção do país e cria programa para estimular novos investimentos",
+      "title": "Quantas xícaras de café por dia fazem bem ao coração? Nova revisão traz a resposta",
+      "summary": "Análise de dezenas de estudos indica que o consumo moderado da bebida está associado a menor risco de infarto, AVC e insuficiência cardíaca",
       "source": "Exame",
-      "url": "https://exame.com/mundo/trump-assina-decreto-que-altera-tarifas-sobre-importacoes-de-aluminio-dos-eua/",
-      "time": "2026-07-20T20:05:30Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/AFP__20260720__C2LM346__v1__HighRes__UsPoliticsTrump.jpg"
-    },
-    {
-      "title": "Fifa distribui premiação milionária na Copa do Mundo de 2026; confira o ranking",
-      "summary": "Título rende US$ 50 milhões à Espanha, e todas as 48 seleções deixam o torneio com uma recompensa financeira",
-      "source": "Exame",
-      "url": "https://exame.com/esporte/fifa-distribui-premiacao-milionaria-na-copa-do-mundo-de-2026-confira-o-ranking/",
-      "time": "2026-07-20T19:29:14Z",
+      "url": "https://exame.com/ciencia/quantas-xicaras-de-cafe-por-dia-fazem-bem-ao-coracao-nova-revisao-traz-a-resposta/",
+      "time": "2026-07-20T22:37:03Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/yamal-com-a-taca.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/05/GettyImages-2201717514.jpg"
     },
     {
-      "title": "China aposta em fibra óptica que transmite dados mais rápido para aplicações de IA",
-      "summary": "O material foi incluído como prioridade no Plano de Desenvolvimento do Setor Chinês de Cabos Ópticos e Dispositivos Optoeletrônicos",
+      "title": "Aprovações de medicamentos contra o câncer na China superam as dos EUA, diz estudo",
+      "summary": "Dados mostram que China autorizou 94 novos medicamentos oncológicos entre 2020 e 2025, ante 87 nos Estados Unidos",
       "source": "Exame",
-      "url": "https://exame.com/tecnologia/china-aposta-em-fibra-optica-que-transmite-dados-mais-rapido-para-aplicacoes-de-ia/",
-      "time": "2026-07-20T19:23:02Z",
+      "url": "https://exame.com/ciencia/aprovacoes-de-medicamentos-contra-o-cancer-na-china-superam-as-dos-eua-diz-estudo/",
+      "time": "2026-07-20T21:11:06Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2023/06/inteligencia-artificial-1.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2025/09/remedios.jpg"
     },
     {
-      "title": "Como o 'method dressing' reviveu a alta-costura no tapete vermelho",
-      "summary": "Da mitologia grega de Zendaya em 'A Odisseia' ao minimalismo de liderança de Olivia Wilde, a escolha de roupas em turnês promocionais virou extensão direta das telas e estratégia de comunicação",
+      "title": "Missão suicida? Estrela de 'A Casa do Dragão' dá pistas sobre o destino de Criston Cole",
+      "summary": "Em entrevista à revista americana, Fabien Frankel comenta a transformação do personagem e promete um dos confrontos mais intensos da série",
       "source": "Exame",
-      "url": "https://exame.com/casual/como-o-method-dressing-reviveu-a-alta-costura-no-tapete-vermelho/",
-      "time": "2026-07-20T19:09:37Z",
-      "cat": "cripto",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/AFP__20260714__C27W8ZG__v4__HighRes__TheOdysseyNewYorkPremiere.jpg"
-    },
-    {
-      "title": "EUA condenam ações da China contra a marinha das Filipinas no Mar do Sul da China",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/eua-condenam-acoes-da-china-contra-a-marinha-das-filipinas-no-mar-do-sul-da-china-93CH-2007477",
-      "time": "2026-07-20T23:43:06Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Inflação do 2º tri na Nova Zelândia sobe mais que o esperado, a 4,1%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/inflacao-do-2o-tri-na-nova-zelandia-sobe-mais-que-o-esperado-a-41-93CH-2007473",
-      "time": "2026-07-20T23:30:55Z",
+      "url": "https://exame.com/pop/missao-suicida-estrela-de-a-casa-do-dragao-da-pistas-sobre-o-destino-de-criston-cole/",
+      "time": "2026-07-20T21:02:06Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Juíza aprova acordo de US$1,5 bi da Anthropic em caso de violação de direitos autorais",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/juiza-aprova-acordo-de-us15-bi-da-anthropic-em-caso-de-violacao-de-direitos-autorais-2007469",
-      "time": "2026-07-20T23:21:09Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB65083_M.jpg"
-    },
-    {
-      "title": "México - Ações fecharam o pregão em queda e o Índice S&P/BMV IPC recuou 0,77%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/mexico--acoes-fecharam-o-pregao-em-queda-e-o-indice-spbmv-ipc-recuou-077-2007442",
-      "time": "2026-07-20T21:30:19Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/Mexican_Stock_Exchange_M_1440056303.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/fabien-frankel-house-of-the-dragon-1.webp"
     },
     {
       "title": "Ibovespa e dólar hoje: mercado no compasso do Oriente Médio e do Fed",
       "summary": "",
       "source": "Investing.com",
       "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-mercado-no-compasso-do-oriente-medio-e-do-fed-2007316",
-      "time": "2026-07-20T21:30:02Z",
+      "time": "2026-07-21T02:20:11Z",
       "cat": "economia",
       "tickers": [],
       "image": null
+    },
+    {
+      "title": "Ouro supera US$ 4.000 com tensões no Oriente Médio e Fed em foco",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/ouro-supera-us-4000-com-tensoes-no-oriente-medio-e-fed-em-foco-2007521",
+      "time": "2026-07-21T01:52:07Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Ações da Telix Pharmaceuticals disparam após resultados sólidos",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-telix-pharmaceuticals-disparam-apos-resultados-solidos-93CH-2007510",
+      "time": "2026-07-21T01:12:33Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "NVIDIA revela participação de 9,3% na empresa de neocloud Nebius",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/nvidia-revela-participacao-de-93-na-empresa-de-neocloud-nebius-2007507",
+      "time": "2026-07-21T01:01:31Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "SEC deve avançar com proposta de relatórios semestrais apesar da oposição",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/sec-deve-avancar-com-proposta-de-relatorios-semestrais-apesar-da-oposicao-2007504",
+      "time": "2026-07-21T00:54:14Z",
+      "cat": "analise",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Por que as ações da Nebius estão subindo no after-hours hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-nebius-estao-subindo-no-afterhours-hoje-93CH-2007503",
+      "time": "2026-07-21T00:52:39Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Futuros americanos estáveis com tensões com o Irã e resultados de big techs em foco",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/futuros-americanos-estaveis-com-tensoes-com-o-ira-e-resultados-de-big-techs-em-foco-2007501",
+      "time": "2026-07-21T00:45:24Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Bolsa de valores de Londres vai lançar plataforma de negociação noturna em 2027",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/bolsa-de-valores-de-londres-vai-lancar-plataforma-de-negociacao-noturna-em-2027-2007497",
+      "time": "2026-07-21T00:38:01Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "20/07/2026 23:57"
+  "atualizado_em": "21/07/2026 02:47"
 }
