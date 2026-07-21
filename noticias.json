@@ -1,93 +1,154 @@
 {
   "headline": {
-    "title": "Bitcoin (BTC) em disparada? Até onde a criptomoeda pode chegar, segundo especialistas",
-    "summary": "O bitcoin (BTC) voltou a ganhar força e alcançou a marca de US$ 66 mil nesta terça-feira (21), em uma alta que, para José Artur Ribeiro, CEO da Coinext, tem sustentação real, mas que ainda precisa provar que veio para fi",
+    "title": "Ibovespa perde carona com Wall Street e fecha em baixa de olho em Vale (VALE3); dólar recua a R$ 5,07",
+    "summary": "O Ibovespa (IBOV) fechou em ligeira baixa, perdendo carona no otimismo do exterior, enquanto a Petrobras (PETR4) limitou a queda do índice. Nesta terça-feira (21), o principal índice da bolsa brasileira terminou as negoc",
     "source": "Money Times",
-    "url": "https://www.moneytimes.com.br/bitcoin-btc-em-disparada-ate-onde-a-criptomoeda-pode-chegar-segundo-especialistas-igdl/",
-    "time": "2026-07-21T18:50:48Z",
-    "cat": "cripto",
+    "url": "https://www.moneytimes.com.br/ibovespa-21-7-26-apsa/",
+    "time": "2026-07-21T20:25:40Z",
+    "cat": "economia",
     "tickers": [
-      "BTC"
+      "VALE3",
+      "PETR4"
     ],
-    "image": "https://www.moneytimes.com.br/uploads/2026/07/bitcoin-btc-em-disparada-de-precos-imagem-chatgpt.png"
+    "image": "https://www.moneytimes.com.br/uploads/2026/07/ibovespa.jpg"
   },
   "featured": [
     {
-      "title": "MBRF (MBRF3) dispara no Ibovespa após aprovar cancelamento de ações em tesouraria",
-      "summary": "As ações da MBRF (MBRF3) estão entre as maiores altas do Ibovespa nesta terça-feira (21), após a companhia informar ao mercado o cancelamento de ações mantidas em tesouraria. Por volta das 13h, as ações da MBRF subiam 4,",
+      "title": "Ibovespa fecha estável e perde fôlego mesmo com alta de Petrobras (PETR4)",
+      "summary": "O Ibovespa encerrou o pregão desta terça-feira (21) praticamente estável, descolando do desempenho positivo de Wall Street. O principal índice da B3 fechou com leve baixa de 0,03%, aos 173.325,65 pontos, após oscilar ent",
       "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/mbrf-mbrf3-cancelamento-acoes-tesouraria-alta-ibovespa-go/",
-      "time": "2026-07-21T16:55:13Z",
+      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-21-julho-2026-petr4-vale3-mt/",
+      "time": "2026-07-21T21:15:05Z",
       "cat": "acoes",
       "tickers": [
-        "MBRF3"
+        "PETR4"
       ],
       "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     },
     {
-      "title": "Petrobras (PETR4) ou PRIO (PRIO3): quem vence esse duelo do petróleo?",
-      "summary": "No duelo das petroleiras da Bolsa, a disputa coloca frente a frente duas teses bem diferentes. De um lado, a Petrobras (PETR4), gigante estatal, mais barata nos múltiplos e pagadora de dividendos. Do outro, a PRIO (PRIO3",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/petrobras-petr4-prio-prio3-indicadores-petroleo-mt/",
-      "time": "2026-07-21T19:35:06Z",
-      "cat": "internacional",
-      "tickers": [
-        "PETR4",
-        "PRIO3"
-      ],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/ChatGPT-Image-21-de-jul.-de-2026-16_14_21-png.webp"
+      "title": "Ibovespa anda de lado e tem leve queda; dólar recua de novo, agora a R$ 5,07",
+      "summary": "Índices nos EUA fecham em alta, de olho nos balanços de tecnologia",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-21072026/",
+      "time": "2026-07-21T20:34:50Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-18-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     }
   ],
   "all": [
     {
-      "title": "“Privatiza tudo”: Zema defende transformar Petrobras em “corporation”",
-      "summary": "Ao ser questionado sobre a necessidade de proteção no setor energético contra crises internacionais, Zema comparou setor produtivo com o de alimentos, que produz com eficiência \"sem Alimentobras\"",
+      "title": "Ibovespa: petróleo minimiza perdas do índice, mas não evita 5ª queda seguida",
+      "summary": "A lista das maiores quedas foi dominada por papéis cíclicos",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/privatiza-tudo-zema-defende-transformar-petrobras-em-corporation/",
-      "time": "2026-07-21T19:42:07Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/romeu-zema-governador-minas-gerais-politica-novo03.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Airbus quer quase dobrar lucro até 2029 e lança programa de recompra de ações",
-      "summary": "A meta representa quase o dobro dos 7,13 bilhões de euros de lucro ajustado antes de juros e ⁠impostos ‌gerados em 2025 e está bem acima do objetivo ⁠para 2026",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/business/airbus-quer-quase-dobrar-lucro-ate-2029-e-lanca-programa-de-recompra-de-acoes/",
-      "time": "2026-07-21T19:38:27Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-08T125727Z_1_LYNXMPEM670PM_RTROPTP_4_AIRBUS-DELIVERIES.jpg?fit=300%2C199&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "BlackRock x BlackRock: dívida da Aston Martin coloca áreas da gestora em oposição",
-      "summary": "Enquanto fundos de renda fixa da gestora se unem a credores da montadora, a HPS, braço de crédito privado adquirido pela própria BlackRock, negocia um aporte que pode enfraquecer a posição dos investidores atuais",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/blackrock-x-blackrock-divida-da-aston-martin-coloca-areas-da-gestora-em-conflito/",
-      "time": "2026-07-21T19:12:42Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2022/03/Aston-Martin-concessionaria-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "IA chinesa Moonshot negocia rodada pré-IPO com valuation de até US$ 50 bilhões",
-      "summary": "Embalada pela repercussão do modelo Kimi K3, startup chinesa de inteligência artificial prepara nova rodada de captação antes do IPO em Hong Kong",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ia-chinesa-moonshot-negocia-rodada-pre-ipo-com-valuation-de-ate-us-50-bilhoes/",
-      "time": "2026-07-21T19:09:59Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/461087279.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Petróleo fecha em alta com ameaças à navegação no Estreito de Bab-el-Mandeb",
-      "summary": "Os temores de interrupção no fluxo de energia global e o risco de o barril atingir US$ 120 impulsionaram os preços, superando os sinais de tentativa de mediação",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-21072026/",
-      "time": "2026-07-21T19:09:36Z",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-petroleo-minimiza-perdas-do-indice-mas-nao-evita-5a-queda-seguida/",
+      "time": "2026-07-21T21:04:42Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-11T111734Z_1_LYNXMPEM2A0PZ_RTROPTP_4_IRAN-CRISIS-OIL.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2021/11/DSC_2811.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Bolsas da NY sobem com impulso de semicondutores, mas com balanços e guerra no radar",
+      "summary": "O Dow Jones subiu 0,74%, em 52.223,93 pontos. O SP 500 ganhou 0,89%, nos 7.509,20 pontos. E o Nasdaq teve alta de 1,29%, encerrando em 25.837,21 pontos",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/bolsas-da-ny-sobem-com-impulso-de-semicondutores-mas-com-balancos-e-guerra-no-radar/",
+      "time": "2026-07-21T20:51:40Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/438121626.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Embraer soma US$ 1,2 bi em pedidos em feira inglesa de aviação, calculam bancos",
+      "summary": "Citi e Santander avaliam que o pedido de 28 novos aviões faz crescer carteira de pedidos em 8% em relação ao primeiro trimestre de 2026",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/embraer-soma-us-12-bi-em-pedidos-em-feira-inglesa-de-aviacao-calculam-bancos/",
+      "time": "2026-07-21T20:49:57Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/07/Captura-de-tela-2024-07-25-135051.png?fit=300%2C199&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Hypera e Rede D’Or: por que as ações foram as maiores quedas do Ibovespa nesta terça",
+      "summary": "Mercado tem cautela com números das companhias e reagem à sanção de lei que institui o CEIS",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/hypera-hype3-e-rede-dor-rdor3-por-que-as-acoes-foram-as-maiores-quedas-do-ibovespa-nesta-terca/",
+      "time": "2026-07-21T20:40:30Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/barra_dor.webp?fit=300%2C169&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Ibovespa anda de lado e tem leve queda; dólar recua de novo, agora a R$ 5,07",
+      "summary": "Índices nos EUA fecham em alta, de olho nos balanços de tecnologia",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-21072026/",
+      "time": "2026-07-21T20:34:50Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-18-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Dólar hoje cai 0,31%, a R$ 5,07, em dia de notícias conflitantes no Oriente Médio",
+      "summary": "O dólar à vista encerrou a sessão de segunda-feira com baixa de 0,42%, aos R$5,0896.",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-21072026/",
+      "time": "2026-07-21T20:31:55Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-22T221253Z_1_LYNXNPEL8L0XW_RTROPTP_4_DOLAR-ABRE.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Juros futuros têm tímida alta na esteira de títulos dos EUA",
+      "summary": "A curva de juros futuros acompanhou a abertura dos títulos do Tesouro dos EUA e fechou em leve alta em todos os vencimentos. A taxa de Depósito Interfinanceiro (DI) para janeiro de 2027, de curtíssimo prazo, subiu 2 pont",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/juros-futuros-tem-timida-alta-na-esteira-de-titulos-dos-eua-lils/",
+      "time": "2026-07-21T21:17:36Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/porcentagem.jpg"
+    },
+    {
+      "title": "Fictor: Gestora ligada a primo de Vorcaro e a Tanure administrou fundos criados em outubro e liquidados menos de 2 meses depois",
+      "summary": "A LAD Capital, gestora que aparece como prestadora de serviços a estruturas ligadas ao primo de Daniel Vorcaro, Felipe Cançado Vorcaro, e que foi apontada como representante de Nelson Tanure em movimentações na Gafisa (G",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/gestora-ligada-a-fundos-de-primo-de-vorcaro-e-a-tanure-administrou-fundos-da-fictor-criados-em-outubro-e-liquidados-tres-meses-depois-vtra/",
+      "time": "2026-07-21T21:00:06Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/02/fictor-e1782255282491.jpg"
+    },
+    {
+      "title": "Ibovespa perde carona com Wall Street e fecha em baixa de olho em Vale (VALE3); dólar recua a R$ 5,07",
+      "summary": "O Ibovespa (IBOV) fechou em ligeira baixa, perdendo carona no otimismo do exterior, enquanto a Petrobras (PETR4) limitou a queda do índice. Nesta terça-feira (21), o principal índice da bolsa brasileira terminou as negoc",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ibovespa-21-7-26-apsa/",
+      "time": "2026-07-21T20:25:40Z",
+      "cat": "economia",
+      "tickers": [
+        "VALE3",
+        "PETR4"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/ibovespa.jpg"
+    },
+    {
+      "title": "Wall Street avança com apoio de ações de chips; S&P 500 interrompe sequência de perdas",
+      "summary": "Os índices de Wall Street encerraram o pregão desta terça-feira (21) com apoio das ações de semicondutores, enquanto os desdobramentos do conflito no Oriente Médio ficou em segundo plano. Em destaque, o SP 500 interrompe",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/wall-street-fechamento-21-7-26-lils/",
+      "time": "2026-07-21T20:11:49Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/2026-07-20t202911z-1-lynxmpem6j1mk-rtroptp-4-usa-stocks.jpg"
+    },
+    {
+      "title": "Dólar recua a R$ 5,07 favorecido por expectativa de um cessar-fogo temporário entre Irã e Israel",
+      "summary": "O dólar à vista recuou ante o real como reflexo de um ambiente externo positivo para ativos de risco. Nesta terça-feira (21), o dólar à vista terminou as negociações a R$ 5,0737, em queda de 0,31%. O dólar destoou da div",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/dolar-recua-a-r-507-com-alivio-geopolitico/",
+      "time": "2026-07-21T20:07:17Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/12/dolar-cambio.jpg"
     },
     {
       "title": "Petróleo avança e fecha no maior nível em 5 semanas com Oriente Médio em foco",
@@ -110,36 +171,26 @@
       "image": "https://www.moneytimes.com.br/uploads/2026/07/vale-alta-vale3.png"
     },
     {
-      "title": "STJ marca julgamento de Marco Buzzi, ministro acusado de assédio e importunação sexual",
-      "summary": "O presidente do Superior Tribunal de Justiça (STJ), Herman Benjamin, agendou para o dia 6 de agosto o julgamento do ministro afastado da Corte, Marco Buzzi, acusado de cometer assédio e importunação sexual contra duas mu",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/stj-marca-julgamento-de-marco-buzzi-ministro-acusado-de-assedio-e-importunacao-sexual-gaep/",
-      "time": "2026-07-21T19:18:09Z",
+      "title": "Ibovespa fecha estável e perde fôlego mesmo com alta de Petrobras (PETR4)",
+      "summary": "O Ibovespa encerrou o pregão desta terça-feira (21) praticamente estável, descolando do desempenho positivo de Wall Street. O principal índice da B3 fechou com leve baixa de 0,03%, aos 173.325,65 pontos, após oscilar ent",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-21-julho-2026-petr4-vale3-mt/",
+      "time": "2026-07-21T21:15:05Z",
+      "cat": "acoes",
+      "tickers": [
+        "PETR4"
+      ],
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
+    },
+    {
+      "title": "Por que as ações da Oracle (ORCL34) caíram 50% desde junho? Entenda",
+      "summary": "As ações da Oracle (ORCL34) estão operando em alta nesta terça-feira (21), mas o movimento pontual não é suficiente para reverter as fortes perdas acumuladas nas últimas semanas. Por volta das 16h (horário de Brasília), ",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/oracle-orcl-acoes-sobem-mas-acumulam-queda-50-junho-go/",
+      "time": "2026-07-21T20:05:09Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/17407868412-30e86a2f4c-o-e1784661152943.jpg"
-    },
-    {
-      "title": "Bitcoin (BTC) em disparada? Até onde a criptomoeda pode chegar, segundo especialistas",
-      "summary": "O bitcoin (BTC) voltou a ganhar força e alcançou a marca de US$ 66 mil nesta terça-feira (21), em uma alta que, para José Artur Ribeiro, CEO da Coinext, tem sustentação real, mas que ainda precisa provar que veio para fi",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bitcoin-btc-em-disparada-ate-onde-a-criptomoeda-pode-chegar-segundo-especialistas-igdl/",
-      "time": "2026-07-21T18:50:48Z",
-      "cat": "cripto",
-      "tickers": [
-        "BTC"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/bitcoin-btc-em-disparada-de-precos-imagem-chatgpt.png"
-    },
-    {
-      "title": "Ouro ignora força do dólar e fecha em alta",
-      "summary": "O ouro encerrou em alta nesta terça-feira (21), beneficiado pela recompra após quedas recentes e em meio à expectativa de avanço nas negociações entre Estados Unidos e Irã. Na Comex, divisão de metais da bolsa de Nova Yo",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ouro-21-7-26-lils/",
-      "time": "2026-07-21T18:36:38Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/04/aura-minerals-negociacao-de-ouro-barras-de-ouro-com-estoque-grafico-credito-da-imagem-e-crowistockphoto-id-da-foto-2219056031.png"
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/boliviainteligente-ykpxtjAPmMk-unsplash-jpg.webp"
     },
     {
       "title": "Petrobras (PETR4) ou PRIO (PRIO3): quem vence esse duelo do petróleo?",
@@ -189,100 +240,125 @@
       "image": "https://files.sunoresearch.com.br/n/uploads/2026/07/3d-graph-computer-illustration-scaled.webp"
     },
     {
-      "title": "Rendimento do VGIR11 supera o CDI; confira as movimentações do mês",
-      "summary": "O fundo imobiliário VGIR11 registrou resultado de R$ 17,182 milhões em junho, em leve retração frente aos meses anteriores. As receitas totais alcançaram R$ 18,489 milhões, enquanto as despesas recorrentes foram de R$ 1,",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/vgir11-resultado-junho-rendimentos-carteira/",
-      "time": "2026-07-21T13:45:07Z",
-      "cat": "economia",
-      "tickers": [
-        "VGIR11"
-      ],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
-    },
-    {
-      "title": "Nubank (ROXO34) compra banco do Rio de Janeiro para manter “bank” no nome",
-      "summary": "O Nubank (ROXO34) anunciou nesta segunda-feira (20) a aquisição do Banco Porto Real de Investimentos S.A., instituição financeira do Rio de Janeiro, com o objetivo de manter o uso do termo bank em sua marca. Fundado em 1",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/nubank-compra-banco-porto-real-nome-bank-go/",
-      "time": "2026-07-21T13:35:05Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/nubank-4-jpg.webp"
-    },
-    {
-      "title": "CPTS11 e mais fundos imobiliários pagam dividendos nesta terça (21)",
-      "summary": "Os fundos imobiliários CPTS11 e RZAK11 estão entre 11 FIIs que anunciam pagamentos nesta terça-feira. O CPTS11 pagará R$ 0,09 por cota e o RZAK11 distribuirá R$ 1,05 aos cotistas. Os recursos entram automaticamente na co",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/dividendos-hoje-11-fiis-pagam/",
-      "time": "2026-07-21T12:55:05Z",
-      "cat": "fundos",
-      "tickers": [
-        "CPTS11",
-        "RZAK11"
-      ],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/57_Mesa_de_escrit_rio_c_1_2026017_171414-1-jpg.webp"
-    },
-    {
-      "title": "A diretora da L’Oréal Luxo que lidera de um mercado de R$ 2,4 bi no Brasil",
-      "summary": "Marina Torres, com mais de 15 anos de experiência em perfumaria internacional, comanda 10 grifes no país e explica a estratégia da marca para atrair o público brasileiro",
+      "title": "Música de IA. Plataformas distribuem, mas quem realmente lucra? Entenda a dinâmica do novo negócio",
+      "summary": "Com a explosão das músicas criadas por inteligência artificial, artistas, plataformas e empresas disputam espaço em um mercado que movimenta milhões",
       "source": "Exame",
-      "url": "https://exame.com/casual/entrevista-loreal-luxo-mariana-torres/",
-      "time": "2026-07-21T16:49:59Z",
+      "url": "https://exame.com/inteligencia-artificial/musica-de-ia-plataformas-distribuem-mas-quem-realmente-lucra-entenda-a-dinamica-do-novo-negocio/",
+      "time": "2026-07-21T18:07:26Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/1775851730038.jpeg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/IA-na-musica-New-Africa.jpg"
     },
     {
-      "title": "OpenAI deve adicionar two membros independentes ao conselho antes do IPO",
+      "title": "Parlamento russo aprova lei que regulamenta mercado de criptomoedas",
+      "summary": "A legislação aprovada pela Duma Estatal estabelece um marco regulatório para os participantes do mercado",
+      "source": "Exame",
+      "url": "https://exame.com/future-of-money/parlamento-russo-aprova-lei-que-regulamenta-mercado-de-criptomoedas/",
+      "time": "2026-07-21T17:35:50Z",
+      "cat": "cripto",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2018/03/2018-03-26t183022z_1_lynxmp.jpg"
+    },
+    {
+      "title": "Ibovespa fecha estável e dólar cai para R$ 5,07 com petróleo acima de US$ 90",
+      "summary": "Já em NY, as bolsas encerraram o pregão em alta, impulsionadas principalmente pela recuperação das empresas de semicondutores",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/ibovespa-fecha-estavel-e-dolar-cai-para-r-507-com-petroleo-acima-de-us-90/",
+      "time": "2026-07-21T17:33:51Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2020/11/DSC2639bx.jpg"
+    },
+    {
+      "title": "Ações da Dyne Therapeutics caem com oferta de ações de US$ 300 mi",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/openai-deve-adicionar-two-membros-independentes-ao-conselho-antes-do-ipo-432SI-2008758",
-      "time": "2026-07-21T19:45:01Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-dyne-therapeutics-caem-com-oferta-de-acoes-de-us-300-mi-93CH-2008898",
+      "time": "2026-07-21T20:58:07Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Por que as ações da Vertiv estão subindo hoje?",
+      "title": "Por que as ações da Neptune Insurance estão disparando hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-vertiv-estao-subindo-hoje-93CH-2008749",
-      "time": "2026-07-21T19:40:21Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-neptune-insurance-estao-disparando-hoje-93CH-2008894",
+      "time": "2026-07-21T20:53:09Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Por que as ações da Astera Labs estão subindo hoje?",
+      "title": "Por que as ações da AAR Corp estão caindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-astera-labs-estao-subindo-hoje-93CH-2008748",
-      "time": "2026-07-21T19:39:56Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-aar-corp-estao-caindo-hoje-93CH-2008888",
+      "time": "2026-07-21T20:44:23Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "As melhores ações do setor químico para acompanhar, segundo a Bernstein",
+      "title": "Por que as ações da Pegasystems estão caindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/as-melhores-acoes-do-setor-quimico-para-acompanhar-segundo-a-bernstein-93CH-2008737",
-      "time": "2026-07-21T19:04:44Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-pegasystems-estao-caindo-hoje-93CH-2008887",
+      "time": "2026-07-21T20:44:07Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Por que as ações da SpaceX estão subindo hoje?",
+      "title": "Ações em movimento no after-hours: SMCI, OKLO, XE, PEGA, CLDX, ALK",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-spacex-estao-subindo-hoje-93CH-2008736",
-      "time": "2026-07-21T19:03:54Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-em-movimento-no-afterhours-smci-oklo-xe-pega-cldx-alk-432SI-2008876",
+      "time": "2026-07-21T20:39:01Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "E.U.A. - Ações fecharam o pregão em alta e o Índice Dow Jones Industrial Average avançou 0,74%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/eua--acoes-fecharam-o-pregao-em-alta-e-o-indice-dow-jones-industrial-average-avancou-074-2008851",
+      "time": "2026-07-21T20:31:34Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Ações da Oklo e X-Energy disparam com iniciativa de reatores nucleares",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-oklo-e-xenergy-disparam-com-iniciativa-de-reatores-nucleares-93CH-2008850",
+      "time": "2026-07-21T20:31:01Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Canadá - Ações fecharam o pregão em alta e o Índice S&P/TSX avançou 1,17%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/canada--acoes-fecharam-o-pregao-em-alta-e-o-indice-sptsx-avancou-117-2008849",
+      "time": "2026-07-21T20:30:47Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Brasil - Ações fecharam o pregão em queda e o Índice Bovespa recuou 0,03%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/brasil--acoes-fecharam-o-pregao-em-queda-e-o-indice-bovespa-recuou-003-2008848",
+      "time": "2026-07-21T20:30:20Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEF1H0SH_M.jpg"
     }
   ],
-  "atualizado_em": "21/07/2026 20:01"
+  "atualizado_em": "21/07/2026 21:21"
 }
