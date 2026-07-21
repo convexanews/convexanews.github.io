@@ -13,16 +13,6 @@
   },
   "featured": [
     {
-      "title": "Ibovespa e dólar hoje: mercado no compasso do Oriente Médio e do Fed",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-mercado-no-compasso-do-oriente-medio-e-do-fed-2007316",
-      "time": "2026-07-21T02:20:11Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": null
-    },
-    {
       "title": "Ibovespa cai pelo quinto pregão seguido com pressão de Vale (VALE3)",
       "summary": "O Ibovespa encerrou esta segunda-feira (20) em queda, registrando o quinto pregão consecutivo no vermelho. Após ensaiar uma recuperação pela manhã e voltar a superar os 174 mil pontos, o principal índice da B3 perdeu for",
       "source": "Suno",
@@ -33,6 +23,16 @@
         "VALE3"
       ],
       "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
+    },
+    {
+      "title": "Federação PSDB-Cidadania oficializa candidatura de Ciro Gomes ao governo do Ceará",
+      "summary": "Ciro Gomes vai competir contra a chapa de seu irmão Cid Gomes, que foi escolhido pelo presidente Luiz Inácio Lula da Silva (PT)",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/federacao-psdb-cidadania-oficializa-candidatura-de-ciro-gomes-ao-governo-do-ceara/",
+      "time": "2026-07-21T01:49:59Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Captura-de-tela-2026-05-16-184833.png?fit=300%2C185&amp;quality=70&amp;strip=all"
     }
   ],
   "all": [
@@ -251,85 +251,55 @@
       "image": "https://classic.exame.com/wp-content/uploads/2026/07/fabien-frankel-house-of-the-dragon-1.webp"
     },
     {
-      "title": "Ibovespa e dólar hoje: mercado no compasso do Oriente Médio e do Fed",
+      "title": "Por que as ações da Lee & Man Paper Manufacturing disparam hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-mercado-no-compasso-do-oriente-medio-e-do-fed-2007316",
-      "time": "2026-07-21T02:20:11Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Ouro supera US$ 4.000 com tensões no Oriente Médio e Fed em foco",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ouro-supera-us-4000-com-tensoes-no-oriente-medio-e-fed-em-foco-2007521",
-      "time": "2026-07-21T01:52:07Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-lee--man-paper-manufacturing-disparam-hoje-93CH-2007564",
+      "time": "2026-07-21T05:16:37Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Ações da Telix Pharmaceuticals disparam após resultados sólidos",
+      "title": "Ações de chips de IA da China disparam após marco da Z.AI",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-telix-pharmaceuticals-disparam-apos-resultados-solidos-93CH-2007510",
-      "time": "2026-07-21T01:12:33Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-de-chips-de-ia-da-china-disparam-apos-marco-da-zai-2007563",
+      "time": "2026-07-21T05:13:34Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "NVIDIA revela participação de 9,3% na empresa de neocloud Nebius",
+      "title": "HKEX planeja registros confidenciais de IPO e redução de requisitos de capitalização",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/nvidia-revela-participacao-de-93-na-empresa-de-neocloud-nebius-2007507",
-      "time": "2026-07-21T01:01:31Z",
+      "url": "https://br.investing.com/news/stock-market-news/hkex-planeja-registros-confidenciais-de-ipo-e-reducao-de-requisitos-de-capitalizacao-2007551",
+      "time": "2026-07-21T04:31:57Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "SEC deve avançar com proposta de relatórios semestrais apesar da oposição",
+      "title": "Por que as ações da QBE Insurance estão caindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/sec-deve-avancar-com-proposta-de-relatorios-semestrais-apesar-da-oposicao-2007504",
-      "time": "2026-07-21T00:54:14Z",
-      "cat": "analise",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Por que as ações da Nebius estão subindo no after-hours hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-nebius-estao-subindo-no-afterhours-hoje-93CH-2007503",
-      "time": "2026-07-21T00:52:39Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-qbe-insurance-estao-caindo-hoje-93CH-2007542",
+      "time": "2026-07-21T04:03:00Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Futuros americanos estáveis com tensões com o Irã e resultados de big techs em foco",
+      "title": "Bolsas asiáticas sobem com recuo do petróleo e foco nos balanços",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/futuros-americanos-estaveis-com-tensoes-com-o-ira-e-resultados-de-big-techs-em-foco-2007501",
-      "time": "2026-07-21T00:45:24Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Bolsa de valores de Londres vai lançar plataforma de negociação noturna em 2027",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/bolsa-de-valores-de-londres-vai-lancar-plataforma-de-negociacao-noturna-em-2027-2007497",
-      "time": "2026-07-21T00:38:01Z",
+      "url": "https://br.investing.com/news/stock-market-news/bolsas-asiaticas-sobem-com-recuo-do-petroleo-e-foco-nos-balancos-2007541",
+      "time": "2026-07-21T03:58:01Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "21/07/2026 02:47"
+  "atualizado_em": "21/07/2026 05:50"
 }
