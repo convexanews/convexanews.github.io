@@ -14,16 +14,6 @@
   },
   "featured": [
     {
-      "title": "Ibovespa e dólar hoje: tarifas de Trump entram em vigor e petróleo dispara",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-tarifas-de-trump-entram-em-vigor-e-petroleo-dispara-2008746",
-      "time": "2026-07-21T21:30:02Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": null
-    },
-    {
       "title": "Ibovespa fecha estável e perde fôlego mesmo com alta de Petrobras (PETR4)",
       "summary": "O Ibovespa encerrou o pregão desta terça-feira (21) praticamente estável, descolando do desempenho positivo de Wall Street. O principal índice da B3 fechou com leve baixa de 0,03%, aos 173.325,65 pontos, após oscilar ent",
       "source": "Suno",
@@ -34,38 +24,70 @@
         "PETR4"
       ],
       "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
+    },
+    {
+      "title": "Vale (VALE3) amplia produção e vendas no 2T26, com melhor desempenho para o período desde 2018 no minério de ferro",
+      "summary": "A Vale (VALE3) confirmou a esperada recuperação operacional no segundo trimestre de 2026 e registrou aumento da produção e das vendas em seus principais segmentos de negócios. No minério de ferro, a companhia alcançou se",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/vale-vale3-amplia-producao-e-vendas-no-2o-trimestre-com-melhor-desempenho-para-o-periodo-desde-2018-no-minerio-de-ferro/",
+      "time": "2026-07-21T21:58:39Z",
+      "cat": "acoes",
+      "tickers": [
+        "VALE3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/vale-1.jpg"
     }
   ],
   "all": [
     {
-      "title": "Ucrânia muda comando das Forças Armadas em meio a pressão por inovação na guerra",
-      "summary": "Zelensky substitui general após crise no governo e embate entre defensores de tecnologia militar e a velha guarda do Exército",
+      "title": "Tarifaço: Alckmin diz que reciprocidade não é retaliação e descarta ‘olho por olho’",
+      "summary": "\"A ideia não é retaliação. Dizem que olho por olho, o que pode acontecer é os dois ficarem cegos\", disse Alckmin",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mundo/ucrania-muda-comando-das-forcas-armadas-em-meio-a-pressao-por-inovacao-na-guerra/",
-      "time": "2026-07-21T22:03:41Z",
+      "url": "https://www.infomoney.com.br/politica/tarifaco-alckmin-diz-que-reciprocidade-nao-e-retaliacao-e-descarta-olho-por-olho/",
+      "time": "2026-07-22T01:19:32Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-18T201406Z_353781041_RC2KGMA6WM0D_RTRMADP_3_UKRAINE-CRISIS-GOVERNMENT-PROTEST.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/55130728686_c1386d1cc7_c.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Vale produz 84,3 mi toneladas de minério de ferro, maior volume para um 2T desde 2018",
-      "summary": "As vendas de minério de ferro somaram 79,7 Mt entre abril e junho, crescimento de 3,1% em relação ao segundo trimestre de 2025",
+      "title": "Ataques EUA-Irã seguem e Teerã promete retaliar bombardeios a instalações nucleares",
+      "summary": "Este é o décimo dia consecutivo de agressões entre EUA e Irã após fim do cessar-fogo",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/vale-vale3-dados-producao-vendas-segundo-trimestre-2026/",
-      "time": "2026-07-21T21:58:58Z",
-      "cat": "acoes",
+      "url": "https://www.infomoney.com.br/mundo/ataques-eua-ira-seguem-e-teera-promete-retaliar-bombardeios-a-instalacoes-nucleares/",
+      "time": "2026-07-22T01:16:00Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-06T221839Z_1_LYNXMPEM651L4_RTROPTP_4_LATAM-SUMMIT-VALE.jpg?fit=300%2C194&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-21T112941Z_313971264_RC2AIMA5UKVB_RTRMADP_3_IRAN-CRISIS.jpg?fit=300%2C168&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Acordo com Tereza Cristina para vice de Flávio Bolsonaro não avançou, afirma Valdemar",
-      "summary": "Presidente do PL afirma que não houve acordo com a senadora do PP e diz que decisão final sobre a chapa presidencial caberá a Jair Bolsonaro",
+      "title": "Quina hoje, concurso 7071: confira o resultado sorteado nesta terça (21)",
+      "summary": "O prêmio deste concurso era de R$ 11.547.406,90",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/acordo-com-tereza-cristina-para-vice-de-flavio-bolsonaro-nao-avancou-afirma-valdemar/",
-      "time": "2026-07-21T21:57:55Z",
+      "url": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7071-confira-o-resultado-sorteado-nesta-terca-21/",
+      "time": "2026-07-22T00:09:07Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/TEREZACRISTINA.jpeg?fit=300%2C199&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=300%2C175&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Lotofácil hoje, concurso 3741: confira o resultado sorteado nesta terça (21)",
+      "summary": "O prêmio estimado para este concurso era de R$ 15 milhões",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3741-confira-o-resultado-sorteado-nesta-terca-21/",
+      "time": "2026-07-22T00:07:17Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/10/loteria_lotofacil_Marcelo-Camargo-Agencia-Brasil-e1751562724210.webp?fit=300%2C191&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Mega-Sena hoje, concurso 3034: confira o resultado sorteado nesta terça (21)",
+      "summary": "O prêmio principal para este concurso é de R$ 40.711.163,89",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/consumo/mega-sena-hoje-concurso-3034-confira-o-resultado-sorteado-nesta-terca-21/",
+      "time": "2026-07-22T00:03:38Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/10/loteria_mega-sena_Rafa-Neddermeyer-Agencia-Brasil.webp?fit=300%2C225&amp;quality=70&amp;strip=all"
     },
     {
       "title": "Claro lucra R$ 510 milhões no 2º trimestre, mas resultado recua 12% com piora do financeiro",
@@ -234,24 +256,44 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/ChatGPT-Image-21-de-jul.-de-2026-16_14_21-png.webp"
     },
     {
-      "title": "Colômbia sediará escritório de aliança antidrogas de Trump, diz Espriella",
-      "summary": "O presidente eleito anunciou que Medellín receberá base do \"Shield of the Americas\", iniciativa liderada pelos Estados Unidos contra o crime organizado",
-      "source": "Exame",
-      "url": "https://exame.com/mundo/colombia-sediara-escritorio-de-alianca-antidrogas-de-trump-diz-espriella/",
-      "time": "2026-07-21T19:35:23Z",
+      "title": "Por que a ação da X Energy está subindo no after-hours?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-a-acao-da-x-energy-esta-subindo-no-afterhours-93CH-2009033",
+      "time": "2026-07-22T01:32:46Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/AFP__20260622__B7U82ZK__v1__HighRes__ColombiaElectionRunoffVoteResults.jpg"
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Vale tem melhor 2º tri de produção em oito anos, mas perde prêmio no minério",
-      "summary": "Mineradora produziu 84,3 milhões de toneladas de minério, mas mix de menor teor reduziu prêmio em 29%",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/vale-tem-melhor-2o-tri-de-producao-em-oito-anos-mas-perde-premio-no-minerio/",
-      "time": "2026-07-21T19:14:07Z",
-      "cat": "economia",
+      "title": "Por que as ações da Oklo estão disparando no after-hours?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-oklo-estao-disparando-no-afterhours-93CH-2009032",
+      "time": "2026-07-22T01:31:56Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/04/espaco-memoria-marca-vale-new.jpg"
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Futuros de ações dos EUA estáveis após recuperação do setor de tecnologia; resultados de Tesla e Alphabet em foco",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/futuros-de-acoes-dos-eua-estaveis-apos-recuperacao-do-setor-de-tecnologia-resultados-de-tesla-e-alphabet-em-foco-2009031",
+      "time": "2026-07-22T01:21:00Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "EUA proíbem importação de drones militares estrangeiros",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/eua-proibem-importacao-de-drones-militares-estrangeiros-93CH-2009009",
+      "time": "2026-07-22T00:29:09Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
       "title": "Trump anuncia tarifa de 100% sobre importações de medicamentos genéricos a partir de 2028",
@@ -262,67 +304,7 @@
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Vale tem maior produção de minério de ferro para um 2º tri desde 2018",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/producao-de-minerio-de-ferro-da-vale-sobe-08-no2-tri-2008948",
-      "time": "2026-07-21T22:49:07Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Claro tem alta de 4,6% no resultado operacional do 2º tri",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/claro-tem-alta-de-46-no-resultado-operacional-do-2o-tri-2008958",
-      "time": "2026-07-21T22:21:09Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB670Y6_M.jpg"
-    },
-    {
-      "title": "Ações da Dell disparam no after-hours após atualização da Super Micro",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-dell-disparam-no-afterhours-apos-atualizacao-da-super-micro-93CH-2008957",
-      "time": "2026-07-21T22:12:57Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Ações da Dell disparam após guidance otimista de margens da Supermicro",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-dell-disparam-apos-guidance-otimista-de-margens-da-supermicro-93CH-2008952",
-      "time": "2026-07-21T22:09:03Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "México - Ações fecharam o pregão em alta e o Índice S&P/BMV IPC avançou 0,88%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/mexico--acoes-fecharam-o-pregao-em-alta-e-o-indice-spbmv-ipc-avancou-088-2008932",
-      "time": "2026-07-21T21:30:20Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEE1P09M_M.jpg"
-    },
-    {
-      "title": "Ibovespa e dólar hoje: tarifas de Trump entram em vigor e petróleo dispara",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-tarifas-de-trump-entram-em-vigor-e-petroleo-dispara-2008746",
-      "time": "2026-07-21T21:30:02Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": null
     }
   ],
-  "atualizado_em": "21/07/2026 23:56"
+  "atualizado_em": "22/07/2026 02:40"
 }
