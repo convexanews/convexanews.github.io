@@ -1,100 +1,100 @@
 {
   "headline": {
-    "title": "Dólar sobe a R$ 5,08 com disparada dos juros globais",
-    "summary": "O dólar à vista interrompeu a sequência de três quedas consecutivas. A moeda ganhou força com a escalada das tensões geopolíticas e disparada dos juros globais em meio ao crescente temor de novos choques inflacionários c",
-    "source": "Money Times",
-    "url": "https://www.moneytimes.com.br/dolar-23-7-26-lils/",
-    "time": "2026-07-23T20:02:56Z",
+    "title": "Ibovespa cai com juros e aversão ao risco; Petrobras (PETR4) limita perdas",
+    "summary": "Ibovespa cai com juros e aversão ao risco; Petrobras (PETR4) limita perdasO Ibovespa devolveu parte da forte alta da véspera e encerrou esta quinta-feira (23) em queda, acompanhando o aumento da aversão ao risco nos merc",
+    "source": "Suno",
+    "url": "https://www.suno.com.br/noticias/ibovespa-hoje-23-julho-2026-petr4-petroleo-juros-mt/",
+    "time": "2026-07-23T21:24:40Z",
     "cat": "economia",
-    "tickers": [],
-    "image": "https://www.moneytimes.com.br/uploads/2026/07/dolar-estrangeiros-1.jpg"
+    "tickers": [
+      "PETR4"
+    ],
+    "image": "https://files.sunoresearch.com.br/n/uploads/2026/07/7a2811c9-down-800x450-1-jpg.webp"
   },
   "featured": [
     {
-      "title": "Petrobras, PRIO e PetroRecôncavo ficam entre maiores altas do Ibovespa com petróleo",
-      "summary": "A Petrobras registrava a alta mais expressiva, com a PETR3 subindo 2,07%",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/petrobras-prio-e-petroleiras-lideram-ganhos-do-ibovespa-com-alta-do-petroleo/",
-      "time": "2026-07-23T20:40:19Z",
-      "cat": "internacional",
-      "tickers": [
-        "PETR3"
-      ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-21T110457Z_471026743_RC2PFKATW3FZ_RTRMADP_3_RUSSIA-KAZAKHSTAN-GERMANY-DRUZHBA-OIL.jpg?fit=300%2C186&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Ibovespa recua com aumento da aversão ao risco global; dólar sobe a R$ 5,08",
-      "summary": "O Ibovespa (IBOV) acompanhou a forte aversão a risco global com a escalada das tensões entre Estados Unidos e Irã no Oriente Médio. Nesta quinta-feira (23), o principal índice da bolsa brasileira terminou as negociações ",
+      "title": "Mercado descarta novo corte da Selic em setembro com disparada dos juros globais",
+      "summary": "Na curva de juros futuros, o mercado praticamente zerou as apostas de corte na Selic em setembro nesta quinta-feira (23) em meio a disparada dos juros globais. Hoje, a taxa básica de juros está em 14,25% ao ano. Desde a ",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ibovespa-recua-com-risk-off-global-dolar-sobe-a-r-508/",
-      "time": "2026-07-23T20:22:37Z",
+      "url": "https://www.moneytimes.com.br/mercado-descarta-novo-corte-da-selic-em-setembro-com-dispara-dos-juros-globais/",
+      "time": "2026-07-23T21:16:49Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/queda-ibovespa.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2023/10/juros-futuros.jpg"
+    },
+    {
+      "title": "Dólar sobe a R$ 5,08 com disparada dos juros globais",
+      "summary": "O dólar à vista interrompeu a sequência de três quedas consecutivas. A moeda ganhou força com a escalada das tensões geopolíticas e disparada dos juros globais em meio ao crescente temor de novos choques inflacionários c",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/dolar-23-7-26-lils/",
+      "time": "2026-07-23T20:02:56Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/dolar-estrangeiros-1.jpg"
     }
   ],
   "all": [
     {
-      "title": "XP aposta na customização da experiência para gerar mais valor ao cliente",
-      "summary": "Na Expert XP 2026, Bruno Ballista apresentou como segmentação, serviços e apoio ao assessor sustentam a estratégia da companhia para personalizar o atendimento e fidelizar clientes",
+      "title": "Expert XP: Ajuste fiscal será “no amor ou na porrada”, diz Walter Maciel",
+      "summary": "Em painel sobre futuro dos mercaods, CEO da AZ Quest afirmou que alta dos gastos públicos exigirá correção e alerta para risco de crise caso o país siga ampliando despesas sem ajuste nas contas",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/business/xp-aposta-na-customizacao-da-experiencia-para-gerar-mais-valor-ao-cliente/",
-      "time": "2026-07-23T20:42:55Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/expert-xp-20260723-frr-4489-1.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Bolsas de NY fecham em baixa com receio por gastos em IA e petróleo a US$ 100",
-      "summary": "Divulgados na quarta, 22, os balanços de Alphabet e Tesla levantaram temores sobre o nível de gastos com inteligência artificial (IA) que se espalharam por outras companhias",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-em-baixa-com-receio-por-gastos-em-ia-e-petroleo-a-us-100/",
-      "time": "2026-07-23T20:41:59Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/Design-sem-nome-28.png?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Simpar (SIMH3) fecha em alta de 4,92% com anúncio de venda de terminais portuários",
-      "summary": "Alienação da CS Porto Aratu por R$ 750 milhões em valor de patrimônio líquido; analistas do JPMorgan enxergam a notícia como favorável",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/acoes-da-simpar-simh3-sobem-forte-apos-anuncio-de-venda-de-terminais-portuarios/",
-      "time": "2026-07-23T20:40:42Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Captura-de-tela-2026-06-11-155216.png?fit=300%2C198&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Petrobras, PRIO e PetroRecôncavo ficam entre maiores altas do Ibovespa com petróleo",
-      "summary": "A Petrobras registrava a alta mais expressiva, com a PETR3 subindo 2,07%",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/petrobras-prio-e-petroleiras-lideram-ganhos-do-ibovespa-com-alta-do-petroleo/",
-      "time": "2026-07-23T20:40:19Z",
-      "cat": "internacional",
-      "tickers": [
-        "PETR3"
-      ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-21T110457Z_471026743_RC2PFKATW3FZ_RTRMADP_3_RUSSIA-KAZAKHSTAN-GERMANY-DRUZHBA-OIL.jpg?fit=300%2C186&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Captação de clientes exige método e persistência, diz executivo da XP",
-      "summary": "Na Expert XP, Lucas Chamadoiro detalhou estratégias de prospecção, taxas de conversão e cuidados necessários para conquistar a confiança dos clientes",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/advisor/captacao-de-clientes-exige-metodo-e-persistencia-diz-executivo-da-xp/",
-      "time": "2026-07-23T20:36:49Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/expert-xp-financial-lab-1Bi-03.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Dólar hoje fecha em alta de 0,63% com escalada das tensões no Oriente Médio",
-      "summary": "A escalada das tensões no Oriente Médio domina o início do dia e amplia a pressão sobre os mercados globais",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-23072026/",
-      "time": "2026-07-23T20:33:02Z",
+      "url": "https://www.infomoney.com.br/economia/ajuste-fiscal-brasil-walter-maciel-expert-xp/",
+      "time": "2026-07-23T22:03:15Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-22T221253Z_1_LYNXNPEL8L0XW_RTROPTP_4_DOLAR-ABRE.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/expert-xp-ls2-futuro-mercados-02.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "“Não existe moeda que possa substituir o dólar”, diz Janet Yellen na Expert XP",
+      "summary": "Ex-secretária do Tesouro admite que a força da moeda americana é menor que no passado; reservas mundiais em dólar, por exemplo, estão em cerca de 50%, em comparação com os 70% de décadas atrás",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/economia/nao-existe-moeda-que-possa-substituir-o-dolar-diz-janet-yellen-na-expert-xp/",
+      "time": "2026-07-23T22:00:04Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/expert-xp-janet-yellen-06.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Fed está pronto para elevar os juros nos EUA, avalia Janet Yellen",
+      "summary": "A ex-secretária do Tesouro dos Estados Unidos e ex-chair do Federal Reserve (Fed), Janet Yellen, considera que os dirigentes do banco central dos EUA já estão prontos para aumentar os juros norte-americanos, caso a nova ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/fed-esta-pronto-para-elevar-os-juros-nos-eua-avalia-janet-yellen-apsa/",
+      "time": "2026-07-23T22:06:37Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2023/05/janet-yellen.jpg"
+    },
+    {
+      "title": "Brasil critica tarifa de 12,5% dos EUA e anuncia reação com Lei de Reciprocidade e ação na OMC",
+      "summary": "O governo brasileiro criticou a decisão dos Estados Unidos de impor uma tarifa adicional de 12,5% sobre produtos brasileiros após a conclusão da investigação conduzida sob a Seção 301 sobre trabalho forçado. Em nota divu",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/brasil-critica-tarifa-de-125-dos-eua-e-anuncia-reacao-com-lei-de-reciprocidade-e-acao-na-omc/",
+      "time": "2026-07-23T21:50:28Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/lula-china-carne-agronegocio.jpg"
+    },
+    {
+      "title": "Mercado descarta novo corte da Selic em setembro com disparada dos juros globais",
+      "summary": "Na curva de juros futuros, o mercado praticamente zerou as apostas de corte na Selic em setembro nesta quinta-feira (23) em meio a disparada dos juros globais. Hoje, a taxa básica de juros está em 14,25% ao ano. Desde a ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/mercado-descarta-novo-corte-da-selic-em-setembro-com-dispara-dos-juros-globais/",
+      "time": "2026-07-23T21:16:49Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2023/10/juros-futuros.jpg"
+    },
+    {
+      "title": "BrasilAgro (AGRO3) aprova dívida de até R$ 200 milhões com Banco do Brasil e amplia flexibilidade para operações de hedge",
+      "summary": "O conselho de administração da BrasilAgro (AGRO3) aprovou a contratação de uma nova dívida de até R$ 200 milhões junto ao Banco do Brasil, estruturada por meio de uma Cédula de Produto Rural (CPR), além de uma operação d",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/brasilagro-agro3-aprova-divida-de-ate-r-200-milhoes-com-banco-do-brasil-e-amplia-flexibilidade-para-operacoes-de-hedge-pads/",
+      "time": "2026-07-23T21:04:10Z",
+      "cat": "acoes",
+      "tickers": [
+        "AGRO3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2024/10/brasilagro-agro3.jpg"
     },
     {
       "title": "Especialistas veem ‘guerra política’ com EUA e não creem em grande ajuste fiscal devido a ‘populismo de direita e de esquerda’",
@@ -137,34 +137,26 @@
       "image": "https://www.moneytimes.com.br/uploads/2026/07/dolar-estrangeiros-1.jpg"
     },
     {
-      "title": "Nem lucro recorde salva: ações da Alphabet caem após resultados do 2T26; o que desagradou?",
-      "summary": "As ações da Alphabet ampliavam as perdas nesta quarta-feira (23), mesmo após a dona do Google divulgar resultados acima das expectativas para o segundo trimestre de 2026. Os papéis recuavam cerca de 6,7% em Nova York, em",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/nem-lucro-recorde-salva-acoes-da-alphabet-caem-apos-resultados-do-2t26-o-que-desagradou-jcav/",
-      "time": "2026-07-23T19:32:49Z",
-      "cat": "acoes",
+      "title": "FII renova contrato com Banrisul em agência no RS por mais cinco anos",
+      "summary": "O BNFS11 (Banrisul Novas Fronteiras Fundo de Investimento Imobiliário) comunicou a assinatura de um novo contrato de locação comercial com o Banco do Estado do Rio Grande do Sul (Banrisul) para o imóvel que abriga a Agên",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/fii-renova-contrato-com-banrisul-em-agencia-no-rs-por-mais-cinco-anos/",
+      "time": "2026-07-23T21:45:07Z",
+      "cat": "fundos",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/google-big-tech-tecnologia-ia-inteligencia-artificial-alphabet.jpg"
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/153_Detalhe_de_gr_fico_f_1_2026017_173633-5-jpg.webp"
     },
     {
-      "title": "Petróleo dispara a US$ 100 com restrição de fluxo no Oriente Médio no radar",
-      "summary": "Os preços do petróleo dispararam e voltaram ao nível de US$ 100 o barril em meio à restrição do fluxo da commodity pelo Estreito de Ormuz e incertezas sobre o tráfego no Estreito de Bab-el-Mandeb, controlado pelos houthi",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/petroleo-23-7-26-lils/",
-      "time": "2026-07-23T19:21:05Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/petroleo-commodity-ormuz-wti-brent.jpg"
-    },
-    {
-      "title": "Carrefour tem lucro líquido de 30 milhões de euros no 1º semestre e alta de 2,1% em vendas",
-      "summary": "O Carrefour informou que obteve lucro líquido de 30 milhões de euros no primeiro semestre de 2026, de acordo com resultados divulgados nesta quinta-feira, 23. Na primeira metade de 2026, o grupo varejista francês registr",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/carrefour-tem-lucro-liquido-de-30-milhoes-de-euros-no-1o-semestre-e-alta-de-21-em-vendas/",
-      "time": "2026-07-23T19:04:11Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/04/carrefour-1.jpg"
+      "title": "Ibovespa cai com juros e aversão ao risco; Petrobras (PETR4) limita perdas",
+      "summary": "Ibovespa cai com juros e aversão ao risco; Petrobras (PETR4) limita perdasO Ibovespa devolveu parte da forte alta da véspera e encerrou esta quinta-feira (23) em queda, acompanhando o aumento da aversão ao risco nos merc",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-23-julho-2026-petr4-petroleo-juros-mt/",
+      "time": "2026-07-23T21:24:40Z",
+      "cat": "economia",
+      "tickers": [
+        "PETR4"
+      ],
+      "image": "https://files.sunoresearch.com.br/n/uploads/2026/07/7a2811c9-down-800x450-1-jpg.webp"
     },
     {
       "title": "B3 (B3SA3): renda fixa “usada” dispara 40%; entenda esse mercado",
@@ -225,157 +217,75 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/157_Analista_concentrado_1_2026017_163435-2-jpg.webp"
     },
     {
-      "title": "HGLG11: veja quanto R$ 50 mil renderam neste fundo de galpões em um ano",
-      "summary": "O HGLG11 é um fundo imobiliário de tijolo focado em galpões logísticos. Sua política consiste em comprar ou construir imóveis destinados a operações logísticas e industriais para posterior locação, buscando gerar renda m",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/hglg11-rendimento-50-mil-indicadores-fii/",
-      "time": "2026-07-23T13:35:09Z",
-      "cat": "acoes",
-      "tickers": [
-        "HGLG11"
-      ],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/9_Close_de_tela_de_not_1_2026017_155817-1-2-jpg.webp"
-    },
-    {
-      "title": "Rio Paranapanema (GEPA4) paga dividendos nesta quinta-feira; veja detalhes",
-      "summary": "Rio Paranapanema (GEPA4) paga dividendos nesta quinta-feira; veja detalhesA Rio Paranapanema (GEPA4) vai pagar dividendos aos seus acionistas nesta quinta-feira (23). Os dividendos da Rio Paranapanema a serem pagos hoje ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/a-geracao-paranapanema-gepa4-agenda-dividendos-23072026/",
-      "time": "2026-07-23T13:19:34Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2026/04/joelfotos-ballots-1195005-scaled-1-jpg.webp"
-    },
-    {
-      "title": "BCE mantém juros em 2,25% e monitora riscos do conflito no Oriente Médio",
-      "summary": "BCE - Foto: PexelsO Banco Central Europeu (BCE) deixou suas principais taxas de juros inalteradas nesta quinta-feira, 23, enquanto acompanha possíveis efeitos inflacionários do conflito no Oriente Médio, que voltou a pre",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/bce-mantem-juros-em-225-e-monitora-riscos-inflacionarios-julho26-go/",
-      "time": "2026-07-23T12:39:00Z",
+      "title": "Michelle Bolsonaro reage a pedido de reconciliação de Flávio: 'Eu te desculpo, vamos conversar'",
+      "summary": "Na gravação, a ex-primeira-dama defendeu união política em meio à pré-campanha presidencial do senador",
+      "source": "Exame",
+      "url": "https://exame.com/brasil/michelle-bolsonaro-reage-a-pedido-de-reconciliacao-de-flavio-eu-te-desculpo-vamos-conversar/",
+      "time": "2026-07-23T19:26:55Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2022/07/pexels-scaled.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2020/09/2020-08-28T202454Z_409606773_RC28NI9T54SG_RTRMADP_3_BRAZIL-POLITICS.jpg"
     },
     {
-      "title": "Ibovespa cai com bancos, apesar da alta de Petrobras com petróleo a US$ 100",
-      "summary": "Dólar sobe e interrompe sequência de quedas, enquanto aversão global e balanços levam bolsas de NY à queda",
+      "title": "Novas tarifas atingem países responsáveis por 99,4% das importações dos EUA",
+      "summary": "A medida, determinada pelo governo Trump, faz parte de uma ação comercial que atinge 60 parceiros comerciais dos EUA e entra em vigor nesta sexta-feira, 24",
       "source": "Exame",
-      "url": "https://exame.com/invest/mercados/ibovespa-cai-com-bancos-apesar-da-alta-de-petrobras-com-petroleo-a-us-100/",
-      "time": "2026-07-23T17:43:59Z",
+      "url": "https://exame.com/mundo/novas-tarifas-atingem-paises-responsaveis-por-994-das-importacoes-dos-eua/",
+      "time": "2026-07-23T19:13:46Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2020/11/DSC2634bx.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/AFP__20260720__C2LM34Y__v1__HighRes__UsPoliticsTrump.jpg"
     },
     {
-      "title": "Ameaça, stalking e violência psicológica: crimes contra a mulher crescem no Brasil",
-      "summary": "Se feminicídios representam o ponto mais extremo da violência, crimes como ameaça, stalking e violência psicológica compõem sua estrutura",
-      "source": "Exame",
-      "url": "https://exame.com/brasil/ameaca-stalking-e-violencia-psicologica-crimes-contra-a-mulher-crescem-no-brasil/",
-      "time": "2026-07-23T17:19:25Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2021/03/GettyImages-183265543.jpg"
-    },
-    {
-      "title": "Golpes avançam e roubos recuam: como mudou o perfil do crime no Brasil",
-      "summary": "Brasil teve 258 golpes por hora em 2025, com crescimento de 429,8% desde 2018",
-      "source": "Exame",
-      "url": "https://exame.com/brasil/golpes-avancam-e-roubos-recuam-como-mudou-o-perfil-do-crime-no-brasil/",
-      "time": "2026-07-23T17:17:21Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/golpe-sim-swap-como-se-proteger.jpg"
-    },
-    {
-      "title": "Ibovespa fecha em queda com aversão a risco no exterior",
+      "title": "Wall Street recua com preocupações com os gastos em IA e petróleo a US$100",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-fecha-em-queda-com-aversao-a-risco-no-exterior-2012000",
-      "time": "2026-07-23T20:42:07Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPED1J16J_M.jpg"
-    },
-    {
-      "title": "Ações em movimento no after-hours: INTC, AMD, ARM, MXL, EW, DECK",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-em-movimento-no-afterhours-intc-amd-arm-mxl-ew-deck-432SI-2012127",
-      "time": "2026-07-23T20:40:04Z",
+      "url": "https://br.investing.com/news/economy-news/wall-street-recua-com-preocupacoes-com-os-gastos-em-ia-e-petroleo-a-us100-2012087",
+      "time": "2026-07-23T21:57:08Z",
       "cat": "internacional",
       "tickers": [],
       "image": null
     },
     {
-      "title": "E.U.A. - Ações fecharam o pregão em queda e o Índice Dow Jones Industrial Average recuou 0,97%",
+      "title": "Goldman Sachs e JPMorgan lançam produtos de negociação de dívida com IA",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/eua--acoes-fecharam-o-pregao-em-queda-e-o-indice-dow-jones-industrial-average-recuou-097-2012095",
-      "time": "2026-07-23T20:31:31Z",
+      "url": "https://br.investing.com/news/stock-market-news/goldman-sachs-e-jpmorgan-lancam-produtos-de-negociacao-de-divida-com-ia-93CH-2012212",
+      "time": "2026-07-23T21:50:58Z",
       "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Superintendência do Cade recomenda condenação de grupo Bayer por práticas anticoncorrenciais",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/superintendencia-do-cade-recomenda-condenacao-de-grupo-bayer-por-praticas-anticoncorrenciais-2012207",
+      "time": "2026-07-23T21:42:06Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB5S0BT_M.jpg"
+    },
+    {
+      "title": "México - Ações fecharam o pregão em queda e o Índice S&P/BMV IPC recuou 1,54%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/mexico--acoes-fecharam-o-pregao-em-queda-e-o-indice-spbmv-ipc-recuou-154-2012201",
+      "time": "2026-07-23T21:30:21Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPED7S129_M.jpg"
+    },
+    {
+      "title": "Ibovespa e dólar hoje: petróleo supera US$ 100 e tensões globais pesam",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-petroleo-supera-us-100-e-tensoes-globais-pesam-2011956",
+      "time": "2026-07-23T21:30:03Z",
+      "cat": "economia",
       "tickers": [],
       "image": null
-    },
-    {
-      "title": "Canadá - Ações fecharam o pregão em queda e o Índice S&P/TSX recuou 0,82%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/canada--acoes-fecharam-o-pregao-em-queda-e-o-indice-sptsx-recuou-082-2012094",
-      "time": "2026-07-23T20:30:46Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB59082_M.jpg"
-    },
-    {
-      "title": "Brasil - Ações fecharam o pregão em queda e o Índice Bovespa recuou 0,46%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/brasil--acoes-fecharam-o-pregao-em-queda-e-o-indice-bovespa-recuou-046-2012092",
-      "time": "2026-07-23T20:30:20Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEE7E1F3_M.jpg"
-    },
-    {
-      "title": "Conselho da Vale quer destituição de Gasparino; aponta vazamento de informações",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/conselho-da-vale-pede-destituicao-de-marcelo-gasparino-da-silva-2010958",
-      "time": "2026-07-23T20:28:26Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB9I0QB_M.jpg"
-    },
-    {
-      "title": "As melhores ações de laboratórios e diagnósticos, segundo a BTIG",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/as-melhores-acoes-de-laboratorios-e-diagnosticos-segundo-a-btig-93CH-2012036",
-      "time": "2026-07-23T20:17:56Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Deckers supera resultado do 1º tri e eleva guidance, mas ações caem 3,4%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/deckers-brands-supera-estimativas-de-lpa-e-eleva-guidance-anual-2012033",
-      "time": "2026-07-23T20:14:18Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Taxas dos DIs fecham com altas firmes após petróleo voltar a superar US$100",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/economy-news/taxas-dos-dis-fecham-com-altas-firmes-apos-petroleo-voltar-a-superar-us100-2011993",
-      "time": "2026-07-23T19:49:56Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB1O0PU_M.jpg"
     }
   ],
-  "atualizado_em": "23/07/2026 21:03"
+  "atualizado_em": "23/07/2026 22:31"
 }
