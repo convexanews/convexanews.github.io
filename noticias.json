@@ -1,28 +1,18 @@
 {
   "headline": {
-    "title": "Ibovespa e dólar hoje: Vale e WEG impulsionam bolsa; BCE decide juros",
-    "summary": "",
-    "source": "Investing.com",
-    "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-vale-e-weg-impulsionam-bolsa-bce-decide-juros-2010254",
-    "time": "2026-07-23T02:33:16Z",
-    "cat": "economia",
-    "tickers": [],
-    "image": null
+    "title": "Ibovespa dispara 2,44% com Vale (VALE3) e WEG (WEGE3), apesar do tarifaço",
+    "summary": "O Ibovespa ignorou a entrada em vigor da tarifa adicional de 25% dos Estados Unidos sobre produtos brasileiros e encerrou esta quarta-feira (22) em forte alta. O principal índice da B3 avançou 2,44%, aos 177.547,56 ponto",
+    "source": "Suno",
+    "url": "https://www.suno.com.br/noticias/ibovespa-hoje-22-julho-2026-vale3-wege3-tarifaco-mt/",
+    "time": "2026-07-22T21:25:10Z",
+    "cat": "acoes",
+    "tickers": [
+      "VALE3",
+      "WEGE3"
+    ],
+    "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/776ea9d9-noticia-de-hoje-19.08-jpg.webp"
   },
   "featured": [
-    {
-      "title": "Ibovespa dispara 2,44% com Vale (VALE3) e WEG (WEGE3), apesar do tarifaço",
-      "summary": "O Ibovespa ignorou a entrada em vigor da tarifa adicional de 25% dos Estados Unidos sobre produtos brasileiros e encerrou esta quarta-feira (22) em forte alta. O principal índice da B3 avançou 2,44%, aos 177.547,56 ponto",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-22-julho-2026-vale3-wege3-tarifaco-mt/",
-      "time": "2026-07-22T21:25:10Z",
-      "cat": "acoes",
-      "tickers": [
-        "VALE3",
-        "WEGE3"
-      ],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/776ea9d9-noticia-de-hoje-19.08-jpg.webp"
-    },
     {
       "title": "Petrobras (PETR4) recebe R$ 1,7 bilhão de nova parcela de subsídio ao diesel; total chega a R$ 6,4 bilhões",
       "summary": "A Petrobras (PETR4) informou nesta quarta-feira (22) que recebeu uma nova parcela do Programa de Subvenção Econômica à comercialização de óleo diesel, no valor de R$ 1,7 bilhão. Segundo a estatal, o montante corresponde ",
@@ -34,6 +24,16 @@
         "PETR4"
       ],
       "image": "https://www.moneytimes.com.br/uploads/2025/10/tanque-de-diesel-r5-na-rpbc-petrobras.jpg"
+    },
+    {
+      "title": "Governo do Distrito Federal nega uso de recursos do Tesouro distrital para apoiar BRB",
+      "summary": "Os problemas de liquidez do BRB vêm se agravando e o caixa do banco tem sido mantido de maneira \"artificial\", enquanto o governo do DF atrasa pagamentos",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/governo-do-distrito-federal-nega-uso-de-recursos-do-tesouro-distrital-para-apoiar-brb/",
+      "time": "2026-07-23T01:06:06Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-28T181210Z_1_LYNXMPEM4R1HC_RTROPTP_4_BRAZIL-ECONOMY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     }
   ],
   "all": [
@@ -291,6 +291,56 @@
       "image": "https://classic.exame.com/wp-content/uploads/2026/07/refrigerador-humano.png"
     },
     {
+      "title": "Howden Joinery reporta resultados do primeiro semestre em linha com as expectativas",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/howden-joinery-reporta-resultados-do-primeiro-semestre-em-linha-com-as-expectativas-93CH-2010760",
+      "time": "2026-07-23T06:12:15Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Taiwan - Ações fecharam o pregão em alta e o Índice Taiwan Weighted avançou 1,34%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/taiwan--acoes-fecharam-o-pregao-em-alta-e-o-indice-taiwan-weighted-avancou-134-2010746",
+      "time": "2026-07-23T06:00:21Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC3K0AH_M.jpg"
+    },
+    {
+      "title": "Por que as ações da Ferrotec estão subindo hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-ferrotec-estao-subindo-hoje-93CH-2010711",
+      "time": "2026-07-23T05:14:30Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Ações de chips asiáticas sobem após Alphabet elevar previsão de capex",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-de-chips-asiaticas-sobem-apos-alphabet-elevar-previsao-de-capex-2010704",
+      "time": "2026-07-23T04:28:52Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Ações asiáticas sobem com aumento de gastos em IA da Alphabet; petróleo limita ganhos",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-asiaticas-sobem-com-aumento-de-gastos-em-ia-da-alphabet-petroleo-limita-ganhos-2010693",
+      "time": "2026-07-23T03:40:58Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
       "title": "Por que as ações da Cathay Pacific estão disparando hoje?",
       "summary": "",
       "source": "Investing.com",
@@ -309,57 +359,7 @@
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Ibovespa e dólar hoje: Vale e WEG impulsionam bolsa; BCE decide juros",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-vale-e-weg-impulsionam-bolsa-bce-decide-juros-2010254",
-      "time": "2026-07-23T02:33:16Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Por que as ações da Paladin Energy estão disparando hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-paladin-energy-estao-disparando-hoje-93CH-2010639",
-      "time": "2026-07-23T01:34:02Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Futuros de ações dos EUA sobem; Tesla e Alphabet caem após resultados do 2º tri",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/futuros-de-acoes-dos-eua-sobem-tesla-e-alphabet-caem-apos-resultados-do-2o-tri-2010636",
-      "time": "2026-07-23T01:26:33Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Walmex alerta para perspectivas após queda no lucro do 2º tri",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/walmex-alerta-para-perspectivas-apos-queda-no-lucro-do-2o-tri-93CH-2010628",
-      "time": "2026-07-23T00:48:15Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Amazon.com enfrenta investigação do Senado dos EUA sobre suposta influência da China",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/amazoncom-enfrenta-investigacao-do-senado-dos-eua-sobre-suposta-influencia-da-china-2010622",
-      "time": "2026-07-23T00:33:37Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "23/07/2026 03:37"
+  "atualizado_em": "23/07/2026 06:30"
 }
