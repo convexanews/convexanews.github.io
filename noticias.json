@@ -1,13 +1,16 @@
 {
   "headline": {
-    "title": "Ibovespa cai 1,5% nesta 6ª com Petrobras e bancos e fecha semana praticamente no zero",
-    "summary": "Alívio no petróleo se refletiu nas ações da Petrobras, que registraram perdas ao longo do pregão",
-    "source": "InfoMoney",
-    "url": "https://www.infomoney.com.br/mercados/ibovespa-cai-15-nesta-6a-com-petrobras-e-bancos-e-fecha-semana-praticamente-no-zero/",
-    "time": "2026-07-24T21:00:59Z",
+    "title": "Ibovespa cai 1,52% com Petrobras (PETR4), Vale (VALE3) e bancos em baixa",
+    "summary": "O Ibovespa encerrou esta sexta-feira (24) em forte queda, pressionado pelo recuo das principais blue chips da bolsa e pela cautela dos investidores diante das novas tarifas impostas pelos Estados Unidos e das incertezas ",
+    "source": "Suno",
+    "url": "https://www.suno.com.br/noticias/ibovespa-hoje-24-julho-2026-petr4-vale3-mt/",
+    "time": "2026-07-24T21:15:05Z",
     "cat": "acoes",
-    "tickers": [],
-    "image": "https://www.infomoney.com.br/wp-content/uploads/2024/09/Captura-de-tela-2024-09-06-100616.png?fit=300%2C202&amp;quality=70&amp;strip=all"
+    "tickers": [
+      "PETR4",
+      "VALE3"
+    ],
+    "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/c05e2f54-ibovespa-800x450-1-2-2-jpg.webp"
   },
   "featured": [
     {
@@ -21,88 +24,48 @@
       "image": "https://www.moneytimes.com.br/uploads/2024/06/ibovespa-ibov-analise-grafica-do-indice-1.jpg"
     },
     {
-      "title": "Wall Street fecha sem direção única com venda de chips; Nasdaq despenca 2% na semana",
-      "summary": "Os índices de Wall Street encerram a sessão desta sexta-feira (24) mistos diante do derretimento das ações da Intel, que pesaram sobre o Nasdaq, e de novo movimento de venda das ações de fabricantes de chips. Confira o f",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/wall-street-24-7-26-apsa/",
-      "time": "2026-07-24T20:16:23Z",
-      "cat": "internacional",
+      "title": "Ibovespa e dólar hoje: Oriente Médio, petróleo e Focus em foco pré-FOMC",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-oriente-medio-petroleo-e-focus-em-foco-prefomc-2013367",
+      "time": "2026-07-24T21:35:02Z",
+      "cat": "economia",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/wall-street-nasdaq-bolsas-americanas.jpg"
+      "image": null
     }
   ],
   "all": [
     {
-      "title": "Ibovespa cai 1,5% nesta 6ª com Petrobras e bancos e fecha semana praticamente no zero",
-      "summary": "Alívio no petróleo se refletiu nas ações da Petrobras, que registraram perdas ao longo do pregão",
+      "title": "“Juro precisa cair ou quebramos”: gestores alertam contra renda fixa atrelada ao CDI",
+      "summary": "Gestores de Kapitalo, Kinea e Vista veem chance de recessão em 2027 e dificuldades para ajustes fiscais independentemente do resultados das eleições",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-cai-15-nesta-6a-com-petrobras-e-bancos-e-fecha-semana-praticamente-no-zero/",
-      "time": "2026-07-24T21:00:59Z",
-      "cat": "acoes",
+      "url": "https://www.infomoney.com.br/onde-investir/juro-precisa-cair-ou-quebramos-gestores-alertam-contra-renda-fixa-atrelada-ao-cdi/",
+      "time": "2026-07-24T22:24:08Z",
+      "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/09/Captura-de-tela-2024-09-06-100616.png?fit=300%2C202&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/expertxp-2026-corredores-publico-04.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Com fee fixo, “próximo passo é usar ETF para tudo”, diz CEO da BlackRock no Brasil",
-      "summary": "Durante painel na Expert XP, lideranças da BlackRock, Vanguard e XP Asset projetam forte expansão dos ETFs no mercado brasileiro com o avanço do modelo fee-based e o lançamento de novos produtos",
+      "title": "Por que o seguro de vida deve entrar na carteira antes mesmo de formar patrimônio",
+      "summary": "Proteção ajuda famílias durante a fase de construção da riqueza e não apenas na sucessão, explicam especialistas em painel desta sexta-feira (24) na Expert XP",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/advisor/investimentos/com-fee-fixo-proximo-passo-e-usar-etf-para-tudo-diz-ceo-da-blackrock-no-brasil/",
-      "time": "2026-07-24T20:51:47Z",
-      "cat": "acoes",
+      "url": "https://www.infomoney.com.br/minhas-financas/por-que-o-seguro-de-vida-deve-entrar-na-carteira-antes-mesmo-de-formar-patrimonio/",
+      "time": "2026-07-24T21:18:49Z",
+      "cat": "analise",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/expert-xp-20260724-14h40-learning-session-04-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/expert-xp-20260724-14h00-learning-session-04-3-e1784920166272.jpg?fit=300%2C193&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "ISA Energia (ISAE4): ações fecham em queda de 7% após precificação de oferta a R$ 27",
-      "summary": "O valor por ação estabelecido representa um desconto de 5,3% em relação ao preço de fechamento do pregão de quinta-feira",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/isa-energia-isae4-acoes-caem-forte-apos-companhia-precificar-oferta-a-r-27/",
-      "time": "2026-07-24T20:49:47Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/12/Energia-eletrica.jpg?fit=300%2C190&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "JPMorgan rebaixa Caixa Seguridade e prefere IRB e Porto; CXSE3 fecha em queda de 5%",
-      "summary": "Banco também reiterou recomendação underweight para a BB Seguridade (BBSE3)",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/jpmorgan-rebaixa-caixa-seguridade-e-prefere-irb-e-porto-no-setor-de-seguros-desempenho-acoes/",
-      "time": "2026-07-24T20:47:17Z",
-      "cat": "acoes",
+      "title": "Embraer (EMBJ3) eleva carteira de pedidos em 16% no 2T26",
+      "summary": "A Embraer (EMBJ3) anunciou nesta sexta-feira que encerrou o segundo trimestre com US$ 34,5 bilhões de pedidos em carteira, aumento de 16% sobre o final de junho do ano passado, conforme comunicado da fabricante de aviões",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/embraer-embj3-eleva-carteira-de-pedidos-em-16-no-2t26/",
+      "time": "2026-07-24T21:46:00Z",
+      "cat": "analise",
       "tickers": [
-        "BBSE3"
+        "EMBJ3"
       ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Caixa-Economica-Federal.jpg?fit=300%2C186&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Taxas dos DIs caem mais de 20 pontos-base em dia de queda do petróleo",
-      "summary": "Taxas futuras de juros recuam no Brasil acompanhando o exterior, enquanto Galípolo evita aprofundar impacto do conflito no Oriente Médio sobre a inflação",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/taxas-dos-dis-caem-mais-de-20-pontos-base-em-dia-de-queda-do-petroleo/",
-      "time": "2026-07-24T20:42:39Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/joelfotos-money-1194986_1280-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "ANP: Gasolina lidera queda de combustíveis fósseis e diesel volta a subir",
-      "summary": "O preço médio da gasolina recuou 0,45% e do gás de cozinha caiu 0,12%, enquanto o preço médio do diesel S-10 subiu 0,14%",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/anp-gasolina-lidera-queda-de-combustiveis-fosseis-e-diesel-volta-a-subir/",
-      "time": "2026-07-24T20:39:12Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/2026-02-26T223328Z_1_LYNXMPEM1P1DX_RTROPTP_4_BRAZIL-ENERGY-FUEL.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Bolsas de NY fecham sem sinal único, com persistência de temor por gastos com IA",
-      "summary": "Na próxima semana, investidores devem ficar atentos à decisão de política monetária do Federal Reserve (Fed) e possíveis sinalizações de próximos passos pelo banco central americano",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-sem-sinal-unico-com-persistencia-de-temor-por-gastos-com-ia/",
-      "time": "2026-07-24T20:38:30Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-29T060934Z_964769431_RC25EKAJLMU1_RTRMADP_3_USA-MARKETS-IRAN-TRADING.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/2026-07-14t113647z-1-lynxmpem6d0mn-rtroptp-4-france-airshow-scaled.jpg"
     },
     {
       "title": "23,1% das exportações brasileiras aos EUA estão sujeitas a novas tarifas, diz ministério",
@@ -155,34 +118,27 @@
       "image": "https://www.moneytimes.com.br/uploads/2026/07/xp-expert-inflacao.jpg"
     },
     {
-      "title": "Petróleo recua com ajuste técnico, mas salta quase 10% na semana",
-      "summary": "Os preços do petróleo recuaram nesta sexta-feira (24) com possível ajuste técnico após a forte alta das últimas sessões. O contrato mais líquido do petróleo Brent, referência para o mercado internacional, para setembro f",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/petroleo-24-7-26-apsa/",
-      "time": "2026-07-24T19:50:53Z",
-      "cat": "internacional",
+      "title": "SNFF11 fecha em alta e movimenta R$ 1,7 milhão após pagamento de dividendos",
+      "summary": "O SNFF11 terminou a sessão desta sexta-feira (24) cotado a R$ 73,00, com alta de 0,05%, em um dia de elevada liquidez no mercado secundário. As negociações somaram aproximadamente R$ 1,73 milhão, sinalizando manutenção d",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/snff11-fecha-em-alta-e-movimenta-r-17-milhao-apos-pagamento-de-dividendos/",
+      "time": "2026-07-24T22:25:07Z",
+      "cat": "fundos",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/petroleo.jpg"
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/134_Operador_monitorando_1_2026017_17327-1-jpg.webp"
     },
     {
-      "title": "Alta do petróleo pode mudar o jogo para açúcar e etanol; veja as ações que podem se beneficiar",
-      "summary": "A nova escalada das tensões no Oriente Médio voltou a impulsionar o preço do petróleo e pode levar a uma reação em cadeia no setor sucroenergético brasileiro. Se a alta do barril do Brent chegar às bombas por meio de rea",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/alta-do-petroleo-pode-mudar-o-jogo-para-acucar-e-etanol-veja-as-acoes-que-podem-se-beneficiar-pads/",
-      "time": "2026-07-24T19:40:52Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/01/usinas-acucar-etanol.jpg"
-    },
-    {
-      "title": "‘Arcabouço é a regra menos bem-sucedida da história’, diz economista-chefe da ARX Investimentos",
-      "summary": "O economista-chefe da ARX Investimentos, Gabriel de Barros, classificou o arcabouço fiscal como a “regra menos bem-sucedida da história” e afirmou que o modelo precisará ser alterado nos próximos anos. A declaração ocorr",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/arcabouco-e-a-regra-menos-bem-sucedida-da-historia-diz-economista-chefe-da-arx-investimentos/",
-      "time": "2026-07-24T19:38:24Z",
+      "title": "Ibovespa cai 1,52% com Petrobras (PETR4), Vale (VALE3) e bancos em baixa",
+      "summary": "O Ibovespa encerrou esta sexta-feira (24) em forte queda, pressionado pelo recuo das principais blue chips da bolsa e pela cautela dos investidores diante das novas tarifas impostas pelos Estados Unidos e das incertezas ",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-24-julho-2026-petr4-vale3-mt/",
+      "time": "2026-07-24T21:15:05Z",
       "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/brasil-pib-economia-governo-federal-deficit-superavit-fiscal.jpg"
+      "tickers": [
+        "PETR4",
+        "VALE3"
+      ],
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/c05e2f54-ibovespa-800x450-1-2-2-jpg.webp"
     },
     {
       "title": "Galípolo mostra empresas vendo inflação a 5% em 2026; entenda",
@@ -237,135 +193,107 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/detalhe-de-gr-fico-f-1_02-2.webp"
     },
     {
-      "title": "SNEL11 rende 1,18% no mês; veja os dividendos dos fundos da Suno Asset hoje",
-      "summary": "Os cotistas do SNEL11 recebem nesta sexta-feira (24) o rendimento de R$ 0,10 por cota, mesmo valor distribuído no mês anterior. O fundo de energia renovável integra a lista de seis fundos da Suno Asset com pagamentos hoj",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/snel11-paga-rendimento-suno-asset/",
-      "time": "2026-07-24T14:45:06Z",
+      "title": "Primeiro avanço do ether em relação ao bitcoin alimenta esperança de 'altseason'",
+      "summary": "Investidores se animam com possibilidade das criptomoedas menores voltarem a atrair investimentos",
+      "source": "Exame",
+      "url": "https://exame.com/future-of-money/primeiro-avanco-do-ether-em-relacao-ao-bitcoin-alimenta-esperanca-de-altseason/",
+      "time": "2026-07-24T18:12:15Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC"
+      ],
+      "image": "https://classic.exame.com/wp-content/uploads/2021/05/ethereum-vs-bitcoin.jpg"
+    },
+    {
+      "title": "Plataforma P-33 segue rumo ao Estaleiro Rio Grande para desmantelamento, diz Petrobras",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/plataforma-p33-segue-rumo-ao-estaleiro-rio-grande-para-desmantelamento-diz-petrobras-2013474",
+      "time": "2026-07-24T22:07:06Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEE0F0RL_M.jpg"
+    },
+    {
+      "title": "Conselho da Brava aprova parecer sobre oferta da Ecopetrol",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/conselho-da-brava-aprova-parecer-sobre-oferta-da-ecopetrol-2013465",
+      "time": "2026-07-24T21:35:07Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB5S0BT_M.jpg"
+    },
+    {
+      "title": "Ibovespa e dólar hoje: Oriente Médio, petróleo e Focus em foco pré-FOMC",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-oriente-medio-petroleo-e-focus-em-foco-prefomc-2013367",
+      "time": "2026-07-24T21:35:02Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "México - Ações fecharam o pregão em alta e o Índice S&P/BMV IPC avançou 0,18%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/mexico--acoes-fecharam-o-pregao-em-alta-e-o-indice-spbmv-ipc-avancou-018-2013463",
+      "time": "2026-07-24T21:30:19Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPED8P25V_M.jpg"
+    },
+    {
+      "title": "Embraer eleva carteira de pedidos em 16% no 2º tri",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/embraer-eleva-carteira-de-pedidos-em-16-no-2o-tri-2013462",
+      "time": "2026-07-24T21:28:51Z",
+      "cat": "analise",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Colômbia - Ações fecharam o pregão em queda e o Índice COLCAP recuou 0,38%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/colombia--acoes-fecharam-o-pregao-em-queda-e-o-indice-colcap-recuou-038-2013459",
+      "time": "2026-07-24T21:25:18Z",
       "cat": "fundos",
       "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
+      "image": null
     },
     {
-      "title": "GP da Hungria de F1: que horas e onde assistir à classificação neste sábado",
-      "summary": "Sessão deste sábado define o grid de largada para a 11ª etapa da temporada 2026 da Fórmula 1, disputada no tradicional Hungaroring",
-      "source": "Exame",
-      "url": "https://exame.com/esporte/gp-da-hungria-de-f1-que-horas-e-onde-assistir-a-classificacao-neste-sabado/",
-      "time": "2026-07-24T17:49:13Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/Formula-1-GP-Hungria.jpg"
-    },
-    {
-      "title": "Ibovespa fecha em baixa de 1,5%, mas acumula leve alta na semana",
-      "summary": "O dólar à vista fechou praticamente estável frente ao real, cotado a R$ 5,081, com leve queda de 0,06%. Mas na semana a moeda recuou 0,59%",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/ibovespa-fecha-em-baixa-de-15-mas-acumula-leve-alta-na-semana/",
-      "time": "2026-07-24T17:42:56Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2020/11/DSC2632bx.jpg"
-    },
-    {
-      "title": "Galípolo afirma que Selic alta nem sempre beneficia o mercado financeiro",
-      "summary": "Presidente do Banco Central diz que juros elevados não favorecem automaticamente investidores e chama de 'desinformação' críticas sobre o Boletim Focus",
-      "source": "Exame",
-      "url": "https://exame.com/economia/galipolo-afirma-que-selic-alta-nem-sempre-beneficia-o-mercado-financeiro/",
-      "time": "2026-07-24T17:27:50Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/02/54213725312_666dfb9d07_b.jpg"
-    },
-    {
-      "title": "Incêndios na região de Madrid causam evacuação de 63 mil pessoas",
-      "summary": "Segundo o Ministério do Interior da Espanha, trata-se dos piores incêndios da história da capital espanhola",
-      "source": "Exame",
-      "url": "https://exame.com/mundo/incendios-na-regiao-de-madrid-causam-evacuacao-de-63-mil-pessoas/",
-      "time": "2026-07-24T17:03:24Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/AFP__20260724__C34N9QN__v1__HighRes__SpainWildfireEmergencyGovernmentClimate.jpg"
-    },
-    {
-      "title": "E.U.A. - Ações fecharam o pregão inalteradas e o Índice Dow Jones Industrial Average avançou 0,45%",
+      "title": "Rússia - Ações fecharam o pregão em alta e o Índice MOEX Russia Index avançou 0,71%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/eua--acoes-fecharam-o-pregao-inalteradas-e-o-indice-dow-jones-industrial-average-avancou-045-2013427",
-      "time": "2026-07-24T20:35:39Z",
+      "url": "https://br.investing.com/news/stock-market-news/russia--acoes-fecharam-o-pregao-em-alta-e-o-indice-moex-russia-index-avancou-071-2013457",
+      "time": "2026-07-24T21:20:20Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB4H0KM_M.jpg"
+    },
+    {
+      "title": "Nasdaq fica para trás em meio a preocupações com gastos com IA",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/nasdaq-fica-para-tras-em-meio-a-preocupacoes-com-gastos-com-ia-2013453",
+      "time": "2026-07-24T21:14:27Z",
       "cat": "internacional",
       "tickers": [],
       "image": null
     },
     {
-      "title": "Canadá - Ações fecharam o pregão em alta e o Índice S&P/TSX avançou 0,50%",
+      "title": "CFTC emite orientações sobre certificações de contratos em mercados de previsão",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/canada--acoes-fecharam-o-pregao-em-alta-e-o-indice-sptsx-avancou-050-2013425",
-      "time": "2026-07-24T20:31:13Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Brasil - Ações fecharam o pregão em queda e o Índice Bovespa recuou 1,52%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/brasil--acoes-fecharam-o-pregao-em-queda-e-o-indice-bovespa-recuou-152-2013424",
-      "time": "2026-07-24T20:30:47Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEF1H0SH_M.jpg"
-    },
-    {
-      "title": "Ibovespa fecha em queda firme pressionado por blue chips",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-fecha-em-queda-firme-pressionado-por-blue-chips-2013413",
-      "time": "2026-07-24T20:14:10Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB4E0QK_M.jpg"
-    },
-    {
-      "title": "Por que as ações da DigitalOcean estão caindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-digitalocean-estao-caindo-hoje-93CH-2013401",
-      "time": "2026-07-24T19:57:09Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Por que as ações da Lightspeed Commerce estão subindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-lightspeed-commerce-estao-subindo-hoje-93CH-2013400",
-      "time": "2026-07-24T19:57:00Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Por que as ações da Vir Biotechnology estão caindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-vir-biotechnology-estao-caindo-hoje-93CH-2013394",
-      "time": "2026-07-24T19:52:21Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Por que as ações da Surgery Partners estão subindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-surgery-partners-estao-subindo-hoje-93CH-2013393",
-      "time": "2026-07-24T19:52:09Z",
+      "url": "https://br.investing.com/news/stock-market-news/cftc-emite-orientacoes-sobre-certificacoes-de-contratos-em-mercados-de-previsao-93CH-2013446",
+      "time": "2026-07-24T21:09:55Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "24/07/2026 21:02"
+  "atualizado_em": "24/07/2026 22:35"
 }
