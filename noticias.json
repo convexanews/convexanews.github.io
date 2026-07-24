@@ -1,212 +1,150 @@
 {
   "headline": {
-    "title": "Ibovespa volta a cair com pressão de Vale, Petrobras e bancos",
-    "summary": "Blue chips operam em baixa enquanto petróleo recua nesta sexta-feira, 24; já o dólar opera em leve queda frente ao real",
-    "source": "Exame",
-    "url": "https://exame.com/invest/mercados/ibovespa-volta-a-cair-com-pressao-de-vale-petrobras-e-bancos/",
-    "time": "2026-07-24T11:05:40Z",
-    "cat": "economia",
-    "tickers": [],
-    "image": "https://classic.exame.com/wp-content/uploads/2020/10/DSC8049baixa-1.jpg"
+    "title": "Até que preço o bitcoin pode cair? Para Stomer, o piso atual pode ser US$ 52 mil",
+    "summary": "Realização dos institucionais e migração de recursos para ações de tecnologia ajudam a explicar a queda do criptoativo",
+    "source": "InfoMoney",
+    "url": "https://www.infomoney.com.br/mercados/ate-que-preco-o-bitcoin-pode-cair-para-stomer-o-piso-atual-pode-ser-us-52-mil/",
+    "time": "2026-07-24T16:01:39Z",
+    "cat": "cripto",
+    "tickers": [
+      "BTC"
+    ],
+    "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Stormer-Expert-XP-2026.jpeg?fit=300%2C219&amp;quality=70&amp;strip=all"
   },
   "featured": [
     {
-      "title": "Petrobras (PETR4) tem espaço para reajustar combustíveis ou ampliar subvenções, avalia BTG",
-      "summary": "A Petrobras (PETR4) segue vendendo diesel e gasolina abaixo dos preços de paridade de importação (PPI), o que mantém fechada a janela para importações de combustíveis. Para o BTG Pactual, esse cenário abre espaço para re",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/petrobras-petr4-tem-espaco-para-reajustar-combustiveis-ou-ampliar-subvencoes-avalia-btg/",
-      "time": "2026-07-24T14:21:01Z",
-      "cat": "acoes",
-      "tickers": [
-        "PETR4"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/dig37045.jpg.myfblomcmq8rnbvjqa0a.oiibej3hbq-e1784902668645.jpg"
-    },
-    {
-      "title": "Ibovespa Hoje Ao Vivo: Bolsa cai com nova tarifa dos EUA sobre o Brasil",
-      "summary": "Bolsas dos EUA operam mistas com petróleo em baixa e escalada de guerras no radar",
+      "title": "Petróleo dispara no mercado físico até US$ 110 com novas tensões no Oriente Médio",
+      "summary": "“As questões relacionadas à oferta estão mais uma vez no centro das atenções”, disse Tamas Varga, corretor de petróleo da PVM",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-24072026/",
-      "time": "2026-07-24T13:58:57Z",
+      "url": "https://www.infomoney.com.br/mercados/petroleo-dispara-no-mercado-fisico-ate-us-110-com-novas-tensoes-no-oriente-medio/",
+      "time": "2026-07-24T16:18:27Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Ibovespa-ao-vivo-8.png?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/arvind-vallabh-rqWWhKzVCaU-unsplash.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Galípolo: Copom avalia “plano de voo” que pode levar inflação para mais perto da meta",
+      "summary": "Na Expert XP, presidente do BC ainda reforçou o uso do termo \"calibração\" na comunicação da autarquia",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/economia/galipolo-copom-avalia-plano-de-voo-que-pode-levar-inflacao-para-mais-perto-da-meta/",
+      "time": "2026-07-24T16:04:47Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/expert-xp-20260724-11h25-politica-monetaria-no-brasil-6.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
     }
   ],
   "all": [
     {
-      "title": "Expert XP: Durigan rejeita risco de “all in” fiscal do governo Lula no ano eleitoral",
-      "summary": "Em entrevista exclusiva ao InfoMoney, o ministro da Fazenda afirma que 2026 será diferente de anos eleitorais anteriores e promete cumprir metas fiscais até o fim do mandato",
+      "title": "Petróleo dispara no mercado físico até US$ 110 com novas tensões no Oriente Médio",
+      "summary": "“As questões relacionadas à oferta estão mais uma vez no centro das atenções”, disse Tamas Varga, corretor de petróleo da PVM",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/expert-xp-durigan-rejeita-risco-de-all-in-fiscal-neste-ano-eleitoral/",
-      "time": "2026-07-24T14:22:20Z",
+      "url": "https://www.infomoney.com.br/mercados/petroleo-dispara-no-mercado-fisico-ate-us-110-com-novas-tensoes-no-oriente-medio/",
+      "time": "2026-07-24T16:18:27Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/arvind-vallabh-rqWWhKzVCaU-unsplash.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Galípolo: Copom avalia “plano de voo” que pode levar inflação para mais perto da meta",
+      "summary": "Na Expert XP, presidente do BC ainda reforçou o uso do termo \"calibração\" na comunicação da autarquia",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/economia/galipolo-copom-avalia-plano-de-voo-que-pode-levar-inflacao-para-mais-perto-da-meta/",
+      "time": "2026-07-24T16:04:47Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-24-at-10.55.16.jpeg?fit=300%2C169&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/expert-xp-20260724-11h25-politica-monetaria-no-brasil-6.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Moraes manda PGR analisar pedido da Receita sobre laudos das joias de Bolsonaro",
-      "summary": "No início de julho, Moraes já havia determinado a transferência da custódia das joias de uma agência da Caixa Econômica Federal",
+      "title": "Dólar cai após alta da véspera, com tarifas e Oriente Médio no radar",
+      "summary": "Investidores também acompanham declarações de autoridades brasileiras",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/moraes-manda-pgr-analisar-pedido-da-receita-sobre-laudos-das-joias-de-bolsonaro/",
-      "time": "2026-07-24T14:15:53Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-10T234837Z_1097554661_RC257GA0D0VR_RTRMADP_3_BRAZIL-BOLSONARO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Caso a perspectiva de inflação se deteriore, podemos agir em setembro, diz BCE",
-      "summary": "Presidente do BC da Áustria classifica cenário geopolítico como preocupante e garante ação caso inflação na zona do euro piore",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/caso-a-perspectiva-de-inflacao-se-deteriore-podemos-agir-em-setembro-diz-bce/",
-      "time": "2026-07-24T14:15:09Z",
+      "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-24072026/",
+      "time": "2026-07-24T16:04:13Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/06/2024-06-03T170538Z_1_LYNXMPEK520QJ_RTROPTP_3_IMF-WORLDBANK-ECB.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/blogging-guide-K5DY18hy5JQ-unsplash_red.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "CMIN3: por que CSN Mineração salta 40% em julho mesmo com projeção de 2T fraco?",
-      "summary": "Programa de recompra de ações e menor liquidez de mercado desencadeiam movimento",
+      "title": "Até que preço o bitcoin pode cair? Para Stomer, o piso atual pode ser US$ 52 mil",
+      "summary": "Realização dos institucionais e migração de recursos para ações de tecnologia ajudam a explicar a queda do criptoativo",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/cmin3-por-que-csn-mineracao-salta-40-em-julho-mesmo-com-projecao-de-2t-fraco/",
-      "time": "2026-07-24T14:14:15Z",
-      "cat": "acoes",
+      "url": "https://www.infomoney.com.br/mercados/ate-que-preco-o-bitcoin-pode-cair-para-stomer-o-piso-atual-pode-ser-us-52-mil/",
+      "time": "2026-07-24T16:01:39Z",
+      "cat": "cripto",
       "tickers": [
-        "CMIN3"
+        "BTC"
       ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/04/minerio-de-ferro.jpg?fit=300%2C194&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Stormer-Expert-XP-2026.jpeg?fit=300%2C219&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Warsh enfrenta período difícil com alta nos rendimentos dos Treasuries",
-      "summary": "Estratégia de Kevin Warsh de dar menos orientações, somada à escalada com o Irã, faz mercado recalcular juros e eleva volatilidade das taxas",
+      "title": "PMI composto dos EUA (preliminar) sobe a 53,6 em julho, diz S&P Global",
+      "summary": "Resultado superou a expectativa que previa alta a 52,2",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/warsh-enfrenta-periodo-dificil-com-alta-nos-rendimentos-dos-treasuries/",
-      "time": "2026-07-24T14:13:03Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-17T190008Z_118389025_RC2UVLA9XT8I_RTRMADP_3_USA-FED.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Renda Fixa Hoje: veja as taxas de CDBs, LCIs e LCAs nesta sexta (24) na XP",
-      "summary": "Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-24072026/",
-      "time": "2026-07-24T14:12:40Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/renda-fixa-hoje-002.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Ibovespa Hoje Ao Vivo: Bolsa cai com nova tarifa dos EUA sobre o Brasil",
-      "summary": "Bolsas dos EUA operam mistas com petróleo em baixa e escalada de guerras no radar",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-24072026/",
-      "time": "2026-07-24T13:58:57Z",
+      "url": "https://www.infomoney.com.br/economia/pmi-composto-dos-eua-preliminar-sobe-a-536-em-julho-diz-sp-global/",
+      "time": "2026-07-24T15:51:17Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Ibovespa-ao-vivo-8.png?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/ford-motor-fabrica-industria-michigan-eua-economia.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "UE aponta possível violação de legislação digital pelo TikTok na proteção de menores",
-      "summary": "Segundo a investigação do braço executivo da União Europeia (UE), a plataforma permite que menores configurem suas contas como públicas, tornando seus conteúdos visíveis a qualquer usuário, inclusive pessoas sem conta no",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/business/ue-aponta-possivel-violacao-de-legislacao-digital-pelo-tiktok-na-protecao-de-menores/",
-      "time": "2026-07-24T13:49:07Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/2025-12-30T184340Z_1322780776_RC2RPGA8RYB4_RTRMADP_3_POLAND-TIKTOK-EU.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Petrobras (PETR4) tem espaço para reajustar combustíveis ou ampliar subvenções, avalia BTG",
-      "summary": "A Petrobras (PETR4) segue vendendo diesel e gasolina abaixo dos preços de paridade de importação (PPI), o que mantém fechada a janela para importações de combustíveis. Para o BTG Pactual, esse cenário abre espaço para re",
+      "title": "Tarifaço em dose dupla: O impacto das novas taxas dos EUA na bolsa brasileira, segundo analistas",
+      "summary": "O Brasil foi duplamente tarifado pelos Estados Unidos nos últimos três dias. Na quarta-feira (22), entrou em vigor uma alíquota de 25% sobre produtos brasileiros. Já nesta sexta-feira (24), foi anunciada uma sobretaxa ad",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/petrobras-petr4-tem-espaco-para-reajustar-combustiveis-ou-ampliar-subvencoes-avalia-btg/",
-      "time": "2026-07-24T14:21:01Z",
-      "cat": "acoes",
-      "tickers": [
-        "PETR4"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/dig37045.jpg.myfblomcmq8rnbvjqa0a.oiibej3hbq-e1784902668645.jpg"
-    },
-    {
-      "title": "Tesouro de quase R$ 20 milhões é encontrado por acaso e some sem deixar rastros",
-      "summary": "Tudo começou com a simples reforma de uma casa. Um encanador trabalhava no porão da obra quando encontrou um baú. Ao abri-lo, deparou-se com um tesouro: 30 kg de moedas de ouro com a efígie de Wolfgang Amadeus Mozart. A ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/tesouro-de-quase-r-20-milhoes-e-encontrado-por-acaso-e-some-sem-deixar-rastros-ceci/",
-      "time": "2026-07-24T14:08:50Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/istock-1007461704-e1784901849128.jpg"
-    },
-    {
-      "title": "Wall Street abre sem direção com novo tarifaço de Trump e tech no radar",
-      "summary": "Os índices de Wall Street começaram o pregão desta sexta-feira (24) mistos com volatilidade do setor de tecnologia, apesar dos dados positivos da Intel, e com o anúncio do novo tarifaço dos Estados Unidos aos principais ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/wall-street-abertura-24-7-26-apsa/",
-      "time": "2026-07-24T13:49:39Z",
+      "url": "https://www.moneytimes.com.br/nova-tarifa-dos-eua-pesa-para-o-brasil-mas-mercado-ve-efeito-ja-precificado-apsa-lils/",
+      "time": "2026-07-24T16:32:22Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/2026-07-06t134208z-1-lynxmpem650w6-rtroptp-4-usa-stocks-economy-investors-e1784123087988.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/tarifas-de-trump-estados-unidos-1.jpg"
     },
     {
-      "title": "M. Dias Branco (MDIA3): Safra vê alta no volume de vendas, mas corta preço-alvo por desafios no setor",
-      "summary": "Com uma expectativa de um segundo trimestre de 2026 para a M.Dias Branco (MDIA3) com resultados mais fracos e um crescimento no volume de vendas modesto, o Safra reduziu suas projeções para a empresa, com um corte do pre",
+      "title": "Banco Master: liquidante amplia ofensiva contra fundos em ação sobre desvio de recursos",
+      "summary": "O liquidante do Banco Master ampliou a ofensiva judicial para incluir novos fundos de investimento em uma ação de protesto contra alienação de bens. Segundo ele, os veículos teriam integrado uma estrutura usada para desv",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/m-dias-branco-mdia3-safra-ve-alta-volume-de-vendas-mas-corta-preco-alvo-garg/",
-      "time": "2026-07-24T13:40:48Z",
-      "cat": "analise",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/m.-dias-branco-mdia3-piraque-.jpg"
-    },
-    {
-      "title": "Em momento de volatilidade da carteira manter um caixa diversificado é essencial",
-      "summary": "Manter uma posição adequada de caixa não representa falta de convicção, mas sim a preservação da capacidade de decisão. Em períodos de maior volatilidade, essa reserva reduz a necessidade de vender ativos em momentos des",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/volatividade-da-carteira-manter-um-caixa-diversificado-e-essencial-garg/",
-      "time": "2026-07-24T13:40:44Z",
-      "cat": "analise",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/dinheiro.jpg"
-    },
-    {
-      "title": "Como o consignado privado digital está mudando o jogo para os trabalhadores — e os bancos",
-      "summary": "O mercado brasileiro de crédito passa por transformações na captação de recursos e na concessão dos créditos, com reflexos na dinâmica competitiva entre instituições financeiras, fintechs e prestadores de serviços ao mer",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/como-o-consignado-privado-digital-esta-mudando-o-jogo-para-os-trabalhadores-e-os-bancos/",
-      "time": "2026-07-24T13:36:26Z",
+      "url": "https://www.moneytimes.com.br/liquidante-do-master-amplia-ofensiva-contra-fundos-em-acao-sobre-desvio-de-recursos-vtra/",
+      "time": "2026-07-24T16:01:11Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/carteira-de-trabalho-brasileira.-trabalho-registrado-clt-e-dinheiro-do-brasil.-salario-minimo-dinheiro-real-brasileiro.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2025/11/banco-master-1.jpg"
     },
     {
-      "title": "EUA atacam Irã de norte a sul após ameaças de Trump sobre navegação no Mar Vermelho",
-      "summary": "Mísseis dos Estados Unidos atingiram alvos em todo o Irã, chegando até a costa do Mar Cáspio, nesta sexta-feira (24), depois que o presidente norte-americano, Donald Trump, prometeu uma “punição militar severa” a Teerã e",
+      "title": "Exagero? A avaliação do Bradesco BBI sobre a queda de 40% das construtoras",
+      "summary": "O Bradesco BBI afirma que a queda em torno de 40% das ações de construtoras desde as máximas recentes parece exagerada, sobretudo no segmento de baixa renda. Os papéis operam próximos das mínimas em 52 semanas e agora ne",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/eua-atacam-ira-de-norte-a-sul-apos-ameacas-de-trump-sobre-navegacao-no-mar-vermelho/",
-      "time": "2026-07-24T13:27:44Z",
-      "cat": "internacional",
+      "url": "https://www.moneytimes.com.br/bradesco-bbi-ve-queda-de-40-em-construtoras-como-exagerada-isca/",
+      "time": "2026-07-24T15:59:08Z",
+      "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/2022-07-15t130758z-1-lynxmpei6e0ki-rtroptp-4-ira-eua-israel.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2026/03/cury-cury3-imagem-divulgacao.png"
     },
     {
-      "title": "Ibovespa cai 1% em reação a mais uma tarifa de Trump; 5 coisas para saber antes de investir hoje (24)",
-      "summary": "O Ibovespa (IBOV) inicia o pregão desta sexta-feira (24) em forte queda com o mercado digerindo a nova tarifa dos Estados Unidos sobre os produtos brasileiros e a derrocada dos preços do petróleo. Por volta de 10h10 (hor",
+      "title": "Governo acaba com bloqueio automático do Bolsa Família e BPC para quem mora sozinho",
+      "summary": "O governo federal mudou as regras de concessão do Benefício de Prestação Continuada (BPC) e do Bolsa Família para quem mora sozinho. Após acordo judicial, o Ministério do Desenvolvimento e Assistência Social alterou as n",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ibovespa-5-coisas-24-7-26-lils/",
-      "time": "2026-07-24T13:13:40Z",
-      "cat": "internacional",
+      "url": "https://www.moneytimes.com.br/governo-acaba-com-bloqueio-automatico-bolsa-familia-bpc-para-quem-mora-sozinho-rsgp/",
+      "time": "2026-07-24T15:16:19Z",
+      "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/ibovespa-day-trade-2-1-1-1-2-1-1-1-1-1-1-1-1-1.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/novo-programa-bolsa-familia.png"
     },
     {
-      "title": "Mini índice desvaloriza e pode alcançar 175 mil pontos, aponta BTG; mini dólar interrompe sequência de quedas",
-      "summary": "O mini índice (WIN) encerrou a última sessão em queda e, caso perca a região dos 177 mil pontos, aumenta a probabilidade de testar o suporte dos 175 mil pontos, segundo relatório de análise técnica do BTG Pactual divulga",
+      "title": "O ano mais atípico da história do mercado brasileiro de fertilizantes, segundo a Keytrade",
+      "summary": "O mercado brasileiro de fertilizantes atravessa aquele que pode ser o ano mais atípico e desafiador de sua história, na avaliação da Keytrade, uma das principais tradings globais do setor. Em reunião com analistas do Ban",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/mini-indice-desvaloriza-pode-alcancar-175-mil-pontos-mini-dolar-valoriza-btg-garg/",
-      "time": "2026-07-24T13:10:54Z",
-      "cat": "fundos",
+      "url": "https://www.moneytimes.com.br/o-ano-mais-atipico-e-desafiador-da-historia-do-mercado-brasileiro-de-fertilizantes-segundo-a-keytrade-pads/",
+      "time": "2026-07-24T15:07:29Z",
+      "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/admin-ajax-1.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2026/03/china-fertilizantes.jpg"
+    },
+    {
+      "title": "‘Nos resta uma última milha’, diz Durigan ao defender ajuste fiscal; ministro promete avanços nas contas públicas",
+      "summary": "“Nos resta uma última milha de esforço.” Foi assim que o ministro da Fazenda, Dario Durigan, resumiu o desafio da equipe econômica para consolidar o ajuste fiscal no país. Durante participação na Expert XP, nesta sexta-f",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/nos-resta-uma-ultima-milha-diz-durigan-ao-defender-ajuste-fiscal-ministro-promete-avancos-nas-contas-publicas/",
+      "time": "2026-07-24T15:01:12Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/dario-durigan-fazenda.jpg"
     },
     {
       "title": "Cotistas deste FII têm pouco tempo para votar sobre o fim do fundo",
@@ -288,139 +226,105 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/analista-concentrado-1_02.webp"
     },
     {
-      "title": "FII renova contrato com Banrisul em agência no RS por mais cinco anos",
-      "summary": "O BNFS11 (Banrisul Novas Fronteiras Fundo de Investimento Imobiliário) comunicou a assinatura de um novo contrato de locação comercial com o Banco do Estado do Rio Grande do Sul (Banrisul) para o imóvel que abriga a Agên",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/fii-renova-contrato-com-banrisul-em-agencia-no-rs-por-mais-cinco-anos/",
-      "time": "2026-07-23T21:45:07Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/153_Detalhe_de_gr_fico_f_1_2026017_173633-5-jpg.webp"
-    },
-    {
-      "title": "Ibovespa cai com juros e aversão ao risco; Petrobras (PETR4) limita perdas",
-      "summary": "Ibovespa cai com juros e aversão ao risco; Petrobras (PETR4) limita perdasO Ibovespa devolveu parte da forte alta da véspera e encerrou esta quinta-feira (23) em queda, acompanhando o aumento da aversão ao risco nos merc",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-23-julho-2026-petr4-petroleo-juros-mt/",
-      "time": "2026-07-23T21:24:40Z",
-      "cat": "economia",
-      "tickers": [
-        "PETR4"
-      ],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2026/07/7a2811c9-down-800x450-1-jpg.webp"
-    },
-    {
-      "title": "Invasão feita pelo ChatGPT sugere que validação da AGI será no campo da cibersegurança",
-      "summary": "Dois modelos de IA removeram as próprias travas, acharam falhas inéditas, chegaram à internet e atacaram a empresa Hugging Face em busca do gabarito de uma prova de hacking; empresa se defendeu com um modelo chinês",
-      "source": "Exame",
-      "url": "https://exame.com/inteligencia-artificial/invasao-feita-pelo-chatgpt-sugere-que-validacao-da-agi-sera-no-campo-da-ciberseguranca/",
-      "time": "2026-07-24T11:44:01Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/hugging_openai.png"
-    },
-    {
-      "title": "Ibovespa volta a cair com pressão de Vale, Petrobras e bancos",
-      "summary": "Blue chips operam em baixa enquanto petróleo recua nesta sexta-feira, 24; já o dólar opera em leve queda frente ao real",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/ibovespa-volta-a-cair-com-pressao-de-vale-petrobras-e-bancos/",
-      "time": "2026-07-24T11:05:40Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2020/10/DSC8049baixa-1.jpg"
-    },
-    {
-      "title": "Rentabilidade do Tesouro dos EUA é maior em 19 anos: brasileiro pode investir?",
-      "summary": "Taxas dos títulos públicos americanos voltaram aos maiores níveis desde 2007 em meio ao estresse nos mercados com big techs e guerra",
-      "source": "Exame",
-      "url": "https://exame.com/invest/minhas-financas/rentabilidade-do-tesouro-dos-eua-e-maior-em-19-anos-brasileiro-pode-investir/",
-      "time": "2026-07-24T11:03:01Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2019/04/dc3b3lar-paul-yeung-17-04.jpg"
-    },
-    {
-      "title": "Bitcoin cai pelo 3º dia seguido, mas acumula alta de mais de 2% em 7 dias",
-      "summary": "Maior das criptomoedas sofre com o cenário geopolítico negativo e começa a formar topos gráficos cada vez menores",
-      "source": "Exame",
-      "url": "https://exame.com/future-of-money/bitcoin-cai-pelo-3o-dia-seguido-mas-acumula-alta-de-mais-de-2-em-7-dias/",
-      "time": "2026-07-24T11:01:08Z",
-      "cat": "cripto",
-      "tickers": [
-        "BTC"
-      ],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/erling-loken-andersen-k3_Cb0VQogM-unsplash.jpg"
-    },
-    {
-      "title": "EUA estendem prazo para transações com a Lukoil até 22 de agosto",
+      "title": "Ações da Sidus Space caem após anúncio de novo CFO",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/eua-estendem-prazo-para-transacoes-com-a-lukoil-ate-22-de-agosto-93CH-2013129",
-      "time": "2026-07-24T14:31:07Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-sidus-space-caem-apos-anuncio-de-novo-cfo-93CH-2013263",
+      "time": "2026-07-24T16:20:31Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Fundo Meridiem de Khalid Malik se recupera com apoio da Schonfeld",
+      "title": "Ações da Robin Energy despencam 42% após oferta de ações com desconto",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/fundo-meridiem-de-khalid-malik-se-recupera-com-apoio-da-schonfeld-93CH-2013122",
-      "time": "2026-07-24T14:24:58Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-robin-energy-despencam-42-apos-oferta-de-acoes-com-desconto-93CH-2013261",
+      "time": "2026-07-24T16:17:40Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Cadillac Mines capta C$ 385 milhões em IPO ampliado no Canadá",
+      "title": "Ações da Lightspeed sobem com integração ao Meta Ads",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/cadillac-mines-capta-c-385-milhoes-em-ipo-ampliado-no-canada-93CH-2013119",
-      "time": "2026-07-24T14:22:19Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-lightspeed-sobem-com-integracao-ao-meta-ads-93CH-2013260",
+      "time": "2026-07-24T16:16:56Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "TPU como serviço pode aumentar o lucro do Google em mais de 15% até 2028, diz Barclays",
+      "title": "Ações da Qualcomm caem apesar de alta no meio do dia após reajuste de preços",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/tpu-como-servico-pode-aumentar-o-lucro-do-google-em-mais-de-15-ate-2028-diz-barclays-2013107",
-      "time": "2026-07-24T14:11:47Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-qualcomm-caem-apesar-de-alta-no-meio-do-dia-apos-reajuste-de-precos-2013264",
+      "time": "2026-07-24T16:15:24Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Tesla em queda livre com RSI em 18: níveis ao vivo",
+      "title": "Ações da DigitalOcean caem após recompra de notas de US$ 472 mi",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/tesla-testa-suporte-critico-em-368-com-rsi-perto-de-sobrevenda-ao-vivo-93CH-2007015",
-      "time": "2026-07-24T14:06:44Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-digitalocean-caem-apos-recompra-de-notas-de-us-472-mi-93CH-2013259",
+      "time": "2026-07-24T16:12:45Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Por que as ações da SK Hynix estão caindo hoje?",
+      "title": "Ações da Radiopharm despencam 21% após captação dilutiva",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-sk-hynix-estao-caindo-hoje-93CH-2013080",
-      "time": "2026-07-24T14:01:45Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-radiopharm-despencam-21-apos-captacao-dilutiva-93CH-2013257",
+      "time": "2026-07-24T16:12:12Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Por que as ações da Cleveland-Cliffs estão subindo hoje?",
+      "title": "Reino Unido - Ações fecharam o pregão em alta e o Índice Investing.com Reino Unido 100 avançou 0,93%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-clevelandcliffs-estao-subindo-hoje-93CH-2013073",
-      "time": "2026-07-24T13:56:33Z",
+      "url": "https://br.investing.com/news/stock-market-news/reino-unido--acoes-fecharam-o-pregao-em-alta-e-o-indice-investingcom-reino-unido-100-avancou-093-2013250",
+      "time": "2026-07-24T16:09:02Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEDBS0W6_M.jpg"
+    },
+    {
+      "title": "Espanha - Ações fecharam o pregão em alta e o Índice IBEX 35 avançou 1,65%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/espanha--acoes-fecharam-o-pregao-em-alta-e-o-indice-ibex-35-avancou-165-2013249",
+      "time": "2026-07-24T16:08:35Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB680B3_M.jpg"
+    },
+    {
+      "title": "Portugal - Ações fecharam o pregão em queda e o Índice PSI recuou 0,40%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/portugal--acoes-fecharam-o-pregao-em-queda-e-o-indice-psi-recuou-040-2013248",
+      "time": "2026-07-24T16:08:10Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB2I0YG_M.jpg"
+    },
+    {
+      "title": "Holanda - Ações fecharam o pregão em alta e o Índice AEX avançou 0,31%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/holanda--acoes-fecharam-o-pregao-em-alta-e-o-indice-aex-avancou-031-2013247",
+      "time": "2026-07-24T16:07:45Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": null
     }
   ],
-  "atualizado_em": "24/07/2026 14:53"
+  "atualizado_em": "24/07/2026 16:41"
 }
