@@ -1,79 +1,135 @@
 {
   "headline": {
-    "title": "Ibovespa cai 1,52% com Petrobras (PETR4), Vale (VALE3) e bancos em baixa",
-    "summary": "O Ibovespa encerrou esta sexta-feira (24) em forte queda, pressionado pelo recuo das principais blue chips da bolsa e pela cautela dos investidores diante das novas tarifas impostas pelos Estados Unidos e das incertezas ",
-    "source": "Suno",
-    "url": "https://www.suno.com.br/noticias/ibovespa-hoje-24-julho-2026-petr4-vale3-mt/",
-    "time": "2026-07-24T21:15:05Z",
+    "title": "Hapvida (HAPV3) despenca 13% e CSN Mineração (CMIN3) lidera ganhos; veja os destaques do Ibovespa na semana",
+    "summary": "O Ibovespa (IBOV) voltou ao território de ganhos com apoio das blue chips, em meio a escalada das tensões comerciais e geopolíticas. O principal índice da bolsa brasileira acumulou leve valorização de 0,19% na semana e e",
+    "source": "Money Times",
+    "url": "https://www.moneytimes.com.br/ibovespa-destaques-na-semana-30-lils/",
+    "time": "2026-07-25T11:40:00Z",
     "cat": "acoes",
     "tickers": [
-      "PETR4",
-      "VALE3"
+      "HAPV3",
+      "CMIN3"
     ],
-    "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/c05e2f54-ibovespa-800x450-1-2-2-jpg.webp"
+    "image": "https://www.moneytimes.com.br/uploads/2026/07/acoes-ibovespa-ibov.jpg"
   },
   "featured": [
     {
-      "title": "Verde: IPCA+8% em título público ainda é pouco prêmio para risco eleitoral",
-      "summary": "Gestor aponta acelerador fiscal e a competição dos ativos isentos como causas do juro real alto, mas diz que a curva não paga a turbulência que pode vir mais perto da eleição",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/onde-investir/verde-ipca8-em-titulo-publico-ainda-e-pouco-premio-para-risco-eleitoral/",
-      "time": "2026-07-25T08:00:00Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/expert-xp-Macroeconomia-em-Transicao-03.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
+      "title": "Ibovespa cai 1,52% com Petrobras (PETR4), Vale (VALE3) e bancos em baixa",
+      "summary": "O Ibovespa encerrou esta sexta-feira (24) em forte queda, pressionado pelo recuo das principais blue chips da bolsa e pela cautela dos investidores diante das novas tarifas impostas pelos Estados Unidos e das incertezas ",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-24-julho-2026-petr4-vale3-mt/",
+      "time": "2026-07-24T21:15:05Z",
+      "cat": "acoes",
+      "tickers": [
+        "PETR4",
+        "VALE3"
+      ],
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/c05e2f54-ibovespa-800x450-1-2-2-jpg.webp"
     },
     {
-      "title": "Expert XP 2026 termina com premiação, João Fonseca, CEOs e influencers",
-      "summary": "Ao longo de três dias no São Paulo Expo, o evento reuniu estrelas globais ao lado de executivos e autoridades do mercado brasileiro",
+      "title": "Renan Santos denuncia cantora à PF por fala interpretada como incitação à violência",
+      "summary": "Denúncia trata de manifestação da cantora Sophia Chablau em palco de casa de shows na cidade de São Paulo",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/carreira/expert-xp-2026-termina-com-premiacao-joao-fonseca-ceo-e-influencers/",
-      "time": "2026-07-25T10:00:00Z",
+      "url": "https://www.infomoney.com.br/politica/renan-santos-denuncia-cantora-a-pf-por-fala-interpretada-como-incitacao-a-violencia/",
+      "time": "2026-07-25T13:05:00Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/expert-xp-ceos-14.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/renan-santos-politico-partido-missao03.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
     }
   ],
   "all": [
     {
-      "title": "Expert XP 2026 termina com premiação, João Fonseca, CEOs e influencers",
-      "summary": "Ao longo de três dias no São Paulo Expo, o evento reuniu estrelas globais ao lado de executivos e autoridades do mercado brasileiro",
+      "title": "Renan Santos denuncia cantora à PF por fala interpretada como incitação à violência",
+      "summary": "Denúncia trata de manifestação da cantora Sophia Chablau em palco de casa de shows na cidade de São Paulo",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/carreira/expert-xp-2026-termina-com-premiacao-joao-fonseca-ceo-e-influencers/",
-      "time": "2026-07-25T10:00:00Z",
+      "url": "https://www.infomoney.com.br/politica/renan-santos-denuncia-cantora-a-pf-por-fala-interpretada-como-incitacao-a-violencia/",
+      "time": "2026-07-25T13:05:00Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/expert-xp-ceos-14.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/renan-santos-politico-partido-missao03.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Verde: IPCA+8% em título público ainda é pouco prêmio para risco eleitoral",
-      "summary": "Gestor aponta acelerador fiscal e a competição dos ativos isentos como causas do juro real alto, mas diz que a curva não paga a turbulência que pode vir mais perto da eleição",
+      "title": "Copa terminou em frustração, mas Neymar busca recomeço no Santos; o que esperar?",
+      "summary": "Craque de 34 anos, que deve ser titular contra a Chapecoense, colecionou polêmicas recentes e reencontra clube em colapso",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/onde-investir/verde-ipca8-em-titulo-publico-ainda-e-pouco-premio-para-risco-eleitoral/",
-      "time": "2026-07-25T08:00:00Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/expert-xp-Macroeconomia-em-Transicao-03.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Lula chega mais forte ao 2º semestre, mas disputa tem interrogação, dizem analistas",
-      "summary": "Especialistas apontam melhora do cenário para o presidente após mudanças na percepção econômica, mas avaliam que campanha curta, debates e mobilização do eleitor ainda podem alterar a disputa",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/lula-chega-mais-forte-ao-2o-semestre-mas-disputa-tem-interrogacao-dizem-analistas/",
-      "time": "2026-07-25T08:00:00Z",
+      "url": "https://www.infomoney.com.br/esportes/copa-terminou-em-frustracao-mas-neymar-busca-recomeco-no-santos-o-que-esperar/",
+      "time": "2026-07-25T12:54:07Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/expert-xp-20260724-13h20-learning-session-01-7.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/copa-mundo-fifa-2026-eua-neymar-brasil01.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Governo reduz previsão de déficit primário de estatais em 2026 para R$ 95,1 milhões",
-      "summary": "Essa estimativa já leva em conta os R$ 10 bilhões excluídos da meta das estatais por causa do plano de reestruturação dos Correios",
+      "title": "Band avalia mudar data de debate para viabilizar participação de Lula",
+      "summary": "Antes anunciado para 16 de agosto, o programa deixou de ter um dia fechado",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/governo-reduz-previsao-de-deficit-primario-de-estatais-em-2026-para-r-951-milhoes/",
-      "time": "2026-07-25T01:37:50Z",
-      "cat": "economia",
+      "url": "https://www.infomoney.com.br/politica/band-avalia-mudar-data-de-debate-para-viabilizar-participacao-de-lula/",
+      "time": "2026-07-25T12:35:00Z",
+      "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/correios.jpg?fit=300%2C179&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/10/Debate_Band141024.png?fit=300%2C136&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Aluguel no Rio sobe 18% em um ano; veja o que está por trás da alta",
+      "summary": "Levantamento do Secovi Rio mostra que caiu 30,4% o número de ofertas de aluguel tradicional na cidade",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/minhas-financas/aluguel-no-rio-sobe-18-em-um-ano-veja-o-que-esta-por-tras-da-alta/",
+      "time": "2026-07-25T11:17:21Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/Praia_de_Ipanema_Rio_de_Janeiro.jpg?fit=300%2C199&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "O maior erro que o mercado comete na avaliação de risco no agronegócio, segundo a Agrolend",
+      "summary": "A recente onda de inadimplência e recuperações judiciais no agronegócio expôs um dos principais desafios enfrentados por bancos, fundos e fintechs que financiam o setor: como medir corretamente o risco de um produtor? Pa",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/o-maior-erro-que-o-mercado-comete-na-avaliacao-de-risco-no-agronegocio-segundo-a-agrolend-pads/",
+      "time": "2026-07-25T13:00:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/risco-agronegocio-agrolend-2.jpg"
+    },
+    {
+      "title": "“Você só descobre quem está nadando pelado quando a maré baixa”: o significado da frase de Warren Buffett no mundo dos investimentos",
+      "summary": "“Você só descobre quem está nadando pelado quando a maré baixa.” A frase é atribuída ao investidor norte-americano Warren Buffett. Com o passar dos anos, ela se transformou em uma das metáforas mais conhecidas do mercado",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/voce-so-descobre-quem-esta-nadando-pelado-quando-a-mare-baixa-o-significado-da-frase-de-warren-buffett-no-mundo-dos-investimentos-jvka/",
+      "time": "2026-07-25T13:00:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2022/04/warren-buffett.jpg"
+    },
+    {
+      "title": "Saiba por que investir nos Fiagros, classe de ativos que cresceu mais de 226% em captação em 2026",
+      "summary": "Depois de um período desafiador, os Fiagros avançaram em 2025 e acumularam mais de 600 mil investidores ativos.",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/saiba-por-que-investir-nos-fiagros-classe-de-ativos-que-cresceu-mais-de-226-em-captacao-em-2026-lbrdjm020/",
+      "time": "2026-07-25T13:00:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/pexels-andre-ulysses-de-salis-2100065-7908319-png.png"
+    },
+    {
+      "title": "O ‘Princípio de José’: a estratégia bíblica que ajuda a proteger seu dinheiro nos momentos de crise",
+      "summary": "Muito antes dos mercados financeiros modernos e de estratégias complexas de investimentos, uma antiga narrativa bíblica já ensinava uma regra essencial para qualquer investidor. A história de José do Egito, em Gênesis 41",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/principio-de-jose-estrategia-biblica-ajuda-proteger-seu-dinheiro-nos-momentos-de-crise-rsgp/",
+      "time": "2026-07-25T12:01:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/jose-egito-1-1200x675-1.jpg"
+    },
+    {
+      "title": "Hapvida (HAPV3) despenca 13% e CSN Mineração (CMIN3) lidera ganhos; veja os destaques do Ibovespa na semana",
+      "summary": "O Ibovespa (IBOV) voltou ao território de ganhos com apoio das blue chips, em meio a escalada das tensões comerciais e geopolíticas. O principal índice da bolsa brasileira acumulou leve valorização de 0,19% na semana e e",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ibovespa-destaques-na-semana-30-lils/",
+      "time": "2026-07-25T11:40:00Z",
+      "cat": "acoes",
+      "tickers": [
+        "HAPV3",
+        "CMIN3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/acoes-ibovespa-ibov.jpg"
     },
     {
       "title": "‘O Lula está para perder’; as apostas de gestores com R$ 180 bilhões na carteira para eleições",
@@ -106,36 +162,6 @@
         "EMBJ3"
       ],
       "image": "https://www.moneytimes.com.br/uploads/2026/07/2026-07-14t113647z-1-lynxmpem6d0mn-rtroptp-4-france-airshow-scaled.jpg"
-    },
-    {
-      "title": "23,1% das exportações brasileiras aos EUA estão sujeitas a novas tarifas, diz ministério",
-      "summary": "O Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC) informou nesta sexta-feira, 24, que, combinadas, as novas tarifas dos Estados Unidos anunciadas neste mês de julho alcançam 23,1% das exportações bra",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/231-das-exportacoes-brasileiras-aos-eua-estao-sujeitas-a-novas-tarifas-diz-ministerio/",
-      "time": "2026-07-24T20:47:37Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/07/trump-1.png"
-    },
-    {
-      "title": "Ibovespa recua mais de 1% com alívio no petróleo; dólar tem leve queda a R$ 5,08",
-      "summary": "O Ibovespa (IBOV) foi pressionado pelo alívio nos preços do petróleo e engatou a segunda forte queda consecutiva. Nesta sexta-feira (24), o principal índice da bolsa brasileira terminou as negociações com queda de 1,52%,",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ibovespa-24-7-26-lils/",
-      "time": "2026-07-24T20:28:42Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2024/06/ibovespa-ibov-analise-grafica-do-indice-1.jpg"
-    },
-    {
-      "title": "Wall Street fecha sem direção única com venda de chips; Nasdaq despenca 2% na semana",
-      "summary": "Os índices de Wall Street encerram a sessão desta sexta-feira (24) mistos diante do derretimento das ações da Intel, que pesaram sobre o Nasdaq, e de novo movimento de venda das ações de fabricantes de chips. Confira o f",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/wall-street-24-7-26-apsa/",
-      "time": "2026-07-24T20:16:23Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/wall-street-nasdaq-bolsas-americanas.jpg"
     },
     {
       "title": "RZTR11 recebe valor de multa de R$ 3,42 milhões e mantém receita após troca de arrendatária no MT",
@@ -221,44 +247,24 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/c05e2f54-ibovespa-800x450-1-2-2-jpg.webp"
     },
     {
-      "title": "O jeito certo de pedir feedback para a IA pode transformar seus textos, e-mails e apresentações",
-      "summary": "Em vez de apenas gerar conteúdo, a inteligência artificial também pode atuar como revisora. A qualidade desse retorno, no entanto, depende da forma como o pedido é feito",
+      "title": "IA, tokenização e cibersegurança: o novo tripé da estratégia digital das empresas",
+      "summary": "A discussão sobre IA exige integração entre estratégia, recursos financeiros, risco e segurança",
       "source": "Exame",
-      "url": "https://exame.com/inteligencia-artificial/o-jeito-certo-de-pedir-feedback-para-a-ia-pode-transformar-seus-textos-e-mails-e-apresentacoes/",
-      "time": "2026-07-25T07:05:29Z",
+      "url": "https://exame.com/future-of-money/ia-tokenizacao-e-ciberseguranca-o-tripe-que-redefine-a-estrategia-digital-das-empresas/",
+      "time": "2026-07-25T10:00:37Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2020/12/feedback.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/120182.jpg"
     },
     {
-      "title": "Como construir uma Central de Operações de Segurança madura",
-      "summary": "Descubra como a maturidade do Security Operations Center protege os negócios e vai além das ferramentas básicas de tecnologia",
+      "title": "Ministro da Educação da Índia renuncia após seis dias de protestos estudantis",
+      "summary": "Saída de Dharmendra Pradhan ocorre em meio à pressão do movimento das \"Baratas\", que denuncia fraudes em exames universitários e cobra mudanças no sistema educacional",
       "source": "Exame",
-      "url": "https://exame.com/bussola/como-construir-uma-central-de-operacoes-de-seguranca-madura/",
-      "time": "2026-07-25T07:00:14Z",
+      "url": "https://exame.com/mundo/ministro-da-educacao-da-india-renuncia-apos-seis-dias-de-protestos-estudantis/",
+      "time": "2026-07-25T09:43:25Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/Conselho-de-administracao-maduro-fizkes0A.jpg"
-    },
-    {
-      "title": "Fundo compra US$ 1,3 bi em empréstimos ligados ao aluguel congelado de Mamdani",
-      "summary": "Cerberus, que administra US$ 70 bi, adquire carteira do OceanFirst com exposição a imóveis regulados em Nova York",
-      "source": "Exame",
-      "url": "https://exame.com/mercado-imobiliario/fundo-compra-us-13-bi-em-emprestimos-ligados-ao-aluguel-congelado-de-mamdani/",
-      "time": "2026-07-25T07:00:12Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/11/da.jpg"
-    },
-    {
-      "title": "Mudança global na alimentação pode reduzir emissões agrícolas em até 85%, diz estudo",
-      "summary": "Pesquisadores estimam redução expressiva das emissões e uma nova distribuição da produção de alimentos até 2050",
-      "source": "Exame",
-      "url": "https://exame.com/esg/mudanca-global-na-alimentacao-pode-reduzir-emissoes-agricolas-em-ate-85-diz-estudo/",
-      "time": "2026-07-25T06:01:57Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/agricultura.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/GettyImages-2286627612.jpg"
     },
     {
       "title": "EPR vence leilão da Régis Bittencourt com oferta de deságio sobre pedágio de 22,53%",
@@ -309,17 +315,7 @@
       "cat": "internacional",
       "tickers": [],
       "image": null
-    },
-    {
-      "title": "Bank of America aponta principais ações de software de infraestrutura, lideradas por Datadog",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/bank-of-america-aponta-principais-acoes-de-software-de-infraestrutura-lideradas-por-datadog-93CH-2013508",
-      "time": "2026-07-24T23:51:53Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "25/07/2026 10:24"
+  "atualizado_em": "25/07/2026 13:16"
 }
