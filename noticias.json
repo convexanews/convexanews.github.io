@@ -1,95 +1,134 @@
 {
   "headline": {
-    "title": "Temporada de balanços: Usiminas (USIM5), Vale (VALE3) e outras 10 empresas divulgam resultados nesta semana",
-    "summary": "O mês de julho chega ao fim com a divulgação dos resultados do segundo trimestre de 2026 (2T26) de ao menos 10 empresas. Entre os dias 27 e 31, alguns dos destaques são a Usiminas (USIM5), Vale (VALE3), Santander (SANB11",
+    "title": "IPCA-15, juros do Fed e PIB dos EUA: Veja os destaques da agenda econômica da semana",
+    "summary": "A última semana de julho será marcada por uma agenda intensa de indicadores econômicos e decisões de política monetária, com potencial para influenciar os rumos dos mercados globais. No Brasil, as atenções se voltam para",
     "source": "Money Times",
-    "url": "https://www.moneytimes.com.br/temporada-de-balancos-usiminas-usim5-vale-vale3-e-outras-10-empresas-divulgam-resultados-nesta-semana/",
-    "time": "2026-07-26T13:00:00Z",
-    "cat": "acoes",
-    "tickers": [
-      "USIM5",
-      "VALE3",
-      "SANB11"
-    ],
-    "image": "https://www.moneytimes.com.br/uploads/2025/04/usiminas-usim5-acoes-mineracao-siderurgia-temporada-de-resultados-1t25.jpg"
+    "url": "https://www.moneytimes.com.br/ipca-15-juros-do-fed-e-pib-dos-eua-veja-os-destaques-da-agenda-economica-da-semana/",
+    "time": "2026-07-26T15:00:00Z",
+    "cat": "economia",
+    "tickers": [],
+    "image": "https://www.moneytimes.com.br/uploads/2026/07/eua-estados-unidos-cpi-inflacao.jpg"
   },
   "featured": [
     {
-      "title": "IRB(Re) (IRBR3) e Bradesco (BBDC4): Veja quem paga dividendos na semana",
-      "summary": "IRB(Re) (IRBR3) e Bradesco (BBDC4): Veja quem paga dividendos na semanaA semana começa animada para os investidores que têm a estratégia de receber dividendos para reinvestir e engordar seu patrimônio, com destaque para ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/irb-irbr3-o-bradesco-bbdc4-agenda-dividendos-24072026/",
-      "time": "2026-07-26T13:00:00Z",
+      "title": "Bitcoin (BTC) sobe, mas cautela predomina antes de decisão do Fed; veja cotações das criptomoedas neste domingo (26)",
+      "summary": "O bitcoin (BTC) é negociado na faixa dos US$ 64,4 mil neste domingo (26), com leve alta de aproximadamente 0,7% nas últimas 24 horas, segundo dados da plataforma Coingecko. No acumulado de sete dias, a maior criptomoeda ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/bitcoin-btc-sobe-mas-cautela-predomina-antes-de-decisao-do-fed-veja-cotacoes-das-criptomoedas-neste-domingo-26-igdl/",
+      "time": "2026-07-26T13:21:10Z",
       "cat": "fundos",
       "tickers": [
-        "IRBR3",
-        "BBDC4"
+        "BTC"
       ],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/04/joelfotos-ballots-1195005-scaled-1-jpg.webp"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/image-79.png"
     },
     {
-      "title": "Incêndios na França e Espanha já obrigaram a evacuação de 300 mil pessoas",
-      "summary": "Na França, diante da ameaça do fogo que já consumiu 100 mil hectares, 55 mil novas evacuações foram ordenadas na noite de sábado, elevando o número de pessoas deslocadas para 220 mil",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mundo/incendios-na-franca-e-espanha-ja-obrigaram-a-evacuacao-de-300-mil-pessoas/",
-      "time": "2026-07-26T13:04:31Z",
+      "title": "Temporada de balanços: Usiminas (USIM5), Vale (VALE3) e outras 10 empresas divulgam resultados nesta semana",
+      "summary": "O mês de julho chega ao fim com a divulgação dos resultados do segundo trimestre de 2026 (2T26) de ao menos 10 empresas. Entre os dias 27 e 31, alguns dos destaques são a Usiminas (USIM5), Vale (VALE3), Santander (SANB11",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/temporada-de-balancos-usiminas-usim5-vale-vale3-e-outras-10-empresas-divulgam-resultados-nesta-semana/",
+      "time": "2026-07-26T13:00:00Z",
       "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Incendios-Espanha.jpg?fit=300%2C196&amp;quality=70&amp;strip=all"
+      "tickers": [
+        "USIM5",
+        "VALE3",
+        "SANB11"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/04/usiminas-usim5-acoes-mineracao-siderurgia-temporada-de-resultados-1t25.jpg"
     }
   ],
   "all": [
     {
-      "title": "Incêndios na França e Espanha já obrigaram a evacuação de 300 mil pessoas",
-      "summary": "Na França, diante da ameaça do fogo que já consumiu 100 mil hectares, 55 mil novas evacuações foram ordenadas na noite de sábado, elevando o número de pessoas deslocadas para 220 mil",
+      "title": "Com “respiro” técnico e foco em dados, fluxo estrangeiro dá sinal de retomada na B3",
+      "summary": "Primeira quinzena de julho teve saldo positivo de R$ 2,351 bilhões; explicações vão da recente safra de indicadores ao valuation atrativa da Bolsa",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mundo/incendios-na-franca-e-espanha-ja-obrigaram-a-evacuacao-de-300-mil-pessoas/",
-      "time": "2026-07-26T13:04:31Z",
+      "url": "https://www.infomoney.com.br/mercados/com-respiro-tecnico-e-foco-em-dados-fluxo-estrangeiro-da-sinal-de-retomada-na-b3/",
+      "time": "2026-07-26T14:37:02Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Incendios-Espanha.jpg?fit=300%2C196&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/EspacoB3_02.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Qual o principal erro na implementação de IA nas empresas? Resposta é surpreendente",
-      "summary": "Especialistas detalham os desafios do uso de inteligência artificial nas companhias",
+      "title": "Quina hoje, concurso 7075: confira o resultado sorteado neste domingo (26)",
+      "summary": "Os números sorteados foram: 02 – 04 – 20 – 50 - 73",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/business/principal-erro-implementacao-ia-empresas/",
-      "time": "2026-07-26T13:00:00Z",
+      "url": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7075-confira-o-resultado-sorteado-neste-domingo-26/",
+      "time": "2026-07-26T14:19:29Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/growtika-nGoCBxiaRO0-unsplash.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Quina-26-de-julho.jpeg?fit=300%2C179&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "EUA suspendem ataques aéreos ao Irã, mas tensão permanece em meio a negociações",
-      "summary": "Mesmo com a suspensão dos ataques entre EUA e Irã, outros focos de tensão continuam ativos na região; noo sábado, os rebeldes houthis do Iêmen anunciaram ataques com mísseis e drones contra a Arábia Saudita",
+      "title": "Lotofácil hoje, concurso 3745: confira o resultado sorteado neste domingo (26)",
+      "summary": "Os números sorteados foram: 01 - 02 - 04 - 05 - 06 - 07 - 08 - 09 - 10 - 12 - 13 - 19 - 21 - 22 - 24",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mundo/eua-suspendem-ataques-aereos-ao-ira-mas-tensao-permanece-em-meio-a-negociacoes/",
-      "time": "2026-07-26T11:28:29Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Estreito-de-Ormuz.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Após resistência em 2022, Janja muda postura e busca aproximação com evangélicos",
-      "summary": "Apesar do esforço, posicionamentos da primeira-dama, como sua defesa da aprovação do projeto de lei que criminaliza a misoginia, ainda são empecilhos",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/apos-resistencia-em-2022-janja-muda-postura-e-busca-aproximacao-com-evangelicos/",
-      "time": "2026-07-26T11:09:14Z",
+      "url": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3745-confira-o-resultado-sorteado-neste-domingo-26/",
+      "time": "2026-07-26T14:11:38Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/03/raf09561_0-e1742903123486.webp?fit=300%2C169&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Lotofacil-2607-e1785075685522.jpeg?fit=300%2C170&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "FIIs de renda urbana ainda têm muito espaço para crescer, diz gestor do RBVA11",
-      "summary": "Os fundos imobiliários de renda urbana devem desempenhar um papel importante na expansão da indústria de FIIs",
+      "title": "Mega-Sena hoje, concurso 3036: confira o resultado sorteado neste domingo (26)",
+      "summary": "As dezenas sorteadas foram: Os números sorteados foram: 05 - 12 - 21- 33 - 43 - 50",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/onde-investir/fiis-de-renda-urbana-ainda-tem-muito-espaco-para-crescer-diz-gestor-do-rbva11/",
-      "time": "2026-07-26T11:00:00Z",
+      "url": "https://www.infomoney.com.br/consumo/mega-sena-hoje-concurso-3036-confira-o-resultado-sorteado-neste-domingo/",
+      "time": "2026-07-26T14:05:13Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Mega-Sena-26-de-julho.jpeg?fit=300%2C152&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "IPCA-15, juros do Fed e PIB dos EUA: Veja os destaques da agenda econômica da semana",
+      "summary": "A última semana de julho será marcada por uma agenda intensa de indicadores econômicos e decisões de política monetária, com potencial para influenciar os rumos dos mercados globais. No Brasil, as atenções se voltam para",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ipca-15-juros-do-fed-e-pib-dos-eua-veja-os-destaques-da-agenda-economica-da-semana/",
+      "time": "2026-07-26T15:00:00Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/eua-estados-unidos-cpi-inflacao.jpg"
+    },
+    {
+      "title": "Do maior estádio do mundo ao fundo imobiliário afetado pelo GPA: Veja as principais notícias da semana",
+      "summary": "Do maior estádio do mundo ao fundo imobiliário que sofreu rescisão antecipada do GPA (Grupo Pão de Açúcar) e anunciou impacto nos resultados, a semana reuniu assuntos que movimentaram o mercado e despertaram o interesse ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/do-maior-estadio-do-mundo-ao-fundo-imobiliario-afetado-pelo-gpa-veja-as-principais-noticias-da-semana-igdl/",
+      "time": "2026-07-26T14:58:31Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/gpa-pao-de-acucar.jpg"
+    },
+    {
+      "title": "Bolsa brasileira volta a atrair investidores estrangeiros após dois meses de saídas; entenda o porquê",
+      "summary": "Julho tem sido marcado pela retomada da entrada de capital externo na bolsa de valores brasileira, com saldo positivo de R$ 2,351 bilhões na primeira quinzena. Em parte, o ingresso é visto por analistas ouvidos pelo Broa",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/bolsa-brasileira-volta-a-atrair-investidores-estrangeiros-apos-dois-meses-de-saidas-entenda-o-porque-igdl/",
+      "time": "2026-07-26T14:17:09Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/dolar-estrangeiros-1.jpg"
+    },
+    {
+      "title": "Liberland, o paraíso dos bilionários cripto, onde até o voto pode ser comprado",
+      "summary": "Imagem: Divulgação/Liberland Press Office Liberland é como o paraíso prometido dos bilionários cripto que, localizado entre Sérvia e Croácia, tem a pretensão de se tornar um país libertário e digital administrado por blo",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/liberland-o-paraiso-dos-bilionarios-cripto-onde-ate-o-voto-pode-ser-comprado-jvka/",
+      "time": "2026-07-26T14:00:00Z",
+      "cat": "cripto",
+      "tickers": [],
+      "image": "https://www.seudinheiro.com/uploads/2026/07/image-21.png"
+    },
+    {
+      "title": "Bitcoin (BTC) sobe, mas cautela predomina antes de decisão do Fed; veja cotações das criptomoedas neste domingo (26)",
+      "summary": "O bitcoin (BTC) é negociado na faixa dos US$ 64,4 mil neste domingo (26), com leve alta de aproximadamente 0,7% nas últimas 24 horas, segundo dados da plataforma Coingecko. No acumulado de sete dias, a maior criptomoeda ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/bitcoin-btc-sobe-mas-cautela-predomina-antes-de-decisao-do-fed-veja-cotacoes-das-criptomoedas-neste-domingo-26-igdl/",
+      "time": "2026-07-26T13:21:10Z",
       "cat": "fundos",
       "tickers": [
-        "RBVA11"
+        "BTC"
       ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/07/real-estate-6688945_1280.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/image-79.png"
     },
     {
       "title": "Nano IA: amanhã (27), ferramenta que pode buscar ganhos de até R$ 214 mil com criptomoedas será lançada",
@@ -124,26 +163,6 @@
       "cat": "acoes",
       "tickers": [],
       "image": "https://www.moneytimes.com.br/uploads/2026/07/etf-imagem-gopixaistockphoto-id-da-foto1472468191.png"
-    },
-    {
-      "title": "Análise: Agora que a Copa acabou, a eleição entra na conta do mercado",
-      "summary": "A Copa do Mundo terminou há uma semana. O evento que concentrou a atenção do país durante o último mês ficou para trás e, com o apito final, outra disputa passa a ocupar o centro do debate doméstico. Não se trata apenas ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/analise-agora-que-a-copa-acabou-a-eleicao-entra-na-conta-do-mercado/",
-      "time": "2026-07-26T10:00:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/2026-07-20t195106z-1-lynxmpem6j1k8-rtroptp-4-soccer-worldcup-esp-arg-scaled.jpg"
-    },
-    {
-      "title": "Pequenas empresas entram com ações na Justiça contra novas tarifas de Trump",
-      "summary": "Os tarifaços do presidente dos Estados Unidos, Donald Trump, vão parar na Justiça de novo. Duas ações judiciais movidas por pequenas empresas contestam as amplas tarifas anunciadas pelo norte-americano na quinta-feira, q",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/pequenas-empresas-entram-com-acoes-na-justica-contra-novas-tarifas-de-trump-vtra/",
-      "time": "2026-07-25T20:43:15Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/donald-trump-tarifas.jpg"
     },
     {
       "title": "IRB(Re) (IRBR3) e Bradesco (BBDC4): Veja quem paga dividendos na semana",
@@ -229,14 +248,44 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/134_Operador_monitorando_1_2026017_17327-1-jpg.webp"
     },
     {
-      "title": "Barulho de lanchas e motos aquáticas afeta comunicação de peixes em recifes",
-      "summary": "Pesquisa da UFPE identificou redução de sons emitidos por peixes em áreas com maior atividade turística no litoral de Pernambuco",
+      "title": "Caiado chama Flávio de 'kinder ovo', critica Lula e promete endurecer combate ao crime",
+      "summary": "Em convenção do PSD, ex-governador de Goiás oficializa candidatura ao Planalto, defende fim da polarização e aposta na segurança pública como principal bandeira da campanha",
       "source": "Exame",
-      "url": "https://exame.com/esg/barulho-de-lanchas-e-motos-aquaticas-afeta-comunicacao-de-peixes-em-recifes/",
-      "time": "2026-07-26T10:00:12Z",
+      "url": "https://exame.com/brasil/caiado-chama-flavio-de-kinder-ovo-critica-lula-e-promete-endurecer-combate-ao-crime/",
+      "time": "2026-07-26T12:42:54Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2023/09/peixes.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/caiado-convencao.jpg"
+    },
+    {
+      "title": "Poucos seguidores, renda alta: como microinfluenciadores ganham até US$ 180 mil",
+      "summary": "Criadores de conteúdo com audiências menores conquistam contratos com marcas e transformam as redes sociais em uma fonte de renda consistente",
+      "source": "Exame",
+      "url": "https://exame.com/pop/poucos-seguidores-renda-alta-como-microinfluenciadores-ganham-ate-us-180-mil/",
+      "time": "2026-07-26T12:02:54Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/Imagem-empreendimentos-Influenciador.png"
+    },
+    {
+      "title": "Dinheiro público, transparência e... crianças e adolescentes",
+      "summary": "Transparência e gestão eficiente podem melhorar a vida de milhões de meninas e meninos",
+      "source": "Exame",
+      "url": "https://exame.com/esg/dinheiro-publico-transparencia-e-criancas-e-adolescentes/",
+      "time": "2026-07-26T11:51:59Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/crianca-de-costas-1.jpg"
+    },
+    {
+      "title": "Shein faz pedido de IPO em Hong Kong após queda nos lucros",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/shein-faz-pedido-de-ipo-em-hong-kong-apos-queda-nos-lucros-2013821",
+      "time": "2026-07-26T14:32:34Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
       "title": "Arábia Saudita - Ações fecharam o pregão em queda e o Índice Tadawul All Share recuou 0,34%",
@@ -267,27 +316,7 @@
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Resultados das big techs e Fed devem definir rumo das ações no verão",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/resultados-das-big-techs-e-fed-devem-definir-rumo-das-acoes-no-verao-2012906",
-      "time": "2026-07-26T01:34:23Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC4I0AL_M.jpg"
-    },
-    {
-      "title": "Recuo nas ações de semicondutores é oportunidade de compra, diz Citi",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/recuo-nas-acoes-de-semicondutores-e-oportunidade-de-compra-diz-citi-2012852",
-      "time": "2026-07-26T01:33:31Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": null
     }
   ],
-  "atualizado_em": "26/07/2026 13:11"
+  "atualizado_em": "26/07/2026 15:58"
 }
