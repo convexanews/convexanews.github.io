@@ -1,15 +1,27 @@
 {
   "headline": {
-    "title": "Ibovespa fecha em alta confortável, com bancos e Vale; Petrobras recua",
-    "summary": "Índices nos EUA terminam mistos, com petróleo e ações de IA em queda",
-    "source": "InfoMoney",
-    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-27072026/",
-    "time": "2026-07-27T20:31:06Z",
-    "cat": "acoes",
+    "title": "Ibovespa e dólar hoje focam em IPCA-15 e geopolítica pré-decisão do Fed",
+    "summary": "",
+    "source": "Investing.com",
+    "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-focam-em-ipca15-e-geopolitica-predecisao-do-fed-2015164",
+    "time": "2026-07-27T21:30:02Z",
+    "cat": "economia",
     "tickers": [],
-    "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-23-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    "image": null
   },
   "featured": [
+    {
+      "title": "Ibovespa sobe com bancos e ações cíclicas; Petrobras (PETR4) cai quase 3%",
+      "summary": "O Ibovespa iniciou a semana em alta e recuperou os 175 mil pontos nesta segunda-feira (27), favorecido pelo maior apetite por risco no exterior e pelo recuo dos juros futuros. O principal índice da B3 avançou 0,74%, aos ",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-27-julho-2026-itub4-petr4-mt/",
+      "time": "2026-07-27T21:35:08Z",
+      "cat": "acoes",
+      "tickers": [
+        "PETR4"
+      ],
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
+    },
     {
       "title": "Ibovespa fecha em alta mesmo com pressão da Petrobras; dólar vai a R$ 5,11",
       "summary": "Os contratos futuros do petróleo despencaram nesta segunda-feira, diante da interrupção dos ataques entre Estados Unidos e Irã",
@@ -19,16 +31,6 @@
       "cat": "economia",
       "tickers": [],
       "image": "https://classic.exame.com/wp-content/uploads/2020/11/DSC2670bx.jpg"
-    },
-    {
-      "title": "Ibovespa fecha em alta puxado por bancos e Vale apesar de Petrobras",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-fecha-em-alta-puxado-por-bancos-e-vale-2015159",
-      "time": "2026-07-27T20:42:31Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": null
     }
   ],
   "all": [
@@ -63,56 +65,58 @@
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/wall-street-IA-2.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "WEG recebe dupla elevação a compra com “nova fase de crescimento”; ação tem leve alta",
-      "summary": "Bradesco BBI elevou a recomendação para outperform e fixou preço-alvo de R$ 60, enquanto JPMorgan passou a indicar compra com alvo de R$ 56; bancos veem forte aceleração do crescimento a partir de 2027",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/weg-wege3-recebe-dupla-elevacao-para-compra-jpmorgan-e-bbi-veem-nova-fase-de-crescimento-desempenho-acoes/",
-      "time": "2026-07-27T20:34:57Z",
+      "title": "Em recuperação judicial, Toky (TOKY3) aprova grupamento de ações na proporção de 20 para 1",
+      "summary": "A Toky (TOKY3), dona da TokStok e da Mobly, informou nesta segunda-feira (27) que seus acionistas aprovaram, em assembleia geral extraordinária, o grupamento da totalidade das ações ordinárias da companhia na proporção d",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/em-recuperacao-judicial-toky-toky3-aprova-grupamento-de-acoes-na-proporcao-de-20-para-1-vtra/",
+      "time": "2026-07-27T22:03:34Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/07/Captura-de-tela-2024-07-31-103415.png?fit=300%2C171&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2023/03/whatsapp-image-2023-03-28-at-16.47.14-1-e1680033036964.jpeg"
     },
     {
-      "title": "Vale: Goldman corta VALE3 para neutro e vê poucos gatilhos, mas ação fecha em alta",
-      "summary": "Banco reduziu recomendação de compra para neutra e baixou preço-alvo do ADR para US$ 16, citando menor atratividade do valuation e perspectiva mais moderada para minério de ferro e metais básicos no curto prazo",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/vale3-goldman-sachs-corta-vale-para-neutro-e-ve-poucos-gatilhos-no-curto-prazo-desempenho-acoes/",
-      "time": "2026-07-27T20:33:27Z",
-      "cat": "acoes",
-      "tickers": [
-        "VALE3"
-      ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-06T221839Z_1_LYNXMPEM651L4_RTROPTP_4_LATAM-SUMMIT-VALE.jpg?fit=300%2C194&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Morgan Stanley rebaixa BB Seguridade, Caixa Seguridade e Porto Seguro; ações caem",
-      "summary": "Banco mantém uma visão cautelosa para o crescimento dos lucros, diante da desaceleração da atividade econômica e da perspectiva de juros elevados por um período prolongado",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/morgan-stanley-rebaixa-bb-seguridade-caixa-seguridade-e-porto-seguro-desempenho-acoes/",
-      "time": "2026-07-27T20:32:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/12/seguros_Pixabay.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Ibovespa fecha em alta confortável, com bancos e Vale; Petrobras recua",
-      "summary": "Índices nos EUA terminam mistos, com petróleo e ações de IA em queda",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-27072026/",
-      "time": "2026-07-27T20:31:06Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-23-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "PRIO, Petrobras e PetroRecôncavo caem até 5% em dia de forte baixa do petróleo",
-      "summary": "Contudo, a baixa não era proporcional à desvalorização do petróleo na sessão",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/prio-petrobras-e-petroreconcavo-sao-destaque-de-queda-com-forte-baixa-do-petroleo/",
-      "time": "2026-07-27T20:30:30Z",
+      "title": "USDA reduz classificações de milho e soja dos EUA após clima quente e seco",
+      "summary": "O Departamento de Agricultura dos Estados Unidos (USDA) reduziu suas classificações para a condição das safras de milho e soja do país mais do que o esperado, em um relatório semanal divulgado nesta segunda-feira, após u",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/usda-reduz-classificacoes-de-milho-e-soja-dos-eua-apos-clima-quente-e-seco-pads/",
+      "time": "2026-07-27T21:49:49Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/arvind-vallabh-rqWWhKzVCaU-unsplash.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2025/03/milho-frango-.jpg"
+    },
+    {
+      "title": "TIM (TIMS3) lucra R$ 1,04 bilhão no 2º trimestre, alta de 6,2%",
+      "summary": "O lucro líquido normalizado da TIM (TIMS3) somou R$ 1,03 bilhão no segundo trimestre de 2026, alta de 6,2% em relação ao mesmo período do ano anterior. A receita líquida avançou 5,5%, para R$ 6,965 bilhões, enquanto o Eb",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/tim-tims3-lucra-r-104-bilhao-no-2o-trimestre-alta-de-62-vtra/",
+      "time": "2026-07-27T21:39:39Z",
+      "cat": "fundos",
+      "tickers": [
+        "TIMS3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/tim-brasil.png"
+    },
+    {
+      "title": "Mercado de capitais registra volume recorde no 1º semestre de 2026, diz Anbima",
+      "summary": "O mercado de capitais brasileiro movimentou R$ 361,8 bilhões em ofertas no primeiro semestre de 2026, o maior volume já registrado para o período na série histórica da Anbima (Associação Brasileira das Entidades dos Merc",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/mercado-de-capitais-registra-volume-recorde-no-1o-semestre-de-2026-diz-anbima/",
+      "time": "2026-07-27T21:10:54Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/download-2.jpg"
+    },
+    {
+      "title": "BBSE3 e CCXE3 chegam a despencar 7% com revisão de analistas para ações e dividendos; hora de se preocupar?",
+      "summary": "O setor tido como um dos mais seguros da bolsa agora enfrenta uma onda de cortes de recomendações de analistas, que fizeram ações como BB Seguridade (BBSE3) e Caixa Seguridade (CXSE3) despencarem na bolsa. A subsidiária ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/bbse3-e-ccxe3-chegam-a-despencar-7-com-revisao-de-analistas-para-acoes-e-dividendos-hora-de-se-preocupar-rnda/",
+      "time": "2026-07-27T21:01:25Z",
+      "cat": "fundos",
+      "tickers": [
+        "BBSE3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/04/caixa-seguridade-e-bb-seguridade.jpg"
     },
     {
       "title": "Juros futuros cedem em toda a curva com pausa dos ataques entre EUA e Irã",
@@ -165,46 +169,16 @@
       "image": "https://www.moneytimes.com.br/uploads/2024/12/wall-street-nasdaq-sp-500-dow-jones-eua-estados-unidos.jpg"
     },
     {
-      "title": "Teto dos juros do consignado do INSS deveria cair por causa da queda da Selic, diz ministro",
-      "summary": "O ministro da Previdência Social, Wolney Queiroz, afirmou nesta segunda-feira, 27, que a discussão sobre reduzir teto de juros para o consignado do INSS se dá por conta da queda na Selic, mas que ele ainda não sabe se ch",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/wolney-queiroz-discussao-de-eventual-reducao-do-teto-do-consignado-se-da-por-queda-da-selic/",
-      "time": "2026-07-27T19:51:18Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/wolney-queiroz-assume-ministerio-da-previdencia-1200x600-1.webp"
-    },
-    {
-      "title": "Citi corta preço-alvo de Grupo Mateus (GMAT3) e Assaí (ASAI3); ‘Pouco motivo para otimismo’, dizem analistas",
-      "summary": "O Citi rebaixou os preços-alvo para as ações do Grupo Mateus (GMAT3) e do Assaí (ASAI3), mantendo a recomendação neutra para ambas as varejistas. Na visão dos analistas, há pouco motivo para otimismo, embora as dificulda",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/citi-corta-preco-alvo-de-grupo-mateus-gmat3-e-assai-asai3-pouco-motivo-para-otimismo-dizem-analistas-lmrs/",
-      "time": "2026-07-27T19:44:30Z",
-      "cat": "analise",
+      "title": "Ibovespa sobe com bancos e ações cíclicas; Petrobras (PETR4) cai quase 3%",
+      "summary": "O Ibovespa iniciou a semana em alta e recuperou os 175 mil pontos nesta segunda-feira (27), favorecido pelo maior apetite por risco no exterior e pelo recuo dos juros futuros. O principal índice da B3 avançou 0,74%, aos ",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-27-julho-2026-itub4-petr4-mt/",
+      "time": "2026-07-27T21:35:08Z",
+      "cat": "acoes",
       "tickers": [
-        "GMAT3"
+        "PETR4"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/06/grupo-mateus.jpg"
-    },
-    {
-      "title": "Ministro da Previdência diz que não é preciso aumentar idade de aposentadoria e defende discutir desoneração da folha",
-      "summary": "O ministro da Previdência Social, Wolney Queiroz, disse discordar dos analistas que apontam a necessidade de uma nova reforma da Previdência no Brasil, apesar da pressão esperada no sistema com o envelhecimento da popula",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ministro-da-previdencia-nega-necessidade-de-nova-reforma-que-aumente-idade-de-aposentadoria/",
-      "time": "2026-07-27T19:39:20Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/inss.png"
-    },
-    {
-      "title": "Coreia do Sul enviará missão a frigoríficos brasileiros para acesso a mercado do país, diz Lula",
-      "summary": "O presidente Luiz Inácio Lula da Silva afirmou nesta segunda-feira (27), após reunião com o presidente da Coreia do Sul, Lee Jae Myung, que foi firmado um compromisso para a realização de uma missão sanitária sul-coreana",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/coreia-do-sul-enviara-missao-a-frigorificos-brasileiros-para-acesso-a-mercado-do-pais-diz-lula-pads/",
-      "time": "2026-07-27T19:35:57Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/exportacoes-agronegocio-tarifas-sobretaxa-1.jpg"
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     },
     {
       "title": "Selic pode derrubar juros do consignado do INSS? Entenda",
@@ -271,6 +245,28 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/123_Mesa_de_trabalho_com_1_2026017_162642-jpg.webp"
     },
     {
+      "title": "Por que a Vivo lucrou 17% a mais no 2º tri - e mesmo assim seu caixa livre encolheu?",
+      "summary": "Pagamentos de impostos e menor contribuição do capital de giro pressionaram o caixa livre",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/por-que-a-vivo-lucrou-17-a-mais-no-2o-tri-e-mesmo-assim-seu-caixa-livre-encolheu/",
+      "time": "2026-07-27T18:51:08Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2025/09/Vivo-Estande-palco-Skyline_1.jpg"
+    },
+    {
+      "title": "Empresas de capital aberto que compram bitcoin estão migrando para IA, diz Bloomberg",
+      "summary": "Companhias estão abandonando o hype das criptomoedas pelo ânimo com a inteligência artificial",
+      "source": "Exame",
+      "url": "https://exame.com/future-of-money/empresas-de-capital-aberto-que-compram-bitcoin-estao-migrando-para-ia-diz-bloomberg/",
+      "time": "2026-07-27T17:55:57Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC"
+      ],
+      "image": "https://classic.exame.com/wp-content/uploads/2023/03/imagem-figma-bitcoin-2-5.jpg"
+    },
+    {
       "title": "Quem criou a inteligência artificial? Conheça os cientistas que deram origem à tecnologia",
       "summary": "A inteligência artificial não nasceu de uma única pessoa. Conheça os pesquisadores que transformaram a ideia em uma das tecnologias mais importantes do século",
       "source": "Exame",
@@ -291,97 +287,95 @@
       "image": "https://classic.exame.com/wp-content/uploads/2020/11/DSC2670bx.jpg"
     },
     {
-      "title": "Ibovespa fecha em alta puxado por bancos e Vale apesar de Petrobras",
+      "title": "México - Ações fecharam o pregão em alta e o Índice S&P/BMV IPC avançou 1,17%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-fecha-em-alta-puxado-por-bancos-e-vale-2015159",
-      "time": "2026-07-27T20:42:31Z",
+      "url": "https://br.investing.com/news/stock-market-news/mexico--acoes-fecharam-o-pregao-em-alta-e-o-indice-spbmv-ipc-avancou-117-2015273",
+      "time": "2026-07-27T21:30:19Z",
       "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPED7S129_M.jpg"
+    },
+    {
+      "title": "Ibovespa e dólar hoje focam em IPCA-15 e geopolítica pré-decisão do Fed",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-focam-em-ipca15-e-geopolitica-predecisao-do-fed-2015164",
+      "time": "2026-07-27T21:30:02Z",
+      "cat": "economia",
       "tickers": [],
       "image": null
     },
     {
-      "title": "E.U.A. - Ações fecharam o pregão inalteradas e o Índice Dow Jones Industrial Average avançou 0,51%",
+      "title": "Colômbia - Ações fecharam o pregão em alta e o Índice COLCAP avançou 0,37%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/eua--acoes-fecharam-o-pregao-inalteradas-e-o-indice-dow-jones-industrial-average-avancou-051-2015210",
-      "time": "2026-07-27T20:35:39Z",
-      "cat": "internacional",
+      "url": "https://br.investing.com/news/stock-market-news/colombia--acoes-fecharam-o-pregao-em-alta-e-o-indice-colcap-avancou-037-2015271",
+      "time": "2026-07-27T21:25:19Z",
+      "cat": "fundos",
       "tickers": [],
       "image": null
     },
     {
-      "title": "Canadá - Ações fecharam o pregão em alta e o Índice S&P/TSX avançou 0,56%",
+      "title": "Por que as ações da Noble estão caindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/canada--acoes-fecharam-o-pregao-em-alta-e-o-indice-sptsx-avancou-056-2015204",
-      "time": "2026-07-27T20:30:48Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Brasil - Ações fecharam o pregão em alta e o Índice Bovespa avançou 0,74%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/brasil--acoes-fecharam-o-pregao-em-alta-e-o-indice-bovespa-avancou-074-2015203",
-      "time": "2026-07-27T20:30:21Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Ações em destaque no after-hours: FFIV, CDNS, APLD, RMBS, ESI, SANM",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-em-destaque-no-afterhours-ffiv-cdns-apld-rmbs-esi-sanm-432SI-2015190",
-      "time": "2026-07-27T20:28:03Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0E0NG_M.jpg"
-    },
-    {
-      "title": "Scribe Therapeutics capta US$ 155,51 milhões em IPO na Nasdaq",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/scribe-therapeutics-capta-us-15551-milhoes-em-ipo-na-nasdaq-432SI-2015179",
-      "time": "2026-07-27T20:06:19Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-noble-estao-caindo-hoje-93CH-2015270",
+      "time": "2026-07-27T21:22:28Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "EMBJ3: Por que as ações da Embraer estão em forte alta hoje?",
+      "title": "Por que as ações da Rambus estão subindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/embj3-por-que-as-acoes-da-embraer-estao-em-forte-alta-hoje-2015127",
-      "time": "2026-07-27T19:39:22Z",
-      "cat": "internacional",
-      "tickers": [
-        "EMBJ3"
-      ],
-      "image": null
-    },
-    {
-      "title": "Tribunal da Espanha ordena que H&M pare de revistar bolsas e armários de funcionários",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/tribunal-da-espanha-ordena-que-hm-pare-de-revistar-bolsas-e-armarios-de-funcionarios-93CH-2015120",
-      "time": "2026-07-27T19:23:43Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-rambus-estao-subindo-hoje-93CH-2015267",
+      "time": "2026-07-27T21:21:55Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Por que as ações da Biohaven Pharmaceutical estão subindo hoje?",
+      "title": "Rússia - Ações fecharam o pregão em alta e o Índice MOEX Russia Index avançou 2,19%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-biohaven-pharmaceutical-estao-subindo-hoje-93CH-2015116",
-      "time": "2026-07-27T19:14:36Z",
+      "url": "https://br.investing.com/news/stock-market-news/russia--acoes-fecharam-o-pregao-em-alta-e-o-indice-moex-russia-index-avancou-219-2015266",
+      "time": "2026-07-27T21:20:19Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB2C07X_M.jpg"
+    },
+    {
+      "title": "Por que as ações da Universal Health Services estão caindo hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-universal-health-services-estao-caindo-hoje-93CH-2015262",
+      "time": "2026-07-27T21:17:12Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Por que as ações da Kforce estão caindo hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-kforce-estao-caindo-hoje-93CH-2015259",
+      "time": "2026-07-27T21:14:33Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Por que as ações da Welltower estão disparando hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-welltower-estao-disparando-hoje-93CH-2015258",
+      "time": "2026-07-27T21:14:32Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "27/07/2026 20:50"
+  "atualizado_em": "27/07/2026 22:06"
 }
