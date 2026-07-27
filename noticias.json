@@ -1,214 +1,206 @@
 {
   "headline": {
-    "title": "Tempo real: Ibovespa sobe com otimismo no exterior, mas Vale (VALE3) e Petrobras (PETR4) pesam; dólar sobe",
-    "summary": "Resumo: O Ibovespa (IBOV) começa a semana em leve alta em linha com o otimismo no exterior com a trégua no conflito entre Estados Unidos e Irã. No entanto, a baixa do petróleo pesa da Petrobras (PETR4). No Focus, a proje",
+    "title": "Prio (PRIO3) e Petrobras (PETR3;PETR4) lideram perdas do Ibovespa nesta segunda (27)",
+    "summary": "As petroleiras lideram as perdas do Ibovespa (IBOV) nesta segunda-feira (27), seguindo o desempenho do petróleo Brent no mercado internacional. Por volta das 11h50 (horário de Brasília), a Prio (PRIO3) recuava 3,45% (R$ ",
     "source": "Money Times",
-    "url": "https://www.moneytimes.com.br/tempo-real-ibovespa-sobe-com-otimismo-no-exterior-mas-vale-vale3-e-petrobras-petr4-pesam-dolar-sobe/",
-    "time": "2026-07-27T13:24:07Z",
-    "cat": "economia",
+    "url": "https://www.moneytimes.com.br/prio-prio3-e-petrobras-petr3petr4-lideram-perdas-do-ibovespa-nesta-segunda-27-apsa/",
+    "time": "2026-07-27T15:32:08Z",
+    "cat": "acoes",
     "tickers": [
-      "VALE3",
+      "PRIO3",
+      "PETR3",
       "PETR4"
     ],
-    "image": "https://www.moneytimes.com.br/uploads/2024/09/ibovespa-acoes.jpg"
+    "image": "https://www.moneytimes.com.br/uploads/2024/10/petroleo-petroleira-acao-ira-prio-1.jpg"
   },
   "featured": [
     {
-      "title": "ETFs de Tesouro Selic e Tesouro IPCA+: entenda como funcionam e para quem fazem sentido",
-      "summary": "ETFs de Tesouro Selic e Tesouro IPCA+: entenda como funcionam e para quem fazem sentidoA renda fixa ganhou novas formas de acesso nos últimos anos. Além da compra direta de títulos públicos pelo Tesouro Direto e dos fund",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/etfs-tesouro-selic-tesouro-ipca-como-funcionam-gss/",
-      "time": "2026-07-27T10:50:00Z",
+      "title": "Ibovespa Hoje Ao Vivo: Bolsa recupera os 175 mil e dólar sobe; PETR4 cai com petróleo",
+      "summary": "Índices nos EUA estão mistos, após euforia da abertura; Dow sobe",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-27072026/",
+      "time": "2026-07-27T15:02:32Z",
       "cat": "economia",
-      "tickers": [],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/11108-jpg.webp"
+      "tickers": [
+        "PETR4"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Ibovespa-ao-vivo-2.png?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Vale: Goldman corta VALE3 para neutro e vê poucos gatilhos no curto prazo; ação cai",
-      "summary": "Banco reduziu recomendação de compra para neutra e baixou preço-alvo do ADR para US$ 16, citando menor atratividade do valuation e perspectiva mais moderada para minério de ferro e metais básicos no curto prazo",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/vale3-goldman-sachs-corta-vale-para-neutro-e-ve-poucos-gatilhos-no-curto-prazo-desempenho-acoes/",
-      "time": "2026-07-27T13:15:26Z",
-      "cat": "acoes",
+      "title": "WEG (WEGE3): Bradesco BBI e JP Morgan elevam recomendação após 2T26; Itaú BBA diz que ‘pior já passou’",
+      "summary": "Após a surpresa positiva dos resultados do segundo trimestre (2T26), bancos revisaram as estimativas e aumentaram o otimismo com a WEG (WEGE3). Nesta segunda-feira (27), Bradesco BBI e JP Morgan elevaram a recomendação d",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/weg-wege3-tem-dupla-elevacao-apos-2t26-itau-bba-diz-que-pior-ja-passou-lils/",
+      "time": "2026-07-27T15:01:46Z",
+      "cat": "analise",
       "tickers": [
-        "VALE3"
+        "WEGE3"
       ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-06T221839Z_1_LYNXMPEM651L4_RTROPTP_4_LATAM-SUMMIT-VALE.jpg?fit=300%2C194&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2024/12/weg-3.jpg"
     }
   ],
   "all": [
     {
-      "title": "Ibovespa Hoje Ao Vivo: Bolsa abre com alta, na esteira do exterior e alívio na guerra",
-      "summary": "Futuros nos EUA têm amplos avanços com pausa de ataques no Oriente Médio; petróleo despenca",
+      "title": "Impulso fiscal mais que dobra em três meses e pressiona inflação e Selic, aponta FGV",
+      "summary": "Injeção de dinheiro na economia chegou a 4,52% do PIB no segundo trimestre do ano, ante 2,19% no período anterior; aumento é explicado, sobretudo, pelo crescimento das despesas financeiras, aponta FGV",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/economia/expansao-fiscal-dobra-segundo-trimestre-impacto-selic/",
+      "time": "2026-07-27T15:32:10Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/compras-consumo-cartao-de-credito-debito.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Carteira de crédito cresceu 0,8% em junho, puxada por empresas, diz Febraban",
+      "summary": "Pesquisa Especial de Crédito da Febraban mostra que crédito destinado às empresas deverá ser o destaque do mês na nota de crédito do BC, com alta de 1,5%; dado oficial do BC sai em 30 de julho",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/economia/carteira-de-credito-cresceu-08-em-junho-puxada-por-empresas-diz-febraban/",
+      "time": "2026-07-27T15:25:11Z",
+      "cat": "analise",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Colunistas-IM-28.png?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Como reabertura da fronteira dos EUA ao gado mexicano afeta JBS e MBRF? Ações saltam",
+      "summary": "USDA anunciou que começará a retirar gradualmente a proibição sobre a importação de gado vivo do México",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/como-reabertura-da-fronteira-dos-eua-ao-gado-mexicano-afeta-jbs-e-mbrf-acoes-saltam/",
+      "time": "2026-07-27T15:20:24Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/Captura-de-tela-2025-09-14-113810.png?fit=300%2C201&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Expectativa de conversas EUA-Irã estimula alta do Ibovespa, mas commodities limitam",
+      "summary": "Porém, as preocupações geopolíticas seguem no radar, em semana de agenda carregada, como decisão de juros nos EUA",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/expectativa-de-conversas-eua-ira-estimula-alta-do-ibovespa-mas-commodities-limitam/",
+      "time": "2026-07-27T15:14:52Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/EspacoB3_05.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Ibovespa Hoje Ao Vivo: Bolsa recupera os 175 mil e dólar sobe; PETR4 cai com petróleo",
+      "summary": "Índices nos EUA estão mistos, após euforia da abertura; Dow sobe",
       "source": "InfoMoney",
       "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-27072026/",
-      "time": "2026-07-27T13:38:20Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Ibovespa-ao-vivo-15.png?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "PRIO, Petrobras e PetroRecôncavo são destaque de queda com forte baixa do petróleo",
-      "summary": "Contudo, a baixa não era proporcional à desvalorização do petróleo na sessão",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/prio-petrobras-e-petroreconcavo-sao-destaque-de-queda-com-forte-baixa-do-petroleo/",
-      "time": "2026-07-27T13:29:10Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/arvind-vallabh-rqWWhKzVCaU-unsplash.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "WEG recebe dupla elevação para compra com “nova fase de crescimento”; ações saltam",
-      "summary": "Bradesco BBI elevou a recomendação para outperform e fixou preço-alvo de R$ 60, enquanto JPMorgan passou a indicar compra com alvo de R$ 56; bancos veem forte aceleração do crescimento a partir de 2027",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/weg-wege3-recebe-dupla-elevacao-para-compra-jpmorgan-e-bbi-veem-nova-fase-de-crescimento-desempenho-acoes/",
-      "time": "2026-07-27T13:17:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/07/Captura-de-tela-2024-07-31-103415.png?fit=300%2C171&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Vale: Goldman corta VALE3 para neutro e vê poucos gatilhos no curto prazo; ação cai",
-      "summary": "Banco reduziu recomendação de compra para neutra e baixou preço-alvo do ADR para US$ 16, citando menor atratividade do valuation e perspectiva mais moderada para minério de ferro e metais básicos no curto prazo",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/vale3-goldman-sachs-corta-vale-para-neutro-e-ve-poucos-gatilhos-no-curto-prazo-desempenho-acoes/",
-      "time": "2026-07-27T13:15:26Z",
-      "cat": "acoes",
-      "tickers": [
-        "VALE3"
-      ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-06T221839Z_1_LYNXMPEM651L4_RTROPTP_4_LATAM-SUMMIT-VALE.jpg?fit=300%2C194&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Morgan Stanley rebaixa BB Seguridade, Caixa Seguridade e Porto Seguro; ações caem",
-      "summary": "Banco mantém uma visão cautelosa para o crescimento dos lucros, diante da desaceleração da atividade econômica e da perspectiva de juros elevados por um período prolongado",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/morgan-stanley-rebaixa-bb-seguridade-caixa-seguridade-e-porto-seguro-desempenho-acoes/",
-      "time": "2026-07-27T13:12:38Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/12/seguros_Pixabay.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Governo Milei descarta desculpas ao Brasil por crise após discurso em ato do PL",
-      "summary": "Fontes da Casa Rosada dizem ao La Nación que Argentina não pretende recuar após ataques de Javier Milei a Lula e Alexandre de Moraes",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/governo-milei-descarta-desculpas-ao-brasil-por-crise-apos-discurso-em-ato-do-pl/",
-      "time": "2026-07-27T13:12:12Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/convencao-pl-partido-liberal-eleicoes-2026-flavio-bolsonaro-milei-02.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Em telefonema, Lula e Xi Jinping falam sobre cooperação, acordo comercial e guerras",
-      "summary": "Em chamada de mais de uma hora, líderes discutiram cooperação em alta tecnologia, livre navegação no Oriente Médio e fim do conflito na Ucrânia",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/em-telefonema-lula-e-xi-jinping-falam-sobre-cooperacao-acordo-comercial-e-guerras/",
-      "time": "2026-07-27T12:54:48Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/2025-05-12T045143Z_1217784999_RC2BE0AZY22I_RTRMADP_3_CHINA-CELAC.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Governo prepara nova ação na OMC contra tarifas impostas pela gestão Trump",
-      "summary": "Planalto avalia que processo anterior não pode ser reaproveitado e pretende contestar nova rodada de sobretaxas que atinge exportações brasileiras",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/governo-prepara-nova-acao-na-omc-contra-tarifas-impostas-pela-gestao-trump/",
-      "time": "2026-07-27T12:53:19Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/03/Captura-de-tela-2025-03-28-124301.png?fit=300%2C186&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Wall Street avança 1% com trégua no Oriente Médio",
-      "summary": "Os índices de Wall Street começaram o pregão desta segunda-feira (27) em alta, na tentativa de recuperar as perdas da semana anterior, com alívio nas tensões no Oriente Médio e à espera de uma nova decisão de política mo",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/wall-street-abertura-27-7-26-lils/",
-      "time": "2026-07-27T13:36:13Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/eua-estados-unidos-cpi-inflacao.jpg"
-    },
-    {
-      "title": "Shein registra prejuízo de US$ 99 milhões antes de IPO em Hong Kong",
-      "summary": "A varejista de moda fast-fashion Shein registrou prejuízo líquido de US$ 99 milhões no primeiro trimestre de 2026, revertendo o lucro de US$ 395 milhões apurado no mesmo período do ano anterior. O resultado foi impactado",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/shein-registra-prejuizo-de-us-99-milhoes-antes-de-ipo-em-hong-kong/",
-      "time": "2026-07-27T13:28:36Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/shein-varejo-e-commerce.jpg"
-    },
-    {
-      "title": "Tempo real: Ibovespa sobe com otimismo no exterior, mas Vale (VALE3) e Petrobras (PETR4) pesam; dólar sobe",
-      "summary": "Resumo: O Ibovespa (IBOV) começa a semana em leve alta em linha com o otimismo no exterior com a trégua no conflito entre Estados Unidos e Irã. No entanto, a baixa do petróleo pesa da Petrobras (PETR4). No Focus, a proje",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/tempo-real-ibovespa-sobe-com-otimismo-no-exterior-mas-vale-vale3-e-petrobras-petr4-pesam-dolar-sobe/",
-      "time": "2026-07-27T13:24:07Z",
+      "time": "2026-07-27T15:02:32Z",
       "cat": "economia",
       "tickers": [
-        "VALE3",
         "PETR4"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2024/09/ibovespa-acoes.jpg"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Ibovespa-ao-vivo-2.png?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Ibovespa avança com alívio da guerra no Oriente Médio; 5 coisas para saber antes de investir hoje (27)",
-      "summary": "O Ibovespa (IBOV) inicia o pregão desta segunda-feira (27) com leve alta, em linha com o otimismo no exterior diante da trégua no conflito no Oriente Médio. Na avaliação do analista Matheus Spiess, da Empiricus Research,",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ibovespa-5-coisas-27-7-26-apsa/",
-      "time": "2026-07-27T13:14:52Z",
-      "cat": "acoes",
+      "title": "Renda Fixa Hoje: veja as taxas de CDBs, LCIs e LCAs nesta segunda (27) na XP",
+      "summary": "Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/renda-fixa-hoje-veja-as-taxas-de-cdbs-lcis-e-lcas-nesta-segunda-27-na-xp/",
+      "time": "2026-07-27T14:24:01Z",
+      "cat": "fundos",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/acoes-ibovespa-ibov.jpg"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/renda-fixa-hoje-008.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "CSN Mineração (CMIN3) amplia programa de recompra de ações",
-      "summary": "A CSN Mineração (CMIN3) informou ao mercado que seu conselho de administração aprovou um aditamento ao programa de recompra de ações da companhia aprovado em maio deste ano, para incluir um adicional de até 50 milhões aç",
+      "title": "Prio (PRIO3) e Petrobras (PETR3;PETR4) lideram perdas do Ibovespa nesta segunda (27)",
+      "summary": "As petroleiras lideram as perdas do Ibovespa (IBOV) nesta segunda-feira (27), seguindo o desempenho do petróleo Brent no mercado internacional. Por volta das 11h50 (horário de Brasília), a Prio (PRIO3) recuava 3,45% (R$ ",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/csn-mineracao-cmin3-amplia-programa-de-recompra-de-acoes-lmrs/",
-      "time": "2026-07-27T13:03:32Z",
+      "url": "https://www.moneytimes.com.br/prio-prio3-e-petrobras-petr3petr4-lideram-perdas-do-ibovespa-nesta-segunda-27-apsa/",
+      "time": "2026-07-27T15:32:08Z",
       "cat": "acoes",
       "tickers": [
-        "CMIN3"
+        "PRIO3",
+        "PETR3",
+        "PETR4"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/csn-csn-mineracao.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2024/10/petroleo-petroleira-acao-ira-prio-1.jpg"
     },
     {
-      "title": "Mais uma mudança na Vale (VALE3): Marcelo Gasparino renuncia ao conselho da mineradora",
-      "summary": "O conselheiro da Vale (VALE3) Marcelo Gasparino disse nesta segunda-feira (27) que submeteu uma carta de renúncia ao cargo no colegiado da mineradora, o desdobramento mais recente de tensões de governança que levaram à e",
+      "title": "Tesouro IPCA+ ainda é a melhor aposta da renda fixa? Especialista explica porque título continua pagando tão bem",
+      "summary": "A nova escalada das tensões no Oriente Médio devolveu volatilidade aos mercados globais e fez as taxas dos títulos públicos brasileiros voltarem a subir. O movimento, impulsionado pela disparada do petróleo e pela perspe",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/marcelo-gasparino-renuncia-ao-conselho-da-vale/",
-      "time": "2026-07-27T12:59:59Z",
-      "cat": "acoes",
-      "tickers": [
-        "VALE3"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/marcelo-gasparino.jpg"
-    },
-    {
-      "title": "Petrobras (PETR4), Brava (BRAV3), Embraer (EMBJ3) e outros destaques desta segunda (27)",
-      "summary": "O novo diretor de Transição Energética da Petrobras (PETR4), a recomendação para que os acionistas aceitem a OPA da Brava Energia (BRAV3) e a carteira de pedidos da Embraer (EMBJ3) são alguns dos destaques corporativos d",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/petrobras-petr4-slc-agricola-slce3-calendario-de-balancos-e-outros-destaques-desta-segunda-27-ceci/",
-      "time": "2026-07-27T12:56:31Z",
-      "cat": "acoes",
-      "tickers": [
-        "PETR4",
-        "BRAV3",
-        "EMBJ3"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/dig40443.jpg.myeyguacmlp3n7vjqa0a.o4kghjdl3-.jpg"
-    },
-    {
-      "title": "Aluguel na reforma tributária: proprietários de imóveis terão que emitir nota fiscal, mas medida não atinge todos os locadores",
-      "summary": "Quem aluga imóveis pode ser obrigado a ter Cadastro Nacional da Pessoa Jurídica (CNPJ) e emitir nota fiscal a partir de 1º de janeiro de 2027. A exigência faz parte da regulamentação da Reforma Tributária (Lei Complement",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/reforma-tributaria-aluguel-nota-fiscal-rsgp/",
-      "time": "2026-07-27T12:54:34Z",
+      "url": "https://www.moneytimes.com.br/o-que-pesa-mais-tesouro-ipca-volta-a-disparar-com-oriente-medio-e-risco-fiscal-jcav/",
+      "time": "2026-07-27T15:17:16Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2023/10/aluguel.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/credito-privado-renda-fixa-real-.jpg"
+    },
+    {
+      "title": "Ânima (ANIM3) reprovada: Itaú BBA corta preço-alvo pela metade, rebaixa ação e vê opções melhores",
+      "summary": "O Itaú BBA rebaixou a recomendação de Ânima Educação (ANIM3) de compra para neutra após a aquisição da FMU por R$ 410 milhões no início deste mês. A banco também cortou o preço-alvo de R$ 5,50 de R$ 2,50, o que implica u",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/reprovada-anima-anim3-e-rebaixada-pelo-itau-bba-apos-compra-da-fmu-apsa/",
+      "time": "2026-07-27T15:12:41Z",
+      "cat": "analise",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/anima-educacao.jpg"
+    },
+    {
+      "title": "WEG (WEGE3): Bradesco BBI e JP Morgan elevam recomendação após 2T26; Itaú BBA diz que ‘pior já passou’",
+      "summary": "Após a surpresa positiva dos resultados do segundo trimestre (2T26), bancos revisaram as estimativas e aumentaram o otimismo com a WEG (WEGE3). Nesta segunda-feira (27), Bradesco BBI e JP Morgan elevaram a recomendação d",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/weg-wege3-tem-dupla-elevacao-apos-2t26-itau-bba-diz-que-pior-ja-passou-lils/",
+      "time": "2026-07-27T15:01:46Z",
+      "cat": "analise",
+      "tickers": [
+        "WEGE3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2024/12/weg-3.jpg"
+    },
+    {
+      "title": "Queda do petróleo não alivia diesel e defasagem no Brasil abre semana em 58%, aponta Abicom",
+      "summary": "Mesmo com o novo recuo do preço do petróleo para abaixo do nível de US$ 90 o barril do tipo Brent no final da semana passada, a defasagem das refinarias brasileiras continua em alta, confirmando o descolamento dos preços",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/abicom-queda-do-petroleo-nao-alivia-diesel-e-defasagem-no-brasil-abre-semana-em-58/",
+      "time": "2026-07-27T14:49:33Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/petroleo.jpg"
+    },
+    {
+      "title": "1/3 das exportações do agro do Brasil aos EUA terão sobretaxa total de 37,5%, aponta CNA",
+      "summary": "A nova tarifa adicional de 12,5% imposta pelos Estados Unidos sobre produtos brasileiros em uma investigação da Seção 301 relacionada ao combate ao trabalho forçado amplia o impacto sobre o agronegócio nacional e fará co",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/1-3-das-exportacoes-do-agro-do-brasil-aos-eua-terao-sobretaxa-total-de-375-aponta-cna-pads/",
+      "time": "2026-07-27T14:49:03Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/exportacoes-agronegocio-tarifas-sobretaxa.jpg"
+    },
+    {
+      "title": "Ações da Embraer (EMBJ3) sobem após carteira de pedidos do 2T26 e analistas veem espaço para novas altas; veja",
+      "summary": "As ações da Embraer (EMBJ3) figuram entre as maiores altas do Ibovespa (IBOV) no pregão desta segunda-feira (27), após a companhia encerrar o segundo trimestre com US$ 34,5 bilhões de pedidos em carteira (backlog), aumen",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/acoes-da-embraer-embj3-sobem-apos-carteira-de-pedidos-do-2t26-e-analistas-veem-espaco-para-novas-altas-veja-lmrs/",
+      "time": "2026-07-27T14:35:09Z",
+      "cat": "analise",
+      "tickers": [
+        "EMBJ3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/embraer-.jpg"
+    },
+    {
+      "title": "Petrobras (PETR4) mantém preços abaixo da paridade internacional; diesel tem defasagem de até 72%",
+      "summary": "Mesmo com o novo recuo do preço do petróleo para abaixo do nível de US$ 90 o barril do tipo Brent no final da semana passada, a defasagem das refinarias brasileiras continua em alta, confirmando o descolamento dos preços",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/petrobras-petr4-mantem-precos-abaixo-da-paridade-internacional-diesel-tem-defasagem-de-ate-72-igdl/",
+      "time": "2026-07-27T14:31:59Z",
+      "cat": "acoes",
+      "tickers": [
+        "PETR4"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/admin-ajax-14.jpg"
+    },
+    {
+      "title": "KORE11 lidera recuperação das lajes corporativas de alto padrão em São Paulo",
+      "summary": "O mercado de lajes corporativas de alto padrão em São Paulo segue em trajetória de recuperação, sustentado por uma absorção líquida consistente, pela redução da vacância e pelo avanço dos preços pedidos. No 2T26, a absor",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/kore11-lidera-recuperacao-das-lajes-corporativas-de-alto-padrao-em-sao-paulo/",
+      "time": "2026-07-27T14:24:12Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/lajes-corporativas-fiis-fundos-imobiliarios-salas-comerciais-escritorio-imagem-istock-dit26978-id-da-foto-1256011031.png"
     },
     {
       "title": "Boletim Focus reduz projeção do IPCA 2026 de 5,15% para 5,12%; veja detalhes",
@@ -297,89 +289,95 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/detalhe-de-relat-rio-1_01.webp"
     },
     {
-      "title": "Gasparino renuncia ao conselho da Vale (VALE3) após destituição por vazamento",
-      "summary": "Renúncia do ex-vice-presidente do colegiado tem efeitos a partir de 1º de agosto",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/gasparino-renuncia-ao-conselho-da-vale-vale3-apos-destituicao-por-vazamento/",
-      "time": "2026-07-27T10:28:09Z",
-      "cat": "economia",
-      "tickers": [
-        "VALE3"
-      ],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/07/GettyImages-1232411523.jpg"
-    },
-    {
-      "title": "Bitcoin sobe com pausa nos ataques entre EUA e Irã",
-      "summary": "Interrupção do conflito provoca queda de 6% no preço do petróleo, o que traz esperança de um cenário de menos inflação",
-      "source": "Exame",
-      "url": "https://exame.com/future-of-money/bitcoin-hoje-27-07-2026/",
-      "time": "2026-07-27T10:25:41Z",
-      "cat": "cripto",
-      "tickers": [
-        "BTC"
-      ],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/kanchanara-7E3QGntO66M-unsplash.jpg"
-    },
-    {
-      "title": "Shein chega ao IPO valendo metade do pico e com margens sob pressão",
-      "summary": "Shein busca até US$ 50 bilhões em Hong Kong, mas tese de investimentos muda com desafios regulatórios",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/shein-chega-ao-ipo-valendo-metade-do-pico-e-com-margens-sob-pressao/",
-      "time": "2026-07-27T10:19:21Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/05/GettyImages-2244352351.jpg"
-    },
-    {
-      "title": "Por que a ação da Silvaco está subindo hoje?",
+      "title": "Polônia - Ações fecharam o pregão em alta e o Índice WIG30 avançou 0,51%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-a-acao-da-silvaco-esta-subindo-hoje-93CH-2014620",
-      "time": "2026-07-27T13:14:04Z",
+      "url": "https://br.investing.com/news/stock-market-news/polonia--acoes-fecharam-o-pregao-em-alta-e-o-indice-wig30-avancou-051-2014924",
+      "time": "2026-07-27T15:35:18Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Turquia - Ações fecharam o pregão em queda e o Índice BIST 100 recuou 1,21%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/turquia--acoes-fecharam-o-pregao-em-queda-e-o-indice-bist-100-recuou-121-2014917",
+      "time": "2026-07-27T15:30:44Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Dinamarca - Ações fecharam o pregão em alta e o Índice OMX Copenhagen 20 avançou 0,57%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/dinamarca--acoes-fecharam-o-pregao-em-alta-e-o-indice-omx-copenhagen-20-avancou-057-2014916",
+      "time": "2026-07-27T15:30:20Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Por que as ações da JBS estão disparando hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-jbs-estao-disparando-hoje-93CH-2014910",
+      "time": "2026-07-27T15:24:23Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Ações da Silvaco disparam com parceria de IA com a NVIDIA para design de chips",
+      "title": "Ações da Tyson Foods disparam com reabertura de portos para gado mexicano",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-silvaco-disparam-com-parceria-de-ia-com-a-nvidia-para-design-de-chips-93CH-2014611",
-      "time": "2026-07-27T13:09:54Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-tyson-foods-disparam-com-reabertura-de-portos-para-gado-mexicano-93CH-2014906",
+      "time": "2026-07-27T15:21:50Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Cinven e La Caisse adquirem participação majoritária na Optio",
+      "title": "Opções da Clorox sinalizam movimento de 4,8% antes do resultado trimestral",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/cinven-e-la-caisse-adquirem-participacao-majoritaria-na-optio-93CH-2014576",
-      "time": "2026-07-27T13:04:14Z",
+      "url": "https://br.investing.com/news/stock-market-news/opcoes-da-clorox-sinalizam-movimento-de-48-antes-do-resultado-trimestral-93CH-2014904",
+      "time": "2026-07-27T15:21:37Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Ursos da SpaceX devem \"considerar hibernação criogênica\" após captura do foguete, diz Morgan Stanley",
+      "title": "Opções da Whirlpool sinalizam movimento de 11% nas ações com resultados em 3 de agosto",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ursos-da-spacex-devem-considerar-hibernacao-criogenica-apos-captura-do-foguete-diz-morgan-stanley-2014572",
-      "time": "2026-07-27T12:55:48Z",
+      "url": "https://br.investing.com/news/stock-market-news/opcoes-da-whirlpool-sinalizam-movimento-de-11-nas-acoes-com-resultados-em-3-de-agosto-93CH-2014902",
+      "time": "2026-07-27T15:20:42Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Arábia Saudita - Ações fecharam o pregão em alta e o Índice Tadawul All Share avançou 0,02%",
+      "title": "Ações da Marriott podem oscilar 3,9% com resultado do dia 03.08",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/arabia-saudita--acoes-fecharam-o-pregao-em-alta-e-o-indice-tadawul-all-share-avancou-002-2014545",
-      "time": "2026-07-27T12:45:18Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-marriott-podem-oscilar-39-com-resultado-do-dia-0308-93CH-2014898",
+      "time": "2026-07-27T15:17:50Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB2N0TI_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Ibovespa abre em alta apoiado por otimismo no exterior com alívio de tensões entre EUA e Irã",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-abre-em-alta-apoiado-por-otimismo-no-exterior-com-alivio-de-tensoes-entre-eua-e-ira-2014626",
+      "time": "2026-07-27T15:15:31Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPED2T1WW_M.jpg"
     }
   ],
-  "atualizado_em": "27/07/2026 13:39"
+  "atualizado_em": "27/07/2026 15:42"
 }
