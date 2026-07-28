@@ -1,27 +1,17 @@
 {
   "headline": {
-    "title": "Ibovespa e dólar hoje focam em IPCA-15 e geopolítica pré-decisão do Fed",
-    "summary": "",
-    "source": "Investing.com",
-    "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-focam-em-ipca15-e-geopolitica-predecisao-do-fed-2015164",
-    "time": "2026-07-27T21:30:02Z",
-    "cat": "economia",
-    "tickers": [],
-    "image": null
+    "title": "Ibovespa sobe com bancos e ações cíclicas; Petrobras (PETR4) cai quase 3%",
+    "summary": "O Ibovespa iniciou a semana em alta e recuperou os 175 mil pontos nesta segunda-feira (27), favorecido pelo maior apetite por risco no exterior e pelo recuo dos juros futuros. O principal índice da B3 avançou 0,74%, aos ",
+    "source": "Suno",
+    "url": "https://www.suno.com.br/noticias/ibovespa-hoje-27-julho-2026-itub4-petr4-mt/",
+    "time": "2026-07-27T21:35:08Z",
+    "cat": "acoes",
+    "tickers": [
+      "PETR4"
+    ],
+    "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
   },
   "featured": [
-    {
-      "title": "Ibovespa sobe com bancos e ações cíclicas; Petrobras (PETR4) cai quase 3%",
-      "summary": "O Ibovespa iniciou a semana em alta e recuperou os 175 mil pontos nesta segunda-feira (27), favorecido pelo maior apetite por risco no exterior e pelo recuo dos juros futuros. O principal índice da B3 avançou 0,74%, aos ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-27-julho-2026-itub4-petr4-mt/",
-      "time": "2026-07-27T21:35:08Z",
-      "cat": "acoes",
-      "tickers": [
-        "PETR4"
-      ],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
-    },
     {
       "title": "Ibovespa é impulsionado pelo apetite a risco com a trégua entre EUA e Irã; dólar sobe a R$ 5,11",
       "summary": "O Ibovespa (IBOV) subiu com o retorno do apetite a risco diante da trégua entre Estados Unidos e Irã. Nesta segunda-feira (27), o principal índice da bolsa brasileira terminou as negociações com alta de 0,74%, aos 175.33",
@@ -31,32 +21,48 @@
       "cat": "economia",
       "tickers": [],
       "image": "https://www.moneytimes.com.br/uploads/2026/06/mercado-morning-ibovespa-wall-street-4.jpg"
+    },
+    {
+      "title": "Selic pode derrubar juros do consignado do INSS? Entenda",
+      "summary": "Selic pode derrubar juros do consignado do INSS? EntendaA queda da Selic pode chegar ao bolso de aposentados e pensionistas do INSS. O ministro da Previdência Social, Wolney Queiroz, afirmou nesta segunda-feira (27) que ",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/selic-consignado-inss-juros-teto-cnps-previdencia-mt/",
+      "time": "2026-07-27T20:22:00Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/04/iStock-1489161417-1-jpg.webp"
     }
   ],
   "all": [
     {
-      "title": "Dona da Vivo, Telefônica Brasil (VIVT3) vê lucro subir 17% no 2º tri, a R$ 1,57 bi",
-      "summary": "A receita operacional líquida da companhia teve alta de 7,6%, totalizando R$ 15,757 bilhões",
+      "title": "Simpar tem alta de 8,8% na receita do 2º tri e alavancagem menor",
+      "summary": "A companhia dona de empresas como Vamos, Movida e JSL terminou junho com uma alavancagem financeira de 2,8 vezes",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/dona-da-vivo-telefonica-brasil-vivt3-resultados-segundo-trimestre-2026/",
-      "time": "2026-07-27T22:31:37Z",
+      "url": "https://www.infomoney.com.br/mercados/simpar-tem-alta-de-88-na-receita-do-2o-tri-e-alavancagem-menor/",
+      "time": "2026-07-28T00:36:36Z",
       "cat": "acoes",
-      "tickers": [
-        "VIVT3"
-      ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/02/vitrine_96.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Captura-de-tela-2026-06-11-155216.png?fit=300%2C198&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "TIM (TIMS3): lucro líquido cresce 6,2% no 2º trimestre e vai a R$ 1,036 bilhão",
-      "summary": "O destaque do período foi o avanço da clientela de banda larga e a incorporação integral da empresa de tecnologia recém-adquirida V8 Tech",
+      "title": "Lotofácil hoje, concurso 3746: confira o resultado sorteado nesta segunda (27)",
+      "summary": "O prêmio estimado para este concurso era de R$ 9 milhões",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/tim-tims3-resultados-segundo-trimestre-2026/",
-      "time": "2026-07-27T22:13:52Z",
+      "url": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3746-confira-o-resultado-sorteado-nesta-segunda-27/",
+      "time": "2026-07-28T00:11:41Z",
       "cat": "acoes",
-      "tickers": [
-        "TIMS3"
-      ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/07/loja-tim-divulgacao.jpg?fit=300%2C192&amp;quality=70&amp;strip=all"
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/10/loteria_lotofacil_Marcelo-Camargo-Agencia-Brasil-e1751562724210.webp?fit=300%2C191&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Quina hoje, concurso 7076: confira o resultado sorteado nesta segunda (27)",
+      "summary": "Os números sorteados foram: 18 – 22 – 35 – 41 – 01",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7076-confira-o-resultado-sorteado-nesta-segunda-27/",
+      "time": "2026-07-28T00:06:42Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=300%2C175&amp;quality=70&amp;strip=all"
     },
     {
       "title": "Telefônica Brasil (VIVT3) tem lucro de R$ 1,6 bilhão no 2º tri",
@@ -165,6 +171,26 @@
       "image": "https://www.moneytimes.com.br/uploads/2024/09/acoes-bdrs.jpg"
     },
     {
+      "title": "GARE11 detalha destino de R$ 1,27 bilhão captado e mantém guidance para dividendos",
+      "summary": "O fundo imobiliário GARE11 detalhou, no relatório gerencial de junho, a alocação dos recursos captados na 7ª emissão de cotas, concluída no fim de 2025 e que somou aproximadamente R$ 1,27 bilhão. Segundo a gestão, o capi",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/gare11-detalha-destino-de-r-127-bilhao-captado-e-mantem-guidance-para-dividendos/",
+      "time": "2026-07-28T00:55:05Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
+    },
+    {
+      "title": "Fundo imobiliário da SPX Capital lança emissão de R$ 20 milhões; veja detalhes",
+      "summary": "O fundo imobiliário SPXG11 (SPX Real Estate Desenvolvimento de Galpões Logísticos Feeder Private) aprovou uma nova oferta pública de cotas que pode movimentar até R$ 20 milhões. A decisão foi comunicada em fato relevante",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/fundo-imobiliario-da-spx-capital-lanca-emissao-de-r-20-milhoes-veja-detalhes/",
+      "time": "2026-07-28T00:15:05Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
+    },
+    {
       "title": "FII conclui reavaliação de ativos e eleva patrimônio líquido em R$ 63,7 milhões",
       "summary": "O fundo imobiliário AZ Solargrid Renda Solar Fundo de Investimento Imobiliário (AZSG11) finalizou a primeira remarcação de seus ativos a valor justo, operação que acrescentou R$ 63,694 milhões ao patrimônio líquido do fu",
       "source": "Suno",
@@ -229,26 +255,44 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/itausa-divulgacao-1-jpg.webp"
     },
     {
-      "title": "Vale (VALE3): vice-presidente do conselho renuncia ao cargo",
-      "summary": "A Vale (VALE3) informou nesta segunda-feira (27) que Marcelo Gasparino da Silva apresentou renúncia aos cargos de membro e vice-presidente do Conselho de Administração da companhia. Segundo comunicado enviado ao mercado,",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/vale-vale3-renuncia-vice-presidente-conselho-mt/",
-      "time": "2026-07-27T16:35:11Z",
-      "cat": "acoes",
-      "tickers": [
-        "VALE3"
-      ],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/666d900b-brasil-vale-20190129-022-copy-jpg.webp"
+      "title": "Bolsas asiáticas despencam com derrocada de chips antes dos resultados das big techs",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-asiaticas-despencam-com-derrocada-de-ia-antes-dos-balancos-das-big-techs-2015370",
+      "time": "2026-07-28T02:29:39Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Fundo imobiliário mais que dobra resultado em junho; confira os valores",
-      "summary": "O fundo imobiliário PCIP11 apurou resultado distribuível de R$ 18,903 milhões em junho, alta de 147% frente a maio. No período, as receitas somaram R$ 3,887 milhões e as despesas ficaram em R$ 1,217 milhão. O resultado d",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/pcip11-resultado-rendimento-junho-2026/",
-      "time": "2026-07-27T16:25:10Z",
-      "cat": "fundos",
+      "title": "Bolsas da Coreia do Sul despencam mais de 9% com temores sobre gastos em IA",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/bolsas-da-coreia-do-sul-despencam-mais-de-9-com-temores-sobre-gastos-em-ia-2015367",
+      "time": "2026-07-28T02:11:00Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/123_Mesa_de_trabalho_com_1_2026017_162642-jpg.webp"
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Petróleo estende queda com esperanças de desescalada entre EUA e Irã",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/petroleo-estende-queda-com-esperancas-de-desescalada-entre-eua-e-ira-2015360",
+      "time": "2026-07-28T01:11:07Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Futuros de Wall St recuam com preocupações sobre IA; mercado aguarda Fed e resultados de gigantes",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/futuros-americanos-estaveis-enquanto-investidores-aguardam-fed-e-resultados-das-big-techs-2015351",
+      "time": "2026-07-28T00:38:04Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
       "title": "Bank of America aponta as melhores ações de semicondutores para comprar após queda do setor",
@@ -269,77 +313,7 @@
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/LYNXMPEB4C0X9_M.jpg"
-    },
-    {
-      "title": "TIM lucra R$1 bi no 2º tri",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/tim-lucra-r1-bi-no-2o-tri-2015307",
-      "time": "2026-07-27T22:49:07Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB5S0BT_M.jpg"
-    },
-    {
-      "title": "México - Ações fecharam o pregão em alta e o Índice S&P/BMV IPC avançou 1,17%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/mexico--acoes-fecharam-o-pregao-em-alta-e-o-indice-spbmv-ipc-avancou-117-2015273",
-      "time": "2026-07-27T21:30:19Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPED7S129_M.jpg"
-    },
-    {
-      "title": "Ibovespa e dólar hoje focam em IPCA-15 e geopolítica pré-decisão do Fed",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-focam-em-ipca15-e-geopolitica-predecisao-do-fed-2015164",
-      "time": "2026-07-27T21:30:02Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Colômbia - Ações fecharam o pregão em alta e o Índice COLCAP avançou 0,37%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/colombia--acoes-fecharam-o-pregao-em-alta-e-o-indice-colcap-avancou-037-2015271",
-      "time": "2026-07-27T21:25:19Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Por que as ações da Noble estão caindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-noble-estao-caindo-hoje-93CH-2015270",
-      "time": "2026-07-27T21:22:28Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Por que as ações da Rambus estão subindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-rambus-estao-subindo-hoje-93CH-2015267",
-      "time": "2026-07-27T21:21:55Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Rússia - Ações fecharam o pregão em alta e o Índice MOEX Russia Index avançou 2,19%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/russia--acoes-fecharam-o-pregao-em-alta-e-o-indice-moex-russia-index-avancou-219-2015266",
-      "time": "2026-07-27T21:20:19Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB2C07X_M.jpg"
     }
   ],
-  "atualizado_em": "28/07/2026 00:01"
+  "atualizado_em": "28/07/2026 04:08"
 }
