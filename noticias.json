@@ -1,138 +1,190 @@
 {
   "headline": {
-    "title": "IPCA-15 de julho fica em 0,06% e reforça cenário de corte da Selic; entenda",
-    "summary": "IPCA-15 de julho fica em 0,06% e reforça cenário de corte da Selic; entendaO Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15), a prévia da inflação oficial do Brasil, avançou apenas 0,06% em julho, conforme dad",
-    "source": "Suno",
-    "url": "https://www.suno.com.br/noticias/ipca-15-julho-2026-006-abaixo-esperado-selic-copom-go/",
-    "time": "2026-07-28T13:36:00Z",
+    "title": "Inflação, emprego e PIB: os dados que o Fed terá na mesa para decidir os juros",
+    "summary": "O Federal Reserve (Fed) anuncia sua decisão de política monetária nesta quarta-feira (29) com um cenário mais favorável do que o observado nos últimos meses. Os dados mais recentes mostram uma inflação em desaceleração, ",
+    "source": "Money Times",
+    "url": "https://www.moneytimes.com.br/inflacao-emprego-e-pib-os-dados-que-o-fed-tera-na-mesa-para-decidir-os-juros-jcav/",
+    "time": "2026-07-28T19:08:02Z",
     "cat": "economia",
     "tickers": [],
-    "image": "https://files.sunoresearch.com.br/n/uploads/2026/02/48082f7c-ballots-1194989_1280-jpg.webp"
+    "image": "https://www.moneytimes.com.br/uploads/2026/07/federal-reserve-fed-fomc-eua-estados-unidos-4.jpg"
   },
   "featured": [
     {
-      "title": "CMIN3 dispara em julho: por que CSN Mineração sobe mesmo com 2T fraco?",
-      "summary": "CSN Mineração (CMIN3). Foto: iStock.A CSN Mineração (CMIN3) virou aquele papel que faz o investidor olhar duas vezes para a tela. Mesmo com analistas esperando um segundo trimestre pressionado, as ações dispararam em jul",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/cmin3-csn-mineracao-alta-julho-2t26-minerio-ferro-mt/",
-      "time": "2026-07-28T16:18:00Z",
-      "cat": "acoes",
-      "tickers": [
-        "CMIN3"
-      ],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2024/03/iStock-1309508201.jpg"
+      "title": "IPCA-15 muda o jogo: Economistas voltam a prever corte da Selic e reduzem projeção para inflação",
+      "summary": "Após a prévia da inflação de julho mostrar uma desaceleração em relação ao mês anterior, o ASA revisou seu cenário macroeconômico levando em consideração a melhor composição do IPCA-15 divulgado nesta manhã. Para a equip",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ipca-15-muda-o-jogo-economistas-voltam-a-prever-corte-da-selic-e-reduz-projecao-para-inflacao-jcav/",
+      "time": "2026-07-28T18:21:48Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/juros-selic-2.jpg"
     },
     {
-      "title": "Ações da Lucid Group disparam 24% após investimento de príncipe saudita",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-lucid-group-disparam-24-apos-investimento-de-principe-saudita-93CH-2016721",
-      "time": "2026-07-28T18:03:29Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+      "title": "Criptomoedas: Bitcoin cai pressionado por gastos com IA e quedas no setor de chips",
+      "summary": "O bitcoin permanece sob pressão à medida que a onda de vendas de ações de fabricantes de chips se intensifica, pesando sobre o apetite ao risco",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/criptomoedas-bitcoin-cai-pressionado-por-gastos-com-ia-e-quedas-no-setor-de-chips/",
+      "time": "2026-07-28T19:55:32Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/yigit-ali-atasoy-z1jggXh29_Q-unsplash.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
     }
   ],
   "all": [
     {
-      "title": "Brasileirão fecha 1º turno com queda nas arquibancadas; Flamengo é exceção",
-      "summary": "Campeonato tem claro domínio de nove equipes entre as líderes nas arquibancadas, com destaque para o rubro-negro carioca",
+      "title": "Por que essa quarta não é “Super”? E quando será a próxima dobradinha Fomc-Copom?",
+      "summary": "Na verdade, quando as datas das reuniões são as mesmas é quase uma coincidência",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/esportes/brasileirao-fecha-1o-turno-com-queda-nas-arquibancadas-flamengo-e-excecao/",
-      "time": "2026-07-28T18:15:51Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2020/06/103464279_3911271172223563_7277423407548280840_n.jpg?fit=300%2C199&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Zelenskiy diz ter discutido defesas aéreas e negociações de paz com Trump",
-      "summary": "Uma ‌boa reunião ​com o presidente Trump no Salão Oval”, ⁠escreveu ​Zelenskiy no canal oficial do Telegram",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/zelenskiy-diz-ter-discutido-defesas-aereas-e-negociacoes-de-paz-com-trump/",
-      "time": "2026-07-28T18:01:45Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/UKRAINE-DONNYLAND-4.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Trump demonstra irritação com Netanyahu antes das negociações sobre Irã",
-      "summary": "Encontro ocorreu nesta terça-feira (28) na Casa Branca",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mundo/trump-demonstra-irritacao-com-netanyahu-antes-das-negociacoes-sobre-ira/",
-      "time": "2026-07-28T18:00:48Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-22T140450Z_737662653_RC2XIMAWAGS3_RTRMADP_3_IRAN-CRISIS-TRANSFER-USA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Morgan Stanley vê correção em IA como oportunidade – e ações do Brasil entram na tese",
-      "summary": "Petrobras, Vale e elétricas brasileiras aparecem como as beneficiárias",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/morgan-stanley-ve-correcao-em-ia-como-oportunidade-e-acoes-do-brasil-entram-na-tese/",
-      "time": "2026-07-28T18:00:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/inteligencia-artificial-ai-ia-tecnologia.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Exportações do Brasil para Argentina caíram 18% nos últimos 12 meses; veja os números",
-      "summary": "Queda no comércio ocorre em meio a uma relação conturbada entre os presidentes Lula e Milei.",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/exportacoes-do-brasil-para-argentina-cairam-18-nos-ultimos-12-meses-veja-os-numeros/",
-      "time": "2026-07-28T17:57:16Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/444112761.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Só 4 ações da B3 venceram o CDI em todos os anos desde 2022; veja quais são",
-      "summary": "Levantamento da Elos Ayta mostra que Sabesp, Copel, Cemig e TIM foram as únicas companhias a superar o principal benchmark da renda fixa em todas as janelas anuais analisadas entre 2022 e 2026",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/so-4-acoes-da-b3-venceram-o-cdi-em-todos-os-anos-desde-2022-veja-quais-sao/",
-      "time": "2026-07-28T17:46:01Z",
+      "url": "https://www.infomoney.com.br/economia/por-que-essa-quarta-nao-e-super-e-quando-sera-a-proxima-dobradinha-fomc-copom/",
+      "time": "2026-07-28T20:00:00Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/sabesp-10-eta-barueri.jpg?fit=300%2C187&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/galipolo-bc-warsh-fed-super-quarta.png?fit=300%2C191&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Cientistas da USP criam ‘impressão digital’ para rastrear madeira ilegal da Amazônia",
-      "summary": "Cientistas da Universidade de São Paulo (USP) desenvolveram um método químico capaz de rastrear a origem exata da madeira extraída na Amazônia. Desenvolvida no Centro de Energia Nuclear na Agricultura (Cena-USP), a técni",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/cientistas-da-usp-criam-impressao-digital-para-rastrear-madeira-ilegal-da-amazonia-gaep/",
-      "time": "2026-07-28T18:00:09Z",
+      "title": "Criptomoedas: Bitcoin cai pressionado por gastos com IA e quedas no setor de chips",
+      "summary": "O bitcoin permanece sob pressão à medida que a onda de vendas de ações de fabricantes de chips se intensifica, pesando sobre o apetite ao risco",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/criptomoedas-bitcoin-cai-pressionado-por-gastos-com-ia-e-quedas-no-setor-de-chips/",
+      "time": "2026-07-28T19:55:32Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/yigit-ali-atasoy-z1jggXh29_Q-unsplash.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Brasil vê avanço na exportação de carne de frango em 2026 apesar de UE e da guerra",
+      "summary": "As exportações brasileiras de carne de frango terminaram ​o primeiro semestre com recordes em receita e volumes",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/brasil-ve-avanco-na-exportacao-de-carne-de-frango-em-2026-apesar-de-ue-e-da-guerra/",
+      "time": "2026-07-28T19:42:50Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/05/desmatamento-amazonia.jpg"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/frangos1ana.webp?fit=300%2C179&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Brasil vê avanço na exportação de frango em 2026 apesar de União Europeia e guerra",
-      "summary": "As exportações de carne de frango do Brasil, maior exportador global, podem alcançar um recorde de até 5,875 milhões de toneladas em 2026, alta de até 10,3% sobre 2025, apesar de incertezas sobre os embarques para a Uniã",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/brasil-ve-avanco-na-exportacao-de-carne-de-frango-em-2026-apesar-de-uniao-europeia-e-guerra-pads/",
-      "time": "2026-07-28T17:32:59Z",
+      "title": "PT aciona PGE para apurar quem bancou ida de Javier Milei a convenção do PL",
+      "summary": "A sigla pede a abertura de investigação para apurar se a presença de Milei foi custeada com recursos públicos da Argentina, recursos próprios do presidente, verbas partidárias do PL ou aportes privados de terceiros",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/pt-aciona-pge-para-apurar-quem-bancou-ida-de-javier-milei-a-convencao-do-pl/",
+      "time": "2026-07-28T19:36:00Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/08/aves-acoes-agro.jpg"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/55418340177_62bbc3c166_c.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Bolsas da Europa ficam no ‘azul’ com alívio no petróleo e balanços corporativos",
-      "summary": "Os índices europeus fecharam o pregão desta terça-feira (28) majoritariamente em alta com o alívio nos preços do petróleo em meio a trégua dos ataques entre Estados Unidos e Irã. Os balanços corporativos ficaram no radar",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/europa-28-7-26-lils/",
-      "time": "2026-07-28T17:18:22Z",
+      "title": "Petróleo cai forte com pausa de ataques EUA-Irã e sinais de possível negociação",
+      "summary": "A pausa nos ataques entre os Estados Unidos e o Irã se manteve nesta terça, elevando as esperanças de negociações no conflito do Oriente Médio, que desorganizou o setor de energia",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-28072026/",
+      "time": "2026-07-28T19:30:55Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2021/08/europa-2.jpg"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/hormuz-estreito-guerra-ira-eua-petroleo.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Flávio Bolsonaro apresenta esclarecimentos por escrito em inquérito e nega calúnia contra Lula",
-      "summary": "O senador e candidato à Presidência da República, Flávio Bolsonaro (PL-RJ), decidiu não prestar depoimento à Polícia Federal (PF) em inquérito sobre suspeita de calúnia contra o presidente Luiz Inácio Lula da Silva (PT) ",
+      "title": "Consolidação de FIIs da Inter avança com ITIP11 e INRD11; ITIT11 fica de fora",
+      "summary": "A proposta faz parte de um plano anunciado pela gestora em junho que prevê a concentração dos patrimônios dos três fundos no Inter Hedge (INHF11)",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/onde-investir/consolidacao-de-fiis-da-inter-avanca-com-itip11-e-inrd11-itit11-fica-de-fora/",
+      "time": "2026-07-28T18:48:55Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/mercado-imobiliario-imoveis.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "IRB (IRBR3) pode mais que dobrar lucro até o fim da década e 2027 deve marcar virada, diz BTG",
+      "summary": "O IRB Brasil RE (IRBR3) pode estar deixando para trás a história de reestruturação para se tornar uma empresa de crescimento de lucros. Essa é a avaliação do BTG Pactual após um encontro com o CEO da companhia, Marcos Fa",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/flavio-bolsonaro-apresenta-esclarecimentos-por-escrito-em-inquerito-e-nega-calunia-contra-lula-gaep/",
-      "time": "2026-07-28T16:41:40Z",
+      "url": "https://www.moneytimes.com.br/irb-irbr3-pode-mais-que-dobrar-lucro-ate-o-fim-da-decada-e-2027-deve-marcar-virada-diz-btg-vtra/",
+      "time": "2026-07-28T20:01:01Z",
+      "cat": "acoes",
+      "tickers": [
+        "IRBR3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/03/irb-2.jpg"
+    },
+    {
+      "title": "Inflação, emprego e PIB: os dados que o Fed terá na mesa para decidir os juros",
+      "summary": "O Federal Reserve (Fed) anuncia sua decisão de política monetária nesta quarta-feira (29) com um cenário mais favorável do que o observado nos últimos meses. Os dados mais recentes mostram uma inflação em desaceleração, ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/inflacao-emprego-e-pib-os-dados-que-o-fed-tera-na-mesa-para-decidir-os-juros-jcav/",
+      "time": "2026-07-28T19:08:02Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/federal-reserve-fed-fomc-eua-estados-unidos-4.jpg"
+    },
+    {
+      "title": "Apenas 4 ações superam o CDI desde 2022, mostra estudo; veja quais são as vencedoras",
+      "summary": "Sabesp (SBSP3), Copel (CPLE3), Cemig (CMIG4) e TIM (TIMS3) foram as únicas empresas que superaram o CDI, o principal benchmark da renda fixa, em todas as janelas anuais de 12 meses entre 2022 e 2026, mostrou um levantame",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/apenas-4-acoes-superam-o-cdi-em-todos-os-anos-desde-2022-veja-quais-sao-igdl/",
+      "time": "2026-07-28T19:03:23Z",
+      "cat": "economia",
+      "tickers": [
+        "SBSP3",
+        "CMIG4",
+        "TIMS3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/img-20260728-wa0149-1024x644.jpg"
+    },
+    {
+      "title": "Petróleo cai e volta ao nível de US$ 80 com sinais de negociações para reabertura do Estreito de  Ormuz",
+      "summary": "Os preços do petróleo engataram o terceiro dia consecutivo de perdas com alívio nas tensões entre Estados Unidos e Irã no Oriente Médio e expectativa de avanço nas negociações para um cessar-fogo definitivo. O contrato m",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/petroleo-28-7-26-lils/",
+      "time": "2026-07-28T19:02:40Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2024/12/petroleo-opep-xp-investimentos.webp"
+    },
+    {
+      "title": "Vale a pena comprar Natura (NATU3)? Citi corta preço-alvo e mantém cautela antes do balanço; veja motivos",
+      "summary": "O Citi cortou o preço-alvo para as ações da Natura (NATU3) de R$ 12 para R$ 10, o que implica um potencial de alta de 17,8% em relação ao último fechamento, com manutenção da recomendação neutra. De acordo com os analist",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/vale-a-pena-comprar-natura-natu3-citi-corta-preco-alvo-e-mantem-cautela-antes-do-balanco-veja-motivos-lmrs/",
+      "time": "2026-07-28T19:00:59Z",
+      "cat": "analise",
+      "tickers": [
+        "NATU3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/natura-.jpg"
+    },
+    {
+      "title": "IPCA-15 muda o jogo: Economistas voltam a prever corte da Selic e reduzem projeção para inflação",
+      "summary": "Após a prévia da inflação de julho mostrar uma desaceleração em relação ao mês anterior, o ASA revisou seu cenário macroeconômico levando em consideração a melhor composição do IPCA-15 divulgado nesta manhã. Para a equip",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ipca-15-muda-o-jogo-economistas-voltam-a-prever-corte-da-selic-e-reduz-projecao-para-inflacao-jcav/",
+      "time": "2026-07-28T18:21:48Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/juros-selic-2.jpg"
+    },
+    {
+      "title": "CXMT: como investir na fabricante chinesa de chips que disparou quase 500% no IPO",
+      "summary": "A ChangXin Memory Technologies (CXMT), maior fabricante chinesa de chips de memória, estreou na Bolsa de Xangai nesta segunda-feira (27) com uma valorização de 466% no primeiro dia de negociações. O resultado colocou a c",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/cxmt-ipo-xangai-alta-466-valor-mercado-2t26-go/",
+      "time": "2026-07-28T19:05:09Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/05/54901134047-f8f4f0a005-o-scaled-e1785256589549.jpg"
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/IbovespaUnsplash-10-scaled-1-jpg.webp"
+    },
+    {
+      "title": "Quando a Petrobras (PETR4) paga dividendos? Veja datas e o que esperar do 2T26",
+      "summary": "Quando a Petrobras (PETR4) paga dividendos? Veja datas e o que esperar do 2T26Para quem acompanha dividendos, a Petrobras (PETR4) já tem dinheiro com data marcada para cair na conta. A companhia aprovou R$ 9,03 bilhões e",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/petrobras-petr4-dividendos-data-com-data-ex-pagamento-mt/",
+      "time": "2026-07-28T18:30:00Z",
+      "cat": "fundos",
+      "tickers": [
+        "PETR4"
+      ],
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/05/baf881a4-petrobras-jpg.webp"
     },
     {
       "title": "Telefônica (VIVT3) derrete mais de 6% após resultado do 2T26; entenda",
@@ -213,105 +265,75 @@
       "image": "https://files.sunoresearch.com.br/n/uploads/2023/06/coca-cola-473780_1280.jpg"
     },
     {
-      "title": "RBRX11 destrava receitas extraordinárias e lucro dispara 81%; confira",
-      "summary": "O fundo imobiliário RBRX11 apurou resultado distribuível de R$ 12,700 milhões em junho, alta de 81,3% frente a maio. O avanço foi sustentado por receitas de CRIs de R$ 6,059 milhões, enquanto as despesas totalizaram R$ 1",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/rbrx11-resultado-junho-rendimentos-carteira/",
-      "time": "2026-07-28T12:25:10Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/close-de-gr-fico-fin-1_05-1.webp"
-    },
-    {
-      "title": "Exportações do Brasil para a Argentina caem 18% em meio às reformas de Milei",
-      "summary": "Vendas ao principal parceiro do Mercosul recuaram nos últimos 12 meses, enquanto importações brasileiras de produtos argentinos cresceram 3,8%",
+      "title": "99 investe R$ 100 milhões para disputar entregas de supermercado em São Paulo",
+      "summary": "99Compras estreia na capital paulista com 3.000 parceiros comerciais e mais de 200 mil entregadores",
       "source": "Exame",
-      "url": "https://exame.com/economia/exportacoes-do-brasil-para-a-argentina-caem-18-em-meio-as-reformas-de-milei/",
-      "time": "2026-07-28T15:11:41Z",
+      "url": "https://exame.com/negocios/99-investe-r-100-milhoes-para-disputar-entregas-de-supermercado-em-sao-paulo/",
+      "time": "2026-07-28T16:53:00Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2024/07/000_34ZM44E-1.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/03/99Compras4.png"
     },
     {
-      "title": "A indústria de chips vive um novo boom. Entenda quanto esse mercado movimenta",
-      "summary": "Chips deixaram de ser apenas componentes eletrônicos e passaram a definir a competitividade entre empresas e países",
+      "title": "O efeito Jonathan Anderson chega aos resultados da LVMH",
+      "summary": "Divisão que reúne Louis Vuitton, Dior e outras grifes voltou a crescer no segundo trimestre, encerrando quase dois anos de resultados negativos",
       "source": "Exame",
-      "url": "https://exame.com/inteligencia-artificial/a-industria-de-chips-vive-um-novo-boom-entenda-quanto-esse-mercado-movimenta/",
-      "time": "2026-07-28T14:23:17Z",
+      "url": "https://exame.com/casual/o-efeito-jonathan-anderson-chega-aos-resultados-da-lvmh/",
+      "time": "2026-07-28T16:11:30Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/05/chips.png"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/Dior-Women-Autumn-Winter-2026-2027-.jpg"
     },
     {
-      "title": "Por que as ações da DXC Tecnologia estão subindo hoje?",
+      "title": "Lucro do FGTS: veja o passo a passo para saber quanto você vai ganhar",
+      "summary": "Conselho aprovou R$ 13 bilhões em distribuição; crédito é calculado com base no saldo de 31 de dezembro de 2025",
+      "source": "Exame",
+      "url": "https://exame.com/invest/minhas-financas/lucro-do-fgts-veja-o-passo-a-passo-para-saber-quanto-voce-vai-ganhar/",
+      "time": "2026-07-28T15:59:26Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2022/08/Foto-Marcelo-Camargo-Agencia-Brasil_2.jpg"
+    },
+    {
+      "title": "Ações da General Dynamics sobem com aprovação de contrato para submarinos",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-dxc-tecnologia-estao-subindo-hoje-93CH-2016731",
-      "time": "2026-07-28T18:08:47Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-general-dynamics-sobem-com-aprovacao-de-contrato-para-submarinos-93CH-2016854",
+      "time": "2026-07-28T19:44:15Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Ações da DXC Tecnologia sobem com parceria e aporte na ElevenLabs",
+      "title": "Ações da Rogers Communications disparam após acordo com Prime Video",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-dxc-tecnologia-sobem-com-parceria-e-aporte-na-elevenlabs-93CH-2016723",
-      "time": "2026-07-28T18:04:28Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-rogers-communications-disparam-apos-acordo-com-prime-video-93CH-2016852",
+      "time": "2026-07-28T19:35:58Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Ações da Lucid Group disparam 24% após investimento de príncipe saudita",
+      "title": "Ações da Rogers disparam 5% com acordo de sublicença de 12 anos com Prime Video",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-lucid-group-disparam-24-apos-investimento-de-principe-saudita-93CH-2016721",
-      "time": "2026-07-28T18:03:29Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-rogers-disparam-5-com-acordo-de-sublicenca-de-12-anos-com-prime-video-93CH-2016847",
+      "time": "2026-07-28T19:31:28Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Ações da EVI Industries sobem 8,5% com programa de recompra de US$ 10 mi",
+      "title": "EUA proíbem importação de robôs e inversores de energia chineses",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-evi-industries-sobem-85-com-programa-de-recompra-de-us-10-mi-93CH-2016718",
-      "time": "2026-07-28T18:01:09Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Ações da ZipRecruiter sobem com nomeação de nova CFO",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-ziprecruiter-sobem-com-nomeacao-de-nova-cfo-93CH-2016713",
-      "time": "2026-07-28T17:58:33Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Ações da Innoviz Technologies despencam 30% após oferta de ações",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-innoviz-technologies-despencam-30-apos-oferta-de-acoes-93CH-2016706",
-      "time": "2026-07-28T17:53:44Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Por que as ações da Progress Software estão subindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-progress-software-estao-subindo-hoje-93CH-2016678",
-      "time": "2026-07-28T17:37:42Z",
+      "url": "https://br.investing.com/news/stock-market-news/eua-proibem-importacao-de-robos-e-inversores-de-energia-chineses-93CH-2016805",
+      "time": "2026-07-28T19:00:34Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "28/07/2026 18:19"
+  "atualizado_em": "28/07/2026 20:01"
 }
