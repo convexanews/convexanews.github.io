@@ -1,96 +1,119 @@
 {
   "headline": {
-    "title": "Dólar hoje sobe ante real à espera da decisão de juros do Fed",
-    "summary": "A expectativa predominante é de que o Fed mantenha nesta quarta-feira a taxa de juros entre 3,50% e 3,75% ao ano",
+    "title": "Ibovespa segue em baixa de mais de 1% após Fed manter juros, mas com dissidência",
+    "summary": "A decisão amplamente esperada de manter a taxa básica de juros na faixa de 3,50% a 3,75% teve a discordância de três dos 12 membros",
     "source": "InfoMoney",
-    "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-29072026/",
-    "time": "2026-07-29T15:59:02Z",
+    "url": "https://www.infomoney.com.br/mercados/ibovespa-29072026-sessao-queda-apos-decisao-federal-reserve/",
+    "time": "2026-07-29T18:29:13Z",
     "cat": "economia",
     "tickers": [],
-    "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/Impacto-do-dolar-nos-investimentos.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    "image": "https://www.infomoney.com.br/wp-content/uploads/2019/07/acoes-mercado-bolsa-baixa-queda-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
   },
   "featured": [
     {
-      "title": "Fed mantém juros, mas sem decisão unânime; três membros votam por alta das taxas",
-      "summary": "Mercado tinha apreensão sobre decisão em meio à falta de orientação futura da nova gestão",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/economia/fed-mantem-juros-em-linha-com-expectativa-do-mercado-em-segunda-reuniao-de-warsh/",
-      "time": "2026-07-29T18:00:38Z",
+      "title": "Fed segura juros, fala sobre dissidência e Warsh avisa: “não temos varinha mágica”",
+      "summary": "A segunda decisão de política monetária do Federal Reserve sob o comando de Kevin Warsh veio acompanhada da maior divisão no Comitê Federal de Mercado Aberto (FOMC) desde 2016. Embora o banco central tenha mantido a taxa",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/fed-segura-juros-fala-sobre-dissidencia-e-warsh-avisa-nao-temos-varinha-magica/",
+      "time": "2026-07-29T19:46:35Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/2025-11-26T201009Z_1_LYNXMPELAP166_RTROPTP_3_USA-FED-BEIGEBOOK.jpg?fit=300%2C186&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/kevin-warsh-federal-reserve-fed-2-1.jpg"
     },
     {
-      "title": "Fed mantém juros dos EUA pela 5ª vez consecutiva",
-      "summary": "Decisão mantém os juros entre 3,50% e 3,75% ao ano, enquanto investidores monitoram sinais sobre os próximos passos do BC dos EUA",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/fed-mantem-juros-dos-eua-pela-5a-vez-consecutiva/",
-      "time": "2026-07-29T15:01:12Z",
+      "title": "Fed segura juros nos EUA, mas deixa mercado sem resposta sobre próxima alta",
+      "summary": "O Fed decidiu não mexer nos juros, mas também não entregou o alívio completo que parte do mercado queria ouvir. O banco central dos Estados Unidos manteve nesta quarta-feira (29) a taxa básica na faixa entre 3,50% e 3,75",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/fed-juros-eua-decisao-fomc-impacto-brasil-mt/",
+      "time": "2026-07-29T18:35:11Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2023/08/federal-reserve-estados-unidos-pequenas-medias-empresas-e1695231735349.jpg"
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/abd3fe84-1024px-federal_reserve_bank_of_chicago_chicago_illinois_9181618932-jpg.webp"
     }
   ],
   "all": [
     {
-      "title": "Fed mantém juros, mas sem decisão unânime; três membros votam por alta das taxas",
-      "summary": "Mercado tinha apreensão sobre decisão em meio à falta de orientação futura da nova gestão",
+      "title": "Petróleo brent salta 8% e supera US$ 90 após Trump afirmar que atingirá Irã com força",
+      "summary": "Os contratos futuros têm apresentado forte volatilidade neste mês, com os EUA e o Irã passando de uma escalada de tensões para uma aparente aproximação diplomática e, agora, de volta à troca de farpas",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/economia/fed-mantem-juros-em-linha-com-expectativa-do-mercado-em-segunda-reuniao-de-warsh/",
-      "time": "2026-07-29T18:00:38Z",
+      "url": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-29072026/",
+      "time": "2026-07-29T19:30:13Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Guerra-Petroleo.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Brasil vira maior importador de carros chineses: mais um alerta para locadoras da B3?",
+      "summary": "Entrada de chineses acelera depreciação de frotas no Brasil, mas impacto sobre locadoras pode ser limitado por tarifas e foco em SUVs",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/brasil-vira-maior-importador-de-carros-chineses-mais-um-alerta-para-locadoras-da-b3/",
+      "time": "2026-07-29T19:00:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/04/2025-04-04T180347Z_1_LYNXNPEL33118_RTROPTP_3_EUROPE-CHINA-TRADE-e1768398677435.jpg?fit=300%2C154&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Jerônimo reage à declaração de Caiado sobre ‘alforriar’ estado se eleito",
+      "summary": "Em resposta, presidenciável definiu postura como 'lacração eleitoreira' e ressaltou ser casado com 'uma baiana arretada'; termo remete à concessão de liberdade aos escravizados",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/jeronimo-reage-a-declaracao-de-caiado-sobre-alforriar-estado-se-eleito/",
+      "time": "2026-07-29T18:30:39Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/edital-pavimento-br030_mcamgo_abr_22112023-11.jpeg?fit=300%2C225&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Ibovespa segue em baixa de mais de 1% após Fed manter juros, mas com dissidência",
+      "summary": "A decisão amplamente esperada de manter a taxa básica de juros na faixa de 3,50% a 3,75% teve a discordância de três dos 12 membros",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-29072026-sessao-queda-apos-decisao-federal-reserve/",
+      "time": "2026-07-29T18:29:13Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/2025-11-26T201009Z_1_LYNXMPELAP166_RTROPTP_3_USA-FED-BEIGEBOOK.jpg?fit=300%2C186&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/07/acoes-mercado-bolsa-baixa-queda-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Usiminas, Gerdau e CSN: o que esperar para os resultados das siderúrgicas no 2T26?",
-      "summary": "Melhora operacional e maior poder de precificação devem impulsionar as siderúrgicas no período",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/usiminas-gerdau-e-csn-o-que-esperar-para-os-resultados-das-siderurgicas-no-2t26/",
-      "time": "2026-07-29T17:05:44Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Captura-de-tela-2026-04-24-133955.png?fit=300%2C225&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "STF autoriza cooperação internacional para rastrear patrimônio ligado ao Banco Master",
-      "summary": "Polícia Federal quer localizar ativos no exterior, incluindo um iate de R$ 500 milhões, na investigação sobre supostas fraudes envolvendo Daniel Vorcaro",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/stf-autoriza-cooperacao-internacional-para-rastrear-patrimonio-ligado-ao-banco-master/",
-      "time": "2026-07-29T16:51:07Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/whatsapp-image-2026-03-04-at-100014.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Brasil já soma 1.709 novos assessores de investimento em 2026; veja perfil",
-      "summary": "Em junho, o país contabilizou 27.203 assessores de investimento; o número representa um crescimento de 2,8% de assessores vinculados nos últimos 12 meses",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/advisor/brasil-ja-soma-1-709-novos-assessores-de-investimento-em-2026-veja-perfil/",
-      "time": "2026-07-29T16:22:50Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/24379.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "IPO da Shein vem aí: como abertura de capital pode afetar ações de varejistas na B3?",
-      "summary": "Prospecto do IPO revela desaceleração das vendas da Shein em mercados desenvolvidos, mas analistas alertam que Brasil pode se tornar alvo prioritário da expansão da companhia",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ipo-da-shein-vem-ai-como-abertura-de-capital-pode-afetar-acoes-de-varejistas-na-b3/",
-      "time": "2026-07-29T16:00:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/2025-09-24T164045Z_1811632593_RC2FYGAVPDYK_RTRMADP_3_SHEIN-BRITAIN.jpg?fit=300%2C202&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Dólar hoje sobe ante real à espera da decisão de juros do Fed",
-      "summary": "A expectativa predominante é de que o Fed mantenha nesta quarta-feira a taxa de juros entre 3,50% e 3,75% ao ano",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-29072026/",
-      "time": "2026-07-29T15:59:02Z",
+      "title": "Fed segura juros, fala sobre dissidência e Warsh avisa: “não temos varinha mágica”",
+      "summary": "A segunda decisão de política monetária do Federal Reserve sob o comando de Kevin Warsh veio acompanhada da maior divisão no Comitê Federal de Mercado Aberto (FOMC) desde 2016. Embora o banco central tenha mantido a taxa",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/fed-segura-juros-fala-sobre-dissidencia-e-warsh-avisa-nao-temos-varinha-magica/",
+      "time": "2026-07-29T19:46:35Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/Impacto-do-dolar-nos-investimentos.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/kevin-warsh-federal-reserve-fed-2-1.jpg"
+    },
+    {
+      "title": "Petróleo dispara 7% com temor de nova escalada das tensões no Oriente Médio",
+      "summary": "Após três dias consecutivos de queda, os preços do petróleo disparam nesta quarta-feira (29) com a retomada dos ataques entre Estados Unidos e Irã no Oriente Médio. O movimento renovou o temor de escalada nas tensões na ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/petroleo-29-7-26-lils/",
+      "time": "2026-07-29T19:20:36Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/petroleo.jpg"
+    },
+    {
+      "title": "MBRF3 ou BEEF3? Santander ajusta preços-alvo e mantém preferência por uma ação",
+      "summary": "As ações da MBRF (MBRF3) seguem sendo a principal aposta do Santander entre as empresas brasileiras de proteína animal, mesmo após o banco revisar suas estimativas para o setor e atualizar os preços-alvo para o fim de 20",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/mbrf3-ou-beef3-santander-ajusta-precos-alvo-e-mantem-preferencia-por-uma-acao-pads/",
+      "time": "2026-07-29T18:37:03Z",
+      "cat": "acoes",
+      "tickers": [
+        "MBRF3",
+        "BEEF3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/02/frigorificos-jbs-minerva-marfrig-brf.jpg"
+    },
+    {
+      "title": "Fed mantém juros nos EUA entre 3,50% e 3,75%, mas expõe divergências sobre cortes",
+      "summary": "O Comitê Federal de Mercado Aberto (Fomc, na sigla em inglês) manteve, nesta quarta-feira (29), os juros de referência dos Estados Unidos (EUA) no intervalo de 3,50% a 3,75% ao ano. A decisão era a aposta majoritária par",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/fed-mantem-juros-nos-eua-entre-350-e-375-mas-expoe-divergencias-sobre-cortes/",
+      "time": "2026-07-29T18:10:17Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/federal-reserve-fed-eua-estados-unidos.jpg"
     },
     {
       "title": "Hypera (HYPE3) ganha impulso na ‘corrida das canetas’ após aval da Anvisa; Santander vê alta de 37% para ação",
@@ -103,38 +126,24 @@
       "image": "https://www.moneytimes.com.br/uploads/2026/07/canetas-emagrecedoras-anvisa.png"
     },
     {
-      "title": "Brasil está menos dependente da renda fixa tradicional, segundo a Anbima",
-      "summary": "A renda fixa continuou sendo o principal motor do mercado de capitais brasileiro no primeiro semestre de 2026. As emissões do segmento somaram R$ 288,8 bilhões, respondendo pela maior parte das captações realizadas no pe",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/brasil-esta-menos-dependente-da-renda-fixa-tradicional-segundo-a-anbima/",
-      "time": "2026-07-29T17:28:20Z",
+      "title": "Construtoras ganham respiro com inflação mais fraca; veja ações no radar",
+      "summary": "A inflação da construção tirou um pouco o pé do acelerador em julho, e isso pode ser uma boa notícia para as construtoras. O INCC-M, índice calculado pela Fundação Getulio Vargas (FGV), avançou 0,62% no mês, abaixo do re",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/inflacao-da-construcao-incc-construtoras-direcional-cury-mt/",
+      "time": "2026-07-29T19:40:00Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/real-investimentos-mercados-mercado-financeiro.jpg"
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/92a98eb0-custos-da-contrucao-civil-jpg.webp"
     },
     {
-      "title": "Santander (SANB11) decepciona mercado, mas queda das ações é exagerada, diz gestor da TCM",
-      "summary": "O Santander Brasil (SANB11) abriu a temporada de balanços dos grandes bancos com números abaixo do esperado. Com isso, as ações da instituição lideraram as perdas do Ibovespa (IBOV) nesta quarta-feira (29). Para Utain Ma",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/santander-decepciona-mercado-com-alta-das-provisoes-queda-da-acao-pode-ter-sido-exagerada-diz-gestor-da-tmc-jvka/",
-      "time": "2026-07-29T17:24:19Z",
-      "cat": "acoes",
-      "tickers": [
-        "SANB11"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/tim-brasil-1.png"
-    },
-    {
-      "title": "3tentos (TTEN3) responde à CVM, confirma reuniões com sell side e nega divulgação de novas informações",
-      "summary": "A 3tentos (TTEN3) confirmou que realizou reuniões com analistas de sell side na última terça-feira (28), mas afirmou que os encontros se limitaram à discussão de informações já públicas e negou ter apresentado dados inéd",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/3tentos-tten3-responde-a-cvm-confirma-reunioes-com-sell-side-e-nega-divulgacao-de-novas-informacoes-pads/",
-      "time": "2026-07-29T17:20:01Z",
-      "cat": "acoes",
-      "tickers": [
-        "TTEN3"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/3tentos-tten3-santander-.jpg"
+      "title": "Fed segura juros nos EUA, mas deixa mercado sem resposta sobre próxima alta",
+      "summary": "O Fed decidiu não mexer nos juros, mas também não entregou o alívio completo que parte do mercado queria ouvir. O banco central dos Estados Unidos manteve nesta quarta-feira (29) a taxa básica na faixa entre 3,50% e 3,75",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/fed-juros-eua-decisao-fomc-impacto-brasil-mt/",
+      "time": "2026-07-29T18:35:11Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/abd3fe84-1024px-federal_reserve_bank_of_chicago_chicago_illinois_9181618932-jpg.webp"
     },
     {
       "title": "3tentos (TTEN3) desaba após susto no agro; entenda a queda",
@@ -216,139 +225,97 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/petrobras-petr4-2-1-1-jpg.webp"
     },
     {
-      "title": "Santander Brasil (SANB11) tem lucro de R$ 3 bilhões no 2T26, queda de 17,6%",
-      "summary": "Santander Brasil (SANB11) tem lucro de R$ 3 bilhões no 2T26, queda de 17,6%O Santander Brasil (SANB11) teve lucro líquido gerencial recorrente, que desconsidera o ágio de aquisições, de R$ 3,014 bilhões no segundo trimes",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/santander-brasil-sanb11-lucro-liquido-recorrente-29062026-go/",
-      "time": "2026-07-29T12:00:00Z",
-      "cat": "acoes",
-      "tickers": [
-        "SANB11"
-      ],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2026/04/Fachada-Sede-Santander-SP-1-jpg.webp"
-    },
-    {
-      "title": "SNME11 lucra R$ 1,81 milhão e mantém estratégia de ganho de capital",
-      "summary": "O FII SNME11 fechou junho com resultado líquido de R$ 1,81 milhão, mantendo a estratégia focada na captura de ganhos de capital em operações estruturadas e arbitragem no mercado de fundos imobiliários. No mês, o fundo ap",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/snme11-lucra-r-181-milhao-e-mantem-estrategia-de-ganho-de-capital/",
-      "time": "2026-07-28T22:45:06Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
-    },
-    {
-      "title": "Fed mantém juros dos EUA pela 5ª vez consecutiva",
-      "summary": "Decisão mantém os juros entre 3,50% e 3,75% ao ano, enquanto investidores monitoram sinais sobre os próximos passos do BC dos EUA",
+      "title": "Limitar horários de alimentação pode ajudar a preservar a memória na terceira idade, mostra estudo",
+      "summary": "Segundo a pesquisa, os resultados indicam uma possível melhora na capacidade de reter informações em atividades do cotidiano",
       "source": "Exame",
-      "url": "https://exame.com/invest/mercados/fed-mantem-juros-dos-eua-pela-5a-vez-consecutiva/",
-      "time": "2026-07-29T15:01:12Z",
+      "url": "https://exame.com/ciencia/limitar-horarios-de-alimentacao-pode-ajudar-a-preservar-a-memoria-na-terceira-idade-mostra-estudo/",
+      "time": "2026-07-29T16:31:27Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2023/08/federal-reserve-estados-unidos-pequenas-medias-empresas-e1695231735349.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/idosos-contratam-planos-de-saude-online-Marina-April0A.jpg"
     },
     {
-      "title": "Dívida Pública atinge R$ 9,3 tri em junho, alta de 2,61%",
-      "summary": "O resultado representa um aumento de R$ 235 bilhões em um mês; de acordo com o Tesouro Nacional, o principal responsável pela alta do estoque da dívida em junho foi o crescimento dos títulos remunerados pela taxa flutuan",
+      "title": "Presidente do Fed não descarta alta de juros para corrigir inflação excessiva",
+      "summary": "Em coletiva nesta quarta, 29, Kevin Warsh afirmou ainda que a decisão de manter os juros estáveis representa apenas uma etapa de um processo mais amplo e não uma \"pausa\"",
       "source": "Exame",
-      "url": "https://exame.com/economia/divida-publica-atinge-r-93-tri-em-junho-alta-de-261/",
-      "time": "2026-07-29T14:48:44Z",
+      "url": "https://exame.com/invest/mercados/presidente-do-fed-nao-descarta-alta-de-juros-para-corrigir-inflacao-excessiva/",
+      "time": "2026-07-29T16:30:31Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2020/09/dc3advida-pc3bablica.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/05/1200x800-1.png"
     },
     {
-      "title": "Caged: Brasil cria 145.161 empregos em junho, menor patamar para o mês desde a pandemia",
-      "summary": "O saldo positivo veio de 2.220.131 admissões contra 2.074.970 desligamentos",
+      "title": "O intercâmbio que mais vale no currículo em 2026 não fala inglês, fala mandarim",
+      "summary": "Com universidades de ponta e bolsas acessíveis, a China atrai quem quer começar a carreira com protagonismo",
       "source": "Exame",
-      "url": "https://exame.com/brasil/caged-brasil-cria-145-161-empregos-em-junho/",
-      "time": "2026-07-29T14:44:22Z",
+      "url": "https://exame.com/carreira/o-intercambio-que-mais-vale-no-curriculo-em-2026-nao-fala-ingles-fala-mandarim/",
+      "time": "2026-07-29T16:23:48Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2023/05/01_carteira_de_trabalho2-marcello-casaj-jr-agencia-brasil.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2024/08/IMG_3985.jpg"
     },
     {
-      "title": "Incêndios florestais agravam crise de produtores de vinho em Bordeaux",
-      "summary": "Produtores já lidavam com seca, amadurecimento precoce das uvas, tarifas e mudança nos hábitos de consumo",
+      "title": "Receita recorde do Real Madrid é superior aos oito principais clubes do Brasil",
+      "summary": "Faturamento histórico foi impulsionado pelo novo Santiago Bernabéu e novos patrocínios",
       "source": "Exame",
-      "url": "https://exame.com/esg/incendios-florestais-agravam-crise-de-produtores-de-vinho-em-bordeaux/",
-      "time": "2026-07-29T14:36:51Z",
+      "url": "https://exame.com/esporte/receita-recorde-do-real-madrid-e-superior-aos-oito-principais-clubes-do-brasil/",
+      "time": "2026-07-29T16:15:26Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2022/08/GettyImages-1242433407.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/03/GettyImages-2267678144.jpg"
     },
     {
-      "title": "O 'banco das imobiliárias' antecipa até 24 meses de aluguel ao locador",
-      "summary": "Agora, Cash Go lança produto que permite que imobiliárias invistam em FIDC utilizado pela companhia para financiar suas operações",
+      "title": "De sete anos de prejuízo à disputa por compradores: a virada da Medquímica",
+      "summary": "Farmacêutica mineira quase quebrou, dobrou o faturamento e agora pode ser vendida. O presidente Alexandre França conta à EXAME como a companhia se prepara para continuar competitiva no mercado - independente do dono",
       "source": "Exame",
-      "url": "https://exame.com/mercado-imobiliario/o-banco-das-incorporadoras-antecipa-ate-24-meses-de-aluguel-ao-locatario/",
-      "time": "2026-07-29T14:32:13Z",
+      "url": "https://exame.com/negocios/de-sete-anos-de-prejuizo-a-disputa-por-compradores-a-virada-da-medquimica/",
+      "time": "2026-07-29T16:07:08Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/Joao-Victor-Palhares-CEO-Cash-Go.png"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/MEDQUIMICA-FOTO.png"
     },
     {
-      "title": "BRKM5: Por que as ações da Braskem estão em alta hoje?",
+      "title": "Gestora IOX mira Amazônia Legal com fundo de R$ 100 milhões",
+      "summary": "Gestora com R$ 4 bilhões pretende direcionar recursos para a compra de recebíveis e dívida corporativa de empresas da região",
+      "source": "Exame",
+      "url": "https://exame.com/exame-in/gestora-iox-mira-amazonia-legal-com-fundo-de-r-100-milhoes/",
+      "time": "2026-07-29T15:56:06Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/Richard-Ionescu-Grupo-IOX-Horizontal.png"
+    },
+    {
+      "title": "Chevron é a principal aposta do BofA Securities no setor de petróleo e gás",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/brkm5-por-que-as-acoes-da-braskem-estao-em-alta-hoje-2018459",
-      "time": "2026-07-29T17:46:25Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "CoreWeave melhora condições de empréstimo de US$ 2,6 bilhões em meio a preocupações com dívida",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/coreweave-melhora-condicoes-de-emprestimo-de-us-26-bilhoes-em-meio-a-preocupacoes-com-divida-2018440",
-      "time": "2026-07-29T17:32:08Z",
+      "url": "https://br.investing.com/news/stock-market-news/chevron-e-a-principal-aposta-do-bofa-securities-no-setor-de-petroleo-e-gas-93CH-2018600",
+      "time": "2026-07-29T19:14:37Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "MBRF3: Por que as ações da MBRF estão em alta hoje?",
+      "title": "AT&T e Verizon despencam com planos da SpaceX de entrar no mercado móvel",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/mbrf3-por-que-as-acoes-da-mbrf-estao-em-alta-hoje-2018438",
-      "time": "2026-07-29T17:29:26Z",
+      "url": "https://br.investing.com/news/stock-market-news/att-e-verizon-despencam-com-planos-da-spacex-de-entrar-no-mercado-movel-2018597",
+      "time": "2026-07-29T19:09:07Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "COGN3: Por que as ações da Cogna estão em alta hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/cogn3-por-que-as-acoes-da-cogna-estao-em-alta-hoje-2018575",
+      "time": "2026-07-29T19:00:08Z",
       "cat": "internacional",
       "tickers": [
-        "MBRF3"
+        "COGN3"
       ],
       "image": null
-    },
-    {
-      "title": "UBS aponta as melhores ações de níquel em meio a mudanças na oferta indonésia",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ubs-aponta-as-melhores-acoes-de-niquel-em-meio-a-mudancas-na-oferta-indonesia-93CH-2018434",
-      "time": "2026-07-29T17:24:31Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Generalist AI busca captação com valuation de US$ 3 bilhões",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/generalist-ai-busca-captacao-com-valuation-de-us-3-bilhoes-93CH-2018429",
-      "time": "2026-07-29T17:19:34Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Groupe ADP reduz meta de lucro para 2026 devido ao conflito no Oriente Médio",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/groupe-adp-reduz-meta-de-lucro-para-2026-devido-ao-conflito-no-oriente-medio-93CH-2018428",
-      "time": "2026-07-29T17:18:27Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     }
   ],
-  "atualizado_em": "29/07/2026 18:07"
+  "atualizado_em": "29/07/2026 19:52"
 }
