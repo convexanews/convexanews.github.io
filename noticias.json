@@ -1,15 +1,25 @@
 {
   "headline": {
-    "title": "Dólar hoje cai 0,22%, a R$ 5,11, após decisão do Fed de manter os juros",
-    "summary": "Autoridade monetária manteve os juros entre 3,50% e 3,75% ao ano",
-    "source": "InfoMoney",
-    "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-29072026/",
-    "time": "2026-07-29T20:31:20Z",
+    "title": "Juros longos dos EUA atingem máxima em 18 anos após Fed manter juros pela 5ª vez consecutiva",
+    "summary": "Os rendimentos do título do Tesouro dos Estados Unidos – o Treasury – de 30 anos atingiram o maior nível desde julho de 2007 nesta quarta-feira (29), a 5,244%, após a decisão do Federal Reserve (Fed, o Banco Central dos ",
+    "source": "Money Times",
+    "url": "https://www.moneytimes.com.br/juros-longos-dos-eua-atingem-maxima-em-18-anos-apos-fed-manter-juros-pela-5a-vez-consecutiva-lils/",
+    "time": "2026-07-29T21:19:00Z",
     "cat": "economia",
     "tickers": [],
-    "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/Impacto-do-dolar-nos-investimentos.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    "image": "https://www.moneytimes.com.br/uploads/2026/07/federal-reserve-fed-fomc-eua-estados-unidos-4.jpg"
   },
   "featured": [
+    {
+      "title": "Ibovespa cai 1,52% após Fed manter juros e tensão no Oriente Médio ganhar força",
+      "summary": "O Ibovespa encerrou o pregão desta quarta-feira (29) em forte queda, pressionado pelo aumento da aversão ao risco nos mercados globais após o Federal Reserve (Fed) manter os juros dos Estados Unidos e reforçar um discurs",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-29-julho-2026-fed-petr4-mt/",
+      "time": "2026-07-29T20:55:08Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
+    },
     {
       "title": "Ibovespa segue Wall Street e fecha em baixa em dia de Fed; dólar cai a R$ 5,10",
       "summary": "O Ibovespa (IBOV) operou em baixa de quase 1% durante a maior parte do pregão, seguindo o exterior, e encerrou no negativo em dia de decisão do Federal Reserve (Fed, o banco central dos EUA) e falas do presidente do BC n",
@@ -19,78 +29,120 @@
       "cat": "economia",
       "tickers": [],
       "image": "https://www.moneytimes.com.br/uploads/2026/07/mercado-morning-ibovespa-wall-street-2.jpg"
-    },
-    {
-      "title": "Ibovespa cai mais de 1%, na esteira de NY, em dia de Fed; Dólar recua a R$ 5,10",
-      "summary": "Índices nos EUA recuam após Fed manter taxas inalteradas, em votação que foi 9 a 3",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-29072026/",
-      "time": "2026-07-29T20:30:37Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Ibovespa-ao-vivo-3.png?fit=300%2C186&amp;quality=70&amp;strip=all"
     }
   ],
   "all": [
     {
-      "title": "Bolsas de NY têm forte baixa; Dow Jones cai 2% com Fed, petróleo e atenção a balanços",
-      "summary": "O Dow Jones fechou em baixa de 2,19%, aos 51.594,14 pontos",
+      "title": "Como a Sumirê uniu 20 famílias e criou uma empresa que mira R$ 600 milhões",
+      "summary": "Rede de perfumarias profissionalizou um modelo familiar incomum, transformou antigos donos de lojas em acionistas e prepara a empresa para um novo ciclo de crescimento",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/bolsas-de-ny-tem-forte-baixa-dow-jones-cai-2-com-fed-petroleo-e-atencao-a-balancos/",
-      "time": "2026-07-29T20:44:16Z",
+      "url": "https://www.infomoney.com.br/business/como-a-sumire-uniu-20-familias-e-criou-uma-empresa-que-mira-r-600-milhoes/",
+      "time": "2026-07-29T22:00:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/re2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Geração de empregos supera estimativas em junho, mas analistas preveem desaceleração",
+      "summary": "Apesar da abertura de 145,2 mil vagas e do recorde no número de demissões voluntárias, analistas projetam a perda de fôlego da economia no curto prazo diante da escassez de mão de obra e incertezas políticas.",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/economia/caged-junho-2026-geracao-empregos/",
+      "time": "2026-07-29T21:53:22Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/08/carteira-de-trabalho-7.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Motiva tem salto no lucro do 2º tri",
+      "summary": "Companhia ⁠teve receita ​líquida ajustada de R$ 3,63 bilhões de abril ​ao final de junho",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/motiva-motv3-resultados-segundo-trimestre-2026/",
+      "time": "2026-07-29T21:51:48Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/unnamed.jpg.jpeg?fit=300%2C181&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Treasuries de 30 anos atingem maior nível desde 2007 após Fed manter juros",
+      "summary": "Banco central vota 9 a 3 pela manutenção da taxa entre 3,5% e 3,75%; probabilidade de alta em setembro sobe a 60% com três dissidências a favor do aperto",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/treasuries-de-30-anos-atingem-maior-nivel-desde-2007-apos-fed-manter-juros/",
+      "time": "2026-07-29T21:21:20Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/461744898.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Taxas dos DIs perdem força sob influência do Fed, mas fecham com altas leves",
+      "summary": "Taxas dos DIs chegaram a virar para o negativo durante ⁠a tarde",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/taxas-dos-dis-perdem-forca-sob-influencia-do-fed-mas-fecham-com-altas-leves/",
+      "time": "2026-07-29T21:03:37Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/2025-11-26T201009Z_1_LYNXMPELAP166_RTROPTP_3_USA-FED-BEIGEBOOK.jpg?fit=300%2C186&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Santander Brasil: menor lucro desde 2023, mas o que mais fez ação desabar 7% após 2T?",
+      "summary": "Lucro ficou bem abaixo das projeções no 2T26 após disparada das provisões e forte compressão dos spreads, ofuscando sinais mais positivos na qualidade dos ativos e no controle de despesas.",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/santander-brasil-sanb11-frustra-2t26-com-mais-provisoes-e-receitas-fracas-mas-ha-boa-noticia-desempenho-acoes/",
+      "time": "2026-07-29T21:01:38Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/09/santander-banco.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Petrobras (PETR4): petróleo a US$ 90 e produção recorde fazem ações subirem 2%",
+      "summary": "O petróleo saltou cerca de 8% nesta quarta e interrompeu o ciclo de queda recente",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/petrobras-petr4-petroleo-em-alta-e-producao-recorde-faz-acoes-registrarem-alta/",
+      "time": "2026-07-29T20:57:57Z",
       "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-29T060934Z_964769431_RC25EKAJLMU1_RTRMADP_3_USA-MARKETS-IRAN-TRADING.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "tickers": [
+        "PETR4"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-25T223336Z_1_LYNXMPEM2O1E2_RTROPTP_4_BRAZIL-FUEL-PETROBRAS-INVESTORS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Microsoft supera estimativas de crescimento em nuvem e alivia preocupações com gastos",
-      "summary": "A receita da divisão de computação em nuvem Azure da empresa cresceu 43% no quarto trimestre fiscal",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/microsoft-supera-estimativas-de-crescimento-em-nuvem-e-alivia-preocupacoes-com-gastos/",
-      "time": "2026-07-29T20:34:20Z",
+      "title": "Motiva (MOTV3) lucra 67% mais no 2T26 com novas concessões",
+      "summary": "A Motiva (MOTV3), antiga CCR, reportou um segundo trimestre de 2026 marcado pela contribuição das novas concessões rodoviárias, com crescimento de dois dígitos na receita, no Ebitda (lucro antes de juros, impostos, depre",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/motiva-motv3-lucra-67-mais-no-2t26-com-novas-concessoes-vtra/",
+      "time": "2026-07-29T21:42:31Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/imagem-5mb-scaled.jpg"
+    },
+    {
+      "title": "Meta tem lucro líquido de US$ 15,85 bilhões para o segundo trimestre de 2026",
+      "summary": "A Meta apresentou nesta quarta-feira, 29, um lucro líquido de US$ 15,85 bilhões para o segundo trimestre de 2026, uma queda de 14% em relação ao mesmo período do ano anterior. O lucro por ação diluída ficou em US$ 6,18, ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/meta-tem-lucro-liquido-de-us-1585-bilhoes-para-o-segundo-trimestre-de-2026/",
+      "time": "2026-07-29T21:33:19Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/06/2024-06-25T120025Z_1_LYNXMPEK5O0I1_RTROPTP_4_MICROSOFT-AI.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2024/04/facebook-meta-bilionarios-eduardo-saverin-1.jpg"
     },
     {
-      "title": "Dólar hoje cai 0,22%, a R$ 5,11, após decisão do Fed de manter os juros",
-      "summary": "Autoridade monetária manteve os juros entre 3,50% e 3,75% ao ano",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-29072026/",
-      "time": "2026-07-29T20:31:20Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/Impacto-do-dolar-nos-investimentos.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Ibovespa cai mais de 1%, na esteira de NY, em dia de Fed; Dólar recua a R$ 5,10",
-      "summary": "Índices nos EUA recuam após Fed manter taxas inalteradas, em votação que foi 9 a 3",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-29072026/",
-      "time": "2026-07-29T20:30:37Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Ibovespa-ao-vivo-3.png?fit=300%2C186&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Meta frustra com lucro no 2T e sobe projeção mínima de despesa de capital; ação cai",
-      "summary": "A empresa também elevou o limite inferior de sua previsão de despesas para incorporar os encargos de US$ 2,4 bilhões",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/meta-frustra-com-lucro-no-2t-e-sobe-projecao-minima-de-despesa-de-capital-acao-cai/",
-      "time": "2026-07-29T20:28:59Z",
+      "title": "Microsoft supera em receita com impulso da demanda em nuvem e IA; ação sobe 3% no after de NY",
+      "summary": "A Microsoft viu suas receitas crescerem 18% no quarto trimestre fiscal, encerrado em 30 de junho, em relação ao mesmo período do ano anterior, ao informar um crescimento robusto em computação em nuvem e aumento no número",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/microsoft-supera-em-receita-com-impulso-da-demanda-em-nuvem-e-ia-acao-sobe-3-no-after-de-ny/",
+      "time": "2026-07-29T21:26:21Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2023/10/2023-10-30T165038Z_1_LYNXMPEJ9T0L7_RTROPTP_4_META-PLATFORMS-EUROPA-1.jpg?fit=300%2C205&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2024/11/pictures-anna-19.jpg"
     },
     {
-      "title": "Dissidência no Fed para manter juros mostra tensão com inflação e deixa alerta ligado",
-      "summary": "Com três votos favoráveis ao aperto monetário, decisão do Federal Reserve traz apreensão ao mercado global; choque no petróleo e força do dólar colocam pressão sobre o Copom",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/economia/fed-juros-eua-divisao-impacto-brasil/",
-      "time": "2026-07-29T19:56:47Z",
+      "title": "Juros longos dos EUA atingem máxima em 18 anos após Fed manter juros pela 5ª vez consecutiva",
+      "summary": "Os rendimentos do título do Tesouro dos Estados Unidos – o Treasury – de 30 anos atingiram o maior nível desde julho de 2007 nesta quarta-feira (29), a 5,244%, após a decisão do Federal Reserve (Fed, o Banco Central dos ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/juros-longos-dos-eua-atingem-maxima-em-18-anos-apos-fed-manter-juros-pela-5a-vez-consecutiva-lils/",
+      "time": "2026-07-29T21:19:00Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-17T185612Z_509635631_RC2UVLAMB0G1_RTRMADP_3_USA-FED.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/federal-reserve-fed-fomc-eua-estados-unidos-4.jpg"
     },
     {
       "title": "Ibovespa segue Wall Street e fecha em baixa em dia de Fed; dólar cai a R$ 5,10",
@@ -153,17 +205,24 @@
       "image": "https://www.moneytimes.com.br/uploads/2026/07/petroleo.jpg"
     },
     {
-      "title": "MBRF3 ou BEEF3? Santander ajusta preços-alvo e mantém preferência por uma ação",
-      "summary": "As ações da MBRF (MBRF3) seguem sendo a principal aposta do Santander entre as empresas brasileiras de proteína animal, mesmo após o banco revisar suas estimativas para o setor e atualizar os preços-alvo para o fim de 20",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/mbrf3-ou-beef3-santander-ajusta-precos-alvo-e-mantem-preferencia-por-uma-acao-pads/",
-      "time": "2026-07-29T18:37:03Z",
-      "cat": "acoes",
-      "tickers": [
-        "MBRF3",
-        "BEEF3"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/02/frigorificos-jbs-minerva-marfrig-brf.jpg"
+      "title": "Mirando novos investimentos, SNCI11 lucra R$ 4,8 milhões em junho",
+      "summary": "O fundo imobiliário registrou em junho resultado líquido de R$ 4,83 milhões e manteve a distribuição de R$ 1,00 por cota. O patamar está alinhado ao guidance para o terceiro trimestre de 2026, que indica pagamentos entre",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/mirando-novos-investimentos-snci11-lucra-r-48-milhoes-em-junho/",
+      "time": "2026-07-29T21:15:16Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
+    },
+    {
+      "title": "Ibovespa cai 1,52% após Fed manter juros e tensão no Oriente Médio ganhar força",
+      "summary": "O Ibovespa encerrou o pregão desta quarta-feira (29) em forte queda, pressionado pelo aumento da aversão ao risco nos mercados globais após o Federal Reserve (Fed) manter os juros dos Estados Unidos e reforçar um discurs",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-29-julho-2026-fed-petr4-mt/",
+      "time": "2026-07-29T20:55:08Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     },
     {
       "title": "Petróleo dispara 7% com tensão entre EUA e Irã; veja o que mexeu nos preços",
@@ -230,149 +289,115 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/detalhe-de-m-os-segu-1_03-2.webp"
     },
     {
-      "title": "Obras emergenciais de FII vão reduzir a base de rendimentos até 2027; entenda",
-      "summary": "O gestor do fundo imobiliário HUCG11 comunicou que contratará uma empresa especializada para corrigir pendências construtivas no imóvel ocupado pela Unimed Campina Grande, com reflexo direto na base de distribuição de re",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/fundo-imobiliario-hucg11-obra-rendimentos/",
-      "time": "2026-07-29T14:45:14Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
-    },
-    {
-      "title": "Resultado do VGIP11 sobe em junho; veja o rendimento e a carteira",
-      "summary": "Os rendimentos do VGIP11 somaram R$ 1,16 por cota na competência de junho. No mês, o fundo imobiliário apurou resultado de R$ 13,624 milhões, com receitas totais de R$ 14,523 milhões e despesas de R$ 898 mil, mostrando l",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/rendimentos-do-vgip11-em-junho/",
-      "time": "2026-07-29T14:45:06Z",
-      "cat": "analise",
-      "tickers": [
-        "VGIP11"
-      ],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
-    },
-    {
-      "title": "Fed vai subir ou manter os juros nesta quarta? Veja o que o mercado espera",
-      "summary": "Fed vai subir ou manter os juros nesta quarta? Veja o que o mercado esperaO Federal Reserve (Fed), banco central dos Estados Unidos, anuncia nesta quarta-feira (29) sua decisão sobre a taxa de juros americana. O comunica",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/fed-juros-julho-2026-manutencao-reuniao-fomc-go/",
-      "time": "2026-07-29T14:40:00Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/03/nikolayfrolochkin-dollar-1362244_1920-jpg.webp"
-    },
-    {
-      "title": "Despesa com processos judiciais derruba lucro da Meta e IA 'zera' caixa da empresa",
-      "summary": "Ação da dona do Facebook, Instagram e Whatsapp cai 6% após divulgação do balanço",
+      "title": "Governo Lula repudia renovação de sanções dos EUA ao Brasil por 'argumentos infundados'",
+      "summary": "Medida americana não tem efeito prático; sanção inicial, em 2025, teve como contexto processo de Jair Bolsonaro por golpe de Estado",
       "source": "Exame",
-      "url": "https://exame.com/invest/mercados/despesa-com-processos-judiciais-derruba-lucro-da-meta-e-ia-zera-caixa-da-empresa/",
-      "time": "2026-07-29T17:51:14Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/01/GettyImages-1967947601.jpg"
-    },
-    {
-      "title": "Microsoft lucra US$ 36 bi, bate consenso, mas investimento em IA machuca caixa",
-      "summary": "Receita com nuvem supera expectativa de Wall Street, mas caixa livre caiu mais de 20%",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/microsoft-lucra-us-36-bi-bate-consenso-mas-investimento-em-ia-machuca-caixa/",
-      "time": "2026-07-29T17:32:36Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/10/GettyImages-2186206624.jpg"
-    },
-    {
-      "title": "Ibovespa fecha na mínima do dia após Fed sinalizar alta de juros",
-      "summary": "Já o dólar perdeu força frente ao real, caindo 0,27%, acompanhando o enfraquecimento global da moeda americana",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/ibovespa-fecha-na-minima-do-dia-apos-fed-sinalizar-alta-de-juros/",
-      "time": "2026-07-29T17:31:04Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2020/11/DSC2611bx.jpg"
-    },
-    {
-      "title": "E.U.A. - Ações fecharam o pregão em queda e o Índice Dow Jones Industrial Average recuou 2,18%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/eua--acoes-fecharam-o-pregao-em-queda-e-o-indice-dow-jones-industrial-average-recuou-218-2018805",
-      "time": "2026-07-29T20:31:33Z",
+      "url": "https://exame.com/brasil/governo-lula-repudia-renovacao-de-sancoes-dos-eua-ao-brasil-por-argumentos-infundados/",
+      "time": "2026-07-29T18:55:13Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB8Q0AQ_M.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/AFP__20260720__C2LM34Y__v1__HighRes__UsPoliticsTrump.jpg"
     },
     {
-      "title": "Canadá - Ações fecharam o pregão em queda e o Índice S&P/TSX recuou 1,16%",
+      "title": "Chanceler argentino descarta romper relações com o Brasil",
+      "summary": "\"Não há qualquer possibilidade de que, da nossa parte, a relação seja rompida\", disse Quirno",
+      "source": "Exame",
+      "url": "https://exame.com/mundo/chanceler-argentino-descarta-romper-relacoes-com-o-brasil/",
+      "time": "2026-07-29T18:37:01Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2025/10/AFP__20251014__78RP788__v1__HighRes__ImfWorldBankAnnualMeetings.jpg"
+    },
+    {
+      "title": "Após seis décadas, Cuba inicia abertura econômica sob pressão de Trump",
+      "summary": "Governo mantém o controle sobre áreas estratégicas, mas libera setores como combustíveis, farmácias e energia em meio à pior crise econômica das últimas décadas e à pressão das sanções dos EUA",
+      "source": "Exame",
+      "url": "https://exame.com/mundo/apos-seis-decadas-cuba-inicia-abertura-economica-sob-pressao-de-trump/",
+      "time": "2026-07-29T18:16:28Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/05/AFP__20260520__B3GP8B9__v1__HighRes__CubaUsCrisisFeature.jpg"
+    },
+    {
+      "title": "Open Standard: o que se sabe sobre a iniciativa de stablecoin que derrubou as ações da Circle?",
+      "summary": "Um mês depois do anúncio, informações ainda são escassas, mas a criptomoeda apoiada por Visa, Mastercard, Itaú, Bradesco e Fireblocks deve ser lançada no fim deste ano",
+      "source": "Exame",
+      "url": "https://exame.com/future-of-money/open-standard-o-que-se-sabe-sobre-a-iniciativa-de-stablecoin-que-derrubou-as-acoes-da-circle/",
+      "time": "2026-07-29T17:57:52Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2020/11/bitcoin-usd.jpg"
+    },
+    {
+      "title": "Ações da Five9 disparam com inclusão no índice S&P SmallCap 600",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/canada--acoes-fecharam-o-pregao-em-queda-e-o-indice-sptsx-recuou-116-2018802",
-      "time": "2026-07-29T20:30:47Z",
-      "cat": "internacional",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-five9-disparam-com-inclusao-no-indice-sp-smallcap-600-93CH-2019020",
+      "time": "2026-07-29T21:50:16Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "Ibovespa e dólar hoje: Fed mantém; PCE, PIB dos EUA e Oriente Médio são foco",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-fed-mantem-pce-pib-dos-eua-e-oriente-medio-sao-foco-2018642",
+      "time": "2026-07-29T21:35:02Z",
+      "cat": "economia",
       "tickers": [],
       "image": null
     },
     {
-      "title": "Brasil - Ações fecharam o pregão em queda e o Índice Bovespa recuou 1,52%",
+      "title": "México - Ações fecharam o pregão em queda e o Índice S&P/BMV IPC recuou 1,23%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/brasil--acoes-fecharam-o-pregao-em-queda-e-o-indice-bovespa-recuou-152-2018800",
-      "time": "2026-07-29T20:30:21Z",
+      "url": "https://br.investing.com/news/stock-market-news/mexico--acoes-fecharam-o-pregao-em-queda-e-o-indice-spbmv-ipc-recuou-123-2018986",
+      "time": "2026-07-29T21:30:42Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB4E0QK_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/Mexican_Stock_Exchange_M_1440056300.jpg"
     },
     {
-      "title": "Ibovespa fecha em queda com bancos e Fed no radar",
+      "title": "Colômbia - Ações fecharam o pregão em alta e o Índice COLCAP avançou 0,15%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-fecha-em-queda-com-bancos-e-fed-no-radar-2018731",
-      "time": "2026-07-29T20:29:15Z",
+      "url": "https://br.investing.com/news/stock-market-news/colombia--acoes-fecharam-o-pregao-em-alta-e-o-indice-colcap-avancou-015-2018984",
+      "time": "2026-07-29T21:30:18Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/Colombian_Securities_Exchange_M_1440056298.jpg"
+    },
+    {
+      "title": "Rússia - Ações fecharam o pregão em alta e o Índice MOEX Russia Index avançou 2,06%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/russia--acoes-fecharam-o-pregao-em-alta-e-o-indice-moex-russia-index-avancou-206-2018966",
+      "time": "2026-07-29T21:20:20Z",
       "cat": "internacional",
       "tickers": [],
-      "image": null
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEA8106M_M.jpg"
     },
     {
-      "title": "Arm Holdings supera estimativas do 1º tri, mas ações caem no after-hours",
+      "title": "Por que as ações da Lam Research estão disparando hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/arm-holdings-supera-estimativas-do-1o-tri-mas-acoes-caem-no-afterhours-2018753",
-      "time": "2026-07-29T20:14:51Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-lam-research-estao-disparando-hoje-93CH-2018950",
+      "time": "2026-07-29T21:11:57Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "title": "Taxas dos DIs perdem força sob influência do Fed, mas fecham com altas leves",
+      "title": "Por que as ações da Meta Platforms despencam hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/economy-news/taxas-dos-dis-perdem-forca-sob-influencia-do-fed-mas-fecham-com-altas-leves-2018682",
-      "time": "2026-07-29T20:07:09Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB1Q00U_M.jpg"
-    },
-    {
-      "title": "Morgan Stanley aponta suas principais escolhas em software vertical antes dos resultados do 2º tri de 2026",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/morgan-stanley-aponta-suas-principais-escolhas-em-software-vertical-antes-dos-resultados-do-2o-tri-de-2026-93CH-2018662",
-      "time": "2026-07-29T19:57:41Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-meta-platforms-despencam-hoje-93CH-2018947",
+      "time": "2026-07-29T21:10:11Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "CSNA3: Por que as ações da CSN estão em queda hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/csna3-por-que-as-acoes-da-csn-estao-em-queda-hoje-2018629",
-      "time": "2026-07-29T19:36:13Z",
-      "cat": "internacional",
-      "tickers": [
-        "CSNA3"
-      ],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEE770YM_M.jpg"
     }
   ],
-  "atualizado_em": "29/07/2026 20:54"
+  "atualizado_em": "29/07/2026 22:00"
 }
