@@ -1,39 +1,93 @@
 {
   "headline": {
-    "title": "Ibovespa ‘voa’ com salto de Wall Street e sobe quase 2% à espera de Vale (VALE3); dólar cai",
-    "summary": "O Ibovespa (IBOV) ganhou mais de 3 mil pontos na carona do apetite a risco no mercado global, em dia agitado por dados econômicos no Brasil e nos Estados Unidos. Os balanços corporativos ficaram no radar. Nesta quinta-fe",
-    "source": "Money Times",
-    "url": "https://www.moneytimes.com.br/ibovespa-30-7-26-lils/",
-    "time": "2026-07-30T20:18:21Z",
-    "cat": "economia",
+    "title": "Ibovespa salta 1,88% e volta aos 177 mil pontos com Petrobras (PETR4) e bancos",
+    "summary": "Ibovespa salta 1,88% e volta aos 177 mil pontos com Petrobras (PETR4) e bancosO Ibovespa mais que recuperou as perdas da véspera e encerrou esta quinta-feira (30) em alta firme, acompanhando a melhora do apetite por risc",
+    "source": "Suno",
+    "url": "https://www.suno.com.br/noticias/ibovespa-hoje-30-julho-2026-petr4-vale3-bancos-mt/",
+    "time": "2026-07-30T21:46:08Z",
+    "cat": "acoes",
     "tickers": [
-      "VALE3"
+      "PETR4"
     ],
-    "image": "https://www.moneytimes.com.br/uploads/2026/06/mercado-alta-3.jpg"
+    "image": "https://files.sunoresearch.com.br/n/uploads/2026/07/776ea9d9-noticia-de-hoje-19.08-1-1-jpg.webp"
   },
   "featured": [
     {
-      "title": "Ibovespa e dólar hoje esperam dívida/PIB e saldo orçamentário pós-rali tech em NY",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-esperam-dividapib-e-saldo-orcamentario-posrali-tech-em-ny-2020982",
-      "time": "2026-07-30T21:30:02Z",
+      "title": "Microsoft cresce US$ 450 bilhões em um dia, quase quatro vezes o valor da Petrobras",
+      "summary": "Em apenas um pregão, a companhia criou valor equivalente a 47,3% de toda a capitalização das empresas listadas na B3, montante próximo de quatro vezes o valor de mercado da Petrobras",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/microsoft-cresce-us-450-bilhoes-em-um-dia-quase-quatro-vezes-o-valor-da-petrobras/",
+      "time": "2026-07-30T19:52:39Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/moved_LYNXMPELA315V_L.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2025/10/GettyImages-2186206624.jpg"
     },
     {
-      "title": "Amazon dispara após lucro e ação sobe 8% no after hours em NY",
-      "summary": "Amazon dispara após lucro e ação sobe 8% no after hours em NYA Amazon registrou um lucro líquido de US$ 62,65 bilhões no segundo trimestre, o que representou US$ 5,75 por ação, ficando bem acima dos US$ 1,82 projetados p",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/amazon-amzo34-lucro-segundo-trimestre-acima-projecoes-mtae/",
-      "time": "2026-07-30T21:39:54Z",
-      "cat": "acoes",
+      "title": "Vale tem lucro 35% menor no 2º trimestre, mas cobre e níquel disparam",
+      "summary": "Recordes de cobre e minério não impediram queda no lucro, pressionado pelo resultado financeiro",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/vale-tem-lucro-35-menor-no-2o-trimestre-mas-cobre-e-niquel-disparam/",
+      "time": "2026-07-30T19:31:55Z",
+      "cat": "economia",
       "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2025/12/cropped-a37f0fd4-amazon-jpg.webp"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/EX1286_MAT-VALE_4.jpg"
     }
   ],
   "all": [
+    {
+      "title": "EcoRodovias tem lucro líquido recorrente de R$ 52,9 mi no 2º tri, queda de 74%",
+      "summary": "Já a receita líquida ajustada registrou alta de 1%, atingindo R$ 1,836 bilhão",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ecorodovias-ecor3-resultados-segundo-trimestre-2026/",
+      "time": "2026-07-30T22:10:25Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/10/pexels-pixabay-56832.jpg?fit=300%2C206&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "EXCLUSIVO: Erai Maggi lidera grupo do agro em negociação com presidente da Bolívia",
+      "summary": "Delegação de mais de 20 jatos executivos encontra Rodrigo Paz Pereira e ministros nesta sexta-feira na cidade boliviana de San Ignacio de Velasco; na mesa, uma rodovia de 129 km que pode redesenhar a logística de grãos d",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/business/exclusivo-erai-maggi-lidera-grupo-do-agro-em-negociacao-com-presidente-da-bolivia/",
+      "time": "2026-07-30T22:00:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Captura-de-tela-2026-07-29-194239.png?fit=300%2C198&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Vale (VALE3) tem lucro líquido de US$ 1,37 bi no 2T26, queda anual de 35%",
+      "summary": "A mineradora divulgou seus resultados na noite desta quinta",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/vale-vale3-resultados-segundo-trimestre-2026/",
+      "time": "2026-07-30T21:55:00Z",
+      "cat": "acoes",
+      "tickers": [
+        "VALE3"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-23T135815Z_1_LYNXMPEM5M0XS_RTROPTP_4_VALE-CHAIRMAN.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Santander lança oferta por ações do Santander Brasil em operação de até R$ 11 bi",
+      "summary": "Segundo o Santander, a transação faz parte da estratégia de simplificação societária e alocação de capital do grupo",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/santander-anuncia-opa-de-permuta-por-acoes-santander-brasil-em-operacao-de-ate-r-11-bi/",
+      "time": "2026-07-30T21:50:45Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/04/Captura-de-tela-2024-04-30-095140.png?fit=300%2C184&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Vale (VALE3) aprova pagamento de cerca de R$ 2 por ação em proventos e recompra",
+      "summary": "O anúncio aconteceu com a divulgação dos resultados",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/vale-vale3-proventos-segundo-trimestre-2026/",
+      "time": "2026-07-30T21:50:17Z",
+      "cat": "acoes",
+      "tickers": [
+        "VALE3"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-06T221839Z_1_LYNXMPEM651L4_RTROPTP_4_LATAM-SUMMIT-VALE.jpg?fit=300%2C194&amp;quality=70&amp;strip=all"
+    },
     {
       "title": "Multiplan (MULT3) lucra 61,7% mais no 2º tri, a R$ 427 milhões, e supera projeções",
       "summary": "A empresa teve ⁠receita líquida ​de 846,8 milhões de abril ao final de ​junho, 22% acima do faturamento de um ​ano antes ⁠e também acima da previsão média ⁠dos analistas",
@@ -47,56 +101,62 @@
       "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/multiplan.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Taxas de juros curtas e intermediárias caem em meio a dados no Brasil e nos EUA",
-      "summary": "O recuo das taxas futuras curtas no Brasil ocorreu, conforme o economista-chefe do banco Bmg, Flavio Serrano, pelo 'conjunto da obra'",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/taxas-de-juros-curtas-e-intermediarias-caem-em-meio-a-dados-no-brasil-e-nos-eua/",
-      "time": "2026-07-30T21:11:34Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/daniel-dan-3SR040CKpB0-unsplash.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Ibovespa tem pregão “inverso” ao da véspera e sobe 1,88% com exterior e balanços",
-      "summary": "Na semana, acumula avanço de 1,79% e, em julho, de 2,98%",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-tem-pregao-inverso-ao-da-vespera-e-sobe-188-com-exterior-e-balancos/",
-      "time": "2026-07-30T21:06:27Z",
+      "title": "Podcast ‘Radar das Eleições’ estreia com cenário sobre campanhas e o que o mercado espera da política em 2026",
+      "summary": "O Money Times estreia, nesta quinta-feira (30), o podcast Radar das Eleições, um resumo semanal com o cenário das campanhas e o que o mercado espera da política nessa corrida eleitoral de 2026. O programa traz a análise ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/podcast-radar-das-eleicoes-estreia-com-cenario-sobre-campanhas-e-o-que-o-mercado-espera-da-politica-gaep/",
+      "time": "2026-07-30T23:00:00Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/Captura-de-tela-2024-08-15-092426.png?fit=300%2C202&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/lula-e-flavio-bolsonaro-1.png"
     },
     {
-      "title": "Startups: 99Pay recebe autorização do BC para operar como financeira",
-      "summary": "Licença permite à fintech ampliar a oferta de crédito e captar recursos por meio de CDBs e RDBs",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/startups-99pay-recebe-autorizacao-do-bc-para-operar-como-financeira/",
-      "time": "2026-07-30T20:59:41Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/99pay_rec_rd.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Usiminas entrega 2T em linha, mas resto do ano vira problema e ações desabam 9,25%",
-      "summary": "Após resultados fortes, siderúrgicas sinaliza perda de fôlego nos próximos trimestres",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/usiminas-usim5-entrega-2t-em-linha-mas-sinaliza-perda-de-folego-no-2o-semestre-desempenho-acoes/",
-      "time": "2026-07-30T20:57:16Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/08/usiminas.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Ambev frustra projeções no 2T, apesar de lucro forte, mas ABEV3 fecha em leve alta",
-      "summary": "Receita e Ebitda ficaram abaixo das expectativas do mercado no 2T26, enquanto o lucro foi impulsionado por efeitos financeiros; analistas veem impacto da Copa menor do que o esperado",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ambev-abev3-frustra-projecoes-no-2t-apesar-de-lucro-forte-mercado-olha-alem-do-efeito-copa-desempenho-acoes/",
-      "time": "2026-07-30T20:56:07Z",
+      "title": "Vale (VALE3) tem lucro 43% menor no 2T26 e revisa guidance de custos do minério",
+      "summary": "A Vale (VALE3) registrou lucro líquido de R$ 6,847 bilhões no segundo trimestre de 2026 (2T26), queda de 43,3% em relação aos R$ 12,081 bilhões apurados no mesmo período do ano passado. O resultado veio acompanhado de um",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/vale-vale3-tem-lucro-43-menor-no-2t26-e-revisa-guidance-de-custos-do-minerio-vtra/",
+      "time": "2026-07-30T22:05:57Z",
       "cat": "acoes",
       "tickers": [
-        "ABEV3"
+        "VALE3"
       ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2021/12/Fabrica-de-Vidros_Ambev.jpeg?fit=300%2C198&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/vale-vale3.png"
+    },
+    {
+      "title": "Adeus, Santander Brasil (SANB11)? Matriz lança oferta bilionária para comprar ações; veja o que o banco fará para ‘seduzir’ o investidor",
+      "summary": "O que o mercado especulava finalmente aconteceu: o Banco Santander da Espanha propôs trocar as ações do Santander Brasil (SANB11) listadas na B3 por BDRs ou ADRs da matriz espanhola, segundo documento enviado ao mercado ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/adeus-santander-sanb11-brasil-matriz-espanhola-propoe-troca-de-acoes-por-bdrs-premio-e-de-15/",
+      "time": "2026-07-30T22:01:54Z",
+      "cat": "acoes",
+      "tickers": [
+        "SANB11"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/tim-brasil-1.png"
+    },
+    {
+      "title": "Vale (VALE3) elege vice-presidente do conselho e novo diretor independente",
+      "summary": "A Vale (VALE3) informou nesta quinta-feira (30) alterações na composição do Conselho de Administração, com efeitos a partir de 1º de agosto de 2026 até o fim do mandato atual. O conselheiro independente Reinaldo Duarte C",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/vale-vale3-elege-vice-presidente-do-conselho-e-novo-diretor-independente/",
+      "time": "2026-07-30T21:59:21Z",
+      "cat": "acoes",
+      "tickers": [
+        "VALE3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/vale-1.jpg"
+    },
+    {
+      "title": "Vale (VALE3) aprova JCP e dividendos de R$ 2,03 por ação e anuncia recompra de até 100 milhões de papéis",
+      "summary": "A Vale (VALE3) aprovou nesta quinta-feira (30) o pagamento de R$ 2,03 por ação em juros sobre capital próprio (JCP) e dividendos aos acionistas. Na mesma reunião, o conselho de administração também autorizou um novo prog",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/vale-vale3-aprova-jcp-e-dividendos-de-r-203-por-acao-e-anuncia-recompra-de-ate-100-milhoes-de-papeis/",
+      "time": "2026-07-30T21:51:11Z",
+      "cat": "fundos",
+      "tickers": [
+        "VALE3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/vale-vale3.jpg"
     },
     {
       "title": "EcoRodovias (ECOR3) tem queda de 95% no lucro no 2T26, para R$ 9,9 milhões",
@@ -153,26 +213,46 @@
       "image": "https://www.moneytimes.com.br/uploads/2025/08/apple-acoes-investigacao-eua-queda-1.png"
     },
     {
-      "title": "Taxas de juros curtas e intermediárias caem em meio a bateria de dados no Brasil e nos EUA",
-      "summary": "As taxas dos Depósitos Interfinanceiros (DIs) com prazos curtos e intermediários fecharam a quinta-feira (30) com baixas, na esteira de uma bateria de dados econômicos divulgados no Brasil e no exterior, enquanto os rend",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/taxas-de-juros-curtas-e-intermediarias-caem-em-meio-a-bateria-de-dados-no-brasil-e-nos-eua-lils/",
-      "time": "2026-07-30T20:56:01Z",
-      "cat": "economia",
+      "title": "Fundo imobiliário VVMR11 informa rescisão antecipada de contrato por clínica",
+      "summary": "O fundo imobiliário VVMR11 (Tellus Healthcare Mixed-Use FII) comunicou ao mercado que recebeu de uma clínica especializada em saúde a intenção de rescindir antecipadamente o contrato de locação atípico do imóvel na Aveni",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/fundo-imobiliario-vvmr11-informa-rescisao-antecipada-de-contrato-por-clinica/",
+      "time": "2026-07-30T23:05:04Z",
+      "cat": "fundos",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/porcentagem.jpg"
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     },
     {
-      "title": "Ibovespa ‘voa’ com salto de Wall Street e sobe quase 2% à espera de Vale (VALE3); dólar cai",
-      "summary": "O Ibovespa (IBOV) ganhou mais de 3 mil pontos na carona do apetite a risco no mercado global, em dia agitado por dados econômicos no Brasil e nos Estados Unidos. Os balanços corporativos ficaram no radar. Nesta quinta-fe",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ibovespa-30-7-26-lils/",
-      "time": "2026-07-30T20:18:21Z",
-      "cat": "economia",
+      "title": "Falta de silos vira tese de investimento para Fiagros como SNAG11",
+      "summary": "O Brasil colhe mais soja ano após ano, mas a infraestrutura de estocagem não acompanha esse ritmo. Dados da Datagro indicam que, na última década, a produção nacional de grãos avançou 6,5% ao ano, enquanto a capacidade e",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/falta-de-silos-vira-tese-de-investimento-para-fiagros-como-snag11/",
+      "time": "2026-07-30T22:05:03Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/close-de-gr-fico-de-1_03-1.webp"
+    },
+    {
+      "title": "FII reavalia imóvel e adiciona R$ 25 milhões ao patrimônio",
+      "summary": "O fundo imobiliário CPLG11 (Capitânia Logística Fundo de Investimento Imobiliário) comunicou a conclusão da reavaliação de parte de seus ativos, com efeito positivo estimado em R$ 25,1 milhões sobre o patrimônio. A atual",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/fii-reavalia-imovel-e-adiciona-r-25-milhoes-ao-patrimonio/",
+      "time": "2026-07-30T21:55:08Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/detalhe-de-calculado-1_01-2.webp"
+    },
+    {
+      "title": "Ibovespa salta 1,88% e volta aos 177 mil pontos com Petrobras (PETR4) e bancos",
+      "summary": "Ibovespa salta 1,88% e volta aos 177 mil pontos com Petrobras (PETR4) e bancosO Ibovespa mais que recuperou as perdas da véspera e encerrou esta quinta-feira (30) em alta firme, acompanhando a melhora do apetite por risc",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-30-julho-2026-petr4-vale3-bancos-mt/",
+      "time": "2026-07-30T21:46:08Z",
+      "cat": "acoes",
       "tickers": [
-        "VALE3"
+        "PETR4"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/06/mercado-alta-3.jpg"
+      "image": "https://files.sunoresearch.com.br/n/uploads/2026/07/776ea9d9-noticia-de-hoje-19.08-1-1-jpg.webp"
     },
     {
       "title": "Amazon dispara após lucro e ação sobe 8% no after hours em NY",
@@ -205,211 +285,145 @@
       "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     },
     {
-      "title": "Embraer (EMBJ3): XP vê nova fase da companhia e aponta o que mudou na tese da ação",
-      "summary": "Embraer (EMBJ3): XP vê nova fase da companhia e aponta o que mudou na tese da açãoA Embraer (EMBJ3) entrou em uma nova fase de sua história na Bolsa, segundo análise da XP. Após uma década marcada por desafios como a ten",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/embraer-embj3-xp-mudanca-tese-investimento-mt/",
-      "time": "2026-07-30T17:33:28Z",
-      "cat": "acoes",
-      "tickers": [
-        "EMBJ3"
-      ],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2026/04/3ea60ba8-embraer-divulgacao-868x500-1-1-2-jpg.webp"
-    },
-    {
-      "title": "BRCO11: saiba mais sobre a vacância e inquilinos do FII",
-      "summary": "O fundo imobiliário Bresco Logística (BRCO11) é composto por 14 galpões logísticos, que somam 591 mil m² de área bruta locável. Com patrimônio de cerca de R$ 2,1 bilhões e 138 mil cotistas, o veículo consolida presença r",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/brco11-portfolio-galpoes-dividendos-vacancia/",
-      "time": "2026-07-30T15:35:08Z",
-      "cat": "fundos",
-      "tickers": [
-        "BRCO11"
-      ],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/155_Mesa_de_trabalho_com_1_2026017_17371-1-jpg.webp"
-    },
-    {
-      "title": "Rendimento do VRTM11 fica em 1,27% e fundo aponta faixa para o 2º semestre",
-      "summary": "Com receitas de R$ 3,604 milhões e despesas de R$ 510 mil, o fundo imobiliário encerrou junho com resultado de R$ 3,093 milhões, um recuo em relação aos meses anteriores. A administração apontou que o desempenho foi impa",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/rendimentos-do-vrtm11-em-junho/",
-      "time": "2026-07-30T14:15:05Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
-    },
-    {
-      "title": "MCCI11 investe R$ 100 milhões em CRIs e rende 13,5% ao ano aos cotistas",
-      "summary": "Os rendimentos do MCCI11 referentes à competência de junho foram de R$ 1,00 por cota, pagos aos cotistas em julho. No mês, o fundo apurou resultado de R$ 16,675 milhões, com receitas totais de R$ 18,000 milhões e despesa",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/rendimentos-do-mcci11-resultado-junho/",
-      "time": "2026-07-30T13:55:45Z",
-      "cat": "acoes",
-      "tickers": [
-        "MCCI11"
-      ],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
-    },
-    {
-      "title": "RZAG11: Fiagro com yield de 1,39% no mês divulga lucro 23,3% maior; confira quanto",
-      "summary": "O fundo apurou resultado de R$ 8,260 milhões em junho, avanço de 23,3% na comparação com maio. As receitas totais do período somaram R$ 9,387 milhões, frente a despesas de R$ 782 mil, conforme relatório mensal. O rendime",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/rzag11-resultado-junho-rendimento-desconto/",
-      "time": "2026-07-30T13:15:06Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/analista-financeiro-1_12-2.webp"
-    },
-    {
-      "title": "Aplicativo do Tesouro Direto será desativado; veja como acessar agora",
-      "summary": "O Tesouro Direto informou nesta quinta-feira, 30, que desativará seu aplicativo oficial a partir de 17 de agosto de 2026",
+      "title": "Microsoft cresce US$ 450 bilhões em um dia, quase quatro vezes o valor da Petrobras",
+      "summary": "Em apenas um pregão, a companhia criou valor equivalente a 47,3% de toda a capitalização das empresas listadas na B3, montante próximo de quatro vezes o valor de mercado da Petrobras",
       "source": "Exame",
-      "url": "https://exame.com/invest/mercados/aplicativo-do-tesouro-direto-sera-desativado-veja-como-acessar-agora/",
-      "time": "2026-07-30T18:29:24Z",
+      "url": "https://exame.com/invest/mercados/microsoft-cresce-us-450-bilhoes-em-um-dia-quase-quatro-vezes-o-valor-da-petrobras/",
+      "time": "2026-07-30T19:52:39Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2023/05/GettyImages-1359134494.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2025/10/GettyImages-2186206624.jpg"
     },
     {
-      "title": "Apple tem lucro acima da expectativa e reduz investimentos na contramão das 'techs'",
-      "summary": "iPhone foi o destaque no 2º tri, com US$ 54,2 bilhões em vendas, alta de 21,7%",
+      "title": "Trump assina medida que restringe exportação de terras raras",
+      "summary": "Os Estados Unidos têm volumes expressivos desses recursos incorporados a produtos manufaturados, como baterias de íons de lítio e ímãs permanentes",
       "source": "Exame",
-      "url": "https://exame.com/invest/mercados/apple-tem-lucro-acima-da-expectativa-e-reduz-investimentos-na-contramao-das-techs/",
-      "time": "2026-07-30T18:07:23Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/10/apple.jpg"
-    },
-    {
-      "title": "Gás nacional, infraestrutura e mercado: o debate sobre Gas Release",
-      "summary": "Para reduzir a dependência externa, Brasil aposta em novos gasodutos e previsibilidade no mercado livre de gás",
-      "source": "Exame",
-      "url": "https://exame.com/bussola/gas-nacional-infraestrutura-e-mercado-o-debate-sobre-gas-release/",
-      "time": "2026-07-30T18:00:42Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/a14520a6-a802-4e64-bfd6-4b4119b35faa.jpg"
-    },
-    {
-      "title": "Tereza Cristina diz a aliados que aceita convite para vice de Flávio, mas aliança enfrenta entraves",
-      "summary": "Senadora aceitou o convite para ser vice da chapa 'a contragosto' e 'contrariada', dizem aliados",
-      "source": "Exame",
-      "url": "https://exame.com/brasil/tereza-cristina-diz-a-aliados-que-aceita-convite-para-vice-de-flavio-mas-alianca-enfrenta-entraves/",
-      "time": "2026-07-30T17:56:07Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2024/06/Senadora-Tereza-Cristina-PP-MS.jpg"
-    },
-    {
-      "title": "O detalhe no balanço da Amazon que fez a ação da empresa disparar 9%",
-      "summary": "AWS, braço de computação em nuvem da empresa, tem maior crescimento em quatro anos",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/o-detalhe-no-balanco-da-amazon-que-fez-a-acao-da-empresa-disparar-9/",
-      "time": "2026-07-30T17:44:44Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2023/12/bcm_2316a.jpg"
-    },
-    {
-      "title": "México - Ações fecharam o pregão em alta e o Índice S&P/BMV IPC avançou 1,22%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/mexico--acoes-fecharam-o-pregao-em-alta-e-o-indice-spbmv-ipc-avancou-122-2021036",
-      "time": "2026-07-30T21:30:19Z",
+      "url": "https://exame.com/mundo/trump-assina-medida-que-restringe-exportacao-de-terras-raras/",
+      "time": "2026-07-30T19:35:08Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/The-Mexican-Stock-Exchange_M_1440048947.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/AFP__20260720__C2LM346__v1__HighRes__UsPoliticsTrump.jpg"
     },
     {
-      "title": "Ibovespa e dólar hoje esperam dívida/PIB e saldo orçamentário pós-rali tech em NY",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-esperam-dividapib-e-saldo-orcamentario-posrali-tech-em-ny-2020982",
-      "time": "2026-07-30T21:30:02Z",
+      "title": "Vale tem lucro 35% menor no 2º trimestre, mas cobre e níquel disparam",
+      "summary": "Recordes de cobre e minério não impediram queda no lucro, pressionado pelo resultado financeiro",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/vale-tem-lucro-35-menor-no-2o-trimestre-mas-cobre-e-niquel-disparam/",
+      "time": "2026-07-30T19:31:55Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/moved_LYNXMPELA315V_L.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/EX1286_MAT-VALE_4.jpg"
     },
     {
-      "title": "Por que as ações da Apple estão caindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-apple-estao-caindo-hoje-93CH-2021031",
-      "time": "2026-07-30T21:26:16Z",
+      "title": "Netflix fecha acordo bilionário para transmitir a Copa do Mundo Feminina nos EUA",
+      "summary": "Plataforma garantiu os direitos das edições de 2027 e 2031 nos Estados Unidos e reforça sua estratégia de expansão nas transmissões esportivas",
+      "source": "Exame",
+      "url": "https://exame.com/pop/netflix-fecha-acordo-bilionario-para-transmitir-a-copa-do-mundo-feminina-nos-eua/",
+      "time": "2026-07-30T19:15:21Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEE8B26F_M.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2024/08/53900143634_329f666f4f_c.jpg"
     },
     {
-      "title": "Por que as ações da Amazon estão disparando hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-amazon-estao-disparando-hoje-93CH-2021030",
-      "time": "2026-07-30T21:26:04Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/moved_LYNXMPEHB80JO_L.jpg"
-    },
-    {
-      "title": "Por que as ações da GoDaddy estão caindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-godaddy-estao-caindo-hoje-93CH-2021028",
-      "time": "2026-07-30T21:25:43Z",
+      "title": "Vale anuncia R$ 8,64 bi em dividendos e JCP; veja quem tem direito",
+      "summary": "Mineradora paga R$ 2,03 por ação em provento bruto; corte na B3 é em 11 de agosto e crédito, em 2 de setembro",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/vale-anuncia-r-864-bi-em-dividendos-e-jcp-veja-quem-tem-direito/",
+      "time": "2026-07-30T18:56:21Z",
       "cat": "fundos",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC3B0CQ_M.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/espaco-memoria-marca-vale-new.jpg"
     },
     {
-      "title": "Colômbia - Ações fecharam o pregão em alta e o Índice COLCAP avançou 1,64%",
+      "title": "Wall Street encerra o dia com forte alta, impulsionada pela disparada da Microsoft",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/colombia--acoes-fecharam-o-pregao-em-alta-e-o-indice-colcap-avancou-164-2021027",
-      "time": "2026-07-30T21:25:19Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/Colombian_Securities_Exchange_M_1440056295.jpg"
-    },
-    {
-      "title": "Rússia - Ações fecharam o pregão em queda e o Índice MOEX Russia Index recuou 1,26%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/russia--acoes-fecharam-o-pregao-em-queda-e-o-indice-moex-russia-index-recuou-126-2021012",
-      "time": "2026-07-30T21:20:20Z",
+      "url": "https://br.investing.com/news/stock-market-news/wall-street-encerra-o-dia-com-forte-alta-impulsionada-pela-forte-valorizacao-da-microsoft-2020794",
+      "time": "2026-07-30T22:49:26Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/MoscowExchange_800x533_L_1629374452.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEM3D0JF_1200_L.jpg"
     },
     {
-      "title": "Por que as ações da Floor & Decor estão subindo?",
+      "title": "Espanhol Santander vai lançar oferta por ações da operação brasileira",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-floor--decor-estao-subindo-93CH-2021003",
-      "time": "2026-07-30T21:16:52Z",
+      "url": "https://br.investing.com/news/stock-market-news/santander-anuncia-intencao-de-lancar-oferta-por-acoes-de-operacao-brasileira-2021087",
+      "time": "2026-07-30T22:49:26Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0Q1B5_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0L1BQ_L.jpg"
     },
     {
-      "title": "Por que as ações da Stryker estão caindo hoje?",
+      "title": "Por que as ações da Rivian Automotive estão subindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-stryker-estao-caindo-hoje-93CH-2020997",
-      "time": "2026-07-30T21:12:53Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-rivian-automotive-estao-subindo-hoje-93CH-2021091",
+      "time": "2026-07-30T22:18:34Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPECBE0OL_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEA6N0AC_M.jpg"
     },
     {
-      "title": "Ibovespa fecha em alta firme com exterior positivo e balanços",
+      "title": "Por que as ações do Reddit estão caindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-fecha-em-alta-firme-com-exterior-positivo-e-balancos-2020763",
-      "time": "2026-07-30T20:56:08Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-do-reddit-estao-caindo-hoje-93CH-2021090",
+      "time": "2026-07-30T22:18:07Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/Ibovespa_800x533_L_1692636642.jpg"
+      "image": "https://i-invdn-com.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
+    },
+    {
+      "title": "Por que as ações da Roblox estão despencando hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-roblox-estao-despencando-hoje-93CH-2021089",
+      "time": "2026-07-30T22:14:38Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/Roblox_800x533_L_1615573309.jpg"
+    },
+    {
+      "title": "Por que as ações da First Solar estão subindo hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-first-solar-estao-subindo-hoje-93CH-2021088",
+      "time": "2026-07-30T22:14:24Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0K08U_M.jpg"
+    },
+    {
+      "title": "Por que as ações da MasTec estão despencando hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-mastec-estao-despencando-hoje-93CH-2021084",
+      "time": "2026-07-30T22:11:58Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0E0NG_M.jpg"
+    },
+    {
+      "title": "Por que as ações da DexCom estão disparando hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-dexcom-estao-disparando-hoje-93CH-2021083",
+      "time": "2026-07-30T22:11:44Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6R0AQ_L.jpg"
+    },
+    {
+      "title": "Por que a ação da AXT está disparando hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-a-acao-da-axt-esta-disparando-hoje-93CH-2021077",
+      "time": "2026-07-30T22:07:58Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB9M0BY_M.jpg"
     }
   ],
-  "atualizado_em": "30/07/2026 21:42"
+  "atualizado_em": "30/07/2026 23:06"
 }
