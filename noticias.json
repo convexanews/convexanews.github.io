@@ -1,160 +1,198 @@
 {
   "headline": {
-    "title": "PIB dos EUA decepciona, mas detalhe do dado acende alerta para o Fed",
-    "summary": "A economia dos EUA pisou no freio no segundo trimestre, mas não exatamente onde o mercado esperava. O PIB dos EUA cresceu a uma taxa anualizada de 1,5% entre abril e junho, abaixo dos 2,1% projetados por economistas cons",
-    "source": "Suno",
-    "url": "https://www.suno.com.br/noticias/pib-dos-eua-crescimento-fed-mercados-mt/",
-    "time": "2026-07-30T19:15:06Z",
+    "title": "Ibovespa ‘voa’ com salto de Wall Street e sobe quase 2% à espera de Vale (VALE3); dólar cai",
+    "summary": "O Ibovespa (IBOV) ganhou mais de 3 mil pontos na carona do apetite a risco no mercado global, em dia agitado por dados econômicos no Brasil e nos Estados Unidos. Os balanços corporativos ficaram no radar. Nesta quinta-fe",
+    "source": "Money Times",
+    "url": "https://www.moneytimes.com.br/ibovespa-30-7-26-lils/",
+    "time": "2026-07-30T20:18:21Z",
     "cat": "economia",
-    "tickers": [],
-    "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
+    "tickers": [
+      "VALE3"
+    ],
+    "image": "https://www.moneytimes.com.br/uploads/2026/06/mercado-alta-3.jpg"
   },
   "featured": [
     {
-      "title": "Rumores de uma nova intervenção do Japão no câmbio derruba dólar no mercado global",
-      "summary": "O dólar registra forte queda nesta quinta-feira (30), em meio a suspeitas de uma nova intervenção no câmbio pelo governo do Japão. A moeda norte-americana já vinha sendo pressionada desde o início da manhã, em meio às in",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/rumores-de-uma-nova-intervencao-do-japao-no-cambio-derruba-dolar-no-mercado-global-lils/",
-      "time": "2026-07-30T18:57:27Z",
+      "title": "Ibovespa e dólar hoje esperam dívida/PIB e saldo orçamentário pós-rali tech em NY",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-esperam-dividapib-e-saldo-orcamentario-posrali-tech-em-ny-2020982",
+      "time": "2026-07-30T21:30:02Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2024/08/dolar-iene-mercados.jpg"
+      "image": "https://content-media.investing.com/news/moved_LYNXMPELA315V_L.jpg"
     },
     {
-      "title": "Governo Central tem déficit primário de R$ 48,178 bilhões em junho, afirma Tesouro",
-      "summary": "Déficit primário do mês passado foi maior do que o registrado em junho de 2025",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/economia/governo-central-tem-deficit-primario-de-r-48178-bilhoes-em-junho-afirma-tesouro/",
-      "time": "2026-07-30T18:37:39Z",
-      "cat": "economia",
+      "title": "Amazon dispara após lucro e ação sobe 8% no after hours em NY",
+      "summary": "Amazon dispara após lucro e ação sobe 8% no after hours em NYA Amazon registrou um lucro líquido de US$ 62,65 bilhões no segundo trimestre, o que representou US$ 5,75 por ação, ficando bem acima dos US$ 1,82 projetados p",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/amazon-amzo34-lucro-segundo-trimestre-acima-projecoes-mtae/",
+      "time": "2026-07-30T21:39:54Z",
+      "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/09/ministerio-da-fazenda.jpg?fit=300%2C176&amp;quality=70&amp;strip=all"
+      "image": "https://files.sunoresearch.com.br/n/uploads/2025/12/cropped-a37f0fd4-amazon-jpg.webp"
     }
   ],
   "all": [
     {
-      "title": "Petróleo cai com discussões sobre Ormuz avançando apesar de ataques EUA-Irã",
-      "summary": "A commodity energética passou a cair depois que o Irã afirmou que as negociações com Omã sobre a gestão do Estreito de Ormuz seguem em andamento",
+      "title": "Multiplan (MULT3) lucra 61,7% mais no 2º tri, a R$ 427 milhões, e supera projeções",
+      "summary": "A empresa teve ⁠receita líquida ​de 846,8 milhões de abril ao final de ​junho, 22% acima do faturamento de um ​ano antes ⁠e também acima da previsão média ⁠dos analistas",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-30072026/",
-      "time": "2026-07-30T19:20:21Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/hormuz-estreito-guerra-ira-eua-petroleo.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
+      "url": "https://www.infomoney.com.br/mercados/multiplan-mult3-resultados-segundo-trimestre-2026/",
+      "time": "2026-07-30T21:15:57Z",
+      "cat": "fundos",
+      "tickers": [
+        "MULT3"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/multiplan.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Governo Central tem déficit primário de R$ 48,178 bilhões em junho, afirma Tesouro",
-      "summary": "Déficit primário do mês passado foi maior do que o registrado em junho de 2025",
+      "title": "Taxas de juros curtas e intermediárias caem em meio a dados no Brasil e nos EUA",
+      "summary": "O recuo das taxas futuras curtas no Brasil ocorreu, conforme o economista-chefe do banco Bmg, Flavio Serrano, pelo 'conjunto da obra'",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/economia/governo-central-tem-deficit-primario-de-r-48178-bilhoes-em-junho-afirma-tesouro/",
-      "time": "2026-07-30T18:37:39Z",
+      "url": "https://www.infomoney.com.br/mercados/taxas-de-juros-curtas-e-intermediarias-caem-em-meio-a-dados-no-brasil-e-nos-eua/",
+      "time": "2026-07-30T21:11:34Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/09/ministerio-da-fazenda.jpg?fit=300%2C176&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/daniel-dan-3SR040CKpB0-unsplash.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Inflação, eleições e longevidade redefinem os desafios do investidor moderno",
-      "summary": "Especialistas explicam por que inflação, eleições, longevidade, tributação e sucessão exigem uma gestão patrimonial que vai muito além da escolha dos investimentos",
+      "title": "Ibovespa tem pregão “inverso” ao da véspera e sobe 1,88% com exterior e balanços",
+      "summary": "Na semana, acumula avanço de 1,79% e, em julho, de 2,98%",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/advisor/inflacao-eleicoes-e-longevidade-redefinem-os-desafios-do-investidor-moderno/",
-      "time": "2026-07-30T18:16:42Z",
-      "cat": "economia",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-tem-pregao-inverso-ao-da-vespera-e-sobe-188-com-exterior-e-balancos/",
+      "time": "2026-07-30T21:06:27Z",
+      "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/11/shutterstock_593873471.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/Captura-de-tela-2024-08-15-092426.png?fit=300%2C202&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Justiça homologa plano de recuperação extrajudicial da Raízen (RAIZ4)",
-      "summary": "A Justiça de São Paulo homologou nesta quinta-feira (30) o plano de recuperação extrajudicial da Raízen (RAIZ4), que prevê a reestruturação de aproximadamente R$ 65 bilhões em dívidas financeiras. A sentença foi proferid",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/justica-homologa-plano-de-recuperacao-extrajudicial-da-raizen-raiz4-vtra/",
-      "time": "2026-07-30T19:52:21Z",
+      "title": "Startups: 99Pay recebe autorização do BC para operar como financeira",
+      "summary": "Licença permite à fintech ampliar a oferta de crédito e captar recursos por meio de CDBs e RDBs",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/startups-99pay-recebe-autorizacao-do-bc-para-operar-como-financeira/",
+      "time": "2026-07-30T20:59:41Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/99pay_rec_rd.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Usiminas entrega 2T em linha, mas resto do ano vira problema e ações desabam 9,25%",
+      "summary": "Após resultados fortes, siderúrgicas sinaliza perda de fôlego nos próximos trimestres",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/usiminas-usim5-entrega-2t-em-linha-mas-sinaliza-perda-de-folego-no-2o-semestre-desempenho-acoes/",
+      "time": "2026-07-30T20:57:16Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/08/usiminas.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Ambev frustra projeções no 2T, apesar de lucro forte, mas ABEV3 fecha em leve alta",
+      "summary": "Receita e Ebitda ficaram abaixo das expectativas do mercado no 2T26, enquanto o lucro foi impulsionado por efeitos financeiros; analistas veem impacto da Copa menor do que o esperado",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ambev-abev3-frustra-projecoes-no-2t-apesar-de-lucro-forte-mercado-olha-alem-do-efeito-copa-desempenho-acoes/",
+      "time": "2026-07-30T20:56:07Z",
       "cat": "acoes",
       "tickers": [
-        "RAIZ4"
+        "ABEV3"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/raizen.jpg"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2021/12/Fabrica-de-Vidros_Ambev.jpeg?fit=300%2C198&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Petróleo recua 1% com continuidade nas discussões sobre o controle de Ormuz",
-      "summary": "Após a disparada de 7% na véspera, os preços do petróleo voltaram a cair nesta quinta-feira (30) com as afirmações do Irã de que o diálogo com Omã para negociar a administração do Estreito de Ormuz continua, em meio à re",
+      "title": "EcoRodovias (ECOR3) tem queda de 95% no lucro no 2T26, para R$ 9,9 milhões",
+      "summary": "A EcoRodovias (ECOR3) registrou lucro líquido consolidado de R$ 9,9 milhões no segundo trimestre de 2026 (2T26), queda de 95% em relação aos R$ 199,3 milhões apurados no mesmo período do ano passado. Já o lucro líquido r",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/petroleo-30-7-26-apsa/",
-      "time": "2026-07-30T19:49:06Z",
-      "cat": "internacional",
+      "url": "https://www.moneytimes.com.br/ecorodovias-ecor3-tem-queda-de-95-no-lucro-no-2t26-para-r-99-milhoes-vtra/",
+      "time": "2026-07-30T21:34:52Z",
+      "cat": "acoes",
+      "tickers": [
+        "ECOR3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2024/05/ecorodovias.jpg"
+    },
+    {
+      "title": "Multiplan (MULT3) tem lucro de R$ 427,4 milhões no 2º trimestre, alta de 61,7%",
+      "summary": "A Multiplan (MULT3) encerrou o segundo trimestre de 2026 com lucro líquido de R$ 427,4 milhões, avanço de 61,7% em relação ao mesmo período do ano passado, impulsionado pelo crescimento operacional dos shopping centers e",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/multiplan-mult3-tem-lucro-de-r-4274-milhoes-no-2o-trimestre-alta-de-617-vtra/",
+      "time": "2026-07-30T21:18:27Z",
+      "cat": "acoes",
+      "tickers": [
+        "MULT3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2024/10/multiplan-mult3-3.jpg"
+    },
+    {
+      "title": "Tereza Cristina avisa a aliados que aceitou ser vice de Flávio Bolsonaro; definição depende do aval do PP",
+      "summary": "A senadora Tereza Cristina (PP-MS) afirmou a aliados nesta quinta-feira (30) que aceitou ser vice na chapa do senador Flávio Bolsonaro (PL-RJ) à Presidência da República, de acordo com pessoas próximas à parlamentar ouvi",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/tereza-cristina-avisa-a-aliados-que-aceitou-ser-vice-de-flavio-definicao-depende-do-aval-do-pp-gaep/",
+      "time": "2026-07-30T21:13:30Z",
+      "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/petroleo-commodity-ormuz-wti-brent.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/55396364369-918ac14d63-o-e1785445858406.jpg"
     },
     {
-      "title": "Rumores de uma nova intervenção do Japão no câmbio derruba dólar no mercado global",
-      "summary": "O dólar registra forte queda nesta quinta-feira (30), em meio a suspeitas de uma nova intervenção no câmbio pelo governo do Japão. A moeda norte-americana já vinha sendo pressionada desde o início da manhã, em meio às in",
+      "title": "Amazon (AMZN) supera expectativa de lucro e ação sobe 8% no after hours em NY",
+      "summary": "A Amazon (AMZN) registrou um lucro líquido de US$ 62,65 bilhões no segundo trimestre, o que representou US$ 5,75 por ação, ficando bem acima dos US$ 1,82 projetados pela FactSet. Os números representam um aumento frente ",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/rumores-de-uma-nova-intervencao-do-japao-no-cambio-derruba-dolar-no-mercado-global-lils/",
-      "time": "2026-07-30T18:57:27Z",
+      "url": "https://www.moneytimes.com.br/amazon-supera-expectativa-de-lucro-e-acao-sobe-8-no-after-hours-em-ny/",
+      "time": "2026-07-30T21:08:30Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/10/pictures-anna-1-1.jpg"
+    },
+    {
+      "title": "Apple (AAPL) tem resultado acima do esperado impulsionada por iPhones e Macs",
+      "summary": "A Apple (AAPL) divulgou nesta quinta-feira resultado acima das expectativas de Wall Street, impulsionada pela forte demanda por iPhones e MacBooks. A Apple teve alta de 16,4% na receita do terceiro trimestre fiscal, ence",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/apple-aapl-tem-resultado-acima-do-esperado-impulsionada-por-iphones-e-macs/",
+      "time": "2026-07-30T21:00:09Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/08/apple-acoes-investigacao-eua-queda-1.png"
+    },
+    {
+      "title": "Taxas de juros curtas e intermediárias caem em meio a bateria de dados no Brasil e nos EUA",
+      "summary": "As taxas dos Depósitos Interfinanceiros (DIs) com prazos curtos e intermediários fecharam a quinta-feira (30) com baixas, na esteira de uma bateria de dados econômicos divulgados no Brasil e no exterior, enquanto os rend",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/taxas-de-juros-curtas-e-intermediarias-caem-em-meio-a-bateria-de-dados-no-brasil-e-nos-eua-lils/",
+      "time": "2026-07-30T20:56:01Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2024/08/dolar-iene-mercados.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/porcentagem.jpg"
     },
     {
-      "title": "Etanol lidera queda de combustíveis em julho, afirma Veloe/Fipe",
-      "summary": "Os preços médios dos combustíveis voltaram a cair em julho, com recuo em cinco dos seis produtos acompanhados pelo Monitor de Preços de Combustíveis da Veloe em parceria com a Fipe. A maior queda foi do etanol hidratado ",
+      "title": "Ibovespa ‘voa’ com salto de Wall Street e sobe quase 2% à espera de Vale (VALE3); dólar cai",
+      "summary": "O Ibovespa (IBOV) ganhou mais de 3 mil pontos na carona do apetite a risco no mercado global, em dia agitado por dados econômicos no Brasil e nos Estados Unidos. Os balanços corporativos ficaram no radar. Nesta quinta-fe",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/etanol-lidera-queda-de-combustiveis-em-julho-afirma-veloe-fipe-pads/",
-      "time": "2026-07-30T18:46:19Z",
+      "url": "https://www.moneytimes.com.br/ibovespa-30-7-26-lils/",
+      "time": "2026-07-30T20:18:21Z",
+      "cat": "economia",
+      "tickers": [
+        "VALE3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/mercado-alta-3.jpg"
+    },
+    {
+      "title": "Amazon dispara após lucro e ação sobe 8% no after hours em NY",
+      "summary": "Amazon dispara após lucro e ação sobe 8% no after hours em NYA Amazon registrou um lucro líquido de US$ 62,65 bilhões no segundo trimestre, o que representou US$ 5,75 por ação, ficando bem acima dos US$ 1,82 projetados p",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/amazon-amzo34-lucro-segundo-trimestre-acima-projecoes-mtae/",
+      "time": "2026-07-30T21:39:54Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/08/etanol-milho-2.jpg"
+      "image": "https://files.sunoresearch.com.br/n/uploads/2025/12/cropped-a37f0fd4-amazon-jpg.webp"
     },
     {
-      "title": "Goldman Sachs aposta em IA e cria plataforma para ampliar retorno de investimentos",
-      "summary": "A Goldman Sachs Asset Management lançou uma plataforma de investimentos baseada em inteligência artificial, a AlphaAI, apostando que a IA se tornará um importante fator impulsionador dos retornos dos investimentos em seu",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/goldman-sachs-aposta-em-ia-e-cria-plataforma-para-ampliar-retorno-de-investimentos-igdl/",
-      "time": "2026-07-30T18:37:12Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/goldman-sachs-1.png"
-    },
-    {
-      "title": "3tentos (TTEN3): Números fracos? Para o Santander, 2T26 traz marcos de longo prazo para a tese; veja recomendação",
-      "summary": "A expectativa por um segundo trimestre mais fraco para a 3tentos (TTEN3) não altera a visão positiva do Santander sobre a companhia. Em relatório divulgado nesta quarta-feira (30), o banco reiterou a recomendação outperf",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/3tentos-tten3-numeros-fracos-para-o-santander-2t26-traz-marcos-de-longo-prazo-para-a-tese-veja-recomendacao-pads/",
-      "time": "2026-07-30T18:36:44Z",
+      "title": "Airbus (AIRB34) ganha altitude com lucro forte e carteira recorde",
+      "summary": "A Airbus (AIRB34) mostrou que a demanda por aeronaves continua em alta. A fabricante europeia encerrou o segundo trimestre de 2026 com resultados acima das expectativas do mercado, impulsionada pelo aumento nas entregas ",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/airbus-airb34-lucro-carteira-recorde-2t26/",
+      "time": "2026-07-30T21:15:07Z",
       "cat": "analise",
-      "tickers": [
-        "TTEN3"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/07/3tentos-tten3.jpg"
-    },
-    {
-      "title": "Inteligência artificial: OpenAI corta preços em até 80% para ganhar espaço no mercado",
-      "summary": "A OpenAI reduziu nesta quinta-feira (30) drasticamente os preços de seus modelos de inteligência artificial (IA) de nível básico e intermediário, o que pode intensificar a concorrência no setor em um momento em que clien",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/inteligencia-artificial-openai-corta-precos-em-ate-80-para-ganhar-espaco-no-mercado-igdl/",
-      "time": "2026-07-30T18:29:34Z",
-      "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/ilustracao-com-o-logotipo-da-openai-11-de-junho-de-2026-reutersdado-ruvic.png"
-    },
-    {
-      "title": "Ouro ganha força e sobe 1% com leitura de Fed mais ‘tolerante’ a inflação",
-      "summary": "O ouro encerrou o pregão desta quinta-feira (30) em alta, ganhando espaço com o enfraquecimento do dólar em reação à decisão de política monetária do Banco Central dos Estados Unidos, o Federal Reserve (Fed), e à postura",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ouro-30-7-26-lils/",
-      "time": "2026-07-30T18:21:37Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2024/05/ouro-china-valor-recorde-devolve-ganhos.webp"
-    },
-    {
-      "title": "Mastercard supera estimativas de lucro com gastos estáveis ​​impulsionando volume de transações",
-      "summary": "A Mastercard divulgou nesta quinta-feira um lucro no segundo trimestre que superou as expectativas de Wall Street, impulsionado por um volume robusto de transações, resultante do consumo estável. Apesar dos receios de qu",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/mastercard-supera-estimativas-de-lucro-com-gastos-estaveis-impulsionando-volume-de-transacoes/",
-      "time": "2026-07-30T18:04:57Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2022/03/img-2-russiapagamentos.jpg"
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     },
     {
       "title": "PIB dos EUA decepciona, mas detalhe do dado acende alerta para o Fed",
@@ -223,131 +261,155 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/analista-financeiro-1_12-2.webp"
     },
     {
-      "title": "Ambev (ABEV3) supera projeções no 2T26 com lucro de R$ 3,47 bi; veja detalhes",
-      "summary": "A Ambev (ABEV3) registrou um lucro líquido de R$ 3,47 bilhões no segundo trimestre de 2026, resultado 24,5% superior ao apurado no mesmo período do ano anterior. O desempenho surpreendeu o mercado: o consenso de analista",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/ambev-abev3-lucro-2t26-resultado-supera-consenso-go/",
-      "time": "2026-07-30T12:55:04Z",
-      "cat": "acoes",
-      "tickers": [
-        "ABEV3"
-      ],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/67c033e6-ambev-distribuicao-jpg.webp"
-    },
-    {
-      "title": "Com resultado 14,4% maior, CPTS11 paga 125,9% do CDI; entenda",
-      "summary": "O fundo imobiliário CPTS11 encerrou junho com resultado de R$ 36,879 milhões, alta de 14,4% frente a maio, superando em mais de R$ 4 milhões o apurado no mês anterior. As receitas totais atingiram R$ 48,072 milhões, enqu",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/cpts11-resultado-junho-rendimentos-desconto/",
-      "time": "2026-07-30T12:45:07Z",
-      "cat": "economia",
-      "tickers": [
-        "CPTS11"
-      ],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/94_Close_de_gr_fico_fin_1_2026017_161941-1-jpg.webp"
-    },
-    {
-      "title": "Empresas AI-first: o que é essa filosofia que já redefine o mercado de trabalho",
-      "summary": "Modelo coloca a inteligência artificial no centro das decisões estratégicas e já influencia contratação, produtividade e cultura corporativa",
+      "title": "Aplicativo do Tesouro Direto será desativado; veja como acessar agora",
+      "summary": "O Tesouro Direto informou nesta quinta-feira, 30, que desativará seu aplicativo oficial a partir de 17 de agosto de 2026",
       "source": "Exame",
-      "url": "https://exame.com/inteligencia-artificial/empresas-ai-first-o-que-e-essa-filosofia-que-ja-redefine-o-mercado-de-trabalho/",
-      "time": "2026-07-30T16:59:06Z",
+      "url": "https://exame.com/invest/mercados/aplicativo-do-tesouro-direto-sera-desativado-veja-como-acessar-agora/",
+      "time": "2026-07-30T18:29:24Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/11062.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2023/05/GettyImages-1359134494.jpg"
     },
     {
-      "title": "Por que Cury, Cyrela e MRV estão entre as maiores altas da B3",
-      "summary": "Queda da inflação e dos juros globais melhora o humor dos investidores com construtoras nesta quinta",
+      "title": "Apple tem lucro acima da expectativa e reduz investimentos na contramão das 'techs'",
+      "summary": "iPhone foi o destaque no 2º tri, com US$ 54,2 bilhões em vendas, alta de 21,7%",
       "source": "Exame",
-      "url": "https://exame.com/invest/mercados/por-que-cury-cyrela-e-mrv-estao-entre-as-maiores-altas-da-b3/",
-      "time": "2026-07-30T16:44:30Z",
+      "url": "https://exame.com/invest/mercados/apple-tem-lucro-acima-da-expectativa-e-reduz-investimentos-na-contramao-das-techs/",
+      "time": "2026-07-30T18:07:23Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/Incorporadoras-e-RJs.png"
+      "image": "https://classic.exame.com/wp-content/uploads/2025/10/apple.jpg"
     },
     {
-      "title": "Com a guerra no Irã, BNDES anuncia empréstimos de R$ 13 bi à aviação para outubro",
-      "summary": "Programa disponibiliza R$ 13,5 bilhões com recursos do Fundo Nacional de Aviação Civil para capital de giro e compra de aeronaves após alta dos custos com combustíveis",
+      "title": "Gás nacional, infraestrutura e mercado: o debate sobre Gas Release",
+      "summary": "Para reduzir a dependência externa, Brasil aposta em novos gasodutos e previsibilidade no mercado livre de gás",
       "source": "Exame",
-      "url": "https://exame.com/brasil/com-a-guerra-no-ira-bndes-anuncia-emprestimos-de-r-13-bi-a-aviacao-para-outubro/",
-      "time": "2026-07-30T16:43:33Z",
+      "url": "https://exame.com/bussola/gas-nacional-infraestrutura-e-mercado-o-debate-sobre-gas-release/",
+      "time": "2026-07-30T18:00:42Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2022/10/gol-linhas-aereas.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/a14520a6-a802-4e64-bfd6-4b4119b35faa.jpg"
     },
     {
-      "title": "Pesquisa mostra que aumento salarial de quem passa por formação de carreira chega a R$9.900/ano",
-      "summary": "Desemprego entre jovens é o dobro da média nacional; dados mostram o que separa quem avança na seleção",
+      "title": "Tereza Cristina diz a aliados que aceita convite para vice de Flávio, mas aliança enfrenta entraves",
+      "summary": "Senadora aceitou o convite para ser vice da chapa 'a contragosto' e 'contrariada', dizem aliados",
       "source": "Exame",
-      "url": "https://exame.com/carreira/pesquisa-mostra-que-aumento-salarial-de-quem-passa-por-formacao-de-carreira-chega-a-r9-900-ano/",
-      "time": "2026-07-30T16:21:45Z",
+      "url": "https://exame.com/brasil/tereza-cristina-diz-a-aliados-que-aceita-convite-para-vice-de-flavio-mas-alianca-enfrenta-entraves/",
+      "time": "2026-07-30T17:56:07Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_saco-dinheiro14.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2024/06/Senadora-Tereza-Cristina-PP-MS.jpg"
     },
     {
-      "title": "S&P Global eleva perspectiva da Nokia com demanda de IA e diversificação",
+      "title": "O detalhe no balanço da Amazon que fez a ação da empresa disparar 9%",
+      "summary": "AWS, braço de computação em nuvem da empresa, tem maior crescimento em quatro anos",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/o-detalhe-no-balanco-da-amazon-que-fez-a-acao-da-empresa-disparar-9/",
+      "time": "2026-07-30T17:44:44Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2023/12/bcm_2316a.jpg"
+    },
+    {
+      "title": "México - Ações fecharam o pregão em alta e o Índice S&P/BMV IPC avançou 1,22%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/sp-global-eleva-perspectiva-da-nokia-com-demanda-de-ia-e-diversificacao-93CH-2020703",
-      "time": "2026-07-30T19:23:45Z",
+      "url": "https://br.investing.com/news/stock-market-news/mexico--acoes-fecharam-o-pregao-em-alta-e-o-indice-spbmv-ipc-avancou-122-2021036",
+      "time": "2026-07-30T21:30:19Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/moved_LYNXMPEL7L0P4_L.jpg"
+      "image": "https://i-invdn-com.investing.com/news/The-Mexican-Stock-Exchange_M_1440048947.jpg"
     },
     {
-      "title": "CURY3: Por que as ações da construtora Cury estão em alta hoje?",
+      "title": "Ibovespa e dólar hoje esperam dívida/PIB e saldo orçamentário pós-rali tech em NY",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/cury3-por-que-as-acoes-da-construtora-cury-estao-em-alta-hoje-2020701",
-      "time": "2026-07-30T19:23:23Z",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-esperam-dividapib-e-saldo-orcamentario-posrali-tech-em-ny-2020982",
+      "time": "2026-07-30T21:30:02Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://content-media.investing.com/news/moved_LYNXMPELA315V_L.jpg"
+    },
+    {
+      "title": "Por que as ações da Apple estão caindo hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-apple-estao-caindo-hoje-93CH-2021031",
+      "time": "2026-07-30T21:26:16Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEK4Q0HW_L.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEE8B26F_M.jpg"
     },
     {
-      "title": "Moody’s eleva rating da HealthEquity com base em forte geração de caixa",
+      "title": "Por que as ações da Amazon estão disparando hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/moodys-eleva-rating-da-healthequity-com-base-em-forte-geracao-de-caixa-93CH-2020697",
-      "time": "2026-07-30T19:19:31Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-amazon-estao-disparando-hoje-93CH-2021030",
+      "time": "2026-07-30T21:26:04Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC180BO_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/moved_LYNXMPEHB80JO_L.jpg"
     },
     {
-      "title": "S&P Global melhora perspectiva da TTM Technologies com demanda por IA",
+      "title": "Por que as ações da GoDaddy estão caindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/sp-global-melhora-perspectiva-da-ttm-technologies-com-demanda-por-ia-93CH-2020696",
-      "time": "2026-07-30T19:18:58Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-godaddy-estao-caindo-hoje-93CH-2021028",
+      "time": "2026-07-30T21:25:43Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC3B0CQ_M.jpg"
+    },
+    {
+      "title": "Colômbia - Ações fecharam o pregão em alta e o Índice COLCAP avançou 1,64%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/colombia--acoes-fecharam-o-pregao-em-alta-e-o-indice-colcap-avancou-164-2021027",
+      "time": "2026-07-30T21:25:19Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/Colombian_Securities_Exchange_M_1440056295.jpg"
+    },
+    {
+      "title": "Rússia - Ações fecharam o pregão em queda e o Índice MOEX Russia Index recuou 1,26%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/russia--acoes-fecharam-o-pregao-em-queda-e-o-indice-moex-russia-index-recuou-126-2021012",
+      "time": "2026-07-30T21:20:20Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6U08A_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/MoscowExchange_800x533_L_1629374452.jpg"
     },
     {
-      "title": "TOTS3: Por que as ações da Totvs estão em forte alta hoje?",
+      "title": "Por que as ações da Floor & Decor estão subindo?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/tots3-por-que-as-acoes-da-totvs-estao-em-forte-alta-hoje-2020692",
-      "time": "2026-07-30T19:13:25Z",
-      "cat": "internacional",
-      "tickers": [
-        "TOTS3"
-      ],
-      "image": "https://content-media.investing.com/news/Totvs_800x533_L_1599534108.jpg"
-    },
-    {
-      "title": "FCA vai publicar resumo diário de negociações de ações do Reino Unido a partir desta sexta-feira",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/fca-vai-publicar-resumo-diario-de-negociacoes-de-acoes-do-reino-unido-a-partir-desta-sextafeira-93CH-2020685",
-      "time": "2026-07-30T19:05:19Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-floor--decor-estao-subindo-93CH-2021003",
+      "time": "2026-07-30T21:16:52Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPED0C0KP_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0Q1B5_M.jpg"
+    },
+    {
+      "title": "Por que as ações da Stryker estão caindo hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-stryker-estao-caindo-hoje-93CH-2020997",
+      "time": "2026-07-30T21:12:53Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPECBE0OL_M.jpg"
+    },
+    {
+      "title": "Ibovespa fecha em alta firme com exterior positivo e balanços",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-fecha-em-alta-firme-com-exterior-positivo-e-balancos-2020763",
+      "time": "2026-07-30T20:56:08Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/Ibovespa_800x533_L_1692636642.jpg"
     }
   ],
-  "atualizado_em": "30/07/2026 20:02"
+  "atualizado_em": "30/07/2026 21:42"
 }
