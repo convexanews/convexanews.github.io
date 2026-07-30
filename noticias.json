@@ -1,184 +1,250 @@
 {
   "headline": {
-    "title": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta",
-    "summary": "Futuros nos EUA avançam com balanços de tecnologia e busca por recuperação",
-    "source": "InfoMoney",
-    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-30072026/",
-    "time": "2026-07-30T10:46:20Z",
-    "cat": "economia",
-    "tickers": [],
-    "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-7-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    "title": "Ibovespa sobe com melhora do humor externo e à espera de Vale (VALE3); 5 coisas para saber antes de investir hoje (30)",
+    "summary": "O Ibovespa (IBOV) acompanha a melhora do humor externo, apesar da escalada das tensões geopolíticas. Bateria de dados de mercado de trabalho e inflação no Brasil e nos Estados Unidos dividem as atenções, enquanto os inve",
+    "source": "Money Times",
+    "url": "https://www.moneytimes.com.br/ibovespa-5-coisas-30-7-26-lils/",
+    "time": "2026-07-30T13:11:44Z",
+    "cat": "acoes",
+    "tickers": [
+      "VALE3"
+    ],
+    "image": "https://www.moneytimes.com.br/uploads/2026/07/ibovespa-day-trade-2-1-1-1-2-1-1-1-1-1-1-1-1-1.jpg"
   },
   "featured": [
     {
-      "title": "Ambev (ABEV3) bate expectativa do mercado e lucro avança 24,5% no 2T26, a R$ 3,47 bilhões",
-      "summary": "A Ambev (ABEV3) reportou lucro líquido de R$ 3,47 bilhões referente ao segundo trimestre de 2026, um avanço de 24,5% no ano, mostra relatório de resultados divulgado nesta quinta-feira (30). Na linha ajustada, o resultad",
+      "title": "Wall Street avança e tenta recuperar perdas no dia seguinte ao Fed; Microsoft dispara 14% após balanço",
+      "summary": "Os índices de Wall Street operam em alta nos primeiros minutos do pregão na tentativa de recuperação as fortes perdas da véspera, com reação ao balanço da Microsoft (MSFT) e uma bateria de dados macroeconômicos após a de",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ambev-abev3-bate-expectativa-do-mercado-e-lucro-avanca-245-no-2t26-a-r-347-bilhoes-lmrs/",
-      "time": "2026-07-30T11:02:27Z",
-      "cat": "acoes",
-      "tickers": [
-        "ABEV3"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/ambev-4.jpg"
+      "url": "https://www.moneytimes.com.br/wall-street-abertura-30-7-26-lils/",
+      "time": "2026-07-30T13:40:48Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/2026-07-06t134208z-1-lynxmpem650w6-rtroptp-4-usa-stocks-economy-investors-e1784123087988.jpg"
     },
     {
-      "title": "Samsung registra lucro líquido recorde impulsionado por venda de chips",
-      "summary": "O lucro líquido da Samsung Electronics disparou 14 vezes no segundo trimestre de 2026, à medida que o desempenho de sua principal divisão de semicondutores, impulsionado pela forte demanda por chips avançados de inteligê",
+      "title": "Vale (VALE3), Bradesco (BBDC4), Ambev (ABEV3) e outros destaques desta quinta (30)",
+      "summary": "As expectativas do mercado para o balanço da Vale (VALE3), o aumento de capital do Bradesco (BBDC3;BBDC4) e o resultado do 2T26 e a aprovação de JCP da Ambev (ABEV3) são alguns dos destaques corporativos desta quinta-fei",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/samsung-registra-lucro-liquido-recorde-impulsionado-por-venda-de-chips/",
-      "time": "2026-07-30T10:46:00Z",
+      "url": "https://www.moneytimes.com.br/vale-vale3-bradesco-bbdc4-ambev-abev3-e-outros-destaques-desta-quinta-30-ceci/",
+      "time": "2026-07-30T13:00:41Z",
       "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/samsung-reuters.jpg"
+      "tickers": [
+        "VALE3",
+        "BBDC4",
+        "ABEV3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/vale-alta-vale3.png"
     }
   ],
   "all": [
     {
-      "title": "Usiminas (USIM5) vê lucro mais que triplicar no 2T, para R$ 428 milhões",
-      "summary": "A receita líquida somou R$ 6,131 bilhões no segundo trimestre de 2026",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/usiminas-usim5-resultados-segundo-trimestre-2026/",
-      "time": "2026-07-30T11:05:31Z",
-      "cat": "acoes",
-      "tickers": [
-        "USIM5"
-      ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2023/12/2023-12-19T145126Z_1_LYNXMPEJBI0KZ_RTROPTP_4_BRAZIL-USIMINAS-BLASTFURNACE.jpg?fit=300%2C193&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Intelbras (INTB3) tem alta de 16% no lucro no 2T e anuncia R$ 93 mi em proventos",
-      "summary": "Companhia registrou lucro líquido de R$ 158,3 milhões no segundo trimestre",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/intelbras-intb3-resultados-segundo-trimestre-2026/",
-      "time": "2026-07-30T10:57:08Z",
-      "cat": "acoes",
-      "tickers": [
-        "INTB3"
-      ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2022/12/intelbras-solar.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta",
-      "summary": "Futuros nos EUA avançam com balanços de tecnologia e busca por recuperação",
+      "title": "Ibovespa Hoje Ao Vivo: Bolsa abre em alta, com exterior e dados econômicos",
+      "summary": "Índices nos EUA abrem com ganhos, após dados econômicos benignos",
       "source": "InfoMoney",
       "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-30072026/",
-      "time": "2026-07-30T10:46:20Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-7-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Lucro ajustado da Profarma sobe para R$ 31,7 mi no 2º tri",
-      "summary": "A ​companhia apurou lucro antes de juros, impostos, ‌depreciação e ​amortização (Ebitda) ajustado de R$126,6 milhões",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/profarma-pfrm3-segundo-trimestre-2026/",
-      "time": "2026-07-30T10:42:56Z",
+      "time": "2026-07-30T13:53:31Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/10/medicine-1728381_1920.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Ibovespa-ao-vivo-16.png?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Morgan vê alívio para ações do Brasil após Fed, mas aponta que “limbo” não acabou",
-      "summary": "Pausa do Fed favorece fluxo para emergentes e sustenta visão positiva para a América Latina, mas Morgan Stanley alerta que incertezas sobre inflação e juros nos EUA ainda limitam uma reprecificação mais forte da bolsa br",
+      "title": "Bradsaúde (SAUD3): JPMorgan retoma cobertura com compra após restrição e ação sobe",
+      "summary": "A Bradsaúde é a plataforma de saúde listada do Bradesco, reunindo operações de seguros médicos e odontológicos",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/morgan-stanley-ve-alivio-para-acoes-do-brasil-apos-fed-mas-aponta-que-limbo-nao-acabou/",
-      "time": "2026-07-30T10:40:33Z",
+      "url": "https://www.infomoney.com.br/mercados/bradsaude-saud3-jpmorgan-retoma-cobertura-com-compra-apos-restricao-e-acao-sobe/",
+      "time": "2026-07-30T13:45:20Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Captura-de-tela-2026-06-30-153647.png?fit=300%2C211&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/bradsaude.jpeg?fit=300%2C169&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Alliança Saúde aumenta prejuízo ajustado para R$ 48,9 mi no 4º tri",
-      "summary": "A receita ​líquida ⁠ajustada, no entanto, aumentou ⁠em 5,2% para R$ 271,9 milhões",
+      "title": "BMW tem lucro acima do esperado com novos modelos e redução de despesas",
+      "summary": "As ações da BMW avançavam 0,7% nas primeiras negociações em Frankfurt. Apesar disso, acumulam queda de cerca de um terço no ano",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/allianca-saude-aumenta-prejuizo-ajustado-para-r-489-mi-no-4o-tri/",
-      "time": "2026-07-30T10:26:37Z",
+      "url": "https://www.infomoney.com.br/mercados/bmw-tem-lucro-acima-do-esperado-com-novos-modelos-e-reducao-de-despesas/",
+      "time": "2026-07-30T13:36:13Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/16897.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/10/2024-10-04T193856Z_1_LYNXMPEK930PM_RTROPTP_4_BMW-OUTLOOK.jpg?fit=300%2C210&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Eleições 2026: o que o trader deve observar antes de operar índice e dólar",
-      "summary": "Rafael Perretti, analista da Clear, explica como pesquisas e notícias podem ampliar a volatilidade nos contratos futuros",
+      "title": "Usiminas entrega 2T em linha, mas ação cai forte com sinais negativos para frente",
+      "summary": "Após resultados fortes, siderúrgicas sinaliza perda de fôlego nos próximos trimestres",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/eleicoes-2026-podem-elevar-volatilidade-na-bolsa-segundo-rafael-perretti/",
-      "time": "2026-07-30T10:25:00Z",
-      "cat": "economia",
+      "url": "https://www.infomoney.com.br/mercados/usiminas-usim5-entrega-2t-em-linha-mas-sinaliza-perda-de-folego-no-2o-semestre-desempenho-acoes/",
+      "time": "2026-07-30T13:25:37Z",
+      "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Rafael-Perretti-Expert-XP-2026.jpeg?fit=300%2C194&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/08/usiminas.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Minidólar (WDOQ26): PIB dos EUA e tensão no Oriente Médio elevam cautela",
-      "summary": "Saiba o que esperar para o minidólar nesta quinta (30)",
+      "title": "Apple: após alta de mais de 24% em 2026, balanço pode impactar rali?",
+      "summary": "As ações da Apple vivem um forte rali, acumulando alta de 17% em julho e caminhando para registrar seu melhor mês em quatro anos",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdoq26-30072026/",
-      "time": "2026-07-30T10:08:00Z",
-      "cat": "economia",
+      "url": "https://www.infomoney.com.br/mercados/apos-subir-mais-de-24-em-2026-balanco-da-apple-pode-impactar-rali/",
+      "time": "2026-07-30T13:24:22Z",
+      "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/WDOQ26-15-MINUTOS-30.07.2026.png?fit=300%2C137&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-10T214714Z_1_LYNXMPEM691B1_RTROPTP_4_APPLE-OPENAI-LAWSUIT.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Ambev (ABEV3) bate expectativa do mercado e lucro avança 24,5% no 2T26, a R$ 3,47 bilhões",
-      "summary": "A Ambev (ABEV3) reportou lucro líquido de R$ 3,47 bilhões referente ao segundo trimestre de 2026, um avanço de 24,5% no ano, mostra relatório de resultados divulgado nesta quinta-feira (30). Na linha ajustada, o resultad",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ambev-abev3-bate-expectativa-do-mercado-e-lucro-avanca-245-no-2t26-a-r-347-bilhoes-lmrs/",
-      "time": "2026-07-30T11:02:27Z",
+      "title": "Ambev (ABEV3) frustra projeções no 2º tri, apesar de lucro forte; ação tem queda",
+      "summary": "Receita e Ebitda ficaram abaixo das expectativas do mercado no 2T26, enquanto o lucro foi impulsionado por efeitos financeiros; analistas veem impacto da Copa menor do que o esperado",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ambev-abev3-frustra-projecoes-no-2t-apesar-de-lucro-forte-mercado-olha-alem-do-efeito-copa-desempenho-acoes/",
+      "time": "2026-07-30T13:15:52Z",
       "cat": "acoes",
       "tickers": [
         "ABEV3"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/ambev-4.jpg"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2021/12/Fabrica-de-Vidros_Ambev.jpeg?fit=300%2C198&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Bolsas da Ásia fecham majoritariamente em baixa; Kospi estende perdas com ações ligadas à IA",
-      "summary": "As bolsas asiáticas fecharam majoritariamente em baixa nesta quinta-feira, com a da Coreia do Sul estendendo perdas de mais de 16% dos últimos dois dias, em uma onda de vendas liderada por ações ligadas à inteligência ar",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bolsas-da-asia-fecham-majoritariamente-em-baixa-kospi-estende-perdas-com-acoes-ligadas-a-ia/",
-      "time": "2026-07-30T11:00:00Z",
+      "title": "Mais negociadas: as ações preferidas dos investidores nos primeiros 6 meses de 2026",
+      "summary": "Vale ocupou a primeira posição em janeiro e fevereiro, enquanto a Petrobras assumiu o topo em março e permaneceu na liderança até junho",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/mais-negociadas-as-acoes-preferidas-dos-investidores-nos-primeiros-6-meses-de-2026/",
+      "time": "2026-07-30T13:02:55Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/hong-kong.jpg"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/stock-trading-6525081_1280.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Mercado de trabalho deve ditar a política monetária no médio prazo, avalia economista-chefe do Daycoval",
-      "summary": "Os dados recentes mais benignos da inflação não foram suficientes para alterar as estimativas do Banco Daycoval para o Índice Nacional de Preços ao Consumidor Amplo (IPCA) e a Selic em 2026. A instituição segue com previ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/mesmo-com-ipca-mais-fraco-mercado-de-trabalho-deve-ditar-a-politica-monetaria-no-medio-prazo-avalia-economista-chefe-do-daycoval-apsa/",
-      "time": "2026-07-30T11:00:00Z",
+      "title": "iPhones, notebooks e carros com descontos: entenda o leilão eletrônico da Receita",
+      "summary": "Mercadorias foram apreendidas ou abandonadas. Propostas poderão ser encaminhadas até a próxima segunda-feira, exclusivamente pelo Portal e-CAC do Fisco. Saiba como participar",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/consumo/iphones-notebooks-e-carros-com-descontos-entenda-o-leilao-eletronico-da-receita/",
+      "time": "2026-07-30T12:54:22Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/foto-rafael-daycoval-e1785343283274.jpeg"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/2024-05-20T092116Z_1353108607_RC2DD3AMVTGJ_RTRMADP_3_APPLE-CHINA-SALES-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Bolsas da Europa avançam após surpresa positiva com dados de crescimento e balanços",
-      "summary": "As bolsas europeias avançam na manhã desta quinta-feira (30), enquanto investidores avaliam dados de crescimento da zona do euro melhores do que o esperado e balanços de grandes empresas da região, à espera da decisão de",
+      "title": "Usiminas (USIM5): Confira o cenário técnico em meio à divulgação dos resultados",
+      "summary": "USIM5 acumula alta de 39,33% em 2026; rompimento de R$ 12,18 pode reativar o fluxo comprador.",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/usiminas-usim5-confira-o-cenario-tecnico-em-meio-a-divulgacao-dos-resultados/",
+      "time": "2026-07-30T12:51:38Z",
+      "cat": "acoes",
+      "tickers": [
+        "USIM5"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/USIMINAS-USIM5-SEMANAL-30.07.2026.png?fit=300%2C137&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Dólar hoje opera em queda com cenário externo e dados dos EUA no radar",
+      "summary": "Moeda acompanha queda da moeda norte-americana ante outras divisas no exterior",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-30072026/",
+      "time": "2026-07-30T12:49:02Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/448264696.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Fiscal é a principal pedra no sapato para o Brasil alcançar o grau de investimento, segundo a Moody’s",
+      "summary": "Ao olhar para a nota soberana de um país, a agência de classificação de risco Moodys olha para três fatores: força econômica, força governamental e institucional, e força fiscal. A última, porém, segue como um impeditivo",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bolsas-da-europa-avancam-apos-surpresa-positiva-com-dados-de-crescimento-e-balancos/",
-      "time": "2026-07-30T10:53:29Z",
+      "url": "https://www.moneytimes.com.br/fiscal-continua-sendo-a-pedra-no-sapato-para-melhora-no-grau-de-investimento-do-brasil-segundo-a-moodys-apsa/",
+      "time": "2026-07-30T13:56:46Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2023/03/moodys.jpg"
+    },
+    {
+      "title": "Wall Street avança e tenta recuperar perdas no dia seguinte ao Fed; Microsoft dispara 14% após balanço",
+      "summary": "Os índices de Wall Street operam em alta nos primeiros minutos do pregão na tentativa de recuperação as fortes perdas da véspera, com reação ao balanço da Microsoft (MSFT) e uma bateria de dados macroeconômicos após a de",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/wall-street-abertura-30-7-26-lils/",
+      "time": "2026-07-30T13:40:48Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/europa-2-2.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/2026-07-06t134208z-1-lynxmpem650w6-rtroptp-4-usa-stocks-economy-investors-e1784123087988.jpg"
     },
     {
-      "title": "Samsung registra lucro líquido recorde impulsionado por venda de chips",
-      "summary": "O lucro líquido da Samsung Electronics disparou 14 vezes no segundo trimestre de 2026, à medida que o desempenho de sua principal divisão de semicondutores, impulsionado pela forte demanda por chips avançados de inteligê",
+      "title": "Ibovespa sobe com melhora do humor externo e à espera de Vale (VALE3); 5 coisas para saber antes de investir hoje (30)",
+      "summary": "O Ibovespa (IBOV) acompanha a melhora do humor externo, apesar da escalada das tensões geopolíticas. Bateria de dados de mercado de trabalho e inflação no Brasil e nos Estados Unidos dividem as atenções, enquanto os inve",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/samsung-registra-lucro-liquido-recorde-impulsionado-por-venda-de-chips/",
-      "time": "2026-07-30T10:46:00Z",
+      "url": "https://www.moneytimes.com.br/ibovespa-5-coisas-30-7-26-lils/",
+      "time": "2026-07-30T13:11:44Z",
       "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/samsung-reuters.jpg"
+      "tickers": [
+        "VALE3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/ibovespa-day-trade-2-1-1-1-2-1-1-1-1-1-1-1-1-1.jpg"
     },
     {
-      "title": "Chanceler argentino diz que país busca ampliar ao máximo abertura e flexibilidade do Mercosul",
-      "summary": "O chanceler argentino Pablo Quirno afirmou nesta quarta-feira (29) que o Mercosul seguirá em funcionamento e defendeu que a Argentina busca ampliar ao máximo a abertura e a flexibilidade do bloco, para evitar ficar limit",
+      "title": "Vale (VALE3), Bradesco (BBDC4), Ambev (ABEV3) e outros destaques desta quinta (30)",
+      "summary": "As expectativas do mercado para o balanço da Vale (VALE3), o aumento de capital do Bradesco (BBDC3;BBDC4) e o resultado do 2T26 e a aprovação de JCP da Ambev (ABEV3) são alguns dos destaques corporativos desta quinta-fei",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/chanceler-argentino-diz-que-pais-busca-ampliar-ao-maximo-abertura-e-flexibilidade-do-mercosul/",
-      "time": "2026-07-30T10:40:00Z",
+      "url": "https://www.moneytimes.com.br/vale-vale3-bradesco-bbdc4-ambev-abev3-e-outros-destaques-desta-quinta-30-ceci/",
+      "time": "2026-07-30T13:00:41Z",
+      "cat": "acoes",
+      "tickers": [
+        "VALE3",
+        "BBDC4",
+        "ABEV3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/vale-alta-vale3.png"
+    },
+    {
+      "title": "MCCI11 investe R$ 100 milhões em CRIs e rende 13,5% ao ano aos cotistas",
+      "summary": "Os rendimentos do MCCI11 referentes à competência de junho foram de R$ 1,00 por cota, pagos aos cotistas em julho. No mês, o fundo apurou resultado de R$ 16,675 milhões, com receitas totais de R$ 18,000 milhões e despesa",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/rendimentos-do-mcci11-resultado-junho/",
+      "time": "2026-07-30T13:55:45Z",
+      "cat": "acoes",
+      "tickers": [
+        "MCCI11"
+      ],
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
+    },
+    {
+      "title": "RZAG11: Fiagro com yield de 1,39% no mês divulga lucro 23,3% maior; confira quanto",
+      "summary": "O fundo apurou resultado de R$ 8,260 milhões em junho, avanço de 23,3% na comparação com maio. As receitas totais do período somaram R$ 9,387 milhões, frente a despesas de R$ 782 mil, conforme relatório mensal. O rendime",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/rzag11-resultado-junho-rendimento-desconto/",
+      "time": "2026-07-30T13:15:06Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/bandeira-do-mercosul.jpg"
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/analista-financeiro-1_12-2.webp"
+    },
+    {
+      "title": "Ambev (ABEV3) supera projeções no 2T26 com lucro de R$ 3,47 bi; veja detalhes",
+      "summary": "A Ambev (ABEV3) registrou um lucro líquido de R$ 3,47 bilhões no segundo trimestre de 2026, resultado 24,5% superior ao apurado no mesmo período do ano anterior. O desempenho surpreendeu o mercado: o consenso de analista",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ambev-abev3-lucro-2t26-resultado-supera-consenso-go/",
+      "time": "2026-07-30T12:55:04Z",
+      "cat": "acoes",
+      "tickers": [
+        "ABEV3"
+      ],
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/67c033e6-ambev-distribuicao-jpg.webp"
+    },
+    {
+      "title": "Com resultado 14,4% maior, CPTS11 paga 125,9% do CDI; entenda",
+      "summary": "O fundo imobiliário CPTS11 encerrou junho com resultado de R$ 36,879 milhões, alta de 14,4% frente a maio, superando em mais de R$ 4 milhões o apurado no mês anterior. As receitas totais atingiram R$ 48,072 milhões, enqu",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/cpts11-resultado-junho-rendimentos-desconto/",
+      "time": "2026-07-30T12:45:07Z",
+      "cat": "economia",
+      "tickers": [
+        "CPTS11"
+      ],
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/94_Close_de_gr_fico_fin_1_2026017_161941-1-jpg.webp"
+    },
+    {
+      "title": "Usiminas (USIM5) tem lucro líquido de R$ 428 milhões no 2T, alta de 236%",
+      "summary": "Usiminas (USIM5) - Foto: PexelsA Usiminas (USIM5) apresentou lucro líquido de R$ 428 milhões no segundo trimestre de 2026, uma alta de 236% em comparação com igual período de 2025. A companhia afirma que a melhora gradua",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/usiminas-usim5-registra-lucro-liquido-de-r-428-milhoes-no-2o-trimestre-go/",
+      "time": "2026-07-30T12:15:00Z",
+      "cat": "acoes",
+      "tickers": [
+        "USIM5"
+      ],
+      "image": "https://files.sunoresearch.com.br/n/uploads/2023/04/pexels-anamul-rezwan-1145434-1.jpg"
     },
     {
       "title": "VSHO11: fundo imobiliário vende participação em dois shoppings",
@@ -221,167 +287,85 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/80_Profissional_finance_1_2026017_161622-1-jpg.webp"
     },
     {
-      "title": "VRTA11 registra resultado de R$ 12,7 milhões e reforça carteira de CRIs",
-      "summary": "O fundo imobiliário VRTA11 encerrou junho com resultado de R$ 12,65 milhões e manteve a distribuição de R$ 0,85 por cota. A gestão reiterou a diretriz de aumentar a participação em Certificados de Recebíveis Imobiliários",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/vrta11-registra-resultado-de-r-127-milhoes-e-reforca-carteira-de-cris/",
-      "time": "2026-07-29T22:25:06Z",
-      "cat": "analise",
-      "tickers": [
-        "VRTA11"
-      ],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/close-de-notebook-ex-1_01_novo-2.webp"
-    },
-    {
-      "title": "IFIX fecha em queda e recua para 3.797,33 pontos",
-      "summary": "O IFIX terminou o pregão desta quarta-feira (29) em 3.797,33 pontos, queda de 0,26%. O recuo equivale a 9,84 pontos em relação ao fechamento anterior, mantendo o índice no campo negativo na variação diária. Ao longo da s",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/ifix-fecha-em-queda-e-recua-para-3-79733-pontos/",
-      "time": "2026-07-29T22:05:06Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/14_Detalhe_de_m_os_segu_1_2026017_155929-3-jpg.webp"
-    },
-    {
-      "title": "Mirando novos investimentos, SNCI11 lucra R$ 4,8 milhões em junho",
-      "summary": "O fundo imobiliário registrou em junho resultado líquido de R$ 4,83 milhões e manteve a distribuição de R$ 1,00 por cota. O patamar está alinhado ao guidance para o terceiro trimestre de 2026, que indica pagamentos entre",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/mirando-novos-investimentos-snci11-lucra-r-48-milhoes-em-junho/",
-      "time": "2026-07-29T21:15:16Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
-    },
-    {
-      "title": "Ibovespa cai 1,52% após Fed manter juros e tensão no Oriente Médio ganhar força",
-      "summary": "O Ibovespa encerrou o pregão desta quarta-feira (29) em forte queda, pressionado pelo aumento da aversão ao risco nos mercados globais após o Federal Reserve (Fed) manter os juros dos Estados Unidos e reforçar um discurs",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-29-julho-2026-fed-petr4-mt/",
-      "time": "2026-07-29T20:55:08Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
-    },
-    {
-      "title": "Petróleo dispara 7% com tensão entre EUA e Irã; veja o que mexeu nos preços",
-      "summary": "Petróleo. Foto: Pixabay.O petróleo voltou a subir com força nesta quarta-feira (29), depois de dias de queda, em meio à retomada dos ataques entre Estados Unidos e Irã no Oriente Médio e ao temor de uma escalada rápida d",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/petroleo-dispara-eua-ira-oriente-medio-brent-wti-mt/",
-      "time": "2026-07-29T20:30:24Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2024/04/flame-2720980_1280.jpg"
-    },
-    {
-      "title": "Motiva tem lucro de R$ 1,4 bilhão no 2º tri com impulso de concessão da Fernão Dias",
-      "summary": "Operacional cresceu com o avanço das novas concessões, mas ambiente de juros altos manteve o resultado financeiro sob pressão",
+      "title": "Receita Federal: último dia para dar lances em leilão com iPhone 17 Pro Max e carros; veja como",
+      "summary": "Interessados têm até esta quinta-feira para enviar propostas por lotes de mercadorias apreendidas, que incluem iPhones, notebooks, videogames e veículos",
       "source": "Exame",
-      "url": "https://exame.com/invest/mercados/motiva-tem-lucro-de-r-14-bilhao-no-2o-tri-com-impulso-de-concessao-da-fernao-dias/",
-      "time": "2026-07-30T07:50:41Z",
+      "url": "https://exame.com/invest/minhas-financas/receita-federal-ultimo-dia-para-dar-lances-em-leilao-com-iphone-17-pro-max-e-carros/",
+      "time": "2026-07-30T10:48:55Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/03/Motiva.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/03/leilao-linha-de-transmissao.jpeg"
     },
     {
-      "title": "Rede de ensino arrecada 7 toneladas de alimentos em ação que une esporte e solidariedade",
-      "summary": "Como a integração entre esporte e filantropia corporativa mobiliza comunidades escolares no Brasil",
-      "source": "Exame",
-      "url": "https://exame.com/bussola/rede-de-ensino-arrecada-7-mil-kg-de-alimentos-unindo-esporte-e-solidariedade/",
-      "time": "2026-07-30T07:00:31Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/Esporte-solidariedade-e-educacao-Elite.png"
-    },
-    {
-      "title": "Por que as ações da Cigna estão caindo hoje?",
+      "title": "Por que as ações da Belden estão disparando hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-cigna-estao-caindo-hoje-93CH-2019816",
-      "time": "2026-07-30T10:49:04Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-belden-estao-disparando-hoje-93CH-2020308",
+      "time": "2026-07-30T13:32:50Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+      "image": "https://i-invdn-com.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg"
     },
     {
-      "title": "Por que as ações da Air Products and Chemicals estão subindo hoje?",
+      "title": "Por que as ações da XPO estão disparando hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-air-products-and-chemicals-estao-subindo-hoje-93CH-2019810",
-      "time": "2026-07-30T10:47:15Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-xpo-estao-disparando-hoje-93CH-2020304",
+      "time": "2026-07-30T13:28:39Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+      "image": "https://i-invdn-com.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
     },
     {
-      "title": "Por que as ações da Bucher Industries estão caindo hoje?",
+      "title": "Por que as ações da PBF Energy estão disparando hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-bucher-industries-estao-caindo-hoje-93CH-2019803",
-      "time": "2026-07-30T10:45:01Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-pbf-energy-estao-disparando-hoje-93CH-2020302",
+      "time": "2026-07-30T13:28:24Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+      "image": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM3N196_1200_L.jpg"
     },
     {
-      "title": "Ações da Sprouts Farmers Market disparam após resultados do 2º tri",
+      "title": "TSMC avança sobre o território da Intel; entenda por que as ações sobem mesmo assim",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-sprouts-farmers-market-disparam-apos-resultados-do-2o-tri-93CH-2019802",
-      "time": "2026-07-30T10:44:36Z",
+      "url": "https://br.investing.com/news/stock-market-news/tsmc-avanca-sobre-o-territorio-da-intel-entenda-por-que-as-acoes-sobem-mesmo-assim-2020305",
+      "time": "2026-07-30T13:27:23Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB5S0BB_M.jpg"
     },
     {
-      "title": "Por que as ações da Kion estão caindo hoje?",
+      "title": "Ibovespa abre em alta com balanços e dados no foco",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-kion-estao-caindo-hoje-93CH-2019776",
-      "time": "2026-07-30T10:39:58Z",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-abre-em-alta-com-balancos-e-dados-no-foco-2020293",
+      "time": "2026-07-30T13:21:41Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB7N0OD_M.jpg"
     },
     {
-      "title": "Índia - Ações fecharam o pregão em alta e o Índice Nifty 50 avançou 0,28%",
+      "title": "HSBC rebaixa Procter & Gamble para \"manter\" com reinvestimento pesando nas perspectivas",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/india--acoes-fecharam-o-pregao-em-alta-e-o-indice-nifty-50-avancou-028-2019752",
-      "time": "2026-07-30T10:30:32Z",
+      "url": "https://br.investing.com/news/stock-market-news/hsbc-rebaixa-procter--gamble-para-manter-com-reinvestimento-pesando-nas-perspectivas-2020288",
+      "time": "2026-07-30T13:15:07Z",
       "cat": "internacional",
       "tickers": [],
-      "image": null
+      "image": "https://content-media.investing.com/news/LYNXMPEE0M0W8_L.jpg"
     },
     {
-      "title": "Alliança Saúde aumenta prejuízo ajustado para R$48,9 mi no 4º tri",
+      "title": "Por que as ações da Rio Tinto estão subindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/allianca-saude-aumenta-prejuizo-ajustado-para-r489-mi-no-4o-tri-2019745",
-      "time": "2026-07-30T10:28:07Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-rio-tinto-estao-subindo-hoje-93CH-2020270",
+      "time": "2026-07-30T13:09:14Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB0508S_M.jpg"
-    },
-    {
-      "title": "Por que as ações da Haleon caem hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-haleon-caem-hoje-93CH-2019726",
-      "time": "2026-07-30T10:20:07Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Por que a ação da Core Scientific está subindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-a-acao-da-core-scientific-esta-subindo-hoje-93CH-2019724",
-      "time": "2026-07-30T10:19:03Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6R0AQ_L.jpg"
     }
   ],
-  "atualizado_em": "30/07/2026 11:08"
+  "atualizado_em": "30/07/2026 13:59"
 }
