@@ -1,39 +1,57 @@
 {
   "headline": {
-    "title": "Citi corta preço-alvo da Petrobras (PETR4), mas vê alta nos dividendos após resultado do 2T26",
-    "summary": "O Citi reduziu o preço-alvo das ações da Petrobras (PETR4), mas segue esperando um segundo trimestre forte para a estatal, impulsionado pelo aumento da produção de petróleo e gás e pela recuperação dos preços da commodit",
-    "source": "Money Times",
-    "url": "https://www.moneytimes.com.br/citi-corta-preco-alvo-da-petrobras-petr4-mas-ve-alta-nos-dividendos-apos-resultado-do-2t26-vtra/",
-    "time": "2026-07-30T17:42:26Z",
-    "cat": "fundos",
-    "tickers": [
-      "PETR4"
-    ],
-    "image": "https://www.moneytimes.com.br/uploads/2026/07/petrobras-queda-petr3-petr4.png"
+    "title": "PIB dos EUA decepciona, mas detalhe do dado acende alerta para o Fed",
+    "summary": "A economia dos EUA pisou no freio no segundo trimestre, mas não exatamente onde o mercado esperava. O PIB dos EUA cresceu a uma taxa anualizada de 1,5% entre abril e junho, abaixo dos 2,1% projetados por economistas cons",
+    "source": "Suno",
+    "url": "https://www.suno.com.br/noticias/pib-dos-eua-crescimento-fed-mercados-mt/",
+    "time": "2026-07-30T19:15:06Z",
+    "cat": "economia",
+    "tickers": [],
+    "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
   },
   "featured": [
     {
-      "title": "Ouro ganha força e sobe 1% com leitura de Fed mais ‘tolerante’ a inflação",
-      "summary": "O ouro encerrou o pregão desta quinta-feira (30) em alta, ganhando espaço com o enfraquecimento do dólar em reação à decisão de política monetária do Banco Central dos Estados Unidos, o Federal Reserve (Fed), e à postura",
+      "title": "Rumores de uma nova intervenção do Japão no câmbio derruba dólar no mercado global",
+      "summary": "O dólar registra forte queda nesta quinta-feira (30), em meio a suspeitas de uma nova intervenção no câmbio pelo governo do Japão. A moeda norte-americana já vinha sendo pressionada desde o início da manhã, em meio às in",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ouro-30-7-26-lils/",
-      "time": "2026-07-30T18:21:37Z",
+      "url": "https://www.moneytimes.com.br/rumores-de-uma-nova-intervencao-do-japao-no-cambio-derruba-dolar-no-mercado-global-lils/",
+      "time": "2026-07-30T18:57:27Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2024/05/ouro-china-valor-recorde-devolve-ganhos.webp"
+      "image": "https://www.moneytimes.com.br/uploads/2024/08/dolar-iene-mercados.jpg"
     },
     {
-      "title": "Bolsas da Europa fecham em alta com PIB forte; FTSE 100 destoa e cai após decisão de juros",
-      "summary": "Os índices europeus terminaram o pregão desta quinta-feira (30) em alta, impulsionados por balanços corporativos sólidos em setores cíclicos, como o financeiro e o industrial. O índice pan-europeu Stoxx 600 encerrou as n",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/europa-30-7-26-lils/",
-      "time": "2026-07-30T17:46:46Z",
+      "title": "Governo Central tem déficit primário de R$ 48,178 bilhões em junho, afirma Tesouro",
+      "summary": "Déficit primário do mês passado foi maior do que o registrado em junho de 2025",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/economia/governo-central-tem-deficit-primario-de-r-48178-bilhoes-em-junho-afirma-tesouro/",
+      "time": "2026-07-30T18:37:39Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2021/08/europa-2.jpg"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/09/ministerio-da-fazenda.jpg?fit=300%2C176&amp;quality=70&amp;strip=all"
     }
   ],
   "all": [
+    {
+      "title": "Petróleo cai com discussões sobre Ormuz avançando apesar de ataques EUA-Irã",
+      "summary": "A commodity energética passou a cair depois que o Irã afirmou que as negociações com Omã sobre a gestão do Estreito de Ormuz seguem em andamento",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-30072026/",
+      "time": "2026-07-30T19:20:21Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/hormuz-estreito-guerra-ira-eua-petroleo.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Governo Central tem déficit primário de R$ 48,178 bilhões em junho, afirma Tesouro",
+      "summary": "Déficit primário do mês passado foi maior do que o registrado em junho de 2025",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/economia/governo-central-tem-deficit-primario-de-r-48178-bilhoes-em-junho-afirma-tesouro/",
+      "time": "2026-07-30T18:37:39Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/09/ministerio-da-fazenda.jpg?fit=300%2C176&amp;quality=70&amp;strip=all"
+    },
     {
       "title": "Inflação, eleições e longevidade redefinem os desafios do investidor moderno",
       "summary": "Especialistas explicam por que inflação, eleições, longevidade, tributação e sucessão exigem uma gestão patrimonial que vai muito além da escolha dos investimentos",
@@ -45,34 +63,78 @@
       "image": "https://www.infomoney.com.br/wp-content/uploads/2019/11/shutterstock_593873471.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Bolsa já vive a ‘terceira onda’ com potencial de forte alta, dizem Moraes e Stormer",
-      "summary": "Após aproveitarem melhor o segundo ciclo, traders querem preparar investidores para a possível terceira onda",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/bolsa-ja-vive-terceira-onda-com-potencial-de-forte-alta-dizem-moraes-stormer/",
-      "time": "2026-07-30T18:00:00Z",
+      "title": "Justiça homologa plano de recuperação extrajudicial da Raízen (RAIZ4)",
+      "summary": "A Justiça de São Paulo homologou nesta quinta-feira (30) o plano de recuperação extrajudicial da Raízen (RAIZ4), que prevê a reestruturação de aproximadamente R$ 65 bilhões em dívidas financeiras. A sentença foi proferid",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/justica-homologa-plano-de-recuperacao-extrajudicial-da-raizen-raiz4-vtra/",
+      "time": "2026-07-30T19:52:21Z",
       "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Andre-Moraes-e-Stormer-Expert-XP-2026.-Imagem-Bruno-Nadai.jpeg?fit=300%2C211&amp;quality=70&amp;strip=all"
+      "tickers": [
+        "RAIZ4"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/raizen.jpg"
     },
     {
-      "title": "Quanto falta para você viver de dividendos? Calcule agora",
-      "summary": "Planilha gratuita ajuda a estimar quanto precisa acumular em FIIs para buscar uma renda mensal",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/minhas-financas/quanto-falta-para-voce-viver-de-dividendos-calcule-agora/",
-      "time": "2026-07-30T17:41:46Z",
-      "cat": "fundos",
+      "title": "Petróleo recua 1% com continuidade nas discussões sobre o controle de Ormuz",
+      "summary": "Após a disparada de 7% na véspera, os preços do petróleo voltaram a cair nesta quinta-feira (30) com as afirmações do Irã de que o diálogo com Omã para negociar a administração do Estreito de Ormuz continua, em meio à re",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/petroleo-30-7-26-apsa/",
+      "time": "2026-07-30T19:49:06Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/image-1785350914561.png?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/petroleo-commodity-ormuz-wti-brent.jpg"
     },
     {
-      "title": "Ex-delegado tributário fecha delação sobre propinas bilionárias na Fazenda paulista",
-      "summary": "Após a homologação do acordo, a Justiça determinou o levantamento imediato do bloqueio e sequestro de bens e de restrições impostas anteriormente a Paulo Sérgio Siqueira do Prado",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/ex-delegado-tributario-fecha-delacao-sobre-propinas-bilionarias-na-fazenda-paulista/",
-      "time": "2026-07-30T17:33:20Z",
+      "title": "Rumores de uma nova intervenção do Japão no câmbio derruba dólar no mercado global",
+      "summary": "O dólar registra forte queda nesta quinta-feira (30), em meio a suspeitas de uma nova intervenção no câmbio pelo governo do Japão. A moeda norte-americana já vinha sendo pressionada desde o início da manhã, em meio às in",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/rumores-de-uma-nova-intervencao-do-japao-no-cambio-derruba-dolar-no-mercado-global-lils/",
+      "time": "2026-07-30T18:57:27Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2024/08/dolar-iene-mercados.jpg"
+    },
+    {
+      "title": "Etanol lidera queda de combustíveis em julho, afirma Veloe/Fipe",
+      "summary": "Os preços médios dos combustíveis voltaram a cair em julho, com recuo em cinco dos seis produtos acompanhados pelo Monitor de Preços de Combustíveis da Veloe em parceria com a Fipe. A maior queda foi do etanol hidratado ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/etanol-lidera-queda-de-combustiveis-em-julho-afirma-veloe-fipe-pads/",
+      "time": "2026-07-30T18:46:19Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Paulo-Sergio-Siqueira-do-Prado.png?fit=300%2C246&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2025/08/etanol-milho-2.jpg"
+    },
+    {
+      "title": "Goldman Sachs aposta em IA e cria plataforma para ampliar retorno de investimentos",
+      "summary": "A Goldman Sachs Asset Management lançou uma plataforma de investimentos baseada em inteligência artificial, a AlphaAI, apostando que a IA se tornará um importante fator impulsionador dos retornos dos investimentos em seu",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/goldman-sachs-aposta-em-ia-e-cria-plataforma-para-ampliar-retorno-de-investimentos-igdl/",
+      "time": "2026-07-30T18:37:12Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/goldman-sachs-1.png"
+    },
+    {
+      "title": "3tentos (TTEN3): Números fracos? Para o Santander, 2T26 traz marcos de longo prazo para a tese; veja recomendação",
+      "summary": "A expectativa por um segundo trimestre mais fraco para a 3tentos (TTEN3) não altera a visão positiva do Santander sobre a companhia. Em relatório divulgado nesta quarta-feira (30), o banco reiterou a recomendação outperf",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/3tentos-tten3-numeros-fracos-para-o-santander-2t26-traz-marcos-de-longo-prazo-para-a-tese-veja-recomendacao-pads/",
+      "time": "2026-07-30T18:36:44Z",
+      "cat": "analise",
+      "tickers": [
+        "TTEN3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/07/3tentos-tten3.jpg"
+    },
+    {
+      "title": "Inteligência artificial: OpenAI corta preços em até 80% para ganhar espaço no mercado",
+      "summary": "A OpenAI reduziu nesta quinta-feira (30) drasticamente os preços de seus modelos de inteligência artificial (IA) de nível básico e intermediário, o que pode intensificar a concorrência no setor em um momento em que clien",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/inteligencia-artificial-openai-corta-precos-em-ate-80-para-ganhar-espaco-no-mercado-igdl/",
+      "time": "2026-07-30T18:29:34Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/ilustracao-com-o-logotipo-da-openai-11-de-junho-de-2026-reutersdado-ruvic.png"
     },
     {
       "title": "Ouro ganha força e sobe 1% com leitura de Fed mais ‘tolerante’ a inflação",
@@ -95,48 +157,14 @@
       "image": "https://www.moneytimes.com.br/uploads/2022/03/img-2-russiapagamentos.jpg"
     },
     {
-      "title": "Bolsas da Europa fecham em alta com PIB forte; FTSE 100 destoa e cai após decisão de juros",
-      "summary": "Os índices europeus terminaram o pregão desta quinta-feira (30) em alta, impulsionados por balanços corporativos sólidos em setores cíclicos, como o financeiro e o industrial. O índice pan-europeu Stoxx 600 encerrou as n",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/europa-30-7-26-lils/",
-      "time": "2026-07-30T17:46:46Z",
+      "title": "PIB dos EUA decepciona, mas detalhe do dado acende alerta para o Fed",
+      "summary": "A economia dos EUA pisou no freio no segundo trimestre, mas não exatamente onde o mercado esperava. O PIB dos EUA cresceu a uma taxa anualizada de 1,5% entre abril e junho, abaixo dos 2,1% projetados por economistas cons",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/pib-dos-eua-crescimento-fed-mercados-mt/",
+      "time": "2026-07-30T19:15:06Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2021/08/europa-2.jpg"
-    },
-    {
-      "title": "Citi corta preço-alvo da Petrobras (PETR4), mas vê alta nos dividendos após resultado do 2T26",
-      "summary": "O Citi reduziu o preço-alvo das ações da Petrobras (PETR4), mas segue esperando um segundo trimestre forte para a estatal, impulsionado pelo aumento da produção de petróleo e gás e pela recuperação dos preços da commodit",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/citi-corta-preco-alvo-da-petrobras-petr4-mas-ve-alta-nos-dividendos-apos-resultado-do-2t26-vtra/",
-      "time": "2026-07-30T17:42:26Z",
-      "cat": "fundos",
-      "tickers": [
-        "PETR4"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/petrobras-queda-petr3-petr4.png"
-    },
-    {
-      "title": "Alta do lucro não convenceu? Ações da Ambev (ABEV3) caem após 2T26; veja o que dizem analistas",
-      "summary": "As ações da Ambev (ABEV3) reagem negativamente ao balanço do segundo trimestre de 2026 (2T26), divulgado nesta quinta-feira (30). A cervejeira reportou lucro líquido de R$ 3,47 bilhões referente ao segundo trimestre de 2",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/alta-do-lucro-nao-convenceu-acoes-da-ambev-abev3-caem-apos-2t26-veja-o-que-dizem-analistas-lmrs/",
-      "time": "2026-07-30T17:02:14Z",
-      "cat": "acoes",
-      "tickers": [
-        "ABEV3"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/fotos-julia-takeashi-8.jpg"
-    },
-    {
-      "title": "Agronegócio: ministros afirmam que governo baterá meta de abertura de mercados",
-      "summary": "Ministros do governo Lula afirmaram em evento do setor de agronegócio nesta quinta-feira (30) que o Brasil caminha para bater a meta de abertura de novos mercados consumidores para seus produtos agrícolas e industriais e",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/agronegocio-ministros-afirmam-que-governo-batera-meta-de-abertura-de-mercados/",
-      "time": "2026-07-30T16:56:35Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2024/06/agronegocio-pis-cofins-exportacoes.jpg"
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     },
     {
       "title": "Embraer (EMBJ3): XP vê nova fase da companhia e aponta o que mudou na tese da ação",
@@ -219,107 +247,107 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/94_Close_de_gr_fico_fin_1_2026017_161941-1-jpg.webp"
     },
     {
-      "title": "Usiminas (USIM5) tem lucro líquido de R$ 428 milhões no 2T, alta de 236%",
-      "summary": "Usiminas (USIM5) - Foto: PexelsA Usiminas (USIM5) apresentou lucro líquido de R$ 428 milhões no segundo trimestre de 2026, uma alta de 236% em comparação com igual período de 2025. A companhia afirma que a melhora gradua",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/usiminas-usim5-registra-lucro-liquido-de-r-428-milhoes-no-2o-trimestre-go/",
-      "time": "2026-07-30T12:15:00Z",
-      "cat": "acoes",
+      "title": "Empresas AI-first: o que é essa filosofia que já redefine o mercado de trabalho",
+      "summary": "Modelo coloca a inteligência artificial no centro das decisões estratégicas e já influencia contratação, produtividade e cultura corporativa",
+      "source": "Exame",
+      "url": "https://exame.com/inteligencia-artificial/empresas-ai-first-o-que-e-essa-filosofia-que-ja-redefine-o-mercado-de-trabalho/",
+      "time": "2026-07-30T16:59:06Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/11062.jpg"
+    },
+    {
+      "title": "Por que Cury, Cyrela e MRV estão entre as maiores altas da B3",
+      "summary": "Queda da inflação e dos juros globais melhora o humor dos investidores com construtoras nesta quinta",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/por-que-cury-cyrela-e-mrv-estao-entre-as-maiores-altas-da-b3/",
+      "time": "2026-07-30T16:44:30Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/Incorporadoras-e-RJs.png"
+    },
+    {
+      "title": "Com a guerra no Irã, BNDES anuncia empréstimos de R$ 13 bi à aviação para outubro",
+      "summary": "Programa disponibiliza R$ 13,5 bilhões com recursos do Fundo Nacional de Aviação Civil para capital de giro e compra de aeronaves após alta dos custos com combustíveis",
+      "source": "Exame",
+      "url": "https://exame.com/brasil/com-a-guerra-no-ira-bndes-anuncia-emprestimos-de-r-13-bi-a-aviacao-para-outubro/",
+      "time": "2026-07-30T16:43:33Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2022/10/gol-linhas-aereas.jpg"
+    },
+    {
+      "title": "Pesquisa mostra que aumento salarial de quem passa por formação de carreira chega a R$9.900/ano",
+      "summary": "Desemprego entre jovens é o dobro da média nacional; dados mostram o que separa quem avança na seleção",
+      "source": "Exame",
+      "url": "https://exame.com/carreira/pesquisa-mostra-que-aumento-salarial-de-quem-passa-por-formacao-de-carreira-chega-a-r9-900-ano/",
+      "time": "2026-07-30T16:21:45Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_saco-dinheiro14.jpg"
+    },
+    {
+      "title": "S&P Global eleva perspectiva da Nokia com demanda de IA e diversificação",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/sp-global-eleva-perspectiva-da-nokia-com-demanda-de-ia-e-diversificacao-93CH-2020703",
+      "time": "2026-07-30T19:23:45Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/moved_LYNXMPEL7L0P4_L.jpg"
+    },
+    {
+      "title": "CURY3: Por que as ações da construtora Cury estão em alta hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/cury3-por-que-as-acoes-da-construtora-cury-estao-em-alta-hoje-2020701",
+      "time": "2026-07-30T19:23:23Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEK4Q0HW_L.jpg"
+    },
+    {
+      "title": "Moody’s eleva rating da HealthEquity com base em forte geração de caixa",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/moodys-eleva-rating-da-healthequity-com-base-em-forte-geracao-de-caixa-93CH-2020697",
+      "time": "2026-07-30T19:19:31Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC180BO_M.jpg"
+    },
+    {
+      "title": "S&P Global melhora perspectiva da TTM Technologies com demanda por IA",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/sp-global-melhora-perspectiva-da-ttm-technologies-com-demanda-por-ia-93CH-2020696",
+      "time": "2026-07-30T19:18:58Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6U08A_M.jpg"
+    },
+    {
+      "title": "TOTS3: Por que as ações da Totvs estão em forte alta hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/tots3-por-que-as-acoes-da-totvs-estao-em-forte-alta-hoje-2020692",
+      "time": "2026-07-30T19:13:25Z",
+      "cat": "internacional",
       "tickers": [
-        "USIM5"
+        "TOTS3"
       ],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2023/04/pexels-anamul-rezwan-1145434-1.jpg"
+      "image": "https://content-media.investing.com/news/Totvs_800x533_L_1599534108.jpg"
     },
     {
-      "title": "‘Mulher, homem ou alien’: o conselho dessa executiva para quem quer entrar no mercado financeiro",
-      "summary": "Mayara Sekertzis conta como o MBA Executivo em Finanças ampliou sua visão sobre clientes, risco e estratégia",
-      "source": "Exame",
-      "url": "https://exame.com/carreira/mulher-homem-ou-alien-o-conselho-dessa-executiva-para-quem-quer-entrar-no-mercado-financeiro/",
-      "time": "2026-07-30T15:14:58Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-30-at-10.23.09.jpeg"
-    },
-    {
-      "title": "Balanço coloca ponto final na lua de mel do mercado com a Usiminas",
-      "summary": "Crescimento de mais de 200% no lucro não convenceu investidor e ação tem maior queda do Ibovespa nesta quinta (30)",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/balanco-coloca-ponto-final-na-lua-de-mel-do-mercado-com-a-usiminas/",
-      "time": "2026-07-30T15:13:11Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2020/10/usiminas.jpg"
-    },
-    {
-      "title": "Carlo Ancelotti promete renovação na Seleção Brasileira para novo ciclo de Copa do Mundo",
-      "summary": "O treinador do Brasil falou sobre os planos para sequência de seu trabalho na Amarelinha e afirmou que promoverá mudanças em relação aos convocados",
-      "source": "Exame",
-      "url": "https://exame.com/esporte/carlo-ancelotti-promete-renovacao-na-selecao-brasileira-para-novo-ciclo-de-copa-do-mundo/",
-      "time": "2026-07-30T15:04:11Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/AFP__20260705__2284785070__v1__HighRes__BrazilVNorwayRoundOf16FifaWorldCup2026.jpg"
-    },
-    {
-      "title": "CEO do Grammy se pronuncia sobre boicote de BTS à premiação",
-      "summary": "Presidente da Recording Academy respondeu ao posicionamento do BTS e defendeu as mudanças anunciadas para o Grammy 2027",
-      "source": "Exame",
-      "url": "https://exame.com/pop/ceo-do-grammy-se-pronuncia-sobre-boicote-de-bts-a-premiacao/",
-      "time": "2026-07-30T15:02:30Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/AFP__20260526__2278219269__v4__HighRes__52ndAmericanMusicAwardsShow.jpg"
-    },
-    {
-      "title": "Plataformas ajudam a criar, organizar e otimizar prompts para diferentes modelos de IA",
-      "summary": "Recursos especializados permitem criar instruções mais eficientes para ChatGPT, Gemini, Claude e outros modelos",
-      "source": "Exame",
-      "url": "https://exame.com/inteligencia-artificial/plataformas-ajudam-a-criar-organizar-e-otimizar-prompts-para-diferentes-modelos-de-ia/",
-      "time": "2026-07-30T14:49:36Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/125938.jpg"
-    },
-    {
-      "title": "Exclusivo: ServiceNow deve cortar até 1.000 vagas em reestruturação",
+      "title": "FCA vai publicar resumo diário de negociações de ações do Reino Unido a partir desta sexta-feira",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/exclusivo-servicenow-deve-cortar-ate-1000-vagas-em-reestruturacao-2020645",
-      "time": "2026-07-30T18:02:42Z",
+      "url": "https://br.investing.com/news/stock-market-news/fca-vai-publicar-resumo-diario-de-negociacoes-de-acoes-do-reino-unido-a-partir-desta-sextafeira-93CH-2020685",
+      "time": "2026-07-30T19:05:19Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB5S0BB_M.jpg"
-    },
-    {
-      "title": "Balanços ofuscam preocupações com Oriente Médio e ações europeias sobem",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/balancos-ofuscam-preocupacoes-com-oriente-medio-e-acoes-europeias-sobem-2020613",
-      "time": "2026-07-30T17:21:35Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEE0P0PC_M.jpg"
-    },
-    {
-      "title": "Ação da Usiminas cai em meio a preocupações sobre 3º tri e aumento de custos",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/lucro-da-usiminas-salta-para-r428-mi-no-2o-tri-e-supera-estimativas-2020169",
-      "time": "2026-07-30T16:28:08Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEE6Q0ZD_M.jpg"
-    },
-    {
-      "title": "CEO da Ford diz a funcionários que montadoras chinesas podem entrar no mercado americano na próxima década",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ceo-da-ford-diz-a-funcionarios-que-montadoras-chinesas-podem-entrar-no-mercado-americano-na-proxima-decada-2020585",
-      "time": "2026-07-30T16:28:08Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/Ford_M_1440049459.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPED0C0KP_M.jpg"
     }
   ],
-  "atualizado_em": "30/07/2026 18:24"
+  "atualizado_em": "30/07/2026 20:02"
 }
