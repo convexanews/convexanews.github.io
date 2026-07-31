@@ -1,88 +1,166 @@
 {
   "headline": {
-    "title": "Ibovespa tem alta em sintonia com Wall Street em pregão mais curto; dólar avança",
-    "summary": "O Ibovespa (IBOV) começou o pregão desta sexta-feira (31) no início da tarde em alta, com a normalização das operação da B3. O atraso de quase três horas nas negociações, segundo a B3, foi devido à problemas técnicos no ",
+    "title": "Ibovespa avança pelo 2º pregão consecutivo com Santander (SANB11), apesar do atraso nas negociações; dólar sobe",
+    "summary": "O Ibovespa (IBOV) engatou o segundo dia de ganhos consecutivos, em pregão reduzido por atraso na abertura. As negociações na bolsa brasileira começaram com quase três horas de atraso, reduzindo o fluxo no último pregão d",
     "source": "Money Times",
-    "url": "https://www.moneytimes.com.br/ibovespa-intradia-31-7-26-lils/",
-    "time": "2026-07-31T15:59:41Z",
+    "url": "https://www.moneytimes.com.br/ibovespa-31-7-26-lils/",
+    "time": "2026-07-31T20:16:23Z",
     "cat": "economia",
-    "tickers": [],
-    "image": "https://www.moneytimes.com.br/uploads/2025/08/brasil-acoes-brasileiras-ibovespa-bolsa-de-valores-capa-mt.jpg"
+    "tickers": [
+      "SANB11"
+    ],
+    "image": "https://www.moneytimes.com.br/uploads/2025/11/mercado-bolsa-ibovespa.jpg"
   },
   "featured": [
     {
-      "title": "IPCA ou CDI? Veja qual faz mais sentido para cada objetivo",
-      "summary": "O IPCA voltou ao centro das discussões sobre renda fixa. Com títulos públicos oferecendo taxas reais acima de 8% ao ano em julho, muitos investidores passaram a olhar com mais atenção para os papéis indexados à inflação.",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/ipca-cdi-diferencas-renda-fixa-mt/",
-      "time": "2026-07-31T17:35:08Z",
+      "title": "Dólar sobe a R$ 5,07 com nova disparada dos Treasuries; divisa acumula queda de quase 2% em julho",
+      "summary": "O dólar à vista ganhou força com o avanço dos rendimentos dos títulos do Tesouro norte-americano e desdobramentos do conflito no Oriente Médio. Nesta sexta-feira (31), o dólar à vista terminou as negociações a R$ 5,0704,",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/dolar-31-7-26-lils/",
+      "time": "2026-07-31T20:03:36Z",
       "cat": "economia",
       "tickers": [],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/3e86f206-ipca-jpg.webp"
+      "image": "https://www.moneytimes.com.br/uploads/2025/09/dolar-mercados-maxima.jpg"
     },
     {
-      "title": "SANB11: Ações do Santander Brasil disparam 13% com OPA da matriz espanhola",
+      "title": "VALE3: Ebitda da Vale supera estimativas no 2T26; BTG e Itaú BBA mantêm compra",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/sanb11-acoes-do-santander-brasil-disparam-13-com-opa-da-matriz-espanhola-2022331",
-      "time": "2026-07-31T18:22:33Z",
+      "url": "https://br.investing.com/news/stock-market-news/vale3-ebitda-da-vale-supera-estimativas-no-2t26-btg-e-itau-bba-mantem-compra-2022351",
+      "time": "2026-07-31T18:59:56Z",
       "cat": "internacional",
       "tickers": [
-        "SANB11"
+        "VALE3"
       ],
-      "image": "https://content-media.investing.com/news/santander_150x108_S_1411905200.jpg"
+      "image": "https://content-media.investing.com/news/LYNXMPED9P0X5_M.jpg"
     }
   ],
   "all": [
     {
-      "title": "PIB da cadeia de soja e biodiesel deve avançar 6,87% em 2026, aponta estudo",
-      "summary": "Em 2026, o PIB da cadeia da soja e do biodiesel deve somar cerca de R$ 661 bilhões, representando 21,1% do PIB do agronegócio nacional, diz estudo do Cepa/Abiove",
+      "title": "Dólar hoje cai 0,13%, a R$ 5,06, com PTAX e atraso na B3; em julho, queda é de 1,8%",
+      "summary": "Na semana, a divisa acumulou baixa de 0,25% e, no mês, recuo de 1,82%",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/economia/pib-da-cadeia-de-soja-e-biodiesel-deve-avancar-687-em-2026-aponta-estudo/",
-      "time": "2026-07-31T18:53:46Z",
+      "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-31072026/",
+      "time": "2026-07-31T20:16:09Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Exportacoes-de-soja-e1785523875223.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/blogging-guide-K5DY18hy5JQ-unsplash_red.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Flávio admite revés com Tereza Cristina e mantém corrida por vice: “Não desisto”",
-      "summary": "Candidato do PL afirma que negociações continuam com outros partidos e diz que ex-ministra seguirá engajada na campanha mesmo fora da chapa",
+      "title": "BC da Colômbia mantém taxa de juros inalterada em 12%",
+      "summary": "Decisão desta sexta-feira é a última antes da posse do presidente eleito da Colômbia, Abelardo de la Espriella",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/flavio-admite-reves-com-tereza-cristina-e-mantem-corrida-por-vice-nao-desisto/",
-      "time": "2026-07-31T18:34:09Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/flavio-bolsonaro-pl-politica-02.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "UE chama OpenAI e Anthropic para mesa de negociação após ataques de IAs",
-      "summary": "Legislação europeia para regulamentar o tema entra em vigor na próxima semana",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/business/ue-chama-openai-e-anthropic-para-mesa-de-negociacao-apos-ataques-de-ias/",
-      "time": "2026-07-31T18:13:55Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/04/2025-04-04T205050Z_1_LYNXNPEL33156_RTROPTP_3_MERCOSUL-UE.jpg?fit=300%2C188&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Usiminas: o que precisa acontecer para o mercado voltar a se animar com a ação",
-      "summary": "As ações da siderúrgica chegaram a despencar 9,25% na sessão pós-balanço",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/usiminas-o-que-precisa-acontecer-para-o-mercado-voltar-a-se-animar-com-a-acao/",
-      "time": "2026-07-31T18:00:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2023/12/2023-12-19T145126Z_1_LYNXMPEJBI0KZ_RTROPTP_4_BRAZIL-USIMINAS-BLASTFURNACE.jpg?fit=300%2C193&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Cenário externo é o gatilho para a “bomba” fiscal do Brasil, alerta Armor Capital",
-      "summary": "Para Gustavo Rostelato, economista da Armor Capital, é preciso tomar alguma atitude contra a trajetória da dívida, que está cada vez maior",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/economia/risco-fiscal-cenario-externo-armor-capital/",
-      "time": "2026-07-31T17:48:23Z",
+      "url": "https://www.infomoney.com.br/economia/bc-da-colombia-mantem-taxa-de-juros-inalterada-em-12/",
+      "time": "2026-07-31T20:15:39Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/10/shutterstock_183127238.jpg?fit=300%2C225&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/bandeira-da-colombia-alexandre-cerqueira-pixabay.jpg?fit=300%2C199&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Criptomoedas: bitcoin cai em rumo deslocado de techs com notícias ruins para setor",
+      "summary": "Setor sofre ainda com um ataque hacker que desviou mais de US$ 38 milhões de carteiras de bitcoin da Coldcard",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/economia/criptomoedas-bitcoin-cai-em-rumo-deslocado-de-techs-com-noticias-ruins-para-setor/",
+      "time": "2026-07-31T20:10:19Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-16T150140Z_1_LYNXMPEM6F11M_RTROPTP_4_FINTECH-CRYPTO-QUANTUM-COMPUTING.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Governo eleva a 30% Imposto de Importação de trens de passageiros",
+      "summary": "Decisão entrará em vigor em 120 dias a contar ‌da publicação ​no Diário Oficial da União",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/governo-eleva-a-30-imposto-de-importacao-de-trens-de-passageiros/",
+      "time": "2026-07-31T19:57:05Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/06/trem-cptm.jpg?fit=300%2C154&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Lula diz que não tem a ‘quantidade de craques que queria’ ao citar sucessor",
+      "summary": "Presidente afirmou que não desistiu de formar sucessores e que próximos nomes podem surgir a partir das eleições estaduais de 2026",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/lula-diz-que-nao-tem-a-quantidade-de-craques-que-queria-ao-citar-sucessor/",
+      "time": "2026-07-31T19:46:48Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/lula-pt-politica-eleicoes-01.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "ONU: El Niño deve se intensificar em agosto e agravar crises climáticas globais",
+      "summary": "Fenômeno combinado com \"Dipolo do Oceano Índico positivo\" pode amplificar secas, inundações e riscos de incêndios florestais",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mundo/onu-el-nino-deve-se-intensificar-em-agosto-e-agravar-crises-climaticas-globais/",
+      "time": "2026-07-31T19:22:57Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-17T074345Z_297137842_RC2JFMAIQ7SP_RTRMADP_3_ASIA-WEATHER-INDONESIA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Ibovespa avança pelo 2º pregão consecutivo com Santander (SANB11), apesar do atraso nas negociações; dólar sobe",
+      "summary": "O Ibovespa (IBOV) engatou o segundo dia de ganhos consecutivos, em pregão reduzido por atraso na abertura. As negociações na bolsa brasileira começaram com quase três horas de atraso, reduzindo o fluxo no último pregão d",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ibovespa-31-7-26-lils/",
+      "time": "2026-07-31T20:16:23Z",
+      "cat": "economia",
+      "tickers": [
+        "SANB11"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/11/mercado-bolsa-ibovespa.jpg"
+    },
+    {
+      "title": "Wall Street fecha em alta com tecnologia, mas Nasdaq derrete 3% e tem 2º mês de perdas",
+      "summary": "Os índices de Wall Street fecharam em forte alta, apesar da pressão vinda dos Treasuries e do petróleo — o que acrescentou volatilidade aos ativos no pregão desta sexta-feira (31). As ações de tecnologia conseguiram reto",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/wall-street-31-7-26-apsa/",
+      "time": "2026-07-31T20:07:13Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/wall-street-nasdaq-bolsas-americanas.jpg"
+    },
+    {
+      "title": "Dólar sobe a R$ 5,07 com nova disparada dos Treasuries; divisa acumula queda de quase 2% em julho",
+      "summary": "O dólar à vista ganhou força com o avanço dos rendimentos dos títulos do Tesouro norte-americano e desdobramentos do conflito no Oriente Médio. Nesta sexta-feira (31), o dólar à vista terminou as negociações a R$ 5,0704,",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/dolar-31-7-26-lils/",
+      "time": "2026-07-31T20:03:36Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/09/dolar-mercados-maxima.jpg"
+    },
+    {
+      "title": "Petróleo dispara 23% em julho com retomada na troca de ataques entre EUA e Irã",
+      "summary": "Os preços do petróleo fecharam em alta nesta sexta-feira (31) após o Irã informar ter atacado navios na região do Estreito de Ormuz. O contrato mais líquido do petróleo Brent, referência para o mercado internacional, par",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/petroleo-31-7-26-apsa/",
+      "time": "2026-07-31T19:36:28Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/petroleo-ira-1.jpg"
+    },
+    {
+      "title": "IA derruba ações de software, mas abre oportunidade na Totvs (TOTS3); saiba o motivo",
+      "summary": "A Totvs (TOTS3) atravessa a onda de pessimismo sobre o setor de software com fundamentos sólidos e desconto que chama a atenção da Empiricus",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ia-derruba-acoes-de-software-mas-abre-oportunidade-na-totvs-tots3-saiba-o-motivo-lbrdjt013/",
+      "time": "2026-07-31T19:00:00Z",
+      "cat": "acoes",
+      "tickers": [
+        "TOTS3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/image-104.png"
+    },
+    {
+      "title": "Braskem (BRKM5): Melhora nos spreads deve favorecer resultado, diz BB Investimentos",
+      "summary": "A Braskem (BRKM5) deve apresentar melhora de rentabilidade no segundo trimestre de 2026, considerando a base trimestral, impulsionada pela recuperação dos spreads petroquímicos, mas os desafios estruturais do setor ainda",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/braskem-brkm5-melhora-nos-spreads-deve-favorecer-resultado-diz-bb-investimentos/",
+      "time": "2026-07-31T18:56:37Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2024/02/braskem-brkm5.webp"
     },
     {
       "title": "Por que as ações da Multiplan (MULT3) caem mesmo após um balanço elogiado pelos analistas?",
@@ -97,74 +175,14 @@
       "image": "https://www.moneytimes.com.br/uploads/2024/12/multiplan-jundiai-shopping-.jpg"
     },
     {
-      "title": "PIB do setor de soja e biodiesel deve avançar 6,87% em 2026, aponta Cepea",
-      "summary": "O Produto Interno Bruto (PIB) da cadeia produtiva da soja e do biodiesel pode avançar 6,87% em 2026, mas em ritmo de crescimento inferior a 2025, indicou um estudo do Centro de Estudos Avançados em Economia Aplicada (Cep",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/pib-do-setor-de-soja-e-biodiesel-deve-avancar-687-em-2026-aponta-cepea-pads/",
-      "time": "2026-07-31T18:42:26Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/10/soja-graos-china-trump-1.jpg"
-    },
-    {
-      "title": "Bolsas da Europa fecham sem direção única de olho em tecnologia e guerra",
-      "summary": "Os índices europeus terminaram o pregão desta sexta-feira (31) mistos diante da volatilidade nos preços de ativos de tecnologia, dados da inflação da zona do euro e desdobramentos do conflito no Oriente Médio. O índice p",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/europa-31-7-26-apsa/",
-      "time": "2026-07-31T18:03:15Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2024/01/bolsas-europa.jpg"
-    },
-    {
-      "title": "O que está por trás da abertura tardia da B3?",
-      "summary": "As negociações na bolsa brasileira ficaram suspensas durante toda a manhã desta sexta-feira (31) por falha operacional na B3. Os ativos começaram a operar apenas por volta de 12h30 (horário de Brasília), com exceção dos ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/o-que-esta-por-tras-da-abertura-tardia-da-b3-lils/",
-      "time": "2026-07-31T17:39:20Z",
+      "title": "B3 abre com 2h30 de atraso após falha operacional; entenda o que aconteceu",
+      "summary": "A manhã desta sexta-feira (31) começou com o mercado brasileiro praticamente no modo de espera. As negociações de ações, fundos imobiliários, BDRs, contratos futuros e outros ativos da B3 foram abertas apenas por volta d",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/b3-abertura-atrasada-falha-operacional-pregao-mt/",
+      "time": "2026-07-31T20:05:11Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/04/bolsa-de-valores-bolsa-brasileira-b3.jpg"
-    },
-    {
-      "title": "Caiado usa inquérito contra Lulinha para criticar Lula e Bolsonaro: ‘rei protege o príncipe’",
-      "summary": "O candidato à Presidência Ronaldo Caiado (PSD) criticou na quinta-feira (30) o presidente Luiz Inácio Lula da Silva (PT) após a abertura de inquérito contra um dos filhos do petista, Fábio Luís Lula da Silva, o Lulinha. ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/caiado-usa-inquerito-contra-lulinha-para-criticar-lula-e-bolsonaro-rei-protege-o-principe-gaep/",
-      "time": "2026-07-31T17:07:39Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/ronaldo-caiado-psd-eleicoes-2026-1.jpg"
-    },
-    {
-      "title": "Após alta da Bolsa, o que esperar de agosto? Analista da Empiricus aponta os principais riscos e oportunidades",
-      "summary": "O mercado brasileiro encerrou julho em um cenário mais favorável do que o observado nos meses anteriores, embora ainda cercado por fatores que exigem cautela dos investidores, avalia Ruy Hungria, analista da Empiricus Re",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/o-que-esperar-do-mercado-apos-julho-empiricus-indica-o-que-o-investidor-nao-pode-ignorar-em-agosto-ceci/",
-      "time": "2026-07-31T16:38:31Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/investimentos-mercados-real-moeda-mercado-financeiro.jpg"
-    },
-    {
-      "title": "Apple (AAPL) deve perder quase US$ 500 bi em valor de mercado após previsão pessimista",
-      "summary": "As ações da Apple (AAPL) caíram quase 10% nesta sexta-feira, após uma previsão decepcionante mostrar que a fabricante do iPhone estava com dificuldades para garantir componentes suficientes, à medida que o boom dos data ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/apple-aapl-deve-perder-quase-us-500-bi-em-valor-de-mercado-apos-previsao-pessimista/",
-      "time": "2026-07-31T16:16:34Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/10/iphone-17-air-apple.jpg"
-    },
-    {
-      "title": "Ibovespa tem alta em sintonia com Wall Street em pregão mais curto; dólar avança",
-      "summary": "O Ibovespa (IBOV) começou o pregão desta sexta-feira (31) no início da tarde em alta, com a normalização das operação da B3. O atraso de quase três horas nas negociações, segundo a B3, foi devido à problemas técnicos no ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ibovespa-intradia-31-7-26-lils/",
-      "time": "2026-07-31T15:59:41Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/08/brasil-acoes-brasileiras-ibovespa-bolsa-de-valores-capa-mt.jpg"
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/EspacoB3_05-1-1-jpg.webp"
     },
     {
       "title": "IPCA ou CDI? Veja qual faz mais sentido para cada objetivo",
@@ -234,141 +252,87 @@
       "image": "https://files.sunoresearch.com.br/n/uploads/2026/01/vale-vale3-2-jpg.webp"
     },
     {
-      "title": "XPSF11 tem alta de 8,4% no resultado e yield de 16,67% ao ano; entenda",
-      "summary": "Em junho, o XPSF11 apurou resultado de R$ 3,103 milhões, avanço de 8,4% ante o mês anterior. O desempenho refletiu receitas totais de R$ 3,340 milhões e despesas de R$ 237 mil no período, conforme comunicado do fundo. Pa",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/rendimentos-do-xpsf11-junho-2026/",
-      "time": "2026-07-31T11:15:07Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/206_Detalhe_de_gr_fico_f_1_2026017_164557-3-jpg.webp"
-    },
-    {
-      "title": "Menos filhos, mais pets? Geração Z impulsiona mercado bilionário no Brasil",
-      "summary": "Segundo dados da Associação Brasileira da Indústria de Produtos para Animais de Estimação (Abinpet) e do Instituto Pet Brasil (IPB), o setor movimentou R$ 75,4 bilhões",
+      "title": "Trump diz que nunca discutiu com Infantino proposta de participação na Copa",
+      "summary": "Presidente dos EUA negou ter conversado com o dirigente sobre projeto que prevê captar US$ 20 bilhões e enfrenta forte resistência de federações e dirigentes",
       "source": "Exame",
-      "url": "https://exame.com/pop/menos-filhos-mais-pets-geracao-z-impulsiona-mercado-bilionario-no-brasil/",
-      "time": "2026-07-31T15:39:41Z",
-      "cat": "economia",
+      "url": "https://exame.com/esporte/trump-diz-que-nunca-discutiu-com-infantino-proposta-de-participacao-na-copa/",
+      "time": "2026-07-31T16:29:44Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2022/02/GettyImages-1166663573.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/donald-trump-copa-do-mundo-final-2026.jpg"
     },
     {
-      "title": "Flamengo fecha 1º semestre com receita de R$ 840 milhões",
-      "summary": "Ao fim de junho, o caixa livre consolidado do clube somava R$ 127,8 milhões",
-      "source": "Exame",
-      "url": "https://exame.com/esporte/flamengo-fecha-1o-semestre-com-receita-de-r-840-milhoes/",
-      "time": "2026-07-31T15:17:00Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/11/palmeiras-x-flamengo-atraso-jogo-final-libertadores.jpg"
-    },
-    {
-      "title": "Presidente eleito do STJ defende divulgação de pagamentos a magistrados por palestras",
-      "summary": "Luís Felipe Salomão, que assume comando da Corte em 19 de agosto, se diz contrário a um código de ética",
-      "source": "Exame",
-      "url": "https://exame.com/brasil/presidente-eleito-do-stj-defende-transparencia-sobre-pagamentos-a-magistrados-por-palestras/",
-      "time": "2026-07-31T15:14:23Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/Salomao.jpg"
-    },
-    {
-      "title": "SANB11: Ações do Santander Brasil disparam 13% com OPA da matriz espanhola",
+      "title": "S&P rebaixa nota do ZipRecruiter para B- por pressão competitiva",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/sanb11-acoes-do-santander-brasil-disparam-13-com-opa-da-matriz-espanhola-2022331",
-      "time": "2026-07-31T18:22:33Z",
+      "url": "https://br.investing.com/news/stock-market-news/sp-rebaixa-nota-do-ziprecruiter-para-b-por-pressao-competitiva-93CH-2022369",
+      "time": "2026-07-31T19:41:44Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEBBR0PM_L.jpg"
+    },
+    {
+      "title": "Por que as ações da Integer estão disparando hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-integer-estao-disparando-hoje-93CH-2022364",
+      "time": "2026-07-31T19:33:43Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
+    },
+    {
+      "title": "Por que as ações da Warner Bros Discovery estão subindo hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-warner-bros-discovery-estao-subindo-hoje-93CH-2022363",
+      "time": "2026-07-31T19:31:37Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC3B0CQ_M.jpg"
+    },
+    {
+      "title": "Ações da Integer Holdings disparam 21% após relato de aquisição pela KKR",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-integer-holdings-disparam-21-apos-relato-de-aquisicao-pela-kkr-2022360",
+      "time": "2026-07-31T19:22:07Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB2N09U_M.jpg"
+    },
+    {
+      "title": "Tesla consolida após queda com resistência intensa: Níveis ao vivo",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/tesla-pressiona-suporte-em-30653-niveis-ao-vivo-93CH-2014756",
+      "time": "2026-07-31T19:05:56Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "title": "VALE3: Ebitda da Vale supera estimativas no 2T26; BTG e Itaú BBA mantêm compra",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/vale3-ebitda-da-vale-supera-estimativas-no-2t26-btg-e-itau-bba-mantem-compra-2022351",
+      "time": "2026-07-31T18:59:56Z",
       "cat": "internacional",
       "tickers": [
-        "SANB11"
+        "VALE3"
       ],
-      "image": "https://content-media.investing.com/news/santander_150x108_S_1411905200.jpg"
+      "image": "https://content-media.investing.com/news/LYNXMPED9P0X5_M.jpg"
     },
     {
-      "title": "Governo eleva a 30% Imposto de Importação de trens de passageiros",
+      "title": "Por que as ações da Lear estão despencando hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/governo-eleva-a-30-imposto-de-importacao-de-trens-de-passageiros-2022330",
-      "time": "2026-07-31T18:21:08Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-lear-estao-despencando-hoje-93CH-2022349",
+      "time": "2026-07-31T18:56:41Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6J0AJ_M.jpg"
-    },
-    {
-      "title": "Trump diz que EUA não concordaram com fabricação  de mísseis Patriot pela  Ucrânia",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/trump-diz-que-eua-nao-concordaram-com-fabricacao--de-misseis-patriot-pela--ucrania-2022328",
-      "time": "2026-07-31T18:14:29Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/DonaldTrump_800x533_L_1610387647.jpg"
-    },
-    {
-      "title": "MBRF3: Por que as ações da MBRF estão em queda hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/mbrf3-por-que-as-acoes-da-mbrf-estao-em-queda-hoje-2022326",
-      "time": "2026-07-31T18:10:42Z",
-      "cat": "internacional",
-      "tickers": [
-        "MBRF3"
-      ],
-      "image": "https://content-media.investing.com/news/MeatIndustry_800x533_L_1632375634.jpg"
-    },
-    {
-      "title": "Ações da semana no Investing.com",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-semana-no-investingcom-2022316",
-      "time": "2026-07-31T17:57:18Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXMPEM230X4_1200_L.jpg"
-    },
-    {
-      "title": "AZZA3: Por que as ações da Azzas 2154 estão em alta hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/azza3-por-que-as-acoes-da-azzas-2154-estao-em-alta-hoje-2022311",
-      "time": "2026-07-31T17:56:48Z",
-      "cat": "internacional",
-      "tickers": [
-        "AZZA3"
-      ],
-      "image": "https://content-media.investing.com/news/GrupoSoma_800x533_L_1685554927.jpg"
-    },
-    {
-      "title": "Por que as ações da NXP Semiconductors estão caindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-nxp-semiconductors-estao-caindo-hoje-93CH-2022310",
-      "time": "2026-07-31T17:47:11Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB8506G_M.jpg"
-    },
-    {
-      "title": "Por que as ações da CACI International estão subindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-caci-international-estao-subindo-hoje-93CH-2022308",
-      "time": "2026-07-31T17:42:20Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPED0C0KP_M.jpg"
-    },
-    {
-      "title": "Ações da Ambarella disparam com rumores de aquisição pela NXP",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-ambarella-disparam-com-rumores-de-aquisicao-pela-nxp-93CH-2022305",
-      "time": "2026-07-31T17:39:47Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB9M0BY_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6U08A_M.jpg"
     }
   ],
-  "atualizado_em": "31/07/2026 18:54"
+  "atualizado_em": "31/07/2026 20:19"
 }
