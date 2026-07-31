@@ -1307,6 +1307,20 @@
   .footer-links a { font-size: 12px; color: var(--text-muted); text-decoration: none; }
   .footer-links a:hover { color: var(--text); text-decoration: underline; }
 
+  /* ===== GUIAS EDUCATIVOS ===== */
+  .guides-page { max-width: 900px; margin: 0 auto; padding: 56px 24px 72px; }
+  .guides-page h1 { font-family: var(--font-serif); font-size: clamp(34px, 5vw, 52px); line-height: 1.08; margin: 0 0 16px; }
+  .guide-kicker { color: var(--blue); font-size: 12px; font-weight: 800; letter-spacing: 1.2px; margin: 0 0 12px; }
+  .guide-intro { max-width: 720px; color: var(--text-secondary); font-size: 17px; line-height: 1.7; margin-bottom: 30px; }
+  .guide-toc { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 42px; }
+  .guide-toc a { border: 1px solid var(--border); border-radius: 999px; color: var(--text-secondary); font-size: 13px; padding: 8px 12px; text-decoration: none; }
+  .guide-toc a:hover { border-color: var(--blue); color: var(--blue); }
+  .guide-article { border-top: 1px solid var(--border); padding: 32px 0; scroll-margin-top: 20px; }
+  .guide-article h2 { font-family: var(--font-serif); font-size: clamp(25px, 3vw, 32px); line-height: 1.2; margin: 0 0 18px; }
+  .guide-article p { color: var(--text-secondary); font-size: 16px; line-height: 1.8; margin: 0 0 14px; }
+  .guide-article .guide-meta { color: var(--text-muted); font-size: 12px; line-height: 1.4; margin-bottom: 12px; }
+  .guide-disclaimer { border-top: 1px solid var(--border); color: var(--text-muted); font-size: 13px; line-height: 1.6; margin-top: 10px; padding-top: 24px; }
+
   @media (max-width: 768px) {
     .ind-grid { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); }
     .ind-value { font-size: 21px; }

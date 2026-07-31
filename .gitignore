@@ -6,6 +6,9 @@ __pycache__/
 venv/
 .venv/
 
+# Conteudo interno de revisao editorial: nunca publicar no GitHub Pages
+artigos_pendentes.json
+
 # OS
 .DS_Store
 Thumbs.db
