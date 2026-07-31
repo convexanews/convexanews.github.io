@@ -1,0 +1,23 @@
+name: Lembrete mensal - Cartas dos Gestores
+
+on:
+  schedule:
+    - cron: '0 12 2 * *'
+  workflow_dispatch:
+
+permissions:
+  issues: write
+
+jobs:
+  criar-lembrete:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Criar lembrete editorial mensal
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          MES=$(date -u +'%Y-%m')
+          TITULO="Revisar cartas de gestores - ${MES}"
+          if gh issue list --repo "${GITHUB_REPOSITORY}" --state open --search "in:title \"${TITULO}\"" --json number --jq 'length' | grep -q '^0$'; then
+            gh issue create --repo "${GITHUB_REPOSITORY}" --title "${TITULO}" --body "Revisar as novas cartas disponíveis nas fontes oficiais, atualizar as páginas correspondentes e conferir dados, fontes e datas antes de publicar."
+          fi
