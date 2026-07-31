@@ -1,15 +1,27 @@
 {
   "headline": {
-    "title": "Ibovespa e dólar hoje: Santander dispara com OPA e balanços impulsionam NY",
-    "summary": "",
-    "source": "Investing.com",
-    "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-santander-dispara-com-opa-e-balancos-impulsionam-ny-2022419",
-    "time": "2026-07-31T21:30:02Z",
-    "cat": "economia",
-    "tickers": [],
-    "image": "https://content-media.investing.com/news/LYNXMPEE7C113_M.jpg"
+    "title": "Ibovespa fecha julho em alta de 3,47% e Santander (SANB11) dispara após anúncio de OPA",
+    "summary": "O Ibovespa encerrou julho em alta, consolidando a segunda semana consecutiva de ganhos e voltando ao maior nível de fechamento desde maio. O principal índice da B3 avançou 0,47% nesta sexta-feira (31), aos 177.999,00 pon",
+    "source": "Suno",
+    "url": "https://www.suno.com.br/noticias/ibovespa-hoje-31-julho-2026-santander-sanb11-opa-mt/",
+    "time": "2026-07-31T21:55:06Z",
+    "cat": "acoes",
+    "tickers": [
+      "SANB11"
+    ],
+    "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/30169c1a-ifix-2-1-1-png.webp"
   },
   "featured": [
+    {
+      "title": "Ibovespa e dólar hoje: Santander dispara com OPA e balanços impulsionam NY",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-santander-dispara-com-opa-e-balancos-impulsionam-ny-2022419",
+      "time": "2026-07-31T21:30:02Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://content-media.investing.com/news/LYNXMPEE7C113_M.jpg"
+    },
     {
       "title": "Ibovespa avança pelo 2º pregão consecutivo com Santander (SANB11), apesar do atraso nas negociações; dólar sobe",
       "summary": "O Ibovespa (IBOV) engatou o segundo dia de ganhos consecutivos, em pregão reduzido por atraso na abertura. As negociações na bolsa brasileira começaram com quase três horas de atraso, reduzindo o fluxo no último pregão d",
@@ -21,19 +33,83 @@
         "SANB11"
       ],
       "image": "https://www.moneytimes.com.br/uploads/2025/11/mercado-bolsa-ibovespa.jpg"
-    },
-    {
-      "title": "Dólar sobe a R$ 5,07 com nova disparada dos Treasuries; divisa acumula queda de quase 2% em julho",
-      "summary": "O dólar à vista ganhou força com o avanço dos rendimentos dos títulos do Tesouro norte-americano e desdobramentos do conflito no Oriente Médio. Nesta sexta-feira (31), o dólar à vista terminou as negociações a R$ 5,0704,",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/dolar-31-7-26-lils/",
-      "time": "2026-07-31T20:03:36Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/09/dolar-mercados-maxima.jpg"
     }
   ],
   "all": [
+    {
+      "title": "Controlador do grupo Randon fará oferta por totalidade de papéis ON",
+      "summary": "A ‌holding, Dramd Participações, pretende ⁠adquirir até 21,3 milhões de ações ordinárias da Randoncorp usando para isso ações ON que detém na Frasle",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/controlador-do-grupo-randon-fara-oferta-por-totalidade-de-papeis-on/",
+      "time": "2026-07-31T22:36:27Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/randon-01-caminhao-.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "CVM institui Divisão de Tecnologia Financeira para regulação de IA e tokenização",
+      "summary": "A Ditec surge como resposta ao acelerado avanço das fintechs e à necessidade de diretrizes técnicas para uso de inteligência artificial, sandbox regulatório e tokenização de valores mobiliários",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/cvm-institui-divisao-de-tecnologia-financeira-para-regulacao-de-ia-e-tokenizacao/",
+      "time": "2026-07-31T22:02:13Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/11/CVM.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "FII MXRF11 anuncia novos dividendos para agosto; veja yield e valor",
+      "summary": "Os rendimentos distribuídos pelo MXRF11 permanecem isentos de Imposto de Renda para pessoas físicas",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/onde-investir/fii-mxrf11-divulga-novos-dividendos-para-agosto-veja-yield-e-valor/",
+      "time": "2026-07-31T21:56:54Z",
+      "cat": "fundos",
+      "tickers": [
+        "MXRF11"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/dinheiro-decimo-terceiro-salario.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "B3: Atraso no início do pregão faz volume negociado cair para R$ 13,6 bi na 6ª",
+      "summary": "A redução do giro era esperada diante do encurtamento da janela de negociações",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/b3-atraso-no-inicio-do-pregao-faz-volume-negociado-cair-para-r-136-bi-na-6a/",
+      "time": "2026-07-31T21:49:11Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/Captura-de-tela-2025-12-10-110600.png?fit=300%2C197&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "VALE3: ações da Vale fecham com leve alta, após abrir em queda com balanço e minério",
+      "summary": "Além dos resultados, o desempenho das ações também é pressionado pelo mercado de minério de ferro",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/sem-vale3-adrs-da-vale-caem-mais-de-1-nos-eua-apos-resultados-e-queda-do-minerio/",
+      "time": "2026-07-31T21:45:03Z",
+      "cat": "acoes",
+      "tickers": [
+        "VALE3"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-06T221839Z_1_LYNXMPEM651L4_RTROPTP_4_LATAM-SUMMIT-VALE.jpg?fit=300%2C194&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Sem precedentes? O que causou “pane” na B3 por 3 horas e meia – e como mercado reagiu",
+      "summary": "Operadores chegaram a falar de algo \"sem precedentes\", pois todo o sistema de renda variável está fora do ar, mas pregam cautelas sobre efeitos para a B3",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/sem-precedentes-mercado-repercute-b3-fora-do-ar-e-impactos-futuros-para-a-bolsa/",
+      "time": "2026-07-31T21:39:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2021/11/DSC_2811.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "FII GARE11 divulga novos dividendos com retorno acima de 1%; confira valor",
+      "summary": "O rendimento do GARE11 corresponde a um dividend yield mensal de aproximadamente 1,01%",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/onde-investir/fii-gare11-divulga-novos-dividendos-com-retorno-acima-de-1-confira-valor/",
+      "time": "2026-07-31T21:38:08Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/Dividendos-ou-juros-sobre-capital-proprio.jpg?fit=300%2C168&amp;quality=70&amp;strip=all"
+    },
     {
       "title": "FII KNCR11 anuncia dividendo com yield de 1,16%; veja valor e data de pagamento",
       "summary": "O pagamento dos dividendos do KNCR11 será realizado em 13 de agosto de 2026",
@@ -47,64 +123,34 @@
       "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/17746.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Presidente do Fed avalia reduzir número de reuniões de política monetária",
-      "summary": "Kevin Warsh apresentou proposta ao FOMC nesta semana; banco central americano realiza atualmente oito encontros de dois dias por ano",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/economia/presidente-do-fed-avalia-reduzir-numero-de-reunioes-de-politica-monetaria/",
-      "time": "2026-07-31T21:12:08Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-14T153326Z_609283547_RC2RDMAPQU4O_RTRMADP_3_USA-FED-WARSH-HOUSEFINANCIALSERVICES.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Bolsas de NY sobem com reação positiva à Amazon, mas Nasdaq e S&P 500 caem no mês",
-      "summary": "Em destaque, a Amazon saltou 15,32% após agradar em seus resultados corporativos na quinta",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/bolsas-de-ny-sobem-com-reacao-positiva-a-amazon-mas-nasdaq-e-sp-500-caem-no-mes/",
-      "time": "2026-07-31T21:10:59Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/02/Captura-de-tela-2025-02-02-193427.png?fit=300%2C201&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "4 ações sobem mais de 20% e 6 caem ao menos 10%: os destaques do Ibovespa em julho",
-      "summary": "CSN Mineração registrou a maior alta do índice, enquanto Cury e Direcional estiveram entre as maiores perdas do mês",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/4-acoes-sobem-mais-de-20-e-6-caem-ao-menos-10-os-destaques-do-ibovespa-em-julho/",
-      "time": "2026-07-31T21:00:06Z",
+      "title": "CVM cria Divisão de Tecnologia Financeira na Superintendência de Inteligência",
+      "summary": "A Comissão de Valores Mobiliários (CVM) editou nesta sexta-feira (31) uma resolução para criar uma Divisão de Tecnologia Financeira (Ditec) e fazer ajustes em outras áreas. A Resolução CVM 246 atualiza a Resolução CVM 24",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/cvm-cria-divisao-de-tecnologia-financeira-na-superintendencia-de-inteligencia-vtra/",
+      "time": "2026-07-31T22:50:46Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2020/02/entrepreneur-1340649_1280.jpg?fit=300%2C212&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/chatgpt-image-jul-8-2026-12-06-51-pm.png"
     },
     {
-      "title": "Reforma tributária: Receita define cronograma para notas fiscais com novas alíquotas",
-      "summary": "A partir de 3 de agosto, setores como transporte, energia e varejo terão que detalhar cobrança de CBS e IBS; multas só valem a partir de 2027",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/economia/reforma-tributaria-receita-define-cronograma-para-notas-fiscais-com-novas-aliquotas/",
-      "time": "2026-07-31T20:59:14Z",
+      "title": "Superintendência do Cade recomenda aprovação sem restrições de investimento da American na Azul (AZUL3)",
+      "summary": "A Superintendência-Geral do Conselho Administrativo de Defesa Econômica (SG/Cade) emitiu parecer favorável à operação que prevê investimento da American Airlines na companhia aérea brasileira Azul (AZUL3), segundo comuni",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/superintendencia-do-cade-recomenda-aprovacao-sem-restricoes-de-investimento-da-american-na-azul-vtra/",
+      "time": "2026-07-31T22:46:22Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Captura-de-tela-2026-07-31-175816.png?fit=300%2C196&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2025/02/azul-azul4.jpg"
     },
     {
-      "title": "Petróleo: brent salta 24%, WTI sobe 21% em julho e têm maior alta mensal desde março",
-      "summary": "Enquanto isso, As negociações entre o Irã e Omã sobre a gestão do estreito continuam, segundo a Agência de Notícias Trabalhista Iraniana",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-31072026/",
-      "time": "2026-07-31T20:54:35Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-21T110457Z_471026743_RC2PFKATW3FZ_RTRMADP_3_RUSSIA-KAZAKHSTAN-GERMANY-DRUZHBA-OIL.jpg?fit=300%2C186&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Ibovespa sobe 3,5% em julho entre tarifaço e volta do fluxo: o que esperar de agosto?",
-      "summary": "Fluxo estrangeiro, temporada de balanços e sinais de queda da Selic ajudaram a sustentar o mercado, mas tarifas americanas e decisões dos bancos centrais seguem no radar",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-sobe-35-em-julho-entre-tarifaco-e-volta-do-fluxo-o-que-esperar-de-agosto/",
-      "time": "2026-07-31T20:49:28Z",
+      "title": "Randoncorp (RAPT3) recebe pedido de registro de OPA para troca de ações por papéis da Frasle Mobility (FRAS3)",
+      "summary": "A Randoncorp (RAPT3;RAPT4) informou nesta sexta-feira (31) que sua acionista controladora, Dramd Participações e Administração, protocolou na Comissão de Valores Mobiliários (CVM) o pedido de registro de uma oferta públi",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/randoncorp-rapt3-recebe-pedido-de-registro-de-opa-para-troca-de-acoes-por-papeis-da-frasle-mobility-fras3/",
+      "time": "2026-07-31T21:39:09Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/11/shutterstock_1443677813.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2019/05/frasle-.jpg"
     },
     {
       "title": "Axia (AXIA3) e Isa Energia (ISAE4) concluem descruzamento de participações na IE Madeira e IE Garanhuns",
@@ -161,14 +207,26 @@
       "image": "https://www.moneytimes.com.br/uploads/2025/09/dolar-mercados-maxima.jpg"
     },
     {
-      "title": "Petróleo dispara 23% em julho com retomada na troca de ataques entre EUA e Irã",
-      "summary": "Os preços do petróleo fecharam em alta nesta sexta-feira (31) após o Irã informar ter atacado navios na região do Estreito de Ormuz. O contrato mais líquido do petróleo Brent, referência para o mercado internacional, par",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/petroleo-31-7-26-apsa/",
-      "time": "2026-07-31T19:36:28Z",
-      "cat": "internacional",
+      "title": "IFIX fecha pregão em alta e acumula avanço de 0,35% na semana",
+      "summary": "O IFIX encerrou o pregão desta sexta-feira (31) aos 3.818,52 pontos, avanço de 12,26 pontos (+0,32%) frente ao fechamento anterior, de 3.806,26 pontos. Na sessão, o índice de fundos imobiliários oscilou entre a mínima de",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ifix-fecha-pregao-em-alta-e-acumula-avanco-de-035-na-semana/",
+      "time": "2026-07-31T22:35:04Z",
+      "cat": "fundos",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/petroleo-ira-1.jpg"
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/equipe-financeira-tr-1_02.webp"
+    },
+    {
+      "title": "Ibovespa fecha julho em alta de 3,47% e Santander (SANB11) dispara após anúncio de OPA",
+      "summary": "O Ibovespa encerrou julho em alta, consolidando a segunda semana consecutiva de ganhos e voltando ao maior nível de fechamento desde maio. O principal índice da B3 avançou 0,47% nesta sexta-feira (31), aos 177.999,00 pon",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-31-julho-2026-santander-sanb11-opa-mt/",
+      "time": "2026-07-31T21:55:06Z",
+      "cat": "acoes",
+      "tickers": [
+        "SANB11"
+      ],
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/30169c1a-ifix-2-1-1-png.webp"
     },
     {
       "title": "B3 abre com 2h30 de atraso após falha operacional; entenda o que aconteceu",
@@ -223,41 +281,54 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/analista-concentrado-1_09-4.webp"
     },
     {
-      "title": "IRB(Re) (IRBR3) e Bradesco (BBDC4) pagam dividendos nesta sexta; veja detalhes",
-      "summary": "IRB(Re) (IRBR3) e Bradesco (BBDC4) pagam dividendos nesta sexta; veja detalhesAs empresas IRB(Re) (IRBR3) e o Bradesco (BBDC4) estão entre os destaques corporativos desta sexta-feira, pois pagarão hoje dividendos aos seu",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/o-irb-brasil-resseguros-irbr3-agenda-dividendos-31072026/",
-      "time": "2026-07-31T13:02:00Z",
-      "cat": "fundos",
-      "tickers": [
-        "IRBR3",
-        "BBDC4"
-      ],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2026/06/Dividendos_Pixabay13-1-jpg.webp"
-    },
-    {
-      "title": "Vale (VALE3) tem lucro de US$ 1,375 bilhão no 2T26, queda de 35% na comparação anual",
-      "summary": "Vale (VALE3) tem lucro de US$ 1,375 bilhão no 2T26, queda de 35% na comparação anualA Vale (VALE3) registrou lucro líquido de US$ 1,375 bilhão no segundo trimestre de 2026, queda de 35% em relação ao mesmo período do ano",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/vale-vale3-lucro-2t26-queda-35-go/",
-      "time": "2026-07-31T12:07:00Z",
-      "cat": "acoes",
-      "tickers": [
-        "VALE3"
-      ],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2026/01/vale-vale3-2-jpg.webp"
-    },
-    {
-      "title": "Ibovespa sobe 3,47% em julho e tem melhor mês desde fevereiro",
-      "summary": "O principal destaque positivo do pregão foi o Santander Brasil (SANB11), que disparou 13,35%",
+      "title": "Presidente do Fed avalia reduzir número de reuniões que definem taxa de juros, diz jornal",
+      "summary": "O modelo atualmente em vigor foi adotado em 1981, durante a gestão de Paul Volcker à frente do banco central americano",
       "source": "Exame",
-      "url": "https://exame.com/invest/mercados/ibovespa-sobe-347-em-julho-e-tem-melhor-mes-desde-fevereiro/",
-      "time": "2026-07-31T17:48:42Z",
+      "url": "https://exame.com/invest/mercados/presidente-do-fed-avalia-reduzir-numero-de-reunioes-que-definem-taxa-de-juros-diz-jornal/",
+      "time": "2026-07-31T19:19:38Z",
       "cat": "economia",
-      "tickers": [
-        "SANB11"
-      ],
-      "image": "https://classic.exame.com/wp-content/uploads/2020/11/DSC2639bx.jpg"
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/05/1200x800-1.png"
+    },
+    {
+      "title": "Michelle diz que ainda não reencontrou Flávio após crise",
+      "summary": "A ex-primeira dama também afirmou que ainda não decidiu se disputará uma vaga ao Senado pelo Distrito Federal e disse que a definição será tomada em conjunto com o ex-presidente Jair Bolsonaro",
+      "source": "Exame",
+      "url": "https://exame.com/brasil/michelle-diz-que-ainda-nao-reencontrou-flavio-apos-crise/",
+      "time": "2026-07-31T19:14:06Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/Flavio-Bolsonaro-e-Michelle-Bolsonaro.jpg"
+    },
+    {
+      "title": "Pai de Amy Winehouse perde ação por bens e é condenado em US$ 1,3 milhão",
+      "summary": "Justiça britânica concluiu que muitos dos objetos leiloados haviam sido presenteados por Amy Winehouse às amigas antes de sua morte",
+      "source": "Exame",
+      "url": "https://exame.com/pop/pai-de-amy-winehouse-perde-acao-por-bens-e-e-condenado-em-us-13-milhao/",
+      "time": "2026-07-31T19:01:07Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/amy_winehouse.jpg"
+    },
+    {
+      "title": "Petrobras anuncia alta em preço de combustível de aviação",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/petrobras-anuncia-alta-em-preco-de-combustivel-de-aviacao-2022470",
+      "time": "2026-07-31T22:14:07Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/Petrobras_800x533_L_1600266768.jpg"
+    },
+    {
+      "title": "Trump ordena novos ataques militares ao Irã após colapso das negociações",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/trump-ordena-novos-ataques-militares-ao-ira-apos-colapso-das-negociacoes-2022462",
+      "time": "2026-07-31T21:41:20Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM3N15V_L.jpg"
     },
     {
       "title": "México - Ações fecharam o pregão em queda e o Índice S&P/BMV IPC recuou 0,53%",
@@ -298,47 +369,7 @@
       "cat": "fundos",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/moved_LYNXMPEHAT0R8_L.jpg"
-    },
-    {
-      "title": "Rússia - Ações fecharam o pregão em alta e o Índice MOEX Russia Index avançou 0,53%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/russia--acoes-fecharam-o-pregao-em-alta-e-o-indice-moex-russia-index-avancou-053-2022441",
-      "time": "2026-07-31T21:20:19Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/MoscowExchange_800x533_L_1629374452.jpg"
-    },
-    {
-      "title": "George Santos é condenado a pagar US$ 35.000 por manipulação de mercado",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/george-santos-e-condenado-a-pagar-us-35000-por-manipulacao-de-mercado-93CH-2022427",
-      "time": "2026-07-31T21:09:31Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEBBR0PM_M.jpg"
-    },
-    {
-      "title": "Ibovespa fecha em alta em dia de sessão encurtada por problema técnico",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-fecha-em-alta-em-dia-de-sessao-encurtada-por-problema-tecnico-2022386",
-      "time": "2026-07-31T20:56:07Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/moved_small-LYNXMPEJ6I0VL_L.jpg"
-    },
-    {
-      "title": "Wall Street fecha em alta, com Amazon acalmando temores em relação à IA",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/economy-news/wall-street-fecha-em-alta-com-amazon-acalmando-temores-em-relacao-a-ia-2022392",
-      "time": "2026-07-31T20:49:25Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEM380XK_1200_L.jpg"
     }
   ],
-  "atualizado_em": "31/07/2026 21:38"
+  "atualizado_em": "31/07/2026 22:58"
 }
