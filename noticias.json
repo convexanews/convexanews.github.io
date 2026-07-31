@@ -1,186 +1,160 @@
 {
   "headline": {
-    "title": "OPA bilionária do Santander (SANB11) e resultado da Vale (VALE3) movimentam mercado; Ibovespa em dólar sobe hoje (31)",
-    "summary": "O último pregão de julho promete ser movimentado para os investidores brasileiros, que repercutem os resultados da Vale (VALE3) e a proposta do Santander Brasil (SANB11) para reorganizar sua estrutura societária no país.",
-    "source": "Money Times",
-    "url": "https://www.moneytimes.com.br/opa-bilionaria-do-santander-sanb11-e-resultado-da-vale-vale3-movimentam-mercado-ibovespa-em-dolar-sobe-hoje-31/",
-    "time": "2026-07-31T10:03:36Z",
+    "title": "Dólar hoje sobe após tombo na sessão anterior",
+    "summary": "Dólar caiu quase 1% na véspera, com investidores repercutindo dados de inflação nos EUA",
+    "source": "InfoMoney",
+    "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-31072026/",
+    "time": "2026-07-31T12:51:06Z",
     "cat": "economia",
-    "tickers": [
-      "SANB11",
-      "VALE3"
-    ],
-    "image": "https://www.moneytimes.com.br/uploads/2026/07/mercado-morning-ibovespa-wall-street-1.jpg"
+    "tickers": [],
+    "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/blogging-guide-K5DY18hy5JQ-unsplash_red.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
   },
   "featured": [
     {
-      "title": "Bolsas da Ásia sobem com recuperação de IA; Kospi tem alta recorde de quase 18%",
-      "summary": "As bolsas asiáticas fecharam em alta nesta sexta-feira (31), com destaque para a Coreia do Sul, onde o mercado disparou quase 18%, acompanhando os ganhos de Wall Street. O movimento refletiu a recuperação de ações ligada",
+      "title": "Bitcoin recua após balanço da Strategy; confira o preço das principais criptomoedas nesta sexta (31)",
+      "summary": "O bitcoin (BTC) amanheceu em queda de cerca de 1,2% nesta sexta-feira (31), no patamar de cerca de US$ 63,8 mil. O recuo da principal criptomoeda do mundo vem após a divulgação dos resultados da Strategy no segundo trime",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bolsas-da-asia-sobem-com-recuperacao-de-ia-kospi-tem-alta-recorde-de-quase-18/",
-      "time": "2026-07-31T10:24:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/coreia-do-sul.jpg"
+      "url": "https://www.moneytimes.com.br/strategy-perde-us-82-bilhoes-e-bitcoin-recua-confira-o-preco-das-principais-criptomoedas-nesta-sexta-31-ceci/",
+      "time": "2026-07-31T12:33:58Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/bitcoin-btc-em-queda-imagem-chatgpt.png"
     },
     {
-      "title": "Minidólar (WDOQ26): pressão vendedora segue; veja os pontos para operar",
-      "summary": "Saiba o que esperar para o minidólar nesta sexta (31)",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdoq26-31072026/",
-      "time": "2026-07-31T10:08:00Z",
-      "cat": "economia",
+      "title": "Sem cotação: Mini índice (WIN) e Minidólar (WDO) têm abertura adiada nesta sexta-feira (31)",
+      "summary": "A B3 informou que, excepcionalmente no pregão de listados nesta sexta-feira (31), vai adiar a abertura das negociações dos contratos de Mini Índice (WIN) e Minidólar (WDO), assim como os demais ativos e contratos irão pe",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/sem-cotacao-mini-indice-win-e-minidolar-wdo-tem-abertura-adiada-nesta-sexta-feira-31-lils/",
+      "time": "2026-07-31T12:37:28Z",
+      "cat": "fundos",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/WDOQ26-15-MINUTOS-31.07.2026.png?fit=300%2C138&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2025/07/day-trade-4-1-1-1-1-1-1-1.jpg"
     }
   ],
   "all": [
     {
-      "title": "Minidólar (WDOQ26): pressão vendedora segue; veja os pontos para operar",
-      "summary": "Saiba o que esperar para o minidólar nesta sexta (31)",
+      "title": "Terremoto no Japão interrompe operações de fábricas de automóveis e de semicondutores",
+      "summary": "A Aisin , uma fornecedora automotiva que fabrica portas, motores e outras peças em uma fábrica próxima ao epicentro do tremor de terça-feira, é um exemplo disso",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdoq26-31072026/",
-      "time": "2026-07-31T10:08:00Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/WDOQ26-15-MINUTOS-31.07.2026.png?fit=300%2C138&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "CSN aprova oferta para troca de títulos de US$ 1,3 bi; prevê aumento no prejuízo",
-      "summary": "Títulos existentes poderão ser trocados por novas notes colocadas no exterior com remuneração de taxa fixa de 11,00% ao ano",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/csn-aprova-oferta-para-troca-de-titulos-de-us-13-bi-preve-aumento-no-prejuizo/",
-      "time": "2026-07-31T10:07:39Z",
+      "url": "https://www.infomoney.com.br/mundo/terremoto-no-japao-interrompe-operacoes-de-fabricas-de-automoveis-e-de-semicondutores/",
+      "time": "2026-07-31T12:54:47Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/11/aco-gerdau-csn-usiminas.jpg?fit=300%2C236&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-30T122154Z_1_LYNXMPEM6T1B9_RTROPTP_4_JAPAN-QUAKE.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Day Trade hoje (31): Ibovespa reage forte; alta pode continuar? Veja análise",
-      "summary": "Confira os pontos de suporte e resistência do mini-índice e minidólar",
+      "title": "PMI industrial da China cai para 49,2 em julho e indica contração da atividade",
+      "summary": "Já o PMI composto cedeu para 49,3 em julho, bem abaixo dos 50,6 registrados no mês anterior",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-31072026/",
-      "time": "2026-07-31T10:03:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/12/Daytrade-hoje.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Passivo na Justiça agrava crise e desafia empresas em recuperação judicial",
-      "summary": "Além de juros altos e crédito restrito, dívidas judiciais mal dimensionadas podem comprometer o sucesso das reestruturações, diz especialista",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/minhas-financas/passivo-na-justica-agrava-crise-e-desafia-empresas-em-recuperacao-judicial/",
-      "time": "2026-07-31T10:00:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/03/calculator-453792_640.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Após blue chips, small caps podem liderar nova alta da Bolsa, diz André Moraes",
-      "summary": "Analista prevê que o capital estrangeiro deve entrar primeiro em ações mais líquidas e, depois, buscar oportunidades em varejo e construção",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/apos-blue-chips-small-caps-podem-liderar-nova-alta-da-bolsa-diz-andre-moraes/",
-      "time": "2026-07-31T10:00:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Andre-Moraes-Expert-XP-2026.-Imagem-Bruno-Nadai.jpeg?fit=300%2C234&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Mercados reagem a balanço da Vale, OPA do Santander e PPI nesta sexta",
-      "summary": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta sexta-feira (31)",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/mercados-balanco-vale-opa-santander-ppi-31072026/",
-      "time": "2026-07-31T09:30:43Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-04T142216Z_1_LYNXMPEM2310U_RTROPTP_4_USA-STOCKS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Bolsas da Ásia sobem com recuperação de IA; Kospi tem alta recorde de quase 18%",
-      "summary": "As bolsas asiáticas fecharam em alta nesta sexta-feira (31), com destaque para a Coreia do Sul, onde o mercado disparou quase 18%, acompanhando os ganhos de Wall Street. O movimento refletiu a recuperação de ações ligada",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bolsas-da-asia-sobem-com-recuperacao-de-ia-kospi-tem-alta-recorde-de-quase-18/",
-      "time": "2026-07-31T10:24:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/coreia-do-sul.jpg"
-    },
-    {
-      "title": "Bolsas da Europa sobem com ações de tecnologia, após CPI em linha com o previsto",
-      "summary": "As bolsas europeias avançam na manhã desta sexta-feira (31), impulsionadas por ações de tecnologia, enquanto investidores digerem os números mais recentes da inflação ao consumidor (CPI) da zona do euro, que vieram em li",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bolsas-da-europa-sobem-com-acoes-de-tecnologia-apos-cpi-em-linha-com-o-previsto/",
-      "time": "2026-07-31T10:20:00Z",
+      "url": "https://www.infomoney.com.br/economia/pmi-industrial-da-china-cai-para-492-em-julho-e-indica-contracao-da-atividade/",
+      "time": "2026-07-31T12:52:20Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/bolsa-de-frankfurt.jpg"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/2024-08-27T110947Z_1_LYNXMPEK7Q0EY_RTROPTP_4_MACRO-CHINA-INDUSTRIA.jpg?fit=300%2C216&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "CSN (CSNA3) aprova oferta para troca de títulos de US$ 1,3 bi; prevê aumento no prejuízo do 1º semestre",
-      "summary": "A CSN (CSNA3) anunciou na noite de quinta-feira (30) que o seu conselho de administração aprovou uma oferta de troca de bonds com vencimento em 2028 e juros de 6,750% ao ano emitidos pela subsidiária CSN Inova. De acordo",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/csn-aprova-oferta-para-troca-de-titulos-de-us13-bi-preve-aumento-no-prejuizo-do-1o-semestre/",
-      "time": "2026-07-31T10:16:12Z",
-      "cat": "acoes",
-      "tickers": [
-        "CSNA3"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/csn-csn-mineracao.jpg"
-    },
-    {
-      "title": "OPA bilionária do Santander (SANB11) e resultado da Vale (VALE3) movimentam mercado; Ibovespa em dólar sobe hoje (31)",
-      "summary": "O último pregão de julho promete ser movimentado para os investidores brasileiros, que repercutem os resultados da Vale (VALE3) e a proposta do Santander Brasil (SANB11) para reorganizar sua estrutura societária no país.",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/opa-bilionaria-do-santander-sanb11-e-resultado-da-vale-vale3-movimentam-mercado-ibovespa-em-dolar-sobe-hoje-31/",
-      "time": "2026-07-31T10:03:36Z",
-      "cat": "economia",
-      "tickers": [
-        "SANB11",
-        "VALE3"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/mercado-morning-ibovespa-wall-street-1.jpg"
-    },
-    {
-      "title": "Trading coloca o controle emocional à prova em cada operação; especialistas dão dicas de como lidar",
-      "summary": "Quem opera como trader aprende rápido que o gráfico não é o único desafio da operação. Mesmo com uma estratégia definida e regras de risco, muitos investidores abandonam o plano quando o mercado se move contra a expectat",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/day-trade-coloca-o-controle-emocional-a-prova-em-cada-operacao-e-especialistas-dao-dicas-de-como-lidar-jvka/",
-      "time": "2026-07-31T10:00:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/06/59cb1b37-2e7a-444f-b28a-be498cb5355f.png"
-    },
-    {
-      "title": "A ‘festa da reeleição’? MP das dívidas rurais divide especialistas e acende alerta para o Banco do Brasil (BBAS3)",
-      "summary": "Não é de hoje que o agronegócio enfrenta uma crise de crédito que levou a inadimplência aos maiores níveis da história recente. Dados do Banco Central (BC) mostram que os atrasos superiores a 90 dias no crédito rural par",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/a-festa-da-reeleicao-mp-das-dividas-rurais-divide-especialistas-e-acende-alerta-para-o-banco-do-brasil-bbas3-pads-rnda/",
-      "time": "2026-07-31T10:00:00Z",
-      "cat": "acoes",
-      "tickers": [
-        "BBAS3"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/banco-do-brasil-bbas3-1-1024x544.jpg"
-    },
-    {
-      "title": "Saiba quando e como sacar Bolsa Família, Gás do Povo, Pé-de-Meia e outros benefícios em agosto",
-      "summary": "Com a chegada de agosto, começam os pagamentos dos benefícios sociais do Governo Federal, cujas datas já foram definidas no início do ano. Para que você possa se organizar melhor, o Money Times relembra todos os meses os",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bolsa-familia-gas-do-povo-pe-de-meia-calendario-dos-programas-sociais-para-agosto-isca/",
-      "time": "2026-07-31T09:38:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.seudinheiro.com/uploads/2026/03/image-29.png"
-    },
-    {
-      "title": "Tempo real: Ibovespa fecha semana de olho na inflação e confiança do consumidor",
-      "summary": "Resumo: O Ibovespa (IBOV) encerra a semana acompanhando o CPI da zona do euro, a coletiva de imprensa do Banco do Japão, o balanço orçamentário e o PPI no Brasil, além da confiança do consumidor nos Estados Unidos. Desta",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/tempo-real-ibovespa-hoje-mercado-ao-vivo-31-07-2026-jals-lils-apsa/",
-      "time": "2026-07-31T09:00:00Z",
+      "title": "Dólar hoje sobe após tombo na sessão anterior",
+      "summary": "Dólar caiu quase 1% na véspera, com investidores repercutindo dados de inflação nos EUA",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-31072026/",
+      "time": "2026-07-31T12:51:06Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2024/09/ibovespa-acoes.jpg"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/blogging-guide-K5DY18hy5JQ-unsplash_red.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Por que Santander lançou OPA por operação brasileira? O que acionistas devem fazer?",
+      "summary": "Oferta de troca de ações do grupo espanhol pode destravar valor para minoritários em meio a momento desafiador do Santander Brasil, mas analistas divergem sobre o quanto a proposta é atrativa",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/santander-brasil-perguntas-respostas-oferta-opa-matriz-quinze-por-cento-por-que-e-o-que-acionistas-devem-fazer/",
+      "time": "2026-07-31T12:45:31Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/11/shutterstock_1491864170.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Minério tem maior queda semanal em 6 meses, após contração da indústria na China",
+      "summary": "O contrato de minério de ferro para setembro mais negociado na Bolsa ⁠de ‌Mercadorias de Dalian (DCE) da China registrou queda de 1,31%, ⁠para 716 iuanes",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/minerio-tem-maior-queda-semanal-em-6-meses-apos-contracao-da-industria-na-china/",
+      "time": "2026-07-31T12:39:31Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/04/minerio-de-ferro.jpg?fit=300%2C194&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Preços ao produtor no Brasil têm queda de 0,77% em junho, diz IBGE",
+      "summary": "Os preços ao produtor no Brasil tiveram queda de 0,77% em junho na comparação com o mês anterior, depois de recuarem 0,30% em maio, informou o Instituto Brasileiro de Geografia e Estatística (IBGE) nesta sexta-feira (31)",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/precos-ao-produtor-no-brasil-tem-queda-de-077-em-junho-diz-ibge-jcav/",
+      "time": "2026-07-31T12:44:45Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/10/bndes-produtores-rurais.jpg"
+    },
+    {
+      "title": "Sem cotação: Mini índice (WIN) e Minidólar (WDO) têm abertura adiada nesta sexta-feira (31)",
+      "summary": "A B3 informou que, excepcionalmente no pregão de listados nesta sexta-feira (31), vai adiar a abertura das negociações dos contratos de Mini Índice (WIN) e Minidólar (WDO), assim como os demais ativos e contratos irão pe",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/sem-cotacao-mini-indice-win-e-minidolar-wdo-tem-abertura-adiada-nesta-sexta-feira-31-lils/",
+      "time": "2026-07-31T12:37:28Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/07/day-trade-4-1-1-1-1-1-1-1.jpg"
+    },
+    {
+      "title": "Fundo imobiliário tem valorização de 48,9% no patrimônio após nova avaliação de imóveis; Ifix avança",
+      "summary": "O fundo imobiliário Mauá Capital Desenvolvimento Urbano (MCDU11) informou ao mercado que registrou um impacto positivo de 48,87% em seu patrimônio líquido no dia 24 de julho, em comparação com a posição de 23 de julho, c",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/fundo-imobiliario-tem-valorizacao-de-489-no-patrimonio-apos-nova-avaliacao-de-imoveis-ifix-avanca-jcav/",
+      "time": "2026-07-31T12:36:05Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/admin-ajax-3.jpg"
+    },
+    {
+      "title": "Bitcoin recua após balanço da Strategy; confira o preço das principais criptomoedas nesta sexta (31)",
+      "summary": "O bitcoin (BTC) amanheceu em queda de cerca de 1,2% nesta sexta-feira (31), no patamar de cerca de US$ 63,8 mil. O recuo da principal criptomoeda do mundo vem após a divulgação dos resultados da Strategy no segundo trime",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/strategy-perde-us-82-bilhoes-e-bitcoin-recua-confira-o-preco-das-principais-criptomoedas-nesta-sexta-31-ceci/",
+      "time": "2026-07-31T12:33:58Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/bitcoin-btc-em-queda-imagem-chatgpt.png"
+    },
+    {
+      "title": "Governo detalha bloqueio no Orçamento de 2026 após liberação de recursos",
+      "summary": "O governo federal publicou, na noite desta quinta-feira, 30, o decreto que detalha a programação orçamentária após o desbloqueio de R$ 5,74 bilhões em despesas do Orçamento de 2026, conforme divulgado na semana passada p",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/governo-detalha-bloqueio-no-orcamento-de-2026-apos-liberacao-de-recursos/",
+      "time": "2026-07-31T12:31:35Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/esplanadadosministerios.jpg"
+    },
+    {
+      "title": "Setor público tem déficit primário de R$ 55,313 bilhões em junho, afirma BC",
+      "summary": "O setor público consolidado (governo central, Estados, municípios e estatais, à exceção de Petrobras e Eletrobras) teve déficit primário de R$ 55,313 bilhões em junho, após déficit de R$ 56,131 bilhões em maio, informou ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/setor-publico-tem-deficit-primario-de-r-55313-bilhoes-em-junho-afirma-bc/",
+      "time": "2026-07-31T12:27:51Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/real-moeda-dinheiro-reais.jpg"
+    },
+    {
+      "title": "XPSF11 tem alta de 8,4% no resultado e yield de 16,67% ao ano; entenda",
+      "summary": "Em junho, o XPSF11 apurou resultado de R$ 3,103 milhões, avanço de 8,4% ante o mês anterior. O desempenho refletiu receitas totais de R$ 3,340 milhões e despesas de R$ 237 mil no período, conforme comunicado do fundo. Pa",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/rendimentos-do-xpsf11-junho-2026/",
+      "time": "2026-07-31T11:15:07Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/206_Detalhe_de_gr_fico_f_1_2026017_164557-3-jpg.webp"
     },
     {
       "title": "HGLG11: FII negocia imóvel por R$ 119,8 milhões e obtém ganho de R$ 44,5 mi",
@@ -247,105 +221,97 @@
       "image": "https://files.sunoresearch.com.br/n/uploads/2026/07/776ea9d9-noticia-de-hoje-19.08-1-1-jpg.webp"
     },
     {
-      "title": "Amazon dispara após lucro e ação sobe 8% no after hours em NY",
-      "summary": "Amazon dispara após lucro e ação sobe 8% no after hours em NYA Amazon registrou um lucro líquido de US$ 62,65 bilhões no segundo trimestre, o que representou US$ 5,75 por ação, ficando bem acima dos US$ 1,82 projetados p",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/amazon-amzo34-lucro-segundo-trimestre-acima-projecoes-mtae/",
-      "time": "2026-07-30T21:39:54Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2025/12/cropped-a37f0fd4-amazon-jpg.webp"
-    },
-    {
-      "title": "Westinghouse registra pedido de IPO na SEC",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/westinghouse-registra-pedido-de-ipo-na-sec-432SI-2021620",
-      "time": "2026-07-31T10:29:02Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6J0AJ_M.jpg"
-    },
-    {
-      "title": "Westinghouse protocola confidencialmente pedido de IPO nos EUA",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/westinghouse-protocola-confidencialmente-pedido-de-ipo-nos-eua-2021617",
-      "time": "2026-07-31T10:26:23Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB2N09U_M.jpg"
-    },
-    {
-      "title": "China fiscaliza Chery, Nio e JAC por conformidade em segurança veicular",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/china-fiscaliza-chery-nio-e-jac-por-conformidade-em-seguranca-veicular-93CH-2021607",
-      "time": "2026-07-31T10:21:07Z",
+      "title": "Negociações na B3 vão começar mais tarde hoje: entenda os motivos",
+      "summary": "Atraso na abertura da Câmara B3 afeta o pregão desta sexta e adia o início da negociação dos minicontratos de índice e dólar",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/negociacoes-na-b3-vao-comecar-mais-tarde-hoje-entenda-os-motivos/",
+      "time": "2026-07-31T09:36:31Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEC0409P_M.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2021/11/WhatsApp-Image-2021-10-29-at-16.17.07.jpg"
     },
     {
-      "title": "Westinghouse Electric registra pedido confidencial de IPO na SEC",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/westinghouse-electric-registra-pedido-confidencial-de-ipo-na-sec-432SI-2021604",
-      "time": "2026-07-31T10:19:03Z",
+      "title": "Mineradora vende 100 bitcoins para financiar centro de dados de IA nos EUA",
+      "summary": "A Hyperscale Data está utilizando parte de suas reservas em bitcoin e uma linha de crédito lastreada no ativo para financiar um campus de inteligência artificial em Michigan",
+      "source": "Exame",
+      "url": "https://exame.com/future-of-money/mineradora-vende-100-bitcoins-para-financiar-centro-de-dados-de-ia-nos-eua/",
+      "time": "2026-07-31T09:30:10Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC"
+      ],
+      "image": "https://classic.exame.com/wp-content/uploads/2021/03/Bitcoin-mineracao-1.jpg"
+    },
+    {
+      "title": "EUA abrem investigação sobre 1 milhão de carros da Tesla",
+      "summary": "Falha pode deixar veículo impossível de dirigir e exigir reboque, segundo agência dos EUA",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/eua-abrem-investigacao-sobre-1-milhao-de-carros-da-tesla/",
+      "time": "2026-07-31T09:05:47Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEBAG0BO_M.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2025/02/GettyImages-2180232705.jpg"
     },
     {
-      "title": "Allianz comprará participação de funcionários da Pimco por US$ 1,61 bilhão",
+      "title": "Por que as ações da Acciona Sa estão caindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/allianz-comprara-participacao-de-funcionarios-da-pimco-por-us-161-bilhao-93CH-2021600",
-      "time": "2026-07-31T10:18:10Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-acciona-sa-estao-caindo-hoje-93CH-2021858",
+      "time": "2026-07-31T12:30:05Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0K08U_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEBBR0PM_M.jpg"
     },
     {
-      "title": "Temu é acusada pela UE por falta de cooperação em inspeção em Dublin",
+      "title": "Nova York processa Kalshi por operação ilegal de apostas",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/temu-e-acusada-pela-ue-por-falta-de-cooperacao-em-inspecao-em-dublin-93CH-2021597",
-      "time": "2026-07-31T10:16:33Z",
+      "url": "https://br.investing.com/news/stock-market-news/nova-york-processa-kalshi-por-operacao-ilegal-de-apostas-93CH-2021842",
+      "time": "2026-07-31T12:18:46Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPECBE0OL_L.jpg"
+    },
+    {
+      "title": "Ação de beleza europeia bem-posicionada agora, segundo Barclays",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acao-de-beleza-europeia-bemposicionada-agora-segundo-barclays-93CH-2021840",
+      "time": "2026-07-31T12:18:12Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://content-media.investing.com/news/CosmeticsSkinCare_800x533_L_1641974468.jpg"
+    },
+    {
+      "title": "Por que as ações da Monte Rosa Therapeutics despencam hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-monte-rosa-therapeutics-despencam-hoje-93CH-2021839",
+      "time": "2026-07-31T12:18:01Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6R0AQ_L.jpg"
+    },
+    {
+      "title": "Moody’s rebaixa notas da Carnival após liberação de garantias",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/moodys-rebaixa-notas-da-carnival-apos-liberacao-de-garantias-93CH-2021837",
+      "time": "2026-07-31T12:15:14Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0E0NI_M.jpg"
     },
     {
-      "title": "Medacta registra receita abaixo do esperado com desaceleração na América do Norte",
+      "title": "Banco da Inglaterra deve reduzir ritmo de diminuição do portfólio de títulos",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/medacta-registra-receita-abaixo-do-esperado-com-desaceleracao-na-america-do-norte-93CH-2021588",
-      "time": "2026-07-31T10:13:14Z",
+      "url": "https://br.investing.com/news/stock-market-news/banco-da-inglaterra-deve-reduzir-ritmo-de-diminuicao-do-portfolio-de-titulos-93CH-2021833",
+      "time": "2026-07-31T12:14:00Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6U08A_M.jpg"
-    },
-    {
-      "title": "Interroll divulga resultados mistos no primeiro semestre e mantém perspectivas",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/interroll-divulga-resultados-mistos-no-primeiro-semestre-e-mantem-perspectivas-93CH-2021586",
-      "time": "2026-07-31T10:10:52Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
-    },
-    {
-      "title": "Comet divulga resultados do primeiro semestre e apresenta guidance para 2026",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/comet-divulga-resultados-do-primeiro-semestre-e-apresenta-guidance-para-2026-93CH-2021570",
-      "time": "2026-07-31T10:08:30Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0D0AP_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEC0409P_M.jpg"
     }
   ],
-  "atualizado_em": "31/07/2026 10:38"
+  "atualizado_em": "31/07/2026 12:55"
 }
