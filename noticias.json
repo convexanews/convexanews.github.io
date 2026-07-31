@@ -13,102 +13,92 @@
   },
   "featured": [
     {
-      "title": "Microsoft cresce US$ 450 bilhões em um dia, quase quatro vezes o valor da Petrobras",
-      "summary": "Em apenas um pregão, a companhia criou valor equivalente a 47,3% de toda a capitalização das empresas listadas na B3, montante próximo de quatro vezes o valor de mercado da Petrobras",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/microsoft-cresce-us-450-bilhoes-em-um-dia-quase-quatro-vezes-o-valor-da-petrobras/",
-      "time": "2026-07-30T19:52:39Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/10/GettyImages-2186206624.jpg"
+      "title": "Vale (VALE3) tem lucro 43% menor no 2T26 e revisa guidance de custos do minério",
+      "summary": "A Vale (VALE3) registrou lucro líquido de R$ 6,847 bilhões no segundo trimestre de 2026 (2T26), queda de 43,3% em relação aos R$ 12,081 bilhões apurados no mesmo período do ano passado. O resultado veio acompanhado de um",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/vale-vale3-tem-lucro-43-menor-no-2t26-e-revisa-guidance-de-custos-do-minerio-vtra/",
+      "time": "2026-07-30T22:05:57Z",
+      "cat": "acoes",
+      "tickers": [
+        "VALE3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/vale-vale3.png"
     },
     {
-      "title": "Vale tem lucro 35% menor no 2º trimestre, mas cobre e níquel disparam",
-      "summary": "Recordes de cobre e minério não impediram queda no lucro, pressionado pelo resultado financeiro",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/vale-tem-lucro-35-menor-no-2o-trimestre-mas-cobre-e-niquel-disparam/",
-      "time": "2026-07-30T19:31:55Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/04/EX1286_MAT-VALE_4.jpg"
+      "title": "Vale (VALE3) elege vice-presidente do conselho e novo diretor independente",
+      "summary": "A Vale (VALE3) informou nesta quinta-feira (30) alterações na composição do Conselho de Administração, com efeitos a partir de 1º de agosto de 2026 até o fim do mandato atual. O conselheiro independente Reinaldo Duarte C",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/vale-vale3-elege-vice-presidente-do-conselho-e-novo-diretor-independente/",
+      "time": "2026-07-30T21:59:21Z",
+      "cat": "acoes",
+      "tickers": [
+        "VALE3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/vale-1.jpg"
     }
   ],
   "all": [
     {
-      "title": "Lula diz que filho será investigado “como qualquer pessoa” após abertura de inquérito",
-      "summary": "Presidente afirma que não pedirá tratamento diferenciado ao filho; André Mendonça autorizou investigação sobre suspeitas de tráfico de influência e corrupção",
+      "title": "Flávio: Falta braço para investigar Lulinha; imagina se fosse filho de Bolsonaro?",
+      "summary": "Mais cedo, o ministro Supremo Tribunal Federal (STF) André Mendonça autorizou a abertura de um inquérito para apurar suspeitas de tráfico de influência no governo federal de Lulinha",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/lula-diz-que-filho-sera-investigado-como-qualquer-pessoa-apos-abertura-de-inquerito/",
-      "time": "2026-07-30T23:35:35Z",
+      "url": "https://www.infomoney.com.br/politica/flavio-falta-braco-para-investigar-lulinha-imagina-se-fosse-filho-de-bolsonaro/",
+      "time": "2026-07-31T01:01:13Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/lula-pt-politica-eleicoes-01.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-25T165535Z_326902380_RC24LMAT6HCH_RTRMADP_3_BRAZIL-POLITICS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Vale (VALE3) anuncia o comissionamento do projeto Serra Sul +20",
-      "summary": "O projeto contempla a expansão da capacidade de mina e usina do S11D",
+      "title": "Mendonça autorizou PF a monitorar localização do celular de Jaques Wagner",
+      "summary": "Ministro do STF permitiu acesso a registros de antenas de telefonia e monitoramento em tempo real por dez dias",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/vale-vale3-anuncia-o-comissionamento-do-projeto-serra-sul-20/",
-      "time": "2026-07-30T23:28:34Z",
+      "url": "https://www.infomoney.com.br/politica/mendonca-autorizou-pf-a-monitorar-localizacao-do-celular-de-jaques-wagner/",
+      "time": "2026-07-31T00:32:39Z",
       "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/54873305585_20d655b4e8_c.jpg?fit=300%2C182&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "PF diz que negociação de imóvel para Jaques Wagner seguiu após prisão de Vorcaro",
+      "summary": "Relatório tornado público por André Mendonça aponta que tratativas sobre apartamento de R$ 2,45 milhões seguiram mesmo após a prisão de Daniel Vorcaro, segundo investigadores",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/pf-diz-que-negociacao-de-imovel-para-jaques-wagner-seguiu-apos-prisao-de-vorcaro/",
+      "time": "2026-07-31T00:21:16Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/jaques-1-cbf81100.webp?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Quina hoje, concurso 7079: confira o resultado sorteado nesta quinta-feira (30)",
+      "summary": "O prêmio deste concurso era de R$ 600.000,00",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7079-confira-o-resultado-sorteado-nesta-quinta-feira-30/",
+      "time": "2026-07-31T00:08:22Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=300%2C175&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Lotofácil hoje, concurso 3749: confira o resultado sorteado nesta quinta-feira (30)",
+      "summary": "O prêmio estimado para este concurso é de R$ 2 milhões",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3749-confira-o-resultado-sorteado-nesta-quinta-feira-30/",
+      "time": "2026-07-31T00:07:17Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/09/Image-9.jpg?fit=300%2C225&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Tem Santander (SANB11) na carteira? Entenda os riscos de se manter ações no portfólio",
+      "summary": "O Santander Espanha surpreendeu parte do mercado ao anunciar uma oferta para adquirir cerca de 10% das ações em circulação do Santander Brasil (SANB11). O movimento, porém, não era exatamente uma novidade. A possibilidad",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/tem-santander-sanb11-na-carteira-entenda-os-riscos-de-se-manter-acoes-no-portfolio-rnda/",
+      "time": "2026-07-31T00:29:43Z",
+      "cat": "analise",
       "tickers": [
-        "VALE3"
+        "SANB11"
       ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/Isa_Carajas.jpg?fit=300%2C225&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "EcoRodovias tem lucro líquido recorrente de R$ 52,9 mi no 2º tri, queda de 74%",
-      "summary": "Já a receita líquida ajustada registrou alta de 1%, atingindo R$ 1,836 bilhão",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ecorodovias-ecor3-resultados-segundo-trimestre-2026/",
-      "time": "2026-07-30T22:10:25Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/10/pexels-pixabay-56832.jpg?fit=300%2C206&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "EXCLUSIVO: Erai Maggi lidera grupo do agro em negociação com presidente da Bolívia",
-      "summary": "Delegação de mais de 20 jatos executivos encontra Rodrigo Paz Pereira e ministros nesta sexta-feira na cidade boliviana de San Ignacio de Velasco; na mesa, uma rodovia de 129 km que pode redesenhar a logística de grãos d",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/business/exclusivo-erai-maggi-lidera-grupo-do-agro-em-negociacao-com-presidente-da-bolivia/",
-      "time": "2026-07-30T22:00:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Captura-de-tela-2026-07-29-194239.png?fit=300%2C198&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Vale (VALE3) tem lucro líquido de US$ 1,37 bi no 2T26, queda anual de 35%",
-      "summary": "A mineradora divulgou seus resultados na noite desta quinta",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/vale-vale3-resultados-segundo-trimestre-2026/",
-      "time": "2026-07-30T21:55:00Z",
-      "cat": "acoes",
-      "tickers": [
-        "VALE3"
-      ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-23T135815Z_1_LYNXMPEM5M0XS_RTROPTP_4_VALE-CHAIRMAN.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Santander lança oferta por ações do Santander Brasil em operação de até R$ 11 bi",
-      "summary": "Segundo o Santander, a transação faz parte da estratégia de simplificação societária e alocação de capital do grupo",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/santander-anuncia-opa-de-permuta-por-acoes-santander-brasil-em-operacao-de-ate-r-11-bi/",
-      "time": "2026-07-30T21:50:45Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/04/Captura-de-tela-2024-04-30-095140.png?fit=300%2C184&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Vale (VALE3) aprova pagamento de cerca de R$ 2 por ação em proventos e recompra",
-      "summary": "O anúncio aconteceu com a divulgação dos resultados e corresponde a pagamento de US$ 1,7 bilhão ao todo.",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/vale-vale3-proventos-segundo-trimestre-2026/",
-      "time": "2026-07-30T21:50:17Z",
-      "cat": "acoes",
-      "tickers": [
-        "VALE3"
-      ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-06T221839Z_1_LYNXMPEM651L4_RTROPTP_4_LATAM-SUMMIT-VALE.jpg?fit=300%2C194&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2024/10/santander-1.jpg"
     },
     {
       "title": "Podcast ‘Radar das Eleições’ estreia com cenário sobre campanhas e o que o mercado espera da política em 2026",
@@ -213,16 +203,6 @@
       "image": "https://www.moneytimes.com.br/uploads/2025/10/pictures-anna-1-1.jpg"
     },
     {
-      "title": "Apple (AAPL) tem resultado acima do esperado impulsionada por iPhones e Macs",
-      "summary": "A Apple (AAPL) divulgou nesta quinta-feira resultado acima das expectativas de Wall Street, impulsionada pela forte demanda por iPhones e MacBooks. A Apple teve alta de 16,4% na receita do terceiro trimestre fiscal, ence",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/apple-aapl-tem-resultado-acima-do-esperado-impulsionada-por-iphones-e-macs/",
-      "time": "2026-07-30T21:00:09Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/08/apple-acoes-investigacao-eua-queda-1.png"
-    },
-    {
       "title": "HGLG11: FII negocia imóvel por R$ 119,8 milhões e obtém ganho de R$ 44,5 mi",
       "summary": "O HGLG11 (Pátria Log) concluiu a venda de um ativo logístico em Itapevi (SP) por R$ 119,81 milhões, apurando ganho de 59% sobre o valor investido no imóvel. A alienação rendeu R$ 44,48 milhões acima do montante desembols",
       "source": "Suno",
@@ -297,14 +277,64 @@
       "image": "https://files.sunoresearch.com.br/n/uploads/2025/12/cropped-a37f0fd4-amazon-jpg.webp"
     },
     {
-      "title": "Airbus (AIRB34) ganha altitude com lucro forte e carteira recorde",
-      "summary": "A Airbus (AIRB34) mostrou que a demanda por aeronaves continua em alta. A fabricante europeia encerrou o segundo trimestre de 2026 com resultados acima das expectativas do mercado, impulsionada pelo aumento nas entregas ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/airbus-airb34-lucro-carteira-recorde-2t26/",
-      "time": "2026-07-30T21:15:07Z",
-      "cat": "analise",
+      "title": "Naufrágio bizantino revela raro tesouro de ouro no Mar Mediterrâneo",
+      "summary": "Achado na costa da Croácia reúne joias, moedas e um anel de sinete que reforçam a hipótese de que um integrante da elite imperial viajava na embarcação",
+      "source": "Exame",
+      "url": "https://exame.com/ciencia/naufragio-bizantino-revela-raro-tesouro-de-ouro-no-mar-mediterraneo/",
+      "time": "2026-07-30T23:57:58Z",
+      "cat": "economia",
       "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/gold-artifact.jpg"
+    },
+    {
+      "title": "Barcelona vira alvo de investigação por interesse em Julián Álvarez",
+      "summary": "O Atlético de Madrid acusa o clube catalão de tentar aliciar o jogador argentino ao longo dos últimos meses",
+      "source": "Exame",
+      "url": "https://exame.com/esporte/barcelona-vira-alvo-de-investigacao-por-interesse-em-julian-alvarez/",
+      "time": "2026-07-30T23:47:02Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/atletico-de-madrid.jpg"
+    },
+    {
+      "title": "Confederação Asiática se junta à oposição e critica plano da Fifa de vender participação da Copa",
+      "summary": "Entidade que reúne 47 federações afirmou que não foi consultada antes do anúncio da proposta e pediu mais tempo para analisar a operação",
+      "source": "Exame",
+      "url": "https://exame.com/esporte/confederacao-asiatica-se-junta-a-oposicao-e-critica-plano-da-fifa-de-vender-participacao-da-copa/",
+      "time": "2026-07-30T23:42:26Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2025/01/GettyImages-2190412982.jpg"
+    },
+    {
+      "title": "Sobre o que é 'Wild Sing', novo filme coreano da Netflix?",
+      "summary": "Comédia acompanha ex-astros do K-pop que tentam superar 20 anos de mágoas e decisões ruins para voltar aos palcos",
+      "source": "Exame",
+      "url": "https://exame.com/pop/sobre-o-que-e-wild-sing-novo-filme-coreano-da-netflix/",
+      "time": "2026-07-30T21:21:28Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/wild-sing-netflix-novo-filme-coreia.jpg"
+    },
+    {
+      "title": "Sobre o que é 'O Atentado ao Voo Pan Am 103', nova série da Netflix?",
+      "summary": "Minissérie britânica reconstitui o ataque terrorista que matou 270 pessoas em Lockerbie e a maior investigação de homicídio da história da Escócia",
+      "source": "Exame",
+      "url": "https://exame.com/pop/sobre-o-que-e-o-atentado-ao-voo-pan-am-103-nova-serie-da-netflix/",
+      "time": "2026-07-30T21:08:28Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/netflix-pan-am-nova-serie.jpg"
+    },
+    {
+      "title": "Lula diz que não vai proteger Lulinha em investigação da PF: 'Terá de provar que é inocente'",
+      "summary": "Presidente afirma que Fábio Luís, o Lulinha, terá de provar inocência e que, se culpado, \"vai pagar o que todo mundo paga quando erra\"",
+      "source": "Exame",
+      "url": "https://exame.com/brasil/lula-diz-que-nao-vai-proteger-lulinha-em-investigacao-da-pf-tera-de-provar-que-e-inocente/",
+      "time": "2026-07-30T21:00:07Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/02/GettyImages-913913988.jpg"
     },
     {
       "title": "Sobre o que é 'Fúria', nova série brasileira da Netflix?",
@@ -317,145 +347,95 @@
       "image": "https://classic.exame.com/wp-content/uploads/2026/07/furia-netflix.jpg"
     },
     {
-      "title": "Santander de saída da B3? Entenda OPA que fez papel do banco disparar 9% em NY",
-      "summary": "Banco espanhol quer lançar BDR no país e propõe permuta por ações em circulação na bolsa brasileira",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/santander-de-saida-da-b3-entenda-opa-que-fez-papel-do-banco-disparar-9-em-ny/",
-      "time": "2026-07-30T20:35:00Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2023/07/Sede-Santander-1-e1698230017796.jpg"
-    },
-    {
-      "title": "Microsoft cresce US$ 450 bilhões em um dia, quase quatro vezes o valor da Petrobras",
-      "summary": "Em apenas um pregão, a companhia criou valor equivalente a 47,3% de toda a capitalização das empresas listadas na B3, montante próximo de quatro vezes o valor de mercado da Petrobras",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/microsoft-cresce-us-450-bilhoes-em-um-dia-quase-quatro-vezes-o-valor-da-petrobras/",
-      "time": "2026-07-30T19:52:39Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/10/GettyImages-2186206624.jpg"
-    },
-    {
-      "title": "Trump assina medida que restringe exportação de terras raras",
-      "summary": "Os Estados Unidos têm volumes expressivos desses recursos incorporados a produtos manufaturados, como baterias de íons de lítio e ímãs permanentes",
-      "source": "Exame",
-      "url": "https://exame.com/mundo/trump-assina-medida-que-restringe-exportacao-de-terras-raras/",
-      "time": "2026-07-30T19:35:08Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/AFP__20260720__C2LM346__v1__HighRes__UsPoliticsTrump.jpg"
-    },
-    {
-      "title": "Vale tem lucro 35% menor no 2º trimestre, mas cobre e níquel disparam",
-      "summary": "Recordes de cobre e minério não impediram queda no lucro, pressionado pelo resultado financeiro",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/vale-tem-lucro-35-menor-no-2o-trimestre-mas-cobre-e-niquel-disparam/",
-      "time": "2026-07-30T19:31:55Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/04/EX1286_MAT-VALE_4.jpg"
-    },
-    {
-      "title": "Netflix fecha acordo bilionário para transmitir a Copa do Mundo Feminina nos EUA",
-      "summary": "Plataforma garantiu os direitos das edições de 2027 e 2031 nos Estados Unidos e reforça sua estratégia de expansão nas transmissões esportivas",
-      "source": "Exame",
-      "url": "https://exame.com/pop/netflix-fecha-acordo-bilionario-para-transmitir-a-copa-do-mundo-feminina-nos-eua/",
-      "time": "2026-07-30T19:15:21Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2024/08/53900143634_329f666f4f_c.jpg"
-    },
-    {
-      "title": "Modelos de IA Claude da Anthropic invadiram sistemas de três organizações durante testes",
+      "title": "Bolsas asiáticas sobem com KOSPI em recuperação e BOJ mantém juros",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/modelos-de-ia-claude-da-anthropic-invadiram-sistemas-de-tres-organizacoes-durante-testes-2021130",
-      "time": "2026-07-30T23:48:25Z",
-      "cat": "internacional",
+      "url": "https://br.investing.com/news/stock-market-news/bolsas-asiaticas-sobem-com-kospi-em-recuperacao-e-boj-mantem-juros-2021225",
+      "time": "2026-07-31T03:37:07Z",
+      "cat": "economia",
       "tickers": [],
-      "image": null
+      "image": "https://content-media.investing.com/news/LYNXNPEB6R07D_M.jpg"
     },
     {
-      "title": "Wall Street encerra o dia com forte alta, impulsionada pela disparada da Microsoft",
+      "title": "Por que as ações da Z.AI estão disparando hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/wall-street-encerra-o-dia-com-forte-alta-impulsionada-pela-forte-valorizacao-da-microsoft-2020794",
-      "time": "2026-07-30T22:49:26Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-zai-estao-disparando-hoje-93CH-2021212",
+      "time": "2026-07-31T03:25:11Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEM3D0JF_1200_L.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
+    },
+    {
+      "title": "Por que as ações da Tesla estão subindo no after-hours?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-tesla-estao-subindo-no-afterhours-93CH-2021207",
+      "time": "2026-07-31T02:42:44Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB430BU_M.jpg"
+    },
+    {
+      "title": "Apnimed precifica IPO a US$ 16 por ação e capta US$ 192 milhões",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/apnimed-precifica-ipo-a-us-16-por-acao-e-capta-us-192-milhoes-432SI-2021198",
+      "time": "2026-07-31T02:22:02Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0D0AP_M.jpg"
+    },
+    {
+      "title": "Tesla considera venda de negócios na China em meio a especulações sobre fusão com SpaceX",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/tesla-considera-venda-de-negocios-na-china-em-meio-a-especulacoes-sobre-fusao-com-spacex-2021181",
+      "time": "2026-07-31T01:20:17Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://content-media.investing.com/news/LYNXMPEE6H1AX_L.jpg"
+    },
+    {
+      "title": "KOSPI dispara mais de 16% com recuperação de Samsung e SK Hynix após rali em Wall Street",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/kospi-dispara-mais-de-16-com-recuperacao-de-samsung-e-sk-hynix-apos-rali-em-wall-street-2021180",
+      "time": "2026-07-31T01:18:02Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://content-media.investing.com/news/LYNXMPEABM09Q_M.jpg"
     },
     {
       "title": "Espanhol Santander vai lançar oferta por ações da operação brasileira",
       "summary": "",
       "source": "Investing.com",
       "url": "https://br.investing.com/news/stock-market-news/santander-anuncia-intencao-de-lancar-oferta-por-acoes-de-operacao-brasileira-2021087",
-      "time": "2026-07-30T22:49:26Z",
+      "time": "2026-07-31T00:56:10Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0L1BQ_L.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0L1BQ_M.jpg"
     },
     {
-      "title": "Por que as ações da Rivian Automotive estão subindo hoje?",
+      "title": "Futuros americanos sobem com resultados da Amazon; Apple recua",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-rivian-automotive-estao-subindo-hoje-93CH-2021091",
-      "time": "2026-07-30T22:18:34Z",
+      "url": "https://br.investing.com/news/stock-market-news/futuros-americanos-sobem-com-resultados-da-amazon-apple-recua-2021169",
+      "time": "2026-07-31T00:54:53Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEA6N0AC_M.jpg"
+      "image": "https://content-media.investing.com/news/LYNXMPEM431CY_1200_L.jpg"
     },
     {
-      "title": "Por que as ações do Reddit estão caindo hoje?",
+      "title": "Vice-premier chinês levanta preocupações sobre restrições comerciais com Bessent e Greer",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-do-reddit-estao-caindo-hoje-93CH-2021090",
-      "time": "2026-07-30T22:18:07Z",
+      "url": "https://br.investing.com/news/stock-market-news/vicepremier-chines-levanta-preocupacoes-sobre-restricoes-comerciais-com-bessent-e-greer-93CH-2021143",
+      "time": "2026-07-31T00:10:31Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
-    },
-    {
-      "title": "Por que as ações da Roblox estão despencando hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-roblox-estao-despencando-hoje-93CH-2021089",
-      "time": "2026-07-30T22:14:38Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/Roblox_800x533_L_1615573309.jpg"
-    },
-    {
-      "title": "Por que as ações da First Solar estão subindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-first-solar-estao-subindo-hoje-93CH-2021088",
-      "time": "2026-07-30T22:14:24Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0K08U_M.jpg"
-    },
-    {
-      "title": "Por que as ações da MasTec estão despencando hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-mastec-estao-despencando-hoje-93CH-2021084",
-      "time": "2026-07-30T22:11:58Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0E0NG_M.jpg"
-    },
-    {
-      "title": "Por que as ações da DexCom estão disparando hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-dexcom-estao-disparando-hoje-93CH-2021083",
-      "time": "2026-07-30T22:11:44Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6R0AQ_L.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEDAF0IH_M.jpg"
     }
   ],
-  "atualizado_em": "31/07/2026 00:01"
+  "atualizado_em": "31/07/2026 04:21"
 }
