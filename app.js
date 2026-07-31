@@ -65,7 +65,8 @@ let dadosJson = null;
 
 async function loadDadosJson() {
   try {
-    const resp = await fetch('./dados.json?t=' + Date.now());
+    const resp = await fetch('./dados.json', { cache: 'no-cache' });
+    if (!resp.ok) throw new Error(`dados.json: HTTP ${resp.status}`);
     dadosJson = await resp.json();
     const all = [
       ...Object.values(dadosJson.stocks || {}),
@@ -93,7 +94,8 @@ function updateFreshness() {
 
 async function loadNoticias() {
   try {
-    const resp = await fetch('./noticias.json?t=' + Date.now());
+    const resp = await fetch('./noticias.json', { cache: 'no-cache' });
+    if (!resp.ok) throw new Error(`noticias.json: HTTP ${resp.status}`);
     const data = await resp.json();
     if (data && data.all && data.all.length > 0) {
       renderNewsDynamic(data);
@@ -107,7 +109,8 @@ async function loadNoticias() {
 
 async function loadAnalises() {
   try {
-    const resp = await fetch('./analises.json?t=' + Date.now());
+    const resp = await fetch('./analises.json', { cache: 'no-cache' });
+    if (!resp.ok) throw new Error(`analises.json: HTTP ${resp.status}`);
     const data = await resp.json();
     if (Array.isArray(data) && data.length > 0) {
       renderAnalysesData(data);

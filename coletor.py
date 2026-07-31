@@ -6,6 +6,7 @@ import yfinance as yf
 import pandas as pd
 import json
 import re
+import os
 from io import StringIO
 from datetime import datetime, timezone
 from concurrent.futures import ThreadPoolExecutor
@@ -578,8 +579,14 @@ def enriquecer_market_cap_brapi(dados):
     """Uma única chamada à BrAPI traz market_cap de todos os ativos B3."""
     if not HAS_REQUESTS:
         return
+    token = os.environ.get('BRAPI_TOKEN')
+    if not token:
+        print("  Market cap BrAPI: ignorado (BRAPI_TOKEN nao configurado)")
+        return
     try:
-        resp = requests.get('https://brapi.dev/api/quote/list', headers=UA_HEADERS, timeout=30)
+        headers = {**UA_HEADERS, 'Authorization': f'Bearer {token}'}
+        resp = requests.get('https://brapi.dev/api/quote/list', headers=headers, timeout=30)
+        resp.raise_for_status()
         lista = resp.json().get('stocks', [])
         caps = {s['stock']: s.get('market_cap') for s in lista if s.get('market_cap')}
         atualizados = 0
