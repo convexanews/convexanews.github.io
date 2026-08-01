@@ -1,78 +1,135 @@
 {
   "headline": {
-    "title": "Ibovespa fecha julho em alta de 3,47% e Santander (SANB11) dispara após anúncio de OPA",
-    "summary": "O Ibovespa encerrou julho em alta, consolidando a segunda semana consecutiva de ganhos e voltando ao maior nível de fechamento desde maio. O principal índice da B3 avançou 0,47% nesta sexta-feira (31), aos 177.999,00 pon",
-    "source": "Suno",
-    "url": "https://www.suno.com.br/noticias/ibovespa-hoje-31-julho-2026-santander-sanb11-opa-mt/",
-    "time": "2026-07-31T21:55:06Z",
-    "cat": "acoes",
+    "title": "Bitcoin ronda US$ 63 mil após semana de Fed, guerra e balanços de big techs; veja cotações das criptomoedas hoje (1)",
+    "summary": "O bitcoin (BTC) amanheceu em estabilidade neste sábado (1), no patamar de cerca de US$ 63 mil, de acordo com dados da plataforma Coingecko. Em relação ao dia anterior, a criptomoeda opera em queda de 1,4%. No acumulado d",
+    "source": "Money Times",
+    "url": "https://www.moneytimes.com.br/bitcoin-ronda-us-63-mil-apos-semana-de-fed-guerra-e-balancos-de-big-techs-veja-cotacoes-das-criptomoedas-hoje-1-jcav/",
+    "time": "2026-08-01T12:57:52Z",
+    "cat": "fundos",
     "tickers": [
-      "SANB11"
+      "BTC"
     ],
-    "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/30169c1a-ifix-2-1-1-png.webp"
+    "image": "https://www.moneytimes.com.br/uploads/2026/07/bitcoin-btc-e-as-criptomoedas-em-alta-imagem-istock-1024x585-1.jpg"
   },
   "featured": [
     {
-      "title": "Hartnett, do BofA, chama o Fed de \"abertamente dovish\" e recomenda saída de ativos de risco",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/hartnett-do-bofa-chama-o-fed-de-abertamente-dovish-e-recomenda-saida-de-ativos-de-risco-2022599",
-      "time": "2026-08-01T09:45:18Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXMPEM521KY_1200_L.jpg"
+      "title": "Aumento de capital bilionário do Bradesco, o adeus do Santander e os dividendos da Vale; veja as mais lidas da semana",
+      "summary": "A última semana foi marcada por notícias importantes dos bancões brasileiros. Os investidores acompanharam desde um aumento de capial bilionário no Bradesco (BBDC4) ao adeus do Santander (SANB11) à bolsa brasileira. E is",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/aumento-de-capital-bilionario-do-bradesco-o-adeus-do-santander-e-os-dividendos-da-vale-veja-as-mais-lidas-da-semana-jcav/",
+      "time": "2026-08-01T11:50:02Z",
+      "cat": "fundos",
+      "tickers": [
+        "BBDC4",
+        "SANB11"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/bradesco-banco.jpg"
     },
     {
-      "title": "El Niño, balanços do 2T26 e queda na inflação; veja os destaques da semana",
-      "summary": "Projeções da XP indicam alta no lucro líquido das companhias, enquanto impactos do clima e inflação permanecem no radar do mercado",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/onde-investir/el-nino-balancos-do-2t26-e-queda-na-inflacao-veja-os-destaques-da-semana/",
-      "time": "2026-08-01T10:30:00Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/tufao-el-nino.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "title": "MBRF (MBRF3) e Usiminas (USIM5) são os destaques da semana; veja o que movimentou o Ibovespa no fim de julho",
+      "summary": "O Ibovespa (IBOV) encerrou a última semana de julho em forte valorização, com alívio na inflação e expectativa para a próxima decisão do Copom. O principal índice da bolsa brasileira acumulou valorização de 2,27% na sema",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ibovespa-destaques-da-semana-31-lils/",
+      "time": "2026-08-01T11:30:00Z",
+      "cat": "acoes",
+      "tickers": [
+        "MBRF3",
+        "USIM5"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/acoes-ibovespa-ibov.jpg"
     }
   ],
   "all": [
     {
-      "title": "El Niño, balanços do 2T26 e queda na inflação; veja os destaques da semana",
-      "summary": "Projeções da XP indicam alta no lucro líquido das companhias, enquanto impactos do clima e inflação permanecem no radar do mercado",
+      "title": "Espanha: número de mortos na crise fronteiriça com Marrocos chega a 67",
+      "summary": "A Espanha anunciou a instalação de uma barreira de contenção de 500 metros de extensão ao longo da cerca do quebra-mar, avançando pelo mar",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/onde-investir/el-nino-balancos-do-2t26-e-queda-na-inflacao-veja-os-destaques-da-semana/",
-      "time": "2026-08-01T10:30:00Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/tufao-el-nino.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "A fome do iFood: Empresa expande raio de atuação e quer triplicar de tamanho",
-      "summary": "Depois de alcançar o posto de maior marketplace de mercado e farmácia do país, gigante das entregas quer mais",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/business/a-fome-do-ifood-empresa-expande-raio-de-atuacao-e-quer-triplicar-de-tamanho/",
-      "time": "2026-08-01T10:00:00Z",
+      "url": "https://www.infomoney.com.br/mundo/espanha-numero-de-mortos-na-crise-fronteirica-com-marrocos-chega-a-67/",
+      "time": "2026-08-01T12:41:16Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Paula-Ritto-Divulgacao-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-01T070344Z_1105895493_RC2IPMACSENF_RTRMADP_3_MIGRATION-EUROPE-SPAIN-CEUTA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Antes da B3: relembre o IPO da BM&F que sobrecarregou o sistema da Bolsa em 2007",
-      "summary": "Em 30 de novembro de 2007, o IPO da BMF (que, junto com a Bovespa, deu origem à B3) foi responsável por \"quebrar o pregão\", ainda que figurativamente",
+      "title": "Cade aprova investimento da American Airlines na Azul",
+      "summary": "Aérea americana quer investir US$ 100 milhões na companhia brasileira, elevando sua participação para quase 9%; análise foi concluída sem restrições",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/antes-da-b3-relembre-o-ipo-da-bmf-que-sobrecarregou-o-sistema-da-bolsa-em-2007/",
-      "time": "2026-08-01T09:00:00Z",
+      "url": "https://www.infomoney.com.br/mercados/cade-aprova-investimento-da-american-airlines-na-azul/",
+      "time": "2026-08-01T12:38:54Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Captura-de-tela-2026-04-02-162537-e1781193687128.png?fit=300%2C118&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/04/azul-aeronave2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Como a febre da IA transformou a Bolsa da Coreia do Sul num “Round 6”",
-      "summary": "O índice KOSPI oscilou violentamente por causa tanto do entusiasmo quanto da ansiedade ligados aos investimentos no boom global da inteligência artificial",
+      "title": "Lula critica interferência de Trump e Milei nas eleições brasileiras",
+      "summary": "As falas de Lula foram na convenção do PT que confirmou a candidatura à reeleição de Elmano de Freitas ao governo do Ceará nesta sexta",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/business/global/como-a-febre-da-ia-transformou-a-bolsa-da-coreia-do-sul-num-round-6/",
-      "time": "2026-08-01T08:00:00Z",
+      "url": "https://www.infomoney.com.br/politica/lula-critica-interferencia-de-trump-e-milei-nas-eleicoes-brasileiras/",
+      "time": "2026-08-01T12:29:37Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-29-at-09.28.14.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Ex-presidente é libertado no Peru após condenação no caso Odebrecht ser anulada",
+      "summary": "Ollanta Humala estava detido desde abril de 2025 acusado de ter recebido US$ 3 milhões da construtora brasileira para a campanha presidencial de 2011, na qual saiu vitorioso",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mundo/ex-presidente-e-libertado-no-peru-apos-condenacao-no-caso-odebrecht-ser-anulada/",
+      "time": "2026-08-01T12:25:18Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-14T030326Z_944698243_RC26WLAV2DON_RTRMADP_3_SOUTHKOREA-MARKETS-INVESTORS.jpg?fit=300%2C205&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-01T022111Z_476601865_RC2CPMABZKEH_RTRMADP_3_PERU-POLITICS-HUMALA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Bitcoin ronda US$ 63 mil após semana de Fed, guerra e balanços de big techs; veja cotações das criptomoedas hoje (1)",
+      "summary": "O bitcoin (BTC) amanheceu em estabilidade neste sábado (1), no patamar de cerca de US$ 63 mil, de acordo com dados da plataforma Coingecko. Em relação ao dia anterior, a criptomoeda opera em queda de 1,4%. No acumulado d",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/bitcoin-ronda-us-63-mil-apos-semana-de-fed-guerra-e-balancos-de-big-techs-veja-cotacoes-das-criptomoedas-hoje-1-jcav/",
+      "time": "2026-08-01T12:57:52Z",
+      "cat": "fundos",
+      "tickers": [
+        "BTC"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/bitcoin-btc-e-as-criptomoedas-em-alta-imagem-istock-1024x585-1.jpg"
+    },
+    {
+      "title": "Aumento de capital bilionário do Bradesco, o adeus do Santander e os dividendos da Vale; veja as mais lidas da semana",
+      "summary": "A última semana foi marcada por notícias importantes dos bancões brasileiros. Os investidores acompanharam desde um aumento de capial bilionário no Bradesco (BBDC4) ao adeus do Santander (SANB11) à bolsa brasileira. E is",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/aumento-de-capital-bilionario-do-bradesco-o-adeus-do-santander-e-os-dividendos-da-vale-veja-as-mais-lidas-da-semana-jcav/",
+      "time": "2026-08-01T11:50:02Z",
+      "cat": "fundos",
+      "tickers": [
+        "BBDC4",
+        "SANB11"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/bradesco-banco.jpg"
+    },
+    {
+      "title": "MBRF (MBRF3) e Usiminas (USIM5) são os destaques da semana; veja o que movimentou o Ibovespa no fim de julho",
+      "summary": "O Ibovespa (IBOV) encerrou a última semana de julho em forte valorização, com alívio na inflação e expectativa para a próxima decisão do Copom. O principal índice da bolsa brasileira acumulou valorização de 2,27% na sema",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ibovespa-destaques-da-semana-31-lils/",
+      "time": "2026-08-01T11:30:00Z",
+      "cat": "acoes",
+      "tickers": [
+        "MBRF3",
+        "USIM5"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/acoes-ibovespa-ibov.jpg"
+    },
+    {
+      "title": "De Banco do Brasil (BBAS3) a Suzano (SUZB3): Os papéis que estão baratos na bolsa, na visão do ‘Buffett de Londrina’",
+      "summary": "Se a bolsa já estava atrativa no começo do ano, voltou a ficar ainda mais após a recente queda. Pelo menos na visão do gestor César Paiva, do Real Investor. Conhecido no mercado como Warren Buffett de Londrina por conta ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/de-banco-do-brasil-bbas3-a-suzano-suzb3-os-papeis-baratos-de-buffett-de-londrina-vontade-zero-de-ficar-com-caixa-rnda/",
+      "time": "2026-08-01T11:00:00Z",
+      "cat": "acoes",
+      "tickers": [
+        "BBAS3",
+        "SUZB3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/cesar-paiva.png"
     },
     {
       "title": "Bolsa Família agosto 2026: confira calendário de pagamentos e quem pode receber",
@@ -113,40 +170,6 @@
       "cat": "acoes",
       "tickers": [],
       "image": "https://www.moneytimes.com.br/uploads/2019/05/frasle-.jpg"
-    },
-    {
-      "title": "Axia (AXIA3) e Isa Energia (ISAE4) concluem descruzamento de participações na IE Madeira e IE Garanhuns",
-      "summary": "A Axia (AXIA3) e a Isa Energia (ISAE3; ISAE4) informaram a conclusão do descruzamento de participações societárias na Interligação Elétrica do Madeira e na Interligação Elétrica Garanhuns. A operação foi finalizada após ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/axia-axia3-e-isa-energia-isae4-concluem-descruzamento-de-participacoes-na-ie-madeira-e-ie-garanhuns/",
-      "time": "2026-07-31T21:15:05Z",
-      "cat": "acoes",
-      "tickers": [
-        "AXIA3"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/axia-energia.jpg"
-    },
-    {
-      "title": "Ibovespa interrompe sequência de perdas mensais e acumula alta de 3,5% em julho",
-      "summary": "Com a retomada do fluxo estrangeiro e o otimismo de continuidade do ciclo de cortes na taxa Selic, o Ibovespa (IBOV) interrompeu a sequência de quatro perdas mensais consecutivas e encerrou julho em alta. No mês, o princ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ibovespa-julho-27-lils/",
-      "time": "2026-07-31T20:44:05Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/06/mercado-morning-ibovespa-wall-street-4.jpg"
-    },
-    {
-      "title": "Ibovespa avança pelo 2º pregão consecutivo com Santander (SANB11), apesar do atraso nas negociações; dólar sobe",
-      "summary": "O Ibovespa (IBOV) engatou o segundo dia de ganhos consecutivos, em pregão reduzido por atraso na abertura. As negociações na bolsa brasileira começaram com quase três horas de atraso, reduzindo o fluxo no último pregão d",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ibovespa-31-7-26-lils/",
-      "time": "2026-07-31T20:16:23Z",
-      "cat": "economia",
-      "tickers": [
-        "SANB11"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/11/mercado-bolsa-ibovespa.jpg"
     },
     {
       "title": "IFIX fecha pregão em alta e acumula avanço de 0,35% na semana",
@@ -223,34 +246,24 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/analista-concentrado-1_09-4.webp"
     },
     {
-      "title": "As profissões que estão contratando pessoas que sabem usar IA, mesmo sem formação em tecnologia",
-      "summary": "Recursos humanos, marketing, jurídico, financeiro e vendas estão entre as áreas que passaram a valorizar profissionais capazes de aplicar inteligência artificial na rotina, mesmo sem formação em TI",
+      "title": "BC precisa retomar o bom diálogo com as empresas de criptoativos no Brasil",
+      "summary": "A imposição de regras genéricas, sem fundamentação em dados específicos do cenário nacional, gera graves distorções",
       "source": "Exame",
-      "url": "https://exame.com/inteligencia-artificial/as-profissoes-que-estao-contratando-pessoas-que-sabem-usar-ia-mesmo-sem-formacao-em-tecnologia/",
-      "time": "2026-08-01T07:05:19Z",
-      "cat": "economia",
+      "url": "https://exame.com/future-of-money/bc-precisa-retomar-o-bom-dialogo-com-as-empresas-de-criptoativos-no-brasil/",
+      "time": "2026-08-01T10:00:50Z",
+      "cat": "cripto",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/ia_trabalho_2.png"
+      "image": "https://classic.exame.com/wp-content/uploads/2024/08/IMG_9375.jpg"
     },
     {
-      "title": "O fenômeno Harlan Coben: como o escritor virou uma máquina de sucessos na Netflix",
-      "summary": "Autor já vendeu mais de 90 milhões de livros e emplacou adaptações que figuram entre as produções mais assistidas da plataforma",
-      "source": "Exame",
-      "url": "https://exame.com/pop/o-fenomeno-harlan-coben-como-o-escritor-virou-uma-maquina-de-sucessos-na-netflix/",
-      "time": "2026-08-01T06:52:42Z",
-      "cat": "economia",
+      "title": "Ações europeias: o fim do momentum de IA está próximo?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-europeias-o-fim-do-momentum-de-ia-esta-proximo-2022612",
+      "time": "2026-08-01T12:03:08Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/Harlan-Coben-netflix-1.jpg"
-    },
-    {
-      "title": "Lançamentos da Netflix em agosto de 2026: veja os filmes e as séries",
-      "summary": "'Wicked', 'Outer Banks' e a parte final de 'Cem Anos de Solidão' estão entre os destaques do mês",
-      "source": "Exame",
-      "url": "https://exame.com/casual/lancamentos-da-netflix-em-agosto-de-2026-veja-os-filmes-e-as-series/",
-      "time": "2026-08-01T06:01:59Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/imagem-do-poster-de-cem-anos-de-solidao.webp"
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEE1D1PN_M.jpg"
     },
     {
       "title": "Hartnett, do BofA, chama o Fed de \"abertamente dovish\" e recomenda saída de ativos de risco",
@@ -260,7 +273,7 @@
       "time": "2026-08-01T09:45:18Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXMPEM521KY_1200_L.jpg"
+      "image": "https://content-media.investing.com/news/LYNXMPEM521KY_150x108_S.jpg"
     },
     {
       "title": "Deve investir agora na bolsa? Veja o que diz o UBS",
@@ -320,8 +333,8 @@
       "time": "2026-07-31T22:14:06Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB3R08Z_L.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB3R08Z_M.jpg"
     }
   ],
-  "atualizado_em": "01/08/2026 10:38"
+  "atualizado_em": "01/08/2026 13:10"
 }
