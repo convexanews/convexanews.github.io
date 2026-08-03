@@ -1,136 +1,221 @@
 {
   "headline": {
-    "title": "Ibovespa abre agosto em baixa com Vale e Petrobras, enquanto NY sobe forte",
-    "summary": "Índice recua com queda do petróleo, pressionado por petroleiras, após Trump sinalizar negociação com Irã; dólar opera em leve alta frente ao real",
-    "source": "Exame",
-    "url": "https://exame.com/invest/mercados/ibovespa-abre-agosto-em-baixa-com-vale-e-petrobras-enquanto-ny-sobe-forte/",
-    "time": "2026-08-03T11:49:41Z",
-    "cat": "economia",
-    "tickers": [],
-    "image": "https://classic.exame.com/wp-content/uploads/2021/08/PT-bolsa.jpg"
+    "title": "Petrobras (PETR4) toma a dianteira e domina ranking das ações mais negociadas da B3",
+    "summary": "Petrobras (PETR4) toma a dianteira e domina ranking das ações mais negociadas da B3Na Bolsa, tem ação que aparece no radar. E tem ação que praticamente acampa nele. No primeiro semestre de 2026, a Petrobras (PETR4) ficou",
+    "source": "Suno",
+    "url": "https://www.suno.com.br/noticias/acoes-mais-negociadas-b3-primeiro-semestre-mt/",
+    "time": "2026-08-03T17:35:00Z",
+    "cat": "acoes",
+    "tickers": [
+      "PETR4"
+    ],
+    "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/80_Profissional_finance_1_2026017_161622-1-jpg.webp"
   },
   "featured": [
     {
-      "title": "Ibovespa cai com commodities, apesar de alta em NY e chance de novo corte da Selic",
-      "summary": "O noticiário corporativo brasileiro segue no foco, com uma agenda de resultados cheia",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-cai-com-commodities-apesar-de-alta-em-ny-e-chance-de-novo-corte-da-selic/",
-      "time": "2026-08-03T15:21:16Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/11/shutterstock_108502304.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "title": "Compre Copasa (CSGM3), Bradesco (BBDC4) e outras 11 ações para ganhar mais de 5% nesta semana, segundo Itaú BBA",
+      "summary": "A ação da Copasa (CSMG3) é uma das recomendações de compra em day trade do Íon Itaú/Itaú BBA para esta semana. As ações da empresa fecharam a sessão da última sexta-feira (31) cotadas a R$ 64,17. O potencial de ganho no ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/oportunidades-da-semana-itau-bba-3-8-26-apsa/",
+      "time": "2026-08-03T17:32:24Z",
+      "cat": "acoes",
+      "tickers": [
+        "BBDC4",
+        "CSMG3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/acoes-ibovespa-ibov.jpg"
     },
     {
-      "title": "Brasil registra novo recorde na produção de petróleo em junho, aponta ANP",
-      "summary": "Brasil registra novo recorde na produção de petróleo em junho, aponta ANP",
+      "title": "FIIs despencam até 40% após redução nos dividendos; veja maiores quedas",
+      "summary": "MFII11 lidera as perdas após reduzir dividendos e revisar projeções, enquanto o VGHF11 também recua forte",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/economia/brasil-registra-novo-recorde-na-producao-de-petroleo-em-junho-aponta-anp/",
-      "time": "2026-08-03T15:31:52Z",
-      "cat": "internacional",
+      "url": "https://www.infomoney.com.br/onde-investir/fiis-despencam-ate-40-apos-reducao-nos-dividendos-veja-maiores-quedas/",
+      "time": "2026-08-03T17:39:38Z",
+      "cat": "fundos",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/453226419-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/09/moeda-queda-juros.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     }
   ],
   "all": [
     {
-      "title": "Brasil registra novo recorde na produção de petróleo em junho, aponta ANP",
-      "summary": "Brasil registra novo recorde na produção de petróleo em junho, aponta ANP",
+      "title": "Flávio compara restrições impostas a Bolsonaro ao AI-5 e critica decisões de Moraes",
+      "summary": "Pré-candidato do PL diz que medidas contra o ex-presidente extrapolam a Constituição e volta a defender que pai é alvo de perseguição política",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/economia/brasil-registra-novo-recorde-na-producao-de-petroleo-em-junho-aponta-anp/",
-      "time": "2026-08-03T15:31:52Z",
+      "url": "https://www.infomoney.com.br/politica/flavio-compara-restricoes-impostas-a-bolsonaro-ao-ai-5-e-critica-decisoes-de-moraes/",
+      "time": "2026-08-03T17:48:16Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/lula6749-1.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "FIIs despencam até 40% após redução nos dividendos; veja maiores quedas",
+      "summary": "MFII11 lidera as perdas após reduzir dividendos e revisar projeções, enquanto o VGHF11 também recua forte",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/onde-investir/fiis-despencam-ate-40-apos-reducao-nos-dividendos-veja-maiores-quedas/",
+      "time": "2026-08-03T17:39:38Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/09/moeda-queda-juros.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "PF cancela depoimento de Valdemar Costa Neto em investigação sobre emendas",
+      "summary": "Presidente do PL seria ouvido nesta segunda-feira em apuração sobre suposta destinação irregular de recursos",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/pf-cancela-depoimento-de-valdemar-costa-neto-em-investigacao-sobre-emendas/",
+      "time": "2026-08-03T17:32:13Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/02/pl_imprensa_mcajr_abr_2311222328.webp?fit=300%2C225&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "BBI: Títulos da Raízen parecem baratos após reestruturação e podem subir mais de 40%",
+      "summary": "Banco vê recuperação superior à atualmente precificada pelo mercado e avalia que os bonds da companhia atribuem valor quase nulo à fatia que será convertida em ações",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/bbi-titulos-da-raizen-parecem-baratos-apos-reestruturacao-e-podem-subir-mais-de-40/",
+      "time": "2026-08-03T17:28:01Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2021/08/post-102-raizen-foto-site-raizen-49rhlx-918x474-1.png?fit=300%2C147&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "PF pede ao STF a abertura de nova investigação contra Lulinha",
+      "summary": "Este é o terceiro pedido de investigação para apurar o suposto tráfico de influência cometido por Fábio Luís Lula da Silva",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/pf-pede-ao-stf-a-abertura-de-nova-investigacao-contra-lulinha/",
+      "time": "2026-08-03T16:59:13Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/fabio-luis-lulinha.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Evento em SP debate nova fase do crédito privado, mercado que se aproxima de R$ 3 tri",
+      "summary": "Congresso em setembro vai reunir gestores, investidores e reguladores para discutir expansão do mercado, governança, regulação e riscos",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/evento-em-sp-debate-nova-fase-do-credito-privado-mercado-que-se-aproxima-de-r-3-tri/",
+      "time": "2026-08-03T16:47:09Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Colunistas-IM-66.png?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Trump afirma que liderança iraniana é “incrivelmente hipócrita”",
+      "summary": "“Nada chega ‌ao ​Irã, a menos que queiramos ⁠que ​chegue, ​e nada chegará\", disse em publicação",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mundo/trump-afirma-que-lideranca-iraniana-e-incrivelmente-hipocrita/",
+      "time": "2026-08-03T16:42:24Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/453226419-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/459630763.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Dólar em queda é ânimo exagerado com Brasil? Por que há cautela no mercado com real",
-      "summary": "Dois fatores devem ganhar peso nos próximos meses: a expectativa de aperto monetário nos EUA e a manutenção de prêmios de risco elevados no mercado doméstico",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/dolar-em-queda-e-animo-exagerado-com-brasil-por-que-ha-cautela-no-mercado-com-real/",
-      "time": "2026-08-03T15:30:00Z",
+      "title": "Flávio Bolsonaro defende ‘gatilho fiscal’ atrelado à dívida pública para cortar despesas",
+      "summary": "O senador e candidato do PL a presidente, Flávio Bolsonaro, afirmou que, caso seja eleito, seu governo terá uma regra fiscal com uma espécie de gatilho para cortar despesas quando a relação entre a dívida e o Produto Int",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/flavio-bolsonaro-promete-regra-fiscal-para-cortar-despesas-e-rebate-criticas-sobre-tarifaco-de-trump-gaep/",
+      "time": "2026-08-03T17:40:40Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/2025-10-27T215425Z_1_LYNXMPEL9Q0VS_RTROPTP_4_BRAZIL-ECONOMY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/05/55236647489-5ce1bcb359-o-scaled-e1785778527342.jpg"
     },
     {
-      "title": "BNDES aprova até R$ 3,7 bi para exportação de 19 aviões Embraer para a Porter",
-      "summary": "O crédito terá cobertura do Seguro de Crédito à Exportação (SCE) do Fundo de Garantia à Exportação (FGE)",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/economia/bndes-aprova-ate-r-37-bi-para-exportacao-de-19-avioes-embraer-para-a-porter/",
-      "time": "2026-08-03T15:26:15Z",
-      "cat": "acoes",
+      "title": "BofA vê mais espaço para cortes da Selic e reduz projeção da inflação; veja as novas estimativas",
+      "summary": "O Bank of America (BofA) revisou sua projeção para a trajetória da taxa Selic e passou a esperar dois cortes de 0,25 ponto percentual nas próximas reuniões do Comitê de Política Monetária (Copom), levando os juros dos at",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/bofa-ve-mais-espaco-para-cortes-da-selic-e-inflacao-mais-baixa-veja-as-revisoes-jcav/",
+      "time": "2026-08-03T17:32:47Z",
+      "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-08T183231Z_1_LYNXMPEM37168_RTROPTP_4_GLOBAL-BANKS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/juros-selic-2.jpg"
     },
     {
-      "title": "Gastos com construção nos EUA têm queda inesperada em junho",
-      "summary": "Os gastos com construção caíram 3,2% em ⁠junho em relação ao mesmo mês do ano anterior.",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/gastos-com-construcao-nos-eua-tem-queda-inesperada-em-junho/",
-      "time": "2026-08-03T15:24:18Z",
+      "title": "Compre Copasa (CSGM3), Bradesco (BBDC4) e outras 11 ações para ganhar mais de 5% nesta semana, segundo Itaú BBA",
+      "summary": "A ação da Copasa (CSMG3) é uma das recomendações de compra em day trade do Íon Itaú/Itaú BBA para esta semana. As ações da empresa fecharam a sessão da última sexta-feira (31) cotadas a R$ 64,17. O potencial de ganho no ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/oportunidades-da-semana-itau-bba-3-8-26-apsa/",
+      "time": "2026-08-03T17:32:24Z",
+      "cat": "acoes",
+      "tickers": [
+        "BBDC4",
+        "CSMG3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/acoes-ibovespa-ibov.jpg"
+    },
+    {
+      "title": "Compre JBS (JBSS32) e outras três ações para ganhar mais de 5% nesta semana, segundo o Safra",
+      "summary": "A Safra Corretora recomenda a compra de JBS (JBSS32) e outros três papéis em day trade para esta semana. O banco também recomendou a venda de Usiminas (USIM5). Confira as oportunidades de compra e venda, segundo o Safra,",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/compre-jbs-jbss32-e-outras-tres-acoes-para-ganhar-mais-de-5-nesta-semana-segundo-o-safra-lils/",
+      "time": "2026-08-03T17:32:02Z",
+      "cat": "acoes",
+      "tickers": [
+        "JBSS32",
+        "USIM5"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/12/acoes-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-1-1-1-1-1-1-1-2-1-1-1-1.jpg"
+    },
+    {
+      "title": "Bolsas da Europa fecham em alta com expectativa de negociações entre EUA e Irã",
+      "summary": "Os índices europeus terminaram o primeiro pregão de agosto majoritariamente em alta, em meio à forte queda nos preços do petróleo e expectativa de retomada de negociações entre Estados Unidos e Irã para cessar-fogo no Or",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/europa-3-8-26-lils/",
+      "time": "2026-08-03T17:05:14Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/01/423128084.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2021/08/europa-2.jpg"
     },
     {
-      "title": "Ibovespa cai com commodities, apesar de alta em NY e chance de novo corte da Selic",
-      "summary": "O noticiário corporativo brasileiro segue no foco, com uma agenda de resultados cheia",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-cai-com-commodities-apesar-de-alta-em-ny-e-chance-de-novo-corte-da-selic/",
-      "time": "2026-08-03T15:21:16Z",
+      "title": "Dólar x iene: Intervenção dos EUA e do Japão no câmbio pode mexer com o real?",
+      "summary": "Não eram só relatos de operadores do mercado: os Estados Unidos e Japão confirmaram intervenções no câmbio na semana passada. A operação coordenada resultou em uma valorização de cerca de 5% da divisa japonesa frente ao ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/intervencao-de-eua-e-japao-no-iene-pode-mexer-com-o-real-lils/",
+      "time": "2026-08-03T17:01:16Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/11/shutterstock_108502304.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2022/10/2022-10-24t121044z-1-lynxmpei9n0fz-rtroptp-4-japan-yen.jpg"
     },
     {
-      "title": "É hora de comprar Bolsa? XP mantém visão otimista e recomenda ativos para agosto",
-      "summary": "A XP Investimentos considera que as ações brasileiras foram beneficiadas pelo enfraquecimento do rali ligado à inteligência artificial (IA) no exterior, além do retorno do investidor estrangeiro ao Ibovespa (IBOV) em jul",
+      "title": "Mudança inesperada: BTG remove BDRs queridinhas e abre espaço para novas ações; confira",
+      "summary": "O BTG Pactual promoveu mudanças em sua carteira recomendada de BDRs para agosto de 2026. As principais alterações foram a saída de Coca-Cola e Netflix, substituídas por Freeport-McMoRan e Micron Technology. Além disso, o",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/e-hora-de-comprar-bolsa-mesmo-com-juros-reais-e-eleicoes-no-radar-avalia-xp-apsa/",
-      "time": "2026-08-03T15:26:54Z",
+      "url": "https://www.moneytimes.com.br/mudanca-inesperada-btg-remove-bdrs-queridinhas-e-abre-espaco-para-novas-acoes-confira/",
+      "time": "2026-08-03T17:00:00Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/brasil-acoes-brasileiras-ibovespa-bolsa-de-valores-capa-mt.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2026/08/bdrs-acoes-1-1.jpg"
     },
     {
-      "title": "EUA agitam mercados cambiais com rumor de compra incomum de ienes com venda de euros",
-      "summary": "Os operadores do mercado de câmbio, que já enfrentam uma ação coordenada algo raro entre EUA e Japão para sustentar o iene enfraquecido, também estão assimilando outra dinâmica incomum: a venda de euros pelos norte-ameri",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/eua-agitam-mercados-cambiais-com-rumor-de-compra-incomum-de-ienes-com-venda-de-euros/",
-      "time": "2026-08-03T15:22:31Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/dolar-iene-mercados.jpg"
+      "title": "Petrobras (PETR4) toma a dianteira e domina ranking das ações mais negociadas da B3",
+      "summary": "Petrobras (PETR4) toma a dianteira e domina ranking das ações mais negociadas da B3Na Bolsa, tem ação que aparece no radar. E tem ação que praticamente acampa nele. No primeiro semestre de 2026, a Petrobras (PETR4) ficou",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/acoes-mais-negociadas-b3-primeiro-semestre-mt/",
+      "time": "2026-08-03T17:35:00Z",
+      "cat": "acoes",
+      "tickers": [
+        "PETR4"
+      ],
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/80_Profissional_finance_1_2026017_161622-1-jpg.webp"
     },
     {
-      "title": "É hora de comprar Irani (RANI3)? BTG vê 2T26 sólido, destaca forte geração de caixa e remuneração de até 11% ao acionista",
-      "summary": "A Irani (RANI3) entregou um segundo trimestre de 2026 (2T26) em linha com as expectativas do BTG Pactual, mas com indicadores que reforçam a tese de investimento da companhia. Entre os destaques, o banco aponta a forte g",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/irani-rani3-btg-ve-2t26-solido-destaca-forte-geracao-de-caixa-e-remuneracao-de-ate-11-ao-acionista-pads/",
-      "time": "2026-08-03T14:31:02Z",
+      "title": "Mega-Sena: quanto rendem R$ 100 milhões? Veja as simulações",
+      "summary": "Sorteio da Mega-Sena. Foto: Agência BrasillGanhar um prêmio de Mega-Sena de R$ 100 milhões muda a vida de qualquer pessoa. Mas, além do valor milionário, uma dúvida costuma surgir entre investidores: quanto esse dinheiro",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/rascunho-automaticomega-sena-quanto-rendem-100-milhoes-mt/",
+      "time": "2026-08-03T16:35:00Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/irani-rani3.jpg"
+      "image": "https://files.sunoresearch.com.br/n/uploads/2023/05/mega-sena-sorteio-caixa-foto-agenciabrasil.jpg"
     },
     {
-      "title": "Tesouro Direto hoje: Taxas recuam com cenário externo mais favorável e corte da Selic no Focus",
-      "summary": "As taxas oferecidas pelo Tesouro Direto recuaram na abertura desta segunda-feira (3) em relação ao fechamento da última sexta-feira (31), em um movimento concentrado principalmente nos títulos prefixados e nos papéis atr",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/tesouro-direto-hoje-taxas-recuam-com-cenario-exterior-mais-favoravel-e-corte-da-selic-no-focus-jcav/",
-      "time": "2026-08-03T14:22:53Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/tesouro-direto.jpg"
-    },
-    {
-      "title": "Em recuperação extrajudicial, Oncoclínicas (ONCO3) vende participação na Arábia Saudita e firma acordo de R$ 90 milhões",
-      "summary": "A Oncoclínicas (ONCO3) divulgou nesta segunda-feira (3) dois fatos relevantes sobre operações envolvendo a venda de participação em uma joint venture na Arábia Saudita e acordo com a Unimed. A companhia formalizou a vend",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/em-recuperacao-extrajudicial-oncoclinicas-onco3-vende-participacao-na-arabia-saudita-e-firma-acordo-de-r-90-milhoes-lmrs/",
-      "time": "2026-08-03T14:20:44Z",
+      "title": "Itaú (ITUB4) conclui venda de operação na Colômbia para o Banco de Bogotá",
+      "summary": "Lucro do Itaú Unibanco (ITUB4). Foto: Divulgação/ Itaú O Itaú Unibanco (ITUB4) concluiu a transferência de ativos, passivos e contratos da operação de varejo para pessoas físicas do Banco Itaú Colômbia S.A. para o Banco ",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/itub4-itau-colombia-varejo-pf-banco-de-bogota-transferencia-go/",
+      "time": "2026-08-03T15:38:00Z",
       "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/oncoclinicas.jpg"
+      "tickers": [
+        "ITUB4"
+      ],
+      "image": "https://files.sunoresearch.com.br/n/uploads/2023/08/Agencia-Itau-Unibanco_2.jpg"
     },
     {
       "title": "Dividendo do MXRF11 rende 1,04% no mês; confira a distribuição de julho",
@@ -205,149 +290,75 @@
       "image": "https://files.sunoresearch.com.br/n/uploads/2026/06/btlg11-jpg.webp"
     },
     {
-      "title": "IFIX fecha pregão em alta e acumula avanço de 0,35% na semana",
-      "summary": "O IFIX encerrou o pregão desta sexta-feira (31) aos 3.818,52 pontos, avanço de 12,26 pontos (+0,32%) frente ao fechamento anterior, de 3.806,26 pontos. Na sessão, o índice de fundos imobiliários oscilou entre a mínima de",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/ifix-fecha-pregao-em-alta-e-acumula-avanco-de-035-na-semana/",
-      "time": "2026-07-31T22:35:04Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/equipe-financeira-tr-1_02.webp"
-    },
-    {
-      "title": "Ibovespa fecha julho em alta de 3,47% e Santander (SANB11) dispara após anúncio de OPA",
-      "summary": "O Ibovespa encerrou julho em alta, consolidando a segunda semana consecutiva de ganhos e voltando ao maior nível de fechamento desde maio. O principal índice da B3 avançou 0,47% nesta sexta-feira (31), aos 177.999,00 pon",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-31-julho-2026-santander-sanb11-opa-mt/",
-      "time": "2026-07-31T21:55:06Z",
-      "cat": "acoes",
-      "tickers": [
-        "SANB11"
-      ],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/30169c1a-ifix-2-1-1-png.webp"
-    },
-    {
-      "title": "B3 abre com 2h30 de atraso após falha operacional; entenda o que aconteceu",
-      "summary": "A manhã desta sexta-feira (31) começou com o mercado brasileiro praticamente no modo de espera. As negociações de ações, fundos imobiliários, BDRs, contratos futuros e outros ativos da B3 foram abertas apenas por volta d",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/b3-abertura-atrasada-falha-operacional-pregao-mt/",
-      "time": "2026-07-31T20:05:11Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/07/EspacoB3_05-1-1-jpg.webp"
-    },
-    {
-      "title": "Amazon supera US$ 3 trilhões em valor de mercado pela 1ª vez",
-      "summary": "Os papéis são impulsionados pelos resultados trimestrais. Gigante de tecnologia encerrou o segundo trimestre de 2026 com lucro líquido de US$ 62,6 bilhões",
+      "title": "No Brasil, o aumento da produtividade levou ao aumento da renda, diz relatório",
+      "summary": "Documento do Banco Interamericano de Desenvolvimento (BID) destaca Brasil e Bolívia como casos excepcionais onde o crescimento da produtividade foi acompanhado pela renda real dos trabalhadores",
       "source": "Exame",
-      "url": "https://exame.com/invest/mercados/amazon-supera-us-3-trilhoes-em-valor-de-mercado-pela-1a-vez/",
-      "time": "2026-08-03T11:54:34Z",
+      "url": "https://exame.com/economia/no-brasil-o-aumento-da-produtividade-levou-ao-aumento-da-renda-diz-relatorio/",
+      "time": "2026-08-03T14:39:07Z",
+      "cat": "analise",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2025/12/carteira-de-trabalho.jpg"
+    },
+    {
+      "title": "Brasil tem o 4º mercado de trabalho mais formalizado da América Latina",
+      "summary": "Relatório do BID mostra que o Brasil ampliou a formalização nas últimas duas décadas e hoje só fica atrás de Uruguai, Costa Rica e Chile entre os países analisados",
+      "source": "Exame",
+      "url": "https://exame.com/brasil/brasil-tem-o-4o-mercado-de-trabalho-mais-formalizado-da-america-latina/",
+      "time": "2026-08-03T14:30:22Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/03/GettyImages-1491615968.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2020/08/size_960_16_9_carteiras_de_trabalho.jpg"
     },
     {
-      "title": "B3 divulga 1ª prévia do Ibovespa com entrada da Tenda e saída da PetroReconcavo",
-      "summary": "Nova carteira do principal índice acionário da B3 ainda passará por duas revisões antes da definição da carteira definitiva em 8 de setembro",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/b3-divulga-1a-previa-do-ibovespa-com-entrada-da-tenda-e-saida-da-petroreconcavo/",
-      "time": "2026-08-03T11:53:29Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2020/11/DSC2670bx.jpg"
-    },
-    {
-      "title": "Ibovespa abre agosto em baixa com Vale e Petrobras, enquanto NY sobe forte",
-      "summary": "Índice recua com queda do petróleo, pressionado por petroleiras, após Trump sinalizar negociação com Irã; dólar opera em leve alta frente ao real",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/ibovespa-abre-agosto-em-baixa-com-vale-e-petrobras-enquanto-ny-sobe-forte/",
-      "time": "2026-08-03T11:49:41Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2021/08/PT-bolsa.jpg"
-    },
-    {
-      "title": "Vila Madalena para bar, Bom Retiro para moda: veja vocação dos bairros de SP",
-      "summary": "SuaQuadra criou ferramenta que analisa milhares de imóveis comerciais para indicar os melhores pontos para mais de 50 tipos de negócios",
-      "source": "Exame",
-      "url": "https://exame.com/mercado-imobiliario/vila-madalena-para-bar-bom-retiro-para-moda-veja-vocacao-dos-bairros-de-sp/",
-      "time": "2026-08-03T11:06:54Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2022/10/Beco-do-Batman-Vila-Madalena.jpg"
-    },
-    {
-      "title": "Bitcoin amplia queda após venda de BTCs pela Strategy se somar a crise da Coldcard",
-      "summary": "Mercado cripto destoa das bolsas internacionais e recua mais uma vez mesmo com melhora no ambiente geopolítico",
-      "source": "Exame",
-      "url": "https://exame.com/future-of-money/bitcoin-hoje-03-08-2026/",
-      "time": "2026-08-03T10:58:25Z",
-      "cat": "cripto",
-      "tickers": [
-        "BTC"
-      ],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/erling-loken-andersen-k3_Cb0VQogM-unsplash.jpg"
-    },
-    {
-      "title": "Turquia - Ações fecharam o pregão em queda e o Índice BIST 100 recuou 0,35%",
+      "title": "FAA aprova 737 MAX-7 para produção e ações da Boeing sobem 5%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/turquia--acoes-fecharam-o-pregao-em-queda-e-o-indice-bist-100-recuou-035-2023922",
-      "time": "2026-08-03T15:30:46Z",
+      "url": "https://br.investing.com/news/stock-market-news/faa-aprova-737-max7-para-producao-e-acoes-da-boeing-sobem-5-2024042",
+      "time": "2026-08-03T17:05:43Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/Istanbul_Stock_Exchange_M_1440056254.jpg"
+      "image": "https://content-media.investing.com/news/LYNXNPEF2G0QA_M.jpg"
     },
     {
-      "title": "Dinamarca - Ações fecharam o pregão em queda e o Índice OMX Copenhagen 20 recuou 0,74%",
+      "title": "Produção de petróleo do Brasil bate recorde com conflito no Oriente Médio",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/dinamarca--acoes-fecharam-o-pregao-em-queda-e-o-indice-omx-copenhagen-20-recuou-074-2023921",
-      "time": "2026-08-03T15:30:21Z",
+      "url": "https://br.investing.com/news/stock-market-news/producao-de-petroleo-do-brasil-bate-recorde-com-conflito-no-oriente-medio-2024036",
+      "time": "2026-08-03T17:04:08Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB65083_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB230DM_M.jpg"
     },
     {
-      "title": "Por que as ações da Ares Management estão disparando hoje?",
+      "title": "Robinhood planeja IPO na Bolsa de Nova York para fundo de startups RVII",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-ares-management-estao-disparando-hoje-93CH-2023899",
-      "time": "2026-08-03T15:14:19Z",
+      "url": "https://br.investing.com/news/stock-market-news/robinhood-planeja-ipo-na-bolsa-de-nova-york-para-fundo-de-startups-rvii-432SI-2024031",
+      "time": "2026-08-03T17:01:02Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/SP500StandardandPoors500Index_150x108_S_1657544297.jpg"
+      "image": null
     },
     {
-      "title": "Marrocos - Ações fecharam o pregão em alta e o Índice Moroccan All Shares avançou 0,18%",
+      "title": "Ações europeias iniciam agosto em alta com expectativas sobre EUA e Irã",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/marrocos--acoes-fecharam-o-pregao-em-alta-e-o-indice-moroccan-all-shares-avancou-018-2023891",
-      "time": "2026-08-03T15:10:20Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-europeias-iniciam-agosto-em-alta-com-expectativas-sobre-eua-e-ira-2024002",
+      "time": "2026-08-03T16:42:48Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEM381B2_1200_L.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPED911O8_M.jpg"
     },
     {
-      "title": "Por que as ações da AstraZeneca estão caindo hoje?",
+      "title": "UBS aponta as melhores ações de mineradoras de ouro em meio à volatilidade",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-astrazeneca-estao-caindo-hoje-93CH-2023884",
-      "time": "2026-08-03T15:08:47Z",
+      "url": "https://br.investing.com/news/stock-market-news/ubs-aponta-as-melhores-acoes-de-mineradoras-de-ouro-em-meio-a-volatilidade-93CH-2023994",
+      "time": "2026-08-03T16:38:21Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
-    },
-    {
-      "title": "BTIG elege Guardant Health como principal ação do setor de saúde",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/btig-elege-guardant-health-como-principal-acao-do-setor-de-saude-93CH-2023882",
-      "time": "2026-08-03T15:06:56Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB59082_M.jpg"
+      "image": null
     }
   ],
-  "atualizado_em": "03/08/2026 15:42"
+  "atualizado_em": "03/08/2026 17:50"
 }
