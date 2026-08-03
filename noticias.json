@@ -14,16 +14,6 @@
   },
   "featured": [
     {
-      "title": "Ibovespa perde carona em recorde de Wall Street e fecha no zero a zero; dólar sobe a R$ 5,08",
-      "summary": "O Ibovespa (IBOV) encerrou o primeiro pregão de agosto estável, pressionado por ações peso-pesado ligadas a commodities. Nesta segunda-feira (3), o principal índice da bolsa brasileira terminou as negociações estável (0,",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ibovespa-perde-carona-em-recorde-de-wall-street-e-fecha-no-zero-a-zero-dolar-sobe-a-r-508/",
-      "time": "2026-08-03T20:31:03Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/ibovespa.jpg"
-    },
-    {
       "title": "Ibovespa e dólar hoje: petróleo recua com Irã e Selic cai no Focus",
       "summary": "",
       "source": "Investing.com",
@@ -32,6 +22,16 @@
       "cat": "economia",
       "tickers": [],
       "image": "https://content-media.investing.com/news/moved_LYNXMPEM6U1AL_1200_L.jpg"
+    },
+    {
+      "title": "Juros futuros têm queda com alívio nos preços do petróleo e à espera de Copom",
+      "summary": "A curva de juros futuros acompanhou o recuo dos rendimentos dos títulos do Tesouro dos EUA em breve alívio dos preços do petróleo e redução das tensões geopolíticas. O mercado também entrou em compasso de espera pela pró",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/juros-futuros-tem-queda-com-alivio-nos-precos-do-petroleo-e-a-espera-de-copom-lils/",
+      "time": "2026-08-03T21:33:25Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/porcentagem.jpg"
     }
   ],
   "all": [
@@ -43,7 +43,7 @@
       "time": "2026-08-03T22:01:45Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/01/2024-12-18T034043Z_979576169_RC2ERBA9LWJG_RTRMADP_3_INDONESIA-PALMOIL-BIODIESEL.jpg?fit=300%2C209&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-30T193654Z_1_LYNXMPEM2T16K_RTROPTP_4_SPAIN-ENERGY-OUTAGES.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
       "title": "BB Seguridade (BBSE3) pagará R$ 3,85 bilhões em dividendos, ou R$ 1,98 por ação",
@@ -102,24 +102,38 @@
       "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/cem-reais-dinheiro.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Bradsaúde (SAUD3) tem alta de 25% do lucro no 2º trimestre, para R$ 1,11 bilhão",
-      "summary": "No acumulado do ano, até junho, o lucro da companhia totalizou R$ 2,056 bilhões, alta de 32,9% em relação ao observado um ano antes",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/bradsaude-saud3-resultados-segundo-trimestre-2026/",
-      "time": "2026-08-03T20:58:00Z",
-      "cat": "acoes",
+      "title": "Pague Menos (PGMN3) lucra R$ 73,6 milhões no 2T26, alta de 22,2%",
+      "summary": "A Pague Menos (PGMN3) registrou lucro líquido ajustado de R$ 73,6 milhões no segundo trimestre de 2026 (2T26), alta de 22,2% em relação ao mesmo período do ano passado. A receita líquida somou R$ 3,99 bilhões entre abril",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/pague-menos-pgmn3-lucra-r-736-milhoes-no-2t26-alta-de-222-vtra/",
+      "time": "2026-08-03T22:41:39Z",
+      "cat": "fundos",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/bradsaude.jpeg?fit=300%2C169&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2023/12/pague-menos-pgmn3.jpeg"
     },
     {
-      "title": "Por que Ibovespa começou agosto “no zero”, enquanto Dow Jones bateu novo recorde?",
-      "summary": "Queda das commodities, que é parte importante da composição do benchmark da Bolsa brasileira, explica movimento",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/por-que-ibovespa-comecou-agosto-no-zero-enquanto-dow-jones-bateu-novo-recorde/",
-      "time": "2026-08-03T20:56:21Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/adam-smigielski-K5mPtONmpHM-unsplash.png?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "title": "Itaú (ITUB4): Trimestre deve repetir fórmula de sucesso, mas há algumas notícias não tão boas",
+      "summary": "O Itaú (ITUB4) chega à temporada de balanços com a expectativa de entregar mais um trimestre sólido, mas sem grandes surpresas. As projeções do mercado apontam para um crescimento do lucro entre 7% e 11% na comparação an",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/itau-itub4-trimestre-deve-repetir-formula-de-sucesso-mas-ha-algumas-noticias-nao-tao-boas-rnda/",
+      "time": "2026-08-03T22:23:24Z",
+      "cat": "acoes",
+      "tickers": [
+        "ITUB4"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/ita.jpg"
+    },
+    {
+      "title": "Lucro da Marcopolo (POMO4) cai 15,5% e soma R$ 271,2 milhões no 2º trimestre",
+      "summary": "A Marcopolo (POMO4) reportou lucro líquido de R$ 271,2 milhões no segundo trimestre de 2026. A cifra representa queda de 15,5% ante igual intervalo de 2025. O Ebitda (Lucros Antes de Juros, Impostos, Depreciação e Amorti",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/lucro-da-marcopolo-cai-155-e-soma-r-2712-milhoes-no-2o-trimestre-vtra/",
+      "time": "2026-08-03T22:08:00Z",
+      "cat": "acoes",
+      "tickers": [
+        "POMO4"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2024/10/marcopolo-pomo4-radar-de-empresas.jpg"
     },
     {
       "title": "ISA Energia (ISAE4) sofre com despesas e lucro recua 32%, a R$ 174 milhões no 2T25",
@@ -130,6 +144,16 @@
       "cat": "acoes",
       "tickers": [],
       "image": "https://www.moneytimes.com.br/uploads/2024/08/energia-eletrica-energisa-engi11.jpg"
+    },
+    {
+      "title": "Cadillac de R$ 3 milhões liga ex-sócio da Fictor, fundo de investimento e preso por lavagem de dinheiro do tráfico",
+      "summary": "Uma operação envolvendo um Cadillac Escalade 2025, avaliado em cerca de R$ 3 milhões, colocou Rafael Paixão, ex-sócio da Fictor, no centro de uma estrutura financeira que envolve uma empresa ligada a um preso pela Políci",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/cadillac-de-r-3-milhoes-coloca-ex-socio-da-fictor-no-centro-de-operacao-com-fundo-da-planner-vtra/",
+      "time": "2026-08-03T21:50:34Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/01/master-1.jpg"
     },
     {
       "title": "BB Seguridade (BBSE3) pagará R$ 3,8 bilhões dividendos; valor por ações chega a quase R$ 2",
@@ -186,36 +210,6 @@
       "cat": "acoes",
       "tickers": [],
       "image": "https://www.moneytimes.com.br/uploads/2021/06/tereza-cristina-67.jpg"
-    },
-    {
-      "title": "Bradsaúde (SAUD3) vê lucro subir 25%, a R$ 1,11 bilhão, no 2T26",
-      "summary": "A companhia de planos de saúde e rede de hospitais Bradsaúde (SAUB3), do grupo Bradesco, teve lucro líquido de R$ 1,11 bilhão no segundo trimestre, um crescimento de 24,8% sobre o mesmo período do ano passado, com receit",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bradsaude-saud3-ve-lucro-subir-25-a-r-111-bilhao-no-2t26/",
-      "time": "2026-08-03T21:03:05Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/05/bradsaude.jpg"
-    },
-    {
-      "title": "Ibovespa perde carona em recorde de Wall Street e fecha no zero a zero; dólar sobe a R$ 5,08",
-      "summary": "O Ibovespa (IBOV) encerrou o primeiro pregão de agosto estável, pressionado por ações peso-pesado ligadas a commodities. Nesta segunda-feira (3), o principal índice da bolsa brasileira terminou as negociações estável (0,",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ibovespa-perde-carona-em-recorde-de-wall-street-e-fecha-no-zero-a-zero-dolar-sobe-a-r-508/",
-      "time": "2026-08-03T20:31:03Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/ibovespa.jpg"
-    },
-    {
-      "title": "Tyson Foods reduz previsão de lucro diante de escassez de gado nos EUA",
-      "summary": "A Tyson Foods reduziu sua previsão de lucro anual nesta segunda-feira (3), alertando que as perdas em seu segmento de carne bovina tendem a aumentar, já que a escassez de gado nos EUA mantém os custos com o rebanho em ní",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/tyson-foods-reduz-previsao-de-lucro-diante-de-escassez-de-gado-nos-eua-pads/",
-      "time": "2026-08-03T20:19:44Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2023/05/tyson-foods-resultos.jpg"
     },
     {
       "title": "Ibovespa fecha estável aos 178 mil pontos com queda de Petrobras (PETR4) e Vale (VALE3)",
@@ -311,58 +305,74 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/analista-explicando-1_09.webp"
     },
     {
-      "title": "Petrobras (PETR4) anuncia descoberta de gás em águas profundas da Colômbia",
-      "summary": "A Petrobras (PETR4) divulgou nesta segunda-feira (3) um fato relevante informando a descoberta de acumulação de gás no poço exploratório Sandia-1, localizado em águas profundas da Colômbia, dentro do Bloco GUA-OFF-0. O p",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/petr4-poco-sandia-1-gas-offshore-colombia-agosto-2026-go/",
-      "time": "2026-08-03T12:55:15Z",
-      "cat": "acoes",
-      "tickers": [
-        "PETR4"
-      ],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
-    },
-    {
-      "title": "Coldcard: o que especialistas em cibersegurança dizem sobre o roubo histórico de bitcoin",
-      "summary": "Falha de na geração de aleatoriedade das chaves exposta por inteligência artificial causou um prejuízo milionário a diversos investidores",
+      "title": "De fábrica de alfajores a marca global: a história da Havanna, que está em recuperação extrajudicial",
+      "summary": "A primeira fábrica e loja da marca abriu as portas em 6 de janeiro de 1948",
       "source": "Exame",
-      "url": "https://exame.com/future-of-money/coldcard-o-que-especialistas-em-ciberseguranca-dizem-sobre-o-roubo-historico-de-bitcoin/",
-      "time": "2026-08-03T18:57:11Z",
-      "cat": "cripto",
-      "tickers": [
-        "BTC"
-      ],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/08/Carteira-Coldcard.png"
-    },
-    {
-      "title": "Entenda o que foi a Guerra do Paraguai, conflito que tem pautado relação do Brasil com vizinho",
-      "summary": "Citado pelo Presidente Lula em um evento, o confronto foi revisitado por líderes sul americanos durante a última semana",
-      "source": "Exame",
-      "url": "https://exame.com/esferabrasil/entenda-o-que-foi-a-guerra-do-paraguai-conflito-que-tem-pautado-relacao-do-brasil-com-vizinho/",
-      "time": "2026-08-03T18:26:08Z",
+      "url": "https://exame.com/negocios/de-fabrica-de-alfajores-a-marca-global-a-historia-da-havanna-que-esta-em-recuperacao-judicial/",
+      "time": "2026-08-03T19:22:58Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_guerra-paraguai.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2017/06/havanna46.jpg"
     },
     {
-      "title": "'A Odisseia' impulsiona ações da IMAX ao maior nível da história",
-      "summary": "Os papéis fecharam acima de US$ 50 pela primeira vez na história da companhia",
+      "title": "SP Climate Week abre com foco em acelerar soluções e destravar investimentos",
+      "summary": "A estreia da Climate House colocou a implementação da Agenda de Ação da COP30 no centro do debate no primeiro dia, marcado pelo lançamento de um Grupo de Trabalho de Finanças",
       "source": "Exame",
-      "url": "https://exame.com/invest/mercados/a-odisseia-impulsiona-acoes-da-imax-ao-maior-nivel-da-historia/",
-      "time": "2026-08-03T18:15:00Z",
+      "url": "https://exame.com/esg/sp-climate-week-abre-com-foco-em-acelerar-solucoes-e-destravar-investimentos/",
+      "time": "2026-08-03T19:15:17Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2024/08/01_IMAX.jpeg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/08/IMG_7470.jpg"
     },
     {
-      "title": "São Paulo responde por um em cada quatro empregos criados no Brasil no semestre",
-      "summary": "Estado liderou a geração de postos com carteira assinada e registrou o maior salário médio de admissão em junho",
-      "source": "Exame",
-      "url": "https://exame.com/brasil/sao-paulo-responde-por-um-em-cada-quatro-empregos-criados-no-brasil-no-semestre/",
-      "time": "2026-08-03T17:51:09Z",
-      "cat": "economia",
+      "title": "Encore aposta em stock picking para terceira onda gringa na B3",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/encore-aposta-em-stock-picking-para-terceira-onda-gringa-na-b3-2024437",
+      "time": "2026-08-03T23:26:22Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2024/06/RafaPress.jpg"
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEI5D0Q4_L.jpg"
+    },
+    {
+      "title": "Lucro da Pague Menos cresce 22,2% no 2º tri",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/lucro-da-pague-menos-cresce-222-no-2o-tri-2024433",
+      "time": "2026-08-03T23:07:07Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/PagueMenos_800x533_L_1722949952.jpg"
+    },
+    {
+      "title": "Após Santander, quem são as próximas subsidiárias a fechar capital na B3?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/apos-santander-quem-sao-as-proximas-subsidiarias-a-fechar-capital-na-b3-2024418",
+      "time": "2026-08-03T22:24:29Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://content-media.investing.com/news/LYNXNPEF1H0SH_M.jpg"
+    },
+    {
+      "title": "Lucro da ISA Energia recua 32% no 2º tri com avanço na despesa financeira",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/lucro-da-isa-energia-recua-32-no-2o-tri-com-avanco-na-despesa-financeira-2024393",
+      "time": "2026-08-03T21:42:08Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEK600QW_L.jpg"
+    },
+    {
+      "title": "BB Seguridade tem lucro líquido de R$2,15 bi no 2° tri",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/bb-seguridade-tem-lucro-liquido-de-r215-bi-no-2-tri-2024405",
+      "time": "2026-08-03T21:42:08Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEBAB0PN_M.jpg"
     },
     {
       "title": "Por que as ações da Ichor Holdings estão caindo hoje?",
@@ -402,17 +412,7 @@
       "time": "2026-08-03T21:28:32Z",
       "cat": "internacional",
       "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Lucro da ISA Energia recua 32% no 2º tri com avanço na despesa financeira",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/lucro-da-isa-energia-recua-32-no-2o-tri-com-avanco-na-despesa-financeira-2024393",
-      "time": "2026-08-03T21:28:32Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": null
+      "image": "https://content-media.investing.com/news/Hospital_800x533_L_1462797073.jpg"
     },
     {
       "title": "Por que as ações da Custom Truck One Source estão subindo hoje?",
@@ -422,48 +422,8 @@
       "time": "2026-08-03T21:28:20Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEBAG0BO_L.jpg"
-    },
-    {
-      "title": "Colômbia - Ações fecharam o pregão em queda e o Índice COLCAP recuou 0,31%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/colombia--acoes-fecharam-o-pregao-em-queda-e-o-indice-colcap-recuou-031-2024391",
-      "time": "2026-08-03T21:25:19Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/moved_small-LYNXMPEHAT0R7_L.jpg"
-    },
-    {
-      "title": "Por que as ações da Ameresco estão disparando hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-ameresco-estao-disparando-hoje-93CH-2024390",
-      "time": "2026-08-03T21:23:57Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0E0NI_M.jpg"
-    },
-    {
-      "title": "Marcopolo tem queda de 15,5% no lucro do 2º tri",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/marcopolo-tem-queda-de-155-no-lucro-do-2o-tri-2024387",
-      "time": "2026-08-03T21:21:09Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6208D_M.jpg"
-    },
-    {
-      "title": "Rússia - Ações fecharam o pregão em alta e o Índice MOEX Russia Index avançou 1,60%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/russia--acoes-fecharam-o-pregao-em-alta-e-o-indice-moex-russia-index-avancou-160-2024386",
-      "time": "2026-08-03T21:20:22Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPED5E0GC-ORUBS_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEBAG0BO_M.jpg"
     }
   ],
-  "atualizado_em": "03/08/2026 22:08"
+  "atualizado_em": "03/08/2026 23:36"
 }
