@@ -36,6 +36,16 @@
   ],
   "all": [
     {
+      "title": "Lucro da Pague Menos (PGMN3) cresce 22,2% no 2º tri, a R$ 73,6 milhões",
+      "summary": "Empresa encerrou o segundo trimestre com 1.695 lojas no país ante ​1.657 no um ano antes",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/pague-menos-pgmn3-resultados-segundo-trimestre-2026/",
+      "time": "2026-08-03T23:05:30Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/09/pague-menos.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
       "title": "Lucro da ISA Energia (ISAE4) recua 32% no 2º tri com avanço na despesa financeira",
       "summary": "Resultado operacional somou R$967 milhões no período, alta de 22,5% no comparativo anual",
       "source": "InfoMoney",
@@ -147,7 +157,7 @@
     },
     {
       "title": "Cadillac de R$ 3 milhões liga ex-sócio da Fictor, fundo de investimento e preso por lavagem de dinheiro do tráfico",
-      "summary": "Uma operação envolvendo um Cadillac Escalade 2025, avaliado em cerca de R$ 3 milhões, colocou Rafael Paixão, ex-sócio da Fictor, no centro de uma estrutura financeira que envolve uma empresa ligada a um preso pela Políci",
+      "summary": "Texto atualizado às 20h50 para inserção dos posicionamentos da Planner e da Redwood (Disponíveis na íntegra ao final)Uma operação envolvendo um Cadillac Escalade 2025, avaliado em cerca de R$ 3 milhões, colocou Rafael Pa",
       "source": "Money Times",
       "url": "https://www.moneytimes.com.br/cadillac-de-r-3-milhoes-coloca-ex-socio-da-fictor-no-centro-de-operacao-com-fundo-da-planner-vtra/",
       "time": "2026-08-03T21:50:34Z",
@@ -210,6 +220,18 @@
       "cat": "acoes",
       "tickers": [],
       "image": "https://www.moneytimes.com.br/uploads/2021/06/tereza-cristina-67.jpg"
+    },
+    {
+      "title": "TGAR11 pagará dividendos com yield de 1,42%; confira detalhes",
+      "summary": "O fundo imobiliário TGAR11 (TG Ativo Real) anunciou a distribuição de R$ 0,72 por cota referente ao resultado de julho de 2026. Terão direito aos proventos os cotistas posicionados ao fim do pregão de 31 de julho de 2026",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/tgar11-pagara-dividendos-com-yield-de-142-confira-detalhes/",
+      "time": "2026-08-03T23:55:03Z",
+      "cat": "fundos",
+      "tickers": [
+        "TGAR11"
+      ],
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     },
     {
       "title": "Ibovespa fecha estável aos 178 mil pontos com queda de Petrobras (PETR4) e Vale (VALE3)",
@@ -293,36 +315,16 @@
       "image": "https://files.sunoresearch.com.br/n/uploads/2023/08/Agencia-Itau-Unibanco_2.jpg"
     },
     {
-      "title": "Dividendo do MXRF11 rende 1,04% no mês; confira a distribuição de julho",
-      "summary": "Os dividendos do MXRF11 serão de R$ 0,10 por cota aos cotistas, repetindo o patamar em vigor desde maio. O pagamento está marcado para 14 de agosto de 2026, com direito garantido a quem estiver posicionado até o encerram",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/dividendos-do-mxrf11-pagamento-agosto/",
-      "time": "2026-08-03T13:55:40Z",
-      "cat": "fundos",
+      "title": "EMBJ3: Por que as ações da Embraer subiram hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/embj3-por-que-as-acoes-da-embraer-subiram-hoje-2024444",
+      "time": "2026-08-03T23:40:23Z",
+      "cat": "internacional",
       "tickers": [
-        "MXRF11"
+        "EMBJ3"
       ],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/analista-explicando-1_09.webp"
-    },
-    {
-      "title": "De fábrica de alfajores a marca global: a história da Havanna, que está em recuperação extrajudicial",
-      "summary": "A primeira fábrica e loja da marca abriu as portas em 6 de janeiro de 1948",
-      "source": "Exame",
-      "url": "https://exame.com/negocios/de-fabrica-de-alfajores-a-marca-global-a-historia-da-havanna-que-esta-em-recuperacao-judicial/",
-      "time": "2026-08-03T19:22:58Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2017/06/havanna46.jpg"
-    },
-    {
-      "title": "SP Climate Week abre com foco em acelerar soluções e destravar investimentos",
-      "summary": "A estreia da Climate House colocou a implementação da Agenda de Ação da COP30 no centro do debate no primeiro dia, marcado pelo lançamento de um Grupo de Trabalho de Finanças",
-      "source": "Exame",
-      "url": "https://exame.com/esg/sp-climate-week-abre-com-foco-em-acelerar-solucoes-e-destravar-investimentos/",
-      "time": "2026-08-03T19:15:17Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/08/IMG_7470.jpg"
+      "image": "https://content-media.investing.com/news/LYNXMPEE3B27Q_M.jpg"
     },
     {
       "title": "Encore aposta em stock picking para terceira onda gringa na B3",
@@ -382,7 +384,7 @@
       "time": "2026-08-03T21:37:12Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_L.jpg"
     },
     {
       "title": "México - Ações fecharam o pregão em queda e o Índice S&P/BMV IPC recuou 0,36%",
@@ -403,27 +405,7 @@
       "cat": "economia",
       "tickers": [],
       "image": "https://content-media.investing.com/news/moved_LYNXMPEM6U1AL_1200_L.jpg"
-    },
-    {
-      "title": "Bradsaúde tem alta de 25% no lucro do 2º trimestre",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/bradsaude-tem-alta-de-25-no-lucro-do-2o-trimestre-2024353",
-      "time": "2026-08-03T21:28:32Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/Hospital_800x533_L_1462797073.jpg"
-    },
-    {
-      "title": "Por que as ações da Custom Truck One Source estão subindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-custom-truck-one-source-estao-subindo-hoje-93CH-2024392",
-      "time": "2026-08-03T21:28:20Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEBAG0BO_M.jpg"
     }
   ],
-  "atualizado_em": "03/08/2026 23:36"
+  "atualizado_em": "04/08/2026 00:09"
 }
