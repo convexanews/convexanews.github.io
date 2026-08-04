@@ -14,16 +14,6 @@
   },
   "featured": [
     {
-      "title": "Ibovespa e dólar hoje: petróleo recua com Irã e Selic cai no Focus",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-petroleo-recua-com-ira-e-selic-cai-no-focus-2024202",
-      "time": "2026-08-03T21:30:03Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEM6U1AL_1200_L.jpg"
-    },
-    {
       "title": "Juros futuros têm queda com alívio nos preços do petróleo e à espera de Copom",
       "summary": "A curva de juros futuros acompanhou o recuo dos rendimentos dos títulos do Tesouro dos EUA em breve alívio dos preços do petróleo e redução das tensões geopolíticas. O mercado também entrou em compasso de espera pela pró",
       "source": "Money Times",
@@ -32,9 +22,41 @@
       "cat": "economia",
       "tickers": [],
       "image": "https://www.moneytimes.com.br/uploads/2026/07/porcentagem.jpg"
+    },
+    {
+      "title": "Itaú (ITUB4): Trimestre deve repetir fórmula de sucesso, mas há algumas notícias não tão boas",
+      "summary": "O Itaú (ITUB4) chega à temporada de balanços com a expectativa de entregar mais um trimestre sólido, mas sem grandes surpresas. As projeções do mercado apontam para um crescimento do lucro entre 7% e 11% na comparação an",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/itau-itub4-trimestre-deve-repetir-formula-de-sucesso-mas-ha-algumas-noticias-nao-tao-boas-rnda/",
+      "time": "2026-08-03T22:23:24Z",
+      "cat": "acoes",
+      "tickers": [
+        "ITUB4"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/ita.jpg"
     }
   ],
   "all": [
+    {
+      "title": "Quina hoje, concurso 7082: confira o resultado sorteado nesta segunda (3)",
+      "summary": "Os números sorteados foram: 63 - 78 - 50 - 17 - 38.",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7082-confira-o-resultado-sorteado-nesta-segunda-3/",
+      "time": "2026-08-04T00:13:30Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/quina.png?fit=300%2C169&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Lotofácil hoje, concurso 3752: confira o resultado sorteado nesta segunda (3)",
+      "summary": "O prêmio estimado para este concurso era de R$ 2 milhões",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3752-confira-o-resultado-sorteado-nesta-segunda-3/",
+      "time": "2026-08-04T00:09:22Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Captura-de-tela-2026-08-03-210654.png?fit=300%2C168&amp;quality=70&amp;strip=all"
+    },
     {
       "title": "Lucro da Pague Menos (PGMN3) cresce 22,2% no 2º tri, a R$ 73,6 milhões",
       "summary": "Empresa encerrou o segundo trimestre com 1.695 lojas no país ante ​1.657 no um ano antes",
@@ -54,62 +76,6 @@
       "cat": "acoes",
       "tickers": [],
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-30T193654Z_1_LYNXMPEM2T16K_RTROPTP_4_SPAIN-ENERGY-OUTAGES.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "BB Seguridade (BBSE3) pagará R$ 3,85 bilhões em dividendos, ou R$ 1,98 por ação",
-      "summary": "O pagamento está programado para ocorrer em 3 de setembro de 2026",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/bb-seguridade-bbse3-pagara-r-385-bilhoes-em-dividendos-ou-r-198-por-acao/",
-      "time": "2026-08-03T21:43:42Z",
-      "cat": "fundos",
-      "tickers": [
-        "BBSE3"
-      ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/17746.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "BB Seguridade (BBSE3) tem lucro líquido de R$ 2,15 bi no 2° tri, queda anual de 3,9%",
-      "summary": "Analistas, em média esperavam lucro líquido de R$ 2,13 bilhões para a BB Seguridade, segundo dados da LSEG.",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/bb-seguridade-bbse3-resultados-segundo-trimestre-2026/",
-      "time": "2026-08-03T21:42:39Z",
-      "cat": "acoes",
-      "tickers": [
-        "BBSE3"
-      ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2022/08/637719640558739446.jpg?fit=300%2C194&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Marcopolo (POMO4): lucro líquido cai 15,5% e soma R$ 271,2 milhões no 2º trimestre",
-      "summary": "A receita operacional líquida da Marcopolo somou R$ 2,373 bilhões ao final de junho, alta anual de 3%",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/marcopolo-pomo4-resultados-segundo-trimestre-2026/",
-      "time": "2026-08-03T21:20:31Z",
-      "cat": "acoes",
-      "tickers": [
-        "POMO4"
-      ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/marcopolo.avif?resize=300,199"
-    },
-    {
-      "title": "Palantir tem trimestre “de outro mundo”, eleva projeções e ação dispara 9%",
-      "summary": "Vendas comerciais nos EUA saltaram 149%, para US$ 764 milhões; CEO Alex Karp diz que clientes \"se recusaram a se tornar vassalos\" das big techs de IA",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/palantir-tem-trimestre-de-outro-mundo-eleva-projecoes-e-acao-dispara-9/",
-      "time": "2026-08-03T21:06:07Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-07-10T151332Z_810882085_RC22BMAICCZN_RTRMADP_3_MEDIA-SUNVALLEY-e1785791077862.jpg?fit=200%2C300&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Taxas dos DIs caem em dia de recuo dos rendimentos dos Treasuries e do petróleo",
-      "summary": "No fim da tarde, a taxa do DI (Depósito Interfinanceiro) para janeiro de 2028 estava em 13,805%, com baixa de 6 pontos-base ante o ajuste de 13,861% da sessão anterior",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/taxas-dos-dis-caem-em-dia-de-recuo-dos-rendimentos-dos-treasuries-e-do-petroleo/",
-      "time": "2026-08-03T21:03:56Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/cem-reais-dinheiro.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
       "title": "Pague Menos (PGMN3) lucra R$ 73,6 milhões no 2T26, alta de 22,2%",
@@ -303,16 +269,84 @@
       "image": "https://files.sunoresearch.com.br/n/uploads/2023/05/mega-sena-sorteio-caixa-foto-agenciabrasil.jpg"
     },
     {
-      "title": "Itaú (ITUB4) conclui venda de operação na Colômbia para o Banco de Bogotá",
-      "summary": "Lucro do Itaú Unibanco (ITUB4). Foto: Divulgação/ Itaú O Itaú Unibanco (ITUB4) concluiu a transferência de ativos, passivos e contratos da operação de varejo para pessoas físicas do Banco Itaú Colômbia S.A. para o Banco ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/itub4-itau-colombia-varejo-pf-banco-de-bogota-transferencia-go/",
-      "time": "2026-08-03T15:38:00Z",
-      "cat": "acoes",
-      "tickers": [
-        "ITUB4"
-      ],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2023/08/Agencia-Itau-Unibanco_2.jpg"
+      "title": "Greve da CPTM em SP: Justiça determina 80% da operação durante horário de pico",
+      "summary": "O TRT prevê multa diária de R$ 400 mil ao sindicato em caso de descumprimento da determinação de funcionamento mínimo da operação",
+      "source": "Exame",
+      "url": "https://exame.com/brasil/greve-da-cptm-em-sp-justica-determina-80-da-operacao-durante-horario-de-pico/",
+      "time": "2026-08-03T21:44:46Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2024/05/ED1263_TRANSPORTE_3.jpg"
+    },
+    {
+      "title": "Guggenheim aponta sua principal escolha de ação de Biotecnologia",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/guggenheim-aponta-sua-principal-escolha-de-acao-de-biotecnologia-93CH-2024532",
+      "time": "2026-08-04T03:33:30Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEDAF0IH_L.jpg"
+    },
+    {
+      "title": "Gotham City Research acusa Sumitomo Pharma de falsificar receitas",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/gotham-city-research-acusa-sumitomo-pharma-de-falsificar-receitas-2024530",
+      "time": "2026-08-04T03:20:55Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://content-media.investing.com/news/Bearish_2_800x533_L_1414401702.jpg"
+    },
+    {
+      "title": "Ações asiáticas sobem com recuperação do setor de tecnologia; Japão recua",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-asiaticas-se-estabilizam-com-recuperacao-da-tecnologia-chinesa-2024525",
+      "time": "2026-08-04T03:06:53Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://content-media.investing.com/news/asian_3_M_1440047966.jpg"
+    },
+    {
+      "title": "Por que as ações da Japan Airlines estão caindo hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-japan-airlines-estao-caindo-hoje-93CH-2024518",
+      "time": "2026-08-04T03:01:29Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/OilwellinColorado_800x533_L_1645345712.jpg"
+    },
+    {
+      "title": "Futuros dos EUA sobem com negociações com o Irã e resultados do 2º tri em foco",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/futuros-dos-eua-sobem-com-negociacoes-com-o-ira-e-resultados-do-2o-tri-em-foco-2024489",
+      "time": "2026-08-04T01:03:03Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://content-media.investing.com/news/LYNXMPEM521KY_1200_L.jpg"
+    },
+    {
+      "title": "Qantas encerra participação na Jetstar Japão em acordo de recompra de ações",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/qantas-encerra-participacao-na-jetstar-japao-em-acordo-de-recompra-de-acoes-2024470",
+      "time": "2026-08-04T00:17:08Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://content-media.investing.com/news/LYNXMPED551OG_M.jpg"
+    },
+    {
+      "title": "Inflação da Coreia do Sul cai a mínima de 3 meses em julho; núcleo do IPC sobe",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/inflacao-da-coreia-do-sul-cai-a-minima-de-3-meses-em-julho-nucleo-do-ipc-sobe-93CH-2024447",
+      "time": "2026-08-03T23:49:59Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/OilwellinColorado_800x533_L_1645345712.jpg"
     },
     {
       "title": "EMBJ3: Por que as ações da Embraer subiram hoje?",
@@ -325,87 +359,7 @@
         "EMBJ3"
       ],
       "image": "https://content-media.investing.com/news/LYNXMPEE3B27Q_M.jpg"
-    },
-    {
-      "title": "Encore aposta em stock picking para terceira onda gringa na B3",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/encore-aposta-em-stock-picking-para-terceira-onda-gringa-na-b3-2024437",
-      "time": "2026-08-03T23:26:22Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEI5D0Q4_L.jpg"
-    },
-    {
-      "title": "Lucro da Pague Menos cresce 22,2% no 2º tri",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/lucro-da-pague-menos-cresce-222-no-2o-tri-2024433",
-      "time": "2026-08-03T23:07:07Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/PagueMenos_800x533_L_1722949952.jpg"
-    },
-    {
-      "title": "Após Santander, quem são as próximas subsidiárias a fechar capital na B3?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/apos-santander-quem-sao-as-proximas-subsidiarias-a-fechar-capital-na-b3-2024418",
-      "time": "2026-08-03T22:24:29Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEF1H0SH_M.jpg"
-    },
-    {
-      "title": "Lucro da ISA Energia recua 32% no 2º tri com avanço na despesa financeira",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/lucro-da-isa-energia-recua-32-no-2o-tri-com-avanco-na-despesa-financeira-2024393",
-      "time": "2026-08-03T21:42:08Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEK600QW_L.jpg"
-    },
-    {
-      "title": "BB Seguridade tem lucro líquido de R$2,15 bi no 2° tri",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/bb-seguridade-tem-lucro-liquido-de-r215-bi-no-2-tri-2024405",
-      "time": "2026-08-03T21:42:08Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEBAB0PN_M.jpg"
-    },
-    {
-      "title": "Por que as ações da Ichor Holdings estão caindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-ichor-holdings-estao-caindo-hoje-93CH-2024399",
-      "time": "2026-08-03T21:37:12Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_L.jpg"
-    },
-    {
-      "title": "México - Ações fecharam o pregão em queda e o Índice S&P/BMV IPC recuou 0,36%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/mexico--acoes-fecharam-o-pregao-em-queda-e-o-indice-spbmv-ipc-recuou-036-2024395",
-      "time": "2026-08-03T21:30:20Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/Mexican_Stock_Exchange_M_1440056300.jpg"
-    },
-    {
-      "title": "Ibovespa e dólar hoje: petróleo recua com Irã e Selic cai no Focus",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-petroleo-recua-com-ira-e-selic-cai-no-focus-2024202",
-      "time": "2026-08-03T21:30:03Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEM6U1AL_1200_L.jpg"
     }
   ],
-  "atualizado_em": "04/08/2026 00:09"
+  "atualizado_em": "04/08/2026 04:13"
 }
