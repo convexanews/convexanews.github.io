@@ -1,39 +1,123 @@
 {
   "headline": {
-    "title": "Ibovespa recua antes do Copom; Itaú (ITUB4) sobe após balanço",
-    "summary": "O Ibovespa encerrou o pregão desta quarta-feira (5) praticamente estável, em uma sessão marcada pela cautela antes da decisão do Comitê de Política Monetária (Copom). O principal índice da B3 caiu 0,09%, aos 177.726,17 p",
-    "source": "Suno",
-    "url": "https://www.suno.com.br/noticias/ibovespa-hoje-copom-itub4-mt/",
-    "time": "2026-08-05T21:15:05Z",
+    "title": "Selic a 14%: Como o Ibovespa, os juros futuros e o dólar devem reagir ao Copom",
+    "summary": "Com a decisão do Comitê de Política Monetária (Copom) de reduzir a Selic em 0,25 ponto percentual, de 14,25% para 14,00% ao ano, já assimilada pelos mercados, os investidores tentam antecipar como o Ibovespa deve se comp",
+    "source": "Money Times",
+    "url": "https://www.moneytimes.com.br/selic-a-14-como-o-ibovespa-os-juros-futuros-e-o-dolar-devem-reagir-ao-copom-lils/",
+    "time": "2026-08-05T23:18:43Z",
     "cat": "economia",
-    "tickers": [
-      "ITUB4"
-    ],
-    "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
+    "tickers": [],
+    "image": "https://www.moneytimes.com.br/uploads/2025/01/acoes-ibovespa-banco-do-brasil.jpg"
   },
   "featured": [
     {
-      "title": "Copom corta Selic para 14%, mas endurece o tom e pode fechar a porta para novas quedas",
-      "summary": "O Copom entregou o corte que o mercado já esperava, mas deixou pouca margem para comemoração. O Comitê de Política Monetária reduziu a Selic de 14,25% para 14% ao ano nesta quarta-feira (5), em decisão unânime, mas adoto",
+      "title": "Ibovespa recua antes do Copom; Itaú (ITUB4) sobe após balanço",
+      "summary": "O Ibovespa encerrou o pregão desta quarta-feira (5) praticamente estável, em uma sessão marcada pela cautela antes da decisão do Comitê de Política Monetária (Copom). O principal índice da B3 caiu 0,09%, aos 177.726,17 p",
       "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/copom-corta-selic-14-por-cento-pausa-juros-mt/",
-      "time": "2026-08-05T22:05:07Z",
+      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-copom-itub4-mt/",
+      "time": "2026-08-05T21:15:05Z",
       "cat": "economia",
-      "tickers": [],
+      "tickers": [
+        "ITUB4"
+      ],
       "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     },
     {
-      "title": "BC corta a Selic pela 4ª vez seguida e taxa de juros no Brasil cai para 14%",
-      "summary": "A decisão manteve o ritmo do ciclo de corte e era amplamente esperada pelo mercado financeiro",
-      "source": "Exame",
-      "url": "https://exame.com/economia/bc-corta-a-selic-pela-4a-vez-seguida-e-taxa-de-juros-no-brasil-cai-para-14/",
-      "time": "2026-08-05T18:35:08Z",
+      "title": "Copom: Petróleo, juros nos EUA e inflação vão ditar se haverá mais cortes na Selic",
+      "summary": "Comitê do Banco Central reduz juros em 0,25 p.p. de forma unânime, mas retira sinalizações futuras; pressão inflacionária e risco fiscal dividem analistas entre pausa e novos recuos em 2026",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/economia/copom-petroleo-juros-nos-eua-e-inflacao-vao-ditar-se-havera-mais-cortes-na-selic/",
+      "time": "2026-08-05T23:14:37Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2023/06/banco_central_mcajr_abr_0104222276.jpg"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-23T222149Z_1_LYNXMPEM3M1IN_RTROPTP_4_BRAZIL-ECONOMY-FX.jpg?fit=300%2C214&amp;quality=70&amp;strip=all"
     }
   ],
   "all": [
+    {
+      "title": "Copom: Petróleo, juros nos EUA e inflação vão ditar se haverá mais cortes na Selic",
+      "summary": "Comitê do Banco Central reduz juros em 0,25 p.p. de forma unânime, mas retira sinalizações futuras; pressão inflacionária e risco fiscal dividem analistas entre pausa e novos recuos em 2026",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/economia/copom-petroleo-juros-nos-eua-e-inflacao-vao-ditar-se-havera-mais-cortes-na-selic/",
+      "time": "2026-08-05T23:14:37Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-23T222149Z_1_LYNXMPEM3M1IN_RTROPTP_4_BRAZIL-ECONOMY-FX.jpg?fit=300%2C214&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Riachuelo (RIAA3) registra recorde para um 2º tri ao lucrar R$ 168 mi, alta de 36%",
+      "summary": "A receita líquida consolidada somou R$ 2,69 bilhões entre abril e junho, avanço de 3,3% sobre os R$ 2,60 bilhões registrados um ano antes",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/riachuelo-riaa3-resultados-segundo-trimestre-2026/",
+      "time": "2026-08-05T23:11:48Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/07/C2A1589x.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Axia Energia (AXIA3) lucra R$ 1,6 bilhão no 2º trimestre, alta anual de 9,5%",
+      "summary": "A companhia elétrica destacou ainda que seus investimentos atingiram R$3,12 bilhões no trimestre, 53% superiores frente ao mesmo período do ano passado",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/axia-energia-axia3-resultados-segundo-trimestre-2026/",
+      "time": "2026-08-05T22:56:33Z",
+      "cat": "fundos",
+      "tickers": [
+        "AXIA3"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/Captura-de-tela-2025-11-06-104546.png?fit=300%2C199&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Méliuz tem lucro ajustado de R$ 9,7 mi, aprova recompra e amplia aposta em bitcoin",
+      "summary": "A receita líquida consolidada somou R$ 115,7 milhões entre abril e junho, avanço de 18% em relação aos R$ 97,8 milhões registrados no mesmo período de 2025",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/meliuz-cash3-resultados-segundo-trimestre-2026-recompra-estrategia-bitcoin/",
+      "time": "2026-08-05T22:48:02Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2022/10/Meliuz_App4.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "OpenAI já é a maior fonte de receita de IA da Microsoft, mostram registros",
+      "summary": "Documento revela que a gigante de software registrou US$ 24,1 bilhões em vendas vindas da startup no ano fiscal encerrado em junho — cerca de 70% de todo o negócio de IA da companhia",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/business/openai-ja-e-a-maior-fonte-de-receita-de-ia-da-microsoft-mostram-registros/",
+      "time": "2026-08-05T22:43:20Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-23T162046Z_2061006196_RC2MHDA4GDBK_RTRMADP_3_MICROSOFT-MANAGEMENT-BUYOUTS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Vivara (VIVA3) tem lucro líquido de R$ 156,7 mi no 2T, alta de 0,9% na base anual",
+      "summary": "A receita operacional líquida da companhia totalizou R$ 833,1 milhões no trimestre, um crescimento de 9,5% ante o segundo trimestre de 2025",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/vivara-viva3-resultados-segundo-trimestre-2026/",
+      "time": "2026-08-05T22:31:41Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/12/5a6a1f71d882f.jpg?fit=300%2C225&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Entidades da indústria acham corte da Selic acertado, mas reclamam de juro ainda alto",
+      "summary": "CNI diz que juros altos vão seguir asfixiando empresas e famílias; Firjan e Fiemg defendem credibilidade fiscal e reformas para ajudar na flexibilização da taxa básica do país",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/economia/entidades-da-industria-acham-corte-da-selic-acertado-mas-reclamam-de-juro-ainda-alto/",
+      "time": "2026-08-05T22:28:05Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Industria_CNI.jpg?fit=300%2C162&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Smart Fit (SMFT3) tem alta de 8% no lucro recorrente do 2º tri, para R$ 204 milhões",
+      "summary": "A receita saltou 22%, a R$ 2,18 bilhões, enquanto o número de academias subiu 19%, para 2.170, das quais 1.746 unidades próprias",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/smart-fit-smft3-resultados-segundo-trimestre-2026/",
+      "time": "2026-08-05T22:13:11Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/smart-fit-.jpg?fit=300%2C225&amp;quality=70&amp;strip=all"
+    },
     {
       "title": "Copel vê lucro subir no 2T, com ganhos na comercialização e distribuição de energia",
       "summary": "Lucro foi a R$ 1,05 bilhão, alta de 82,6% frente ao registrado um ano antes, impulsionado pelo desempenho positivo dos negócios de comercialização e distribuição de energia",
@@ -45,90 +129,116 @@
       "image": "https://www.infomoney.com.br/wp-content/uploads/2023/09/Texto-4-10_2022.jpeg?fit=300%2C169&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Lucro da Totvs (TOTS3) sobe 17,4% no 2º tri, a R$ 240 milhões",
-      "summary": "Receita líquida de R$ 1,92 bilhão, ​alta ⁠de 36,1% em relação ⁠ao segundo trimestre de 2026",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/totvs-tots3-resultados-segundo-trimestre-2026/",
-      "time": "2026-08-05T21:59:44Z",
-      "cat": "acoes",
-      "tickers": [
-        "TOTS3"
-      ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/04/Totvs_800x533_L_1599534108.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Engie Brasil (EGIE3) tem lucro ajustado de R$ 694 mi no 2ºtri, alta anual de 23%",
-      "summary": "Lucro líquido da companhia, sem ajustes, somou R$ 1,96 bilhão no período",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/engie-brasil-egie3-resultados-segundo-trimestre-2026/",
-      "time": "2026-08-05T21:54:52Z",
-      "cat": "acoes",
-      "tickers": [
-        "EGIE3"
-      ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2020/10/Logotipo-da-Engie-reduzida.jpg?fit=300%2C198&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Brava (BRAV3) tem lucro líquido de R$ 871 mi no 2º tri, queda anual de 17%",
-      "summary": "Ebitda ajustado somou R$1,774 bilhão entre abril e junho, alta de 33% na comparação anual",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/brava-brav3-resultados-segundo-trimestre-2026/",
-      "time": "2026-08-05T21:50:00Z",
-      "cat": "acoes",
-      "tickers": [
-        "BRAV3"
-      ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2023/04/3R-PETROLEUM.jpg?fit=300%2C186&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Corte da Selic faz Brasil cair uma posição e leva país ao 2º maior juro real do mundo",
-      "summary": "Brasil tem juro real de 9,33% com Selic em 14%; ranking considera as 40 maiores economias do mundo e é liderado pela Rússia",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/economia/ranking-juros-reais-agosto-2026/",
-      "time": "2026-08-05T21:45:34Z",
+      "title": "Selic a 14%: Como o Ibovespa, os juros futuros e o dólar devem reagir ao Copom",
+      "summary": "Com a decisão do Comitê de Política Monetária (Copom) de reduzir a Selic em 0,25 ponto percentual, de 14,25% para 14,00% ao ano, já assimilada pelos mercados, os investidores tentam antecipar como o Ibovespa deve se comp",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/selic-a-14-como-o-ibovespa-os-juros-futuros-e-o-dolar-devem-reagir-ao-copom-lils/",
+      "time": "2026-08-05T23:18:43Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/cropped-investimenros-renda-fixa-selic-ia-1.jpeg?fit=225%2C300&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2025/01/acoes-ibovespa-banco-do-brasil.jpg"
     },
     {
-      "title": "BC corta Selic em 0,25 ponto, a 14% ao ano, e deixa próximos passos em aberto",
-      "summary": "Foi a quarta queda seguida da taxa, em uma decisão em linha com o esperado pelo mercado",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/economia/banco-central-copom-decisao-selic-05082026/",
-      "time": "2026-08-05T21:34:16Z",
+      "title": "Radar das Eleições: Flávio Bolsonaro estanca queda e reforça polarização com Lula, enquanto terceira via segue sem tração",
+      "summary": "O avanço do senador Flávio Bolsonaro (PL) na última rodada da pesquisa BTG Pactual/Nexus foi o tema do segundo episódio do Radar das Eleições, podcast do Money Times. O levantamento trouxe o filho do ex-presidente Jair B",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/radar-das-eleicoes-polarizacao-entre-lula-e-flavio-bolsonaro-continua-com-terceira-sem-tracao-gaep/",
+      "time": "2026-08-05T23:03:57Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/08/radar-das-eleicoes-2.png"
+    },
+    {
+      "title": "Copom deixa porta aberta para novo corte em setembro, mas com espaço menor, diz economista-chefe da G5 Partners",
+      "summary": "Como esperado pelo mercado, o Comitê de Política Monetária (Copom) reduziu a taxa básica de juros de 14,25% para 14% ao ano e, na avaliação do economista-chefe da G5 Partners, Luis Otávio Leal, os diretores do Banco Cent",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/copom-deixa-porta-aberta-para-novo-corte-em-setembro-mas-com-espaco-menor-diz-economista-chefe-da-g5-partners-lils/",
+      "time": "2026-08-05T22:50:37Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/BC-Brasil.png?fit=300%2C225&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2025/10/selic-juros.jpg"
     },
     {
-      "title": "Iochpe-Maxion (MYPK3) tem lucro de R$ 87 mi no 2º tri",
-      "summary": "Companhia apurou resultado operacional medido pelo Ebitda de R$417,5 milhões",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/iochpe-maxion-mypk3-resultados-segundo-trimestre-2026/",
-      "time": "2026-08-05T21:33:41Z",
-      "cat": "acoes",
+      "title": "Copom corta Selic, mas evita se comprometer com novos cortes; o que vem a seguir?",
+      "summary": "O Comitê de Política Monetária (Copom) do Banco Central reduziu nesta quarta-feira (5) a taxa Selic em 0,25 ponto percentual, de 14,25% para 14,00% ao ano. A decisão veio em linha com a expectativa do mercado e marca a c",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/copom-corta-selic-mas-evita-se-comprometer-com-novos-cortes-o-que-vem-a-seguir/",
+      "time": "2026-08-05T22:44:48Z",
+      "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2021/11/Iochpe-Maxion.png?fit=300%2C137&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/selic-corte-de-juros-copom-bano-central-2.jpg"
     },
     {
-      "title": "Auren reduz prejuízo no 2T e tem mais ganhos de modulação com hidrelétricas e eólicas",
-      "summary": "A geradora de energia controlada por Votorantim e CPP Investments divulgou nesta quarta-feira um prejuízo líquido de R$379,1 milhões entre abril e junho",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/auren-aure3-resultados-segundo-trimestre-2026/",
-      "time": "2026-08-05T21:25:42Z",
+      "title": "Vivara (VIVA3) tem lucro líquido de R$ 156,7 milhões no 2º trimestre, alta de 0,9% na comparação anual",
+      "summary": "A Vivara (VIVA3) registrou lucro líquido de R$ 156,7 milhões no segundo trimestre deste ano, o que representa uma leve alta de 0,9% ante igual período do ano passado. Por sua vez, o Ebitda apresentou avanço de 4,9% na me",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/vivara-tem-lucro-liquido-de-r-1567-milhoes-no-2o-trimestre-alta-de-09-na-comparacao-anual/",
+      "time": "2026-08-05T22:41:42Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/06/parque-da-auren.jpg?fit=300%2C225&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/08/vivara.jpg"
     },
     {
-      "title": "Agi tem queda de 24,4% no lucro do 2º tri, para R$ 200,3 milhões",
-      "summary": "A ‌companhia apurou índice ⁠de rentabilidade (ROAE) de 21,6%, queda de 19,6 pontos percentuais",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/agi-resultados-segundo-trimestre-2026/",
-      "time": "2026-08-05T21:22:09Z",
+      "title": "Axia Energia (AXIA3) lucra R$ 1,6 bilhão no 2T26, alta de 9,5% no ano",
+      "summary": "A Axia Energia (AXIA3) encerrou o segundo trimestre de 2026 com lucro líquido ajustado de R$ 1,608 bilhão, alta de 9,5% em relação ao mesmo período do ano passado. Segundo a companhia, o desempenho foi impulsionado pela ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/axia-energia-axia3-lucra-r-16-bilhao-no-2t26-alta-de-95-no-ano-vtra/",
+      "time": "2026-08-05T22:22:10Z",
+      "cat": "fundos",
+      "tickers": [
+        "AXIA3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/axia-energia.jpg"
+    },
+    {
+      "title": "Selic a 14%: Quanto rendem R$ 10 mil na poupança, CDB, LCA, LCI e Tesouro?",
+      "summary": "O Comitê de Política Monetária (Copom) anunciou, nesta quarta-feira (5), mais um corte de 0,25 ponto percentual na taxa básica de juros. Os diretores do Banco Central (BC) optaram mais uma vez por ajustar a taxas Selic, ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/selic-a-14-quanto-rendem-r-10-mil-na-poupanca-cdb-lca-lci-e-tesouro/",
+      "time": "2026-08-05T22:21:13Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/renda-fixa-moeda-real-economia.jpg"
+    },
+    {
+      "title": "Itaúsa (ITSA4) investe R$ 732 milhões na Aegea e aumenta participação para 14,01%",
+      "summary": "A Itaúsa (ITSA4) investiu aproximadamente R$ 732 milhões no aumento de capital da Aegea Saneamento e elevou sua participação na companhia de 13,27% para 14,01% do capital total. A operação envolveu a subscrição, pela hol",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/itausa-itsa4-investe-r-732-milhoes-na-aegea-e-aumenta-participacao-para-1401-vtra/",
+      "time": "2026-08-05T22:13:08Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/agibank.webp?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/itau-e-itausa-jcp.jpg"
+    },
+    {
+      "title": "EWZ sobe após corte da Selic em dia de volatilidade nos mercados acionários",
+      "summary": "O iShares MSCI Brazil (EWZ), que é um fundo de índice (ETF, na sigla em inglês) negociado na Bolsa de Nova York (NYSE) que replica o desempenho do mercado acionário brasileiro e que também opera influenciado por fatores ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ewz-sobe-apos-corte-da-selic-em-dia-de-volatilidade-nos-mercados-acionarios-lils/",
+      "time": "2026-08-05T22:08:44Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/11/mercado-bolsa-ibovespa.jpg"
+    },
+    {
+      "title": "SNFZ11 sobe mais de 2%; fundo amplia vantagem sobre o IFIX",
+      "summary": "As cotas do SNFZ11 avançaram 2,04% no pregão desta quarta-feira (5), encerrando a R$ 9,50. O resultado superou o IFIX, principal índice de fundos imobiliários da B3, que recuou 0,06% no dia. O movimento reforça a trajetó",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/snfz11-sobe-mais-de-2-fundo-amplia-vantagem-sobre-o-ifix/",
+      "time": "2026-08-05T22:55:05Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/close-de-gr-fico-de-1_04.webp"
+    },
+    {
+      "title": "IFIX recua 0,06%, fechando novamente em leve queda",
+      "summary": "O IFIX encerrou o pregão desta quarta-feira (5) em 3.781,99 pontos, queda de 0,06%, equivalente a recuo de 2,39 pontos em relação ao fechamento anterior. O indicador chegou a operar em alta nas primeiras horas do dia, ma",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ifix-recua-006-fechando-novamente-em-leve-queda/",
+      "time": "2026-08-05T22:35:04Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/mesa-de-escrit-rio-c-1_05.webp"
     },
     {
       "title": "Copom corta Selic para 14%, mas endurece o tom e pode fechar a porta para novas quedas",
@@ -187,38 +297,14 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/0e6152a4-iguatemi-1-jpg.webp"
     },
     {
-      "title": "LCI e LCA vão perder a isenção? Veja o que está em jogo para seus investimentos",
-      "summary": "A isenção de LCI e LCA quase entrou na lista de benefícios tributários com data para acabar. A proposta de cobrar Imposto de Renda sobre essas aplicações chegou ao Congresso em 2025, mas perdeu a validade antes de virar ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/isencao-lci-lca-imposto-renda-investimentos-mt/",
-      "time": "2026-08-05T17:45:07Z",
-      "cat": "fundos",
+      "title": "SP2B estreia no Ibirapuera reunindo inovação, negócio e cultura; expectativa é de 500 mil visitantes",
+      "summary": "Evento será realizado de 9 a 16 de agosto, no Parque Ibirapuera, com debates sobre inteligência artificial, futuro do trabalho, cultura e empreendedorismo, além de nomes como Sankar Venkatraman, Aaron Ross e Ângela Assis",
+      "source": "Exame",
+      "url": "https://exame.com/negocios/sp2b-estreia-no-ibirapuera-reunindo-inovacao-negocio-e-cultura-expectativa-e-de-500-mil-visitantes/",
+      "time": "2026-08-05T19:34:36Z",
+      "cat": "economia",
       "tickers": [],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/Gemini_Generated_Image_u5hmllu5hmllu5hm-png.webp"
-    },
-    {
-      "title": "Itaú (ITUB4) sobe 2% após lucro de R$ 12,4 bilhões no 2T e aprovação de JCP",
-      "summary": "Lucro do Itaú Unibanco (ITUB4). Foto: Divulgação/ Itaú O Itaú Unibanco (ITUB4) abriu o pregão desta quarta-feira (5) em alta depois de divulgar seu balanço do segundo trimestre de 2026 na noite de ontem (4). Por volta da",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/itub4-resultado-2t26-lucro-12-bilhoes-alta-acoes-go/",
-      "time": "2026-08-05T14:10:00Z",
-      "cat": "acoes",
-      "tickers": [
-        "ITUB4"
-      ],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2023/08/Agencia-Itau-Unibanco_2.jpg"
-    },
-    {
-      "title": "HGLG11 por dentro: veja dividendos, carteira e estratégia do fundo logístico",
-      "summary": "Com cerca de 578,8 mil cotistas ao fim de junho de 2026, o fundo imobiliário HGLG11 permanece entre os mais acompanhados da B3. O patrimônio líquido somava aproximadamente R$ 7,6 bilhões, frente a um valor de mercado de ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/hglg11-dividendos-carteira-vacancia-alavancagem/",
-      "time": "2026-08-05T14:05:07Z",
-      "cat": "fundos",
-      "tickers": [
-        "HGLG11"
-      ],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/analista-financeiro-1_11.webp"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/08/1280px-Oca_-_Ibirapuera_-_por_Carlos_Alkmin_1831b.jpg"
     },
     {
       "title": "Bradesco lucra R$ 7,1 bilhões no 2º trimestre, alta de 16,2% em um ano",
@@ -261,24 +347,74 @@
       "image": "https://classic.exame.com/wp-content/uploads/2023/06/banco_central_mcajr_abr_0104222276.jpg"
     },
     {
-      "title": "Riachuelo tem lucro recorde de R$ 168 mi no 2º tri, apesar de vendas menores",
-      "summary": "Resultado foi impulsionado pelo ganho de margem no vestuário e pela evolução da Midway, enquanto vendas em mesmas lojas desaceleraram",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/riachuelo-tem-lucro-recorde-de-r-168-mi-no-2o-tri-apesar-de-vendas-menores/",
-      "time": "2026-08-05T18:25:55Z",
-      "cat": "economia",
+      "title": "Por que as ações da HubSpot despencaram hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-hubspot-despencaram-hoje-93CH-2028375",
+      "time": "2026-08-05T23:05:12Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/05/Design-sem-nome-1-9.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC3B0CQ_M.jpg"
     },
     {
-      "title": "Sem aparições desde fevereiro, comunicação com Aiatolá é 'muito difícil', diz presidente do Irã",
-      "summary": "Mojtaba Khamenei é filho do líder supremo anterior, que ocupava o cargo até ser morto por ataques dos Estados Unidos e Israel, ocasião em que o sucessor também ficou ferido",
-      "source": "Exame",
-      "url": "https://exame.com/mundo/sem-aparicoes-desde-fevereiro-comunicacao-com-aiatola-e-muito-dificil-diz-presidente-do-ira/",
-      "time": "2026-08-05T18:21:03Z",
-      "cat": "economia",
+      "title": "Por que as ações da AppLovin despencaram hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-applovin-despencaram-hoje-93CH-2028374",
+      "time": "2026-08-05T23:05:11Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/03/AFP__20260309__A2HJ7GV__v2__HighRes__TopshotIranUsIsraelWar.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEC0409P_M.jpg"
+    },
+    {
+      "title": "Por que as ações da Duolingo estão caindo hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-duolingo-estao-caindo-hoje-93CH-2028373",
+      "time": "2026-08-05T23:04:59Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB9M0BY_M.jpg"
+    },
+    {
+      "title": "Por que as ações da Figma estão caindo hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-figma-estao-caindo-hoje-93CH-2028371",
+      "time": "2026-08-05T23:00:34Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB9606Q_M.jpg"
+    },
+    {
+      "title": "Por que as ações da Motorola Solutions estão disparando hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-motorola-solutions-estao-disparando-hoje-93CH-2028367",
+      "time": "2026-08-05T22:59:31Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPED0C0KP_M.jpg"
+    },
+    {
+      "title": "Axia Energia obtém lucro de R$1,6 bi no 2ºtri",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/axia-energia-obtem-lucro-de-r16-bi-no-2otri-2028360",
+      "time": "2026-08-05T22:49:07Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB1Q06W_M.jpg"
+    },
+    {
+      "title": "Nossa IA sabia: +200% de retorno com ações que superaram balanços",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/nossa-ia-sabia-200-essas-acoes-superaram-os-balancos-e-seguem-em-alta-2028334",
+      "time": "2026-08-05T22:12:34Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://content-media.investing.com/news/LYNXMPEM310T5_1200_L.jpg"
     },
     {
       "title": "Smartfit tem alta de 8% no lucro recorrente do 2º tri",
@@ -298,78 +434,8 @@
       "time": "2026-08-05T21:56:27Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB670Y6_M.jpg"
-    },
-    {
-      "title": "Engie Brasil tem lucro ajustado de R$694 mi no 2ºtri",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/engie-brasil-tem-lucro-ajustado-de-r694-mi-no-2otri-2028292",
-      "time": "2026-08-05T21:42:50Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/Engie_800x533_L_1637191483.jpg"
-    },
-    {
-      "title": "Lucro da Totvs sobe 17,4% no 2º tri",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/lucro-da-totvs-sobe-174-no-2o-tri-2028291",
-      "time": "2026-08-05T21:42:31Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/Totvs_800x533_L_1659644488.jpg"
-    },
-    {
-      "title": "Brava tem lucro líquido de R$871 mi no 2º tri",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/brava-tem-lucro-liquido-de-r871-mi-no-2o-tri-2028281",
-      "time": "2026-08-05T21:35:07Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/OilwellinColorado_800x533_L_1645345712.jpg"
-    },
-    {
-      "title": "México - Ações fecharam o pregão em queda e o Índice S&P/BMV IPC recuou 0,46%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/mexico--acoes-fecharam-o-pregao-em-queda-e-o-indice-spbmv-ipc-recuou-046-2028271",
-      "time": "2026-08-05T21:30:21Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPED7S129_M.jpg"
-    },
-    {
-      "title": "Colômbia - Ações fecharam o pregão em queda e o Índice COLCAP recuou 1,26%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/colombia--acoes-fecharam-o-pregao-em-queda-e-o-indice-colcap-recuou-126-2028261",
-      "time": "2026-08-05T21:25:21Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/Colombian_Securities_Exchange_M_1440056295.jpg"
-    },
-    {
-      "title": "Bradesco tem lucro líquido de R$7 bi no 2º tri e ROE alcança 16,2%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/bradesco-tem-lucro-liquido-de-r7-bi-no-2o-tri-e-roe-alcanca-162-2028248",
-      "time": "2026-08-05T21:21:07Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/moved_LYNXMPEI17180_L.jpg"
-    },
-    {
-      "title": "Auren reduz prejuízo no 2º tri e obtém mais ganhos de modulação com hidrelétricas e eólicas",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/auren-reduz-prejuizo-no-2o-tri-e-obtem-mais-ganhos-de-modulacao-com-hidreletricas-e-eolicas-2028249",
-      "time": "2026-08-05T21:21:07Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6J0AJ_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB670Y6_L.jpg"
     }
   ],
-  "atualizado_em": "05/08/2026 22:12"
+  "atualizado_em": "05/08/2026 23:29"
 }
