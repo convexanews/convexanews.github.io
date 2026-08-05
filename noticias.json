@@ -24,17 +24,49 @@
       "image": "https://www.moneytimes.com.br/uploads/2026/08/jeferson.jpg"
     },
     {
-      "title": "Selic vai cair? Mercado vê 95% de chance de corte nesta quarta-feira",
-      "summary": "O mercado parece ter tirado a manutenção da Selic do caminho — ao menos por enquanto. A poucos dias da decisão do Comitê de Política Monetária (Copom), contratos negociados na B3 apontavam cerca de 95% de probabilidade d",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/selic-mercado-chance-corte-copom-mt/",
-      "time": "2026-08-04T20:05:06Z",
+      "title": "C&A tem lucro recorde de R$ 130 milhões no 2º tri, mas Copa do Mundo freia vendas",
+      "summary": "Receita de vestuário da varejista cresceu 5,6%, enquanto SSS desacelerou para 4,1% no trimestre",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/ca-tem-lucro-recorde-de-r-130-milhoes-no-2o-tri-mas-copa-do-mundo-freia-vendas/",
+      "time": "2026-08-04T20:39:58Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2025/11/loja-cea-center-norte-.jpg"
     }
   ],
   "all": [
+    {
+      "title": "CBA (CBAV3) reverte prejuízo e tem lucro líquido de R$ 410 mi no 2º tri",
+      "summary": "Trimestre tem preço médio recorde para alumínio",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/cba-cbav3-resultados-segundo-trimestre-2026/",
+      "time": "2026-08-04T23:58:57Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/04/2024-04-01T130740Z_1_LYNXNPEK300LA_RTROPTP_4_MACRO-PMI-INDUSTRIA.jpg?fit=300%2C129&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Iguatemi (IGTI11) tem lucro líquido de R$ 135,1 mi no 2º tri, queda anual de 35,4%",
+      "summary": "A administradora de shoppings de alto padrão teve um resultado operacional medido pelo Ebitda de R$ 292,2 milhões",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/iguatemi-igti11-resultados-segundo-trimestre-2026/",
+      "time": "2026-08-04T23:50:43Z",
+      "cat": "acoes",
+      "tickers": [
+        "IGTI11"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2023/01/Foto_Projeto_XP_Iguatemi_Divulgacao.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "GPA (PCAR3) tem prejuízo líquido de R$ 204 milhões no 2º tri, alta anual de 15,5%",
+      "summary": "A receita líquida somou R$4,23 bilhões de abril ao final de junho, recuando 9,6% na comparação anual",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/gpa-pcar3-resultados-segundo-trimestre-2026/",
+      "time": "2026-08-04T23:33:36Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2023/07/Sede-GPA.png?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
     {
       "title": "Greve CPTM: funcionários decidem manter paralisação das linhas 11, 12 e 13 em SP",
       "summary": "Categoria reivindica a reestatização das três linhas concedidas à iniciativa privada",
@@ -76,26 +108,6 @@
         "CEAB3"
       ],
       "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/Fachada-CEA-Shopping-Catuai-Palladium.jpg?fit=300%2C183&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Grupo Latam registra lucro líquido de US$ 125 mi no segundo trimestre",
-      "summary": "Ebitda ajustado atingiu US$ 713 milhões, apesar de um trimestre impactado pelo aumento no preço do combustível",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/grupo-latam-ltm-resultados-segundo-trimestre-2026/",
-      "time": "2026-08-04T22:26:28Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Mega-Promo-LATAM.jpg?fit=300%2C174&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Vulcabras (VULC3) encerra 2º tri com lucro líquido recorrente estável, a R$ 143,7 mi",
-      "summary": "Receita líquida tem avanço, com alta de 11% na comparação anual",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/vulcabras-vulc3-resultados-segundo-trimestre-2026/",
-      "time": "2026-08-04T22:14:54Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2022/05/vulcabras-reproducao-site.png?fit=300%2C125&amp;quality=70&amp;strip=all"
     },
     {
       "title": "Vulcabras (VULC3) tem lucro recorrente de R$ 143,7 mi no 2º tri",
@@ -180,6 +192,16 @@
       "cat": "acoes",
       "tickers": [],
       "image": "https://www.moneytimes.com.br/uploads/2026/08/latam-embraer-.jpg"
+    },
+    {
+      "title": "GARE11: FII conclui compra de galpão em Itapevi por R$ 119,8 milhões",
+      "summary": "O fundo imobiliário GARE11 (Guardian Real Estate) concluiu, por meio do Guardian Prime Log FII, a compra de um galpão logístico em Itapevi (SP) por R$ 119,81 milhões. O movimento reforça a diretriz de ampliar a exposição",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/gare11-fii-conclui-compra-de-galpao-em-itapevi-por-r-1198-milhoes/",
+      "time": "2026-08-04T23:45:03Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     },
     {
       "title": "GGRC11: fundo imobiliário anuncia dividendos com yield de 1%; veja detalhes",
@@ -269,17 +291,17 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/investimentos-financeiros-renda-fixa-xp-foto-unsplash-1-jpg.webp"
     },
     {
-      "title": "B3 ganha primeiro ETF de empresas de serviços de petróleo dos EUA; conheça o OLEO11",
-      "summary": "B3 ganha primeiro ETF de empresas de serviços de petróleo dos EUA; conheça o OLEO11A B3 agora passa a contar com o OLEO11, primeiro ETF brasileiro voltado a companhias de serviços de petróleo listadas nos Estados Unidos.",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/oleo11-etf-petroleo-empresas-oil-services-eua-b3-lancamento-investo-jj/",
-      "time": "2026-08-04T14:47:56Z",
-      "cat": "internacional",
+      "title": "C&A tem lucro recorde de R$ 130 milhões no 2º tri, mas Copa do Mundo freia vendas",
+      "summary": "Receita de vestuário da varejista cresceu 5,6%, enquanto SSS desacelerou para 4,1% no trimestre",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/ca-tem-lucro-recorde-de-r-130-milhoes-no-2o-tri-mas-copa-do-mundo-freia-vendas/",
+      "time": "2026-08-04T20:39:58Z",
+      "cat": "economia",
       "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2026/05/868-jpg.webp"
+      "image": "https://classic.exame.com/wp-content/uploads/2025/11/loja-cea-center-norte-.jpg"
     },
     {
-      "title": "Iguatemi encolheu portfólio, ficou mais cobiçada por lojistas — e lucra R$ 373 milhões",
+      "title": "Iguatemi ficou mais cobiçada por lojistas e lucra R$ 373 milhões no semestre",
       "summary": "Reciclagem de portfólio levou companhia a ampliar participação em Pátio Higienópolis e Pátio Paulista",
       "source": "Exame",
       "url": "https://exame.com/mercado-imobiliario/iguatemi-encolheu-portfolio-ficou-mais-cobicada-por-lojistas-e-lucra-r-373-milhoes/",
@@ -309,14 +331,24 @@
       "image": "https://classic.exame.com/wp-content/uploads/2025/10/AFP__20251026__8229967__v2__HighRes__MalaysiaAseanUsBrazilDiplomacy.jpg"
     },
     {
-      "title": "Vai ter greve da CPTM amanhã? Sindicato pede garantia do governo para suspender paralisação",
-      "summary": "Sistema da CET chegou a indicar mais de 2.000 km de congestionamento",
-      "source": "Exame",
-      "url": "https://exame.com/brasil/vai-ter-greve-da-cptm-amanha-sindicato-pede-garantia-do-governo-para-suspender-paralisacao/",
-      "time": "2026-08-04T18:45:42Z",
-      "cat": "economia",
+      "title": "Iguatemi tem queda de 35,4% no lucro do 2° tri",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/iguatemi-tem-queda-de-354-no-lucro-do-2-tri-2026399",
+      "time": "2026-08-04T23:28:07Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/03/53827895351_f8aff1a05a_o.jpg"
+      "image": "https://i-invdn-com.investing.com/news/Iguatemi_800x533_L_1601043551.jpg"
+    },
+    {
+      "title": "GPA eleva prejuízo em 15,5% no 2º tri",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/gpa-eleva-prejuizo-em-155-no-2o-tri-2026394",
+      "time": "2026-08-04T23:14:07Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEE3C14E_M.jpg"
     },
     {
       "title": "Vulcabras tem lucro recorrente de R$143,7 mi no 2º tri",
@@ -387,19 +419,7 @@
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/Gerdau_800x533_L_1478442004.jpg"
-    },
-    {
-      "title": "RADL3: Por que as ações da Raia Drogasil subiram hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/radl3-por-que-as-acoes-da-raia-drogasil-subiram-hoje-2026346",
-      "time": "2026-08-04T21:47:49Z",
-      "cat": "internacional",
-      "tickers": [
-        "RADL3"
-      ],
-      "image": "https://content-media.investing.com/news/RaiaDrogasil_800x533_L_1600102822.jpg"
     }
   ],
-  "atualizado_em": "04/08/2026 23:33"
+  "atualizado_em": "05/08/2026 00:01"
 }
