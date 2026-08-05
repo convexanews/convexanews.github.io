@@ -1,232 +1,168 @@
 {
   "headline": {
-    "title": "Ibovespa novamente anda de lado, com alta de Itaú e queda de Petrobras",
-    "summary": "Índices nos EUA fecham mistos, mas conseguem novos recordes",
-    "source": "InfoMoney",
-    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-05082026/",
-    "time": "2026-08-05T20:34:15Z",
-    "cat": "acoes",
-    "tickers": [],
-    "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Ibovespa-ao-vivo-5.png?fit=300%2C200&amp;quality=70&amp;strip=all"
+    "title": "Ibovespa recua antes do Copom; Itaú (ITUB4) sobe após balanço",
+    "summary": "O Ibovespa encerrou o pregão desta quarta-feira (5) praticamente estável, em uma sessão marcada pela cautela antes da decisão do Comitê de Política Monetária (Copom). O principal índice da B3 caiu 0,09%, aos 177.726,17 p",
+    "source": "Suno",
+    "url": "https://www.suno.com.br/noticias/ibovespa-hoje-copom-itub4-mt/",
+    "time": "2026-08-05T21:15:05Z",
+    "cat": "economia",
+    "tickers": [
+      "ITUB4"
+    ],
+    "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
   },
   "featured": [
     {
-      "title": "Ibovespa tem leve queda com expectativa de corte na Selic e eleições; dólar recua a R$ 5,12",
-      "summary": "O pregão do Ibovespa (IBOV) foi marcado pela expectativa por um novo corte na Selic, em dia de atenções divididas com o cenário eleitoral. Nesta quarta-feira (5), o principal índice da bolsa brasileira terminou as negoci",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ibovespa-5-8-26-lils/",
-      "time": "2026-08-05T20:28:50Z",
+      "title": "Copom corta Selic para 14%, mas endurece o tom e pode fechar a porta para novas quedas",
+      "summary": "O Copom entregou o corte que o mercado já esperava, mas deixou pouca margem para comemoração. O Comitê de Política Monetária reduziu a Selic de 14,25% para 14% ao ano nesta quarta-feira (5), em decisão unânime, mas adoto",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/copom-corta-selic-14-por-cento-pausa-juros-mt/",
+      "time": "2026-08-05T22:05:07Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2024/05/carteira-recomendada-ibovespa-2-1.jpg"
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     },
     {
-      "title": "Ibovespa fecha quase estável com Petrobras pressionando antes de decisão do Copom",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-fecha-quase-estavel-com-petrobras-pressionando-antes-de-decisao-do-copom-2028033",
-      "time": "2026-08-05T20:28:09Z",
+      "title": "BC corta a Selic pela 4ª vez seguida e taxa de juros no Brasil cai para 14%",
+      "summary": "A decisão manteve o ritmo do ciclo de corte e era amplamente esperada pelo mercado financeiro",
+      "source": "Exame",
+      "url": "https://exame.com/economia/bc-corta-a-selic-pela-4a-vez-seguida-e-taxa-de-juros-no-brasil-cai-para-14/",
+      "time": "2026-08-05T18:35:08Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/BrazilStockMarketBovespa_800x533_L_1615896164.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2023/06/banco_central_mcajr_abr_0104222276.jpg"
     }
   ],
   "all": [
     {
-      "title": "Greve CPTM: funcionários decidem encerrar paralisação das linhas 11, 12 e 13 em SP",
-      "summary": "Operação do serviço deve retornar imediatamente",
+      "title": "Copel vê lucro subir no 2T, com ganhos na comercialização e distribuição de energia",
+      "summary": "Lucro foi a R$ 1,05 bilhão, alta de 82,6% frente ao registrado um ano antes, impulsionado pelo desempenho positivo dos negócios de comercialização e distribuição de energia",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/brasil/greve-cptm-funcionarios-decidem-encerrar-paralisacao-das-linhas-11-12-e-13-em-sp/",
-      "time": "2026-08-05T20:37:51Z",
+      "url": "https://www.infomoney.com.br/mercados/copel-cple3-resultados-segundo-trimestre-2026/",
+      "time": "2026-08-05T22:03:26Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/int1389.jpeg?fit=300%2C225&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2023/09/Texto-4-10_2022.jpeg?fit=300%2C169&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Dólar hoje fecha estável a R$ 5,12, após escolha de vice de Flávio Bolsonaro",
-      "summary": "Ele indicou o deputado federal Alfredo Gaspar (PL-AL) como candidato a vice-presidente",
+      "title": "Lucro da Totvs (TOTS3) sobe 17,4% no 2º tri, a R$ 240 milhões",
+      "summary": "Receita líquida de R$ 1,92 bilhão, ​alta ⁠de 36,1% em relação ⁠ao segundo trimestre de 2026",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-05082026/",
-      "time": "2026-08-05T20:37:02Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Cedulas-de-dolares-norte-americanos.jpg?fit=300%2C206&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Ibovespa novamente anda de lado, com alta de Itaú e queda de Petrobras",
-      "summary": "Índices nos EUA fecham mistos, mas conseguem novos recordes",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-05082026/",
-      "time": "2026-08-05T20:34:15Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Ibovespa-ao-vivo-5.png?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Itaú mantém receita “dura de copiar” e ação sobe após 2T, mesmo com corte de guidance",
-      "summary": "Analistas destacam abordagem mais conservadora, mas mantêm visão positiva para as ações",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/itau-itub4-balanco-2t26-segue-com-roe-dificil-de-replicar-mas-corta-guidance-servicos-desempenho-acoes/",
-      "time": "2026-08-05T20:31:13Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/itau.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Gerdau (GGBR4) chega a cair forte, mas vira para alta com 2T superando projeções",
-      "summary": "Resultados foram sólidos e ficaram acima das projeções em todas as regiões",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/gerdau-ggbr4-supera-expectativas-no-2t-mas-acao-recua-veja-o-que-analistas-dizem/",
-      "time": "2026-08-05T20:30:04Z",
+      "url": "https://www.infomoney.com.br/mercados/totvs-tots3-resultados-segundo-trimestre-2026/",
+      "time": "2026-08-05T21:59:44Z",
       "cat": "acoes",
       "tickers": [
-        "GGBR4"
+        "TOTS3"
       ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/11/aco-gerdau-csn-usiminas.jpg?fit=300%2C236&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/04/Totvs_800x533_L_1599534108.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "RD Saúde salta 6% após 2T com boa execução em todas as frentes e destaque para GLP-1",
-      "summary": "Na visão da XP, os GLP-1 permaneceram como o principal vetor de crescimento",
+      "title": "Engie Brasil (EGIE3) tem lucro ajustado de R$ 694 mi no 2ºtri, alta anual de 23%",
+      "summary": "Lucro líquido da companhia, sem ajustes, somou R$ 1,96 bilhão no período",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/radl3-rd-saude-salta-5-apos-2t-com-boa-execucao-em-todas-as-frentes-e-destaque-para-glp-1/",
-      "time": "2026-08-05T20:27:02Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2022/02/drogasil-min.png?fit=300%2C184&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "C&A: ação cai quase 4% após estoques e geração de caixa ofuscarem resultado",
-      "summary": "Dados operacionais são vistos como positivos, mas mercado voltou sua atenção para a geração de caixa",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ca-acao-cai-mais-de-5-apos-estoques-e-geracao-de-caixa-ofuscarem-resultado/",
-      "time": "2026-08-05T20:24:56Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2023/07/loja-cea-shopping.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "GPA (PCAR3) e Tenda (TEND3): por que as ações subiram forte após os resultados do 2T?",
-      "summary": "Ambas as companhias divulgaram resultados na noite da véspera",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/gpa-pcar3-e-tenda-tend3-por-que-as-acoes-disparam-apos-os-resultados-do-2t26/",
-      "time": "2026-08-05T20:23:14Z",
+      "url": "https://www.infomoney.com.br/mercados/engie-brasil-egie3-resultados-segundo-trimestre-2026/",
+      "time": "2026-08-05T21:54:52Z",
       "cat": "acoes",
       "tickers": [
-        "TEND3"
+        "EGIE3"
       ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/20289170_6256878.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2020/10/Logotipo-da-Engie-reduzida.jpg?fit=300%2C198&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "SpaceX: ação cai 13% com 1º balanço após IPO, mas por que analistas seguem otimistas?",
-      "summary": "Onda de gastos que sustenta ambições grandiosas da empresa está longe de terminar - mas analistas veem sinais positivos",
+      "title": "Brava (BRAV3) tem lucro líquido de R$ 871 mi no 2º tri, queda anual de 17%",
+      "summary": "Ebitda ajustado somou R$1,774 bilhão entre abril e junho, alta de 33% na comparação anual",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/spacex-acao-desaba-com-1o-balanco-apos-ipo-mas-por-que-analistas-seguem-otimistas/",
-      "time": "2026-08-05T20:17:43Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-11T194115Z_1_LYNXMPEM5A1HW_RTROPTP_4_SPACEX-IPO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Mercado Livre (BDR: MELI34) tem lucro acima da estimativa no 2° tri",
-      "summary": "Lucro líquido chegou a US$ 466 milhões no trimestre encerrado em junho",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/mercado-livre-meli34-resultados-segundo-trimestre-2026/",
-      "time": "2026-08-05T20:15:03Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2021/04/csm_mercadolivre_c0d2ce7a5f-e1618314163360.jpg?fit=300%2C157&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Adeus, my friend: Axia Energia (AXIA3) deixa bolsa de Nova York; entenda o que acontece agora",
-      "summary": "A Axia Energia (AXIA3) informou, nesta quarta-feira (5), que está dando continuidade ao processo de deslistagem de seus American Depositary Receipts (ADRs) nos Estados Unidos, conforme anunciado em fato relevante de 1º d",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/adeus-my-friend-axia-energia-axia3-deixa-bolsa-de-nova-york-entenda-o-que-acontece-agora/",
-      "time": "2026-08-05T20:37:36Z",
+      "url": "https://www.infomoney.com.br/mercados/brava-brav3-resultados-segundo-trimestre-2026/",
+      "time": "2026-08-05T21:50:00Z",
       "cat": "acoes",
       "tickers": [
-        "AXIA3"
+        "BRAV3"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/axia-energia.jpg"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2023/04/3R-PETROLEUM.jpg?fit=300%2C186&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Ibovespa tem leve queda com expectativa de corte na Selic e eleições; dólar recua a R$ 5,12",
-      "summary": "O pregão do Ibovespa (IBOV) foi marcado pela expectativa por um novo corte na Selic, em dia de atenções divididas com o cenário eleitoral. Nesta quarta-feira (5), o principal índice da bolsa brasileira terminou as negoci",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ibovespa-5-8-26-lils/",
-      "time": "2026-08-05T20:28:50Z",
+      "title": "Corte da Selic faz Brasil cair uma posição e leva país ao 2º maior juro real do mundo",
+      "summary": "Brasil tem juro real de 9,33% com Selic em 14%; ranking considera as 40 maiores economias do mundo e é liderado pela Rússia",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/economia/ranking-juros-reais-agosto-2026/",
+      "time": "2026-08-05T21:45:34Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2024/05/carteira-recomendada-ibovespa-2-1.jpg"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/cropped-investimenros-renda-fixa-selic-ia-1.jpeg?fit=225%2C300&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Receita recorde salva trimestre do Mercado Livre (MELI), enquanto lucro segue em queda; ação cai",
-      "summary": "O Mercado Livre (MELI) registrou, nesta quarta-feira, queda de cerca de 11% no lucro líquido do segundo trimestre em relação ao mesmo período do ano passado, pressionado pelos investimentos em frete grátis. Ainda assim, ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/receita-recorde-salva-trimestre-do-mercado-livre-meli-enquanto-lucro-segue-em-queda-acao-cai/",
-      "time": "2026-08-05T20:26:38Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2024/11/amazon-e-mercado-livre-dominam-ecommerce.jpg"
-    },
-    {
-      "title": "Inter (INBR32): Tentando convencer mercado, lucro sobe 34% no 2T26, chega a R$ 421 milhões e bate expectativas",
-      "summary": "O Inter (INBR32) lucrou R$ 421 milhões no segundo trimestre, alta de 34% em relação ao mesmo período do ano passado, mostra documento enviado ao mercado nesta quarta-feira (5). Com isso, o banco digital, que tenta retoma",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/inter-inbr32-tentando-convencer-mercado-lucro-sobe-34-no-2t26-chega-a-r-421-milhoes-e-bate-expectativas/",
-      "time": "2026-08-05T20:16:09Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/08/inter-2.jpg"
-    },
-    {
-      "title": "Açúcar bruto fecha em alta por preocupações com redução da produção; café avança",
-      "summary": "Os contratos futuros de açúcar bruto na bolsa ICE subiram nesta quarta-feira (5), já que a nova alta nos preços da energia ameaçava reduzir a produção, segundo informaram os corretores. O açúcar bruto ​​fechou em alta de",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/acucar-bruto-fecha-em-alta-por-preocupacoes-com-reducao-da-producao-cafe-avanca-pads/",
-      "time": "2026-08-05T20:11:49Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/02/acucar-etanol.jpg"
-    },
-    {
-      "title": "Dólar cai a R$ 5,12 à espera de Copom e eleições no radar",
-      "summary": "O dólar à vista perdeu força com os investidores à espera do decisão do Copom sobre juros e atençõs divididas com o cenário eleitoral. Nesta quarta-feira (5), o dólar à vista terminou as negociações a R$ 5,1282, com qued",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/dolar-5-8-26-lils/",
-      "time": "2026-08-05T20:08:32Z",
+      "title": "BC corta Selic em 0,25 ponto, a 14% ao ano, e deixa próximos passos em aberto",
+      "summary": "Foi a quarta queda seguida da taxa, em uma decisão em linha com o esperado pelo mercado",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/economia/banco-central-copom-decisao-selic-05082026/",
+      "time": "2026-08-05T21:34:16Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/09/dolar-mercados-maxima.jpg"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/BC-Brasil.png?fit=300%2C225&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Wall Street tem novo fechamento recorde do Dow Jones, mas tech pesa",
-      "summary": "Os índices de Wall Street fecharam sem direção única com as ações de tecnologia pesando sobre o Nasdaq e o SP 500, enquanto o Dow Jones fechou, novamente, nas máximas. No recorde intradiário, o Dow Jones chegou aos 54,74",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/wall-street-5-8-26-apsa/",
-      "time": "2026-08-05T20:07:30Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/2026-07-06t134208z-1-lynxmpem650w6-rtroptp-4-usa-stocks-economy-investors-e1784123087988.jpg"
-    },
-    {
-      "title": "Renda fixa: BTG aponta 7 títulos para ganhar acima da inflação e com isenção de IR; veja a carteira",
-      "summary": "Em um cenário de juros reais ainda elevados e spreads considerados atrativos frente aos títulos públicos, o BTG Pactual manteve sua preferência por emissores classificados entre AAA e AA em sua carteira recomendada de cr",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/renda-fixa-btg-aponta-7-titulos-para-ganhar-acima-da-inflacao-e-com-isencao-de-ir-veja-a-carteira/",
-      "time": "2026-08-05T20:06:32Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/investimentos-mercados-real-moeda-mercado-financeiro-e1785526859381.jpg"
-    },
-    {
-      "title": "CVC (CVCB3) dispara até 13%: o que está por trás da forte alta?",
-      "summary": "As ações da CVC (CVCB3), negociadas fora do Ibovespa (IBOV), disparam mais de 13% e figuram entre os papéis com melhor desempenho na B3 nesta quarta-feira (5). Por volta de 16h20 (horário de Brasília), CVCB3 subia 12,32%",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/cvc-cvcb3-dispara-o-que-esta-por-tras-da-forte-alta-lils/",
-      "time": "2026-08-05T19:37:01Z",
+      "title": "Iochpe-Maxion (MYPK3) tem lucro de R$ 87 mi no 2º tri",
+      "summary": "Companhia apurou resultado operacional medido pelo Ebitda de R$417,5 milhões",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/iochpe-maxion-mypk3-resultados-segundo-trimestre-2026/",
+      "time": "2026-08-05T21:33:41Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2024/01/cvc-cvcb3-turismo-viagens.webp"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2021/11/Iochpe-Maxion.png?fit=300%2C137&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Auren reduz prejuízo no 2T e tem mais ganhos de modulação com hidrelétricas e eólicas",
+      "summary": "A geradora de energia controlada por Votorantim e CPP Investments divulgou nesta quarta-feira um prejuízo líquido de R$379,1 milhões entre abril e junho",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/auren-aure3-resultados-segundo-trimestre-2026/",
+      "time": "2026-08-05T21:25:42Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/06/parque-da-auren.jpg?fit=300%2C225&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Agi tem queda de 24,4% no lucro do 2º tri, para R$ 200,3 milhões",
+      "summary": "A ‌companhia apurou índice ⁠de rentabilidade (ROAE) de 21,6%, queda de 19,6 pontos percentuais",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/agi-resultados-segundo-trimestre-2026/",
+      "time": "2026-08-05T21:22:09Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/agibank.webp?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Copom corta Selic para 14%, mas endurece o tom e pode fechar a porta para novas quedas",
+      "summary": "O Copom entregou o corte que o mercado já esperava, mas deixou pouca margem para comemoração. O Comitê de Política Monetária reduziu a Selic de 14,25% para 14% ao ano nesta quarta-feira (5), em decisão unânime, mas adoto",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/copom-corta-selic-14-por-cento-pausa-juros-mt/",
+      "time": "2026-08-05T22:05:07Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
+    },
+    {
+      "title": "Bradesco (BBDC4) tem lucro de R$ 7,1 bi no 2T26 e supera estimativas; veja detalhes",
+      "summary": "O Bradesco (BBDC4) registrou lucro líquido recorrente de R$ 7,1 bilhões no segundo trimestre de 2026, alta de 16,2% em relação ao mesmo período de 2025, conforme documento enviado ao mercado na noite desta quarta-feira (",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/bradesco-bbdc4-lucro-7-1-bi-2t26-acima-consenso-go/",
+      "time": "2026-08-05T21:25:06Z",
+      "cat": "acoes",
+      "tickers": [
+        "BBDC4"
+      ],
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/d938feNB-BRADESCO-1-1024x614-1-1320x791-1.webp"
+    },
+    {
+      "title": "Ibovespa recua antes do Copom; Itaú (ITUB4) sobe após balanço",
+      "summary": "O Ibovespa encerrou o pregão desta quarta-feira (5) praticamente estável, em uma sessão marcada pela cautela antes da decisão do Comitê de Política Monetária (Copom). O principal índice da B3 caiu 0,09%, aos 177.726,17 p",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-copom-itub4-mt/",
+      "time": "2026-08-05T21:15:05Z",
+      "cat": "economia",
+      "tickers": [
+        "ITUB4"
+      ],
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     },
     {
       "title": "Dólar vai subir ou cair? Mercado prevê volatilidade até o fim de 2026",
@@ -285,179 +221,155 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/analista-financeiro-1_11.webp"
     },
     {
-      "title": "Grupo SBF (SBFG3) paga dividendos nesta quarta-feira; confira detalhes",
-      "summary": "Centauro, do Grupo SBF (SBFG3). Foto: DivulgaçãoO Grupo SBF (SBFG3) vai pagar dividendos aos seus acionistas nesta quarta-feira (5). O valor a ser pago aos investidores em dividendos do Grupo SBF é de R$ 0,5428 por ação.",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/o-grupo-sbf-sbfg3-agenda-dividendos-05082026/",
-      "time": "2026-08-05T12:30:00Z",
+      "title": "Bradesco lucra R$ 7,1 bilhões no 2º trimestre, alta de 16,2% em um ano",
+      "summary": "A rentabilidade do banco avançou para 16%, enquanto a inadimplência acima de 90 dias subiu para 4,3% no trimestre, de acordo com balanço",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/bradesco-lucra-r-71-bilhoes-no-2o-trimestre-alta-de-162-em-um-ano/",
+      "time": "2026-08-05T19:00:39Z",
       "cat": "fundos",
-      "tickers": [
-        "SBFG3"
-      ],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2022/08/Centauro.jpg"
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2021/06/DSF7066.jpg"
     },
     {
-      "title": "MXRF11 ou VGHF11: qual o melhor FII híbrido de papel? Confira os indicadores",
-      "summary": "Os fundos imobiliários de papel seguem entre as opções mais buscadas por quem prioriza renda mensal no mercado de FIIs. Nesse grupo, dois nomes costumam liderar as conversas e as carteiras: MXRF11 (Maxi Renda) e VGHF11 (",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/mxrf11-ou-vghf11-qual-o-melhor-fii-hibrido-de-papel-confira-os-indicadores/",
-      "time": "2026-08-05T01:05:04Z",
+      "title": "Smart Fit lucra R$ 204 milhões e já mira 60% do resultado vindo do exterior",
+      "summary": "Com 2.170 unidades em 16 países, companhia usa MA, real estate e TotalPass para ampliar ecossistema de fitness na América Latina",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/smart-fit-lucra-r-204-milhoes-e-ja-mira-60-do-resultado-vindo-do-exterior/",
+      "time": "2026-08-05T19:00:02Z",
       "cat": "fundos",
-      "tickers": [
-        "MXRF11"
-      ],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2025/08/Smart-Fit.jpg"
     },
     {
-      "title": "Poucos exemplos, grandes resultados: entenda o Few-shot Learning. O avanço que está acelerando a IA",
-      "summary": "Método reduz a necessidade de grandes conjuntos de dados e acelera a adaptação da inteligência artificial a diferentes contextos",
+      "title": "Selic cai para 14%, mas Brasil segue com o maior juro real do mundo",
+      "summary": "O juro real é a taxa de juros ajustada pela inflação, que reflete o retorno efetivo do investimento ou o custo do crédito",
       "source": "Exame",
-      "url": "https://exame.com/inteligencia-artificial/poucos-exemplos-grandes-resultados-entenda-o-few-shot-learning-o-avanco-que-esta-acelerando-a-ia/",
-      "time": "2026-08-05T17:41:33Z",
+      "url": "https://exame.com/economia/selic-cai-para-14-mas-brasil-segue-com-o-maior-juro-real-do-mundo/",
+      "time": "2026-08-05T18:54:58Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/08/427436275_6ca82e5b-8bde-4c16-b759-46667e1b7f35.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/02/EX1284_ONDEINVESTIR_1_3.jpg"
     },
     {
-      "title": "Drone explosivo é encontrado próximo a avião ucraniano em aeroporto alemão",
-      "summary": "A região de Leipzig abriga um dos principais centros logísticos da Europa e serve como base operacional da companhia aérea ucraniana Antonov Airlines",
+      "title": "BC corta a Selic pela 4ª vez seguida e taxa de juros no Brasil cai para 14%",
+      "summary": "A decisão manteve o ritmo do ciclo de corte e era amplamente esperada pelo mercado financeiro",
       "source": "Exame",
-      "url": "https://exame.com/mundo/drone-explosivo-e-encontrado-proximo-a-aviao-ucraniano-em-aeroporto-alemao/",
-      "time": "2026-08-05T17:34:40Z",
+      "url": "https://exame.com/economia/bc-corta-a-selic-pela-4a-vez-seguida-e-taxa-de-juros-no-brasil-cai-para-14/",
+      "time": "2026-08-05T18:35:08Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/08/AFP__20260805__C42X6ZU__v3__HighRes__GermanyAirportAviationPolice.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2023/06/banco_central_mcajr_abr_0104222276.jpg"
     },
     {
-      "title": "Greve da CPTM chega ao fim após dois dias de paralisação",
-      "summary": "A decisão foi tomada após Assembleia realizada por volta de 15h30 (horário de Brasília)",
+      "title": "Riachuelo tem lucro recorde de R$ 168 mi no 2º tri, apesar de vendas menores",
+      "summary": "Resultado foi impulsionado pelo ganho de margem no vestuário e pela evolução da Midway, enquanto vendas em mesmas lojas desaceleraram",
       "source": "Exame",
-      "url": "https://exame.com/brasil/greve-da-cptm-chega-ao-fim-apos-dois-dias-de-paralisacao/",
-      "time": "2026-08-05T17:33:57Z",
+      "url": "https://exame.com/invest/mercados/riachuelo-tem-lucro-recorde-de-r-168-mi-no-2o-tri-apesar-de-vendas-menores/",
+      "time": "2026-08-05T18:25:55Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2024/05/ED1263_TRANSPORTE_3.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/05/Design-sem-nome-1-9.jpg"
     },
     {
-      "title": "Instituto Motiva lança curso gratuito sobre adaptação climática nas escolas",
-      "summary": "Programa é voltado prioritariamente a professores municipais, mas também aceita gestores e estudantes de licenciatura",
+      "title": "Sem aparições desde fevereiro, comunicação com Aiatolá é 'muito difícil', diz presidente do Irã",
+      "summary": "Mojtaba Khamenei é filho do líder supremo anterior, que ocupava o cargo até ser morto por ataques dos Estados Unidos e Israel, ocasião em que o sucessor também ficou ferido",
       "source": "Exame",
-      "url": "https://exame.com/esg/instituto-motiva-lanca-curso-gratuito-sobre-adaptacao-climatica-nas-escolas/",
-      "time": "2026-08-05T17:27:22Z",
+      "url": "https://exame.com/mundo/sem-aparicoes-desde-fevereiro-comunicacao-com-aiatola-e-muito-dificil-diz-presidente-do-ira/",
+      "time": "2026-08-05T18:21:03Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-12-at-14.35.34.jpeg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/03/AFP__20260309__A2HJ7GV__v2__HighRes__TopshotIranUsIsraelWar.jpg"
     },
     {
-      "title": "Falta de networking trava carreira de 1 em cada 3 universitários da geração Z",
-      "summary": "Pesquisas mostram que rede de contatos pesa mais que salário na hora de conquistar espaço no mercado",
-      "source": "Exame",
-      "url": "https://exame.com/carreira/falta-de-networking-trava-carreira-de-1-em-cada-3-universitarios-da-geracao-z/",
-      "time": "2026-08-05T17:19:35Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/03/GettyImages-2176326070.jpg"
-    },
-    {
-      "title": "Bolsas ameaçadas? Negociação de ações tokenizadas chegou a US$ 18,2 bilhões, diz Binance",
-      "summary": "O valor corresponde a 4,4 vezes o montante registrado em junho e é maior do que os últimos seis meses somados",
-      "source": "Exame",
-      "url": "https://exame.com/future-of-money/bolsas-ameacadas-negociacao-de-acoes-tokenizadas-chegou-a-us-182-bilhoes-diz-binance/",
-      "time": "2026-08-05T17:16:15Z",
-      "cat": "cripto",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2021/04/Acoes-1.jpg"
-    },
-    {
-      "title": "E.U.A. - Ações fecharam o pregão inalteradas e o Índice Dow Jones Industrial Average avançou 0,49%",
+      "title": "Smartfit tem alta de 8% no lucro recorrente do 2º tri",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/eua--acoes-fecharam-o-pregao-inalteradas-e-o-indice-dow-jones-industrial-average-avancou-049-2028056",
-      "time": "2026-08-05T20:31:36Z",
+      "url": "https://br.investing.com/news/stock-market-news/smartfit-tem-alta-de-8-no-lucro-recorrente-do-2o-tri-2028313",
+      "time": "2026-08-05T22:00:08Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB4I0NH_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/Smartfit_800x533_L_1696861058.jpg"
     },
     {
-      "title": "Canadá - Ações fecharam o pregão em alta e o Índice S&P/TSX avançou 0,96%",
+      "title": "Copel tem alta do lucro no 2º tri, com ganhos na comercialização e distribuição de energia",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/canada--acoes-fecharam-o-pregao-em-alta-e-o-indice-sptsx-avancou-096-2028054",
-      "time": "2026-08-05T20:30:48Z",
+      "url": "https://br.investing.com/news/stock-market-news/copel-tem-alta-do-lucro-no-2o-tri-com-ganhos-na-comercializacao-e-distribuicao-de-energia-2028306",
+      "time": "2026-08-05T21:56:27Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEM3G1AZ_1200_L.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB670Y6_M.jpg"
     },
     {
-      "title": "Brasil - Ações fecharam o pregão em queda e o Índice Bovespa recuou 0,11%",
+      "title": "Engie Brasil tem lucro ajustado de R$694 mi no 2ºtri",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/brasil--acoes-fecharam-o-pregao-em-queda-e-o-indice-bovespa-recuou-011-2028052",
-      "time": "2026-08-05T20:30:23Z",
+      "url": "https://br.investing.com/news/stock-market-news/engie-brasil-tem-lucro-ajustado-de-r694-mi-no-2otri-2028292",
+      "time": "2026-08-05T21:42:50Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/Brazil-Stock-Market_1_309X149._M_1440048528.jpg"
+      "image": "https://i-invdn-com.investing.com/news/Engie_800x533_L_1637191483.jpg"
     },
     {
-      "title": "Ibovespa fecha quase estável com Petrobras pressionando antes de decisão do Copom",
+      "title": "Lucro da Totvs sobe 17,4% no 2º tri",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-fecha-quase-estavel-com-petrobras-pressionando-antes-de-decisao-do-copom-2028033",
-      "time": "2026-08-05T20:28:09Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/BrazilStockMarketBovespa_800x533_L_1615896164.jpg"
-    },
-    {
-      "title": "Inter&Co tem lucro líquido de R$421 mi no 2º tri, com ROE de 16,3%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/interco-tem-lucro-liquido-de-r421-mi-no-2o-tri-com-roe-de-163-2027993",
-      "time": "2026-08-05T20:21:52Z",
+      "url": "https://br.investing.com/news/stock-market-news/lucro-da-totvs-sobe-174-no-2o-tri-2028291",
+      "time": "2026-08-05T21:42:31Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/InterCFO_800x533_L_1783359508.jpg"
+      "image": "https://i-invdn-com.investing.com/news/Totvs_800x533_L_1659644488.jpg"
     },
     {
-      "title": "Western Digital supera estimativas e apresenta guidance; ações caem",
+      "title": "Brava tem lucro líquido de R$871 mi no 2º tri",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/western-digital-supera-estimativas-e-apresenta-guidance-acoes-caem-2027990",
-      "time": "2026-08-05T20:19:00Z",
+      "url": "https://br.investing.com/news/stock-market-news/brava-tem-lucro-liquido-de-r871-mi-no-2o-tri-2028281",
+      "time": "2026-08-05T21:35:07Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB230DM_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/OilwellinColorado_800x533_L_1645345712.jpg"
     },
     {
-      "title": "Ações da AppLovin despencam 20% após receita fraca e guidance tímido",
+      "title": "México - Ações fecharam o pregão em queda e o Índice S&P/BMV IPC recuou 0,46%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-applovin-despencam-20-apos-receita-fraca-e-guidance-abaixo-do-esperado-2027978",
-      "time": "2026-08-05T20:18:56Z",
+      "url": "https://br.investing.com/news/stock-market-news/mexico--acoes-fecharam-o-pregao-em-queda-e-o-indice-spbmv-ipc-recuou-046-2028271",
+      "time": "2026-08-05T21:30:21Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXMPEM3G1AZ_1200_L.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPED7S129_M.jpg"
     },
     {
-      "title": "Mercado Livre tem lucro acima da estimativa no 2° tri apesar de terceiro recuo seguido",
+      "title": "Colômbia - Ações fecharam o pregão em queda e o Índice COLCAP recuou 1,26%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/mercado-livre-tem-lucro-acima-da-estimativa-no-2-tri-apesar-de-terceiro-recuo-seguido-2027937",
-      "time": "2026-08-05T20:14:06Z",
-      "cat": "internacional",
+      "url": "https://br.investing.com/news/stock-market-news/colombia--acoes-fecharam-o-pregao-em-queda-e-o-indice-colcap-recuou-126-2028261",
+      "time": "2026-08-05T21:25:21Z",
+      "cat": "fundos",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/moved_LYNXNPEF531MI_L.jpg"
+      "image": "https://i-invdn-com.investing.com/news/Colombian_Securities_Exchange_M_1440056295.jpg"
     },
     {
-      "title": "Por que as ações da Sweetgreen estão subindo hoje?",
+      "title": "Bradesco tem lucro líquido de R$7 bi no 2º tri e ROE alcança 16,2%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-sweetgreen-estao-subindo-hoje-93CH-2027909",
-      "time": "2026-08-05T20:02:03Z",
+      "url": "https://br.investing.com/news/stock-market-news/bradesco-tem-lucro-liquido-de-r7-bi-no-2o-tri-e-roe-alcanca-162-2028248",
+      "time": "2026-08-05T21:21:07Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/moved_LYNXMPEI17180_L.jpg"
+    },
+    {
+      "title": "Auren reduz prejuízo no 2º tri e obtém mais ganhos de modulação com hidrelétricas e eólicas",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/auren-reduz-prejuizo-no-2o-tri-e-obtem-mais-ganhos-de-modulacao-com-hidreletricas-e-eolicas-2028249",
+      "time": "2026-08-05T21:21:07Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6J0AJ_M.jpg"
     }
   ],
-  "atualizado_em": "05/08/2026 20:44"
+  "atualizado_em": "05/08/2026 22:12"
 }
