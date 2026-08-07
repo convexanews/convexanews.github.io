@@ -37,6 +37,16 @@
   ],
   "all": [
     {
+      "title": "Bolsas de NY sobem com payroll mais fraco que o esperado sugerindo Fed mais brando",
+      "summary": "Na semana, os índices tiveram ganhos robustos de 2,96%, 3,58% e 5,19%, respectivamente",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/bolsas-de-ny-sobem-com-payroll-mais-fraco-que-o-esperado-sugerindo-fed-mais-brando/",
+      "time": "2026-08-07T21:12:18Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-29T060934Z_964769431_RC25EKAJLMU1_RTRMADP_3_USA-MARKETS-IRAN-TRADING.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
       "title": "Debandada dos “gringos”? Por que Ibovespa caiu 1,7% nesta 6ª e mais de 3% na semana",
       "summary": "A economia dos EUA cortou 23 mil empregos em julho, o que diminui os planos de alta de juros, mas também estimula ações de IA",
       "source": "InfoMoney",
@@ -103,36 +113,59 @@
       "image": "https://www.infomoney.com.br/wp-content/uploads/2023/07/CDLouveira036Magalu.jpg-Credito_-Germano-Luders.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Energisa (ENGI11) despenca 5% após balanço do 2T: o que decepcionou o mercado?",
-      "summary": "Energisa reverteu lucro e registrou prejuízo líquido consolidado de R$ 40 mi no 2º tri",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/energisa-engi11-despenca-5-apos-balanco-do-2t-o-que-decepcionou-o-mercado/",
-      "time": "2026-08-07T20:39:34Z",
-      "cat": "acoes",
+      "title": "Iguatemi (IGTI11) embolsa R$ 876 milhões com venda de ativos para fundo imobiliário; veja detalhes",
+      "summary": "A Iguatemi (IGTI11) está embolsando R$ 876 milhões com a venda de cinco ativos imobiliários para o TRX Real Estate (TRXF11), mostra documento enviado ao mercado nesta sexta-feira (7). Os ativos incluem: O preço será pago",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/iguatemi-igti11-embolsa-r-876-milhoes-com-venda-de-ativos-para-fundo-imobiliario-veja-detalhes-rnda/",
+      "time": "2026-08-07T21:57:18Z",
+      "cat": "fundos",
       "tickers": [
-        "ENGI11"
+        "IGTI11",
+        "TRXF11"
       ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2022/08/energisa-engi11.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2024/01/iguatemi.jpg"
     },
     {
-      "title": "Petrobras: bons 2T e dividendos, mas por que ações fecharam em queda de 3%?",
-      "summary": "Mesmo com números fortes, ações registraram uma sessão de forte queda",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/petrobras-acoes-chegam-a-subir-cerca-de-2-apos-bons-2t-e-dividendos-mas-zeram-o-que-aconteceu/",
-      "time": "2026-08-07T20:37:06Z",
+      "title": "Tenda (TEND3) anuncia R$ 78 milhões em dividendos intercalares",
+      "summary": "A Tenda (TEND3) informou nesta sexta-feira (7) que aprovou a distribuição de R$ 78 milhões em dividendos intercalares, o equivalente a R$ 0,64 por ação. Terão direito ao pagamento os acionistas com posição na companhia n",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/tenda-tend3-anuncia-r-78-milhoes-em-dividendos-intercalares/",
+      "time": "2026-08-07T21:47:10Z",
+      "cat": "fundos",
+      "tickers": [
+        "TEND3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/08/tenda-2.jpg"
+    },
+    {
+      "title": "Trigo se recupera em Chicago enquanto mercado avalia ataques no Mar Negro",
+      "summary": "Os contratos futuros de trigo negociados na bolsa de Chicago se recuperaram de uma mínima de quatro semanas nesta sexta-feira (7), impulsionados pela desvalorização do dólar norte-americano e enquanto os operadores avali",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/trigo-se-recupera-em-chicago-enquanto-mercado-avalia-ataques-no-mar-negro-pads/",
+      "time": "2026-08-07T21:44:36Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/08/trigo-mar-negro.jpg"
+    },
+    {
+      "title": "Zema propõe saída dos Brics, privatizações e R$ 1 mil para cada brasileiro ao nascer",
+      "summary": "O candidato do Novo à Presidência da República, Romeu Zema, propõe privatizar todas as empresas estatais, depositar R$ 1 mil para cada brasileiro que nascer e pagar um prêmio de R$ 5 mil a famílias que conseguirem deixar",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/zema-propoe-saida-dos-brics-privatizacoes-e-r-1-mil-para-cada-brasileiro-ao-nascer-pads/",
+      "time": "2026-08-07T21:20:25Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/08/zema-g4-antagonista-1-e1785846644327.png"
+    },
+    {
+      "title": "Açúcar bruto atinge maior cotação em 10 meses devido à redução da oferta",
+      "summary": "Os contratos futuros de açúcar bruto na ICE atingiram nesta sexta-feira (7) seu nível mais alto em 10 meses, com as preocupações com a safra na União Europeia e na Ásia reforçando as expectativas de que o mercado global ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/acucar-bruto-atinge-maior-cotacao-em-10-meses-devido-a-reducao-da-oferta-pads/",
+      "time": "2026-08-07T21:07:50Z",
       "cat": "fundos",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/75860444-01-11-2014-plataforma-da-petrobras-em-atuacao-no-campo-de-lula-no-pre-sal-navio-de-produc-2-.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Dólar hoje cai 0,41%, a R$ 5,08, seguindo exterior, após payroll abaixo do previsto",
-      "summary": "EUA perdem 23 mil vagas de trabalho em julho, ante projeção de criação",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-07082026/",
-      "time": "2026-08-07T20:29:51Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/blogging-guide-K5DY18hy5JQ-unsplash_red.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/08/acucar-bruto-cafe-.jpg"
     },
     {
       "title": "Essa construtora derreteu na bolsa — e agora quer recomprar 10% dos papéis em circulação",
@@ -169,49 +202,34 @@
       "image": "https://www.moneytimes.com.br/uploads/2026/07/wall-street-nasdaq-bolsas-americanas.jpg"
     },
     {
-      "title": "Vacas sagradas? Petrobras (PETR4), Banco do Brasil (BBAS3) e Caixa ficaram de fora de privatizações, diz Caiado",
-      "summary": "O candidato do PSD à Presidência da República, Ronaldo Caiado, afirmou que não privatizaria a Petrobras (PETR4), o Banco do Brasil (BBSA3) e a Caixa Econômica Federal, mas admitiu a privatização de segmentos do gás, se e",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/vacas-sagradas-petrobras-petr4-banco-do-brasil-bbas3-e-caixa-ficaram-de-fora-de-privatizacao-diz-caiado-rnda/",
-      "time": "2026-08-07T20:13:35Z",
-      "cat": "acoes",
-      "tickers": [
-        "PETR4",
-        "BBAS3"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/06/gaffff-ronaldo-caiado-agro-eleicoes.jpg"
-    },
-    {
-      "title": "Dólar cai a R$ 5,08 com dados de emprego mais fracos nos EUA",
-      "summary": "O dólar à vista engatou a terceira queda consecutiva com ajuste dos investidores sobre a trajetória dos juros nos Estados Unidos. Nesta sexta-feira (7), o dólar à vista terminou as negociações a R$ 5,0836, com queda de 0",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/dolar-7-8-26-lils/",
-      "time": "2026-08-07T20:04:50Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/dolar-estrangeiros-1.jpg"
-    },
-    {
-      "title": "França prevê queda de 35% na safra de milho devido a intempéries",
-      "summary": "A produção francesa de milho neste ano deve cair 35% em relação a 2025, para 9 milhões de toneladas métricas, o nível mais baixo desde pelo menos 1980, após ondas de calor e secas terem prejudicado as safras, informou o ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/franca-preve-queda-de-35-na-safra-de-milho-devido-a-intemperies-pads/",
-      "time": "2026-08-07T19:56:17Z",
+      "title": "IBBP11 aprova emissão de R$ 228 mi; montante financiará novos investimentos",
+      "summary": "O fundo imobiliário (FII) IBBP11 aprovou a 6ª emissão de cotas em uma oferta pública que poderá somar aproximadamente R$ 228 milhões. Os recursos serão direcionados à realização de novos investimentos, conforme fato rele",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibbp11-aprova-emissao-de-r-228-mi-montante-financiara-novos-investimentos/",
+      "time": "2026-08-07T22:05:04Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/08/franca-milho-clima-.jpg"
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/detalhe-de-calculado-1_01.webp"
     },
     {
-      "title": "Itaú (ITUB4) é a ação mais recomendada para ter na carteira em agosto, segundo 14 analistas; veja ranking",
-      "summary": "A Itaú Unibanco (ITUB4) é a ação mais recomendada para setembro, segundo o levantamento do Money Times. O papel é indicado por 10 dos 14 analistas consultados. O Santander elevou recentemente o preço-alvo das ações ITUB4",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/itau-itub4-e-a-acao-mais-recomendada-para-ter-na-carteira-em-agosto-segundo-14-analistas-veja-ranking-lils/",
-      "time": "2026-08-07T19:37:54Z",
-      "cat": "analise",
-      "tickers": [
-        "ITUB4"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/08/itau.png"
+      "title": "SNEL11 renova máxima histórica; fundo imobiliário chega a 123 mil cotistas",
+      "summary": "O fundo imobiliário SNEL11 alcançou nesta sexta-feira (7) a marca de 123 mil cotistas, em meio ao avanço das cotas no mercado secundário. O movimento confirma a expansão da base de investidores do veículo e acompanha o d",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/snel11-renova-maxima-historica-fundo-imobiliario-chega-a-123-mil-cotistas/",
+      "time": "2026-08-07T21:45:04Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
+    },
+    {
+      "title": "FII TRCO11 sofre novo calote dias após receber aluguel atrasado com multa",
+      "summary": "O fundo imobiliário Torre Rio Claro Offices (TRCO11) comunicou ao mercado que a locatária BM Varejo Empreendimentos S.A. não efetuou o pagamento do aluguel referente a julho. O registro ocorre dois dias após o fundo info",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/fii-trco11-sofre-novo-calote-dias-apos-receber-aluguel-atrasado-com-multa/",
+      "time": "2026-08-07T21:15:07Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/close-de-gr-fico-fin-1_01.webp"
     },
     {
       "title": "GGRC11 movimenta R$ 307 milhões em julho; liquidez é a maior da história doFII",
@@ -270,40 +288,6 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/9cf0af96-magazine-luiza-jpg.webp"
     },
     {
-      "title": "Petrobras (PETR4): comprar ou vender após o 2T26? Analistas veem dividendos atrativos, mas riscos continuam",
-      "summary": "A Petrobras (PETR4) saiu do segundo trimestre com um balanço considerado sólido pelas principais casas de análise, apoiado por produção maior, margens melhores no refino e forte geração de caixa. O resultado também veio ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/petrobras-petr4-comprar-vender-resultado-2t26-dividendos-mt/",
-      "time": "2026-08-07T17:25:09Z",
-      "cat": "fundos",
-      "tickers": [
-        "PETR4"
-      ],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/14621c96-08_01_2021_20_45_01-jpg.webp"
-    },
-    {
-      "title": "Inflação nos EUA dá alívio, mas ainda não libera o Fed; entenda o PCE de junho",
-      "summary": "A inflação nos EUA trouxe uma notícia melhor do que o esperado em junho, mas ainda não o suficiente para tirar o Federal Reserve do modo cautela. O núcleo do PCE, indicador preferido do banco central americano para acomp",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/inflacao-eua-nucleo-pce-junho-2026-fed-mt/",
-      "time": "2026-08-07T16:35:08Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
-    },
-    {
-      "title": "Por que as ações da Lojas Renner (LREN3) estão caindo mais de 12%? Entenda",
-      "summary": "As ações das Lojas Renner (LREN3) caíam mais de 12% na manhã desta sexta-feira (7), após a varejista divulgar resultados abaixo das expectativas no segundo trimestre de 2026 e cortar pela metade o intervalo de seu guidan",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/lren3-renner-resultado-2t26-guidance-cortado-vendas-fracas-go/",
-      "time": "2026-08-07T14:35:05Z",
-      "cat": "acoes",
-      "tickers": [
-        "LREN3"
-      ],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/33413_B081795909272785-1-2.jpg"
-    },
-    {
       "title": "Após apagão em São Paulo, alunos criam projeto para tornar escola autossuficiente em energia solar",
       "summary": "Luana Pertel e Tiago Lanfranchi, do The British College of Brazil, criaram o PowerPals",
       "source": "Exame",
@@ -334,105 +318,85 @@
       "image": "https://classic.exame.com/wp-content/uploads/2019/10/balanc3a7a-comercial.jpg"
     },
     {
-      "title": "Redução de corridas faz receita da Fórmula 1 encolher no 1º semestre",
-      "summary": "Balanço da Liberty Media atribui o resultado ao menor número de etapas disputadas no período e mantém a expectativa de ao menos 22 GPs em 2026",
-      "source": "Exame",
-      "url": "https://exame.com/esporte/reducao-de-corridas-faz-receita-da-formula-1-encolher-no-1o-semestre/",
-      "time": "2026-08-07T16:20:14Z",
+      "title": "55% OFF: garanta o InvestingPro por menos de R$ 1 por dia antes que a oferta acabe",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/55-de-desconto-garanta-o-investingpro-por-menos-de-us-2-por-semana-antes-que-a-promocao-de-verao-acabe-2030953",
+      "time": "2026-08-07T21:51:56Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://content-media.investing.com/news/LYNXMPEM3K18K_1200_L.jpg"
+    },
+    {
+      "title": "Iguatemi assina proposta vinculante de venda de participações em cinco ativos do portfólio por R$876,1 mi",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/iguatemi-assina-proposta-vinculante-de-venda-de-participacoes-em-cinco-ativos-do-portfolio-por-r8761-mi-2031995",
+      "time": "2026-08-07T21:49:10Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/Iguatemi_800x533_L_1601043551.jpg"
+    },
+    {
+      "title": "B3 lança índice Small Cap Smart Rebal B3",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/b3-lanca-indice-small-cap-smart-rebal-b3-2031996",
+      "time": "2026-08-07T21:49:10Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB66095_M.jpg"
+    },
+    {
+      "title": "México - Ações fecharam o pregão em alta e o Índice S&P/BMV IPC avançou 0,82%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/mexico--acoes-fecharam-o-pregao-em-alta-e-o-indice-spbmv-ipc-avancou-082-2031986",
+      "time": "2026-08-07T21:30:19Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPED8P25V_M.jpg"
+    },
+    {
+      "title": "Ibovespa e dólar hoje inauguram semana pesada de dados de inflação Brasil e EUA",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-inauguram-semana-pesada-de-dados-de-inflacao-brasil-e-eua-2031956",
+      "time": "2026-08-07T21:30:02Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/11/GettyImages-2245658686.jpg"
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEJ6I0VL_L.jpg"
     },
     {
-      "title": "Formlabs estuda IPO para captar US$ 500 milhões, diz Bloomberg",
+      "title": "Colômbia - Ações fecharam o pregão em alta e o Índice COLCAP avançou 0,24%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/formlabs-estuda-ipo-para-captar-us-500-milhoes-diz-bloomberg-93CH-2031954",
-      "time": "2026-08-07T21:00:02Z",
+      "url": "https://br.investing.com/news/stock-market-news/colombia--acoes-fecharam-o-pregao-em-alta-e-o-indice-colcap-avancou-024-2031981",
+      "time": "2026-08-07T21:25:18Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/Colombian_Securities_Exchange_M_1440056295.jpg"
+    },
+    {
+      "title": "Rússia - Ações fecharam o pregão em queda e o Índice MOEX Russia Index recuou 0,22%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/russia--acoes-fecharam-o-pregao-em-queda-e-o-indice-moex-russia-index-recuou-022-2031977",
+      "time": "2026-08-07T21:20:20Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6U08A_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEDAE0U1_M.jpg"
     },
     {
-      "title": "Petrobras estuda elevar capacidade de produção de diesel em quase 80% até 2031",
+      "title": "Petrobras tem \"margem enorme\" em gás, diz diretor da ANP",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/petrobras-estuda-elevar-capacidade-de-producao-de-diesel-em-quase-80-ate-2031-2031941",
-      "time": "2026-08-07T20:36:19Z",
+      "url": "https://br.investing.com/news/stock-market-news/petrobras-tem-margem-enorme-em-gas-diz-diretor-da-anp-sobre-programa-que-quer-reduzir-precos-2031734",
+      "time": "2026-08-07T21:07:44Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEA7R0SO_M.jpg"
-    },
-    {
-      "title": "Produção da Petrobras já oscila em patamar próximo de pico previsto para 2028, indica CEO",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/petrobras-muito-provavelmente-vai-superar-metas-de-producao-para-2026-diz-ceo-2031818",
-      "time": "2026-08-07T20:35:33Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC9A1FG_M.jpg"
-    },
-    {
-      "title": "E.U.A. - Ações fecharam o pregão em alta e o Índice Dow Jones Industrial Average avançou 0,28%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/eua--acoes-fecharam-o-pregao-em-alta-e-o-indice-dow-jones-industrial-average-avancou-028-2031936",
-      "time": "2026-08-07T20:31:29Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEM5L0YH_1200_L.jpg"
-    },
-    {
-      "title": "Canadá - Ações fecharam o pregão em alta e o Índice S&P/TSX avançou 0,68%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/canada--acoes-fecharam-o-pregao-em-alta-e-o-indice-sptsx-avancou-068-2031935",
-      "time": "2026-08-07T20:30:45Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/moved_LYNXNPEL4R0WG_L.jpg"
-    },
-    {
-      "title": "Brasil - Ações fecharam o pregão em queda e o Índice Bovespa recuou 1,73%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/brasil--acoes-fecharam-o-pregao-em-queda-e-o-indice-bovespa-recuou-173-2031933",
-      "time": "2026-08-07T20:30:20Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/moved_LYNXMPEHB50GE_L.jpg"
-    },
-    {
-      "title": "Ações da Ashland disparam após relatos de interesse em aquisição",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-ashland-disparam-apos-relatos-de-interesse-em-aquisicao-93CH-2031928",
-      "time": "2026-08-07T20:23:22Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB7Q0U9_M.jpg"
-    },
-    {
-      "title": "S&P tem fechamento recorde, conforme relatório fraco sobre empregos ameniza preocupações com alta dos juros",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/sp-tem-fechamento-recorde-conforme-relatorio-fraco-sobre-empregos-ameniza-preocupacoes-com-alta-dos-juros-2031925",
-      "time": "2026-08-07T20:21:26Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
-    },
-    {
-      "title": "Ibovespa fecha em queda com cena corporativa em foco",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-fecha-em-queda-com-cena-corporativa-em-foco-2031910",
-      "time": "2026-08-07T20:07:11Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/moved_LYNXNPEF081L1_L.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB0D106_M.jpg"
     }
   ],
-  "atualizado_em": "07/08/2026 21:10"
+  "atualizado_em": "07/08/2026 22:06"
 }
