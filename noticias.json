@@ -1,13 +1,16 @@
 {
   "headline": {
-    "title": "Petrobras aposta em refino recorde e subvenção para segurar preços com petróleo em alta",
-    "summary": "CFO da estatal também afirmou que é pouco provável a distribuição de dividendos extraordinários neste ano, como já havia antecipado no 1° tri",
-    "source": "Exame",
-    "url": "https://exame.com/invest/mercados/petrobras-aposta-em-refino-recorde-e-subvencao-para-segurar-precos-com-petroleo-em-alta/",
-    "time": "2026-08-07T15:04:59Z",
-    "cat": "internacional",
-    "tickers": [],
-    "image": "https://classic.exame.com/wp-content/uploads/2024/07/Petrobras1.jpg"
+    "title": "Petrobras (PETR4) vai colocar cerca de R$ 5 bilhões nos cofres da União com dividendos do 2T26",
+    "summary": "A Petrobras (PETR3; PETR4) vai destinar cerca de R$ 5,05 bilhões aos cofres da União com a remuneração de R$ 17,4 bilhões anunciada aos acionistas após o balanço do segundo trimestre de 2026. A estimativa considera a par",
+    "source": "Money Times",
+    "url": "https://www.moneytimes.com.br/petrobras-petr4-vai-colocar-cerca-de-r-5-bilhoes-nos-cofres-da-uniao-com-dividendos-do-2t26-veja-quando-jcav/",
+    "time": "2026-08-07T18:32:42Z",
+    "cat": "fundos",
+    "tickers": [
+      "PETR4",
+      "PETR3"
+    ],
+    "image": "https://www.moneytimes.com.br/uploads/2026/08/petrobras.jpg"
   },
   "featured": [
     {
@@ -23,19 +26,47 @@
       "image": "https://www.moneytimes.com.br/uploads/2024/05/porto-seguro-pssa3-balanco-primeiro-trimestre-2024-1t24-numeros-resultados-desempenho.jpg"
     },
     {
-      "title": "Petrobras (PETR4): comprar ou vender após o 2T26? Analistas veem dividendos atrativos, mas riscos continuam",
-      "summary": "A Petrobras (PETR4) saiu do segundo trimestre com um balanço considerado sólido pelas principais casas de análise, apoiado por produção maior, margens melhores no refino e forte geração de caixa. O resultado também veio ",
+      "title": "Selic a 14% ainda deixa a renda fixa atraente? Entenda o que muda para cada investimento",
+      "summary": "A Selic caiu para 14% ao ano, mas isso não significa que a renda fixa deixou de ser interessante. Na prática, o investidor continua encontrando retornos elevados em aplicações pós-fixadas, embora a redução dos juros come",
       "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/petrobras-petr4-comprar-vender-resultado-2t26-dividendos-mt/",
-      "time": "2026-08-07T17:25:09Z",
-      "cat": "fundos",
-      "tickers": [
-        "PETR4"
-      ],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/14621c96-08_01_2021_20_45_01-jpg.webp"
+      "url": "https://www.suno.com.br/noticias/selic-14-renda-fixa-cdb-lci-lca-tesouro-mt/",
+      "time": "2026-08-07T19:25:12Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/iStock-1489161417-1-1-jpg.webp"
     }
   ],
   "all": [
+    {
+      "title": "Caiado diz que emendas parlamentares são ‘desestruturação do presidencialismo’",
+      "summary": "Ex-governador de Goiás taxou momento atual no Congresso como \"desordem institucional completa\"",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/caiado-diz-que-emendas-parlamentares-sao-desestruturacao-do-presidencialismo/",
+      "time": "2026-08-07T18:46:05Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-07-24T100054Z_1654594699_RC28FKA7OAXZ_RTRMADP_3_BRAZIL-ELECTION-BOLSONARO-1.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Vendaval: prefeitura do Rio e governo do Estado recomendam antecipação de expediente",
+      "summary": "A Defesa Civil emitiu um \"alerta extremo\" no início da tarde desta sexta-feira",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/brasil/vendaval-prefeitura-do-rio-e-governo-do-estado-recomendam-antecipacao-de-expediente/",
+      "time": "2026-08-07T18:40:52Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/img_9642.jpeg?fit=300%2C225&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Trump segue com tentativa de demitir diretora do Fed após decisão da Suprema Corte",
+      "summary": "Em junho, Suprema Corte negou ao presidente a demissão da diretora",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/trump-segue-com-tentativa-de-demitir-diretora-do-fed-apos-decisao-da-suprema-corte/",
+      "time": "2026-08-07T18:24:40Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/trump-lisa-cook.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
     {
       "title": "Petrobras: bons 2T e dividendos, mas por que ações passaram a cair mais de 2%?",
       "summary": "Mesmo com números fortes, ações registram uma sessão de queda",
@@ -57,60 +88,59 @@
       "image": "https://www.infomoney.com.br/wp-content/uploads/2024/04/Trator-JD_.png?fit=300%2C225&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Ibovespa Hoje Ao Vivo: Bolsa cai mais de 1% com pressão de PETR4 e bancos",
-      "summary": "Bolsas dos EUA avançam com repercussão dos dados do payroll",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-07082026/",
-      "time": "2026-08-07T16:16:35Z",
-      "cat": "acoes",
-      "tickers": [
-        "PETR4"
-      ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-12-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "title": "Petróleo recua 5% na semana com otimismo de acordo para reabrir Ormuz",
+      "summary": "Os preços do petróleo avançaram nesta sexta-feira (7) após uma sessão volátil. Na semana, porém, a commodity teve perdas de mais de 5% com os investidores otimistas de que um acordo para a reabertura do Estreito de Ormuz",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/petroleo-7-8-26-apsa/",
+      "time": "2026-08-07T19:27:24Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/petroleo.jpg"
     },
     {
-      "title": "Dividendos dos FIIs: GARE11, HSML11 e VGHF11 realizam pagamentos hoje; veja valores",
-      "summary": "Investidores que mantinham cotas até 31 de julho recebem hoje os dividendos de diversos FIIs",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/onde-investir/dividendos-dos-fiis-gare11-hsml11-e-vghf11-realizam-pagamentos-hoje-veja-valores/",
-      "time": "2026-08-07T16:14:38Z",
+      "title": "Dividendos e crescimento: XP bate o martelo e elege o melhor banco da bolsa",
+      "summary": "Se há um setor de que o investidor gosta é o de bancos. Resilientes e com histórico de lucros consistentes, costumam distribuir bons dividendos. Para a XP, se esse é o objetivo, a escolha certa é o Itaú Unibanco (ITUB4).",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/dividendos-e-crescimento-xp-bate-o-martelo-e-elege-o-melhor-banco-da-bolsa/",
+      "time": "2026-08-07T18:49:22Z",
       "cat": "fundos",
       "tickers": [
-        "HSML11"
+        "ITUB4"
       ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/money-5530537_1920.png?fit=300%2C215&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2024/04/bancos-xp-investimentos.jpg"
     },
     {
-      "title": "Por que o resultado da Petrobras foi bom, mas poderia ter sido ainda melhor?",
-      "summary": "Segundo a XP, os preços domésticos da gasolina, do diesel e do GLP permaneceram abaixo da paridade internacional na maior parte do trimestre",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/por-que-o-resultado-da-petrobras-foi-bom-mas-poderia-ter-sido-ainda-melhor/",
-      "time": "2026-08-07T16:14:28Z",
+      "title": "IA generativa cria modelo de vírus capaz de ajudar no combate a superbactérias",
+      "summary": "Um grupo de pesquisadores da Universidade Stanford conseguiu desenvolver, com o auxílio de um modelo de inteligência artificial (IA), um vírus inédito que pode abrir caminho para a criação de antibióticos mais potentes. ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ia-generativa-cria-modelo-novo-de-virus-combater-superbacterias-garg/",
+      "time": "2026-08-07T18:42:31Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-19T211424Z_1_LYNXMPEM2I1DP_RTROPTP_4_PETROBRAS-BRAZIL.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/08/virus.jpg"
     },
     {
-      "title": "Mercado de trabalho menos aquecido nos EUA diminui pressão sobre alta de juros",
-      "summary": "O fechamento de 23 mil vagas no Payroll dos EUA reduz a pressão sobre os juros do Fed, avaliam economistas; agora, consolida-se a visão de que os juros devem ser mantidos",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/payroll-eua-fechamento-vagas-juros-fed/",
-      "time": "2026-08-07T16:03:28Z",
+      "title": "Petrobras (PETR4) vai colocar cerca de R$ 5 bilhões nos cofres da União com dividendos do 2T26",
+      "summary": "A Petrobras (PETR3; PETR4) vai destinar cerca de R$ 5,05 bilhões aos cofres da União com a remuneração de R$ 17,4 bilhões anunciada aos acionistas após o balanço do segundo trimestre de 2026. A estimativa considera a par",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/petrobras-petr4-vai-colocar-cerca-de-r-5-bilhoes-nos-cofres-da-uniao-com-dividendos-do-2t26-veja-quando-jcav/",
+      "time": "2026-08-07T18:32:42Z",
+      "cat": "fundos",
+      "tickers": [
+        "PETR4",
+        "PETR3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/08/petrobras.jpg"
+    },
+    {
+      "title": "BCDI11: Analistas da Empiricus recomendam FI-Infra atrelado ao CDI e com ‘perfil defensivo’; veja os motivos",
+      "summary": "A Empiricus Research recomendou compra para o BTG Pactual Dívida Infra CDI (BCDI11), fundo de infraestrutura (FI-Infra) da BTG Pactual Asset que foi listado na bolsa de valores (B3) na última terça-feira (4). Em relatóri",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/oportunidade-fi-infra-estreia-na-b3-com-recomendacao-de-compra-da-empiricus-igdl/",
+      "time": "2026-08-07T18:28:19Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Payroll.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "PETR4: Produção está acima das projeções para 2026, diz CEO",
-      "summary": "Durante a teleconferência sobre os resultados, a executiva destacou que a melhora no desempenho também reflete avanços na gestão dos ativos da companhia",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/petr4-producao-esta-acima-das-projecoes-para-2026-diz-ceo/",
-      "time": "2026-08-07T16:01:56Z",
-      "cat": "acoes",
-      "tickers": [
-        "PETR4"
-      ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-15T191150Z_1_LYNXMPEM4E1EG_RTROPTP_3_BRAZIL-PETROBRAS.jpg?fit=300%2C172&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/08/image-24.png"
     },
     {
       "title": "Porto (PSSA3): Banco toma ‘paulada’ e ação despenca; o que fazer com papel?",
@@ -145,70 +175,26 @@
       "image": "https://www.moneytimes.com.br/uploads/2026/08/nunes-marques.png"
     },
     {
-      "title": "Governo do DF tentará empréstimo para socorrer BRB com resultados parciais das contas de 2026",
-      "summary": "O governo do Distrito Federal apresentará resultados parciais das contas de 2026 para convencer a União e bancos de que consegue pagar o empréstimo de R$ 6,6 bilhões que está buscando para cobrir o rombo deixado pelo Ban",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/governo-do-df-tentara-emprestimo-para-socorrer-brb-com-resultados-parciais-das-contas-de-2026/",
-      "time": "2026-08-07T16:54:47Z",
-      "cat": "acoes",
+      "title": "Selic a 14% ainda deixa a renda fixa atraente? Entenda o que muda para cada investimento",
+      "summary": "A Selic caiu para 14% ao ano, mas isso não significa que a renda fixa deixou de ser interessante. Na prática, o investidor continua encontrando retornos elevados em aplicações pós-fixadas, embora a redução dos juros come",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/selic-14-renda-fixa-cdb-lci-lca-tesouro-mt/",
+      "time": "2026-08-07T19:25:12Z",
+      "cat": "economia",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/04/brb-3.jpg"
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/iStock-1489161417-1-1-jpg.webp"
     },
     {
-      "title": "Petrobras (PETR4): Por que a ação cai quase 2% mesmo após lucro acima do esperado",
-      "summary": "A queda das ações da Petrobras (PETR4) nesta sexta-feira (7), após a divulgação do balanço do segundo trimestre, reflete um movimento ligado ao cenário macroeconômico, disse Marcelo Bassani, economista e sócio da Boa Bra",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/petrobras-petr4-lucro-surpreende-mas-acao-cai-especialista-explica-o-motivo-ceci/",
-      "time": "2026-08-07T16:38:47Z",
+      "title": "Magazine Luiza (MGLU3) volta ao prejuízo no 2T26; o que aconteceu?",
+      "summary": "A Magazine Luiza (MGLU3) voltou ao vermelho no segundo trimestre de 2026, mas o tamanho da perda foi bem menor do que o título “prejuízo bilionário” sugeriria. Segundo o balanço oficial da companhia, o prejuízo líquido c",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/magazine-luiza-mglu3-resultado-2t26-prejuizo-mt/",
+      "time": "2026-08-07T18:45:05Z",
       "cat": "acoes",
       "tickers": [
-        "PETR4"
+        "MGLU3"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/08/petrobras-dividendos-2-1-1.jpg"
-    },
-    {
-      "title": "Log (LOGG3): Ações caem após balanço do 2T26; o que dizem analistas?",
-      "summary": "As ações da Log Commercial (LOGG3) operam em queda nesta sexta-feira (7), um dia após a empresa divulgar seu balanço do segundo trimestre de 2026 (2T26). Entre analistas, no entanto, a avaliação é de que os números viera",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/log-logg3-acoes-caem-apos-balanco-do-2t26-o-que-dizem-analistas-igdl/",
-      "time": "2026-08-07T16:37:42Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2022/04/log-commercial-properties-logg3-min.jpg"
-    },
-    {
-      "title": "Petrobras (PETR4): Dividendo extraordinário é ‘muito pouco provável’ em 2026, diz CFO",
-      "summary": "Apesar do lucro recorde e da forte geração de caixa no segundo trimestre de 2026 (2T26), a Petrobras (PETR4) considera muito pouco provável o pagamento de dividendos extraordinários neste ano. A sinalização foi dada pelo",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/petrobras-petr4-dividendo-extraordinario-e-muito-pouco-provavel-em-2026-diz-cfo-vtra/",
-      "time": "2026-08-07T16:12:28Z",
-      "cat": "fundos",
-      "tickers": [
-        "PETR4"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/08/petrobras-petr.jpg"
-    },
-    {
-      "title": "Ações da Airbnb têm maior cotação em quatro anos, com investidores comemorando aumento da previsão de receita",
-      "summary": "As ações da Airbnb subiram 14% nesta sexta-feira, atingindo a maior cotação em mais de quatro anos, à medida que a revisão para cima da previsão de receita anual da empresa de aluguel por temporada amenizou as preocupaçõ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/acoes-da-airbnb-tem-maior-cotacao-em-quatro-anos-com-investidores-comemorando-aumento-da-previsao-de-receita/",
-      "time": "2026-08-07T15:41:57Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/08/2026-08-07t153639z-1-lynxmpem7618q-rtroptp-4-airbnb-results-scaled.jpg"
-    },
-    {
-      "title": "O que surpreendeu tanto no balanço do Fleury (FLRY3)? Ação chega a saltar 14% nesta sexta (7)",
-      "summary": "O Fleury (FLRY3) lidera a ponta positiva do Ibovespa (IBOV) nesta sexta-feira (7), após divulgar os seus resultados do segundo trimestre de 2026 (2T26). Por volta das 11h38 (horário de Brasília), FLRY3 saltava 11,41% (R$",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/o-que-agradou-tanto-no-balanco-do-2t26-do-fleury-flry3-acao-salta-13-nesta-sexta-7-apsa/",
-      "time": "2026-08-07T15:09:18Z",
-      "cat": "acoes",
-      "tickers": [
-        "FLRY3"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/07/fleury-acelera-na-bolsa-1-1.png"
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/9cf0af96-magazine-luiza-jpg.webp"
     },
     {
       "title": "Petrobras (PETR4): comprar ou vender após o 2T26? Analistas veem dividendos atrativos, mas riscos continuam",
@@ -303,58 +289,74 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/199_Close_de_relat_rio_f_1_2026017_164426-1-jpg.webp"
     },
     {
-      "title": "HGRE11: emissão de até R$ 700 milhões para ampliar capacidade de investimentos",
-      "summary": "Os cotistas do fundo imobiliário HGRE11 (Pátria Escritórios) aprovaram a realização da 10ª emissão de cotas, autorizando uma oferta pública que poderá movimentar até R$ 700 milhões. A decisão foi tomada por consulta form",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/hgre11-emissao-de-ate-r-700-milhoes-para-ampliar-capacidade-de-investimentos/",
-      "time": "2026-08-07T00:15:04Z",
-      "cat": "acoes",
-      "tickers": [
-        "HGRE11"
-      ],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
+      "title": "Redução de corridas faz receita da Fórmula 1 encolher no 1º semestre",
+      "summary": "Balanço da Liberty Media atribui o resultado ao menor número de etapas disputadas no período e mantém a expectativa de ao menos 22 GPs em 2026",
+      "source": "Exame",
+      "url": "https://exame.com/esporte/reducao-de-corridas-faz-receita-da-formula-1-encolher-no-1o-semestre/",
+      "time": "2026-08-07T16:20:14Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2025/11/GettyImages-2245658686.jpg"
     },
     {
-      "title": "Petrobras aposta em refino recorde e subvenção para segurar preços com petróleo em alta",
-      "summary": "CFO da estatal também afirmou que é pouco provável a distribuição de dividendos extraordinários neste ano, como já havia antecipado no 1° tri",
+      "title": "Vini Jr. deve igualar marca de Cristiano Ronaldo após renovar com o Real Madrid",
+      "summary": "Brasileiro disputará a nona temporada pelo clube espanhol em 2026/27, mesma marca alcançada pelo astro português durante sua passagem por Madri",
       "source": "Exame",
-      "url": "https://exame.com/invest/mercados/petrobras-aposta-em-refino-recorde-e-subvencao-para-segurar-precos-com-petroleo-em-alta/",
-      "time": "2026-08-07T15:04:59Z",
+      "url": "https://exame.com/esporte/vini-jr-deve-igualar-marca-de-cristiano-ronaldo-apos-renovar-com-o-real-madrid/",
+      "time": "2026-08-07T16:03:20Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2024/06/CEO48_ARTIGO_Marcos2.jpg"
+    },
+    {
+      "title": "Pivô de crise diplomática, Perez é aprovado pelo Senado dos EUA para embaixada no Brasil",
+      "summary": "Integrante do Partido Republicano, legenda de Trump, o parlamentar tem demonstrado alinhamento às pautas defendidas pelo presidente",
+      "source": "Exame",
+      "url": "https://exame.com/mundo/pivo-de-crise-diplomatica-perez-e-aprovado-rejeitado-pelo-senado-dos-eua-para-embaixada/",
+      "time": "2026-08-07T15:32:09Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2024/07/Petrobras1.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/Daniel-Perez.jpg"
     },
     {
-      "title": "Startup de IA jurídica negocia nova rodada e pode chegar a avaliação de US$ 15,5 bilhões",
-      "summary": "Harvey AI busca pelo menos US$ 500 milhões, alta de 40% sobre o valuation de fevereiro. Captação segue disparada de receita, segundo o The Information",
-      "source": "Exame",
-      "url": "https://exame.com/inteligencia-artificial/startup-de-ia-juridica-negocia-nova-rodada-e-pode-chegar-a-avaliacao-de-us-155-bilhoes/",
-      "time": "2026-08-07T15:01:31Z",
-      "cat": "economia",
+      "title": "Por que as ações da Palantir estão disparando hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-palantir-estao-disparando-hoje-93CH-2031877",
+      "time": "2026-08-07T19:08:45Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/08/harvey_ai.png"
+      "image": "https://i-invdn-com.investing.com/news/PalantirTechnologies_800x533_L_1599055554.jpg"
     },
     {
-      "title": "Hacker da Coldcard movimenta bitcoin roubado e recebe avalanche de mensagens",
-      "summary": "Usuários de bitcoin pedem dinheiro ao cibercriminoso, que faz primeiras transferências rastreáveis desde o crime",
-      "source": "Exame",
-      "url": "https://exame.com/future-of-money/hacker-da-coldcard-movimenta-bitcoin-roubado-e-recebe-avalanche-de-mensagens/",
-      "time": "2026-08-07T14:30:08Z",
-      "cat": "cripto",
-      "tickers": [
-        "BTC"
-      ],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/07/GettyImages-1793005512.jpg"
-    },
-    {
-      "title": "Plano de governo de Romeu Zema propõe ajuste fiscal, endurecimento penal e reforma do Estado",
-      "summary": "O programa é dividido em 20 capítulos e tem como eixo central a redução do tamanho do Estado, o equilíbrio das contas públicas e mudanças na política de segurança",
-      "source": "Exame",
-      "url": "https://exame.com/brasil/plano-de-governo-de-romeu-zema-propoe-ajuste-fiscal-endurecimento-penal-e-reforma-do-estado/",
-      "time": "2026-08-07T14:08:55Z",
-      "cat": "economia",
+      "title": "Ação de materiais selecionada por IA dispara +22% após forte balanço",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/alta-de-34-no-mes-acao-de-materiais-selecionada-por-ia-dispara-22-apos-resultados-solidos-2030641",
+      "time": "2026-08-07T18:17:41Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/04/Romeu-Zema.jpg"
+      "image": "https://content-media.investing.com/news/LYNXMPEM451H2_1200_L.jpg"
+    },
+    {
+      "title": "Negociação de opções da Hertz dispara para mais de 587.000 contratos",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/negociacao-de-opcoes-da-hertz-dispara-para-mais-de-587000-contratos-93CH-2031857",
+      "time": "2026-08-07T18:00:19Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPECA71A8_M.jpg"
+    },
+    {
+      "title": "Negociação de opções da SpaceX bate recorde com alta no volume de calls",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/negociacao-de-opcoes-da-spacex-bate-recorde-com-alta-no-volume-de-calls-93CH-2031856",
+      "time": "2026-08-07T17:58:38Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB7Q0U9_M.jpg"
     },
     {
       "title": "Ações da BlossomHill Therapeutics caem em estreia na bolsa após IPO",
@@ -364,7 +366,7 @@
       "time": "2026-08-07T17:17:30Z",
       "cat": "internacional",
       "tickers": [],
-      "image": null
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0Q1B5_M.jpg"
     },
     {
       "title": "Ações da Latigo Biotherapeutics disparam 17% após IPO ampliado",
@@ -374,7 +376,7 @@
       "time": "2026-08-07T17:16:54Z",
       "cat": "internacional",
       "tickers": [],
-      "image": null
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEC0409P_M.jpg"
     },
     {
       "title": "Petrobras tem \"margem enorme\" em gás, diz diretor da ANP",
@@ -384,7 +386,7 @@
       "time": "2026-08-07T17:14:26Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB0D106_S.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB0D106_M.jpg"
     },
     {
       "title": "S&P rebaixa nota da Aston Martin por preocupações com recuperação de dívida",
@@ -395,37 +397,7 @@
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0D0AP_M.jpg"
-    },
-    {
-      "title": "Moody’s revisa perspectiva da CVS Health para positiva em recuperação",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/moodys-revisa-perspectiva-da-cvs-health-para-positiva-em-recuperacao-93CH-2031833",
-      "time": "2026-08-07T17:04:12Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC180BO_M.jpg"
-    },
-    {
-      "title": "Barclays monitora recompras de ações em energéticas europeias",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/barclays-monitora-recompras-de-acoes-em-energeticas-europeias-93CH-2031822",
-      "time": "2026-08-07T16:39:23Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEA5P0K1_M.jpg"
-    },
-    {
-      "title": "Negociação de opções da Interactive Brokers dispara com atividade em puts",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/negociacao-de-opcoes-da-interactive-brokers-dispara-com-atividade-em-puts-93CH-2031819",
-      "time": "2026-08-07T16:35:59Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6R0AQ_L.jpg"
     }
   ],
-  "atualizado_em": "07/08/2026 18:11"
+  "atualizado_em": "07/08/2026 19:29"
 }
