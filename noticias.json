@@ -1,41 +1,51 @@
 {
   "headline": {
-    "title": "Ibovespa cai mais de 1% e volta aos 172 mil pontos com Petrobras (PETR4); como andam os mercados nesta sexta-feira (7)",
-    "summary": "O Ibovespa (IBOV) perdeu mais de 2 mil pontos nas primeiras horas do pregão desta sexta-feira (7), em dia de reação a balanços corporativos e potencial saída de fluxo estrangeiro, após começar a sessão em alta com apoio ",
-    "source": "Money Times",
-    "url": "https://www.moneytimes.com.br/ibovespa-intradia-7-8-26-lils/",
-    "time": "2026-08-07T15:08:55Z",
-    "cat": "acoes",
-    "tickers": [
-      "PETR4"
-    ],
-    "image": "https://www.moneytimes.com.br/uploads/2026/06/mercado-morning-ibovespa-wall-street-2.jpg"
+    "title": "Petrobras aposta em refino recorde e subvenção para segurar preços com petróleo em alta",
+    "summary": "CFO da estatal também afirmou que é pouco provável a distribuição de dividendos extraordinários neste ano, como já havia antecipado no 1° tri",
+    "source": "Exame",
+    "url": "https://exame.com/invest/mercados/petrobras-aposta-em-refino-recorde-e-subvencao-para-segurar-precos-com-petroleo-em-alta/",
+    "time": "2026-08-07T15:04:59Z",
+    "cat": "internacional",
+    "tickers": [],
+    "image": "https://classic.exame.com/wp-content/uploads/2024/07/Petrobras1.jpg"
   },
   "featured": [
     {
-      "title": "'Meta é para os fracos', diz Petrobras ao atribuir recorde à operação, não ao Brent",
-      "summary": "Presidente da estatal afirma que petróleo acima de US$ 100 ajudou, mas dizem que recordes de produção e refino foram os principais responsáveis pelo lucro histórico",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/meta-e-para-os-fracos-diz-petrobras-ao-atribuir-recorde-a-operacao-nao-ao-brent/",
-      "time": "2026-08-07T13:31:02Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/04/MG_4830.jpg"
+      "title": "Porto (PSSA3): Banco toma ‘paulada’ e ação despenca; o que fazer com papel?",
+      "summary": "Na caixinha do mercado, a Porto (PSSA3) costuma ser vista como um seguro para proteger o patrimônio. Porém, o que se viu nas últimas sessões foi justamente o contrário. Nos últimos cinco dias, a ação cai 8,58%. Nesta sex",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/porto-pssa3-banco-toma-paulada-e-acao-despenca-rnda-o-que-fazer-com-papel/",
+      "time": "2026-08-07T17:48:24Z",
+      "cat": "acoes",
+      "tickers": [
+        "PSSA3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2024/05/porto-seguro-pssa3-balanco-primeiro-trimestre-2024-1t24-numeros-resultados-desempenho.jpg"
     },
     {
-      "title": "Petrobras (PETR4): Por que a ação cai quase 2% mesmo após lucro acima do esperado",
-      "summary": "A queda das ações da Petrobras (PETR4) nesta sexta-feira (7), após a divulgação do balanço do segundo trimestre, reflete um movimento ligado ao cenário macroeconômico, disse Marcelo Bassani, economista e sócio da Boa Bra",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/petrobras-petr4-lucro-surpreende-mas-acao-cai-especialista-explica-o-motivo-ceci/",
-      "time": "2026-08-07T16:38:47Z",
-      "cat": "acoes",
+      "title": "Petrobras (PETR4): comprar ou vender após o 2T26? Analistas veem dividendos atrativos, mas riscos continuam",
+      "summary": "A Petrobras (PETR4) saiu do segundo trimestre com um balanço considerado sólido pelas principais casas de análise, apoiado por produção maior, margens melhores no refino e forte geração de caixa. O resultado também veio ",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/petrobras-petr4-comprar-vender-resultado-2t26-dividendos-mt/",
+      "time": "2026-08-07T17:25:09Z",
+      "cat": "fundos",
       "tickers": [
         "PETR4"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/08/petrobras-dividendos-2-1-1.jpg"
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/14621c96-08_01_2021_20_45_01-jpg.webp"
     }
   ],
   "all": [
+    {
+      "title": "Petrobras: bons 2T e dividendos, mas por que ações passaram a cair mais de 2%?",
+      "summary": "Mesmo com números fortes, ações registram uma sessão de queda",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/petrobras-acoes-chegam-a-subir-cerca-de-2-apos-bons-2t-e-dividendos-mas-zeram-o-que-aconteceu/",
+      "time": "2026-08-07T17:24:16Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/75860444-01-11-2014-plataforma-da-petrobras-em-atuacao-no-campo-de-lula-no-pre-sal-navio-de-produc-2-.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
     {
       "title": "O alerta dos dados do Bradesco no 2T para a carteira agro do Banco do Brasil",
       "summary": "Carteira de crédito do John Deere Bank, banco voltado ao agro e com participação do Bradesco, mostrou deterioração e dá sinais sobre os números do banco estatal",
@@ -103,6 +113,38 @@
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-15T191150Z_1_LYNXMPEM4E1EG_RTROPTP_3_BRAZIL-PETROBRAS.jpg?fit=300%2C172&amp;quality=70&amp;strip=all"
     },
     {
+      "title": "Porto (PSSA3): Banco toma ‘paulada’ e ação despenca; o que fazer com papel?",
+      "summary": "Na caixinha do mercado, a Porto (PSSA3) costuma ser vista como um seguro para proteger o patrimônio. Porém, o que se viu nas últimas sessões foi justamente o contrário. Nos últimos cinco dias, a ação cai 8,58%. Nesta sex",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/porto-pssa3-banco-toma-paulada-e-acao-despenca-rnda-o-que-fazer-com-papel/",
+      "time": "2026-08-07T17:48:24Z",
+      "cat": "acoes",
+      "tickers": [
+        "PSSA3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2024/05/porto-seguro-pssa3-balanco-primeiro-trimestre-2024-1t24-numeros-resultados-desempenho.jpg"
+    },
+    {
+      "title": "Bolsas da Europa avançam com balanços e expectativa de Fed menos agressivo",
+      "summary": "Os índices europeus fecharam em alta nesta sexta-feira (7) com os investidores avaliando os resultados corporativos e a expectativa de uma política monetária menos agressiva nos Estados Unidos após o dado mais fraco do p",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/europa-7-8-26-apsa/",
+      "time": "2026-08-07T17:46:26Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2021/08/europa-2.jpg"
+    },
+    {
+      "title": "TSE cria órgão para monitorar uso de IA e fake news nas eleições",
+      "summary": "O Tribunal Superior Eleitoral (TSE) criou, em portaria publicada nesta sexta (7), um órgão para acompanhar riscos associados ao uso de inteligência artificial (IA) nas campanhas e a desinformação relacionada às eleições ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/eleicoes-2026-tse-cria-orgao-para-monitorar-uso-de-ia-e-fake-news-gaep/",
+      "time": "2026-08-07T17:38:53Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/08/nunes-marques.png"
+    },
+    {
       "title": "Governo do DF tentará empréstimo para socorrer BRB com resultados parciais das contas de 2026",
       "summary": "O governo do Distrito Federal apresentará resultados parciais das contas de 2026 para convencer a União e bancos de que consegue pagar o empréstimo de R$ 6,6 bilhões que está buscando para cobrir o rombo deixado pelo Ban",
       "source": "Money Times",
@@ -126,7 +168,7 @@
     },
     {
       "title": "Log (LOGG3): Ações caem após balanço do 2T26; o que dizem analistas?",
-      "summary": "As ações da Log Commercial (LOGG3) operam em queda nesta sexta-feira (7), um dia após a companhia divulgar seu balanço do segundo trimestre de 2026 (2T26). Entre analistas, no entanto, a avaliação é de que os números vie",
+      "summary": "As ações da Log Commercial (LOGG3) operam em queda nesta sexta-feira (7), um dia após a empresa divulgar seu balanço do segundo trimestre de 2026 (2T26). Entre analistas, no entanto, a avaliação é de que os números viera",
       "source": "Money Times",
       "url": "https://www.moneytimes.com.br/log-logg3-acoes-caem-apos-balanco-do-2t26-o-que-dizem-analistas-igdl/",
       "time": "2026-08-07T16:37:42Z",
@@ -169,26 +211,16 @@
       "image": "https://www.moneytimes.com.br/uploads/2025/07/fleury-acelera-na-bolsa-1-1.png"
     },
     {
-      "title": "Ibovespa cai mais de 1% e volta aos 172 mil pontos com Petrobras (PETR4); como andam os mercados nesta sexta-feira (7)",
-      "summary": "O Ibovespa (IBOV) perdeu mais de 2 mil pontos nas primeiras horas do pregão desta sexta-feira (7), em dia de reação a balanços corporativos e potencial saída de fluxo estrangeiro, após começar a sessão em alta com apoio ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ibovespa-intradia-7-8-26-lils/",
-      "time": "2026-08-07T15:08:55Z",
-      "cat": "acoes",
+      "title": "Petrobras (PETR4): comprar ou vender após o 2T26? Analistas veem dividendos atrativos, mas riscos continuam",
+      "summary": "A Petrobras (PETR4) saiu do segundo trimestre com um balanço considerado sólido pelas principais casas de análise, apoiado por produção maior, margens melhores no refino e forte geração de caixa. O resultado também veio ",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/petrobras-petr4-comprar-vender-resultado-2t26-dividendos-mt/",
+      "time": "2026-08-07T17:25:09Z",
+      "cat": "fundos",
       "tickers": [
         "PETR4"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/06/mercado-morning-ibovespa-wall-street-2.jpg"
-    },
-    {
-      "title": "Alpargatas (ALPA4) dispara após resultado do 2T26 surpreender; o que agradou, na avaliação de XP e JPMorgan",
-      "summary": "A Alpargatas (ALPA4), dona da Havaianas, abriu o pregão de hoje entre as maiores altas do Ibovespa. Por volta das 11h50, os papéis subiam cerca de 11%, no patamar de R$ 13,61. O otimismo dos investidores veio após result",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/alpargatas-alpa4-dispara-apos-lucro-operacional-surpreender-veja-a-avaliacao-de-xp-e-jpmorgan-ceci/",
-      "time": "2026-08-07T15:03:16Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2024/07/alpargatas-empresas-recomendacao-neutra-alpa4-ubs-bb.jpg"
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/14621c96-08_01_2021_20_45_01-jpg.webp"
     },
     {
       "title": "Inflação nos EUA dá alívio, mas ainda não libera o Fed; entenda o PCE de junho",
@@ -283,14 +315,36 @@
       "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     },
     {
-      "title": "IFIX: CACR11 em alta, queda de 0,58% e recuo aos 3.760 pontos",
-      "summary": "O IFIX encerrou o pregão desta quinta-feira (6) aos 3.760,11 pontos, com queda de 0,58%, uma redução de 21,88 pontos em relação ao fechamento anterior. O índice de fundos imobiliários registrou fraqueza ao longo de prati",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/ifix-cacr11-em-alta-queda-de-058-e-recuo-aos-3-760-pontos/",
-      "time": "2026-08-06T22:25:07Z",
-      "cat": "fundos",
+      "title": "Petrobras aposta em refino recorde e subvenção para segurar preços com petróleo em alta",
+      "summary": "CFO da estatal também afirmou que é pouco provável a distribuição de dividendos extraordinários neste ano, como já havia antecipado no 1° tri",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/petrobras-aposta-em-refino-recorde-e-subvencao-para-segurar-precos-com-petroleo-em-alta/",
+      "time": "2026-08-07T15:04:59Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/detalhe-de-relat-rio-1_02-1.webp"
+      "image": "https://classic.exame.com/wp-content/uploads/2024/07/Petrobras1.jpg"
+    },
+    {
+      "title": "Startup de IA jurídica negocia nova rodada e pode chegar a avaliação de US$ 15,5 bilhões",
+      "summary": "Harvey AI busca pelo menos US$ 500 milhões, alta de 40% sobre o valuation de fevereiro. Captação segue disparada de receita, segundo o The Information",
+      "source": "Exame",
+      "url": "https://exame.com/inteligencia-artificial/startup-de-ia-juridica-negocia-nova-rodada-e-pode-chegar-a-avaliacao-de-us-155-bilhoes/",
+      "time": "2026-08-07T15:01:31Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/08/harvey_ai.png"
+    },
+    {
+      "title": "Hacker da Coldcard movimenta bitcoin roubado e recebe avalanche de mensagens",
+      "summary": "Usuários de bitcoin pedem dinheiro ao cibercriminoso, que faz primeiras transferências rastreáveis desde o crime",
+      "source": "Exame",
+      "url": "https://exame.com/future-of-money/hacker-da-coldcard-movimenta-bitcoin-roubado-e-recebe-avalanche-de-mensagens/",
+      "time": "2026-08-07T14:30:08Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC"
+      ],
+      "image": "https://classic.exame.com/wp-content/uploads/2025/07/GettyImages-1793005512.jpg"
     },
     {
       "title": "Plano de governo de Romeu Zema propõe ajuste fiscal, endurecimento penal e reforma do Estado",
@@ -303,34 +357,44 @@
       "image": "https://classic.exame.com/wp-content/uploads/2026/04/Romeu-Zema.jpg"
     },
     {
-      "title": "Karol G lança novo disco com participação de Drake e Bruno Mars; ouça",
-      "summary": "Em “No Me Arrepiento de Sentir Tanto”, cantora colombiana apresenta um trabalho voltado às emoções, com letras confessionais, novas sonoridades e participações de peso",
-      "source": "Exame",
-      "url": "https://exame.com/pop/karol-g-lanca-novo-disco-com-participacao-de-drake-e-bruno-mars-ouca/",
-      "time": "2026-08-07T14:05:58Z",
-      "cat": "economia",
+      "title": "Ações da BlossomHill Therapeutics caem em estreia na bolsa após IPO",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-blossomhill-therapeutics-caem-em-estreia-na-bolsa-apos-ipo-93CH-2031842",
+      "time": "2026-08-07T17:17:30Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/08/karol-g-no-me-arrepiento-de-sentir-tanto.jpg"
+      "image": null
     },
     {
-      "title": "‘O desafio é organizacional’: CFO trocou curso de finanças por IA e criou 5 níveis de capacitação",
-      "summary": "André Luís Rodrigues fez o PIACC da Saint Paul e usou o repertório para reestruturar a governança de inteligência artificial na WEG",
-      "source": "Exame",
-      "url": "https://exame.com/carreira/o-desafio-e-organizacional-cfo-trocou-curso-de-financas-por-ia-e-criou-5-niveis-de-capacitacao/",
-      "time": "2026-08-07T14:02:59Z",
-      "cat": "economia",
+      "title": "Ações da Latigo Biotherapeutics disparam 17% após IPO ampliado",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-latigo-biotherapeutics-disparam-17-apos-ipo-ampliado-93CH-2031841",
+      "time": "2026-08-07T17:16:54Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-05-at-10.25.46.jpeg"
+      "image": null
     },
     {
-      "title": "'Meta é para os fracos', diz Petrobras ao atribuir recorde à operação, não ao Brent",
-      "summary": "Presidente da estatal afirma que petróleo acima de US$ 100 ajudou, mas dizem que recordes de produção e refino foram os principais responsáveis pelo lucro histórico",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/meta-e-para-os-fracos-diz-petrobras-ao-atribuir-recorde-a-operacao-nao-ao-brent/",
-      "time": "2026-08-07T13:31:02Z",
-      "cat": "economia",
+      "title": "Petrobras tem \"margem enorme\" em gás, diz diretor da ANP",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/petrobras-tem-margem-enorme-em-gas-diz-diretor-da-anp-sobre-programa-que-quer-reduzir-precos-2031734",
+      "time": "2026-08-07T17:14:26Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/04/MG_4830.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB0D106_S.jpg"
+    },
+    {
+      "title": "S&P rebaixa nota da Aston Martin por preocupações com recuperação de dívida",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/sp-rebaixa-nota-da-aston-martin-por-preocupacoes-com-recuperacao-de-divida-93CH-2031837",
+      "time": "2026-08-07T17:12:09Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0D0AP_M.jpg"
     },
     {
       "title": "Moody’s revisa perspectiva da CVS Health para positiva em recuperação",
@@ -360,48 +424,8 @@
       "time": "2026-08-07T16:35:59Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
-    },
-    {
-      "title": "Petrobras \"muito provavelmente\" vai superar metas de produção para 2026, diz CEO",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/petrobras-muito-provavelmente-vai-superar-metas-de-producao-para-2026-diz-ceo-2031818",
-      "time": "2026-08-07T16:35:45Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC9A1FG_M.jpg"
-    },
-    {
-      "title": "Por que as ações da Coherent estão disparando hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-coherent-estao-disparando-hoje-93CH-2031812",
-      "time": "2026-08-07T16:19:39Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEBAG0BO_M.jpg"
-    },
-    {
-      "title": "Por que as ações da Arrow Electronics estão caindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-arrow-electronics-estao-caindo-hoje-93CH-2031811",
-      "time": "2026-08-07T16:13:32Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0Q0MJ_M.jpg"
-    },
-    {
-      "title": "Por que as ações da Celsius estão disparando hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-celsius-estao-disparando-hoje-93CH-2031810",
-      "time": "2026-08-07T16:11:14Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0L0PD_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6R0AQ_L.jpg"
     }
   ],
-  "atualizado_em": "07/08/2026 17:23"
+  "atualizado_em": "07/08/2026 18:11"
 }
