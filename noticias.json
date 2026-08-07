@@ -1,88 +1,185 @@
 {
   "headline": {
-    "title": "Após queda da Selic para 14%, ainda vale a pena investir em FIIs?",
-    "summary": "A decisão do Comitê de Política Monetária (Copom) de reduzir a taxa Selic de 14,25% para 14% ao ano reacendeu uma dúvida recorrente entre investidores: ainda compensa comprar fundos imobiliários (FIIs) ou a renda fixa se",
-    "source": "Suno",
-    "url": "https://www.suno.com.br/noticias/apos-queda-da-selic-para-14-ainda-vale-a-pena-investir-em-fiis/",
-    "time": "2026-08-07T20:05:11Z",
-    "cat": "fundos",
-    "tickers": [],
-    "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/153_Detalhe_de_gr_fico_f_1_2026017_173633-1-jpg.webp"
+    "title": "Ibovespa tem nova derrocada com Petrobras (PETR4) e acumula perda de 3% na semana; dólar cai a R$ 5,08",
+    "summary": "Com fluxo reduzido e a temporada de balanços a todo vapor, o Ibovespa (IBOV) engatou mais uma queda na contramão dos índices de Wall Street. Nesta sexta-feira (7), o principal índice da bolsa brasileira terminou as negoc",
+    "source": "Money Times",
+    "url": "https://www.moneytimes.com.br/ibovespa-7-8-26-lils/",
+    "time": "2026-08-07T20:17:14Z",
+    "cat": "economia",
+    "tickers": [
+      "PETR4"
+    ],
+    "image": "https://www.moneytimes.com.br/uploads/2024/05/carteira-recomendada-ibovespa-2-1.jpg"
   },
   "featured": [
     {
-      "title": "Itaú (ITUB4) é a ação mais recomendada para ter na carteira em agosto, segundo 14 analistas; veja ranking",
-      "summary": "A Itaú Unibanco (ITUB4) é a ação mais recomendada para setembro, segundo o levantamento do Money Times. O papel é indicado por 10 dos 14 analistas consultados. O Santander elevou recentemente o preço-alvo das ações ITUB4",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/itau-itub4-e-a-acao-mais-recomendada-para-ter-na-carteira-em-agosto-segundo-14-analistas-veja-ranking-lils/",
-      "time": "2026-08-07T19:37:54Z",
-      "cat": "analise",
+      "title": "Ibovespa cai 1,73% com Petrobras (PETR4), varejo e bancos sob pressão",
+      "summary": "O Ibovespa encerrou esta sexta-feira (7) em forte queda, pressionado pela repercussão dos balanços corporativos, pela leitura cautelosa do comunicado do Banco Central e pela redução do fluxo estrangeiro para a bolsa bras",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-07-agosto-2026-petr4-varejo-mt/",
+      "time": "2026-08-07T20:45:03Z",
+      "cat": "acoes",
       "tickers": [
-        "ITUB4"
+        "PETR4"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/08/itau.png"
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/c05e2f54-ibovespa-800x450-1-2-1-jpg.webp"
     },
     {
-      "title": "Petróleo sobe no dia, mas despenca na semana com expectativa para acordo sobre Ormuz",
-      "summary": "O petróleo Brent para outubro, negociado na Intercontinental Exchange de Londres (ICE), encerrou em alta de 1,29% (US$ 1,06), a US$ 83,55 o barril",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/petroleo-sobe-no-dia-mas-despenca-na-semana-com-expectativa-para-acordo-sobre-ormuz/",
-      "time": "2026-08-07T20:07:17Z",
-      "cat": "internacional",
+      "title": "Após queda da Selic para 14%, ainda vale a pena investir em FIIs?",
+      "summary": "A decisão do Comitê de Política Monetária (Copom) de reduzir a taxa Selic de 14,25% para 14% ao ano reacendeu uma dúvida recorrente entre investidores: ainda compensa comprar fundos imobiliários (FIIs) ou a renda fixa se",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/apos-queda-da-selic-para-14-ainda-vale-a-pena-investir-em-fiis/",
+      "time": "2026-08-07T20:05:11Z",
+      "cat": "fundos",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-07T191614Z_1043438909_RC2R4LAN4FM4_RTRMADP_3_IRAN-CRISIS-MISSILES-HORMUZ.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/153_Detalhe_de_gr_fico_f_1_2026017_173633-1-jpg.webp"
     }
   ],
   "all": [
     {
-      "title": "Petróleo sobe no dia, mas despenca na semana com expectativa para acordo sobre Ormuz",
-      "summary": "O petróleo Brent para outubro, negociado na Intercontinental Exchange de Londres (ICE), encerrou em alta de 1,29% (US$ 1,06), a US$ 83,55 o barril",
+      "title": "Debandada dos “gringos”? Por que Ibovespa caiu 1,7% nesta 6ª e mais de 3% na semana",
+      "summary": "A economia dos EUA cortou 23 mil empregos em julho, o que diminui os planos de alta de juros, mas também estimula ações de IA",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/petroleo-sobe-no-dia-mas-despenca-na-semana-com-expectativa-para-acordo-sobre-ormuz/",
-      "time": "2026-08-07T20:07:17Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-07T191614Z_1043438909_RC2R4LAN4FM4_RTRMADP_3_IRAN-CRISIS-MISSILES-HORMUZ.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Caiado diz que emendas parlamentares são ‘desestruturação do presidencialismo’",
-      "summary": "Ex-governador de Goiás taxou momento atual no Congresso como \"desordem institucional completa\"",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/caiado-diz-que-emendas-parlamentares-sao-desestruturacao-do-presidencialismo/",
-      "time": "2026-08-07T18:46:05Z",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-nova-debandada-de-estrangeiros-o-que-faz-ibovespa-cair-forte-mesmo-apos-dados-dos-eua/",
+      "time": "2026-08-07T20:59:53Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-07-24T100054Z_1654594699_RC28FKA7OAXZ_RTRMADP_3_BRAZIL-ELECTION-BOLSONARO-1.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/07/acoes-mercado-bolsa-baixa-queda-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Vendaval: prefeitura do Rio e governo do Estado recomendam antecipação de expediente",
-      "summary": "A Defesa Civil emitiu um \"alerta extremo\" no início da tarde desta sexta-feira",
+      "title": "Renner (LREN3) corta guidance após 2T fraco, preocupa com vendas e ações desabam 8%",
+      "summary": "Renner reduziu sua projeção de crescimento da receita de varejo para 2026 para uma faixa entre 4% e 8%, ante a estimativa anterior de 9% a 13%",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/brasil/vendaval-prefeitura-do-rio-e-governo-do-estado-recomendam-antecipacao-de-expediente/",
-      "time": "2026-08-07T18:40:52Z",
+      "url": "https://www.infomoney.com.br/mercados/renner-lren3-corta-guidance-apos-2t-fraco-preocupa-com-vendas-e-acoes-desabam/",
+      "time": "2026-08-07T20:46:40Z",
+      "cat": "acoes",
+      "tickers": [
+        "LREN3"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2021/08/lojas-renner.jpg?fit=300%2C182&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Fleury (FLRY3): ação dispara quase 10% após resultados do 2T; o que animou tanto?",
+      "summary": "Grupo entregou mais um trimestre \"muito forte\", com destaque para o crescimento de receita acima do esperado e manutenção da disciplina operacional",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/fleury-flry3-acao-dispara-mais-de-10-apos-resultados-do-2t-o-que-animou-tanto/",
+      "time": "2026-08-07T20:45:42Z",
+      "cat": "acoes",
+      "tickers": [
+        "FLRY3"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/Fleury_medicina_saude_red.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Cruzeiro do Sul cai após duplo rebaixamento; Cogna sobe com recomendação de compra",
+      "summary": "Morgan Stanley apresentou visões distintas sobre as empresas de educação da Bolsa",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/cruzeiro-do-sul-cai-apos-duplo-rebaixamento-cogna-sobe-com-recomendacao-de-compra/",
+      "time": "2026-08-07T20:45:05Z",
+      "cat": "analise",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/10/image_6483441-1.jpg?fit=300%2C225&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Alpargatas (ALPA4): ação salta mais de 10% após resultados do 2T; veja destaques",
+      "summary": "O conjunto de resultados foi sólido, mas o principal destaque foi a aceleração do crescimento do sell-out (venda final)",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/alpargatas-alpa4-acao-salta-para-maxima-de-5-meses-apos-resultados-veja-destaques/",
+      "time": "2026-08-07T20:42:38Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/img_9642.jpeg?fit=300%2C225&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/havaianas-alpargatas-chinelo-calcados-1.jpg?fit=300%2C225&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Trump segue com tentativa de demitir diretora do Fed após decisão da Suprema Corte",
-      "summary": "Em junho, Suprema Corte negou ao presidente a demissão da diretora",
+      "title": "MGLU3: ações do Magalu caem quase 4% com 2T fraco, mas com atenção à rentabilidade",
+      "summary": "O principal ponto de pressão continuou sendo o canal online, cujo GMV (volume bruto de mercadorias) caiu cerca de 12%, com retrações tanto no modelo 1P quanto no marketplace (3P).",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/trump-segue-com-tentativa-de-demitir-diretora-do-fed-apos-decisao-da-suprema-corte/",
-      "time": "2026-08-07T18:24:40Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/trump-lisa-cook.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "url": "https://www.infomoney.com.br/mercados/mglu3-acoes-do-magalu-desabam-com-resultados-fracos-mas-com-atencao-a-rentabilidade/",
+      "time": "2026-08-07T20:41:02Z",
+      "cat": "acoes",
+      "tickers": [
+        "MGLU3"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2023/07/CDLouveira036Magalu.jpg-Credito_-Germano-Luders.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Petrobras: bons 2T e dividendos, mas por que ações passaram a cair mais de 2%?",
-      "summary": "Mesmo com números fortes, ações registram uma sessão de queda",
+      "title": "Energisa (ENGI11) despenca 5% após balanço do 2T: o que decepcionou o mercado?",
+      "summary": "Energisa reverteu lucro e registrou prejuízo líquido consolidado de R$ 40 mi no 2º tri",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/energisa-engi11-despenca-5-apos-balanco-do-2t-o-que-decepcionou-o-mercado/",
+      "time": "2026-08-07T20:39:34Z",
+      "cat": "acoes",
+      "tickers": [
+        "ENGI11"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2022/08/energisa-engi11.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Petrobras: bons 2T e dividendos, mas por que ações fecharam em queda de 3%?",
+      "summary": "Mesmo com números fortes, ações registraram uma sessão de forte queda",
       "source": "InfoMoney",
       "url": "https://www.infomoney.com.br/mercados/petrobras-acoes-chegam-a-subir-cerca-de-2-apos-bons-2t-e-dividendos-mas-zeram-o-que-aconteceu/",
-      "time": "2026-08-07T17:24:16Z",
+      "time": "2026-08-07T20:37:06Z",
       "cat": "fundos",
       "tickers": [],
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/75860444-01-11-2014-plataforma-da-petrobras-em-atuacao-no-campo-de-lula-no-pre-sal-navio-de-produc-2-.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Dólar hoje cai 0,41%, a R$ 5,08, seguindo exterior, após payroll abaixo do previsto",
+      "summary": "EUA perdem 23 mil vagas de trabalho em julho, ante projeção de criação",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-07082026/",
+      "time": "2026-08-07T20:29:51Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/blogging-guide-K5DY18hy5JQ-unsplash_red.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Essa construtora derreteu na bolsa — e agora quer recomprar 10% dos papéis em circulação",
+      "summary": "A Lavvi (LAVV3) irá recomprar até 7,4 milhões de ações, ou até 10% das ações em circulação, mostra documento enviado ao mercado nesta sexta-feira (7). Segundo o comunicado, o programa terá prazo de vigência de 18 meses, ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/essa-construtora-derreteu-na-bolsa-e-agora-quer-recomprar-10-dos-papeis-em-circulacao/",
+      "time": "2026-08-07T20:52:01Z",
+      "cat": "acoes",
+      "tickers": [
+        "LAVV3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2021/06/lavvi-versace.jpg"
+    },
+    {
+      "title": "Ibovespa tem nova derrocada com Petrobras (PETR4) e acumula perda de 3% na semana; dólar cai a R$ 5,08",
+      "summary": "Com fluxo reduzido e a temporada de balanços a todo vapor, o Ibovespa (IBOV) engatou mais uma queda na contramão dos índices de Wall Street. Nesta sexta-feira (7), o principal índice da bolsa brasileira terminou as negoc",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ibovespa-7-8-26-lils/",
+      "time": "2026-08-07T20:17:14Z",
+      "cat": "economia",
+      "tickers": [
+        "PETR4"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2024/05/carteira-recomendada-ibovespa-2-1.jpg"
+    },
+    {
+      "title": "Wall Street avança com payroll fraco; Nasdaq salta 5% e tem melhor semana desde abril",
+      "summary": "Os índices de Wall Street encerram a semana em alta nesta sexta-feira (7) após o dado do payroll contribuir para a perspectiva de um Federal Reserve (Fed, o banco central dos Estados Unidos) menos agressivo na política m",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/wall-street-7-6-26-apsa/",
+      "time": "2026-08-07T20:13:59Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/wall-street-nasdaq-bolsas-americanas.jpg"
+    },
+    {
+      "title": "Vacas sagradas? Petrobras (PETR4), Banco do Brasil (BBAS3) e Caixa ficaram de fora de privatizações, diz Caiado",
+      "summary": "O candidato do PSD à Presidência da República, Ronaldo Caiado, afirmou que não privatizaria a Petrobras (PETR4), o Banco do Brasil (BBSA3) e a Caixa Econômica Federal, mas admitiu a privatização de segmentos do gás, se e",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/vacas-sagradas-petrobras-petr4-banco-do-brasil-bbas3-e-caixa-ficaram-de-fora-de-privatizacao-diz-caiado-rnda/",
+      "time": "2026-08-07T20:13:35Z",
+      "cat": "acoes",
+      "tickers": [
+        "PETR4",
+        "BBAS3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/06/gaffff-ronaldo-caiado-agro-eleicoes.jpg"
     },
     {
       "title": "Dólar cai a R$ 5,08 com dados de emprego mais fracos nos EUA",
@@ -117,26 +214,28 @@
       "image": "https://www.moneytimes.com.br/uploads/2026/08/itau.png"
     },
     {
-      "title": "Petróleo recua 5% na semana com otimismo de acordo para reabrir Ormuz",
-      "summary": "Os preços do petróleo avançaram nesta sexta-feira (7) após uma sessão volátil. Na semana, porém, a commodity teve perdas de mais de 5% com os investidores otimistas de que um acordo para a reabertura do Estreito de Ormuz",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/petroleo-7-8-26-apsa/",
-      "time": "2026-08-07T19:27:24Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/petroleo.jpg"
-    },
-    {
-      "title": "Dividendos e crescimento: XP bate o martelo e elege o melhor banco da bolsa",
-      "summary": "Se há um setor de que o investidor gosta é o de bancos. Resilientes e com histórico de lucros consistentes, costumam distribuir bons dividendos. Para a XP, se esse é o objetivo, a escolha certa é o Itaú Unibanco (ITUB4).",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/dividendos-e-crescimento-xp-bate-o-martelo-e-elege-o-melhor-banco-da-bolsa/",
-      "time": "2026-08-07T18:49:22Z",
+      "title": "GGRC11 movimenta R$ 307 milhões em julho; liquidez é a maior da história doFII",
+      "summary": "O fundo imobiliário GGRC11 registrou em julho o maior volume de negociações de sua história no mercado secundário. Ao longo do mês, foram movimentados aproximadamente R$ 307,3 milhões em cotas, sinalizando aumento de liq",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ggrc11-movimenta-r-307-milhoes-em-julho-liquidez-e-a-maior-da-historia-dofii/",
+      "time": "2026-08-07T20:45:11Z",
       "cat": "fundos",
       "tickers": [
-        "ITUB4"
+        "GGRC11"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2024/04/bancos-xp-investimentos.jpg"
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/close-de-relat-rio-f-1_06.webp"
+    },
+    {
+      "title": "Ibovespa cai 1,73% com Petrobras (PETR4), varejo e bancos sob pressão",
+      "summary": "O Ibovespa encerrou esta sexta-feira (7) em forte queda, pressionado pela repercussão dos balanços corporativos, pela leitura cautelosa do comunicado do Banco Central e pela redução do fluxo estrangeiro para a bolsa bras",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-07-agosto-2026-petr4-varejo-mt/",
+      "time": "2026-08-07T20:45:03Z",
+      "cat": "acoes",
+      "tickers": [
+        "PETR4"
+      ],
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/c05e2f54-ibovespa-800x450-1-2-1-jpg.webp"
     },
     {
       "title": "Após queda da Selic para 14%, ainda vale a pena investir em FIIs?",
@@ -205,38 +304,34 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/33413_B081795909272785-1-2.jpg"
     },
     {
-      "title": "FII divulga dividendos com retorno de 1,27% ao mês",
-      "summary": "Os cotistas do fundo imobiliário RECT11 vão receber R$ 0,45 por cota em dividendos referentes a julho de 2026. O pagamento dos dividendos do RECT11 segue o cronograma do fundo para o período, mantendo as condições inform",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/dividendos-do-rect11-julho-2026/",
-      "time": "2026-08-07T14:05:10Z",
-      "cat": "fundos",
+      "title": "Após apagão em São Paulo, alunos criam projeto para tornar escola autossuficiente em energia solar",
+      "summary": "Luana Pertel e Tiago Lanfranchi, do The British College of Brazil, criaram o PowerPals",
+      "source": "Exame",
+      "url": "https://exame.com/carreira/apos-apagao-em-sao-paulo-alunos-criam-projeto-para-tornar-escola-autossuficiente-em-energia-solar/",
+      "time": "2026-08-07T18:00:21Z",
+      "cat": "economia",
       "tickers": [],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/120_Close_de_relat_rio_f_1_2026017_172843-jpg.webp"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/08/petzao.jpg"
     },
     {
-      "title": "Confira os FIIs que vão pagar dividendos nesta sexta-feira (7)",
-      "summary": "Quinze fundos imobiliários creditam rendimentos nesta sexta-feira aos cotistas. Entre os destaques, o RZTR11 pagará R$ 0,90 por cota e o HSML11 distribuirá R$ 0,75 no mesmo dia. Os investidores recebem os dividendos hoje",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/dividendos-hoje-fundos-imobiliarios-lista/",
-      "time": "2026-08-07T13:45:07Z",
-      "cat": "fundos",
-      "tickers": [
-        "HSML11"
-      ],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
+      "title": "Ibovespa cai com blue chips e balanços e perde 3,08% na semana; dólar vai a R$ 5,08",
+      "summary": "A moeda americana caiu 0,46%, cotado a R$ 5,084, nesta sexta, 7, mas dubiu 0,27% na semana",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/ibovespa-cai-com-blue-chips-e-balancos-e-perde-308-na-semana-dolar-vai-a-r-508/",
+      "time": "2026-08-07T17:53:39Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2020/11/DSC2655bx.jpg"
     },
     {
-      "title": "Petrobras (PETR4) anuncia proventos bilionários; veja valor por ação",
-      "summary": "A Petrobras (PETR4) anunciou nesta quinta-feira (6) o pagamento de R$ 17,4 bilhões em dividendos e juros sobre capital próprio (JCP) intercalares aos acionistas, como antecipação da remuneração referente ao exercício de ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/petrobras-petr4-dividendos-jcp-r-17-bilhoes-2026-go/",
-      "time": "2026-08-07T12:25:08Z",
-      "cat": "acoes",
-      "tickers": [
-        "PETR4"
-      ],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/7dfa4d8e-zachary-theodore-guadzpf9pdi-unsplash-jpg.webp"
+      "title": "Exportações para os EUA caem 12% no semestre: o que explica esse movimento?",
+      "summary": "Enquanto isso, as vendas para a China cresceram quase 20%, totalizando US$ 69,3 bilhões. A EXAME conversou com especialistas para entender o que está por trás desses dados",
+      "source": "Exame",
+      "url": "https://exame.com/economia/exportacoes-para-os-eua-caem-12-no-semestre-o-que-explica-esse-movimento/",
+      "time": "2026-08-07T17:47:15Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2019/10/balanc3a7a-comercial.jpg"
     },
     {
       "title": "Redução de corridas faz receita da Fórmula 1 encolher no 1º semestre",
@@ -249,55 +344,95 @@
       "image": "https://classic.exame.com/wp-content/uploads/2025/11/GettyImages-2245658686.jpg"
     },
     {
-      "title": "Vini Jr. deve igualar marca de Cristiano Ronaldo após renovar com o Real Madrid",
-      "summary": "Brasileiro disputará a nona temporada pelo clube espanhol em 2026/27, mesma marca alcançada pelo astro português durante sua passagem por Madri",
-      "source": "Exame",
-      "url": "https://exame.com/esporte/vini-jr-deve-igualar-marca-de-cristiano-ronaldo-apos-renovar-com-o-real-madrid/",
-      "time": "2026-08-07T16:03:20Z",
+      "title": "Formlabs estuda IPO para captar US$ 500 milhões, diz Bloomberg",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/formlabs-estuda-ipo-para-captar-us-500-milhoes-diz-bloomberg-93CH-2031954",
+      "time": "2026-08-07T21:00:02Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6U08A_M.jpg"
+    },
+    {
+      "title": "Petrobras estuda elevar capacidade de produção de diesel em quase 80% até 2031",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/petrobras-estuda-elevar-capacidade-de-producao-de-diesel-em-quase-80-ate-2031-2031941",
+      "time": "2026-08-07T20:36:19Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEA7R0SO_M.jpg"
+    },
+    {
+      "title": "Produção da Petrobras já oscila em patamar próximo de pico previsto para 2028, indica CEO",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/petrobras-muito-provavelmente-vai-superar-metas-de-producao-para-2026-diz-ceo-2031818",
+      "time": "2026-08-07T20:35:33Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC9A1FG_M.jpg"
+    },
+    {
+      "title": "E.U.A. - Ações fecharam o pregão em alta e o Índice Dow Jones Industrial Average avançou 0,28%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/eua--acoes-fecharam-o-pregao-em-alta-e-o-indice-dow-jones-industrial-average-avancou-028-2031936",
+      "time": "2026-08-07T20:31:29Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEM5L0YH_1200_L.jpg"
+    },
+    {
+      "title": "Canadá - Ações fecharam o pregão em alta e o Índice S&P/TSX avançou 0,68%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/canada--acoes-fecharam-o-pregao-em-alta-e-o-indice-sptsx-avancou-068-2031935",
+      "time": "2026-08-07T20:30:45Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/moved_LYNXNPEL4R0WG_L.jpg"
+    },
+    {
+      "title": "Brasil - Ações fecharam o pregão em queda e o Índice Bovespa recuou 1,73%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/brasil--acoes-fecharam-o-pregao-em-queda-e-o-indice-bovespa-recuou-173-2031933",
+      "time": "2026-08-07T20:30:20Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/moved_LYNXMPEHB50GE_L.jpg"
+    },
+    {
+      "title": "Ações da Ashland disparam após relatos de interesse em aquisição",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-ashland-disparam-apos-relatos-de-interesse-em-aquisicao-93CH-2031928",
+      "time": "2026-08-07T20:23:22Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB7Q0U9_M.jpg"
+    },
+    {
+      "title": "S&P tem fechamento recorde, conforme relatório fraco sobre empregos ameniza preocupações com alta dos juros",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/sp-tem-fechamento-recorde-conforme-relatorio-fraco-sobre-empregos-ameniza-preocupacoes-com-alta-dos-juros-2031925",
+      "time": "2026-08-07T20:21:26Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2024/06/CEO48_ARTIGO_Marcos2.jpg"
+      "image": "https://i-invdn-com.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
     },
     {
-      "title": "Dutch Bros lidera escolhas do setor de café da TD Cowen com preço-alvo de US$ 73",
+      "title": "Ibovespa fecha em queda com cena corporativa em foco",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/dutch-bros-lidera-escolhas-do-setor-de-cafe-da-td-cowen-com-precoalvo-de-us-73-93CH-2031898",
-      "time": "2026-08-07T19:50:21Z",
-      "cat": "analise",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0E0NG_M.jpg"
-    },
-    {
-      "title": "Por que as ações da Palantir estão disparando hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-palantir-estao-disparando-hoje-93CH-2031877",
-      "time": "2026-08-07T19:08:45Z",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-fecha-em-queda-com-cena-corporativa-em-foco-2031910",
+      "time": "2026-08-07T20:07:11Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/PalantirTechnologies_800x533_L_1599055554.jpg"
-    },
-    {
-      "title": "Ação de materiais selecionada por IA dispara +22% após forte balanço",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/alta-de-34-no-mes-acao-de-materiais-selecionada-por-ia-dispara-22-apos-resultados-solidos-2030641",
-      "time": "2026-08-07T18:17:41Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXMPEM451H2_1200_L.jpg"
-    },
-    {
-      "title": "Negociação de opções da Hertz dispara para mais de 587.000 contratos",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/negociacao-de-opcoes-da-hertz-dispara-para-mais-de-587000-contratos-93CH-2031857",
-      "time": "2026-08-07T18:00:19Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPECA71A8_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/moved_LYNXNPEF081L1_L.jpg"
     }
   ],
-  "atualizado_em": "07/08/2026 20:08"
+  "atualizado_em": "07/08/2026 21:10"
 }
