@@ -13,45 +13,37 @@
   },
   "featured": [
     {
-      "title": "Mercado de trabalho fraco nos EUA muda o jogo para o Fed? Economistas se dividem sobre futuro dos juros",
-      "summary": "O payroll de julho, que mostrou a perda de 23 mil vagas de emprego nos Estados Unidos, abaixo da expectativa de criação de 80 mil postos, reforçou a percepção de desaceleração do mercado de trabalho americano, mas não fo",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/mercado-de-trabalho-fraco-nos-eua-muda-o-jogo-para-o-fed-economistas-se-dividem-sobre-juros-jcav/",
-      "time": "2026-08-07T14:26:31Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/11/acoes-internacionais-eua-carteira-recomendada-1.jpg"
-    },
-    {
       "title": "Ibovespa Hoje Ao Vivo: Bolsa cai mais de 1% com pressão de PETR4 e bancos",
       "summary": "Bolsas dos EUA avançam com repercussão dos dados do payroll",
       "source": "InfoMoney",
       "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-07082026/",
-      "time": "2026-08-07T15:11:36Z",
+      "time": "2026-08-07T16:16:35Z",
       "cat": "acoes",
       "tickers": [
         "PETR4"
       ],
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-12-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Petrobras (PETR4): Dividendo extraordinário é ‘muito pouco provável’ em 2026, diz CFO",
+      "summary": "Apesar do lucro recorde e da forte geração de caixa no segundo trimestre de 2026 (2T26), a Petrobras (PETR4) considera muito pouco provável o pagamento de dividendos extraordinários neste ano. A sinalização foi dada pelo",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/petrobras-petr4-dividendo-extraordinario-e-muito-pouco-provavel-em-2026-diz-cfo-vtra/",
+      "time": "2026-08-07T16:12:28Z",
+      "cat": "fundos",
+      "tickers": [
+        "PETR4"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/08/petrobras-petr.jpg"
     }
   ],
   "all": [
     {
-      "title": "Nova debandada de estrangeiros? O que faz Ibovespa cair 1,5% mesmo após dados dos EUA",
-      "summary": "A economia dos EUA cortou 23 mil empregos em julho, o que diminui os planos de alta de juros, mas também estimula ações de IA",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-nova-debandada-de-estrangeiros-o-que-faz-ibovespa-cair-forte-mesmo-apos-dados-dos-eua/",
-      "time": "2026-08-07T15:18:56Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/07/acoes-mercado-bolsa-baixa-queda-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
       "title": "Ibovespa Hoje Ao Vivo: Bolsa cai mais de 1% com pressão de PETR4 e bancos",
       "summary": "Bolsas dos EUA avançam com repercussão dos dados do payroll",
       "source": "InfoMoney",
       "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-07082026/",
-      "time": "2026-08-07T15:11:36Z",
+      "time": "2026-08-07T16:16:35Z",
       "cat": "acoes",
       "tickers": [
         "PETR4"
@@ -59,54 +51,92 @@
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-12-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Alpargatas (ALPA4): ação salta para máxima de 5 meses após resultados; veja destaques",
-      "summary": "O conjunto de resultados foi sólido, mas o principal destaque foi a aceleração do crescimento do sell-out (venda final)",
+      "title": "Dividendos dos FIIs: GARE11, HSML11 e VGHF11 realizam pagamentos hoje; veja valores",
+      "summary": "Investidores que mantinham cotas até 31 de julho recebem hoje os dividendos de diversos FIIs",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/alpargatas-alpa4-acao-salta-para-maxima-de-5-meses-apos-resultados-veja-destaques/",
-      "time": "2026-08-07T14:56:41Z",
+      "url": "https://www.infomoney.com.br/onde-investir/dividendos-dos-fiis-gare11-hsml11-e-vghf11-realizam-pagamentos-hoje-veja-valores/",
+      "time": "2026-08-07T16:14:38Z",
+      "cat": "fundos",
+      "tickers": [
+        "HSML11"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/money-5530537_1920.png?fit=300%2C215&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Por que o resultado da Petrobras foi bom, mas poderia ter sido ainda melhor?",
+      "summary": "Segundo a XP, os preços domésticos da gasolina, do diesel e do GLP permaneceram abaixo da paridade internacional na maior parte do trimestre",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/por-que-o-resultado-da-petrobras-foi-bom-mas-poderia-ter-sido-ainda-melhor/",
+      "time": "2026-08-07T16:14:28Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/havaianas-alpargatas-chinelo-calcados-1.jpg?fit=300%2C225&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-19T211424Z_1_LYNXMPEM2I1DP_RTROPTP_4_PETROBRAS-BRAZIL.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Cruzeiro do Sul cai após duplo rebaixamento; Cogna sobe com recomendação de compra",
-      "summary": "Morgan Stanley apresentou visões distintas sobre as empresas de educação da Bolsa",
+      "title": "Mercado de trabalho menos aquecido nos EUA diminui pressão sobre alta de juros",
+      "summary": "O fechamento de 23 mil vagas no Payroll dos EUA reduz a pressão sobre os juros do Fed, avaliam economistas; agora, consolida-se a visão de que os juros devem ser mantidos",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/cruzeiro-do-sul-cai-apos-duplo-rebaixamento-cogna-sobe-com-recomendacao-de-compra/",
-      "time": "2026-08-07T14:22:18Z",
-      "cat": "analise",
+      "url": "https://www.infomoney.com.br/mercados/payroll-eua-fechamento-vagas-juros-fed/",
+      "time": "2026-08-07T16:03:28Z",
+      "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/10/image_6483441-1.jpg?fit=300%2C225&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Payroll.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Renda Fixa Hoje: as taxas de CDBs, LCIs e LCAs na XP nesta sexta-feira (7)",
-      "summary": "Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa",
+      "title": "PETR4: Produção está acima das projeções para 2026, diz CEO",
+      "summary": "Durante a teleconferência sobre os resultados, a executiva destacou que a melhora no desempenho também reflete avanços na gestão dos ativos da companhia",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-07082026/",
-      "time": "2026-08-07T14:13:35Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/renda-fixa-hoje-006.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "url": "https://www.infomoney.com.br/mercados/petr4-producao-esta-acima-das-projecoes-para-2026-diz-ceo/",
+      "time": "2026-08-07T16:01:56Z",
+      "cat": "acoes",
+      "tickers": [
+        "PETR4"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-15T191150Z_1_LYNXMPEM4E1EG_RTROPTP_3_BRAZIL-PETROBRAS.jpg?fit=300%2C172&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Petrobras: ações chegam a subir cerca de 2% após bons 2T e dividendos, mas zeram",
-      "summary": "Mesmo com números fortes, ações amenizaram ganhos",
+      "title": "Eleições 2026: TSE cria órgão para monitorar uso de IA e fake news",
+      "summary": "O conselho será composto por especialistas de áreas consideradas estratégicas e vai assessorar o presidente da Corte, Kássio Nunes",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/petrobras-acoes-chegam-a-subir-cerca-de-2-apos-bons-2t-e-dividendos-mas-zeram-o-que-aconteceu/",
-      "time": "2026-08-07T14:05:32Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/75860444-01-11-2014-plataforma-da-petrobras-em-atuacao-no-campo-de-lula-no-pre-sal-navio-de-produc-2-.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "SK Hynix anuncia investimento de US$ 38 bilhões em novas fábricas na Coreia do Sul",
-      "summary": "A decisão dá sequência à estratégia de investimento de médio e longo prazo anunciada pela empresa em junho",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/sk-hynix-anuncia-investimento-de-us-38-bilhoes-em-novas-fabricas-na-coreia-do-sul/",
-      "time": "2026-08-07T14:02:15Z",
+      "url": "https://www.infomoney.com.br/politica/eleicoes-2026-tse-cria-orgao-para-monitorar-uso-de-ia-e-fake-news/",
+      "time": "2026-08-07T15:56:10Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-22T104045Z_1_LYNXMPEM5L0O6_RTROPTP_4_TAIWAN-COMPUTEX-NVIDIA-SOUTHKOREA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/tse.webp?fit=300%2C179&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Energisa (ENGI11) despenca 5% após balanço do 2T: o que decepcionou o mercado?",
+      "summary": "Energisa reverteu lucro e registrou prejuízo líquido consolidado de R$ 40 mi no 2º tri",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/energisa-engi11-despenca-5-apos-balanco-do-2t-o-que-decepcionou-o-mercado/",
+      "time": "2026-08-07T15:53:33Z",
+      "cat": "acoes",
+      "tickers": [
+        "ENGI11"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2022/08/energisa-engi11.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Petrobras (PETR4): Dividendo extraordinário é ‘muito pouco provável’ em 2026, diz CFO",
+      "summary": "Apesar do lucro recorde e da forte geração de caixa no segundo trimestre de 2026 (2T26), a Petrobras (PETR4) considera muito pouco provável o pagamento de dividendos extraordinários neste ano. A sinalização foi dada pelo",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/petrobras-petr4-dividendo-extraordinario-e-muito-pouco-provavel-em-2026-diz-cfo-vtra/",
+      "time": "2026-08-07T16:12:28Z",
+      "cat": "fundos",
+      "tickers": [
+        "PETR4"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/08/petrobras-petr.jpg"
+    },
+    {
+      "title": "Ações da Airbnb têm maior cotação em quatro anos, com investidores comemorando aumento da previsão de receita",
+      "summary": "As ações da Airbnb subiram 14% nesta sexta-feira, atingindo a maior cotação em mais de quatro anos, à medida que a revisão para cima da previsão de receita anual da empresa de aluguel por temporada amenizou as preocupaçõ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/acoes-da-airbnb-tem-maior-cotacao-em-quatro-anos-com-investidores-comemorando-aumento-da-previsao-de-receita/",
+      "time": "2026-08-07T15:41:57Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/08/2026-08-07t153639z-1-lynxmpem7618q-rtroptp-4-airbnb-results-scaled.jpg"
     },
     {
       "title": "O que surpreendeu tanto no balanço do Fleury (FLRY3)? Ação chega a saltar 14% nesta sexta (7)",
@@ -175,28 +205,6 @@
         "PETR4"
       ],
       "image": "https://www.moneytimes.com.br/uploads/2025/02/dividendos-petrobras.jpg"
-    },
-    {
-      "title": "Mercado de trabalho fraco nos EUA muda o jogo para o Fed? Economistas se dividem sobre futuro dos juros",
-      "summary": "O payroll de julho, que mostrou a perda de 23 mil vagas de emprego nos Estados Unidos, abaixo da expectativa de criação de 80 mil postos, reforçou a percepção de desaceleração do mercado de trabalho americano, mas não fo",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/mercado-de-trabalho-fraco-nos-eua-muda-o-jogo-para-o-fed-economistas-se-dividem-sobre-juros-jcav/",
-      "time": "2026-08-07T14:26:31Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/11/acoes-internacionais-eua-carteira-recomendada-1.jpg"
-    },
-    {
-      "title": "JBS (JBSS32): Expansão na Ásia pode criar US$ 4 bilhões em valor, estima JP Morgan",
-      "summary": "A parceria da JBS (JBSS32) com a Danantara Investment Management (DIM), braço de investimentos do fundo soberano da Indonésia, pode resultar em uma criação de valor de aproximadamente US$ 4 bilhões para a companhia, segu",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/jbs-jbss32-expansao-na-asia-pode-criar-us-4-bilhoes-em-valor-estima-jp-morgan-pads/",
-      "time": "2026-08-07T14:25:38Z",
-      "cat": "acoes",
-      "tickers": [
-        "JBSS32"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/11/jbs-jbss3-3-1.jpg"
     },
     {
       "title": "Por que as ações da Lojas Renner (LREN3) estão caindo mais de 12%? Entenda",
@@ -301,6 +309,26 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/close-de-gr-fico-fin-1_03.webp"
     },
     {
+      "title": "Fleury sobe após balanço e BTG eleva preço-alvo, mas analistas veem cautela",
+      "summary": "Companhia supera expectativas no segundo trimestre e anuncia R$ 217,8 milhões em JCP",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/fleury-sobe-apos-balanco-e-btg-eleva-preco-alvo-mas-analistas-veem-cautela/",
+      "time": "2026-08-07T12:40:02Z",
+      "cat": "analise",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/05/MG_5710.jpg"
+    },
+    {
+      "title": "Payroll surpreende para baixo e muda apostas sobre os juros nos EUA",
+      "summary": "Relatório mostrou perda de 23 mil vagas em julho e revisões negativas de 103 mil empregos, reforçando a desaceleração do mercado de trabalho americano",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/payroll-surpreende-para-baixo-e-muda-apostas-sobre-os-juros-nos-eua/",
+      "time": "2026-08-07T12:26:28Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2023/08/federal-reserve-estados-unidos-pequenas-medias-empresas-e1695231735349.jpg"
+    },
+    {
       "title": "Quanto eu teria hoje se tivesse investido R$ 10 mil em ações da Vale há 5 anos?",
       "summary": "Preço do minério, geração de caixa, dividendos e mudanças na governança ajudaram a impulsionar as ações da Vale no longo prazo",
       "source": "Exame",
@@ -311,117 +339,85 @@
       "image": "https://classic.exame.com/wp-content/uploads/2026/04/espaco-memoria-marca-vale-new.jpg"
     },
     {
-      "title": "Vale-alimentação, seguro de vida e folga no aniversário: Getnet abre 15 novas vagas de estágio",
-      "summary": "São 15 vagas em São Paulo e Porto Alegre, com modelo híbrido e processo seletivo que já recebeu mais de 3 mil inscrições no ciclo anterior",
-      "source": "Exame",
-      "url": "https://exame.com/carreira/vale-alimentacao-seguro-de-vida-e-folga-no-aniversario-getnet-abre-vagas-de-estagio/",
-      "time": "2026-08-07T12:00:47Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/03/Estagio-getnet.png"
-    },
-    {
-      "title": "Senado dos EUA adia votação da regulação de criptoativos para setembro",
-      "summary": "O líder da maioria no Senado, John Thune, confirmou que a proposta será analisada apenas em setembro, adiando mais uma etapa do processo regulatório",
-      "source": "Exame",
-      "url": "https://exame.com/future-of-money/senado-dos-eua-adia-votacao-da-regulacao-de-criptoativos-para-setembro/",
-      "time": "2026-08-07T11:56:11Z",
-      "cat": "cripto",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/09/eua_capitol.jpg"
-    },
-    {
-      "title": "Petrobras tem \"margem enorme\" em gás, diz diretor da ANP sobre programa que quer reduzir preços",
+      "title": "Alemanha - Ações fecharam o pregão em alta e o Índice DAX avançou 0,82%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/petrobras-tem-margem-enorme-em-gas-diz-diretor-da-anp-sobre-programa-que-quer-reduzir-precos-2031734",
-      "time": "2026-08-07T14:56:44Z",
+      "url": "https://br.investing.com/news/stock-market-news/alemanha--acoes-fecharam-o-pregao-em-alta-e-o-indice-dax-avancou-082-2031799",
+      "time": "2026-08-07T16:06:52Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB0D106_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPED0C0WP_M.jpg"
     },
     {
-      "title": "Noruega - Ações fecharam o pregão em alta e o Índice Oslo OBX avançou 0,22%",
+      "title": "França - Ações fecharam o pregão em alta e o Índice CAC 40 avançou 0,17%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/noruega--acoes-fecharam-o-pregao-em-alta-e-o-indice-oslo-obx-avancou-022-2031748",
-      "time": "2026-08-07T14:55:45Z",
+      "url": "https://br.investing.com/news/stock-market-news/franca--acoes-fecharam-o-pregao-em-alta-e-o-indice-cac-40-avancou-017-2031798",
+      "time": "2026-08-07T16:06:02Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEM5H1MW_1200_L.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEA840IW_M.jpg"
     },
     {
-      "title": "Israel - Ações fecharam o pregão em alta e o Índice TA 35 avançou 0,98%",
+      "title": "Morgan Stanley monitora prescrições do mercado farmacêutico dos EUA para a semana encerrada em 31 de julho",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/israel--acoes-fecharam-o-pregao-em-alta-e-o-indice-ta-35-avancou-098-2031747",
-      "time": "2026-08-07T14:55:19Z",
+      "url": "https://br.investing.com/news/stock-market-news/morgan-stanley-monitora-prescricoes-do-mercado-farmaceutico-dos-eua-para-a-semana-encerrada-em-31-de-julho-93CH-2031796",
+      "time": "2026-08-07T16:05:34Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEE0D09K_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC5N1DW_M.jpg"
     },
     {
-      "title": "Grécia - Ações fecharam o pregão em alta e o Índice Athens General Composite avançou 0,25%",
+      "title": "Bélgica - Ações fecharam o pregão em alta e o Índice BEL 20 avançou 0,30%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/grecia--acoes-fecharam-o-pregao-em-alta-e-o-indice-athens-general-composite-avancou-025-2031745",
-      "time": "2026-08-07T14:50:21Z",
+      "url": "https://br.investing.com/news/stock-market-news/belgica--acoes-fecharam-o-pregao-em-alta-e-o-indice-bel-20-avancou-030-2031795",
+      "time": "2026-08-07T16:05:22Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEAB80S6_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEM4J18N_1200_L.jpg"
     },
     {
-      "title": "Ação do Fleury dispara mais de 14% após resultado acima do esperado; BTG eleva preço-alvo",
+      "title": "Suécia - Ações fecharam o pregão em queda e o Índice OMX Stockholm 30 recuou 0,32%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acao-do-fleury-dispara-mais-de-14-apos-resultado-acima-do-esperado-btg-eleva-precoalvo-2031729",
-      "time": "2026-08-07T14:21:32Z",
-      "cat": "analise",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB0508S_M.jpg"
-    },
-    {
-      "title": "FLRY3: Fleury dispara 12% após lucro 46% acima: BBA mantém compra, XP fica neutro",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/flry3-fleury-dispara-12-apos-lucro-46-acima-bba-mantem-compra-xp-fica-neutro-2031726",
-      "time": "2026-08-07T14:21:04Z",
-      "cat": "internacional",
-      "tickers": [
-        "FLRY3"
-      ],
-      "image": "https://content-media.investing.com/news/Hospital_800x533_L_1462797073.jpg"
-    },
-    {
-      "title": "Negociação de opções da Ardelyx dispara enquanto ação cai 18%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/negociacao-de-opcoes-da-ardelyx-dispara-enquanto-acao-cai-18-93CH-2031722",
-      "time": "2026-08-07T14:19:22Z",
+      "url": "https://br.investing.com/news/stock-market-news/suecia--acoes-fecharam-o-pregao-em-queda-e-o-indice-omx-stockholm-30-recuou-032-2031790",
+      "time": "2026-08-07T16:00:49Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB9M0BY_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEAAA11E_M.jpg"
     },
     {
-      "title": "Ações da Qxo podem oscilar 7,9% com resultados em 14 de agosto",
+      "title": "Finlândia - Ações fecharam o pregão em queda e o Índice OMX Helsinki 25 recuou 0,01%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-qxo-podem-oscilar-79-com-resultados-em-14-de-agosto-93CH-2031720",
-      "time": "2026-08-07T14:18:03Z",
+      "url": "https://br.investing.com/news/stock-market-news/finlandia--acoes-fecharam-o-pregao-em-queda-e-o-indice-omx-helsinki-25-recuou-001-2031789",
+      "time": "2026-08-07T16:00:22Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB8506G_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/moved_LYNXMPEL7I0MZ_L.jpg"
     },
     {
-      "title": "Ações da Poet Technologies podem oscilar 11% com resultados em 14 de agosto",
+      "title": "Ibovespa recua com Lojas Renner entre maiores quedas; Fleury dispara",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-poet-technologies-podem-oscilar-11-com-resultados-em-14-de-agosto-93CH-2031718",
-      "time": "2026-08-07T14:16:57Z",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-avanca-na-abertura-com-bateria-de-balancos-em-foco-2031624",
+      "time": "2026-08-07T15:35:27Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB59082_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/Brazil_Stock_Market_BOVESPA_M_1440056827.jpg"
+    },
+    {
+      "title": "Polônia - Ações fecharam o pregão em queda e o Índice WIG30 recuou 0,30%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/polonia--acoes-fecharam-o-pregao-em-queda-e-o-indice-wig30-recuou-030-2031774",
+      "time": "2026-08-07T15:35:19Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/WarsawStockExchange_800x533_L_1532265834.jpg"
     }
   ],
-  "atualizado_em": "07/08/2026 15:26"
+  "atualizado_em": "07/08/2026 16:24"
 }
