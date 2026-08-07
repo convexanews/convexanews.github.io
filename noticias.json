@@ -1,78 +1,198 @@
 {
   "headline": {
-    "title": "IA virou preocupação do Fed: investimento dispara e alerta de bolha acende",
-    "summary": "Expansão de data centers cresce mais rápido que o boom imobiliário pré-2008; autoridades monitoram alavancagem e financiamento; \"não é bolha, mas precisamos discutir\", dizem.",
-    "source": "InfoMoney",
-    "url": "https://www.infomoney.com.br/mundo/ia-virou-preocupacao-do-fed-investimento-dispara-e-alerta-de-bolha-acende/",
-    "time": "2026-08-07T09:00:00Z",
-    "cat": "acoes",
-    "tickers": [],
-    "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/fed-juros-eua.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    "title": "Mercado repercute dividendo bilionário da Petrobras; Ibovespa em dólar cai hoje (7)",
+    "summary": "O mercado repercute nesta sexta-feira (7) os resultados da Petrobras (PETR3; PETR4) referentes ao segundo trimestre de 2026 (2T26), além do anúncio de proventos divulgado na véspera. No período, a estatal registrou lucro",
+    "source": "Money Times",
+    "url": "https://www.moneytimes.com.br/mercado-repercute-dividendo-bilionario-da-petrobras-ibovespa-em-dolar-cai-hoje-7/",
+    "time": "2026-08-07T10:04:38Z",
+    "cat": "fundos",
+    "tickers": [
+      "PETR3",
+      "PETR4"
+    ],
+    "image": "https://www.moneytimes.com.br/uploads/2026/07/petrobras-alta-petr3-petr4.png"
   },
   "featured": [
     {
-      "title": "Ibovespa cai 1,23% após Copom e tensão no exterior; Petrobras (PETR4) limita perdas",
-      "summary": "O Ibovespa encerrou o pregão desta quinta-feira (6) em forte queda, pressionado pela leitura mais cautelosa do comunicado do Comitê de Política Monetária (Copom), pela abertura dos juros globais e pela nova escalada das ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-06-agosto-2026-copom-petr4-mt/",
-      "time": "2026-08-06T21:35:10Z",
+      "title": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta",
+      "summary": "Índices futuros dos EUA avançam antes de dados do payroll",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-07082026/",
+      "time": "2026-08-07T10:59:16Z",
       "cat": "economia",
-      "tickers": [
-        "PETR4"
-      ],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/c05e2f54-ibovespa-800x450-1-2-jpg.webp"
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Ibovespa-ao-vivo-25.png?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Emprego nos EUA, IGP-DI no Brasil, Petrobras e mais destaques desta sexta-feira",
-      "summary": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta sexta-feira (7)",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/emprego-eua-igp-di-petrobras-07082026/",
-      "time": "2026-08-07T09:17:39Z",
+      "title": "Nas máximas: o que a disparada dos Treasuries indica sobre a credibilidade do Fed — e por que ela não explica tudo",
+      "summary": "Os primeiros passos de Kevin Warsh no comando do Federal Reserve (Fed, Banco Central dos EUA) trouxeram mais dúvidas do que respostas para o mercado. A combinação entre uma decisão de juros marcada pela maior dissidência",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/nas-maximas-o-que-a-disparada-dos-treasuries-revela-sobre-a-credibilidade-do-fed-e-por-que-ela-nao-explica-tudo-lils/",
+      "time": "2026-08-07T10:00:00Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/444071502.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/federal-reserve-fed-fomc-eua-estados-unidos-4.jpg"
     }
   ],
   "all": [
     {
-      "title": "EUA sancionam militares e empresas cubanas por relação com China, Rússia e Irã",
-      "summary": "O secretário de Estado americano, Marco Rubio, tomou a decisão com base em uma ordem executiva que o presidente Donald Trump",
+      "title": "Porto (PSSA3) lucra R$ 879,4 milhões no 2º tri, alta anual de 0,2%",
+      "summary": "O lucro operacional somou R$ 1,09 bilhão no trimestre, queda de 5,3% em relação ao 2T25",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mundo/eua-sancionam-militares-e-empresas-cubanas-por-relacao-com-china-russia-e-ira/",
-      "time": "2026-08-07T09:55:31Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/453225097.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "url": "https://www.infomoney.com.br/mercados/porto-pssa3-resultados-segundo-trimestre-2026/",
+      "time": "2026-08-07T11:00:29Z",
+      "cat": "fundos",
+      "tickers": [
+        "PSSA3"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2023/11/porto-pssa3.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Emprego nos EUA, IGP-DI no Brasil, Petrobras e mais destaques desta sexta-feira",
-      "summary": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta sexta-feira (7)",
+      "title": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta",
+      "summary": "Índices futuros dos EUA avançam antes de dados do payroll",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/emprego-eua-igp-di-petrobras-07082026/",
-      "time": "2026-08-07T09:17:39Z",
-      "cat": "internacional",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-07082026/",
+      "time": "2026-08-07T10:59:16Z",
+      "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/444071502.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Ibovespa-ao-vivo-25.png?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "IA virou preocupação do Fed: investimento dispara e alerta de bolha acende",
-      "summary": "Expansão de data centers cresce mais rápido que o boom imobiliário pré-2008; autoridades monitoram alavancagem e financiamento; \"não é bolha, mas precisamos discutir\", dizem.",
+      "title": "Petrobras: balanço forte e dividendos no topo das projeções; mais está por vir no 3T?",
+      "summary": "Analistas seguem construtivos com a tese, embora apontem riscos ligados ao petróleo e ao cenário político",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mundo/ia-virou-preocupacao-do-fed-investimento-dispara-e-alerta-de-bolha-acende/",
-      "time": "2026-08-07T09:00:00Z",
+      "url": "https://www.infomoney.com.br/mercados/petrobras-petr4-balanco-forte-e-dividendos-no-topo-das-projecoes-mais-esta-por-vir-no-3t/",
+      "time": "2026-08-07T10:49:13Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/2025-10-16T151745Z_1_LYNXNPEL9F0SI_RTROPTP_4_BRAZIL-PETROBRAS.jpg?fit=300%2C181&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Lucro da Log cai 32,6% no 2º tri",
+      "summary": "A receita líquida ficou ⁠em ​R$66 ​milhões, crescendo 7,3% no ano",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/log-cp-logg3-resultados-segundo-trimestre-2026/",
+      "time": "2026-08-07T10:44:23Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/fed-juros-eua.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2023/04/galpaologcp.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Regras fiscais ruíram e Brasil caminha para crise em 2027 sem reformas, alerta UBS",
-      "summary": "Para Solange Srour, diretora de macroeconomia para o Brasil no UBS Global Wealth Management, mais importante do que mudar o arcabouço é trazer políticas que façam a regra ser factível.",
+      "title": "Pague Menos vai emitir R$ 350 milhões em debêntures em 9ª emissão",
+      "summary": "Empresa irá ⁠emitir ​debêntures ​simples em série ⁠única ​no dia 25 ​de agosto destinadas ​a ⁠investidores profissionais",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/economia/crise-fiscal-2027-divida-pib-ubs/",
-      "time": "2026-08-07T08:00:00Z",
+      "url": "https://www.infomoney.com.br/mercados/pague-menos-vai-emitir-r-350-milhoes-em-debentures-em-9a-emissao/",
+      "time": "2026-08-07T10:40:22Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Solange-Srour.jpg?fit=300%2C181&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/09/pague-menos.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Lucro líquido da Mitre Realty sobe 45,5% no 2º tri",
+      "summary": "A margem bruta no período ⁠foi ‌de 32%, ante os ⁠25,5% do segundo trimestre de 2025",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/mitre-mtre3-resultados-segundo-trimestre-2026/",
+      "time": "2026-08-07T10:37:56Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/11/hausmitrepinheiros_adega.jpg?fit=300%2C197&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Minidólar (WDOU26): tensão externa e Payroll elevam risco de volatilidade",
+      "summary": "Saiba o que esperar para o minidólar nesta sexta (07)",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdou26-07082026/",
+      "time": "2026-08-07T10:11:00Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/WDOU26-15-MINUTOS-07.08.2026.png?fit=300%2C137&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Day Trade hoje (07): Ibovespa amplia pressão vendedora; veja a análise",
+      "summary": "Confira os pontos de suporte e resistência do mini-índice e minidólar",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-07082026/",
+      "time": "2026-08-07T10:02:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/12/Daytrade-hoje.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Mitre Realty (MTRE3): Lucro líquido sobe 45,5% no 2T26",
+      "summary": "A Mitre Realty (MTRE3) registrou lucro líquido de R$ 15,1 milhões no segundo trimestre de 2026 (2T26), 45,5% acima do resultado obtido um ano antes, segundo balanço divulgado na noite de quinta-feira (6). A construtora t",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/mitre-realty-mtre3-lucro-liquido-sobe-455-no-2t26-igdl/",
+      "time": "2026-08-07T10:49:28Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/04/construtoras-construcao-civil-imagem-jongho-shinistockphoto-1.png"
+    },
+    {
+      "title": "Small cap da B3 anuncia R$ 13,9 milhões em dividendos; veja datas e valor por ação",
+      "summary": "Uma das small caps negociadas na bolsa de valores, a Log Commercial (LOGG3) informou que seu conselho de administração aprovou o pagamento de R$ 13,9 milhões em dividendos intermediários aos acionistas, com base no saldo",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/small-cap-da-b3-anuncia-r-139-milhoes-em-dividendos-veja-datas-e-valor-por-acao-igdl/",
+      "time": "2026-08-07T10:47:21Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/01/dinheiro-dividendos-imagem-andrzej-rostek-istockphoto.png"
+    },
+    {
+      "title": "Bom dia, bitcoin (BTC): Criptomoeda sustenta os US$ 64 mil antes do payroll; veja o que mexe com os preços nesta sexta-feira (7)",
+      "summary": "Obitcoin (BTC) é negociado na casa dos US$ 64 mil, com uma leve alta de pouco menos de 1% nas últimas 24h. O mercado global de criptomoedas avança majoritariamente na manhã de hoje, antes da divulgação do payroll, o rela",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/bom-dia-bitcoin-btc-criptomoedas-preco-hoje-rens-070826/",
+      "time": "2026-08-07T10:41:03Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/12/bitcoins-perdidos-1.jpg"
+    },
+    {
+      "title": "Log (LOGG3) lucra R$ 58,7 milhões no 2T26, queda anual de 32,6%; veja os números da companhia",
+      "summary": "A Log Commercial (LOGG3) teve lucro líquido de R$ 58,7 milhões no segundo trimestre de 2026 (2T26), queda de 32,6% em relação ao mesmo período de 2025, segundo balanço divulgado nessa quinta-feira (6). A companhia, que d",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/log-logg3-lucra-r-587-milhoes-no-2t26-queda-anual-de-326-veja-os-numeros-da-companhia-igdl/",
+      "time": "2026-08-07T10:32:53Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2024/07/log-commercial-logg3.jpg"
+    },
+    {
+      "title": "Petrobras (PETR4): ADRs da estatal avançam em Nova York com lucro acima do esperado e dividendos",
+      "summary": "As American Depositary Receipts (ADRs) da Petrobras (PETR4) operam em alta no pré-market da Bolsa de Nova York nesta sexta-feira (7), à medida que investidores repercutem os resultados da estatal referentes ao segundo tr",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/petrobras-petr4-adrs-da-estatal-avancam-em-nova-york-com-lucro-acima-do-esperado-e-dividendos/",
+      "time": "2026-08-07T10:26:41Z",
+      "cat": "fundos",
+      "tickers": [
+        "PETR4"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/dig40443.jpg.myeyguacmlp3n7vjqa0a.o4kghjdl3-.jpg"
+    },
+    {
+      "title": "Mercado repercute dividendo bilionário da Petrobras; Ibovespa em dólar cai hoje (7)",
+      "summary": "O mercado repercute nesta sexta-feira (7) os resultados da Petrobras (PETR3; PETR4) referentes ao segundo trimestre de 2026 (2T26), além do anúncio de proventos divulgado na véspera. No período, a estatal registrou lucro",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/mercado-repercute-dividendo-bilionario-da-petrobras-ibovespa-em-dolar-cai-hoje-7/",
+      "time": "2026-08-07T10:04:38Z",
+      "cat": "fundos",
+      "tickers": [
+        "PETR3",
+        "PETR4"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/petrobras-alta-petr3-petr4.png"
+    },
+    {
+      "title": "Nas máximas: o que a disparada dos Treasuries indica sobre a credibilidade do Fed — e por que ela não explica tudo",
+      "summary": "Os primeiros passos de Kevin Warsh no comando do Federal Reserve (Fed, Banco Central dos EUA) trouxeram mais dúvidas do que respostas para o mercado. A combinação entre uma decisão de juros marcada pela maior dissidência",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/nas-maximas-o-que-a-disparada-dos-treasuries-revela-sobre-a-credibilidade-do-fed-e-por-que-ela-nao-explica-tudo-lils/",
+      "time": "2026-08-07T10:00:00Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/federal-reserve-fed-fomc-eua-estados-unidos-4.jpg"
     },
     {
       "title": "Grupo Panvel (PNVL3) tem alta de quase 40% no lucro do 2º trimestre",
@@ -93,68 +213,6 @@
       "cat": "acoes",
       "tickers": [],
       "image": "https://www.moneytimes.com.br/uploads/2023/12/alpargatas-alpa4-havaianas.jpg"
-    },
-    {
-      "title": "Agenda econômica desta sexta-feira (7) tem PIB e balança comercial da zona do euro, além das vendas no varejo dos EUA",
-      "summary": "Os investidores acompanham nesta sexta-feira (7) uma agenda econômica com indicadores de atividade global. Na zona do euro, os dados de PIB e balança comercial podem trazer sinais sobre o desempenho da economia do bloco.",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/agenda-economica-desta-sexta-feira-7-tem-pib-e-balanca-comercial-da-zona-do-euro-alem-das-vendas-no-varejo-dos-eua/",
-      "time": "2026-08-07T09:30:00Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/uniao-europeia-ue-europa-euro-zona-do-euro.jpg"
-    },
-    {
-      "title": "Bolsas da Ásia fecham mistas com queda em NY e incertezas no Oriente Médio",
-      "summary": "As bolsas asiáticas fecharam sem direção única nesta sexta-feira (7), após um modesto recuo em Wall Street ontem e em meio a incertezas no Oriente Médio, que sustentam os preços do petróleo. O índice japonês Nikkei caiu ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bolsas-da-asia-fecham-mistas-com-queda-em-ny-e-incertezas-no-oriente-medio-fets/",
-      "time": "2026-08-07T09:13:24Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/hong-kong.jpg"
-    },
-    {
-      "title": "Tempo real: Ibovespa fecha semana de olho no payroll dos EUA",
-      "summary": "Resumo: O Ibovespa (IBOV) encerra a semana acompanhando a balança comercial da China, o IGP-DI e os dados de produção e venda de veículos no Brasil, além do relatório de emprego (payroll) dos Estados Unidos. Destaques: C",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/tempo-real-ibovespa-hoje-mercado-ao-vivo-07-08-2026-jals-lils-apsa/",
-      "time": "2026-08-07T09:00:00Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/ibovespa-acoes.png"
-    },
-    {
-      "title": "Energisa (ENGI11) reverte lucro e tem prejuízo líquido consolidado de R$ 40 milhões no 2º trimestre",
-      "summary": "O grupo Energisa (ENGI11) registrou no segundo trimestre deste ano prejuízo líquido consolidado de R$ 40 milhões, desempenho influenciado por eventos extraordinários, como o anúncio da venda, para a Taesa, de cinco trans",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/energisa-engi11-reverte-lucro-e-tem-prejuizo-liquido-consolidado-de-r-40-milhoes-no-2o-trimestre-fets/",
-      "time": "2026-08-07T08:48:00Z",
-      "cat": "acoes",
-      "tickers": [
-        "ENGI11"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2020/10/energisa1-min.jpg"
-    },
-    {
-      "title": "Anec mantém previsão de exportação recorde de soja do Brasil em 2026, mas alerta para dívidas agrícolas",
-      "summary": "O Brasil deverá exportar um recorde de 114 milhões de toneladas de soja em 2026, aumento de quase 5% em relação à melhor marca anterior registrada no ano passado, com uma demanda aquecida e diante do crescimento da safra",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/anec-mantem-previsao-de-exportacao-recorde-de-soja-do-brasil-em-2026-mas-alerta-para-dividas-agricolas-fets/",
-      "time": "2026-08-07T08:39:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/12/soja-conab.jpg"
-    },
-    {
-      "title": "Petróleo sobe com preocupações sobre planos para reabertura do Estreito de Ormuz",
-      "summary": "Os preços do petróleo ampliam os ganhos nesta sexta-feira (7) diante de novas preocupações em torno da reabertura do Estreito de Ormuz, após o Irã, em coordenação com Omã, sugerir proibir a passagem de embarcações consid",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/petroleo-sobe-com-preocupacoes-sobre-planos-para-reabertura-do-estreito-de-ormuz-fets/",
-      "time": "2026-08-07T08:04:03Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/04/ormuz-petroleo-commodities-geopolitica-1.jpg"
     },
     {
       "title": "TRXF11: maior aquisição da história do FII em operação de R$ 2,13 bi",
@@ -245,105 +303,105 @@
       "image": "https://files.sunoresearch.com.br/n/uploads/2026/08/petrobras-petr4-2-1-1-1-jpg.webp"
     },
     {
-      "title": "Educação no Brasil avança, mas SP, Rio e DF limitam resultado, diz especialista",
-      "summary": "Melhor resultado da série histórica convive com desafios persistentes em redes estaduais de grande porte, avalia Priscila Cruz, do Todos Pela Educação",
+      "title": "Petrobras, guerra no Irã e payroll: o que move os mercados",
+      "summary": "Escalada entre EUA e Irã volta ao radar, enquanto Petrobras supera expectativas no trimestre",
       "source": "Exame",
-      "url": "https://exame.com/brasil/educacao-no-brasil-avanca-mas-sp-rio-e-df-limitam-resultado-diz-especialista/",
-      "time": "2026-08-07T06:00:42Z",
+      "url": "https://exame.com/invest/mercados/petrobras-guerra-no-ira-e-payroll-o-que-move-os-mercados/",
+      "time": "2026-08-07T07:39:08Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2023/05/educacao-fundamental-e1694551170637.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2025/12/GettyImages-699098003.jpg"
     },
     {
-      "title": "Por que as ações da Airbnb estão disparando hoje?",
+      "title": "Por que tentar criar o 'ChatGPT brasileiro' pode ser um desperdício de bilhões",
+      "summary": "Para Paulo Ernani, da AVEX AI Lab, empresas brasileiras podem capturar valor com a adoção da tecnologia mesmo sem liderar a infraestrutura",
+      "source": "Exame",
+      "url": "https://exame.com/inteligencia-artificial/por-que-tentar-criar-o-chatgpt-brasileiro-pode-ser-um-desperdicio-de-bilhoes/",
+      "time": "2026-08-07T07:01:13Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/08/ia_br.png"
+    },
+    {
+      "title": "O argumento do Bradesco para evitar debandada nos fundos da Gávea",
+      "summary": "Asset diz que manterá mandato dos multimercados e aposta em diversificação, equipe e processo para substituir a gestão associada a Arminio Fraga",
+      "source": "Exame",
+      "url": "https://exame.com/exame-in/o-argumento-do-bradesco-para-evitar-debandada-nos-fundos-da-gavea/",
+      "time": "2026-08-07T07:00:35Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/08/Ana-Rodela-EXAME-2.png"
+    },
+    {
+      "title": "Por que as ações da Gray Television estão subindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-airbnb-estao-disparando-hoje-93CH-2031152",
-      "time": "2026-08-07T09:23:55Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-gray-television-estao-subindo-hoje-93CH-2031327",
+      "time": "2026-08-07T10:47:16Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB310IW_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg"
     },
     {
-      "title": "Por que as ações da Sezzle estão despencando hoje?",
+      "title": "Bank of America prevê inflação de 4,4% na Índia em julho",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-sezzle-estao-despencando-hoje-93CH-2031151",
-      "time": "2026-08-07T09:23:09Z",
-      "cat": "internacional",
+      "url": "https://br.investing.com/news/stock-market-news/bank-of-america-preve-inflacao-de-44-na-india-em-julho-93CH-2031325",
+      "time": "2026-08-07T10:44:37Z",
+      "cat": "economia",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6J0AJ_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0L0PD_M.jpg"
     },
     {
-      "title": "Por que as ações da ResMed estão caindo hoje?",
+      "title": "Ações da Century Casinos disparam após resultados recordes no 2º tri",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-resmed-estao-caindo-hoje-93CH-2031150",
-      "time": "2026-08-07T09:22:50Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-century-casinos-disparam-apos-resultados-recordes-no-2o-tri-93CH-2031316",
+      "time": "2026-08-07T10:38:54Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6U08A_M.jpg"
     },
     {
-      "title": "The Trade Desk sofre rebaixamentos em Wall St após resultados decepcionantes no 2º tri",
+      "title": "FDA aprova Tudriqev da Replimune em combinação com nivolumabe",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/the-trade-desk-sofre-rebaixamentos-em-wall-st-apos-resultados-decepcionantes-no-2o-tri-2031154",
-      "time": "2026-08-07T09:21:21Z",
-      "cat": "analise",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEE9L1CO_M.jpg"
-    },
-    {
-      "title": "Pague Menos vai emitir R$350 milhões em debêntures em 9ª emissão",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/pague-menos-vai-emitir-r350-milhoes-em-debentures-em-9a-emissao-2031148",
-      "time": "2026-08-07T09:21:07Z",
+      "url": "https://br.investing.com/news/stock-market-news/fda-aprova-tudriqev-da-replimune-em-combinacao-com-nivolumabe-93CH-2031305",
+      "time": "2026-08-07T10:34:05Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/PagueMenos_800x533_L_1722949952.jpg"
+      "image": "https://i-invdn-com.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
     },
     {
-      "title": "Lucro líquido da Mitre Realty sobe 45,5% no 2º tri",
+      "title": "Por que as ações da PENN Entertainment estão subindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/lucro-liquido-da-mitre-realty-sobe-455-no-2o-tri-2031149",
-      "time": "2026-08-07T09:21:07Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-penn-entertainment-estao-subindo-hoje-93CH-2031304",
+      "time": "2026-08-07T10:33:00Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEA8E0OO_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC180BO_M.jpg"
     },
     {
-      "title": "Por que as ações da Sweetgreen estão despencando hoje?",
+      "title": "Índia - Ações fecharam o pregão em queda e o Índice Nifty 50 recuou 0,27%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-sweetgreen-estao-despencando-hoje-93CH-2031146",
-      "time": "2026-08-07T09:14:36Z",
+      "url": "https://br.investing.com/news/stock-market-news/india--acoes-fecharam-o-pregao-em-queda-e-o-indice-nifty-50-recuou-027-2031302",
+      "time": "2026-08-07T10:30:38Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB59082_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/MumbaiStockExchange_800x533_L_1628748294.jpg"
     },
     {
-      "title": "Por que um relatório de empregos sólido pode derrubar as bolsas, segundo o JPMorgan",
+      "title": "Por que as ações da Allstate estão caindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-um-relatorio-de-empregos-solido-pode-derrubar-as-bolsas-segundo-o-jpmorgan-2031132",
-      "time": "2026-08-07T09:05:08Z",
-      "cat": "analise",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-allstate-estao-caindo-hoje-93CH-2031292",
+      "time": "2026-08-07T10:28:34Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXMPEM5H10K_1200_L.jpg"
-    },
-    {
-      "title": "Berenberg eleva Prysmian a compra e aumenta preço-alvo para €150",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/berenberg-eleva-prysmian-a-compra-e-aumenta-precoalvo-para-150-93CH-2031125",
-      "time": "2026-08-07T08:56:46Z",
-      "cat": "analise",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0D0AP_M.jpg"
     }
   ],
-  "atualizado_em": "07/08/2026 10:00"
+  "atualizado_em": "07/08/2026 11:01"
 }
