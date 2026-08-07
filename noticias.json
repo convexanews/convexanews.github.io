@@ -1,41 +1,93 @@
 {
   "headline": {
-    "title": "Payroll fraco muda apostas do mercado e empurra alta de juros do Fed para outubro",
-    "summary": "O mercado reduziu as apostas de uma alta de juros pelo Federal Reserve em setembro após o payroll de julho dos Estados Unidos mostrar uma desaceleração mais forte do mercado de trabalho americano. O país criou apenas 23 ",
+    "title": "Ibovespa cai mais de 1% e volta aos 172 mil pontos com Petrobras (PETR4); como andam os mercados nesta sexta-feira (7)",
+    "summary": "O Ibovespa (IBOV) perdeu mais de 2 mil pontos nas primeiras horas do pregão desta sexta-feira (7), em dia de reação a balanços corporativos e potencial saída de fluxo estrangeiro, após começar a sessão em alta com apoio ",
     "source": "Money Times",
-    "url": "https://www.moneytimes.com.br/payroll-fraco-muda-apostas-do-mercado-e-empurra-alta-de-juros-do-fed-para-outubro-jcav/",
-    "time": "2026-08-07T13:15:16Z",
-    "cat": "economia",
-    "tickers": [],
-    "image": "https://www.moneytimes.com.br/uploads/2026/04/inflacao-cpi-marco-juros-eua.jpg"
+    "url": "https://www.moneytimes.com.br/ibovespa-intradia-7-8-26-lils/",
+    "time": "2026-08-07T15:08:55Z",
+    "cat": "acoes",
+    "tickers": [
+      "PETR4"
+    ],
+    "image": "https://www.moneytimes.com.br/uploads/2026/06/mercado-morning-ibovespa-wall-street-2.jpg"
   },
   "featured": [
     {
-      "title": "PETR4: Petrobras bate consenso no 2T26 com EBITDA de US$ 19 bilhões; ações caem",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/petr4-petrobras-bate-consenso-no-2t26-com-ebitda-de-us-19-bilhoes-acoes-caem-2031678",
-      "time": "2026-08-07T13:55:39Z",
-      "cat": "internacional",
+      "title": "Mercado de trabalho fraco nos EUA muda o jogo para o Fed? Economistas se dividem sobre futuro dos juros",
+      "summary": "O payroll de julho, que mostrou a perda de 23 mil vagas de emprego nos Estados Unidos, abaixo da expectativa de criação de 80 mil postos, reforçou a percepção de desaceleração do mercado de trabalho americano, mas não fo",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/mercado-de-trabalho-fraco-nos-eua-muda-o-jogo-para-o-fed-economistas-se-dividem-sobre-juros-jcav/",
+      "time": "2026-08-07T14:26:31Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/11/acoes-internacionais-eua-carteira-recomendada-1.jpg"
+    },
+    {
+      "title": "Ibovespa Hoje Ao Vivo: Bolsa cai mais de 1% com pressão de PETR4 e bancos",
+      "summary": "Bolsas dos EUA avançam com repercussão dos dados do payroll",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-07082026/",
+      "time": "2026-08-07T15:11:36Z",
+      "cat": "acoes",
       "tickers": [
         "PETR4"
       ],
-      "image": "https://content-media.investing.com/news/LYNXNPEE1R16N_M.jpg"
-    },
-    {
-      "title": "MARA Holdings: Maior mineradora de bitcoin (BTC) do mundo tem prejuízo de US$ 611,3 milhões e ações caem",
-      "summary": "A maior mineradora de bitcoin (BTC) do mundo e quarta maior empresa com a criptomoeda em caixa do mundo, a MARA Holdings (MARA) publicou seus resultados referentes ao terceiro trimestre de 2026 (2T26) na manhã desta sext",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/mara-holdings-maior-mineradora-de-bitcoin-btc-do-mundo-tem-prejuizo-de-us-6113-milhoes-e-acoes-caem-rens/",
-      "time": "2026-08-07T14:04:49Z",
-      "cat": "cripto",
-      "tickers": [
-        "BTC"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/03/mara-holdings-a-maior-mineradora-de-bitcoin-btc-listada-em-bolsa-e-com-maior-caixa-em-btc-imagem-divulgacao.png"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-12-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     }
   ],
   "all": [
+    {
+      "title": "Nova debandada de estrangeiros? O que faz Ibovespa cair 1,5% mesmo após dados dos EUA",
+      "summary": "A economia dos EUA cortou 23 mil empregos em julho, o que diminui os planos de alta de juros, mas também estimula ações de IA",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-nova-debandada-de-estrangeiros-o-que-faz-ibovespa-cair-forte-mesmo-apos-dados-dos-eua/",
+      "time": "2026-08-07T15:18:56Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/07/acoes-mercado-bolsa-baixa-queda-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Ibovespa Hoje Ao Vivo: Bolsa cai mais de 1% com pressão de PETR4 e bancos",
+      "summary": "Bolsas dos EUA avançam com repercussão dos dados do payroll",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-07082026/",
+      "time": "2026-08-07T15:11:36Z",
+      "cat": "acoes",
+      "tickers": [
+        "PETR4"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-12-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Alpargatas (ALPA4): ação salta para máxima de 5 meses após resultados; veja destaques",
+      "summary": "O conjunto de resultados foi sólido, mas o principal destaque foi a aceleração do crescimento do sell-out (venda final)",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/alpargatas-alpa4-acao-salta-para-maxima-de-5-meses-apos-resultados-veja-destaques/",
+      "time": "2026-08-07T14:56:41Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/havaianas-alpargatas-chinelo-calcados-1.jpg?fit=300%2C225&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Cruzeiro do Sul cai após duplo rebaixamento; Cogna sobe com recomendação de compra",
+      "summary": "Morgan Stanley apresentou visões distintas sobre as empresas de educação da Bolsa",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/cruzeiro-do-sul-cai-apos-duplo-rebaixamento-cogna-sobe-com-recomendacao-de-compra/",
+      "time": "2026-08-07T14:22:18Z",
+      "cat": "analise",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/10/image_6483441-1.jpg?fit=300%2C225&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Renda Fixa Hoje: as taxas de CDBs, LCIs e LCAs na XP nesta sexta-feira (7)",
+      "summary": "Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-07082026/",
+      "time": "2026-08-07T14:13:35Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/renda-fixa-hoje-006.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
     {
       "title": "Petrobras: ações chegam a subir cerca de 2% após bons 2T e dividendos, mas zeram",
       "summary": "Mesmo com números fortes, ações amenizaram ganhos",
@@ -57,178 +109,106 @@
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-22T104045Z_1_LYNXMPEM5L0O6_RTROPTP_4_TAIWAN-COMPUTEX-NVIDIA-SOUTHKOREA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "O velho “boca a boca” ainda funciona – e levou consultoria do PR ao Top 4 do mercado",
-      "summary": "Em um mercado cada vez mais competitivo, no qual escritórios disputam espaço pela escala de distribuição de produtos financeiros, a Union afirma ter seguido um caminho diferente",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/advisor/o-velho-boca-a-boca-ainda-funciona-e-levou-consultoria-do-pr-ao-top-4-do-mercado/",
-      "time": "2026-08-07T14:00:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Union-Investimentos_Divulgacao.jpeg?fit=300%2C185&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Papel, tijolo ou híbrido? Veja os fundos imobiliários recomendados em agosto",
-      "summary": "Quedas das cotas durante julho criaram oportunidades em fundos de boa qualidade e juro ainda alto favorece carteiras de papéis",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/onde-investir/os-melhores-fundos-imobiliarios-para-investir-em-agosto-segundo-os-analistas/",
-      "time": "2026-08-07T14:00:00Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/03/tierra-mallorca-NpTbVOkkom8-unsplash.jpg?fit=300%2C225&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Ibovespa Hoje Ao Vivo: Bolsa vira para queda com pressão de PETR4",
-      "summary": "Bolsas dos EUA avançam com repercussão dos dados do payroll",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-07082026/",
-      "time": "2026-08-07T13:48:44Z",
-      "cat": "acoes",
-      "tickers": [
-        "PETR4"
-      ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-13-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "EasyJet é vendida por £ 5,7 bi e agita mercado de aéreas na europa",
-      "summary": "Conselho da low-cost europeia recomendou por unanimidade a oferta em dinheiro, afirmando considerar os termos justos e razoáveis",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/business/easyjet-e-vendida-por-57-bi-e-agita-mercado-de-aereas-na-europa/",
-      "time": "2026-08-07T13:29:37Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/easyjet.jpg?fit=300%2C197&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Fleury (FLRY3): ação dispara mais de 10% após resultados do 2T; o que animou tanto?",
-      "summary": "Grupo entregou mais um trimestre \"muito forte\", com destaque para o crescimento de receita acima do esperado e manutenção da disciplina operacional",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/fleury-flry3-acao-dispara-mais-de-10-apos-resultados-do-2t-o-que-animou-tanto/",
-      "time": "2026-08-07T13:28:47Z",
+      "title": "O que surpreendeu tanto no balanço do Fleury (FLRY3)? Ação chega a saltar 14% nesta sexta (7)",
+      "summary": "O Fleury (FLRY3) lidera a ponta positiva do Ibovespa (IBOV) nesta sexta-feira (7), após divulgar os seus resultados do segundo trimestre de 2026 (2T26). Por volta das 11h38 (horário de Brasília), FLRY3 saltava 11,41% (R$",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/o-que-agradou-tanto-no-balanco-do-2t26-do-fleury-flry3-acao-salta-13-nesta-sexta-7-apsa/",
+      "time": "2026-08-07T15:09:18Z",
       "cat": "acoes",
       "tickers": [
         "FLRY3"
       ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/Fleury_medicina_saude_red.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2025/07/fleury-acelera-na-bolsa-1-1.png"
     },
     {
-      "title": "Embraer (EMBJ3) testa resistência antes dos resultados; ação pode avançar mais?",
-      "summary": "Ação permanece acima das médias móveis, mas precisa superar R$ 93,50/R$ 96,39 para voltar a mirar a máxima histórica.",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/embraer-embj3-testa-resistencia-antes-dos-resultados-acao-pode-avancar-mais/",
-      "time": "2026-08-07T13:12:41Z",
+      "title": "Ibovespa cai mais de 1% e volta aos 172 mil pontos com Petrobras (PETR4); como andam os mercados nesta sexta-feira (7)",
+      "summary": "O Ibovespa (IBOV) perdeu mais de 2 mil pontos nas primeiras horas do pregão desta sexta-feira (7), em dia de reação a balanços corporativos e potencial saída de fluxo estrangeiro, após começar a sessão em alta com apoio ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ibovespa-intradia-7-8-26-lils/",
+      "time": "2026-08-07T15:08:55Z",
       "cat": "acoes",
       "tickers": [
-        "EMBJ3"
+        "PETR4"
       ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/EMBRAER-EMBJ3-SEMANAL-07.08.2026.png?fit=300%2C136&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/mercado-morning-ibovespa-wall-street-2.jpg"
     },
     {
-      "title": "Renner (LREN3) corta guidance após 2T fraco, preocupa com vendas e ações desabam 10%",
-      "summary": "Renner reduziu sua projeção de crescimento da receita de varejo para 2026 para uma faixa entre 4% e 8%, ante a estimativa anterior de 9% a 13%",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/renner-lren3-corta-guidance-apos-2t-fraco-preocupa-com-vendas-e-acoes-desabam/",
-      "time": "2026-08-07T13:11:40Z",
+      "title": "Alpargatas (ALPA4) dispara após resultado do 2T26 surpreender; o que agradou, na avaliação de XP e JPMorgan",
+      "summary": "A Alpargatas (ALPA4), dona da Havaianas, abriu o pregão de hoje entre as maiores altas do Ibovespa. Por volta das 11h50, os papéis subiam cerca de 11%, no patamar de R$ 13,61. O otimismo dos investidores veio após result",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/alpargatas-alpa4-dispara-apos-lucro-operacional-surpreender-veja-a-avaliacao-de-xp-e-jpmorgan-ceci/",
+      "time": "2026-08-07T15:03:16Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2024/07/alpargatas-empresas-recomendacao-neutra-alpa4-ubs-bb.jpg"
+    },
+    {
+      "title": "Resultados das construtoras: Mitre (MTRE3) vê lucro crescer 46% no 2T26, enquanto Eztec (EZTC3) registra queda de 21%",
+      "summary": "A Mitre (MTRE3) registrou lucro líquido de R$ 15 milhões no segundo trimestre de 2026 (2T26), alta anual de 46%. O resultado ficou em linha com as estimativas do BTG Pactual, segundo relatório divulgado na quinta-feira (",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/mitre-mtre3-cresce-46-no-lucro-do-2t26-eztec-eztc3-registra-queda-de-21-jvka/",
+      "time": "2026-08-07T14:51:35Z",
+      "cat": "acoes",
+      "tickers": [
+        "EZTC3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/04/construtoras-construcao-civil-imagem-jongho-shinistockphoto.png"
+    },
+    {
+      "title": "Allos (ALOS3) entrega balanço ‘acima do esperado’ no 2T26, dizem analistas; bancos veem dividendos de até 13% para ação",
+      "summary": "Negociadas dentro do índice Ibovespa, as ações da Allos (ALOS3) operam em leve alta nesta sexta-feira (7), um dia após à divulgação do balanço do segundo trimestre de 2026 (2T26). Entre analistas, a avaliação é de que os",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/allos-alos3-entrega-balanco-acima-do-esperado-no-2t26-dizem-analistas-bancos-veem-dividendos-de-ate-13-para-acao-igdl/",
+      "time": "2026-08-07T14:40:31Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/08/shoppings-mix-iguatemi-multiplan-allos.png"
+    },
+    {
+      "title": "Petrobras (PETR4) deve seguir com dividendos atrativos após 2T26 ‘sólido’, dizem analistas; veja o que fazer com as ações",
+      "summary": "Analistas do mercado financeiro avaliaram o 2T26 da Petrobras (PETR4) como forte, com Ebitda, geração de caixa e dividendos acima das expectativas, impulsionados pelo desempenho do EP, maior produção no pré-sal e melhore",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/petrobras-petr4-deve-seguir-com-dividendos-atrativos-apos-2t26-solido-dizem-analistas-veja-o-que-fazer-com-as-acoes/",
+      "time": "2026-08-07T14:38:45Z",
+      "cat": "fundos",
+      "tickers": [
+        "PETR4"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/02/dividendos-petrobras.jpg"
+    },
+    {
+      "title": "Mercado de trabalho fraco nos EUA muda o jogo para o Fed? Economistas se dividem sobre futuro dos juros",
+      "summary": "O payroll de julho, que mostrou a perda de 23 mil vagas de emprego nos Estados Unidos, abaixo da expectativa de criação de 80 mil postos, reforçou a percepção de desaceleração do mercado de trabalho americano, mas não fo",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/mercado-de-trabalho-fraco-nos-eua-muda-o-jogo-para-o-fed-economistas-se-dividem-sobre-juros-jcav/",
+      "time": "2026-08-07T14:26:31Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/11/acoes-internacionais-eua-carteira-recomendada-1.jpg"
+    },
+    {
+      "title": "JBS (JBSS32): Expansão na Ásia pode criar US$ 4 bilhões em valor, estima JP Morgan",
+      "summary": "A parceria da JBS (JBSS32) com a Danantara Investment Management (DIM), braço de investimentos do fundo soberano da Indonésia, pode resultar em uma criação de valor de aproximadamente US$ 4 bilhões para a companhia, segu",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/jbs-jbss32-expansao-na-asia-pode-criar-us-4-bilhoes-em-valor-estima-jp-morgan-pads/",
+      "time": "2026-08-07T14:25:38Z",
+      "cat": "acoes",
+      "tickers": [
+        "JBSS32"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/11/jbs-jbss3-3-1.jpg"
+    },
+    {
+      "title": "Por que as ações da Lojas Renner (LREN3) estão caindo mais de 12%? Entenda",
+      "summary": "As ações das Lojas Renner (LREN3) caíam mais de 12% na manhã desta sexta-feira (7), após a varejista divulgar resultados abaixo das expectativas no segundo trimestre de 2026 e cortar pela metade o intervalo de seu guidan",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/lren3-renner-resultado-2t26-guidance-cortado-vendas-fracas-go/",
+      "time": "2026-08-07T14:35:05Z",
       "cat": "acoes",
       "tickers": [
         "LREN3"
       ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2021/08/lojas-renner.jpg?fit=300%2C182&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Petrobras: balanço forte e dividendos no topo das projeções; mais está por vir no 3T?",
-      "summary": "Analistas seguem construtivos com a tese, embora apontem riscos ligados ao petróleo e ao cenário político",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/petrobras-petr4-balanco-forte-e-dividendos-no-topo-das-projecoes-mais-esta-por-vir-no-3t/",
-      "time": "2026-08-07T13:10:36Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/2025-10-16T151745Z_1_LYNXNPEL9F0SI_RTROPTP_4_BRAZIL-PETROBRAS.jpg?fit=300%2C181&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Bolsa Família pode pagar R$ 850 ou mais por mês, mas valores adicionais dependem do caso",
-      "summary": "O piso de R$ 600 do Bolsa Família é apenas o ponto de partida do repasse pago mensalmente pela Caixa Econômica Federal. Com a soma dos adicionais por dependente, famílias cadastradas no CadÚnico podem receber R$ 850 ou m",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bolsa-familia-pode-pagar-850-reais-ou-mais-por-mes-veja-quem-tem-direito-adicionais-rsgp/",
-      "time": "2026-08-07T14:11:20Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/10/bolsa-familia.jpg"
-    },
-    {
-      "title": "MARA Holdings: Maior mineradora de bitcoin (BTC) do mundo tem prejuízo de US$ 611,3 milhões e ações caem",
-      "summary": "A maior mineradora de bitcoin (BTC) do mundo e quarta maior empresa com a criptomoeda em caixa do mundo, a MARA Holdings (MARA) publicou seus resultados referentes ao terceiro trimestre de 2026 (2T26) na manhã desta sext",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/mara-holdings-maior-mineradora-de-bitcoin-btc-do-mundo-tem-prejuizo-de-us-6113-milhoes-e-acoes-caem-rens/",
-      "time": "2026-08-07T14:04:49Z",
-      "cat": "cripto",
-      "tickers": [
-        "BTC"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/03/mara-holdings-a-maior-mineradora-de-bitcoin-btc-listada-em-bolsa-e-com-maior-caixa-em-btc-imagem-divulgacao.png"
-    },
-    {
-      "title": "Corte no guidance pesa e ações da Lojas Renner tombam mais de 10% após balanço; o que fazer com LREN3 agora?",
-      "summary": "As ações da Lojas Renner (LREN3) operaram em forte queda e figuraram entre as maiores perdas do Ibovespa (IBOV) nesta sexta-feira (7) e da B3 após a frustração dos investidores e analistas com os números do segundo trime",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/corte-no-guidance-pesa-e-acoes-da-lojas-renner-tombam-mais-de-10-apos-balanco-o-que-fazer-com-lren3-agora-lils/",
-      "time": "2026-08-07T13:57:23Z",
-      "cat": "acoes",
-      "tickers": [
-        "LREN3"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2023/01/whatsapp-image-2023-01-17-at-02.54.36-e1673969843860.jpeg"
-    },
-    {
-      "title": "Quais BDRs comprar em agosto? Veja o ranking das ações internacionais mais indicadas pelos analistas",
-      "summary": "A Amazon (AMZN) e a Eli Lilly (LILY34) são as ações internacionais favoritas do mercado para agosto, segundo levantamento realizado pelo Money Times, que formou o ranking completo das BDRs (Brazilian Depositary Receipts)",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/quais-bdrs-comprar-em-agosto-veja-o-ranking-das-acoes-internacionais-mais-indicadas-pelos-analistas-ceci/",
-      "time": "2026-08-07T13:51:08Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2024/08/amazon-3-1.jpg"
-    },
-    {
-      "title": "Wall Street sobe com payroll mais fraco do que o esperado",
-      "summary": "Os índices de Wall Street operam no terreno positivo diante do dado mais fraco do payroll de julho e das revisões para baixo dos meses anteriores. Com o dado, a aposta de uma alta nos juros dos Estados Unidos pelo banco ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/wall-street-7-8-26-apsa/",
-      "time": "2026-08-07T13:45:52Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/eua-estados-unidos-cpi-inflacao.jpg"
-    },
-    {
-      "title": "Análise: Como o Itaú (ITUB4) mantém lucros sólidos e paga bons dividendos em tempos difíceis",
-      "summary": "O Itaú (ITUB4) voltou a apresentar um trimestre sólido, reforçando a resiliência de sua operação mesmo em um ambiente macroeconômico mais desafiador. A carteira de crédito cresceu cerca de 10% em relação ao mesmo período",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/como-o-itau-itub4-mantem-lucros-solidos-e-paga-bons-dividendos-em-tempos-dificeis/",
-      "time": "2026-08-07T13:33:48Z",
-      "cat": "fundos",
-      "tickers": [
-        "ITUB4"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/11/itau-2.jpg"
-    },
-    {
-      "title": "Mini índice perde médias móveis e pode buscar suporte nos 173,8 mil pontos; mini dólar mantém recuperação técnica, avalia BTG",
-      "summary": "O mini índice (WINQ26) pode buscar o suporte dos 173,8 mil pontos caso não consiga recuperar as médias móveis perdidas no curto prazo, segundo relatório de análise técnica do BTG Pactual divulgado nesta sexta-feira (7). ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/mini-indice-perde-medias-moveis-e-pode-buscar-suporte-nos-1738-mil-pontos-mini-dolar-mantem-recuperacao-tecnica-avalia-btg-jvka/",
-      "time": "2026-08-07T13:19:28Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/mini-indice.jpg"
-    },
-    {
-      "title": "Payroll fraco muda apostas do mercado e empurra alta de juros do Fed para outubro",
-      "summary": "O mercado reduziu as apostas de uma alta de juros pelo Federal Reserve em setembro após o payroll de julho dos Estados Unidos mostrar uma desaceleração mais forte do mercado de trabalho americano. O país criou apenas 23 ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/payroll-fraco-muda-apostas-do-mercado-e-empurra-alta-de-juros-do-fed-para-outubro-jcav/",
-      "time": "2026-08-07T13:15:16Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/04/inflacao-cpi-marco-juros-eua.jpg"
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/33413_B081795909272785-1-2.jpg"
     },
     {
       "title": "FII divulga dividendos com retorno de 1,27% ao mês",
@@ -321,141 +301,127 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/close-de-gr-fico-fin-1_03.webp"
     },
     {
-      "title": "Ibovespa cai 1,23% após Copom e tensão no exterior; Petrobras (PETR4) limita perdas",
-      "summary": "O Ibovespa encerrou o pregão desta quinta-feira (6) em forte queda, pressionado pela leitura mais cautelosa do comunicado do Comitê de Política Monetária (Copom), pela abertura dos juros globais e pela nova escalada das ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-06-agosto-2026-copom-petr4-mt/",
-      "time": "2026-08-06T21:35:10Z",
-      "cat": "economia",
-      "tickers": [
-        "PETR4"
-      ],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/c05e2f54-ibovespa-800x450-1-2-jpg.webp"
-    },
-    {
-      "title": "Essa IA criou o genoma de um vírus não encontrado na natureza pela 1ª vez — e ele funcionou",
-      "summary": "Estudo de Stanford na Science criou 16 bacteriófagos funcionais que venceram bactérias resistentes. Especialistas da Johns Hopkins pedem lei para triar quem encomenda DNA",
+      "title": "Quanto eu teria hoje se tivesse investido R$ 10 mil em ações da Vale há 5 anos?",
+      "summary": "Preço do minério, geração de caixa, dividendos e mudanças na governança ajudaram a impulsionar as ações da Vale no longo prazo",
       "source": "Exame",
-      "url": "https://exame.com/inteligencia-artificial/essa-ia-criou-o-genoma-de-um-virus-nao-encontrado-na-natureza-pela-1a-vez-e-ele-funcionou/",
-      "time": "2026-08-07T10:59:28Z",
+      "url": "https://exame.com/invest/onde-investir/quanto-eu-teria-hoje-se-tivesse-investido-r-10-mil-em-acoes-da-vale-ha-5-anos/",
+      "time": "2026-08-07T12:21:06Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/08/virus.png"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/espaco-memoria-marca-vale-new.jpg"
     },
     {
-      "title": "Bitcoin sobe após dado fraco de emprego dos EUA e avança 2,4% em 7 dias",
-      "summary": "Criptomoedas têm semana positiva em meio a uma melhora no ambiente macroeconômico para ativos de risco",
+      "title": "Vale-alimentação, seguro de vida e folga no aniversário: Getnet abre 15 novas vagas de estágio",
+      "summary": "São 15 vagas em São Paulo e Porto Alegre, com modelo híbrido e processo seletivo que já recebeu mais de 3 mil inscrições no ciclo anterior",
       "source": "Exame",
-      "url": "https://exame.com/future-of-money/bitcoin-hoje-07-08-2026/",
-      "time": "2026-08-07T10:45:40Z",
+      "url": "https://exame.com/carreira/vale-alimentacao-seguro-de-vida-e-folga-no-aniversario-getnet-abre-vagas-de-estagio/",
+      "time": "2026-08-07T12:00:47Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/03/Estagio-getnet.png"
+    },
+    {
+      "title": "Senado dos EUA adia votação da regulação de criptoativos para setembro",
+      "summary": "O líder da maioria no Senado, John Thune, confirmou que a proposta será analisada apenas em setembro, adiando mais uma etapa do processo regulatório",
+      "source": "Exame",
+      "url": "https://exame.com/future-of-money/senado-dos-eua-adia-votacao-da-regulacao-de-criptoativos-para-setembro/",
+      "time": "2026-08-07T11:56:11Z",
       "cat": "cripto",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2025/09/eua_capitol.jpg"
+    },
+    {
+      "title": "Petrobras tem \"margem enorme\" em gás, diz diretor da ANP sobre programa que quer reduzir preços",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/petrobras-tem-margem-enorme-em-gas-diz-diretor-da-anp-sobre-programa-que-quer-reduzir-precos-2031734",
+      "time": "2026-08-07T14:56:44Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB0D106_M.jpg"
+    },
+    {
+      "title": "Noruega - Ações fecharam o pregão em alta e o Índice Oslo OBX avançou 0,22%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/noruega--acoes-fecharam-o-pregao-em-alta-e-o-indice-oslo-obx-avancou-022-2031748",
+      "time": "2026-08-07T14:55:45Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEM5H1MW_1200_L.jpg"
+    },
+    {
+      "title": "Israel - Ações fecharam o pregão em alta e o Índice TA 35 avançou 0,98%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/israel--acoes-fecharam-o-pregao-em-alta-e-o-indice-ta-35-avancou-098-2031747",
+      "time": "2026-08-07T14:55:19Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEE0D09K_M.jpg"
+    },
+    {
+      "title": "Grécia - Ações fecharam o pregão em alta e o Índice Athens General Composite avançou 0,25%",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/grecia--acoes-fecharam-o-pregao-em-alta-e-o-indice-athens-general-composite-avancou-025-2031745",
+      "time": "2026-08-07T14:50:21Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEAB80S6_M.jpg"
+    },
+    {
+      "title": "Ação do Fleury dispara mais de 14% após resultado acima do esperado; BTG eleva preço-alvo",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acao-do-fleury-dispara-mais-de-14-apos-resultado-acima-do-esperado-btg-eleva-precoalvo-2031729",
+      "time": "2026-08-07T14:21:32Z",
+      "cat": "analise",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB0508S_M.jpg"
+    },
+    {
+      "title": "FLRY3: Fleury dispara 12% após lucro 46% acima: BBA mantém compra, XP fica neutro",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/flry3-fleury-dispara-12-apos-lucro-46-acima-bba-mantem-compra-xp-fica-neutro-2031726",
+      "time": "2026-08-07T14:21:04Z",
+      "cat": "internacional",
       "tickers": [
-        "BTC"
+        "FLRY3"
       ],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/kanchanara-rhm7H8X5J98-unsplash.jpg"
+      "image": "https://content-media.investing.com/news/Hospital_800x533_L_1462797073.jpg"
     },
     {
-      "title": "Redes de pizza, hambúrguer e culinária japonesa fazem fusão para criar grupo de R$ 72 milhões",
-      "summary": "Holding de franquia reúne Oliver's Pizza, Ogro Steaks e Temakeria Universitária, redes com mais de dez anos de atuação, e aposta em operações multimarcas para acelerar a expansão pelo Rio de Janeiro",
-      "source": "Exame",
-      "url": "https://exame.com/negocios/redes-de-pizza-hamburguer-e-culinaria-japonesa-fazem-fusao-para-criar-grupo-de-r-72-milhoes/",
-      "time": "2026-08-07T10:25:17Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/IMG_9690.JPG-1.jpeg"
-    },
-    {
-      "title": "JBS fecha parceria com fundo soberano da Indonésia para investir até US$ 5 bilhões",
-      "summary": "Nova joint venture reunirá os ativos da JBS na Austrália e na Nova Zelândia e financiará expansão no mercado de proteínas",
-      "source": "Exame",
-      "url": "https://exame.com/agro/jbs-fecha-parceria-com-fundo-soberano-da-indonesia-para-investir-ate-us-5-bilhoes/",
-      "time": "2026-08-07T10:09:05Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-27-at-14.53.28.jpeg"
-    },
-    {
-      "title": "Por que as ações da Newmont Goldcorp estão disparando hoje?",
+      "title": "Negociação de opções da Ardelyx dispara enquanto ação cai 18%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-newmont-goldcorp-estao-disparando-hoje-93CH-2031687",
-      "time": "2026-08-07T14:01:44Z",
+      "url": "https://br.investing.com/news/stock-market-news/negociacao-de-opcoes-da-ardelyx-dispara-enquanto-acao-cai-18-93CH-2031722",
+      "time": "2026-08-07T14:19:22Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/gold_2_M_1440047838.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB9M0BY_M.jpg"
     },
     {
-      "title": "Morgan Stanley registra queda nos prêmios de seguros em estados-chave dos EUA",
+      "title": "Ações da Qxo podem oscilar 7,9% com resultados em 14 de agosto",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/morgan-stanley-registra-queda-nos-premios-de-seguros-em-estadoschave-dos-eua-93CH-2031681",
-      "time": "2026-08-07T13:56:02Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-qxo-podem-oscilar-79-com-resultados-em-14-de-agosto-93CH-2031720",
+      "time": "2026-08-07T14:18:03Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB170IO_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB8506G_M.jpg"
     },
     {
-      "title": "PETR4: Petrobras bate consenso no 2T26 com EBITDA de US$ 19 bilhões; ações caem",
+      "title": "Ações da Poet Technologies podem oscilar 11% com resultados em 14 de agosto",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/petr4-petrobras-bate-consenso-no-2t26-com-ebitda-de-us-19-bilhoes-acoes-caem-2031678",
-      "time": "2026-08-07T13:55:39Z",
-      "cat": "internacional",
-      "tickers": [
-        "PETR4"
-      ],
-      "image": "https://content-media.investing.com/news/LYNXNPEE1R16N_M.jpg"
-    },
-    {
-      "title": "Por que a ação da Rocket Companies está se recuperando hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-a-acao-da-rocket-companies-esta-se-recuperando-hoje-93CH-2031677",
-      "time": "2026-08-07T13:53:08Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-poet-technologies-podem-oscilar-11-com-resultados-em-14-de-agosto-93CH-2031718",
+      "time": "2026-08-07T14:16:57Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg"
-    },
-    {
-      "title": "Ação da Lojas Renner desaba com piora em previsão de vendas para 2026 após 2º tri aquém do esperado",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acao-da-lojas-renner-desaba-com-piora-em-previsao-de-vendas-para-2026-apos-2o-tri-aquem-do-esperado-2031673",
-      "time": "2026-08-07T13:49:07Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB2N09U_M.jpg"
-    },
-    {
-      "title": "Pfizer constrói caso de alta a US$ 26 após resultado e compras de insiders",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/pfizer-constroi-caso-de-alta-a-us-26-apos-resultado-e-compras-de-insiders-93CH-2031669",
-      "time": "2026-08-07T13:47:35Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/pfizer_M_1440049959.jpg"
-    },
-    {
-      "title": "S&P e Nasdaq abrem em alta após dados de emprego acalmarem temores de alta de juros",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/sp-e-nasdaq-abrem-em-alta-apos-dados-de-emprego-acalmarem-temores-de-alta-de-juros-2031666",
-      "time": "2026-08-07T13:42:32Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/moved_LYNXNPEL8E0TZ_L.jpg"
-    },
-    {
-      "title": "Cinco ações disparam no pré-mercado impulsionadas por resultados trimestrais",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/cinco-acoes-disparam-no-premercado-impulsionadas-por-resultados-trimestrais-93CH-2031633",
-      "time": "2026-08-07T13:25:12Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB59082_M.jpg"
     }
   ],
-  "atualizado_em": "07/08/2026 14:13"
+  "atualizado_em": "07/08/2026 15:26"
 }
