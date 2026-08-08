@@ -13,48 +13,76 @@
   },
   "featured": [
     {
-      "title": "Bitcoin (BTC) fica perto de US$ 65 mil após payroll; veja cotação das principais criptomoedas neste sábado (8)",
-      "summary": "O bitcoin (BTC) é negociado na faixa dos US$ 64,9 mil neste sábado (8), com leve queda de 0,1% nas últimas 24 horas, segundo dados da plataforma Coingecko. No acumulado de sete dias, a maior criptomoeda do mundo registra",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bitcoin-btc-fica-perto-de-us-65-mil-apos-payroll-veja-cotacao-das-principais-criptomoedas-neste-sabado-8-igdl/",
-      "time": "2026-08-08T13:31:44Z",
-      "cat": "fundos",
-      "tickers": [
-        "BTC"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/08/image-26.png"
+      "title": "Esse professor fundou a 'Anthropic da China' — e ela vale US$ 6,6 bilhões",
+      "summary": "Tang Jie saiu do laboratório da Tsinghua para criar a Zhipu AI, hoje Z.ai, primeira empresa de modelos de linguagem do mundo a abrir capital, em Hong Kong",
+      "source": "Exame",
+      "url": "https://exame.com/inteligencia-artificial/esse-professor-fundou-a-anthropic-da-china-e-ela-vale-us-66-bilhoes/",
+      "time": "2026-08-08T15:59:55Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/08/Tang-Jie.png"
     },
     {
-      "title": "O que acontece com as ações quando o Fed começa a subir os juros?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/o-que-acontece-com-as-acoes-quando-o-fed-comeca-a-subir-os-juros-2032186",
-      "time": "2026-08-08T13:22:00Z",
-      "cat": "economia",
+      "title": "Fed quer estimular inovação nos bancos, mas alerta para riscos da IA",
+      "summary": "Michelle Bowman afirma que novas tecnologias podem ajudar bancos comunitários, mas exigem controles contra fraudes e outras vulnerabilidades",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/fed-quer-estimular-inovacao-nos-bancos-mas-alerta-para-riscos-da-ia/",
+      "time": "2026-08-08T19:34:19Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEC0409P_M.jpg"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/06/2024-06-25T120659Z_1_LYNXMPEK5O0IB_RTROPTP_4_USA-FED-BOWMAN-BOJ-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     }
   ],
   "all": [
     {
-      "title": "Carreira ‘oculta’ enfrenta escassez e pode render R$ 1,6 mi à geração Z; entenda",
-      "summary": "Segundo o relatório CAE Aviation Talent Forecast 2025, cerca de 83% desses profissionais deverão se aposentar ou deixar a profissão em todo o mundo na próxima década",
+      "title": "Quatro morrem em queda de helicóptero na Vista Chinesa, no Rio",
+      "summary": "Entre as vítimas está um piloto com 20 anos de experiência; três passageiras seriam turistas colombianas que visitavam a cidade",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/carreira/carreira-oculta-enfrenta-escassez-e-pode-render-r-16-mi-a-geracao-z-entenda/",
-      "time": "2026-08-08T18:00:00Z",
+      "url": "https://www.infomoney.com.br/brasil/quatro-morrem-em-queda-de-helicoptero-na-vista-chinesa-no-rio/",
+      "time": "2026-08-08T20:08:05Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/THIS-HIDDEN-CAREER-PATH-IS-IN-DIRE-NEED-OF-MORE-WORKERSAND-IT-CAN-PAY-GEN-Z-OVER-300000-WITH-NO-DEGREE-REQUIRED-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/vista-chinesa.jpg?fit=300%2C197&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Berkshire Hathaway acelera recompra de ações e reduz reserva de caixa",
-      "summary": "Empresa de Warren Buffett recomprou US$ 4,5 bi em ações próprias entre abril e junho e ⁠mais ‌de US$ 3,3 bi em julho",
+      "title": "Fed quer estimular inovação nos bancos, mas alerta para riscos da IA",
+      "summary": "Michelle Bowman afirma que novas tecnologias podem ajudar bancos comunitários, mas exigem controles contra fraudes e outras vulnerabilidades",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/berkshire-hathaway-acelera-recompra-de-acoes-e-reduz-reserva-de-caixa/",
-      "time": "2026-08-08T17:45:00Z",
+      "url": "https://www.infomoney.com.br/mercados/fed-quer-estimular-inovacao-nos-bancos-mas-alerta-para-riscos-da-ia/",
+      "time": "2026-08-08T19:34:19Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/06/2024-06-25T120659Z_1_LYNXMPEK5O0IB_RTROPTP_4_USA-FED-BOWMAN-BOJ-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Lula admite baixa adesão ao Move Brasil e critica bancos por travas no crédito",
+      "summary": "Presidente diz que exigências para liberação de crédito dificultam financiamento de veículos a motoristas e entregadores de aplicativo",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/lula-admite-baixa-adesao-ao-move-brasil-e-critica-bancos-por-travas-no-credito/",
+      "time": "2026-08-08T19:13:23Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/04/500px-OmahaKiewitPlaza.jpg?fit=207%2C300&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/lula-presidente-politica-pt-retrato-brasil02.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Netflix e caiaques bancados pelo plano de saúde? Entenda a polêmica nos EUA",
+      "summary": "Medicare Advantage, modalidade de plano vendida por seguradoras privadas, vem causando controvérsias nos EUA",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/business/netflix-e-caiaques-bancados-pelo-plano-de-saude-entenda-a-polemica-nos-eua/",
+      "time": "2026-08-08T19:00:00Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/RETIRE-MEDICARE-ADVANTAGE-PERKS.jpg?fit=300%2C213&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Lula declara R$ 4,7 milhões em patrimônio ao TSE, valor 35% menor em relação a 2022",
+      "summary": "Maior parte do patrimônio declarado por Lula em 2026 está concentrada em planos de previdência privada, que somam R$ 3,3 milhões",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/lula-declara-r-47-milhoes-em-patrimonio-ao-tse-valor-35-menor-em-relacao-a-2022/",
+      "time": "2026-08-08T18:47:58Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-16T174317Z_998716928_RC2S5KAX2V25_RTRMADP_3_BRAZIL-BOLIVIA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
       "title": "Dos R$ 17,4 bilhões em dividendos da Petrobras (PETR4) a calote em fundo imobiliário; confira as mais lidas da semana",
@@ -219,6 +247,26 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/iStock-1489161417-1-1-jpg.webp"
     },
     {
+      "title": "CEO do Assaí alerta para bets e juros: ‘Não era para estarmos nesse nível de endividamento’",
+      "summary": "Belmiro Gomes afirma que juros altos e avanço das apostas pressionam o orçamento das famílias e já afetam o varejo, com queda no consumo entre a população de menor renda",
+      "source": "Exame",
+      "url": "https://exame.com/negocios/ceo-do-assai-alerta-para-bets-e-juros-nao-era-para-estarmos-nesse-nivel-de-endividamento/",
+      "time": "2026-08-08T17:03:06Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2022/05/ASSAI-2.jpg"
+    },
+    {
+      "title": "Esse professor fundou a 'Anthropic da China' — e ela vale US$ 6,6 bilhões",
+      "summary": "Tang Jie saiu do laboratório da Tsinghua para criar a Zhipu AI, hoje Z.ai, primeira empresa de modelos de linguagem do mundo a abrir capital, em Hong Kong",
+      "source": "Exame",
+      "url": "https://exame.com/inteligencia-artificial/esse-professor-fundou-a-anthropic-da-china-e-ela-vale-us-66-bilhoes/",
+      "time": "2026-08-08T15:59:55Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/08/Tang-Jie.png"
+    },
+    {
       "title": "Crise no estreito de Ormuz: conheça o porto e o oleoduto que estão lucrando com o fechamento",
       "summary": "O Irã impôs, neste sábado, 8, novas exigências aos Estados Unidos para reabrir o Estreito de Ormuz. Entenda como essas condições podem atrapalhar os acordos de paz e beneficiar rotas alternativas de petróleo",
       "source": "Exame",
@@ -239,6 +287,26 @@
       "image": "https://classic.exame.com/wp-content/uploads/2025/03/2024_20_Vista-Edificio-Lina-Bo-Bardi-e-Edificio-Pietro-Maria-Bardi_foto_-Leonardo-Finotti-1.jpg"
     },
     {
+      "title": "O que seria necessário para as ações da Mercedes-Benz subirem?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/o-que-seria-necessario-para-as-acoes-da-mercedesbenz-subirem-2032255",
+      "time": "2026-08-08T20:33:28Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Rally do software europeu deixa próxima alta para investidores comprados",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/rally-do-software-europeu-deixa-proxima-alta-para-investidores-comprados-2032242",
+      "time": "2026-08-08T19:02:19Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://i-invdn-com.investing.com/news/moved_LYNXMPEHA40JZ_L.jpg"
+    },
+    {
       "title": "Alertas sobre saladas em Michigan diminuem, mas ciclosporíase mantém consumidores e supermercados preocupados",
       "summary": "",
       "source": "Investing.com",
@@ -246,7 +314,7 @@
       "time": "2026-08-08T17:56:32Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB230DM_M.jpg"
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB230DM_L.jpg"
     },
     {
       "title": "Avaliação da Nvidia está no menor nível em 10 anos, diz BofA",
@@ -266,7 +334,7 @@
       "time": "2026-08-08T17:07:06Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://i-invdn-com.investing.com/news/google_2_M_1440049078.jpg"
+      "image": "https://i-invdn-com.investing.com/news/google_2_800x533_L_1411373488.jpg"
     },
     {
       "title": "Republicanos do Senado dos EUA aprovam nomeação de Todd Blanche como procurador-geral por margem estreita",
@@ -309,5 +377,5 @@
       "image": "https://content-media.investing.com/news/LYNXMPEA8A068_M.jpg"
     }
   ],
-  "atualizado_em": "08/08/2026 18:31"
+  "atualizado_em": "08/08/2026 21:26"
 }
