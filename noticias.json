@@ -1,18 +1,27 @@
 {
   "headline": {
-    "title": "Ibovespa Hoje Ao Vivo: Bolsa recua, apesar das altas de VALE3 e PETR4",
-    "summary": "Bolsas dos EUA operam em queda, com guerra no radar e espera por CPI na quarta",
-    "source": "InfoMoney",
-    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-10082026/",
-    "time": "2026-08-10T17:37:47Z",
-    "cat": "acoes",
-    "tickers": [
-      "VALE3",
-      "PETR4"
-    ],
-    "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Ibovespa-ao-vivo-bolsa-de-valores-18.png?fit=300%2C186&amp;quality=70&amp;strip=all"
+    "title": "Dólar interrompe sequência de perdas e sobe a R$ 5,11 à espera de IPCA e ata do Copom",
+    "summary": "O dólar à vista começou a semana com ganhos, interrompendo a sequência de três quedas consecutivas, com o impasse nas negociações sobre a abertura do Estreito de Ormuz e o noticiário político ganhando força no cenário do",
+    "source": "Money Times",
+    "url": "https://www.moneytimes.com.br/dolar-10-8-26-lils/",
+    "time": "2026-08-10T20:03:34Z",
+    "cat": "economia",
+    "tickers": [],
+    "image": "https://www.moneytimes.com.br/uploads/2026/07/dolar-estrangeiros-1.jpg"
   },
   "featured": [
+    {
+      "title": "Vale (VALE3) tem data com para dividendos nesta semana; veja calendário completo",
+      "summary": "Os investidores que querem receber os proventos que a Vale (VALE3) vai pagar no dia 2 de setembro precisam comprar as ações até a próxima terça-feira (11), último dia em que a companhia registrará os acionistas com direi",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/vale-vale3-data-com-11-agosto-dividendos-jcp-2t25-go/",
+      "time": "2026-08-10T19:45:05Z",
+      "cat": "fundos",
+      "tickers": [
+        "VALE3"
+      ],
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
+    },
     {
       "title": "Dividendos: Petrobras (PETR4) se mantém no topo das preferências entre 14 analistas; veja",
       "summary": "Os meses passam, as estações mudam, mas a preferência de analistas pela Petrobras (PETR4) quando se trata de dividendos permanece intocada. É o que mostra levantamento do Money Times que mapeou 14 carteiras recomendadas ",
@@ -24,18 +33,6 @@
         "PETR4"
       ],
       "image": "https://www.moneytimes.com.br/uploads/2025/01/real.jpg"
-    },
-    {
-      "title": "VALE3: por que Vale ainda pode avançar mesmo com minério em queda",
-      "summary": "BBA mantém recomendação de compra e vê assimetria favorável para a mineradora, apesar da pressão dos preços do minério de ferro",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/vale3-por-que-vale-ainda-pode-avancar-mesmo-com-minerio-em-queda/",
-      "time": "2026-08-10T18:34:01Z",
-      "cat": "acoes",
-      "tickers": [
-        "VALE3"
-      ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Captura-de-tela-2026-03-04-144727.png?fit=300%2C200&amp;quality=70&amp;strip=all"
     }
   ],
   "all": [
@@ -64,27 +61,36 @@
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Captura-de-tela-2026-03-04-144727.png?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Alckmin: em 60 dias de vigência do acordo Mercosul-UE, exportação para UE cresceu 4%",
-      "summary": "O bloco europeu suspendeu a autorização de importação de carnes bovina e de frango do Brasil a partir de 3 de setembro",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/alckmin-em-60-dias-de-vigencia-do-acordo-mercosul-ue-exportacao-para-ue-cresceu-4/",
-      "time": "2026-08-10T17:45:12Z",
-      "cat": "acoes",
+      "title": "Wall Street fecha em queda com tombo das ações da Intel e avanço dos preços do petróleo",
+      "summary": "Os índices de Wall Street começou a semana no vermelho, em dia de recuperação dos preços do petróleo e queda das ações do setor de tecnologia. Confira o fechamento dos índices: Em destaque, Intel (INTC) caíram 4,06% (US$",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/wall-street-10-8-26-lils/",
+      "time": "2026-08-10T20:06:48Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/55130728686_c1386d1cc7_c.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/02/mercado-queda.jpg"
     },
     {
-      "title": "Ibovespa Hoje Ao Vivo: Bolsa recua, apesar das altas de VALE3 e PETR4",
-      "summary": "Bolsas dos EUA operam em queda, com guerra no radar e espera por CPI na quarta",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-10082026/",
-      "time": "2026-08-10T17:37:47Z",
-      "cat": "acoes",
+      "title": "Dólar interrompe sequência de perdas e sobe a R$ 5,11 à espera de IPCA e ata do Copom",
+      "summary": "O dólar à vista começou a semana com ganhos, interrompendo a sequência de três quedas consecutivas, com o impasse nas negociações sobre a abertura do Estreito de Ormuz e o noticiário político ganhando força no cenário do",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/dolar-10-8-26-lils/",
+      "time": "2026-08-10T20:03:34Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/dolar-estrangeiros-1.jpg"
+    },
+    {
+      "title": "Embraer (EMBJ3) entrega números fortes e BB Investimentos eleva preço-alvo; veja o que dizem analistas",
+      "summary": "O mercado reagiu positivamente ao balanço do segundo trimestre de 2026 (2T26) da Embraer (EMBJ3). Entre analistas, os termos fortes, sólidos e positivos foram utilizados para descrever os números reportados na manhã dest",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/embraer-embj3-entrega-numeros-fortes-e-bb-investimentos-eleva-preco-alvo-veja-o-que-dizem-analistas-lmrs/",
+      "time": "2026-08-10T19:48:32Z",
+      "cat": "analise",
       "tickers": [
-        "VALE3",
-        "PETR4"
+        "EMBJ3"
       ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Ibovespa-ao-vivo-bolsa-de-valores-18.png?fit=300%2C186&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/08/embraer-2.jpg"
     },
     {
       "title": "Petróleo salta 5% e volta a superar US$ 80 com impasse sobre Ormuz",
@@ -109,14 +115,16 @@
       "image": "https://www.moneytimes.com.br/uploads/2025/01/real.jpg"
     },
     {
-      "title": "Ouro tem leve recuperação e fecha em alta com apostas sobre juros nos EUA",
-      "summary": "O ouro encerrou o pregão desta segunda-feira (10) em alta, com o mercado calibrando as apostas para a trajetória dos juros nos Estados Unidos após dados de emprego mais fracos do que o esperado e expectativa para novos d",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ouro-10-8-26-lils/",
-      "time": "2026-08-10T18:28:21Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/06/ouro-mercados.png"
+      "title": "Vale (VALE3) tem data com para dividendos nesta semana; veja calendário completo",
+      "summary": "Os investidores que querem receber os proventos que a Vale (VALE3) vai pagar no dia 2 de setembro precisam comprar as ações até a próxima terça-feira (11), último dia em que a companhia registrará os acionistas com direi",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/vale-vale3-data-com-11-agosto-dividendos-jcp-2t25-go/",
+      "time": "2026-08-10T19:45:05Z",
+      "cat": "fundos",
+      "tickers": [
+        "VALE3"
+      ],
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     },
     {
       "title": "Fim do lock-up da SpaceX mexe com a oferta de ações; entenda o efeito sobre o SPCX34",
@@ -199,26 +207,34 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/215_Mesa_de_escrit_rio_c_1_2026017_16482-jpg.webp"
     },
     {
-      "title": "Boletim Focus corta novamente projeção para o IPCA 2026; veja detalhes",
-      "summary": "Boletim Focus. Foto: Pixabay A mediana do Boletim Focus para o IPCA de 2026 caiu pela sexta semana seguida, de 5,03% para 5,02% 0,52 ponto porcentual acima da meta perseguida pelo Banco Central, de 4,50%. Considerando ap",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/boletim-focus-mediana-ipca-2026-10082026-go/",
-      "time": "2026-08-10T12:36:00Z",
+      "title": "Como a geração demitida devido à IA pode ser a próxima a comandar",
+      "summary": "Cortes na média gestão de tecnologia levam profissionais altamente qualificados a modernizar empresas tradicionais e da \"boring economy\"",
+      "source": "Exame",
+      "url": "https://exame.com/bussola/como-a-geracao-demitida-devido-a-ia-pode-ser-a-proxima-a-comandar/",
+      "time": "2026-08-10T17:00:11Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2023/09/calculator-820330_1280.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/08/Olena-Yakobchuk.jpg"
     },
     {
-      "title": "MXRF11 e outros 181 FIIs vão distribuir dividendos na semana; confira valores",
-      "summary": "Os investidores de fundos imobiliários terão uma agenda intensa de pagamentos de dividendos de FIIs entre 10 e 14 de agosto de 2026. As distribuições começam na segunda-feira (10) e ganham tração ao longo dos dias, com a",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/dividendos-de-fiis-10-14-agosto/",
-      "time": "2026-08-10T11:45:05Z",
-      "cat": "fundos",
-      "tickers": [
-        "MXRF11"
-      ],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/49_Mesa_corporativa_com_1_2026017_16831-jpg.webp"
+      "title": "O conselho na era das crises permanentes",
+      "summary": "Em ambientes de alta volatilidade, o Conselho deixa de reagir ao passado e passa a preparar a empresa para o futuro",
+      "source": "Exame",
+      "url": "https://exame.com/lideres-extraordinarios/o-conselho-na-era-das-crises-permanentes/",
+      "time": "2026-08-10T16:44:05Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/08/Imagem1_04047e.jpg"
+    },
+    {
+      "title": "Fórum no Rio focará em blockchain com reguladores, bancos e empresas",
+      "summary": "Evento pré-Blockchain.RIO abre semana de debates do setor cripto no Rio de Janeiro com foco em experiência na América Latina",
+      "source": "Exame",
+      "url": "https://exame.com/future-of-money/forum-no-rio-focara-em-blockchain-com-reguladores-bancos-e-empresas/",
+      "time": "2026-08-10T16:32:48Z",
+      "cat": "cripto",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2021/10/gettyimages-1207672082.jpg"
     },
     {
       "title": "Data centers transformam terras do petróleo em 'ouro' no Texas",
@@ -231,14 +247,54 @@
       "image": "https://classic.exame.com/wp-content/uploads/2025/11/datacenter.jpg"
     },
     {
-      "title": "IA transforma atualizações 'enormes' do Linux em novo normal, diz fundador",
-      "summary": "Criador do kernel não está \"exatamente animado\" com o tamanho das últimas versões, mas não vai atrasar o lançamento por causa disso. Maioria das correções vem de ferramentas de IA",
-      "source": "Exame",
-      "url": "https://exame.com/inteligencia-artificial/ia-transforma-atualizacoes-enormes-do-linux-em-novo-normal-diz-fundador/",
-      "time": "2026-08-10T15:59:50Z",
-      "cat": "economia",
+      "title": "BRKM5: Credores da Braskem pressionam Petrobras por aporte antes de 24 de agosto",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/brkm5-credores-da-braskem-pressionam-petrobras-por-aporte-antes-de-24-de-agosto-2033704",
+      "time": "2026-08-10T19:42:29Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/06/GettyImages-1831270423.jpg"
+      "image": "https://content-media.investing.com/news/Braskem_800x533_L_1478441280.jpg"
+    },
+    {
+      "title": "Por que as ações da JBS estão caindo hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-jbs-estao-caindo-hoje-93CH-2033703",
+      "time": "2026-08-10T19:40:57Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg"
+    },
+    {
+      "title": "Blackstone se aproxima de participação de US$ 2 bilhões na Aeroplan com expansão da Air Canada",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/blackstone-se-aproxima-de-participacao-de-us-2-bilhoes-na-aeroplan-com-expansao-da-air-canada-93CH-2033698",
+      "time": "2026-08-10T19:37:28Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://content-media.investing.com/news/LYNXNPEC0K08U_L.jpg"
+    },
+    {
+      "title": "Ações da JBS despencam com anúncio de mudança na liderança",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-jbs-despencam-com-anuncio-de-mudanca-na-lideranca-93CH-2033697",
+      "time": "2026-08-10T19:37:23Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Fundo de hedge Vara cai 44% em julho com venda de ações de IA",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/fundo-de-hedge-vara-cai-44-em-julho-com-venda-de-acoes-de-ia-93CH-2033693",
+      "time": "2026-08-10T19:27:29Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": null
     },
     {
       "title": "S&P eleva rating da Griffon para BB após redução de dívida",
@@ -269,37 +325,7 @@
       "cat": "internacional",
       "tickers": [],
       "image": "https://content-media.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "title": "Por que as ações da Andersen estão caindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-andersen-estao-caindo-hoje-93CH-2033637",
-      "time": "2026-08-10T17:41:53Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg"
-    },
-    {
-      "title": "Ações da Andersen Group caem apesar do anúncio de seis aquisições",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-andersen-group-caem-apesar-do-anuncio-de-seis-aquisicoes-93CH-2033634",
-      "time": "2026-08-10T17:39:12Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg"
-    },
-    {
-      "title": "Ação da Replimune dispara após aprovação histórica da FDA e resultados trimestrais",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acao-da-replimune-dispara-apos-aprovacao-historica-da-fda-e-resultados-trimestrais-93CH-2033632",
-      "time": "2026-08-10T17:36:42Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg"
     }
   ],
-  "atualizado_em": "10/08/2026 19:30"
+  "atualizado_em": "10/08/2026 20:11"
 }
