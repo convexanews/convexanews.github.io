@@ -1,6 +1,6 @@
 {
   "headline": {
-    "title": "Por que Ibovespa recua nesta 2ª, mesmo com alta de Petrobras?",
+    "title": "Por que Ibovespa recua nesta 2ª, mesmo com alta da Petrobras?",
     "summary": "De acordo com analistas do BB Investimentos, o mercado acionário brasileiro deve seguir sensível à temporada de resultados, dados de expectativas de inflação e juros",
     "source": "InfoMoney",
     "url": "https://www.infomoney.com.br/mercados/ibovespa-abertura-fechamento-10082026/",
@@ -10,6 +10,19 @@
     "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/EspacoB3_01.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
   },
   "featured": [
+    {
+      "title": "Compre Bradesco (BBDC4), Copasa (CSMG3) e outras 8 ações para ganhar mais de 5% nesta semana, segundo Itaú BBA",
+      "summary": "A ação do Bradesco (BBDC4) é uma das recomendações de compra em day trade do Íon Itaú/Itaú BBA para esta semana. As ações da empresa fecharam a sessão da última sexta-feira (7) cotadas a R$ 17,31. O potencial de ganho no",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/compre-bradesco-bbdc4-copasa-csmg3-e-outras-8-acoes-para-ganhar-mais-de-5-nesta-semana-segundo-itau-bba-lils/",
+      "time": "2026-08-10T17:17:35Z",
+      "cat": "acoes",
+      "tickers": [
+        "BBDC4",
+        "CSMG3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/acoes-ibovespa-ibov.jpg"
+    },
     {
       "title": "Marcopolo (POMO4): O que fez o Itaú BBA cortar o preço-alvo e manter compra para o papel?",
       "summary": "Embora tenha mantido recomendação de compra para a Marcopolo (POMO4), o Itaú BBA cortou o preço-alvo do papel em cerca de 25%, para R$ 7,50, o que ainda implica um potencial de valorização (upside) de 66% sobre o fechame",
@@ -21,18 +34,6 @@
         "POMO4"
       ],
       "image": "https://www.moneytimes.com.br/uploads/2026/07/b85b476a-996d-11f0-a0f3-025c63e72f93-e1783101364385.jpg"
-    },
-    {
-      "title": "Vale (VALE3): Minério de ferro no ‘fundo do poço’? BBI vê oportunidade e ajusta preço-alvo",
-      "summary": "As ações da Vale (VALE3) podem estar próximas de um ponto de mudança, diante das pressões sobre o preço do minério de ferro. É o que avalia o Bradesco BBI em relatório após a divulgação dos resultados da mineradora do se",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/vale-vale3-esta-perto-do-fundo-do-poco-bbi-ve-oportunidade-e-ajusta-preco-alvo-ceci/",
-      "time": "2026-08-10T16:12:35Z",
-      "cat": "analise",
-      "tickers": [
-        "VALE3"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/02/locomotiva-da-vale-abastecida-com-diesel-r-em-vitoria-es-.jpg"
     }
   ],
   "all": [
@@ -47,7 +48,7 @@
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/9424_49A6BC98F657D19F.webp?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Por que Ibovespa recua nesta 2ª, mesmo com alta de Petrobras?",
+      "title": "Por que Ibovespa recua nesta 2ª, mesmo com alta da Petrobras?",
       "summary": "De acordo com analistas do BB Investimentos, o mercado acionário brasileiro deve seguir sensível à temporada de resultados, dados de expectativas de inflação e juros",
       "source": "InfoMoney",
       "url": "https://www.infomoney.com.br/mercados/ibovespa-abertura-fechamento-10082026/",
@@ -77,14 +78,77 @@
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/462597754_red.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Petróleo salta com falta de acordo em Ormuz e ataque a refinaria na Arábia Saudita",
-      "summary": "Irã condiciona reabertura do estreito a fim de bloqueio dos EUA e compensações",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/petroleo-salta-com-falta-de-acordo-em-ormuz-e-ataque-a-refinaria-na-arabia-saudita/",
-      "time": "2026-08-10T15:47:49Z",
+      "title": "Shopee entra no mercado de remédios, mas concorrente pode ser o maior beneficiado",
+      "summary": "Nesta segunda-feira (10), a Shopee deu um passo importante para entrar no mercado de medicamentos. Uma decisão da Agência Nacional de Vigilância Sanitária (Anvisa) autorizou a plataforma a comercializar remédios vendidos",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/shopee-entra-no-mercado-de-remedios-mas-concorrente-pode-ser-o-maior-beneficiado-lmrs/",
+      "time": "2026-08-10T17:21:26Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2024/11/black-friday-2024-shopee.jpg"
+    },
+    {
+      "title": "Compre Bradesco (BBDC4), Copasa (CSMG3) e outras 8 ações para ganhar mais de 5% nesta semana, segundo Itaú BBA",
+      "summary": "A ação do Bradesco (BBDC4) é uma das recomendações de compra em day trade do Íon Itaú/Itaú BBA para esta semana. As ações da empresa fecharam a sessão da última sexta-feira (7) cotadas a R$ 17,31. O potencial de ganho no",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/compre-bradesco-bbdc4-copasa-csmg3-e-outras-8-acoes-para-ganhar-mais-de-5-nesta-semana-segundo-itau-bba-lils/",
+      "time": "2026-08-10T17:17:35Z",
+      "cat": "acoes",
+      "tickers": [
+        "BBDC4",
+        "CSMG3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/acoes-ibovespa-ibov.jpg"
+    },
+    {
+      "title": "Embraer (EMBR3) lucra R$ 1,1 bilhão e ação dispara 7%; ‘Compraria para meu filho para daqui a 10 anos’, diz sócio da GT Capital",
+      "summary": "A forte alta das ações da Embraer (EMBR3) nesta segunda-feira (10) ocorreu após a divulgação dos resultados do segundo trimestre e a melhora das projeções para 2026. A companhia registrou lucro líquido ajustado de R$ 1,1",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/embraer-embr3-lucra-r-11-bilhao-e-acao-dispara-7-compraria-para-meu-filho-para-daqui-a-10-anos-diz-socio-da-gt-capital-jvka/",
+      "time": "2026-08-10T16:54:51Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/02/embraer-embr3.jpg"
+    },
+    {
+      "title": "Anvisa libera entrega de medicamentos por aplicativos como iFood, Rappi e Mercado Livre",
+      "summary": "A Agência Nacional de Vigilância Sanitária (Anvisa) liberou nesta segunda-feira, 10, a entrega de medicamentos por aplicativos e plataformas digitais. A resolução, publicada no Diário Oficial da União (DOU), cita lei de ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/anvisa-libera-entrega-de-medicamentos-por-aplicativos-como-ifood-rappi-e-mercado-livre/",
+      "time": "2026-08-10T16:49:40Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2021/06/hypera-remedios-farmacias-56.jpg"
+    },
+    {
+      "title": "Master: PF faz varredura em fundo de previdência em Alagoas e mira aporte de R$ 97 mi no banco",
+      "summary": "A Polícia Federal (PF) cumpriu nesta segunda-feira, 10, oito mandados de busca e apreensão para investigar a aplicação de recursos do Regime Próprio de Previdência Social (RPPS) do município de Maceió em letras financeir",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/master-pf-faz-varredura-em-fundo-de-previdencia-em-alagoas-e-mira-aporte-de-r-97-mi-no-banco/",
+      "time": "2026-08-10T16:45:19Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/01/master.jpg"
+    },
+    {
+      "title": "Bolsas da Europa fecham sem direção única com incerteza sobre negociações para Ormuz",
+      "summary": "As bolsas europeias fecharam sem direção única nesta segunda-feira (10) em meio à indefinição nas negociações para uma eventual reabertura do Estreito de Ormuz, as quais sustentam os preços do petróleo. Em Londres, o FTS",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/bolsas-da-europa-fecham-sem-direcao-unica-com-incerteza-sobre-negociacoes-para-ormuz/",
+      "time": "2026-08-10T16:43:27Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-05T152255Z_1_LYNXMPEM741G1_RTROPTP_4_IRAN-CRISIS-OMAN-HORMUZ.jpg?fit=300%2C194&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/bolsa-de-frankfurt.jpg"
+    },
+    {
+      "title": "Banco Central avalia interligar Pix a sistemas de pagamentos internacionais",
+      "summary": "O Banco Central afirmou nesta segunda-feira que avalia a interligação do Pix com sistemas de pagamentos instantâneos de outros países, argumentando que a iniciativa geraria maior eficiência e menor custo de transações, e",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/bc-avalia-interligar-pix-a-sistemas-de-pagamentos-estrangeiros-em-meio-a-ataques-dos-eua/",
+      "time": "2026-08-10T16:37:41Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/07/pix-receita-federal.jpg"
     },
     {
       "title": "Marcopolo (POMO4): O que fez o Itaú BBA cortar o preço-alvo e manter compra para o papel?",
@@ -99,60 +163,16 @@
       "image": "https://www.moneytimes.com.br/uploads/2026/07/b85b476a-996d-11f0-a0f3-025c63e72f93-e1783101364385.jpg"
     },
     {
-      "title": "Vale (VALE3): Minério de ferro no ‘fundo do poço’? BBI vê oportunidade e ajusta preço-alvo",
-      "summary": "As ações da Vale (VALE3) podem estar próximas de um ponto de mudança, diante das pressões sobre o preço do minério de ferro. É o que avalia o Bradesco BBI em relatório após a divulgação dos resultados da mineradora do se",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/vale-vale3-esta-perto-do-fundo-do-poco-bbi-ve-oportunidade-e-ajusta-preco-alvo-ceci/",
-      "time": "2026-08-10T16:12:35Z",
-      "cat": "analise",
-      "tickers": [
-        "VALE3"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/02/locomotiva-da-vale-abastecida-com-diesel-r-em-vitoria-es-.jpg"
-    },
-    {
-      "title": "A ‘nova era’ do IRB (be): Expansão internacional e dividendos; Safra calcula potencial de alta",
-      "summary": "O Safra elevou a recomendação de IRB (be) (IRBR3) para Outperform – equivalente a compra – e aumentou o preço-alvo de R$ 61 para R$ 66, o que representa um potencial de alta de 25% com relação aos preços atuais da ação. ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/a-nova-era-do-irb-be-expansao-internacional-e-dividendos-safra-calcula-potencial-de-alta/",
-      "time": "2026-08-10T15:51:30Z",
-      "cat": "fundos",
-      "tickers": [
-        "IRBR3"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/03/irb-2.jpg"
-    },
-    {
-      "title": "Pix: Banco Central adia lançamento de ferramenta que rastreia dinheiro em contas laranja",
-      "summary": "O Banco Central (BC) adiou a data de entrada em vigor da funcionalidade do Pix capaz de rastrear dinheiro nas chamadas contas laranja. Originalmente, a ferramenta deveria entrar no ar nesta segunda-feira (10). No entanto",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/pix-banco-central-adia-lancamento-ferramenta-rastreia-dinheiro-contas-laranja-rsgp/",
-      "time": "2026-08-10T14:47:18Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2024/08/pix-golpe.jpg"
-    },
-    {
-      "title": "Embraer (EMBJ3) lidera altas do Ibovespa após números do 2T26; CEO vê lucratividade crescendo mais do que receitas nos próximos anos",
-      "summary": "As ações da Embraer (EMBJ3) são o destaque positivo do Ibovespa (IBOV) nesta segunda-feira (10), com um salto de mais de 9% apenas na primeira hora de pregão. O desempenho ocorre em reação ao balanço do segundo trimestre",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/embraer-embj3-lidera-altas-do-ibovespa-apos-numeros-do-2t26-ceo-ve-lucratividade-crescendo-mais-do-que-receitas-nos-proximos-anos-lmrs/",
-      "time": "2026-08-10T14:42:07Z",
+      "title": "Fleury (FLRY3) vê lucro saltar 46% no 2T26 e anuncia R$ 217,8 milhões em JCP",
+      "summary": "O Fleury (FLRY3) encerrou o segundo trimestre de 2026 combinando crescimento de receita, avanço da geração de caixa e um salto de quase 46% no lucro líquido. O desempenho veio acompanhado de outro anúncio relevante para ",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/fleury-flry3-resultado-2t26-lucro-jcp-mt/",
+      "time": "2026-08-10T16:55:05Z",
       "cat": "acoes",
       "tickers": [
-        "EMBJ3"
+        "FLRY3"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/04/embraer.jpg"
-    },
-    {
-      "title": "Dividendo de 13,5%: Estes são os melhores fundos para investir em agosto, segundo o BTG",
-      "summary": "O BTG Pactual promoveu ajustes em sua carteira recomendada de fundos listados para o mês de agosto, reduzindo, em 2 pontos percentuais, a exposição ao RBR Crédito Imobiliário Estruturado (RBRY11), mas ampliando, na mesma",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/dividendo-de-135-estes-sao-os-melhores-fundos-para-investir-em-agosto-segundo-o-btg-igdl/",
-      "time": "2026-08-10T14:31:15Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/08/fundos-imobiliarios-fiis-imagem-cherdchai-chawienghong-istockphoto-id-da-foto2193626844.png"
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     },
     {
       "title": "Dividendo do BTHF11 rende 1,14% no mês; entenda quem recebe",
@@ -258,36 +278,66 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/04/joelfotos-ballots-1195005-scaled-2-jpg.webp"
     },
     {
-      "title": "TRXF11 lucra R$ 60 mi; fundo acelera expansão com aquisições no segmento logístico",
-      "summary": "O fundo imobiliário TRXF11 apurou em julho resultado operacional de R$ 59,97 milhões. A gestora manteve o ritmo de expansão do portfólio e anunciou novas aquisições que somam bilhões de reais em ativos imobiliários, com ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/trxf11-lucra-r-60-mi-fundo-acelera-expansao-com-aquisicoes-no-segmento-logistico/",
-      "time": "2026-08-07T22:45:05Z",
-      "cat": "fundos",
+      "title": "Exclusivo: Color WOW, fenômeno da Geração Z e febre de Hollywood, chega ao Brasil",
+      "summary": "Com investimento em finalização premium e um produto vendido a cada quatro segundos no mundo, Grupo L'Oréal aposta no país como laboratório global de tendências capilares; veja entrevista",
+      "source": "Exame",
+      "url": "https://exame.com/casual/exclusivo-fenomeno-da-geracao-z-e-queridinha-de-hollywood-color-wow-chega-ao-brasil/",
+      "time": "2026-08-10T14:00:19Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-10-at-12.46.20.jpeg"
+    },
+    {
+      "title": "Como as pessoas com alta inteligência emocional gerenciam suas emoções",
+      "summary": "Novo estudo mostra que questionar a própria reação pode ajudar a escolher respostas mais adequadas em situações difíceis",
+      "source": "Exame",
+      "url": "https://exame.com/carreira/como-as-pessoas-com-alta-inteligencia-emocional-gerenciam-suas-emocoes/",
+      "time": "2026-08-10T13:36:19Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2018/09/emocao-razao-e1537811944979.jpg"
+    },
+    {
+      "title": "Jeff Bezos negocia compra de participação no Liverpool em negócio de US$ 6 bilhões",
+      "summary": "Consórcio liderado por Amit Bhatia negocia cerca de um terço do clube inglês, segundo a Sky News",
+      "source": "Exame",
+      "url": "https://exame.com/esporte/jeff-bezos-negocia-compra-de-participacao-no-liverpool-em-negocio-de-us-6-bilhoes/",
+      "time": "2026-08-10T13:32:47Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/05/jeff_bezos.jpg"
+    },
+    {
+      "title": "MGLU3: Por que as ações do Magazine Luiza estão em alta hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/mglu3-por-que-as-acoes-do-magazine-luiza-estao-em-alta-hoje-2033602",
+      "time": "2026-08-10T16:56:09Z",
+      "cat": "internacional",
       "tickers": [
-        "TRXF11"
+        "MGLU3"
       ],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/close-de-gr-fico-fin-1_04.webp"
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEHAA1BN_L.jpg"
     },
     {
-      "title": "Embraer lidera altas do Ibovespa após balanço e elevação do guidance para o ano",
-      "summary": "A carteira de pedidos firmes da fabricante de aeronaves brasileira atingiu um recorde, de US$ 34,5 bilhões, crescimento superior a 16% em um ano",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/embraer-lidera-altas-do-ibovespa-apos-balanco-e-elevacao-do-guidance-para-o-ano/",
-      "time": "2026-08-10T12:26:31Z",
-      "cat": "economia",
+      "title": "Nvidia e gigantes de Wall Street planejam pacote de US$ 500 bi para IA",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/nvidia-e-gigantes-de-wall-street-planejam-pacote-de-us-500-bi-para-ia-2033598",
+      "time": "2026-08-10T16:49:10Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/08/fotoembraeer.jpg"
+      "image": null
     },
     {
-      "title": "Mercado Livre, iFood e as farmácias: quem vai ganhar a disputa pelos remédios online?",
-      "summary": "Revogação de restrições abre caminho para marketplaces como Mercado Livre, iFood e Rappi avançarem no setor farmacêutico, mas regras ainda dependem de regulamentação",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/mercado-livre-ifood-e-as-farmacias-quem-vai-ganhar-a-disputa-pelos-remedios-online/",
-      "time": "2026-08-10T12:18:33Z",
-      "cat": "economia",
+      "title": "Por que as ações da Domino’s Pizza estão caindo hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-dominos-pizza-estao-caindo-hoje-93CH-2033586",
+      "time": "2026-08-10T16:36:54Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/08/iFood-Mercado-Livre.png"
+      "image": "https://content-media.investing.com/news/LYNXMPEA6S07A_L.jpg"
     },
     {
       "title": "Reino Unido - Ações fecharam o pregão em queda e o Índice Investing.com Reino Unido 100 recuou 0,41%",
@@ -297,7 +347,7 @@
       "time": "2026-08-10T16:09:31Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/Traders_800x533_L_1644202847.jpg"
+      "image": "https://content-media.investing.com/news/Traders_150x108_S_1644202847.jpg"
     },
     {
       "title": "Espanha - Ações fecharam o pregão em alta e o Índice IBEX 35 avançou 0,03%",
@@ -318,77 +368,7 @@
       "cat": "internacional",
       "tickers": [],
       "image": "https://content-media.investing.com/news/Portugal_800x533_L_1630015779.jpg"
-    },
-    {
-      "title": "Holanda - Ações fecharam o pregão em alta e o Índice AEX avançou 0,17%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/holanda--acoes-fecharam-o-pregao-em-alta-e-o-indice-aex-avancou-017-2033567",
-      "time": "2026-08-10T16:08:07Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXMPEM2T0WR_150x108_S.jpg"
-    },
-    {
-      "title": "Itália - Ações fecharam o pregão em queda e o Índice Investing.com Itália 40 recuou 0,22%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/italia--acoes-fecharam-o-pregao-em-queda-e-o-indice-investingcom-italia-40-recuou-022-2033566",
-      "time": "2026-08-10T16:07:35Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXMPEA7509R_M.jpg"
-    },
-    {
-      "title": "Alemanha - Ações fecharam o pregão inalteradas e o Índice DAX avançou 0,14%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/alemanha--acoes-fecharam-o-pregao-inalteradas-e-o-indice-dax-avancou-014-2033565",
-      "time": "2026-08-10T16:06:58Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEC1N0HD_M.jpg"
-    },
-    {
-      "title": "França - Ações fecharam o pregão em alta e o Índice CAC 40 avançou 0,13%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/franca--acoes-fecharam-o-pregao-em-alta-e-o-indice-cac-40-avancou-013-2033564",
-      "time": "2026-08-10T16:06:05Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXMPEB1Q09D_M.jpg"
-    },
-    {
-      "title": "Bélgica - Ações fecharam o pregão em queda e o Índice BEL 20 recuou 0,17%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/belgica--acoes-fecharam-o-pregao-em-queda-e-o-indice-bel-20-recuou-017-2033563",
-      "time": "2026-08-10T16:05:23Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXMPEM4L1MC_1200_L.jpg"
-    },
-    {
-      "title": "Ações de companhias aéreas dos EUA caem com alta do petróleo por tensões com o Irã",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-de-companhias-aereas-dos-eua-caem-com-alta-do-petroleo-por-tensoes-com-o-ira-93CH-2033560",
-      "time": "2026-08-10T16:02:37Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXMPEBBH09C_M.jpg"
-    },
-    {
-      "title": "Suécia - Ações fecharam o pregão em queda e o Índice OMX Stockholm 30 recuou 0,20%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/suecia--acoes-fecharam-o-pregao-em-queda-e-o-indice-omx-stockholm-30-recuou-020-2033558",
-      "time": "2026-08-10T16:00:47Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEH9R0FW_L.jpg"
     }
   ],
-  "atualizado_em": "10/08/2026 16:26"
+  "atualizado_em": "10/08/2026 17:25"
 }
