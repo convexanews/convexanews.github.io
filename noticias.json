@@ -1,106 +1,182 @@
 {
   "headline": {
-    "title": "Ibovespa derrete mais de 2%, ao pior nível desde janeiro; dólar dispara a R$ 5,16",
-    "summary": "Índices nos EUA caem com guerra, ações de tecnologia e espera por inflação",
-    "source": "InfoMoney",
-    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-11082026/",
-    "time": "2026-08-11T20:26:08Z",
+    "title": "Ibovespa despenca 2,5% e dólar salta 1% com cenário eleitoral e alerta do JP Morgan",
+    "summary": "Ata do Copom reforçou cautela com juros, enquanto investidores também monitoraram o IPCA, a alta do petróleo e as incertezas sobre Ormuz",
+    "source": "Exame",
+    "url": "https://exame.com/invest/mercados/ibovespa-despenca-25-e-dolar-salta-1-com-cenario-eleitoral-e-alerta-do-jp-morgan/",
+    "time": "2026-08-11T17:44:55Z",
     "cat": "economia",
     "tickers": [],
-    "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-17-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    "image": "https://classic.exame.com/wp-content/uploads/2023/07/GettyImages-1079623244.jpg"
   },
   "featured": [
     {
-      "title": "Dólar hoje sobe 1% e vai a R$ 5,16 após IPCA acima do esperado e pesquisa eleitoral",
-      "summary": "Investidores também monitoraram as negociações no Oriente Médio",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-11082026/",
-      "time": "2026-08-11T20:38:50Z",
-      "cat": "economia",
+      "title": "Ibovespa despenca 2,50% e volta ao menor nível desde janeiro com saída de estrangeiros",
+      "summary": "O Ibovespa ampliou a sequência negativa nesta terça-feira (11) e fechou o sexto pregão consecutivo em queda, pressionado principalmente pela saída de investidores estrangeiros e pelo rebaixamento da recomendação para os ",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-11-agosto-2026-jpmorgan-estrangeiros-mt/",
+      "time": "2026-08-11T21:35:09Z",
+      "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/Impacto-do-dolar-nos-investimentos.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     },
     {
-      "title": "Ibovespa tomba 2,5% e atinge menor nível desde janeiro com piora da percepção de risco local; dólar sobe",
-      "summary": "Com a agenda agitada por dados de inflação e cenário eleitoral, o Ibovespa (IBOV) teve mais um dia de forte aversão a risco no mercado local, completando a sexta perda consecutiva. Nesta terça-feira (11), o principal índ",
+      "title": "Taxas dos DIs fecham em alta com IPCA, ata do Copom e pesquisa eleitoral",
+      "summary": "As taxas dos Depósitos Interfinanceiros (DIs) fecharam a terça-feira (11) em alta, com os investidores reagindo aos dados de inflação do IPCA, que ficou acima do esperado, e digerindo a ata da última reunião do Copom e n",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ibovespa-11-8-26-lils/",
-      "time": "2026-08-11T20:29:19Z",
+      "url": "https://www.moneytimes.com.br/taxas-dos-dis-fecham-em-alta-com-ipca-ata-do-copom-e-pesquisa-eleitoral-lils/",
+      "time": "2026-08-11T21:08:10Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/06/mercado-morning-ibovespa-wall-street-2.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2023/10/juros-futuros.jpg"
     }
   ],
   "all": [
     {
-      "title": "Dólar hoje sobe 1% e vai a R$ 5,16 após IPCA acima do esperado e pesquisa eleitoral",
-      "summary": "Investidores também monitoraram as negociações no Oriente Médio",
+      "title": "Direcional (DIRR3) fecha 2º tri com alta de 9,7% no lucro, para R$ 202 milhões",
+      "summary": "A empresa também divulgou que seu conselho de administração aprovou a abertura de um novo programa de recompra de até 32 milhões de ações",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-11082026/",
-      "time": "2026-08-11T20:38:50Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/Impacto-do-dolar-nos-investimentos.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "url": "https://www.infomoney.com.br/mercados/direcional-dirr3-resultados-segundo-trimestre-2026/",
+      "time": "2026-08-11T21:41:16Z",
+      "cat": "acoes",
+      "tickers": [
+        "DIRR3"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/dirr_1.webp?fit=300%2C159&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Ibovespa cai 2,5% e fecha abaixo dos 168 mil com mais sinais de saída de estrangeiros",
-      "summary": "Ainda em destaque, o JPMorgan rebaixou as ações do Brasil para neutro dentro da América Latina",
+      "title": "Enjoei (ENJU3) eleva prejuízo a R$ 47,6 milhões no 2º tri",
+      "summary": "Receita líquida conseguiu crescer, com alta de 24% no ano, a R$ 60 milhões",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-cai-15-e-perde-os-170-mil-pontos-com-mais-sinais-de-saida-de-estrangeiros/",
-      "time": "2026-08-11T20:34:14Z",
+      "url": "https://www.infomoney.com.br/mercados/enjoei-enju3-resultados-segundo-trimestre-2026/",
+      "time": "2026-08-11T21:38:58Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/10/shutterstock_1461411428.png?fit=300%2C169&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2023/07/enjoei.jpg?fit=300%2C167&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "FGC cobra balanço do BRB para seguir com análise de empréstimo para salvar banco",
-      "summary": "Fundo ainda rebate afirmação de que teria sinalizado concordância com acordo do STF para tentar viabilizar operação de crédito",
+      "title": "Flávio prepara regra fiscal com aperto maior de gastos em caso de dívida alta",
+      "summary": "Proposta em estudo prevê que crescimento das despesas será sempre menor que o das receitas, em percentuais variáveis conforme o nível da dívida",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/fgc-cobra-balanco-do-brb-para-seguir-com-analise-de-emprestimo-para-salvar-banco/",
-      "time": "2026-08-11T20:26:43Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/450774857.jpg?fit=300%2C225&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Cory Alimentos faliu, teve fábricas lacradas e hoje fatura mais de R$ 300 milhões",
-      "summary": "Depois de perder espaço nas prateleiras e ver o fundador proibido de entrar na empresa, fabricante da Bala Chita volta a crescer e projeta expansão",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/business/cory-alimentos-faliu-teve-fabricas-lacradas-e-hoje-fatura-mais-de-r-300-milhoes/",
-      "time": "2026-08-11T20:26:30Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/co.jpg?fit=300%2C208&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Ibovespa derrete mais de 2%, ao pior nível desde janeiro; dólar dispara a R$ 5,16",
-      "summary": "Índices nos EUA caem com guerra, ações de tecnologia e espera por inflação",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-11082026/",
-      "time": "2026-08-11T20:26:08Z",
+      "url": "https://www.infomoney.com.br/politica/campanha-de-flavio-prepara-regra-com-aperto-maior-de-gastos-em-caso-de-divida-alta/",
+      "time": "2026-08-11T21:02:37Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-17-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-11T200624Z_1_LYNXMPEM7A1GS_RTROPTP_4_BRAZIL-BOLSONARO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Taxas dos DIs fecham em alta em dia com IPCA, ata do Copom e pesquisa eleitoral",
-      "summary": "No fim ​da tarde, a taxa do DI para janeiro de 2028 estava em 13,905%, em alta de ​8 pontos-base ante o ajuste de 13,825% da sessão anterior",
+      "title": "PagBank (PAGS34) tem lucro recorrente de R$ 576 mi no 2º tri",
+      "summary": "Banco digital teve receita líquida de ⁠R$3,38 ‌bilhões no segundo trimestre, ⁠alta de 1,7% ao ano",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/taxas-dos-dis-fecham-em-alta-em-dia-com-ipca-ata-do-copom-e-pesquisa-eleitoral/",
-      "time": "2026-08-11T20:16:35Z",
+      "url": "https://www.infomoney.com.br/mercados/pagbank-pags34-resultados-segundo-trimestre-2026/",
+      "time": "2026-08-11T21:01:45Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/Sede-do-PagBank-Sao-Paulo_04-1-e1733158382154.jpeg?fit=300%2C164&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Bolsas de NY fecham em queda com impasse no Oriente Médio e cautela pré-CPI",
+      "summary": "O Dow Jones caiu 0,34%, aos 53.791,97 pontos. O SP 500 perdeu 0,32%, a 7.728,11 pontos e o Nasdaq recuou 0,60%, encerrando em 26.445,45 pontos",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-em-queda-com-impasse-no-oriente-medio-e-cautela-pre-cpi/",
+      "time": "2026-08-11T20:58:14Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-29T060934Z_964769431_RC25EKAJLMU1_RTRMADP_3_USA-MARKETS-IRAN-TRADING.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Usiminas e Gerdau: BBA vê hora de pisar no freio e corta recomendações; ações desabam",
+      "summary": "A recomendação para as duas siderúrgicas passou de compra para neutra",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/usiminas-bba-ve-hora-de-pisar-no-freio-e-corta-recomendacao-para-neutra-acao-cai/",
+      "time": "2026-08-11T20:50:13Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2023/12/2023-12-19T145126Z_1_LYNXMPEJBI0KZ_RTROPTP_4_BRAZIL-USIMINAS-BLASTFURNACE.jpg?fit=300%2C193&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Natura (NATU3) surpreende baixas expectativas e ação sobe 1,5% após balanço do 2T",
+      "summary": "Natura surpreendeu positivamente, após expectativas terem sido revisadas para baixo em função da prévia de vendas decepcionante",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/natura-natu3-surpreende-baixas-expectativas-e-acao-sobe-3-apos-balanco-do-2t/",
+      "time": "2026-08-11T20:44:21Z",
+      "cat": "acoes",
+      "tickers": [
+        "NATU3"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/2024-08-13T162042Z_1925112301_RC26N4AFNR7W_RTRMADP_3_NATURA-CO-HLDG-RESULTS-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Enjoei (ENJU3) eleva prejuízo a R$ 47,6 milhões no 2T26",
+      "summary": "A Enjoei (ENJU3), que administra uma plataforma de comércio eletrônico, teve prejuízo líquido de R$ 47,6 milhões no segundo trimestre (2T26) ante resultado negativo de cerca de R$8 milhões no mesmo período do ano passado",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/enjoei-enju3-eleva-prejuizo-a-r-476-milhoes-no-2t26-pads/",
+      "time": "2026-08-11T21:40:01Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/enjoei-enju3-imagem-divulgacao.png"
+    },
+    {
+      "title": "Axia Energia (AXIA3) define prazo para conversão de ações classe C em ordinárias",
+      "summary": "A Axia Energia (AXIA3) informou nesta terça-feira (11) que os titulares de ações preferenciais classe C (PNC) terão entre 12 e 14 de agosto para manifestar interesse na conversão dos papéis em ações ordinárias. O prazo c",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/axia-energia-axia3-define-prazo-para-conversao-de-acoes-classe-c-em-ordinarias-pads/",
+      "time": "2026-08-11T21:35:07Z",
+      "cat": "acoes",
+      "tickers": [
+        "AXIA3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2025/11/axia-energia.jpg"
+    },
+    {
+      "title": "Oi (OIBR3) adia novamente balanços e não divulgará resultados do 1T26 e 2T26",
+      "summary": "A Oi (OIBR3) adiou novamente a divulgação de suas demonstrações financeiras e informou nesta terça-feira (11) que ainda não concluiu os trabalhos necessários para publicar os balanços referentes a 2025 e aos dois primeir",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/oi-oibr3-adia-novamente-balancos-e-nao-divulgara-resultados-do-1t26-e-2t26/",
+      "time": "2026-08-11T21:32:45Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/1-91.png"
+    },
+    {
+      "title": "Cury (CURY3) aprova R$ 190 milhões em dividendos; veja quem tem direito",
+      "summary": "A Cury (CURY3) aprovou a distribuição de R$ 190 milhões em dividendos intercalares, informou a companhia nesta terça-feira (11). O valor corresponde a R$ 0,6167878071 por ação ordinária. Terão direito aos dividendos os a",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/cury-cury3-aprova-r-190-milhoes-em-dividendos-veja-quem-tem-direito-pads/",
+      "time": "2026-08-11T21:24:51Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/03/cury-cury3-acoes.jpg"
+    },
+    {
+      "title": "Lula disse a chanceler das Filipinas que Brasil quer ampliar relações bilaterais, informa Secom",
+      "summary": "O presidente do Brasil, Luiz Inácio Lula da Silva (PT), teve reunião nesta terça-feira (11) com a chanceler das Filipinas, Maria Thereza Lazaro, no Palácio da Alvorada. Na reunião, os dois conversaram sobre o potencial d",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/lula-disse-a-chanceler-das-filipinas-que-brasil-quer-ampliar-relacoes-bilaterais-informa-secom/",
+      "time": "2026-08-11T21:11:45Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/presidente-luiz-inacio-lula-da-silva-marcelo-camargo-agencia-brasil-scaled.jpg"
+    },
+    {
+      "title": "Taxas dos DIs fecham em alta com IPCA, ata do Copom e pesquisa eleitoral",
+      "summary": "As taxas dos Depósitos Interfinanceiros (DIs) fecharam a terça-feira (11) em alta, com os investidores reagindo aos dados de inflação do IPCA, que ficou acima do esperado, e digerindo a ata da última reunião do Copom e n",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/taxas-dos-dis-fecham-em-alta-com-ipca-ata-do-copom-e-pesquisa-eleitoral-lils/",
+      "time": "2026-08-11T21:08:10Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/07/money-2387280_1920.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2023/10/juros-futuros.jpg"
     },
     {
-      "title": "Petróleo fecha em alta, após Irã afirmar que Estreito de Ormuz permanecerá fechado",
-      "summary": "Os futuros ‌do Brent subiram US$ 1,19, ou 1,4%, fechando a US$88,91 o barril",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-11082026/",
-      "time": "2026-08-11T20:13:24Z",
-      "cat": "internacional",
+      "title": "PagBank (PAGS34) tem lucro recorrente de R$ 576 milhões no 2T26, acima das projeções",
+      "summary": "O PagBank (PAGS34) teve lucro líquido recorrente de R$ 576 milhões no segundo trimestre (2T26), avanço de 1,9% em relação ao mesmo período do ano anterior, segundo balanço divulgado nesta terça-feira. O banco digital tev",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/pagbank-pags34-tem-lucro-recorrente-de-r-576-milhoes-no-2t26-pads/",
+      "time": "2026-08-11T20:47:49Z",
+      "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-07T191614Z_1043438909_RC2R4LAN4FM4_RTRMADP_3_IRAN-CRISIS-MISSILES-HORMUZ.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2025/06/pagbank.jpg"
     },
     {
       "title": "Ibovespa tomba 2,5% e atinge menor nível desde janeiro com piora da percepção de risco local; dólar sobe",
@@ -123,76 +199,34 @@
       "image": "https://www.moneytimes.com.br/uploads/2026/08/img-8795-e1786106330708.jpg"
     },
     {
-      "title": "Wall Street cai com incertezas sobre acordo entre EUA e Irã e queda do setor ‘tech’",
-      "summary": "Os índices de Wall Street encerraram o pregão desta terça-feira (11) em queda com o barril do petróleo de volta ao nível próximo de US$ 90 e a continuidade do impasse nas negociações entre Estados Unidos e Irã para a rea",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/wall-street-11-8-26-lils/",
-      "time": "2026-08-11T20:07:39Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2024/05/eua-wall-street-mercados-.jpg"
-    },
-    {
-      "title": "Milho e soja recuam na bolsa de Chicago com ajustes de posições antes do relatório do USDA",
-      "summary": "Os preços do milho e da soja negociados na bolsa de Chicago (CBOT) caíram nesta terça-feira, à medida que os participantes ajustavam suas posições antes da divulgação, na quarta-feira, das previsões de safra do governo d",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/milho-e-soja-recuam-na-bolsa-de-chicago-com-ajustes-de-posicoes-antes-do-relatorio-do-usda-pads/",
-      "time": "2026-08-11T20:05:31Z",
-      "cat": "analise",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/08/soja-milho-lavoura-safras.jpg"
-    },
-    {
-      "title": "Dólar sobe 1% e fecha a R$ 5,16 com ‘risco Brasil’",
-      "summary": "O dólar à vista engatou a segunda sessão consecutiva de ganhos com aumento da aversão a risco no cenário doméstico após dados de inflação e pesquisas eleitorais apontando para uma reeleição do atual governo. Nesta terça-",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/dolar-11-8-26-lils/",
-      "time": "2026-08-11T20:05:15Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/dolar-estrangeiros-1.jpg"
-    },
-    {
-      "title": "BTG Pactual (BPAC11): Faz sentido mercado estar ‘cauteloso’ com concessão de crédito, diz CFO",
-      "summary": "O BTG (BPAC11) divulgou resultados que, apesar de receberem elogios de analistas e ficarem acima das expectativas, não foram suficientes para afastar o mau humor que tomou conta do mercado. A ação lidera as perdas do Ibo",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/btg-pactual-bpac11-faz-sentido-mercado-estar-cauteloso-com-concessao-de-credito-diz-cfo-rnda/",
-      "time": "2026-08-11T19:58:34Z",
-      "cat": "analise",
-      "tickers": [
-        "BPAC11"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2024/08/btg.jpg"
-    },
-    {
-      "title": "Marco regulatório pretende regulamentar criação e comércio de cães e gatos; microchip e castração obrigatória estão em pauta",
-      "summary": "O Senado analisa projeto de lei que cria um marco regulatório com regras para criadouros e comerciantes de cães e gatos no País. O PL 4.855/2026 foi impõe normas rígidas para a criação comercial e o transporte desses ani",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/marco-regulatorio-pretende-regulamentar-criacao-e-comercio-de-caes-e-gatos-microchip-e-castracao-obrigatoria-estao-em-pauta-gaep/",
-      "time": "2026-08-11T19:38:02Z",
+      "title": "Ibovespa despenca 2,50% e volta ao menor nível desde janeiro com saída de estrangeiros",
+      "summary": "O Ibovespa ampliou a sequência negativa nesta terça-feira (11) e fechou o sexto pregão consecutivo em queda, pressionado principalmente pela saída de investidores estrangeiros e pelo rebaixamento da recomendação para os ",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-11-agosto-2026-jpmorgan-estrangeiros-mt/",
+      "time": "2026-08-11T21:35:09Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/08/tutores-com-caes-no-parcao-espaco-exclusivo-para-cachorros-na-praca-ayrton-senna-do-brasil-rvsa-abr-103020210151-1-scaled-e1786476929420.jpg"
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     },
     {
-      "title": "Autoridades iranianas reforçam que reabertura de Ormuz só ocorrerá caso EUA cumpram exigências",
-      "summary": "Autoridades iranianas reforçaram nesta terça-feira, 11, que o Estreito de Ormuz somente será reaberto em caso de os Estados Unidos cumprirem as exigências de Teerã. Em postagem na rede social X, Mojtabá Zonnur, consultor",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/autoridades-iranianas-reforcam-que-reabertura-de-ormuz-so-ocorrera-caso-eua-cumpram-exigencias/",
-      "time": "2026-08-11T19:31:40Z",
-      "cat": "internacional",
+      "title": "O que muda para os fundos de papel com Selic a 14%?",
+      "summary": "A queda da taxa Selic para 14% ao ano tende a mexer com os rendimentos dos fundos imobiliários de papel, sobretudo nos veículos com maior participação de Certificados de Recebíveis Imobiliários (CRIs) indexados ao CDI. E",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/o-que-muda-para-os-fundos-de-papel-com-selic-a-14/",
+      "time": "2026-08-11T21:15:05Z",
+      "cat": "economia",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/2026-07-24t112128z-1-lynxmpem6n0yi-rtroptp-4-iran-crisis-oman-hormuz-scaled.jpg"
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/equipe-financeira-tr-1_01-1.webp"
     },
     {
-      "title": "Petróleo avança pelo 5º dia consecutivo com impasse entre EUA e Irã sobre Ormuz",
-      "summary": "Os preços do petróleo fecharam em forte alta nesta terça-feira (11), pelo quinto dia consecutivo, com a continuação do impasse entre Estados Unidos e Irã para um acordo de reabertura do Estreito de Ormuz. O contrato mais",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/petroleo-11-8-26-lils/",
-      "time": "2026-08-11T19:14:17Z",
-      "cat": "internacional",
+      "title": "Nvidia (NVDA) pode surpreender de novo? Safra vê receita acima do consenso e IA ainda com fôlego",
+      "summary": "A Nvidia (NASDAQ: NVDA) chega ao próximo balanço com uma pergunta que já virou rotina em Wall Street: depois de tantos trimestres de crescimento explosivo, ainda dá para surpreender? Para o Safra, a resposta continua sen",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/nvidia-nvda-balanco-2t26-safra-ia-mt/",
+      "time": "2026-08-11T20:45:04Z",
+      "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/07/petroleo-1.jpg"
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     },
     {
       "title": "Movida (MOVI3) dobra lucro no 2T26; resultado confirma virada operacional?",
@@ -249,159 +283,135 @@
       "image": "https://files.sunoresearch.com.br/n/uploads/2026/03/7db34773-itausa-1280x720-1-jpg.webp"
     },
     {
-      "title": "Receita do XPML11 supera R$ 66 milhões em junho; confira os números",
-      "summary": "O fundo imobiliário XP Malls (XPML11) apurou resultado de R$ 53,936 milhões em junho, ligeiramente abaixo do mês anterior. A linha veio de receitas de R$ 66,125 milhões e despesas de R$ 12,188 milhões no período. Desse m",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/xpml11-resultado-junho-dividendos-092/",
-      "time": "2026-08-11T14:05:08Z",
-      "cat": "acoes",
-      "tickers": [
-        "XPML11"
-      ],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/131_Analista_financeiro__1_2026017_162831-jpg.webp"
-    },
-    {
-      "title": "Resultado do XPLG11 passa de R$ 36,8 milhões; fundo sinaliza proventos adiante",
-      "summary": "O fundo imobiliário XPLG11 apurou resultado de R$ 36,811 milhões em julho de 2026, montante inferior ao observado no mês anterior. No período, as receitas totalizaram R$ 46,702 milhões e as despesas somaram R$ 9,89 milhõ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/rendimentos-do-xplg11-julho-2026/",
-      "time": "2026-08-11T13:25:11Z",
-      "cat": "acoes",
-      "tickers": [
-        "XPLG11"
-      ],
-      "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/83_Mesa_de_escrit_rio_c_1_2026017_161710-jpg.webp"
-    },
-    {
-      "title": "IPCA avança 0,07% em julho e supera projeções; energia elétrica é o principal vetor",
-      "summary": "IPCA avança 0,07% em julho e supera projeções; energia elétrica é o principal vetorO Índice Nacional de Preços ao Consumidor Amplo (IPCA) subiu 0,07% em julho de 2026, ligeiramente acima do esperado pelo mercado, informo",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/ipca-julho-2026-alta-energia-eletrica-acima-expectativa-go/",
-      "time": "2026-08-11T12:48:00Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2026/03/ee8b69d8-ballots-1195084_1280-jpg.webp"
-    },
-    {
-      "title": "'Somos uma fundação que tem uma empresa': o modelo por trás do voluntariado que virou ativo de RH",
-      "summary": "Na Mapfre, a Fundação que controla a seguradora também comanda um programa de voluntariado com 64% de adesão",
+      "title": "El Niño e crianças: por que o Brasil precisa agir antes da próxima emergência climática",
+      "summary": "Com a aproximação da estação mais seca na Amazônia e chuvas mais intensas no Sul, os efeitos combinados do El Niño e das mudanças climáticas podem impactar o bem-estar de milhares de crianças e adolescentes",
       "source": "Exame",
-      "url": "https://exame.com/carreira/somos-uma-fundacao-que-tem-uma-empresa-o-modelo-por-tras-do-voluntariado-que-virou-ativo-de-rh/",
-      "time": "2026-08-11T17:07:01Z",
+      "url": "https://exame.com/esg/el-nino-e-criancas-por-que-o-brasil-precisa-agir-antes-da-proxima-emergencia-climatica/",
+      "time": "2026-08-11T18:22:41Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/12/foto-fatima-mapfre.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/crianca-de-costas-1.jpg"
     },
     {
-      "title": "Como usar o Canva AI para criar apresentações, textos e imagens em poucos minutos",
-      "summary": "Do briefing à apresentação, recursos de inteligência artificial do Canva podem ajudar profissionais a reduzir etapas na produção de conteúdos",
+      "title": "‘Staking’ de criptoativos voltará à mira da regulação, diz BC",
+      "summary": "Executivo do Banco Central afirmou que entende que o mercado reaja a cada nova regra como \"fim do mundo\"",
       "source": "Exame",
-      "url": "https://exame.com/inteligencia-artificial/como-usar-o-canva-ai-para-criar-apresentacoes-textos-e-imagens-em-poucos-minutos/",
-      "time": "2026-08-11T17:02:05Z",
+      "url": "https://exame.com/future-of-money/staking-de-criptoativos-voltara-a-mira-da-regulacao-diz-bc/",
+      "time": "2026-08-11T17:52:32Z",
+      "cat": "cripto",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/08/Image-22.jpg"
+    },
+    {
+      "title": "Ibovespa despenca 2,5% e dólar salta 1% com cenário eleitoral e alerta do JP Morgan",
+      "summary": "Ata do Copom reforçou cautela com juros, enquanto investidores também monitoraram o IPCA, a alta do petróleo e as incertezas sobre Ormuz",
+      "source": "Exame",
+      "url": "https://exame.com/invest/mercados/ibovespa-despenca-25-e-dolar-salta-1-com-cenario-eleitoral-e-alerta-do-jp-morgan/",
+      "time": "2026-08-11T17:44:55Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/04/Canva-AI-2.0-Hero-Image.png"
+      "image": "https://classic.exame.com/wp-content/uploads/2023/07/GettyImages-1079623244.jpg"
     },
     {
-      "title": "E.U.A. - Ações fecharam o pregão em queda e o Índice Dow Jones Industrial Average recuou 0,34%",
+      "title": "Por que as ações da Mineralys Therapeutics estão caindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/eua--acoes-fecharam-o-pregao-em-queda-e-o-indice-dow-jones-industrial-average-recuou-034-2035476",
-      "time": "2026-08-11T20:31:40Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-mineralys-therapeutics-estao-caindo-hoje-93CH-2035590",
+      "time": "2026-08-11T21:31:41Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXMPEM3J15O_1200_L.jpg"
+      "image": "https://content-media.investing.com/news/LYNXMPEB3R08Z_L.jpg"
     },
     {
-      "title": "Canadá - Ações fecharam o pregão em alta e o Índice S&P/TSX avançou 0,05%",
+      "title": "México - Ações fecharam o pregão em queda e o Índice S&P/BMV IPC recuou 1,32%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/canada--acoes-fecharam-o-pregao-em-alta-e-o-indice-sptsx-avancou-005-2035475",
-      "time": "2026-08-11T20:30:52Z",
+      "url": "https://br.investing.com/news/stock-market-news/mexico--acoes-fecharam-o-pregao-em-queda-e-o-indice-spbmv-ipc-recuou-132-2035589",
+      "time": "2026-08-11T21:30:22Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/Traders_800x533_L_1653396452.jpg"
+      "image": "https://content-media.investing.com/news/LYNXNPED7S129_M.jpg"
     },
     {
-      "title": "Brasil - Ações fecharam o pregão em queda e o Índice Bovespa recuou 2,50%",
+      "title": "Ibovespa e dólar hoje aguardam CPI dos EUA após  sell-off com eleição",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/brasil--acoes-fecharam-o-pregao-em-queda-e-o-indice-bovespa-recuou-250-2035474",
-      "time": "2026-08-11T20:30:24Z",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-aguardam-cpi-dos-eua-apos--selloff-com-eleicao-2035416",
+      "time": "2026-08-11T21:30:03Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": null
+    },
+    {
+      "title": "Por que as ações da Snail estão despencando hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-snail-estao-despencando-hoje-93CH-2035585",
+      "time": "2026-08-11T21:28:10Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEM3J15I_1200_L.jpg"
+      "image": null
     },
     {
-      "title": "Ações da Super Micro Computer disparam 9% após guidance superar expectativas",
+      "title": "Enjoei eleva prejuízo a R$47,6 milhões no 2º tri",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-super-micro-computer-disparam-8-apos-guidance-surpreender-2035457",
-      "time": "2026-08-11T20:21:39Z",
+      "url": "https://br.investing.com/news/stock-market-news/enjoei-eleva-prejuizo-a-r476-milhoes-no-2o-tri-2035584",
+      "time": "2026-08-11T21:28:07Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEB66095_M.jpg"
+      "image": "https://content-media.investing.com/news/LYNXNPEB6U08A_L.jpg"
     },
     {
-      "title": "Fundos de hedge registram maior semana de compras desde 2008, diz BofA",
+      "title": "Por que as ações da Absci estão caindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/fundos-de-hedge-registram-maior-semana-de-compras-desde-2008-diz-bofa-93CH-2035442",
-      "time": "2026-08-11T20:17:34Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-absci-estao-caindo-hoje-93CH-2035583",
+      "time": "2026-08-11T21:27:44Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
+      "image": "https://content-media.investing.com/news/LYNXNPEB9M0BY_L.jpg"
     },
     {
-      "title": "JPMorgan rebaixa classificação de Brasil para \"neutra\" em portfólio de ações na América Latina",
+      "title": "Colômbia - Ações fecharam o pregão em alta e o Índice COLCAP avançou 2,14%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/jpmorgan-rebaixa-classificacao-de-brasil-para-neutra-em-portfolio-de-acoes-na-america-latina-2035371",
-      "time": "2026-08-11T20:15:05Z",
+      "url": "https://br.investing.com/news/stock-market-news/colombia--acoes-fecharam-o-pregao-em-alta-e-o-indice-colcap-avancou-214-2035581",
+      "time": "2026-08-11T21:25:21Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://content-media.investing.com/news/Colombian_Securities_Exchange_M_1440056295.jpg"
+    },
+    {
+      "title": "Por que a ação da Openlane está caindo hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-a-acao-da-openlane-esta-caindo-hoje-93CH-2035578",
+      "time": "2026-08-11T21:23:15Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEB65083_M.jpg"
+      "image": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg"
     },
     {
-      "title": "Por que as ações da MDA Space estão subindo hoje?",
+      "title": "Por que as ações da Savers Value Village estão caindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-mda-space-estao-subindo-hoje-93CH-2035407",
-      "time": "2026-08-11T20:07:51Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-savers-value-village-estao-caindo-hoje-93CH-2035577",
+      "time": "2026-08-11T21:23:14Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg"
+      "image": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg"
     },
     {
-      "title": "Ibovespa cai forte com receio sobre efeito de juro alto na atividade econômica",
+      "title": "Rússia - Ações fecharam o pregão em alta e o Índice MOEX Russia Index avançou 1,32%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-cai-forte-com-receio-sobre-efeito-de-juro-alto-na-atividade-economica-2035405",
-      "time": "2026-08-11T20:07:29Z",
+      "url": "https://br.investing.com/news/stock-market-news/russia--acoes-fecharam-o-pregao-em-alta-e-o-indice-moex-russia-index-avancou-132-2035571",
+      "time": "2026-08-11T21:20:22Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEC1H1FL_M.jpg"
-    },
-    {
-      "title": "Grãos recuam na bolsa de Chicago com ajustes de posições antes do relatório do USDA",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/graos-recuam-na-bolsa-de-chicago-com-ajustes-de-posicoes-antes-do-relatorio-do-usda-2035386",
-      "time": "2026-08-11T19:56:25Z",
-      "cat": "analise",
-      "tickers": [],
-      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM7A1G3_1200_L.jpg"
-    },
-    {
-      "title": "Por que as ações da Rockwell Automation estão subindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-rockwell-automation-estao-subindo-hoje-93CH-2035385",
-      "time": "2026-08-11T19:54:48Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
+      "image": "https://content-media.investing.com/news/LYNXMPEB0I0LJ_M.jpg"
     }
   ],
-  "atualizado_em": "11/08/2026 20:41"
+  "atualizado_em": "11/08/2026 21:44"
 }
