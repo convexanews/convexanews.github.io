@@ -1,37 +1,79 @@
 {
   "headline": {
-    "title": "Agenda econômica: Ata do Copom e IPCA são destaques desta terça-feira (11); confira os horários",
-    "summary": "O Banco Central (BC) publica a ata do Comitê de Política Monetária (Copom) nesta terça-feira (11), às 8h. O documento deve detalhar os motivos que levaram o colegiado a reduzir a taxa básica de juros, a Selic, na semana ",
+    "title": "Dia D dos juros: ata do Copom e IPCA mexem com o mercado; Ibovespa em dólar cai hoje (11)",
+    "summary": "O mercado acompanha nesta terça-feira (11) a divulgação da ata da última reunião do Comitê de Política Monetária (Copom), que reduziu a taxa básica de juros para 14% ao ano. O documento é aguardado pelos investidores por",
     "source": "Money Times",
-    "url": "https://www.moneytimes.com.br/agenda-economica-ata-do-copom-e-ipca-sao-destaques-desta-terca-feira-11-confira-os-horarios-jvka/",
-    "time": "2026-08-11T09:17:00Z",
+    "url": "https://www.moneytimes.com.br/dia-d-dos-juros-ata-do-copom-e-ipca-mexem-com-o-mercado-ibovespa-em-dolar-cai-hoje-11/",
+    "time": "2026-08-11T09:59:37Z",
     "cat": "economia",
     "tickers": [],
-    "image": "https://www.moneytimes.com.br/uploads/2026/07/banco-central-bc-copom-selic-4.jpg"
+    "image": "https://www.moneytimes.com.br/uploads/2026/07/mercado-mercados-wall-street-ibovespa-ibov-bolsas-morning.png"
   },
   "featured": [
     {
-      "title": "Ata do Copom, IPCA, balanços e mais destaques desta terça-feira",
-      "summary": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta terça-feira (11)",
+      "title": "Minidólar (WDOU26): IPCA e Ata do Copom podem elevar a volatilidade",
+      "summary": "Saiba o que esperar para o minidólar nesta terça (11)",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ata-copom-ipca-balancos-agenda-11082026/",
-      "time": "2026-08-11T09:02:01Z",
+      "url": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdou26-11082026/",
+      "time": "2026-08-11T10:07:00Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-23T222149Z_1_LYNXMPEM3M1IN_RTROPTP_4_BRAZIL-ECONOMY-FX.jpg?fit=300%2C214&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/WDOU26-15-MINUTOS-11.08.2026.png?fit=300%2C137&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Tempo real: Ibovespa monitora inflação no Brasil e ata do Copom",
-      "summary": "Resumo: O Ibovespa (IBOV) acompanha a divulgação da ata da última reunião do Copom e do IPCA, principal indicador de inflação do país. Os mercados japoneses permanecem fechados devido a feriado. Destaques: Confira os pri",
+      "title": "Vale comprar Ibovespa agora, mesmo com incertezas no curto prazo? Estrategista da Santander Corretora enxerga uma oportunidade",
+      "summary": "A bolsa brasileira, a B3, enfrenta alguns desafios na reta final do ano: incertezas com a credibilidade de um ajuste fiscal, trade eleitoral com a proximidade das eleições para a Presidência da República e juros nominais",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/tempo-real-ibovespa-hoje-mercado-ao-vivo-11-08-2026-jals-lils-apsa/",
-      "time": "2026-08-11T09:00:00Z",
-      "cat": "economia",
+      "url": "https://www.moneytimes.com.br/vale-comprar-ibovespa-agora-mesmo-com-incertezas-no-curto-prazo-estrategista-da-santander-corretora-enxerga-uma-oportunidade-apsa/",
+      "time": "2026-08-11T10:00:00Z",
+      "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/ibovespa-acoes.png"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/acoes-carteira-recomendada-ibovespa-mercados-.png"
     }
   ],
   "all": [
+    {
+      "title": "BTG Pactual (BPAC11) tem alta de 22,2% no lucro no 2º trimestre",
+      "summary": "O resultado foi acompanhado por receitas de R$ 10,4 bilhões, crescimento de 4% ante o 1T26 e de 15,9% em um ano",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/btg-pactual-bpac11-resultado-segundo-trimestre-2026/",
+      "time": "2026-08-11T10:27:24Z",
+      "cat": "analise",
+      "tickers": [
+        "BPAC11"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/10/2024-10-17T221154Z_1_LYNXMPEK9G0U4_RTROPTP_4_BANCOS-BTG-PACTUAL-SA-EMISSAO.jpg?fit=300%2C225&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Minidólar (WDOU26): IPCA e Ata do Copom podem elevar a volatilidade",
+      "summary": "Saiba o que esperar para o minidólar nesta terça (11)",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdou26-11082026/",
+      "time": "2026-08-11T10:07:00Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/WDOU26-15-MINUTOS-11.08.2026.png?fit=300%2C137&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Mini-índice (WINQ26) hoje: mercado busca reação após seis quedas seguidas",
+      "summary": "Confira o que a análise técnica aponta para o mini-índice hoje (11 de agosto)",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winq26-11082026/",
+      "time": "2026-08-11T10:04:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/WINQ26-15-MINUTOS-11.08.2026.png?fit=300%2C136&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Day Trade hoje (11): Ibovespa chega à 5ª baixa; há espaço para reação?",
+      "summary": "Confira os pontos de suporte e resistência do mini-índice e minidólar",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-11082026/",
+      "time": "2026-08-11T10:01:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/12/Daytrade-hoje.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+    },
     {
       "title": "Esperanças de acordo sobre Ormuz se esvaem enquanto Trump exige indenizações do Irã",
       "summary": "A proposta de Trump, que não havia sido levantada anteriormente, foi uma resposta às exigências de Teerã por indenização e pelo fim das sanções",
@@ -53,44 +95,44 @@
       "image": "https://www.infomoney.com.br/wp-content/uploads/2024/04/2024-04-09T001025Z_1_LYNXNPEK38001_RTROPTP_4_EMPRESAS-TRUMP-MEDIA-ACAO.jpg?fit=300%2C189&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Ata do Copom, IPCA, balanços e mais destaques desta terça-feira",
-      "summary": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta terça-feira (11)",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ata-copom-ipca-balancos-agenda-11082026/",
-      "time": "2026-08-11T09:02:01Z",
+      "title": "IPC-Fipe: Inflação em São Paulo sobe 0,05% no início de agosto",
+      "summary": "O Índice de Preços ao Consumidor (IPC), que mede a inflação na cidade de São Paulo, subiu 0,05% na primeira quadrissemana de agosto, após recuar 0,03% em julho, segundo dados divulgados nesta terça-feira, 11, pela Fundaç",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ipc-fipe-sobe-005-na-1a-quadrissemana-de-agosto-apos-cair-003-em-julho/",
+      "time": "2026-08-11T10:49:00Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-23T222149Z_1_LYNXMPEM3M1IN_RTROPTP_4_BRAZIL-ECONOMY-FX.jpg?fit=300%2C214&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/porcentagem.jpg"
     },
     {
-      "title": "Dow Jones Futuro cai com petróleo em alta antes de inflação nos EUA",
-      "summary": "Preços do petróleo avançam pelo quinto dia, enquanto investidores aguardam o CPI de quarta-feira em busca de sinais sobre os próximos passos do Fed",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/dow-jones-futuro-cai-com-petroleo-em-alta-antes-de-inflacao-nos-eua/",
-      "time": "2026-08-11T08:45:11Z",
+      "title": "Bolsas da Europa operam sem força com alta do petróleo e impasse sobre Ormuz",
+      "summary": "As bolsas europeias operam sem força e com variações modestas na manhã desta terça-feira (11), enquanto o petróleo segue avançando em meio ao impasse nas negociações para reabrir o Estreito de Ormuz. Por volta das 6h15 (",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/bolsas-da-europa-operam-sem-forca-com-alta-do-petroleo-e-impasse-sobre-ormuz/",
+      "time": "2026-08-11T10:11:08Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/bolsa-de-frankfurt.jpg"
+    },
+    {
+      "title": "Vale comprar Ibovespa agora, mesmo com incertezas no curto prazo? Estrategista da Santander Corretora enxerga uma oportunidade",
+      "summary": "A bolsa brasileira, a B3, enfrenta alguns desafios na reta final do ano: incertezas com a credibilidade de um ajuste fiscal, trade eleitoral com a proximidade das eleições para a Presidência da República e juros nominais",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/vale-comprar-ibovespa-agora-mesmo-com-incertezas-no-curto-prazo-estrategista-da-santander-corretora-enxerga-uma-oportunidade-apsa/",
+      "time": "2026-08-11T10:00:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/acoes-carteira-recomendada-ibovespa-mercados-.png"
+    },
+    {
+      "title": "Dia D dos juros: ata do Copom e IPCA mexem com o mercado; Ibovespa em dólar cai hoje (11)",
+      "summary": "O mercado acompanha nesta terça-feira (11) a divulgação da ata da última reunião do Comitê de Política Monetária (Copom), que reduziu a taxa básica de juros para 14% ao ano. O documento é aguardado pelos investidores por",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/dia-d-dos-juros-ata-do-copom-e-ipca-mexem-com-o-mercado-ibovespa-em-dolar-cai-hoje-11/",
+      "time": "2026-08-11T09:59:37Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/wall-street-7661685_1280.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Musk quer erguer no Texas a maior instalação industrial do planeta",
-      "summary": "Estrutura abrigará a produção de chips para IA e faz parte dos planos de expansão da Tesla e da SpaceX",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/business/global/musk-quer-erguer-no-texas-a-maior-instalacao-industrial-do-planeta/",
-      "time": "2026-08-11T08:00:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/EVERYTHINGS-BIGGER-IN-TEXAS-MUSKS-PLANNED-168-BILLION-CHIP-FACTORY-IS-FIVE-TIMES-BIGGER-THAN-THE-WORLDS-CURRENT-LARGEST-BUILDING.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Por que um banco italiano guarda 500 mil peças de queijo em seus cofres",
-      "summary": "Credem usa Parmigiano Reggiano como garantia de empréstimos, mas calor extremo começa a pressionar toda a cadeia de produção",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/business/global/por-que-um-banco-italiano-guarda-500-mil-pecas-de-queijo-em-seus-cofres/",
-      "time": "2026-08-11T08:00:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/ITALYS-47-BILLION-CHEESE-ECONOMY-IS-FEELING-THE-HEAT-AS-CLIMATE-CHANGE-THREATENS-ITS-CHEESE-BANKS-THAT-HOLD-PARMIGIANO-WHEELS-AS-LOAN-COLLATERAL.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/mercado-mercados-wall-street-ibovespa-ibov-bolsas-morning.png"
     },
     {
       "title": "Inflação de julho pode repetir surpresa positiva e colocar uma pitada de bom humor no mercado; o que esperar do IPCA hoje?",
@@ -133,56 +175,6 @@
         "BPAC11"
       ],
       "image": "https://www.moneytimes.com.br/uploads/2024/06/btg-pactual.jpg"
-    },
-    {
-      "title": "Caixa Seguridade (CXSE3) anuncia lucro de R$ 1,14 bilhão no 2T26 e dividendos de R$ 1,05 bilhão",
-      "summary": "A Caixa Seguridade (CXSE3) registrou lucro líquido gerencial de R$ 1,14 bilhão no segundo trimestre de 2026, alta de 9,5% em relação a igual intervalo de 2025. Na comparação com o primeiro trimestre de 2026, houve queda ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/caixa-seguridade-cxse3-anuncia-lucro-de-r-114-bilhao-no-2t26-e-dividendos-de-r-105-bilhao-fets/",
-      "time": "2026-08-11T09:10:00Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2024/12/caixa-seguridade.jpg"
-    },
-    {
-      "title": "Tempo real: Ibovespa monitora inflação no Brasil e ata do Copom",
-      "summary": "Resumo: O Ibovespa (IBOV) acompanha a divulgação da ata da última reunião do Copom e do IPCA, principal indicador de inflação do país. Os mercados japoneses permanecem fechados devido a feriado. Destaques: Confira os pri",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/tempo-real-ibovespa-hoje-mercado-ao-vivo-11-08-2026-jals-lils-apsa/",
-      "time": "2026-08-11T09:00:00Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/ibovespa-acoes.png"
-    },
-    {
-      "title": "CBO diz que déficit deste ano será maior do que o previsto, com receita aquém do esperado",
-      "summary": "O Escritório de Orçamento do Congresso dos EUA (CBO, em inglês) está projetando que o déficit deste ano fiscal será de US$ 2,1 trilhões, cerca de US$ 200 bilhões a mais do que o previsto no início de fevereiro. A princip",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/cbo-diz-que-deficit-deste-ano-sera-maior-do-que-o-previsto-com-receita-aquem-do-esperado-fets/",
-      "time": "2026-08-11T08:56:00Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/dolar-cripto-banco-bdr.jpg"
-    },
-    {
-      "title": "Lucro da JSL (JSLG3) tem queda de 16,6% e fecha 2º trimestre em R$ 30,2 milhões",
-      "summary": "A JSL (JSLG3) registrou lucro líquido ajustado de R$ 30,2 milhões no segundo trimestre de 2026, o que representa uma queda de 16,6% na comparação com o mesmo período de 2025, segundo relatório de resultados divulgado nes",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/lucro-da-jsl-jslg3-tem-queda-de-166-e-fecha-2o-trimestre-em-r-302-milhoes-fets/",
-      "time": "2026-08-11T08:41:09Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/jsl.jpg"
-    },
-    {
-      "title": "Petróleo sobe enquanto Irã e EUA trocam exigências para a reabertura do Estreito de Ormuz",
-      "summary": "Os preços do petróleo sobem acima de 2% nesta terça-feira (11), à medida que as esperanças de um acordo entre EUA e Irã para encerrar a guerra e reabrir o Estreito de Ormuz diminuíram depois que o presidente Donald Trump",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/petroleo-sobe-enquanto-ira-e-eua-trocam-exigencias-para-a-reabertura-do-estreito-de-ormuz-fets/",
-      "time": "2026-08-11T08:05:34Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/petroleo-foto-alteryourreality-istock.jpg"
     },
     {
       "title": "KNCA11 vê resultado cair 31,4%; dividendo volta para R$ 1 por cota",
@@ -277,6 +269,26 @@
       "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     },
     {
+      "title": "Mulheres não disputam corrida de F1 desde 1976; nova geração tenta quebrar barreira",
+      "summary": "Aos 17 anos, sueca disputa a Fórmula 4 e integra programa que busca formar a primeira campeã mundial da principal categoria do automobilismo",
+      "source": "Exame",
+      "url": "https://exame.com/esporte/mulheres-nao-disputam-corrida-de-f1-desde-1976-nova-geracao-tenta-quebrar-barreira/",
+      "time": "2026-08-11T07:40:04Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2025/05/GettyImages-2216965521.jpg"
+    },
+    {
+      "title": "Terremoto na Colômbia: entenda situação após tremor que devastou o país",
+      "summary": "Tremor de magnitude 7,4 deixou centenas de feridos, destruiu prédios e levou o governo colombiano a decretar estado de emergência",
+      "source": "Exame",
+      "url": "https://exame.com/mundo/terremoto-na-colombia-entenda-situacao-apos-tremor-que-devastou-o-pais/",
+      "time": "2026-08-11T07:34:29Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/08/terremoto-colombia.jpg"
+    },
+    {
       "title": "Lucro do BTG Pactual cresce 23% no 2º trimestre e bate recorde de R$ 5,1 bilhões",
       "summary": "Receitas registraram R$ 10,4 bilhões no trimestre, alta de 16% em um ano",
       "source": "Exame",
@@ -287,95 +299,85 @@
       "image": "https://classic.exame.com/wp-content/uploads/2021/06/IMG_5955site.jpg"
     },
     {
-      "title": "Como a disputa por Ormuz pode redesenhar o mercado global de gás natural liquefeito",
-      "summary": "Novo estudo do CSIS estuda os efeitos do conflito no mercado da commodity, essencial fonte de energia para grande parte do mundo",
-      "source": "Exame",
-      "url": "https://exame.com/mundo/ormuz-em-disputa-conflito-redesenha-mercado-de-gas-natural-liquefeito/",
-      "time": "2026-08-11T06:00:53Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/03/GettyImages-2265963203-1.jpg"
-    },
-    {
-      "title": "Por que a Copa do Mundo Feminina 2027 entrou no debate de um festival de inovação",
-      "summary": "Mundial deve movimentar R$ 8,8 bilhões no Brasil e ampliar oportunidades para marcas, turismo e futebol feminino",
-      "source": "Exame",
-      "url": "https://exame.com/marketing/por-que-a-copa-do-mundo-feminina-2027-entrou-no-debate-de-um-festival-de-inovacao/",
-      "time": "2026-08-11T06:00:38Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/08/Painel-SP2B-sobre-a-Copa-do-Mundo-de-Futebol-Feminino-2027.jpg"
-    },
-    {
-      "title": "Ações da Birkenstock caem após resultados fracos da On Holding",
+      "title": "Por que as ações da JBS estão caindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-birkenstock-caem-apos-resultados-fracos-da-on-holding-93CH-2034366",
-      "time": "2026-08-11T09:46:04Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-jbs-estao-caindo-hoje-93CH-2034477",
+      "time": "2026-08-11T10:49:34Z",
       "cat": "internacional",
       "tickers": [],
-      "image": null
+      "image": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg"
     },
     {
-      "title": "Por que as ações da Aecom Technology estão caindo hoje?",
+      "title": "Por que as ações da Silvercorp Metals estão caindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-aecom-technology-estao-caindo-hoje-93CH-2034365",
-      "time": "2026-08-11T09:45:37Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-silvercorp-metals-estao-caindo-hoje-93CH-2034476",
+      "time": "2026-08-11T10:49:15Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg"
+      "image": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg"
     },
     {
-      "title": "Crescimento do LPA do S&P 500 acima de 20% é raro — e 2027 pode estar em risco",
+      "title": "BofA eleva previsão do mercado de obesidade com força internacional da Lilly",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/crescimento-do-lpa-do-sp-500-acima-de-20-e-raro--e-2027-pode-estar-em-risco-2034363",
-      "time": "2026-08-11T09:39:45Z",
+      "url": "https://br.investing.com/news/stock-market-news/bofa-eleva-previsao-do-mercado-de-obesidade-com-forca-internacional-da-lilly-93CH-2034471",
+      "time": "2026-08-11T10:46:08Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXMPEM5H10K_150x108_S.jpg"
+      "image": "https://content-media.investing.com/news/LYNXMPED3O0LI_M.jpg"
     },
     {
-      "title": "Morgan Stanley mantém preço-alvo da SpaceX em US$ 300 e avalia aquisição do Cursor",
+      "title": "Por que as ações da Duke Energy estão caindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/morgan-stanley-mantem-precoalvo-da-spacex-em-us-300-e-avalia-aquisicao-do-cursor-93CH-2034349",
-      "time": "2026-08-11T09:22:10Z",
-      "cat": "analise",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEE8C17U_M.jpg"
-    },
-    {
-      "title": "Por que a ação da ICoP está subindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-a-acao-da-icop-esta-subindo-hoje-93CH-2034348",
-      "time": "2026-08-11T09:21:19Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-duke-energy-estao-caindo-hoje-93CH-2034469",
+      "time": "2026-08-11T10:45:41Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEC0L0PD_L.jpg"
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEI0Q0Z9_L.jpg"
     },
     {
-      "title": "Deutsche Bank rebaixa Partners Group e ações caem com recuperação mais lenta",
+      "title": "Por que as ações da Ampco-Pittsburgh estão disparando hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/deutsche-bank-rebaixa-partners-group-e-acoes-caem-com-recuperacao-mais-lenta-2034327",
-      "time": "2026-08-11T09:01:25Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-ampcopittsburgh-estao-disparando-hoje-93CH-2034468",
+      "time": "2026-08-11T10:45:32Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/news_arrow_down_150x108_S_1416301286.jpg"
+      "image": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg"
     },
     {
-      "title": "Por que as ações da Smithfield Foods estão caindo hoje?",
+      "title": "Bernstein: melhora no tráfego da TSA reflete comparações fáceis, não demanda",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-smithfield-foods-estao-caindo-hoje-93CH-2034321",
-      "time": "2026-08-11T09:00:42Z",
+      "url": "https://br.investing.com/news/stock-market-news/bernstein-melhora-no-trafego-da-tsa-reflete-comparacoes-faceis-nao-demanda-93CH-2034465",
+      "time": "2026-08-11T10:43:58Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg"
+      "image": "https://content-media.investing.com/news/LYNXMPEB09002_M.jpg"
+    },
+    {
+      "title": "Por que as ações da YPF estão disparando hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-ypf-estao-disparando-hoje-93CH-2034463",
+      "time": "2026-08-11T10:42:05Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg"
+    },
+    {
+      "title": "BofA cita exposição à IA enquanto conversíveis superam ações e títulos",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/bofa-cita-exposicao-a-ia-enquanto-conversiveis-superam-acoes-e-titulos-93CH-2034462",
+      "time": "2026-08-11T10:42:04Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
     }
   ],
-  "atualizado_em": "11/08/2026 10:00"
+  "atualizado_em": "11/08/2026 10:58"
 }
