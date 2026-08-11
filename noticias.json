@@ -1,100 +1,178 @@
 {
   "headline": {
-    "title": "Dólar hoje ronda estabilidade após ata do Copom e IPCA de julho",
+    "title": "Dólar hoje sobe após ata do Copom e IPCA acima do esperado",
     "summary": "Investidores também segue monitorando as negociações no Oriente Médio",
     "source": "InfoMoney",
     "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-11082026/",
-    "time": "2026-08-11T14:06:02Z",
+    "time": "2026-08-11T14:53:53Z",
     "cat": "economia",
     "tickers": [],
     "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/Impacto-do-dolar-nos-investimentos.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
   },
   "featured": [
     {
-      "title": "Ibovespa recua com pressão nos juros após IPCA acima do esperado",
-      "summary": "O dólar comercial, por sua vez, operava estável no mesmo horário, com ligeira alta de 0,06%, cotado a R$ 5,114",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/ibovespa-recua-com-pressao-nos-juros-apos-ipca-acima-do-esperado/",
-      "time": "2026-08-11T11:08:59Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2021/10/ibovespa.jpg"
+      "title": "Anthropic fecha acordo de US$ 9,1 bi com mineradora de Bitcoin por capacidade de IA",
+      "summary": "Contrato de 20 anos prevê fornecimento de 191 megawatts do campus da Riot em Rockdale, Texas",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/business/anthropic-fecha-acordo-de-us-91-bi-com-mineradora-de-bitcoin-por-capacidade-de-ia/",
+      "time": "2026-08-11T15:15:05Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/463553415.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Gerdau (GGBR4) subiu demais? Itaú BBA rebaixa siderúrgica após disparada de 33% das ações",
-      "summary": "O Itaú BBA rebaixou a recomendação para as ações da Gerdau (GGBR4) de outperform para market perform, equivalente a uma mudança de compra para neutro, apesar de elevar o preço-alvo de R$ 27 para R$ 29 ao fim de 2027. Com",
+      "title": "Entre recordes e dúvidas: por que as ações da Movida (MOVI3) caem após o balanço",
+      "summary": "Apesar dos números recordes apresentados pela Movida (MOVI3) no segundo trimestre de 2026 (2T26), o mercado reage com cautela ao balanço. As ações da locadora operavam em queda por volta das 12h desta terça-feira (11), r",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/gerdau-ggbr4-subiu-demais-itau-bba-rebaixa-siderurgica-apos-disparada-de-33-das-acoes/",
-      "time": "2026-08-11T13:42:00Z",
+      "url": "https://www.moneytimes.com.br/entre-recordes-e-duvidas-por-que-as-acoes-da-movida-movi3-caem-apos-o-balanco/",
+      "time": "2026-08-11T15:01:33Z",
       "cat": "acoes",
       "tickers": [
-        "GGBR4"
+        "MOVI3"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/10/dividendos-gerdau.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2024/06/movida-movi3-radar-do-mercado.jpg"
     }
   ],
   "all": [
     {
-      "title": "Alliança Saúde obtém homologação do plano de recuperação extrajudicial",
-      "summary": "No início de agosto, ⁠a empresa ​tinha submetido um pedido de ​homologação, que abrangia créditos sujeitos à ​recuperação ⁠extrajudicial no valor total ⁠de, aproximadamente, R$1,1 bilhão",
+      "title": "Ibovespa cai 1,5% e perde os 170 mil pontos com mais sinais de saída de estrangeiros",
+      "summary": "Ainda em destaque, o JPMorgan rebaixou as ações do Brasil para neutro dentro da América Latina",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/allianca-saude-obtem-homologacao-do-plano-de-recuperacao-extrajudicial/",
-      "time": "2026-08-11T14:12:11Z",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-cai-15-e-perde-os-170-mil-pontos-com-mais-sinais-de-saida-de-estrangeiros/",
+      "time": "2026-08-11T15:26:21Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/10/shutterstock_707493547.png?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/10/shutterstock_1461411428.png?fit=300%2C169&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Ibovespa Hoje Ao Vivo: Bolsa cai e volta aos 171 mil pontos",
+      "title": "Flávio diz que irá a debates com Lula e que não deve explicações sobre Master",
+      "summary": "Flávio faltou nesta semana à sabatina do G1 e da GloboNews, após Lula também não comparecer",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/flavio-diz-que-ira-a-debates-com-lula-e-que-nao-deve-explicacoes-sobre-master/",
+      "time": "2026-08-11T15:25:53Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/flavio-bolsonaro-pl-politica-03.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Inflação de serviços acende alerta no mercado e põe em dúvida novos cortes na Selic",
+      "summary": "IPCA acumulado em 12 meses volta ao centro da meta, mas preços de serviços seguem escalando e pressionando inflação",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/economia/ipca-julho-inflacao-taxa-selic/",
+      "time": "2026-08-11T15:21:47Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-18T173828Z_1972852522_RC217KAN9OFO_RTRMADP_3_BRAZIL-FUEL.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Anthropic fecha acordo de US$ 9,1 bi com mineradora de Bitcoin por capacidade de IA",
+      "summary": "Contrato de 20 anos prevê fornecimento de 191 megawatts do campus da Riot em Rockdale, Texas",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/business/anthropic-fecha-acordo-de-us-91-bi-com-mineradora-de-bitcoin-por-capacidade-de-ia/",
+      "time": "2026-08-11T15:15:05Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/463553415.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Ibovespa Hoje Ao Vivo: Bolsa cai, acelera perdas e opera abaixo dos 170 mil pontos",
       "summary": "Bolsas dos EUA operam mistas com negociações sobre Ormuz no radar",
       "source": "InfoMoney",
       "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-11082026/",
-      "time": "2026-08-11T14:09:50Z",
+      "time": "2026-08-11T15:05:22Z",
       "cat": "acoes",
       "tickers": [],
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/Ibovespa-ao-vivo-19.png?fit=300%2C186&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "SP intensifica vacinação contra sarampo com ação em supermercados e padarias",
-      "summary": "Capital paulista concentra 20 dos 23 casos de sarampo confirmados no estado neste ano",
+      "title": "VALE3: por que BBI e BBA têm compra para Vale, enquanto UBS BB tem cautela com ação?",
+      "summary": "Valuation e diferenças na tese das ações levam a visões diversas dos bancões para VALE3",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/brasil/sp-intensifica-vacinacao-contra-sarampo-com-acao-em-supermercados-e-padarias/",
-      "time": "2026-08-11T14:06:41Z",
+      "url": "https://www.infomoney.com.br/mercados/vale3-por-que-bbi-e-bba-tem-compra-para-vale-enquanto-ubs-bb-tem-cautela-com-acao/",
+      "time": "2026-08-11T14:56:40Z",
       "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/sarampo_301119img_29213824.webp?fit=300%2C179&amp;quality=70&amp;strip=all"
+      "tickers": [
+        "VALE3"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-06T221839Z_1_LYNXMPEM651L4_RTROPTP_4_LATAM-SUMMIT-VALE.jpg?fit=300%2C194&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Dólar hoje ronda estabilidade após ata do Copom e IPCA de julho",
+      "title": "Força da esquerda democrata nos EUA será testada novamente hoje em primárias",
+      "summary": "Em Wisconsin, a socialista democrática Francesca Hong está liderando as pesquisas contra David Crowley, o preferido do governador Tony Evers para substituí-lo no cargo; em Minnesota, a progressista Peggy Flanagan pode ba",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mundo/forca-da-esquerda-democrata-nos-eua-sera-testada-novamente-hoje-em-primarias/",
+      "time": "2026-08-11T14:55:41Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Primaria-democrata-EUA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Dólar hoje sobe após ata do Copom e IPCA acima do esperado",
       "summary": "Investidores também segue monitorando as negociações no Oriente Médio",
       "source": "InfoMoney",
       "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-11082026/",
-      "time": "2026-08-11T14:06:02Z",
+      "time": "2026-08-11T14:53:53Z",
       "cat": "economia",
       "tickers": [],
       "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/Impacto-do-dolar-nos-investimentos.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Natura (NATU3) surpreende baixas expectativas e ação sobe 3% após balanço do 2T",
-      "summary": "Natura surpreendeu positivamente, após expectativas terem sido revisadas para baixo em função da prévia de vendas decepcionante",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/natura-natu3-surpreende-baixas-expectativas-e-acao-sobe-3-apos-balanco-do-2t/",
-      "time": "2026-08-11T13:56:57Z",
+      "title": "Flávio Bolsonaro nega que trocará Gaspar como vice e diz que acusações contra deputado são ‘farsa’",
+      "summary": "O candidato do PL à Presidência, Flávio Bolsonaro, negou nesta terça-feira (11) que trocará Alfredo Gaspar (PL-AL) como seu vice de chapa e chamou de farsa as acusações de estupro contra o deputado federal. Essa farsa qu",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/flavio-nega-que-trocara-gaspar-como-vice-e-diz-que-acusacoes-contra-deputado-sao-farsa-gaep/",
+      "time": "2026-08-11T15:25:43Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/08/2026-08-05t143721z-1-lynxmpem741cv-rtroptp-4-brazil-election-bolsonaro-scaled-e1786461501113.jpg"
+    },
+    {
+      "title": "Entre recordes e dúvidas: por que as ações da Movida (MOVI3) caem após o balanço",
+      "summary": "Apesar dos números recordes apresentados pela Movida (MOVI3) no segundo trimestre de 2026 (2T26), o mercado reage com cautela ao balanço. As ações da locadora operavam em queda por volta das 12h desta terça-feira (11), r",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/entre-recordes-e-duvidas-por-que-as-acoes-da-movida-movi3-caem-apos-o-balanco/",
+      "time": "2026-08-11T15:01:33Z",
+      "cat": "acoes",
+      "tickers": [
+        "MOVI3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2024/06/movida-movi3-radar-do-mercado.jpg"
+    },
+    {
+      "title": "Balanço de Caixa Seguridade (CXSE3) divide opiniões e ações caem; 4 analistas dizem o que fazer com papel agora",
+      "summary": "As ações da Caixa Seguridade (CXSE3) despontam entre as maiores quedas do Ibovespa (IBOV) nesta terça-feira (11) em reação ao balanço do segundo trimestre (2T26). Por volta de 11h10 (horário de Brasília), CXSE3 caía 1,32",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/balanco-de-caixa-seguridade-cxse3-divide-e-acoes-caem-o-que-fazer-com-as-acoes-agora-lils/",
+      "time": "2026-08-11T14:48:14Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/07/pictures-anna-4.jpg"
+    },
+    {
+      "title": "Alliança Saúde (AALR3) obtém homologação do plano de recuperação extrajudicial",
+      "summary": "A Alliança Saúde (AALR3) informou nesta terça-feira (11) que teve seu plano de recuperação extrajudicial homologado pela 2ª Vara de Falências e Recuperações Judiciais do Foro Central da Comarca de São Paulo. Em fato rele",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/allianca-saude-obtem-homologacao-do-plano-de-recuperacao-extrajudicial/",
+      "time": "2026-08-11T14:39:46Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/08/allianca-saude-tanure.png"
+    },
+    {
+      "title": "Natura (NATU3): Ações sobem apesar de queda no lucro e receita; ‘Dificuldades no Brasil superaram expectativas’, diz CEO",
+      "summary": "As ações da Natura (NATU3) abriram o pregão desta terça-feira (11) em queda, mas inverteram o sinal para o positivo em reação aos números do segundo trimestre deste ano (2T26), que mostrou lucro líquido de R$ 35 milhões,",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/natura-natu3-acoes-sobem-mesmo-apos-queda-no-lucro-e-receita-dificuldades-no-brasil-superaram-expectativas-diz-ceo-lmrs/",
+      "time": "2026-08-11T14:19:46Z",
       "cat": "acoes",
       "tickers": [
         "NATU3"
       ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/2024-08-13T162042Z_1925112301_RC26N4AFNR7W_RTRMADP_3_NATURA-CO-HLDG-RESULTS-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "China: mercado de carros se enfraquece em julho com demanda fraca e alta do petróleo",
-      "summary": "Vendas no varejo de carros de passeio caíram 20,9% em julho ante um ano antes, para 1,46 milhão de unidades",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mundo/china-mercado-de-carros-se-enfraquece-em-julho-com-demanda-fraca-e-alta-do-petroleo/",
-      "time": "2026-08-11T13:55:35Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/11/2024-11-08T085416Z_1174387651_RC28O8AZ6JNM_RTRMADP_3_CHINA-AUTOS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/natura.jpg"
     },
     {
       "title": "BTG (BPAC11): Analistas veem novo motor — e um risco no radar; ação cai",
@@ -107,60 +185,6 @@
         "BPAC11"
       ],
       "image": "https://www.moneytimes.com.br/uploads/2024/06/btg-pactual-1.jpg"
-    },
-    {
-      "title": "Wall Street opera sem direção única com alívio nos preços do petróleo",
-      "summary": "Os índices de Wall Street operam sem direção única após a abertura nesta terça-feira (11) em meio às notícias de avanço nas negociações para a reabertura do Estreito de Ormuz e alívio nos preços do petróleo. Confira o de",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/wall-street-abertura-11-8-26-lils/",
-      "time": "2026-08-11T14:03:49Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/2026-07-06t134208z-1-lynxmpem650w6-rtroptp-4-usa-stocks-economy-investors-e1784123087988.jpg"
-    },
-    {
-      "title": "IPCA abre espaço para cortes, mas Ata mostra que Copom ainda tem um obstáculo no caminho; entenda",
-      "summary": "Mesmo com uma agenda cheia no Brasil, as atenções do mercado se voltaram para uma único tema nesta terça-feira (11): inflação. A divulgação do IPCA de julho trouxe novos sinais sobre o comportamento dos preços, enquanto ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/ipca-abre-espaco-para-cortes-mas-ata-mostra-que-copom-ainda-tem-um-obstaculo-no-caminho-entenda-jcav/",
-      "time": "2026-08-11T13:58:44Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/ipca-ipca-15-inflacao-custo-de-vida-2.jpg"
-    },
-    {
-      "title": "Gerdau (GGBR4) subiu demais? Itaú BBA rebaixa siderúrgica após disparada de 33% das ações",
-      "summary": "O Itaú BBA rebaixou a recomendação para as ações da Gerdau (GGBR4) de outperform para market perform, equivalente a uma mudança de compra para neutro, apesar de elevar o preço-alvo de R$ 27 para R$ 29 ao fim de 2027. Com",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/gerdau-ggbr4-subiu-demais-itau-bba-rebaixa-siderurgica-apos-disparada-de-33-das-acoes/",
-      "time": "2026-08-11T13:42:00Z",
-      "cat": "acoes",
-      "tickers": [
-        "GGBR4"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2025/10/dividendos-gerdau.jpg"
-    },
-    {
-      "title": "Depois da Petrobras (PETR4), outra estatal anuncia concurso público; salários chegam a R$ 6,9 mil — fora benefícios",
-      "summary": "A Centrais Elétricas de Santa Catarina (Celesc) anunciou um novo concurso público com salários de até R$ 6.905,11 — fora um vale-alimentação bem recheado. O anúncio ocorre pouco menos de uma semana após a Transpetro, sub",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/estatal-celesc-abre-concurso-publico-salarios-mlem/",
-      "time": "2026-08-11T13:38:39Z",
-      "cat": "acoes",
-      "tickers": [
-        "PETR4"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/08/celesc-concurso-publico-vagas-.jpg"
-    },
-    {
-      "title": "Coordenador de campanha de Flávio Bolsonaro critica atuação do STF e diz que Corte precisa voltar a ser constitucional",
-      "summary": "O senador Rogério Marinho (PL-RN), coordenador da campanha de Flávio Bolsonaro (PL) a presidente, criticou a atuação do Supremo Tribunal Federal (STF) nesta segunda-feira (10). A Corte tem agido como uma delegacia de pol",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/rogerio-marinho-critica-atuacao-do-stf-e-diz-que-corte-precisa-voltar-a-ser-constitucional-gaep/",
-      "time": "2026-08-11T13:24:56Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/06/55284808111-fdcbbc0b08-o-scaled-e1786454518917.jpg"
     },
     {
       "title": "Receita do XPML11 supera R$ 66 milhões em junho; confira os números",
@@ -267,97 +291,105 @@
       "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     },
     {
-      "title": "Ibovespa recua com pressão nos juros após IPCA acima do esperado",
-      "summary": "O dólar comercial, por sua vez, operava estável no mesmo horário, com ligeira alta de 0,06%, cotado a R$ 5,114",
+      "title": "Natura admite que esperava trimestre melhor: 'Faltaram produtos', diz CEO",
+      "summary": "Receita foi pressionada por vendas no Brasil que, por sua vez, foi reflexo de um problema de falta de produtos",
       "source": "Exame",
-      "url": "https://exame.com/invest/mercados/ibovespa-recua-com-pressao-nos-juros-apos-ipca-acima-do-esperado/",
-      "time": "2026-08-11T11:08:59Z",
+      "url": "https://exame.com/invest/mercados/natura-admite-que-esperava-trimestre-melhor-faltaram-produtos-diz-ceo/",
+      "time": "2026-08-11T12:23:54Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2021/10/ibovespa.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2024/09/Render-Pav-R01-REVISAO_1-Photo.jpg"
     },
     {
-      "title": "Bitcoin cai e tem 1º pregão de saída de capital nos ETFs em mais de uma semana",
-      "summary": "Criptomoedas continuam a correção depois da forte alta da semana passada",
+      "title": "Demi Lovato fará participação em 'Camp Rock 3'; veja detalhes",
+      "summary": "Novo filme estreia no Disney Channel nesta quinta-feira e chega ao Disney+ na sexta",
       "source": "Exame",
-      "url": "https://exame.com/future-of-money/bitcoin-hoje-11-08-2026/",
-      "time": "2026-08-11T10:57:03Z",
-      "cat": "cripto",
-      "tickers": [
-        "BTC"
-      ],
-      "image": "https://classic.exame.com/wp-content/uploads/2023/03/imagem-figma-bitcoin-2-9.jpg"
+      "url": "https://exame.com/pop/demi-lovato-fara-participacao-em-camp-rock-3-veja-detalhes/",
+      "time": "2026-08-11T12:13:09Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/08/demi-lovato-camp-rock-3.jpeg"
     },
     {
-      "title": "Por que as ações da Sea Ltd estão disparando hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-sea-ltd-estao-disparando-hoje-93CH-2034961",
-      "time": "2026-08-11T14:07:22Z",
+      "title": "Irã acusa EUA de ‘vício’ em sanções e critica pressão econômica",
+      "summary": "Porta-voz iraniano afirma que EUA ampliam sanções quando não conseguem avançar pela via diplomática",
+      "source": "Exame",
+      "url": "https://exame.com/mundo/ira-acusa-eua-de-vicio-em-sancoes-e-critica-pressao-economica/",
+      "time": "2026-08-11T11:59:35Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/05/trump.jpg"
     },
     {
-      "title": "Tesla testa resistência em $334 com volume em queda: Ao vivo",
+      "title": "Marrocos - Ações fecharam o pregão em queda e o Índice Moroccan All Shares recuou 0,68%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/tesla-testa-resistencia-critica-entre-330-e-336-niveis-ao-vivo-93CH-2033365",
-      "time": "2026-08-11T14:05:48Z",
+      "url": "https://br.investing.com/news/stock-market-news/marrocos--acoes-fecharam-o-pregao-em-queda-e-o-indice-moroccan-all-shares-recuou-068-2035133",
+      "time": "2026-08-11T15:10:20Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/world_news_2_108x81.jpg"
+      "image": "https://content-media.investing.com/news/LYNXMPEM1Q0IF_1200_L.jpg"
     },
     {
-      "title": "Por que as ações da C4 Therapeutics estão subindo hoje?",
+      "title": "Oferta de carne de frango nos EUA deve sofrer ajuste após aumento da produção, diz CEO da JBS",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-c4-therapeutics-estao-subindo-hoje-93CH-2034944",
-      "time": "2026-08-11T14:00:31Z",
+      "url": "https://br.investing.com/news/stock-market-news/oferta-de-carne-de-frango-nos-eua-deve-sofrer-ajuste-apos-aumento-da-producao-diz-ceo-da-jbs-2035125",
+      "time": "2026-08-11T15:07:27Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg"
+      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM7A14T_1200_L.jpg"
     },
     {
-      "title": "Por que as ações da Abbott Laboratories estão subindo hoje?",
+      "title": "Noruega - Ações fecharam o pregão em alta e o Índice Oslo OBX avançou 0,62%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-abbott-laboratories-estao-subindo-hoje-93CH-2034941",
-      "time": "2026-08-11T13:56:48Z",
+      "url": "https://br.investing.com/news/stock-market-news/noruega--acoes-fecharam-o-pregao-em-alta-e-o-indice-oslo-obx-avancou-062-2035099",
+      "time": "2026-08-11T14:55:44Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXMPEB2O03P_M.jpg"
+      "image": "https://content-media.investing.com/news/moved_LYNXNPEL4S0EP_L.jpg"
     },
     {
-      "title": "Natura deve ter recuperação gradual ao longo do 2º semestre, diz CEO",
+      "title": "Israel - Ações fecharam o pregão em alta e o Índice TA 35 avançou 0,06%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/natura-deve-ter-recuperacao-gradual-ao-longo-do-2o-semestre-diz-ceo-2034938",
-      "time": "2026-08-11T13:56:10Z",
+      "url": "https://br.investing.com/news/stock-market-news/israel--acoes-fecharam-o-pregao-em-alta-e-o-indice-ta-35-avancou-006-2035098",
+      "time": "2026-08-11T14:55:19Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/Natura_800x533_L_1620147149.jpg"
+      "image": "https://content-media.investing.com/news/Bank-of-Israel_M_1440048413.jpg"
     },
     {
-      "title": "Ações da KLA disparam 4% com otimismo no setor de semicondutores",
+      "title": "Valorização da Neros triplica para US$ 2,5 bi com demanda por drones militares",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-kla-disparam-4-com-otimismo-no-setor-de-semicondutores-93CH-2034933",
-      "time": "2026-08-11T13:52:45Z",
+      "url": "https://br.investing.com/news/stock-market-news/valorizacao-da-neros-triplica-para-us-25-bi-com-demanda-por-drones-militares-93CH-2035097",
+      "time": "2026-08-11T14:54:06Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
+      "image": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg"
     },
     {
-      "title": "Por que as ações da ASML Holding NV ADR estão disparando hoje?",
+      "title": "Grécia - Ações fecharam o pregão em alta e o Índice Athens General Composite avançou 0,29%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-asml-holding-nv-adr-estao-disparando-hoje-93CH-2034927",
-      "time": "2026-08-11T13:49:48Z",
+      "url": "https://br.investing.com/news/stock-market-news/grecia--acoes-fecharam-o-pregao-em-alta-e-o-indice-athens-general-composite-avancou-029-2035080",
+      "time": "2026-08-11T14:50:22Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg"
+      "image": "https://content-media.investing.com/news/LYNXNPEC4O0ND_M.jpg"
+    },
+    {
+      "title": "Por que as ações da Kopin estão disparando hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-kopin-estao-disparando-hoje-93CH-2035075",
+      "time": "2026-08-11T14:48:30Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg"
     }
   ],
-  "atualizado_em": "11/08/2026 14:18"
+  "atualizado_em": "11/08/2026 15:29"
 }
