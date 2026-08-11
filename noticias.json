@@ -1,7 +1,7 @@
 {
   "headline": {
     "title": "Itaúsa (ITSA4) define data para R$ 2,8 bilhões em juros sobre o capital próprio",
-    "summary": "A Itaúsa (ITSA4) bateu o martelo e pagará em 28 de agosto, R$ 2,8 bilhões em juros sobre o capital próprio, mostra documento enviado ao mercado nesta segunda-feira (10). O montante diz respeito a dois pagamentos: Está ma",
+    "summary": "A Itaúsa (ITSA4) bateu o martelo e pagará, em 28 de agosto, R$ 2,8 bilhões em juros sobre o capital próprio, mostra documento enviado ao mercado nesta segunda-feira (10). O montante diz respeito a dois pagamentos: Está m",
     "source": "Money Times",
     "url": "https://www.moneytimes.com.br/itausa-itsa4-define-data-para-r-28-bilhoes-em-juros-sobre-o-capital-proprio-rnda/",
     "time": "2026-08-10T21:45:29Z",
@@ -35,6 +35,68 @@
   ],
   "all": [
     {
+      "title": "Caixa Seguridade tem lucro líquido de R$ 1,14 bi no 2tri26, alta de 9,5% ante 2tri25",
+      "summary": "As receitas operacionais subiram 8,5% em um ano, para R$ 1,5 bilhão",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/caixa-seguridade-tem-lucro-liquido-de-r-114-bi-no-2tri26-alta-de-95-ante-2tri25/",
+      "time": "2026-08-11T01:39:28Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2023/04/Seguridades-e1752377148207.jpg?fit=300%2C243&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "JSL (JSLG3) tem lucro líquido ajustado de R$ 30,2 mi no 2T, queda anual de 16%",
+      "summary": "Apesar da queda anual, lucro ajustado apresentou alta trimestral",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/jsl-jslg3-resultados-segundo-trimestre-2026/",
+      "time": "2026-08-11T01:15:27Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/03/5YHWE9dM_552764.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Lotofácil hoje, concurso 3758: confira o resultado sorteado nesta segunda (10)",
+      "summary": "O prêmio estimado para este concurso era de R$ 5 milhões",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3758-confira-o-resultado-sorteado-nesta-segunda-10/",
+      "time": "2026-08-11T00:46:11Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/10/loteria_lotofacil_Marcelo-Camargo-Agencia-Brasil-e1751562724210.webp?fit=300%2C191&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Movida (MOVI3) dobra lucro líquido, que fica em R$ 136 milhões no 2º tri",
+      "summary": "A companhia divulgou seu balanço na noite desta segunda-feira (10)",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/movida-movi3-resultados-segundo-trimestre-2026/",
+      "time": "2026-08-11T00:27:00Z",
+      "cat": "acoes",
+      "tickers": [
+        "MOVI3"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Movida_Moscatelli-2.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Quina hoje, concurso 7088: confira o resultado sorteado nesta segunda (10)",
+      "summary": "O prêmio estimado para este concurso era de R$ 2,1 milhões",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7088-confira-o-resultado-sorteado-nesta-segunda-10/",
+      "time": "2026-08-11T00:23:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=300%2C175&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Itaúsa (ITSA4) tem lucro de R$ 4,3 bi no 2º tri",
+      "summary": "A companhia, que também tem investimentos em empresas como Motiva, Aegea, Alpargatas e Dexco, teve retorno recorrente sobre o patrimônio líquido médio de 18,7% de abril ao final de junho",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/itausa-itsa4-tem-lucro-de-r-43-bi-no-2o-tri/",
+      "time": "2026-08-10T23:42:05Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2022/08/shutterstock_1923923951.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
       "title": "Plano & Plano informa que Cyrela está de saída do seu Conselho de Administração",
       "summary": "Segundo o documento, a própria Cyrela expressou o desejo de não participar mais da administração da Plano Plano, nem indicar membros para o Conselho",
       "source": "InfoMoney",
@@ -43,58 +105,6 @@
       "cat": "acoes",
       "tickers": [],
       "image": "https://www.infomoney.com.br/wp-content/uploads/2025/04/PlanoPlano-divulgacao.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Trump assina ordem que reformula recomendações de vacinação infantil nos EUA",
-      "summary": "Governo propõe que doses sejam administradas em consultas separadas, não em uma única visita",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mundo/trump-assina-ordem-que-reformula-recomendacoes-de-vacinacao-infantil-nos-eua/",
-      "time": "2026-08-10T22:24:59Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-10T194649Z_577117397_RC2VVMAROWS7_RTRMADP_3_USA-TRUMP-VACCINES.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Dirigente diz que ‘não sabe’ até que ponto o Fed teria que elevar os juros nos EUA",
-      "summary": "Mas, segundo Beth Hammack, os dirigentes precisam agir agora, para evitar dificuldades em retornar a inflação para a meta",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/economia/dirigente-diz-que-nao-sabe-ate-que-ponto-o-fed-teria-que-elevar-os-juros-nos-eua/",
-      "time": "2026-08-10T22:21:52Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/2025-08-21T163941Z_1_LYNXMPEL7K0SA_RTROPTP_4_MACRO-FED-CORTE.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Criptomoedas: bitcoin cai com cautela por noticiário do conflito no Oriente Médio",
-      "summary": "Cripto recuou após atingir a máxima de duas semanas, enfrentando dificuldades para manter a valorização em meio à incerteza sobre o conflito no Oriente Médio e a regulamentação de criptomoedas nos EUA",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/criptomoedas-bitcoin-cai-com-cautela-por-noticiario-do-conflito-no-oriente-medio/",
-      "time": "2026-08-10T22:18:05Z",
-      "cat": "cripto",
-      "tickers": [
-        "BTC"
-      ],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-16T150140Z_1_LYNXMPEM6F11M_RTROPTP_4_FINTECH-CRYPTO-QUANTUM-COMPUTING.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Nasdaq e S&P 500 fecham em baixa com Ormuz sem acordo e queda da Intel",
-      "summary": "Nvidia cai 2,9% mesmo com anúncio de pacote de US$ 500 bi em infraestrutura de IA",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/nasdaq-e-sp-500-fecham-em-baixa-com-ormuz-sem-acordo-e-queda-da-intel/",
-      "time": "2026-08-10T22:10:21Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-10T210245Z_1_LYNXMPEM791IB_RTROPTP_4_USA-STOCKS-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Beyoncé assume controle total de marca de uísque após LVMH vender participação",
-      "summary": "Joint venture foi formada em 2024, em meio a tendência de parcerias entre marcas de luxo e celebridades. LVMH não forneceu detalhes financeiros da transação",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/business/beyonce-assume-controle-total-de-marca-de-uisque-apos-lvmh-vender-participacao/",
-      "time": "2026-08-10T22:08:38Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-10T145138Z_1_LYNXMPEM7911Y_RTROPTP_4_USA-MET-BALL.jpg?fit=300%2C199&amp;quality=70&amp;strip=all"
     },
     {
       "title": "Itaúsa (ITSA4) lucra R$ 4,3 bilhões, alta de 7%, no 2T26",
@@ -145,7 +155,7 @@
     },
     {
       "title": "Itaúsa (ITSA4) define data para R$ 2,8 bilhões em juros sobre o capital próprio",
-      "summary": "A Itaúsa (ITSA4) bateu o martelo e pagará em 28 de agosto, R$ 2,8 bilhões em juros sobre o capital próprio, mostra documento enviado ao mercado nesta segunda-feira (10). O montante diz respeito a dois pagamentos: Está ma",
+      "summary": "A Itaúsa (ITSA4) bateu o martelo e pagará, em 28 de agosto, R$ 2,8 bilhões em juros sobre o capital próprio, mostra documento enviado ao mercado nesta segunda-feira (10). O montante diz respeito a dois pagamentos: Está m",
       "source": "Money Times",
       "url": "https://www.moneytimes.com.br/itausa-itsa4-define-data-para-r-28-bilhoes-em-juros-sobre-o-capital-proprio-rnda/",
       "time": "2026-08-10T21:45:29Z",
@@ -186,6 +196,36 @@
       "cat": "economia",
       "tickers": [],
       "image": "https://www.moneytimes.com.br/uploads/2026/07/juros-futuros.jpg"
+    },
+    {
+      "title": "KNCA11 vê resultado cair 31,4%; dividendo volta para R$ 1 por cota",
+      "summary": "O Fiagro KNCA11 (Kinea Crédito Agro) encerrou julho com resultado líquido de R$ 21,6 milhões, queda de 31,4% ante os R$ 31,5 milhões registrados em junho. Com a retração, a distribuição mensal retornou a R$ 1 por cota, a",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/knca11-ve-resultado-cair-314-dividendo-volta-para-r-1-por-cota/",
+      "time": "2026-08-11T00:25:08Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/detalhe-de-calculado-1_01-1.webp"
+    },
+    {
+      "title": "FII EXES11 fecha em alta de 0,63%; fundo vai na contramão do IFIX",
+      "summary": "O EXES11 encerrou o pregão desta segunda-feira (10) com avanço de 0,63%, a R$ 9,66, em sentido oposto ao mercado de fundos imobiliários. A cota oscilou entre R$ 9,64 e R$ 9,68 ao longo da sessão, após abertura em R$ 9,68",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/fii-exes11-fecha-em-alta-de-063-fundo-vai-na-contramao-do-ifix/",
+      "time": "2026-08-10T23:55:06Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
+    },
+    {
+      "title": "SNID11 fecha pregão em alta de 0,2%; fundo acumula ganhos acima de 16%",
+      "summary": "O SNID11 encerrou o pregão desta segunda-feira (10) em alta de 0,19%, cotado a R$ 10,39. O fundo abriu o dia no mesmo nível do fechamento anterior, de R$ 10,30, e durante a sessão chegou a marcar R$ 10,50. Ao longo do di",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/snid11-fecha-pregao-em-alta-de-02-fundo-acumula-ganhos-acima-de-16/",
+      "time": "2026-08-10T23:35:05Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     },
     {
       "title": "SNME11 supera IFIX; fundo encerra pregão da segunda-feira em alta de 0,53%",
@@ -250,30 +290,6 @@
       "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     },
     {
-      "title": "Vale (VALE3) tem data com para dividendos nesta semana; veja calendário completo",
-      "summary": "Os investidores que querem receber os proventos que a Vale (VALE3) vai pagar no dia 2 de setembro precisam comprar as ações até a próxima terça-feira (11), último dia em que a companhia registrará os acionistas com direi",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/vale-vale3-data-com-11-agosto-dividendos-jcp-2t25-go/",
-      "time": "2026-08-10T19:45:05Z",
-      "cat": "fundos",
-      "tickers": [
-        "VALE3"
-      ],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
-    },
-    {
-      "title": "Fim do lock-up da SpaceX mexe com a oferta de ações; entenda o efeito sobre o SPCX34",
-      "summary": "O período de proteção acabou — e uma quantidade muito maior de ações da SpaceX passou a poder circular pelo mercado. O primeiro grande vencimento do lock-up ocorreu em 6 de agosto e liberou 911,5 milhões de ações pertenc",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/spcx34-spacex-lock-up-acoes-bdr-mt/",
-      "time": "2026-08-10T18:45:07Z",
-      "cat": "acoes",
-      "tickers": [
-        "SPCX34"
-      ],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
-    },
-    {
       "title": "Natura registra queda de 82% no lucro líquido do segundo trimestre de 2026",
       "summary": "Brasil impactou receita, enquanto mercados hispânicos apresentaram alta; margem Ebitda veio acima do que o Citi projetava",
       "source": "Exame",
@@ -284,117 +300,85 @@
       "image": "https://classic.exame.com/wp-content/uploads/2026/06/Creditos-Divulgacao-Natura.JPG.jpeg"
     },
     {
-      "title": "Ibovespa tem leve queda com bancos pressionando e Petrobras limitando perdas",
-      "summary": "Já o o dólar à vista avançou 0,53% diante do real, a R$ 5,111, após oscilar entre R$ 5,083 e R$ 5,120",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/ibovespa-tem-leve-queda-com-bancos-pressionando-e-petrobras-limitando-perdas/",
-      "time": "2026-08-10T17:50:29Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2020/11/DSC2634bx.jpg"
-    },
-    {
-      "title": "Itaúsa tem lucro de R$4,3 bi no 2º tri",
+      "title": "Por que as ações da Amotiv estão despencando hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/itausa-tem-lucro-de-r43-bi-no-2o-tri-2034028",
-      "time": "2026-08-10T23:14:07Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-amotiv-estao-despencando-hoje-93CH-2034114",
+      "time": "2026-08-11T01:12:04Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEB66095_M.jpg"
+      "image": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg"
     },
     {
-      "title": "MGLU3: Por que o Magalu não sustentou a alta? Técnico aponta mais perdas à frente",
+      "title": "Por que as ações da Austal estão disparando hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/mglu3-por-que-o-magalu-nao-sustentou-a-alta-tecnico-aponta-mais-perdas-a-frente-2034015",
-      "time": "2026-08-10T22:48:31Z",
-      "cat": "internacional",
-      "tickers": [
-        "MGLU3"
-      ],
-      "image": "https://content-media.investing.com/news/MagazineLuiza_800x533_L_1600511050.jpg"
-    },
-    {
-      "title": "147 grandes vencedores em só uma semana: seleção de ações por IA decola",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/147-grandes-vencedores-em-so-uma-semana-selecao-de-acoes-por-ia-decola-2033205",
-      "time": "2026-08-10T22:34:39Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-austal-estao-disparando-hoje-93CH-2034105",
+      "time": "2026-08-11T01:08:20Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/Bullish_2_M_1440047895.jpg"
+      "image": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg"
     },
     {
-      "title": "Balanços de bancos: um setor, histórias distintas; entenda",
+      "title": "Por que as ações da SGH estão caindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/balancos-de-bancos-um-setor-historias-distintas-entenda-2034007",
-      "time": "2026-08-10T22:34:17Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-sgh-estao-caindo-hoje-93CH-2034103",
+      "time": "2026-08-11T01:08:02Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEK7T0QU_L.jpg"
+      "image": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg"
     },
     {
-      "title": "Alta de +85%: veja por que nossa IA identificou esta ação de serviços de tecnologia antes do rali",
+      "title": "Por que as ações da NVIDIA caíram 2,5% nesta segunda-feira?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/alta-de-85-veja-por-que-nossa-ia-identificou-esta-acao-de-servicos-de-tecnologia-antes-do-rali-2033994",
-      "time": "2026-08-10T22:09:39Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-nvidia-cairam-25-nesta-segundafeira-93CH-2034097",
+      "time": "2026-08-11T00:57:35Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXMPEM3D1C7_1200_L.jpg"
+      "image": "https://content-media.investing.com/news/LYNXMPEE141FU_M.jpg"
     },
     {
-      "title": "Por que as ações da Alcon estão disparando hoje?",
+      "title": "Por que as ações da Trump Media & Technology estão caindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-alcon-estao-disparando-hoje-93CH-2033981",
-      "time": "2026-08-10T21:57:17Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-trump-media--technology-estao-caindo-hoje-93CH-2034090",
+      "time": "2026-08-11T00:37:14Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg"
+      "image": "https://content-media.investing.com/news/CryptoBitcoindigital_800x533_L_1641975060.jpg"
     },
     {
-      "title": "Por que as ações da Aecom estão caindo hoje?",
+      "title": "JSL tem queda de 16,6% no lucro do 2º tri",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-aecom-estao-caindo-hoje-93CH-2033980",
-      "time": "2026-08-10T21:56:40Z",
+      "url": "https://br.investing.com/news/stock-market-news/jsl-tem-queda-de-166-no-lucro-do-2o-tri-2034071",
+      "time": "2026-08-11T00:21:07Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg"
+      "image": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
     },
     {
-      "title": "Natura fecha 2º tri com queda de 82% no lucro",
+      "title": "Ações da Riot Platforms disparam mais de 20% no after-hours",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/natura-fecha-2o-tri-com-queda-de-82-no-lucro-2033978",
-      "time": "2026-08-10T21:56:06Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-riot-platforms-disparam-mais-de-20-no-afterhours-93CH-2034061",
+      "time": "2026-08-11T00:17:33Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXMPEE391BW_M.jpg"
+      "image": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
     },
     {
-      "title": "Por que as ações da Entravision Communications despencam hoje?",
+      "title": "Ações da Life360 despencam quase 25% no after-hours; entenda o motivo",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-entravision-communications-despencam-hoje-93CH-2033974",
-      "time": "2026-08-10T21:54:45Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-life360-despencam-quase-25-no-afterhours-entenda-o-motivo-93CH-2034040",
+      "time": "2026-08-10T23:49:28Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg"
-    },
-    {
-      "title": "Por que as ações da Upwork estão despencando hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-upwork-estao-despencando-hoje-93CH-2033973",
-      "time": "2026-08-10T21:53:18Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg"
+      "image": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg"
     }
   ],
-  "atualizado_em": "10/08/2026 23:34"
+  "atualizado_em": "11/08/2026 01:40"
 }
