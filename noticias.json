@@ -1,108 +1,172 @@
 {
   "headline": {
-    "title": "Itaúsa (ITSA4) aprova R$ 2,8 bilhões em JCP e registra lucro recorrente de R$ 4,3 bi no 2T26",
-    "summary": "Itaúsa (ITSA4) aprova R$ 2,8 bilhões em JCP e registra lucro recorrente de R$ 4,3 bi no 2T26A Itaúsa (ITSA4) aprovou o pagamento de R$ 2,8 bilhões em juros sobre capital próprio (JCP) referentes ao exercício de 2026, com",
-    "source": "Suno",
-    "url": "https://www.suno.com.br/noticias/itsa4-2t26-resultado-jcp-dividendos-agosto-2026-go/",
-    "time": "2026-08-11T15:15:00Z",
-    "cat": "acoes",
-    "tickers": [],
-    "image": "https://files.sunoresearch.com.br/n/uploads/2026/03/7db34773-itausa-1280x720-1-jpg.webp"
+    "title": "Usiminas (USIM5) ainda vale a aposta? Itaú BBA corta recomendação, mas aponta três gatilhos para valorização",
+    "summary": "O Itaú BBA rebaixou a recomendação para as ações da Usiminas (USIM5) de compra para neutra e reduziu o preço-alvo para o fim de 2027 de R$ 11, para R$ 8,00. Considerando a cotação de R$ 7,14 utilizada pelo banco, o novo ",
+    "source": "Money Times",
+    "url": "https://www.moneytimes.com.br/usiminas-usim5-pode-subir-itau-bba-rebaixa-acao-mas-aponta-3-gatilhos-para-alta-ceci/",
+    "time": "2026-08-11T17:16:15Z",
+    "cat": "analise",
+    "tickers": [
+      "USIM5"
+    ],
+    "image": "https://www.moneytimes.com.br/uploads/2024/07/usiminas-1.jpg"
   },
   "featured": [
     {
-      "title": "Entre recordes e dúvidas: por que as ações da Movida (MOVI3) caem após o balanço",
-      "summary": "Apesar dos números recordes apresentados pela Movida (MOVI3) no segundo trimestre de 2026 (2T26), o mercado reage com cautela ao balanço. As ações da locadora operavam em queda por volta das 12h desta terça-feira (11), r",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/entre-recordes-e-duvidas-por-que-as-acoes-da-movida-movi3-caem-apos-o-balanco/",
-      "time": "2026-08-11T15:01:33Z",
-      "cat": "acoes",
-      "tickers": [
-        "MOVI3"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2024/06/movida-movi3-radar-do-mercado.jpg"
-    },
-    {
-      "title": "Melhora no cenário de juros cria risco duplo para ativos isentos de IR, alerta Sparta",
-      "summary": "Gestora afirma que debêntures incentivadas podem enfrentar abertura de spreads e perda de valor do benefício fiscal, em um mercado hoje sustentado pela escassez de oferta",
+      "title": "Dólar hoje sobe 1% após IPCA acima do esperado e pesquisa eleitoral",
+      "summary": "Investidores também segue monitorando as negociações no Oriente Médio",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/onde-investir/melhora-no-cenario-de-juros-cria-risco-duplo-para-ativos-isentos-de-ir-alerta-sparta/",
-      "time": "2026-08-11T16:00:00Z",
+      "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-11082026/",
+      "time": "2026-08-11T17:27:43Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/02/2025-02-27T220544Z_1_LYNXNPEL1Q0XS_RTROPTP_4_BACEN-FISCAL-DEZEMBRO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/Impacto-do-dolar-nos-investimentos.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "O que está por trás do tombo de 2% do Ibovespa?",
+      "summary": "O Ibovespa (IBOV) perde mais de 4,1 mil pontos e opera no menor nível desde meados de junho, em um dia marcado pela agenda macroeconômica. Por volta de 14h20 (horário de Brasília), o principal índice da bolsa brasileira ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/o-que-esta-por-tras-do-tombo-de-2-do-ibovespa-lils/",
+      "time": "2026-08-11T16:39:49Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/mercado-morning-ibovespa-wall-street-2.jpg"
     }
   ],
   "all": [
     {
-      "title": "Melhora no cenário de juros cria risco duplo para ativos isentos de IR, alerta Sparta",
-      "summary": "Gestora afirma que debêntures incentivadas podem enfrentar abertura de spreads e perda de valor do benefício fiscal, em um mercado hoje sustentado pela escassez de oferta",
+      "title": "Dólar hoje sobe 1% após IPCA acima do esperado e pesquisa eleitoral",
+      "summary": "Investidores também segue monitorando as negociações no Oriente Médio",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/onde-investir/melhora-no-cenario-de-juros-cria-risco-duplo-para-ativos-isentos-de-ir-alerta-sparta/",
-      "time": "2026-08-11T16:00:00Z",
+      "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-11082026/",
+      "time": "2026-08-11T17:27:43Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/02/2025-02-27T220544Z_1_LYNXNPEL1Q0XS_RTROPTP_4_BACEN-FISCAL-DEZEMBRO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/Impacto-do-dolar-nos-investimentos.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Usiminas e Gerdau: BBA vê hora de pisar no freio e corta recomendações; ações caem",
-      "summary": "BBA considera que a combinação de menor força no mercado de aço e perspectivas mais fracas para os resultados da companhia justificam a recomendação",
+      "title": "Caixa Seguridade: resultados estáveis no 2º tri refletem desempenho comercial fraco",
+      "summary": "Índice de sinistralidade cresceu 170 pontos-base de um trimestre para o outro",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/usiminas-bba-ve-hora-de-pisar-no-freio-e-corta-recomendacao-para-neutra-acao-cai/",
-      "time": "2026-08-11T15:55:57Z",
+      "url": "https://www.infomoney.com.br/mercados/caixa-seguridade-resultados-estaveis-no-2o-tri-refletem-desempenho-comercial-fraco/",
+      "time": "2026-08-11T17:22:31Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2023/12/2023-12-19T145126Z_1_LYNXMPEJBI0KZ_RTROPTP_4_BRAZIL-USIMINAS-BLASTFURNACE.jpg?fit=300%2C193&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/sign-here-please-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Morgan vê IA da SpaceX subavaliada e diz que ação pode mais do que dobrar de valor",
-      "summary": "Mercado ainda atribui um valor excessivamente conservador ao negócio de inteligência artificial da SpaceX",
+      "title": "Patrimônio de Moro recua em quatro anos; aplicações no exterior têm maior queda",
+      "summary": "Senador informou patrimônio pouco acima de R$ 1 milhão à Justiça Eleitoral; redução se concentra em aplicações financeiras e na quantidade de imóveis declarados",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/morgan-stanley-ve-ia-da-spacex-subavaliada-e-diz-que-acao-pode-mais-do-que-dobrar-de-valor/",
-      "time": "2026-08-11T15:46:15Z",
+      "url": "https://www.infomoney.com.br/politica/patrimonio-de-moro-recua-em-quatro-anos-aplicacoes-no-exterior-tem-maior-queda/",
+      "time": "2026-08-11T17:20:25Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/460901654.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/FTA20260712173.jpg?fit=300%2C215&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Ibovespa cai mais de 2% e perde os 170 mil com mais sinais de saída de estrangeiros",
+      "summary": "Ainda em destaque, o JPMorgan rebaixou as ações do Brasil para neutro dentro da América Latina",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-cai-15-e-perde-os-170-mil-pontos-com-mais-sinais-de-saida-de-estrangeiros/",
+      "time": "2026-08-11T17:15:55Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/10/shutterstock_1461411428.png?fit=300%2C169&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Como a implementação de um sistema de gestão derrubou as receitas da Natura (NATU3)",
+      "summary": "Implementação da ferramenta SAP gerou problemas no abastecimento que ofuscou resultados considerados bons pela empresa nos mercados hispânicos",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/business/como-a-implementacao-de-um-sistema-de-gestao-derrubou-as-receitas-da-natura-natu3/",
+      "time": "2026-08-11T17:01:33Z",
+      "cat": "acoes",
+      "tickers": [
+        "NATU3"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/03/2024-03-12T173436Z_1_LYNXNPEK2B0O7_RTROPTP_4_NATURA-CO-HLDG-RESULTS-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Candidato à Presidência, Rui Costa Pimenta, do PCO, é alvo de operação da PF",
+      "summary": "Operação Causa Própria apura suspeitas de uso irregular de recursos partidários e eleitorais",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/candidato-a-presidencia-rui-costa-pimenta-do-pco-e-alvo-de-operacao-da-pf/",
+      "time": "2026-08-11T16:48:56Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/169411917864fa350a394d6_1694119178_3x2_rt.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Do prejuízo à prevenção: como crise climática muda o papel dos seguros",
+      "summary": "Só 9% do PIB brasileiro está protegido por seguros, segundo a CNseg; setor defende atuação na prevenção de riscos e no financiamento da adaptação climática",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/minhas-financas/do-prejuizo-a-prevencao-como-crise-climatica-muda-o-papel-dos-seguros/",
+      "time": "2026-08-11T16:28:22Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/02/2025-02-04T194013Z_1016964373_RC2LNCASAERM_RTRMADP_3_BRAZIL-WEATHER.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
       "title": "Ibovespa Hoje Ao Vivo: Bolsa cai, acelera perdas e chega aos 168 mil pontos",
       "summary": "Bolsas dos EUA recuam com negociações sobre Ormuz no radar",
       "source": "InfoMoney",
       "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-11082026/",
-      "time": "2026-08-11T15:44:34Z",
+      "time": "2026-08-11T16:27:49Z",
       "cat": "acoes",
       "tickers": [],
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Ibovespa-ao-vivo-3.png?fit=300%2C186&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Flávio Bolsonaro confirma Michelle na propaganda eleitoral após crise no bolsonarismo",
-      "summary": "Ex-primeira-dama deve aparecer no programa eleitoral do senador e ajuda a campanha a dialogar com mulheres e evangélicos",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/flavio-confirma-michelle-na-propaganda-eleitoral-apos-crise-no-bolsonarismo/",
-      "time": "2026-08-11T15:35:53Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/flavio-bolsonaro-e-michelle.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+      "title": "Usiminas (USIM5) ainda vale a aposta? Itaú BBA corta recomendação, mas aponta três gatilhos para valorização",
+      "summary": "O Itaú BBA rebaixou a recomendação para as ações da Usiminas (USIM5) de compra para neutra e reduziu o preço-alvo para o fim de 2027 de R$ 11, para R$ 8,00. Considerando a cotação de R$ 7,14 utilizada pelo banco, o novo ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/usiminas-usim5-pode-subir-itau-bba-rebaixa-acao-mas-aponta-3-gatilhos-para-alta-ceci/",
+      "time": "2026-08-11T17:16:15Z",
+      "cat": "analise",
+      "tickers": [
+        "USIM5"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2024/07/usiminas-1.jpg"
     },
     {
-      "title": "Ibovespa cai quase 2% e perde os 170 mil com mais sinais de saída de estrangeiros",
-      "summary": "Ainda em destaque, o JPMorgan rebaixou as ações do Brasil para neutro dentro da América Latina",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-cai-15-e-perde-os-170-mil-pontos-com-mais-sinais-de-saida-de-estrangeiros/",
-      "time": "2026-08-11T15:26:21Z",
+      "title": "Candidato à Presidência pelo PCO é alvo da PF por suspeita de desvio do fundo partidário",
+      "summary": "Equipes da Polícia Federal (PF) foram às ruas de Brasília (DF) nesta terça-feira (11) para cumprir mandados de busca e apreensão contra suspeitos de desviarem verbas do Fundo Partidário e do Fundo Especial de Financiamen",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/candidato-a-presidencia-pelo-pco-e-alvo-da-pf-por-suspeita-de-desvio-do-fundo-partidario-gaep/",
+      "time": "2026-08-11T16:45:40Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/10/shutterstock_1461411428.png?fit=300%2C169&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/08/rui-e1786466525558.png"
     },
     {
-      "title": "Flávio diz que irá a debates com Lula e que não deve explicações sobre Master",
-      "summary": "Flávio faltou nesta semana à sabatina do G1 e da GloboNews, após Lula também não comparecer",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/flavio-diz-que-ira-a-debates-com-lula-e-que-nao-deve-explicacoes-sobre-master/",
-      "time": "2026-08-11T15:25:53Z",
+      "title": "O que está por trás do tombo de 2% do Ibovespa?",
+      "summary": "O Ibovespa (IBOV) perde mais de 4,1 mil pontos e opera no menor nível desde meados de junho, em um dia marcado pela agenda macroeconômica. Por volta de 14h20 (horário de Brasília), o principal índice da bolsa brasileira ",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/o-que-esta-por-tras-do-tombo-de-2-do-ibovespa-lils/",
+      "time": "2026-08-11T16:39:49Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/flavio-bolsonaro-pl-politica-03.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/mercado-morning-ibovespa-wall-street-2.jpg"
+    },
+    {
+      "title": "Juros podem cair menos do que o mercado espera? Market Makers aponta os obstáculos para queda maior da Selic",
+      "summary": "O cenário para a política monetária brasileira ainda permanece pressionado, com a inflação distante do nível confortável e pouco espaço para uma queda relevante dos juros, avalia Thiago Salomão, fundador do Market Makers",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/selic-pode-cair-menos-do-que-o-mercado-espera-market-makers-aponta-os-obstaculos-ceci/",
+      "time": "2026-08-11T16:31:36Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/pib-real-inflacao-credito-deficit-superavit.jpg"
+    },
+    {
+      "title": "JP Morgan rebaixa recomendação de investimentos no Brasil de overweight (compra) para neutro",
+      "summary": "O JP Morgan rebaixou a recomendação do Brasil de overweight (exposição acima da média do mercado, equivalente a compra) para neutro, mencionando que o ciclo de flexibilização monetária está chegando ao fim, ao mesmo temp",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/jpmorgan-rebaixa-recomendacao-de-investimentos-no-brasil-de-overweight-compra-para-neutro/",
+      "time": "2026-08-11T16:27:23Z",
+      "cat": "analise",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2024/06/acoes-bolsa-brasileira.jpg"
     },
     {
       "title": "JBS (JBSS32): 2T26 supera estimativas, mas recuperação nos EUA e alavancagem preocupam; veja o que dizem os bancos",
@@ -127,36 +191,16 @@
       "image": "https://www.moneytimes.com.br/uploads/2026/08/2026-08-05t143721z-1-lynxmpem741cv-rtroptp-4-brazil-election-bolsonaro-scaled-e1786461501113.jpg"
     },
     {
-      "title": "Entre recordes e dúvidas: por que as ações da Movida (MOVI3) caem após o balanço",
-      "summary": "Apesar dos números recordes apresentados pela Movida (MOVI3) no segundo trimestre de 2026 (2T26), o mercado reage com cautela ao balanço. As ações da locadora operavam em queda por volta das 12h desta terça-feira (11), r",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/entre-recordes-e-duvidas-por-que-as-acoes-da-movida-movi3-caem-apos-o-balanco/",
-      "time": "2026-08-11T15:01:33Z",
-      "cat": "acoes",
+      "title": "BTG Pactual (BPAC11) bate novo recorde de lucro no 2T26; veja o que puxou o balanço",
+      "summary": "O BTG Pactual (BPAC11) atravessou o segundo trimestre de 2026 com um paradoxo típico de bancos de investimento: enquanto o mercado de capitais perdeu ritmo, o banco encontrou crescimento em outras frentes e voltou a reno",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/btg-pactual-bpac11-resultado-2t26-lucro-recorde-mt/",
+      "time": "2026-08-11T16:45:05Z",
+      "cat": "analise",
       "tickers": [
-        "MOVI3"
+        "BPAC11"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2024/06/movida-movi3-radar-do-mercado.jpg"
-    },
-    {
-      "title": "Balanço de Caixa Seguridade (CXSE3) divide opiniões e ações caem; 4 analistas dizem o que fazer com papel agora",
-      "summary": "As ações da Caixa Seguridade (CXSE3) despontam entre as maiores quedas do Ibovespa (IBOV) nesta terça-feira (11) em reação ao balanço do segundo trimestre (2T26). Por volta de 11h10 (horário de Brasília), CXSE3 caía 1,32",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/balanco-de-caixa-seguridade-cxse3-divide-e-acoes-caem-o-que-fazer-com-as-acoes-agora-lils/",
-      "time": "2026-08-11T14:48:14Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/07/pictures-anna-4.jpg"
-    },
-    {
-      "title": "Alliança Saúde (AALR3) obtém homologação do plano de recuperação extrajudicial",
-      "summary": "A Alliança Saúde (AALR3) informou nesta terça-feira (11) que teve seu plano de recuperação extrajudicial homologado pela 2ª Vara de Falências e Recuperações Judiciais do Foro Central da Comarca de São Paulo. Em fato rele",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/allianca-saude-obtem-homologacao-do-plano-de-recuperacao-extrajudicial/",
-      "time": "2026-08-11T14:39:46Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/08/allianca-saude-tanure.png"
+      "image": "http://files.sunoresearch.com.br/n/uploads/2026/08/a33631fd-btg-pactual2-jpg.webp"
     },
     {
       "title": "AZ Quest mantém cautela com ações brasileiras apesar de alívio geopolítico",
@@ -253,105 +297,75 @@
       "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
     },
     {
-      "title": "SNME11 supera IFIX; fundo encerra pregão da segunda-feira em alta de 0,53%",
-      "summary": "O SNME11 encerrou o pregão desta segunda-feira (10) em alta de 0,53%, cotado a R$ 9,44. A cota abriu a sessão em R$ 9,38, alcançou R$ 9,44 ao longo do dia e terminou exatamente na máxima registrada na tela. O desempenho ",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/snme11-supera-ifix-fundo-encerra-pregao-da-segunda-feira-em-alta-de-053/",
-      "time": "2026-08-10T23:05:06Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://files.sunoresearch.com.br/n/uploads/2022/06/Modelo2.jpg"
-    },
-    {
-      "title": "Natura admite que esperava trimestre melhor: 'Faltaram produtos', diz CEO",
-      "summary": "Receita foi pressionada por vendas no Brasil que, por sua vez, foi reflexo de um problema de falta de produtos",
+      "title": "'Monstro: A História de Lizzie Borden' ganha trailer na Netflix; assista",
+      "summary": "Quarta temporada da antologia de Ryan Murphy estreia em 17 de setembro com Ella Beatty no papel principal",
       "source": "Exame",
-      "url": "https://exame.com/invest/mercados/natura-admite-que-esperava-trimestre-melhor-faltaram-produtos-diz-ceo/",
-      "time": "2026-08-11T12:23:54Z",
+      "url": "https://exame.com/pop/monstro-a-historia-de-lizzie-borden-ganha-trailer-na-netflix-assista/",
+      "time": "2026-08-11T14:18:11Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2024/09/Render-Pav-R01-REVISAO_1-Photo.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/08/monster-lizzie-borden-netflix.jpg"
     },
     {
-      "title": "Bélgica - Ações fecharam o pregão em queda e o Índice BEL 20 recuou 0,84%",
+      "title": "Chefe da articulação política do governo Lula tem encontro com Alcolumbre para destravar pautas",
+      "summary": "Planalto quer instalação imediata de cinco comissões de medidas provisórias e negocia pauta do esforço concentrado com Senado e Câmara",
+      "source": "Exame",
+      "url": "https://exame.com/brasil/chefe-da-articulacao-politica-do-governo-lula-tem-encontro-com-alcolumbre-para-destravar-pautas/",
+      "time": "2026-08-11T14:05:58Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2023/05/deputado_jose_guimaraes-11.jpg"
+    },
+    {
+      "title": "Chuva de meteoros terá condições ideais para observação em 2026; saiba quando ver",
+      "summary": "Entre 12 e 13 de agosto, a Lua Nova deixará o céu mais escuro, favorecendo a observação das Perseidas a olho nu",
+      "source": "Exame",
+      "url": "https://exame.com/ciencia/chuva-de-meteoros-tera-condicoes-ideais-para-observacao-em-2026-saiba-quando-ver/",
+      "time": "2026-08-11T13:34:25Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/foto-chuva-meteoro.png"
+    },
+    {
+      "title": "Deutsche Bank elege sua principal ação de Cybersecurity",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/belgica--acoes-fecharam-o-pregao-em-queda-e-o-indice-bel-20-recuou-084-2035188",
-      "time": "2026-08-11T16:05:21Z",
+      "url": "https://br.investing.com/news/stock-market-news/deutsche-bank-elege-sua-principal-acao-de-cybersecurity-93CH-2035251",
+      "time": "2026-08-11T17:11:38Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXMPEM211DX_1200_L.jpg"
+      "image": "https://content-media.investing.com/news/NirZukFounderCTOatPaloAltoNetworks_800x533_L_1639489254.jpg"
     },
     {
-      "title": "Suécia - Ações fecharam o pregão em queda e o Índice OMX Stockholm 30 recuou 0,26%",
+      "title": "S&P eleva perspectiva da Universal Health Services com base na alavancagem",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/suecia--acoes-fecharam-o-pregao-em-queda-e-o-indice-omx-stockholm-30-recuou-026-2035186",
-      "time": "2026-08-11T16:00:50Z",
+      "url": "https://br.investing.com/news/stock-market-news/sp-eleva-perspectiva-da-universal-health-services-com-base-na-alavancagem-93CH-2035236",
+      "time": "2026-08-11T16:47:11Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXMPEA7Q0B4_M.jpg"
+      "image": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg"
     },
     {
-      "title": "Finlândia - Ações fecharam o pregão em alta e o Índice OMX Helsinki 25 avançou 0,21%",
+      "title": "Por que a ação da Nike está caindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/finlandia--acoes-fecharam-o-pregao-em-alta-e-o-indice-omx-helsinki-25-avancou-021-2035185",
-      "time": "2026-08-11T16:00:22Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-a-acao-da-nike-esta-caindo-hoje-93CH-2035225",
+      "time": "2026-08-11T16:37:13Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXMPEM521KY_1200_L.jpg"
+      "image": "https://content-media.investing.com/news/LYNXMPEA5P106_M.jpg"
     },
     {
-      "title": "Por que o ETF iShares MSCI China está caindo hoje?",
+      "title": "Por que as ações da Space Exploration Technologies estão caindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-o-etf-ishares-msci-china-esta-caindo-hoje-93CH-2035180",
-      "time": "2026-08-11T15:55:29Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-space-exploration-technologies-estao-caindo-hoje-93CH-2035219",
+      "time": "2026-08-11T16:26:54Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg"
-    },
-    {
-      "title": "UBS eleva Jabil para compra com crescimento em IA e mantém preço-alvo de US$ 430",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ubs-eleva-jabil-para-compra-com-crescimento-em-ia-e-mantem-precoalvo-de-us-430-2035184",
-      "time": "2026-08-11T15:54:41Z",
-      "cat": "analise",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEB5S0BB_M.jpg"
-    },
-    {
-      "title": "Goldman Sachs vê China entrando na era \"Go Global 3.0\" de exportações",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/goldman-sachs-ve-china-entrando-na-era-go-global-30-de-exportacoes-93CH-2035179",
-      "time": "2026-08-11T15:54:12Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg"
-    },
-    {
-      "title": "Por que as ações da Tango Therapeutics estão caindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-tango-therapeutics-estao-caindo-hoje-93CH-2035172",
-      "time": "2026-08-11T15:45:05Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": null
-    },
-    {
-      "title": "Polônia - Ações fecharam o pregão em alta e o Índice WIG30 avançou 0,57%",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/polonia--acoes-fecharam-o-pregao-em-alta-e-o-indice-wig30-avancou-057-2035159",
-      "time": "2026-08-11T15:35:19Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/Warsaw_Stock_Exchange_M_1440056837.jpg"
+      "image": "https://content-media.investing.com/news/oil_2_M_1440047844.jpg"
     }
   ],
-  "atualizado_em": "11/08/2026 16:27"
+  "atualizado_em": "11/08/2026 17:28"
 }
