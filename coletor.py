@@ -10,6 +10,7 @@ import os
 from io import StringIO
 from datetime import datetime, timezone
 from concurrent.futures import ThreadPoolExecutor
+from redacao_automatica import gerar_materias
 
 try:
     import requests
@@ -417,6 +418,56 @@ def buscar_og_image(url):
         pass
     return None
 
+LEITURAS_EDITORIAIS = {
+    'acoes': {
+        'por_que_importa': 'Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.',
+        'o_que_observar': 'Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.',
+    },
+    'fundos': {
+        'por_que_importa': 'FIIs reagem a juros, crédito, aluguéis e decisões dos gestores. O contexto do fundo é tão importante quanto a manchete do dia.',
+        'o_que_observar': 'Confira relatórios gerenciais, fatos relevantes, rendimentos e indicadores como vacância e P/VP.',
+    },
+    'economia': {
+        'por_que_importa': 'Dados de juros, inflação e atividade econômica afetam o custo do dinheiro e as expectativas para diferentes classes de ativos.',
+        'o_que_observar': 'Observe dados oficiais, comunicados do Banco Central e revisões de expectativa antes de mudar sua estratégia.',
+    },
+    'internacional': {
+        'por_que_importa': 'O cenário externo pode influenciar câmbio, commodities, bolsas e a percepção de risco dos investidores brasileiros.',
+        'o_que_observar': 'Acompanhe indicadores econômicos, decisões de bancos centrais e a reação dos principais mercados globais.',
+    },
+    'cripto': {
+        'por_que_importa': 'Criptoativos costumam ter volatilidade elevada e podem reagir rapidamente a liquidez, regulação e fluxo global.',
+        'o_que_observar': 'Considere liquidez, volatilidade e o seu perfil de risco; não tome decisões apenas pela movimentação do dia.',
+    },
+    'analise': {
+        'por_que_importa': 'Relatórios e projeções são opiniões baseadas em premissas. Eles ajudam a estudar um ativo, mas não substituem análise própria.',
+        'o_que_observar': 'Verifique premissas, horizonte de análise, conflitos de interesse e as fontes usadas no relatório.',
+    },
+}
+
+ROTULOS_CATEGORIA = {
+    'acoes': 'ações',
+    'fundos': 'fundos imobiliários',
+    'economia': 'economia',
+    'internacional': 'mercado internacional',
+    'cripto': 'criptoativos',
+    'analise': 'análises de mercado',
+}
+
+def criar_leitura_editorial(noticia):
+    """Cria contexto educativo próprio, sem reproduzir o texto ou imagens do portal."""
+    cat = noticia.get('cat', 'acoes')
+    guia = LEITURAS_EDITORIAIS.get(cat, LEITURAS_EDITORIAIS['acoes'])
+    categoria = ROTULOS_CATEGORIA.get(cat, 'mercado financeiro')
+    ativos = noticia.get('tickers', [])
+    ativos_texto = ', '.join(ativos[:4]) if ativos else 'os indicadores ligados ao tema'
+    return {
+        'abertura': f"Esta atualização trata de {ativos_texto} no contexto de {categoria}. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        'por_que_importa': guia['por_que_importa'],
+        'o_que_observar': guia['o_que_observar'],
+        'metodologia': 'Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais.',
+    }
+
 def coletar_noticias():
     if not HAS_FEEDPARSER:
         return []
@@ -431,6 +482,8 @@ def coletar_noticias():
                     continue
                 url = entry.get('link', '')
                 summary_raw = entry.get('summary', entry.get('description', ''))
+                # O resumo recebido por RSS é usado somente para classificar e extrair ativos.
+                # Ele não é publicado no site para evitar reprodução de texto de terceiros.
                 summary = limpar_html(summary_raw)
                 published = entry.get('published_parsed', entry.get('updated_parsed'))
                 cat = classificar_noticia(title, feed_info['default_cat'])
@@ -440,8 +493,8 @@ def coletar_noticias():
                     'source': feed_info['source'], 'url': url,
                     'time': pub_iso,
                     'cat': cat, 'tickers': extrair_tickers(title + ' ' + summary),
-                    'image': extrair_imagem(entry, summary_raw),
                 })
+                todas[-1]['editorial'] = criar_leitura_editorial(todas[-1])
         except Exception as e:
             print(f"    Erro {feed_info['source']}: {e}")
     seen = set()
@@ -858,47 +911,26 @@ if noticias_raw:
     # Manchete escolhida por score (recência + impacto), não pela ordem do feed
     ordenadas = sorted(noticias_raw, key=pontuar_noticia, reverse=True)
 
-    # Reaproveita imagens descobertas em execuções anteriores (cache por URL):
-    # se numa rodada o portal respondeu com a og:image, não perde nas próximas
-    # mesmo que o site passe a bloquear a requisição.
-    try:
-        with open('noticias.json', 'r', encoding='utf-8') as f:
-            anterior = json.load(f)
-        cache_img = {}
-        for n in ([anterior.get('headline')] + anterior.get('featured', []) + anterior.get('all', [])):
-            if n and n.get('url') and n.get('image'):
-                cache_img[n['url']] = n['image']
-        for n in ordenadas:
-            if not n.get('image') and n['url'] in cache_img:
-                n['image'] = cache_img[n['url']]
-    except Exception:
-        pass
-
-    # Busca og:image para TODAS as notícias sem imagem (não só as top 15)
-    print("Buscando imagens og:image para notícias sem thumbnail...")
-    sem_img = [n for n in ordenadas if not n.get('image')]
-    with ThreadPoolExecutor(max_workers=8) as ex:
-        futures = {ex.submit(buscar_og_image, n['url']): n for n in sem_img}
-        for fut in futures:
-            n = futures[fut]
-            try:
-                img = fut.result()
-                if img:
-                    n['image'] = img
-            except Exception:
-                pass
-    com_img = sum(1 for n in ordenadas if n.get('image'))
-    print(f"  {com_img}/{len(ordenadas)} notícias com imagem")
+    # Não baixa nem republica imagens dos portais: o frontend usa artes locais por categoria.
+    # O resumo do RSS é usado apenas nesta execução para classificar a notícia e localizar ativos.
+    # Antes de publicar o JSON, ele é removido para não reproduzir texto de terceiros.
+    def noticia_publica(noticia):
+        return {chave: valor for chave, valor in noticia.items() if chave != 'summary'}
 
     noticias_json = {
-        'headline': ordenadas[0],
-        'featured': ordenadas[1:3],
-        'all': noticias_raw,
+        'headline': noticia_publica(ordenadas[0]),
+        'featured': [noticia_publica(n) for n in ordenadas[1:3]],
+        'all': [noticia_publica(n) for n in noticias_raw],
         'atualizado_em': datetime.now().strftime('%d/%m/%Y %H:%M'),
     }
     with open('noticias.json', 'w', encoding='utf-8') as f:
         json.dump(noticias_json, f, ensure_ascii=False, indent=2)
     print(f"noticias.json salvo — {len(noticias_raw)} noticias")
+    # A redação usa resumos somente na memória e exige confirmação independente.
+    try:
+        gerar_materias(noticias_raw)
+    except Exception as erro:
+        print(f"Redação IA: falha não bloqueante: {erro}")
 else:
     print("Nenhuma noticia coletada.")
 
