@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """Capas próprias por pauta; não baixa imagens de portais."""
-import base64, json, os, re, urllib.request
+import base64, json, os, re, urllib.error, urllib.request
 from pathlib import Path
 
 MODELO = 'gemini-3.1-flash-image'
@@ -18,9 +18,15 @@ def direcao(materia):
 
 def gerar(chave, materia, destino):
     prompt = f"Capa editorial premium para notícia financeira brasileira. Tema: {direcao(materia)}. Foto-ilustração jornalística realista, horizontal 16:9, azul-marinho, grafite e dourado. Sem palavras, números legíveis, logotipos, marcas d'água ou pessoas identificáveis. Ilustração editorial original criada por IA, não uma foto de evento real."
-    corpo = {'model': MODELO, 'input': [{'type':'text','text':prompt}], 'response_format': {'type':'image','mime_type':'image/png','aspect_ratio':'16:9','image_size':'2K'}}
+    # A criação inicial aceita somente modelo e prompt. Formato/resolução são
+    # opções de uma edição posterior e causavam HTTP 400 nesta chamada.
+    corpo = {'model': MODELO, 'input': [{'type':'text','text':prompt}]}
     req = urllib.request.Request('https://generativelanguage.googleapis.com/v1beta/interactions', data=json.dumps(corpo).encode(), method='POST', headers={'x-goog-api-key':chave,'Content-Type':'application/json'})
-    with urllib.request.urlopen(req, timeout=120) as r: dados = json.loads(r.read().decode())
+    try:
+        with urllib.request.urlopen(req, timeout=120) as r: dados = json.loads(r.read().decode())
+    except urllib.error.HTTPError as erro:
+        detalhe = erro.read().decode('utf-8', errors='replace')[:500]
+        raise RuntimeError(f'HTTP {erro.code}: {detalhe}') from erro
     imagem = (dados.get('output_image') or {}).get('data')
     if not imagem: raise RuntimeError('API não devolveu imagem')
     destino.write_bytes(base64.b64decode(imagem))
