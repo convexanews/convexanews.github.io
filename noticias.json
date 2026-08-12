@@ -1,42 +1,40 @@
 {
   "headline": {
-    "title": "Bitcoin hoje: cripto opera quase estável em sessão de CPI dos EUA dentro do esperado",
-    "source": "InfoMoney",
-    "url": "https://www.infomoney.com.br/mercados/bitcoin-hoje-cripto-opera-quase-estavel-em-sessao-de-cpi-dos-eua-dentro-do-esperado/",
-    "time": "2026-08-12T19:55:50Z",
-    "cat": "cripto",
-    "tickers": [
-      "BTC"
-    ],
+    "title": "Ibovespa estende perdas com ‘risco Brasil’ ainda no radar dos investidores; dólar sobe",
+    "source": "Money Times",
+    "url": "https://www.moneytimes.com.br/ibovespa-12-8-26-apsa/",
+    "time": "2026-08-12T20:26:39Z",
+    "cat": "economia",
+    "tickers": [],
     "editorial": {
-      "abertura": "Esta atualização trata de BTC no contexto de criptoativos. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-      "por_que_importa": "Criptoativos costumam ter volatilidade elevada e podem reagir rapidamente a liquidez, regulação e fluxo global.",
-      "o_que_observar": "Considere liquidez, volatilidade e o seu perfil de risco; não tome decisões apenas pela movimentação do dia.",
+      "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de economia. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+      "por_que_importa": "Dados de juros, inflação e atividade econômica afetam o custo do dinheiro e as expectativas para diferentes classes de ativos.",
+      "o_que_observar": "Observe dados oficiais, comunicados do Banco Central e revisões de expectativa antes de mudar sua estratégia.",
       "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
     }
   },
   "featured": [
     {
-      "title": "Embraer (EMBJ3) lidera as altas do Ibovespa — de novo. O que deixou a XP otimista com a empresa?",
+      "title": "Moura Dubeux (MDNE3) tem lucro recorde de R$ 174 milhões no 2T26, alta de 44,6%, apesar de queda nas vendas",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/o-que-esperar-da-embraer-embj3-xp-ve-margens-maiores-e-avenidas-de-crescimento-a-frente-lmrs/",
-      "time": "2026-08-12T19:41:55Z",
+      "url": "https://www.moneytimes.com.br/moura-dubeux-mdne3-tem-lucro-recorde-de-r-174-milhoes-no-2t26-alta-de-446-apesar-de-queda-nas-vendas/",
+      "time": "2026-08-12T20:59:53Z",
       "cat": "acoes",
       "tickers": [
-        "EMBJ3"
+        "MDNE3"
       ],
       "editorial": {
-        "abertura": "Esta atualização trata de EMBJ3 no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "abertura": "Esta atualização trata de MDNE3 no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
         "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
         "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
         "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
       }
     },
     {
-      "title": "Dólar avança a R$ 5,18 com eleições ainda no radar dos investidores",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/dolar-12-8-26-apsa/",
-      "time": "2026-08-12T20:05:26Z",
+      "title": "Dólar hoje sobe 0,27%, a R$ 5,17, após dados de inflação nos EUA e ganhos da véspera",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-12082026/",
+      "time": "2026-08-12T21:02:06Z",
       "cat": "economia",
       "tickers": [],
       "editorial": {
@@ -49,10 +47,24 @@
   ],
   "all": [
     {
-      "title": "Déficit orçamentário dos EUA sobe em julho e já atinge em 10 meses o rombo de 2025",
+      "title": "Mercado vê sucessão na JBS como continuidade, mas monitora riscos de execução",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/economia/deficit-orcamentario-dos-eua-sobe-em-julho-e-ja-atinge-em-10-meses-o-rombo-de-2025/",
-      "time": "2026-08-12T19:57:25Z",
+      "url": "https://www.infomoney.com.br/mercados/mercado-ve-sucessao-na-jbs-como-continuidade-mas-monitora-riscos-de-execucao/",
+      "time": "2026-08-12T21:02:27Z",
+      "cat": "acoes",
+      "tickers": [],
+      "editorial": {
+        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
+        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
+        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
+      }
+    },
+    {
+      "title": "Dólar hoje sobe 0,27%, a R$ 5,17, após dados de inflação nos EUA e ganhos da véspera",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-12082026/",
+      "time": "2026-08-12T21:02:06Z",
       "cat": "economia",
       "tickers": [],
       "editorial": {
@@ -63,26 +75,138 @@
       }
     },
     {
-      "title": "Bitcoin hoje: cripto opera quase estável em sessão de CPI dos EUA dentro do esperado",
+      "title": "Startups: Futuro da TV? Roku lança canal com programação 100% “AI slop”",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/bitcoin-hoje-cripto-opera-quase-estavel-em-sessao-de-cpi-dos-eua-dentro-do-esperado/",
-      "time": "2026-08-12T19:55:50Z",
-      "cat": "cripto",
+      "url": "https://www.infomoney.com.br/business/startups-futuro-da-tv-roku-lanca-canal-com-programacao-100-ai-slop/",
+      "time": "2026-08-12T20:50:23Z",
+      "cat": "acoes",
+      "tickers": [],
+      "editorial": {
+        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
+        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
+        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
+      }
+    },
+    {
+      "title": "Bolsas de NY fecham sem sinal único com avanço em techs em dia de inflação nos EUA",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-sem-sinal-unico-com-avanco-em-techs-em-dia-de-inflacao-nos-eua/",
+      "time": "2026-08-12T20:48:50Z",
+      "cat": "economia",
+      "tickers": [],
+      "editorial": {
+        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de economia. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "Dados de juros, inflação e atividade econômica afetam o custo do dinheiro e as expectativas para diferentes classes de ativos.",
+        "o_que_observar": "Observe dados oficiais, comunicados do Banco Central e revisões de expectativa antes de mudar sua estratégia.",
+        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
+      }
+    },
+    {
+      "title": "Ibovespa tem 7ª baixa seguida em dia de vencimentos e balanços; Embraer salta 4%",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-cautela-do-mercado-financeiro-com-brasil-limita-indice-de-seguir-alta-em-nova-york/",
+      "time": "2026-08-12T20:45:26Z",
+      "cat": "acoes",
+      "tickers": [],
+      "editorial": {
+        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
+        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
+        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
+      }
+    },
+    {
+      "title": "B3 (B3SA3) tem leve queda apesar de 2T em linha; por que não reagiu ao lucro forte?",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/b3-b3sa3-tem-leve-queda-apesar-de-2t-em-linha-por-que-nao-reagiu-ao-lucro-forte/",
+      "time": "2026-08-12T20:34:59Z",
+      "cat": "acoes",
+      "tickers": [],
+      "editorial": {
+        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
+        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
+        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
+      }
+    },
+    {
+      "title": "Ibovespa cai pela sétima sessão seguida, em mês todo no vermelho até aqui",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-12082026/",
+      "time": "2026-08-12T20:26:49Z",
+      "cat": "acoes",
+      "tickers": [],
+      "editorial": {
+        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
+        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
+        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
+      }
+    },
+    {
+      "title": "Radar das Eleições: Flávio Bolsonaro é o candidato, mas Renan Santos é o ‘sonho’ do mercado",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/radar-das-eleicoes-flavio-bolsonaro-e-o-candidato-mas-renan-santos-e-o-sonho-do-mercado-gaep/",
+      "time": "2026-08-12T21:09:41Z",
+      "cat": "acoes",
+      "tickers": [],
+      "editorial": {
+        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
+        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
+        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
+      }
+    },
+    {
+      "title": "Moura Dubeux (MDNE3) tem lucro recorde de R$ 174 milhões no 2T26, alta de 44,6%, apesar de queda nas vendas",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/moura-dubeux-mdne3-tem-lucro-recorde-de-r-174-milhoes-no-2t26-alta-de-446-apesar-de-queda-nas-vendas/",
+      "time": "2026-08-12T20:59:53Z",
+      "cat": "acoes",
       "tickers": [
-        "BTC"
+        "MDNE3"
       ],
       "editorial": {
-        "abertura": "Esta atualização trata de BTC no contexto de criptoativos. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "Criptoativos costumam ter volatilidade elevada e podem reagir rapidamente a liquidez, regulação e fluxo global.",
-        "o_que_observar": "Considere liquidez, volatilidade e o seu perfil de risco; não tome decisões apenas pela movimentação do dia.",
+        "abertura": "Esta atualização trata de MDNE3 no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
+        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
         "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
       }
     },
     {
-      "title": "Com previsão de temperaturas mais altas em SP, defesa Civil alerta para incêndios",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/brasil/com-previsao-de-temperaturas-mais-altas-em-sp-defesa-civil-alerta-para-incendios/",
-      "time": "2026-08-12T19:50:45Z",
+      "title": "Açúcar bruto alcança maior nível em um ano acima de 17 centavos de dólar e depois recua; cacau sobe",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/acucar-bruto-alcanca-maior-nivel-em-um-ano-acima-de-17-centavos-de-dolar-e-depois-recua-cacau-sobe-pads/",
+      "time": "2026-08-12T20:54:06Z",
+      "cat": "fundos",
+      "tickers": [],
+      "editorial": {
+        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de fundos imobiliários. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "FIIs reagem a juros, crédito, aluguéis e decisões dos gestores. O contexto do fundo é tão importante quanto a manchete do dia.",
+        "o_que_observar": "Confira relatórios gerenciais, fatos relevantes, rendimentos e indicadores como vacância e P/VP.",
+        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
+      }
+    },
+    {
+      "title": "Ibovespa estende perdas com ‘risco Brasil’ ainda no radar dos investidores; dólar sobe",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ibovespa-12-8-26-apsa/",
+      "time": "2026-08-12T20:26:39Z",
+      "cat": "economia",
+      "tickers": [],
+      "editorial": {
+        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de economia. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "Dados de juros, inflação e atividade econômica afetam o custo do dinheiro e as expectativas para diferentes classes de ativos.",
+        "o_que_observar": "Observe dados oficiais, comunicados do Banco Central e revisões de expectativa antes de mudar sua estratégia.",
+        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
+      }
+    },
+    {
+      "title": "Equipe econômica propõe novas travas para gastos em projeto em tramitação no Congresso, dizem fontes",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/equipe-economica-propoe-novas-travas-para-gastos-em-projeto-em-tramitacao-no-congresso-dizem-fontes/",
+      "time": "2026-08-12T20:16:49Z",
       "cat": "acoes",
       "tickers": [],
       "editorial": {
@@ -93,35 +217,7 @@
       }
     },
     {
-      "title": "Petróleo sobe ligeiramente em meio a impasse nas negociações entre EUA e Irã",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-12082026/",
-      "time": "2026-08-12T19:49:51Z",
-      "cat": "internacional",
-      "tickers": [],
-      "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de mercado internacional. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "O cenário externo pode influenciar câmbio, commodities, bolsas e a percepção de risco dos investidores brasileiros.",
-        "o_que_observar": "Acompanhe indicadores econômicos, decisões de bancos centrais e a reação dos principais mercados globais.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "Congresso adia instalação de comissão que analisa MP do fim da taxa das blusinhas",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/congresso-adia-instalacao-de-comissao-que-analisa-mp-do-fim-da-taxa-das-blusinhas/",
-      "time": "2026-08-12T19:47:15Z",
-      "cat": "acoes",
-      "tickers": [],
-      "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
-        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "Wall Street fecha em tom misto com inflação em linha com o esperado e ações de IA",
+      "title": "Wall Street fecha em tom misto com inflação em linha com o esperado e ações de IA; S&P 500 volta a se aproximar de recorde",
       "source": "Money Times",
       "url": "https://www.moneytimes.com.br/wall-street-12-8-26-lils/",
       "time": "2026-08-12T20:11:02Z",
@@ -135,104 +231,16 @@
       }
     },
     {
-      "title": "Dólar avança a R$ 5,18 com eleições ainda no radar dos investidores",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/dolar-12-8-26-apsa/",
-      "time": "2026-08-12T20:05:26Z",
-      "cat": "economia",
+      "title": "PPEI11 acumula R$ 181,8 mi em dividendos desde IPO; fundo projeta total de R$ 13,40 em 2026",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ppei11-acumula-r-1818-mi-em-dividendos-desde-ipo-fundo-projeta-total-de-r-1340-em-2026/",
+      "time": "2026-08-12T20:25:09Z",
+      "cat": "fundos",
       "tickers": [],
       "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de economia. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "Dados de juros, inflação e atividade econômica afetam o custo do dinheiro e as expectativas para diferentes classes de ativos.",
-        "o_que_observar": "Observe dados oficiais, comunicados do Banco Central e revisões de expectativa antes de mudar sua estratégia.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "Por que setor financeiro perdeu R$ 112 bi, um Banco do Brasil (BBAS3), em dias na Bolsa?",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/por-que-setor-financeiro-perdeu-r-112-bi-um-banco-do-brasil-bbas3-em-dias-na-bolsa-rnda/",
-      "time": "2026-08-12T20:00:42Z",
-      "cat": "acoes",
-      "tickers": [
-        "BBAS3"
-      ],
-      "editorial": {
-        "abertura": "Esta atualização trata de BBAS3 no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
-        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "STF decide que Moratória da Soja é legal e exime tradings de indenizações",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/stf-decide-que-moratoria-da-soja-e-legal-e-exime-tradings-de-indenizacoes-pads/",
-      "time": "2026-08-12T19:58:12Z",
-      "cat": "acoes",
-      "tickers": [],
-      "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
-        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "Petróleo avança pelo 6º dia consecutivo com tensões no Oriente Médio e impasse sobre Ormuz",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/petroleo-12-8-26-lils/",
-      "time": "2026-08-12T19:46:58Z",
-      "cat": "internacional",
-      "tickers": [],
-      "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de mercado internacional. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "O cenário externo pode influenciar câmbio, commodities, bolsas e a percepção de risco dos investidores brasileiros.",
-        "o_que_observar": "Acompanhe indicadores econômicos, decisões de bancos centrais e a reação dos principais mercados globais.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "Embraer (EMBJ3) lidera as altas do Ibovespa — de novo. O que deixou a XP otimista com a empresa?",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/o-que-esperar-da-embraer-embj3-xp-ve-margens-maiores-e-avenidas-de-crescimento-a-frente-lmrs/",
-      "time": "2026-08-12T19:41:55Z",
-      "cat": "acoes",
-      "tickers": [
-        "EMBJ3"
-      ],
-      "editorial": {
-        "abertura": "Esta atualização trata de EMBJ3 no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
-        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "EUA devem colher segunda maior safra de milho da história apesar da queda na produtividade, diz USDA",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/eua-devem-colher-segunda-maior-safra-de-milho-da-historia-apesar-da-queda-na-produtividade-diz-usda-pads/",
-      "time": "2026-08-12T19:30:00Z",
-      "cat": "internacional",
-      "tickers": [],
-      "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de mercado internacional. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "O cenário externo pode influenciar câmbio, commodities, bolsas e a percepção de risco dos investidores brasileiros.",
-        "o_que_observar": "Acompanhe indicadores econômicos, decisões de bancos centrais e a reação dos principais mercados globais.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "Dino, do STF, considera legal Moratória da Soja e vota contra pedidos de indenizações",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/dino-do-stf-considera-legal-moratoria-da-soja-e-vota-contra-pedidos-de-indenizacoes-pads/",
-      "time": "2026-08-12T19:21:10Z",
-      "cat": "acoes",
-      "tickers": [],
-      "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
-        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
+        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de fundos imobiliários. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "FIIs reagem a juros, crédito, aluguéis e decisões dos gestores. O contexto do fundo é tão importante quanto a manchete do dia.",
+        "o_que_observar": "Confira relatórios gerenciais, fatos relevantes, rendimentos e indicadores como vacância e P/VP.",
         "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
       }
     },
@@ -309,54 +317,10 @@
       }
     },
     {
-      "title": "Agronegócio e estatais lideram ganhos da B3 no 1º semestre; veja o ranking",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/indices-b3-agronegocio-estatais-primeiro-semestre-2026-mt/",
-      "time": "2026-08-12T17:45:04Z",
-      "cat": "acoes",
-      "tickers": [],
-      "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
-        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "Os novos dividendos do IRIM11 já foram divulgados; confira valor",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/dividendos-do-irim11-julho-2026/",
-      "time": "2026-08-12T14:35:08Z",
-      "cat": "fundos",
-      "tickers": [],
-      "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de fundos imobiliários. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "FIIs reagem a juros, crédito, aluguéis e decisões dos gestores. O contexto do fundo é tão importante quanto a manchete do dia.",
-        "o_que_observar": "Confira relatórios gerenciais, fatos relevantes, rendimentos e indicadores como vacância e P/VP.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "RBRP11 anuncia novos dividendos para agosto; saiba o valor",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/rbrp11-dividendos-agosto-2026-yield/",
-      "time": "2026-08-12T14:25:09Z",
-      "cat": "fundos",
-      "tickers": [
-        "RBRP11"
-      ],
-      "editorial": {
-        "abertura": "Esta atualização trata de RBRP11 no contexto de fundos imobiliários. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "FIIs reagem a juros, crédito, aluguéis e decisões dos gestores. O contexto do fundo é tão importante quanto a manchete do dia.",
-        "o_que_observar": "Confira relatórios gerenciais, fatos relevantes, rendimentos e indicadores como vacância e P/VP.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "Por que o governo americano está contratando gamers para evitar o caos na aviação",
+      "title": "Spotify vai separar artistas humanos de personas criadas por inteligência artificial",
       "source": "Exame",
-      "url": "https://exame.com/tecnologia/por-que-o-governo-americano-esta-contratando-gamers-para-evitar-o-caos-na-aviacao/",
-      "time": "2026-08-12T17:01:15Z",
+      "url": "https://exame.com/pop/spotify-vai-separar-artistas-humanos-de-personas-criadas-por-inteligencia-artificial/",
+      "time": "2026-08-12T17:49:45Z",
       "cat": "economia",
       "tickers": [],
       "editorial": {
@@ -367,10 +331,10 @@
       }
     },
     {
-      "title": "Carro por assinatura da Localiza passa a oferecer localização em tempo real e alerta de ignição",
+      "title": "Crise no Corinthians ganha novo capítulo com pedido de afastamento de Tuma e Stabile",
       "source": "Exame",
-      "url": "https://exame.com/tecnologia/carro-por-assinatura-da-localiza-passa-a-oferecer-localizacao-em-tempo-real-e-alerta-de-ignicao/",
-      "time": "2026-08-12T16:20:52Z",
+      "url": "https://exame.com/esporte/crise-no-corinthians-ganha-novo-capitulo-com-pedido-de-afastamento-de-tuma-e-stabile/",
+      "time": "2026-08-12T17:47:33Z",
       "cat": "economia",
       "tickers": [],
       "editorial": {
@@ -381,56 +345,24 @@
       }
     },
     {
-      "title": "Micropigmentação capilar: conheça o procedimento para tatuar couro cabeludo em pessoas calvas",
-      "source": "Exame",
-      "url": "https://exame.com/ciencia/micropigmentacao-capilar-conheca-o-procedimento-para-tatuar-couro-cabeludo-em-pessoas-calvas/",
-      "time": "2026-08-12T16:02:22Z",
-      "cat": "economia",
+      "title": "Raymond James reduz preço-alvo da On Holding após fraqueza no atacado",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/raymond-james-reduz-precoalvo-da-on-holding-apos-fraqueza-no-atacado-2037246",
+      "time": "2026-08-12T20:55:30Z",
+      "cat": "analise",
       "tickers": [],
       "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de economia. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "Dados de juros, inflação e atividade econômica afetam o custo do dinheiro e as expectativas para diferentes classes de ativos.",
-        "o_que_observar": "Observe dados oficiais, comunicados do Banco Central e revisões de expectativa antes de mudar sua estratégia.",
+        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de análises de mercado. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "Relatórios e projeções são opiniões baseadas em premissas. Eles ajudam a estudar um ativo, mas não substituem análise própria.",
+        "o_que_observar": "Verifique premissas, horizonte de análise, conflitos de interesse e as fontes usadas no relatório.",
         "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
       }
     },
     {
-      "title": "OranjeBTC cria ETF de ações de compradoras de bitcoin focado em dividendos",
-      "source": "Exame",
-      "url": "https://exame.com/future-of-money/oranjebtc-cria-etf-de-acoes-de-compradoras-de-bitcoin-focado-em-dividendos/",
-      "time": "2026-08-12T16:00:54Z",
-      "cat": "fundos",
-      "tickers": [
-        "BTC"
-      ],
-      "editorial": {
-        "abertura": "Esta atualização trata de BTC no contexto de fundos imobiliários. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "FIIs reagem a juros, crédito, aluguéis e decisões dos gestores. O contexto do fundo é tão importante quanto a manchete do dia.",
-        "o_que_observar": "Confira relatórios gerenciais, fatos relevantes, rendimentos e indicadores como vacância e P/VP.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "MBRF3: Por que as ações da MBRF estão em alta hoje?",
+      "title": "Por que as ações da Grocery Outlet estão disparando hoje?",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/mbrf3-por-que-as-acoes-da-mbrf-estao-em-alta-hoje-2037103",
-      "time": "2026-08-12T19:35:13Z",
-      "cat": "internacional",
-      "tickers": [
-        "MBRF3"
-      ],
-      "editorial": {
-        "abertura": "Esta atualização trata de MBRF3 no contexto de mercado internacional. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "O cenário externo pode influenciar câmbio, commodities, bolsas e a percepção de risco dos investidores brasileiros.",
-        "o_que_observar": "Acompanhe indicadores econômicos, decisões de bancos centrais e a reação dos principais mercados globais.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "Por que as ações da Shutterstock estão subindo hoje?",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-shutterstock-estao-subindo-hoje-93CH-2037102",
-      "time": "2026-08-12T19:35:11Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-grocery-outlet-estao-disparando-hoje-93CH-2037235",
+      "time": "2026-08-12T20:52:27Z",
       "cat": "internacional",
       "tickers": [],
       "editorial": {
@@ -441,10 +373,10 @@
       }
     },
     {
-      "title": "Por que as ações da Home Depot estão caindo hoje?",
+      "title": "Por que as ações da Cerebras Systems despencaram hoje?",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-home-depot-estao-caindo-hoje-93CH-2037101",
-      "time": "2026-08-12T19:35:07Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-cerebras-systems-despencaram-hoje-93CH-2037226",
+      "time": "2026-08-12T20:45:10Z",
       "cat": "internacional",
       "tickers": [],
       "editorial": {
@@ -455,10 +387,10 @@
       }
     },
     {
-      "title": "Por que as ações da Neurocrine Biosciences estão caindo hoje?",
+      "title": "JFrog lidera as ações de software de segurança, segundo a Cantor",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-neurocrine-biosciences-estao-caindo-hoje-93CH-2037100",
-      "time": "2026-08-12T19:32:16Z",
+      "url": "https://br.investing.com/news/stock-market-news/jfrog-lidera-as-acoes-de-software-de-seguranca-segundo-a-cantor-93CH-2037200",
+      "time": "2026-08-12T20:36:18Z",
       "cat": "internacional",
       "tickers": [],
       "editorial": {
@@ -469,10 +401,10 @@
       }
     },
     {
-      "title": "Por que as ações da Aehr Test Systems estão disparando hoje?",
+      "title": "Por que as ações da Cisco estão caindo hoje?",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-aehr-test-systems-estao-disparando-hoje-93CH-2037099",
-      "time": "2026-08-12T19:32:08Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-cisco-estao-caindo-hoje-93CH-2037196",
+      "time": "2026-08-12T20:33:58Z",
       "cat": "internacional",
       "tickers": [],
       "editorial": {
@@ -483,54 +415,10 @@
       }
     },
     {
-      "title": "Ações da Netlist disparam após novo processo de patentes contra Micron",
+      "title": "E.U.A. - Ações fecharam o pregão inalteradas e o Índice Dow Jones Industrial Average recuou 0,04%",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-netlist-disparam-apos-novo-processo-de-patentes-contra-micron-93CH-2037098",
-      "time": "2026-08-12T19:32:06Z",
-      "cat": "internacional",
-      "tickers": [],
-      "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de mercado internacional. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "O cenário externo pode influenciar câmbio, commodities, bolsas e a percepção de risco dos investidores brasileiros.",
-        "o_que_observar": "Acompanhe indicadores econômicos, decisões de bancos centrais e a reação dos principais mercados globais.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "Ações da Home Depot caem após CEO Decker anunciar licença médica",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-home-depot-caem-apos-ceo-decker-anunciar-licenca-medica-93CH-2037095",
-      "time": "2026-08-12T19:28:03Z",
-      "cat": "internacional",
-      "tickers": [],
-      "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de mercado internacional. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "O cenário externo pode influenciar câmbio, commodities, bolsas e a percepção de risco dos investidores brasileiros.",
-        "o_que_observar": "Acompanhe indicadores econômicos, decisões de bancos centrais e a reação dos principais mercados globais.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "EMBJ3: Por que as ações da Embraer estão em alta hoje?",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/embj3-por-que-as-acoes-da-embraer-estao-em-alta-hoje-2037092",
-      "time": "2026-08-12T19:24:49Z",
-      "cat": "internacional",
-      "tickers": [
-        "EMBJ3"
-      ],
-      "editorial": {
-        "abertura": "Esta atualização trata de EMBJ3 no contexto de mercado internacional. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "O cenário externo pode influenciar câmbio, commodities, bolsas e a percepção de risco dos investidores brasileiros.",
-        "o_que_observar": "Acompanhe indicadores econômicos, decisões de bancos centrais e a reação dos principais mercados globais.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "Ações da Shutterstock sobem após integração com Claude da Anthropic",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-shutterstock-sobem-apos-integracao-com-claude-da-anthropic-93CH-2037089",
-      "time": "2026-08-12T19:23:17Z",
+      "url": "https://br.investing.com/news/stock-market-news/eua--acoes-fecharam-o-pregao-inalteradas-e-o-indice-dow-jones-industrial-average-recuou-004-2037192",
+      "time": "2026-08-12T20:31:37Z",
       "cat": "internacional",
       "tickers": [],
       "editorial": {
@@ -541,5 +429,5 @@
       }
     }
   ],
-  "atualizado_em": "12/08/2026 20:14"
+  "atualizado_em": "12/08/2026 21:14"
 }
