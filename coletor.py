@@ -468,6 +468,11 @@ def criar_leitura_editorial(noticia):
         'metodologia': 'Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais.',
     }
 
+
+def imagem_licenciada(url, credito, licenca, alt=''):
+    """Formato para imagens autorizadas. Nunca preencher automaticamente com imagens de portais."""
+    return {'url': url, 'credit': credito, 'license': licenca, 'alt': alt, 'licensed': True}
+
 def coletar_noticias():
     if not HAS_FEEDPARSER:
         return []

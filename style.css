@@ -1470,6 +1470,9 @@
     display: block; width: 100%; max-height: 420px; object-fit: cover;
     border-radius: 14px; margin-bottom: 24px; background: var(--bg-alt, var(--bg-dark));
   }
+  .noticia-det-figure { margin: 0 0 24px; }
+  .noticia-det-figure .noticia-det-img { margin-bottom: 0; }
+  .noticia-det-figure figcaption { margin-top: 7px; font-size: 12px; color: var(--text-secondary); }
   .noticia-det-resumo {
       font-size: 18px; line-height: 1.7; color: var(--text); margin-bottom: 28px;
     }

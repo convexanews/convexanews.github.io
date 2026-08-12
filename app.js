@@ -23,9 +23,14 @@ function safeUrl(u) {
   return /^https?:\/\//i.test(u || '') ? esc(u) : '';
 }
 function newsImg(n) {
-  // Artes próprias por categoria: não carregamos imagens de matérias de terceiros.
+  // Só aceita imagens próprias ou cadastradas com licença e crédito explícitos.
+  if (n?.image?.url && n.image?.licensed === true) return safeUrl(n.image.url) || `./img/cat-${esc(n.cat || 'geral')}.jpg`;
   if (n.cat === 'economia') return './img/cat-economia-editorial.png';
   return `./img/cat-${esc(n.cat || 'geral')}.jpg`;
+}
+function newsImgCredit(n) {
+  if (n?.image?.licensed === true && n.image?.credit) return `Foto: ${n.image.credit}`;
+  return 'Imagem ilustrativa: Bom Dia Investidor';
 }
 // Fallback para uma arte local se algum arquivo de categoria estiver ausente.
 function newsImgErr(img, cat) {
@@ -454,7 +459,10 @@ function renderNoticiaDetalhe(url) {
       <span class="hero-source">${esc(n.source)}</span><span>·</span><span>${esc(tempoRelativo(n.time))}</span>
       ${(n.tickers || []).length ? `<span>·</span>${tickerTagsHtml(n.tickers)}` : ''}
     </div>
-    <img class="noticia-det-img" src="${newsImg(n)}" alt="Arte editorial de ${esc(catLabel)}" onerror="newsImgErr(this,'${esc(n.cat || 'geral')}')">
+    <figure class="noticia-det-figure">
+      <img class="noticia-det-img" src="${newsImg(n)}" alt="Imagem da notícia sobre ${esc(catLabel)}" onerror="newsImgErr(this,'${esc(n.cat || 'geral')}')">
+      <figcaption>${esc(newsImgCredit(n))}</figcaption>
+    </figure>
     <section class="noticia-leitura" aria-label="Leitura editorial">
       <div class="noticia-leitura-kicker">Leitura do Bom Dia Investidor</div>
       <p class="noticia-det-resumo">${esc(leituraEditorial(n).abertura)}</p>
