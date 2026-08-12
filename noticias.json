@@ -1,37 +1,89 @@
 {
   "headline": {
-    "title": "Ibovespa pode cair mais? Onde está o fundo da Bolsa",
-    "summary": "Perda dos 167 mil pontos pode aprofundar a correção, com suportes entre 160 mil e 140 mil; repiques ainda não indicam reversão",
-    "source": "InfoMoney",
-    "url": "https://www.infomoney.com.br/mercados/ibovespa-pode-cair-140-mil-pontos-veja-suportes-no-radar-dos-analistas/",
-    "time": "2026-08-12T08:00:00Z",
-    "cat": "acoes",
+    "title": "Vencimento do Tesouro IPCA+ libera R$ 200 bilhões: o que fazer com o dinheiro?",
+    "summary": "Duas séries irão vencer no sábado, 15. Especialistas explicam se vale a pena comprar novos títulos",
+    "source": "Exame",
+    "url": "https://exame.com/invest/onde-investir/vencimento-do-tesouro-ipca-libera-r-200-bilhoes-o-que-fazer-com-o-dinheiro/",
+    "time": "2026-08-12T06:03:40Z",
+    "cat": "economia",
     "tickers": [],
-    "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Bolsa-Queda-Ibovespa-.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+    "image": "https://classic.exame.com/wp-content/uploads/2026/07/porquinho-de-ferias.png"
   },
   "featured": [
     {
-      "title": "Jamie Dimon: supremacia militar dos EUA mantém o dólar no topo — e isso pode mudar",
-      "summary": "CEO do JPMorgan disse que poder militar e econômico estão \"inextricavelmente ligados\" ao dólar.",
+      "title": "Day Trade hoje (12): Ibovespa cai pela 6ª vez; até onde pode recuar?",
+      "summary": "Confira os pontos de suporte e resistência do mini-índice e minidólar",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/business/global/jamie-dimon-supremacia-militar-dos-eua-mantem-o-dolar-no-topo-e-isso-pode-mudar/",
-      "time": "2026-08-12T08:00:00Z",
-      "cat": "economia",
+      "url": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-12082026/",
+      "time": "2026-08-12T10:03:00Z",
+      "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/JAMIE-DIMON-WARNS-DOLLAR-DOMINANCE-DEPENDS-ON-THE-MILITARY-IF-WERE-NOT-THE-STRONGEST-MILITARY-IN-25-YEARSWE-WONT-BE-THE-RESERVE-CURRENCY-EITHER.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/12/Daytrade-hoje.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Por que as ações da Kingspan estão disparando hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-kingspan-estao-disparando-hoje-93CH-2035930",
-      "time": "2026-08-12T07:48:31Z",
-      "cat": "internacional",
+      "title": "Fundo imobiliário ou renda fixa? Compare rendimentos após a Selic cair para 14%",
+      "summary": "Segundo a Rio Bravo, média dos FIIs paga mais a depender do prazo, e queda nos preços das cotas é oportunidade adicional; veja os números",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/onde-investir/fundo-imobiliario-ou-renda-fixa-compare-rendimentos-apos-a-selic-cair-para-14/",
+      "time": "2026-08-12T10:00:00Z",
+      "cat": "fundos",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/7114-e1767720168833.jpg?fit=300%2C276&amp;quality=70&amp;strip=all"
     }
   ],
   "all": [
+    {
+      "title": "Day Trade hoje (12): Ibovespa cai pela 6ª vez; até onde pode recuar?",
+      "summary": "Confira os pontos de suporte e resistência do mini-índice e minidólar",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-12082026/",
+      "time": "2026-08-12T10:03:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/12/Daytrade-hoje.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Fundo imobiliário ou renda fixa? Compare rendimentos após a Selic cair para 14%",
+      "summary": "Segundo a Rio Bravo, média dos FIIs paga mais a depender do prazo, e queda nos preços das cotas é oportunidade adicional; veja os números",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/onde-investir/fundo-imobiliario-ou-renda-fixa-compare-rendimentos-apos-a-selic-cair-para-14/",
+      "time": "2026-08-12T10:00:00Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/7114-e1767720168833.jpg?fit=300%2C276&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Inflação nos EUA, serviços no Brasil, balanço do Banco do Brasil e mais destaques",
+      "summary": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta quarta-feira (12)",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/inflacao-eua-servicos-brasil-banco-do-brasil-agenda-12082026/",
+      "time": "2026-08-12T09:20:07Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/inflacion12.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Dow Jones Futuro sobe antes de inflação nos EUA, com ações de IA em destaque",
+      "summary": "O ganhou ainda mais importância após o relatório de emprego (payroll) fraco da semana passada",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/dow-jones-futuro-sobe-antes-de-inflacao-nos-eua-com-acoes-de-ia-em-destaque/",
+      "time": "2026-08-12T09:01:01Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/06/2024-06-14T203455Z_1_LYNXMPEK5D0PS_RTROPTP_4_USA-STOCKS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Banco do Brasil (BBAS3) divulga balanço nesta 5º: outro tri difícil vem aí?",
+      "summary": "Analistas ainda consideram que qualidade dos ativos deverá dominar as discussões sobre o Banco do Brasil durante a temporada de resultados",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/banco-do-brasil-bbas3-divulga-balanco-nesta-5o-outro-tri-dificil-vem-ai/",
+      "time": "2026-08-12T09:00:00Z",
+      "cat": "acoes",
+      "tickers": [
+        "BBAS3"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/Captura-de-tela-2025-09-04-120225-e1778772425676.png?fit=300%2C175&amp;quality=70&amp;strip=all"
+    },
     {
       "title": "Ibovespa pode cair mais? Onde está o fundo da Bolsa",
       "summary": "Perda dos 167 mil pontos pode aprofundar a correção, com suportes entre 160 mil e 140 mil; repiques ainda não indicam reversão",
@@ -53,114 +105,76 @@
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/JAMIE-DIMON-WARNS-DOLLAR-DOMINANCE-DEPENDS-ON-THE-MILITARY-IF-WERE-NOT-THE-STRONGEST-MILITARY-IN-25-YEARSWE-WONT-BE-THE-RESERVE-CURRENCY-EITHER.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "R$ 5,5 bi só na 1ª semana: o que explica a debandada do estrangeiro da B3 em agosto?",
-      "summary": "Mercado vê combinação de IA, risco fiscal e incerteza eleitoral por trás da fuga de capital externo",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/r-55-bi-so-na-1a-semana-o-que-explica-a-debandada-do-estrangeiro-da-b3-em-agosto/",
-      "time": "2026-08-12T08:00:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/07/acoes-mercado-bolsa-baixa-queda-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Banco BV tem lucro líquido de R$ 491 mi no 2º tri",
-      "summary": "O retorno sobre patrimônio líquido (ROE) do BV, que tem o grupo Votorantim e o Banco do Brasil como sócios, ficou em 15,6%, de 15,1% um ano antes",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/banco-bv-tem-lucro-liquido-de-r491-mi-no-2o-tri/",
-      "time": "2026-08-12T01:01:55Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2022/03/banco-bv-1024x576-1.webp?fit=300%2C169&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Quina hoje, concurso 7089: confira o resultado sorteado nesta terça (11)",
-      "summary": "O prêmio estimado para este concurso era de R$ 2,9 milhões",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7089-confira-o-resultado-sorteado-nesta-terca-11/",
-      "time": "2026-08-12T00:51:41Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=300%2C175&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Lotofácil hoje, concurso 3759: confira o resultado sorteado nesta terça (11)",
-      "summary": "O prêmio estimado para este concurso era de R$ 2 milhões",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3759-confira-o-resultado-sorteado-nesta-terca-11/",
-      "time": "2026-08-12T00:34:05Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/10/loteria_lotofacil_Marcelo-Camargo-Agencia-Brasil-e1751562724210.webp?fit=300%2C191&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Petróleo sobe com dúvidas sobre acordo entre EUA e Irã e preocupações com abastecimento",
-      "summary": "Os preços do petróleo sobem nesta quarta-feira (12), à medida que as dúvidas sobre um acordo de paz entre EUA e Irã e os ataques contra dois navios alimentaram as preocupações com interrupções no abastecimento do Oriente",
+      "title": "Armor Capital vê a Bolsa num preço justo e tem outra aposta para os próximos meses",
+      "summary": "A Bolsa brasileira já não está barata e faltam gatilhos para o retorno do Ibovespa (IBOV) aos níveis recordes, na avaliação da Armor Capital. A Selic está em patamar elevado, então a bolsa precisa ter um desconto para co",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/petroleo-sobe-com-duvidas-sobre-acordo-entre-eua-e-ira-e-preocupacoes-com-abastecimento-fets/",
-      "time": "2026-08-12T08:08:31Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/petroleo-commodity-ormuz-wti-brent.jpg"
-    },
-    {
-      "title": "Senado aprova plano para fabricação de fertilizantes no Brasil e texto vai para sanção de Lula",
-      "summary": "O Senado Federal aprovou proposta que cria o Programa de Desenvolvimento da Indústria de Fertilizantes (Profert). A votação ocorrida nesta terça-feira (11) no Senado foi simbólica e, como a matéria já foi aprovada pela C",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/senado-aprova-plano-para-fabricacao-de-fertilizantes-no-brasil-e-texto-vai-para-sancao-de-lula-fets/",
-      "time": "2026-08-12T07:38:00Z",
+      "url": "https://www.moneytimes.com.br/bolsa-ja-esta-no-preco-justo-avalia-armor-capital-lils/",
+      "time": "2026-08-12T10:00:00Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/fertilizantes-ormuz.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2026/08/paula-moreno.jpg"
     },
     {
-      "title": "Cury (CURY3) lucra R$ 270,5 milhões no 2º trimestre, alta de 14,3% em um ano",
-      "summary": "A construtora Cury (CURY3) registrou lucro líquido de R$ 270,5 milhões no segundo trimestre de 2026, alta de 14,3% em relação ao mesmo período do ano passado. Na comparação com o trimestre anterior, houve uma queda de 10",
+      "title": "Automob (AMOB3) amplia prejuízo ajustado para R$ 87,5 mi no 2º trimestre",
+      "summary": "A Automob (AMOB3) registrou um prejuízo líquido ajustado de R$ 87,5 milhões no segundo trimestre de 2026, em comparação com um prejuízo de R$ 36,8 milhões no mesmo período do ano anterior. O grupo teve resultado operacio",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/cury-cury3-lucra-r-2705-milhoes-no-2o-trimestre-alta-de-143-em-um-ano/",
-      "time": "2026-08-11T22:45:16Z",
-      "cat": "fundos",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/01/cury-foto-divulgacao.jpeg"
-    },
-    {
-      "title": "Cruzeiro do Sul (CSED3) tem lucro de R$ 100,7 milhões no 2T26, alta de 60,6%",
-      "summary": "A Cruzeiro do Sul (CSED3) registrou lucro líquido ajustado de R$ 100,7 milhões no segundo trimestre de 2026 (2T26), alta de 60,6% em relação ao mesmo período de 2025. Segundo a companhia, o desempenho foi impulsionado pe",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/cruzeiro-do-sul-csed3-tem-lucro-de-r-1007-milhoes-no-2t26-alta-de-606-pads/",
-      "time": "2026-08-11T22:31:41Z",
+      "url": "https://www.moneytimes.com.br/automob-amob3-amplia-prejuizo-ajustado-para-r-875-mi-no-2o-trimestre-fets/",
+      "time": "2026-08-12T09:51:00Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2024/04/cruzeiro-do-sul-xp-investimentos.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2024/12/automob-.jpg"
     },
     {
-      "title": "Lucro da B3 (B3SA3) sobe 8% e atinge R$ 1,4 bi, com IPO solitário, ‘chuva’ de follow-ons e alta de 20% no volume negociado em ações",
-      "summary": "A B3 (B3SA3) teve lucro líquido recorrente, que exclui efeitos considerados não recorrentes pela companhia, de R$ 1,4 bilhão, avanço de 8% na comparação com o mesmo intervalo de 2025. Os dados do segundo trimestre deste ",
+      "title": "Espaçolaser (ESPA3) reverte lucro e tem prejuízo ajustado de R$ 134 mil no 2º trimestre",
+      "summary": "A Espaçolaser (ESPA3) reportou na noite de terça-feira (11) prejuízo líquido ajustado de R$ 134 mil no segundo trimestre do ano, ante um lucro de R$ 8,8 milhões no mesmo período de 2025, segundo balanço apresentado pela ",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/lucro-da-b3-b3sa3-sobe-8-e-atinge-r-14-bi-com-ipo-solitario-chuva-de-follow-ons-e-alta-de-20-no-volume-negociado-em-acoes/",
-      "time": "2026-08-11T22:24:33Z",
+      "url": "https://www.moneytimes.com.br/espacolaser-espa3-reverte-lucro-e-tem-prejuizo-ajustado-de-r-134-mil-no-2o-trimestre-fets/",
+      "time": "2026-08-12T09:38:00Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/b3.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/espacolaser.jpg"
     },
     {
-      "title": "Eucatex (EUCA4) sofre com alta de insumos no 2T26, mas espera retomada de margens à frente; ‘Foi um período de muita pressão’, diz VP",
-      "summary": "Uma das principais fabricantes de pisos, portas, tintas e painéis do Brasil, a Eucatex (EUCA4) obteve lucro líquido recorrente de R$ 84,9 milhões no segundo trimestre de 2026 (2T26), queda de 3,9% em relação a igual perí",
+      "title": "Taesa (TAEE11) tem queda de 28,5% no lucro do 2º trimestre; empresa anuncia R$ 207 milhões em proventos",
+      "summary": "A Taesa (TAEE11) registrou lucro líquido regulatório de R$ 206,8 milhões no segundo trimestre de 2026, queda de 28,5% na comparação anual, segundo balanço divulgado na noite desta terça-feira (11). O resultado operaciona",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/eucatex-euca4-sofre-com-alta-de-insumos-no-2t26-mas-espera-retomada-de-margens-a-frente-foi-um-periodo-de-muita-pressao-diz-vp-igdl/",
-      "time": "2026-08-11T22:22:44Z",
+      "url": "https://www.moneytimes.com.br/taesa-taee11-tem-queda-de-285-no-lucro-do-2o-trimestre-empresa-anuncia-r-207-milhoes-em-proventos-fets/",
+      "time": "2026-08-12T09:14:24Z",
       "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/11/jose-antonio-goulart-vice-presidente-executivo-e-diretor-da-eucatex-imagem-divulgacao.png"
+      "tickers": [
+        "TAEE11"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2024/08/taesa-1.jpeg"
     },
     {
-      "title": "Armínio Fraga: Caso Master foi falha grotesca de aplicação de regulação",
-      "summary": "O ex-presidente do Banco Central, Armínio Fraga, disse nesta terça-feira (11), que o escândalo do banco Master se deu por uma falha grotesca de aplicação, e não por falta de regulação. Não diria que o caso Master, que es",
+      "title": "Bolsas da Ásia fecham majoritariamente em alta, lideradas por Seul",
+      "summary": "As bolsas asiáticas fecharam majoritariamente em alta nesta quarta-feira (12), lideradas pela Coreia do Sul, novamente impulsionada por ações de semicondutores. O índice Kospi subiu 3,68% em Seul, a 6.579,04 pontos. As g",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/arminio-fraga-caso-master-foi-falha-grotesca-de-aplicacao-de-regulacao-pads/",
-      "time": "2026-08-11T22:19:19Z",
+      "url": "https://www.moneytimes.com.br/bolsas-da-asia-fecham-majoritariamente-em-alta-lideradas-por-seul-fets/",
+      "time": "2026-08-12T09:04:59Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2025/05/arminio-fraga-ex-presidente-do-banco-central.jpg"
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/hong-kong.jpg"
+    },
+    {
+      "title": "Tempo real: Ibovespa acompanha inflação nos EUA e dados de serviços",
+      "summary": "Resumo: O Ibovespa (IBOV) opera atento ao crescimento do setor de serviços no Brasil e à divulgação do CPI nos Estados Unidos. Destaques: Confira os principais temas do Ibovespa e dos mercados em tempo real:",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/tempo-real-ibovespa-hoje-mercado-ao-vivo-12-08-2026-jals-lils-apsa/",
+      "time": "2026-08-12T09:00:00Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/ibovespa-acoes.png"
+    },
+    {
+      "title": "Lucro líquido da Vamos (VAMO3) tem alta de 9% e soma R$ 101,1 milhões no 2º trimestre",
+      "summary": "A companhia de aluguel e gestão de frotas de veículos pesados Vamos (VAMO3) reportou lucro líquido de R$ 101,1 milhões no segundo trimestre de 2026, alta de 9,0% em relação ao mesmo período do ano passado. A empresa, que",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/lucro-liquido-da-vamos-vamo3-tem-alta-de-9-e-soma-r-1011-milhoes-no-2o-trimestre-fets/",
+      "time": "2026-08-12T08:52:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/vamos-vamo3-empresas-acoes.jpg"
     },
     {
       "title": "IFIX acompanha queda do Ibovespa e fecha terça-feira em baixa de 0,55%",
@@ -235,125 +249,125 @@
       "image": "https://files.sunoresearch.com.br/n/uploads/2026/07/thedigitalartist-ai-generated-8113893-scaled.webp"
     },
     {
-      "title": "Senado aprova texto que cria crédito à produção de fertilizantes no Brasil, mas nao define valores",
-      "summary": "Subsídios, previstos em R$ 10 bilhões em versão anterior do texto, ficaram de fora da norma, mas devem ser reincluídos em texto que tramita na Câmara",
+      "title": "Bússola & Cia: querosene sobe quase 50% e desafia mercado B2B",
+      "summary": "Alta do QAV pressiona custos, enquanto Reforma Tributária, IA, PMEs e liderança movimentam o ambiente de negócios",
       "source": "Exame",
-      "url": "https://exame.com/brasil/senado-aprova-texto-que-cria-credito-a-producao-de-fertilizantes-no-brasil-mas-nao-define-valores/",
-      "time": "2026-08-11T21:12:57Z",
+      "url": "https://exame.com/bussola/bussola-cia-querosene-sobe-quase-50-e-desafia-mercado-b2b/",
+      "time": "2026-08-12T07:00:45Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/08/New-Africa.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/08/Querosene-subiu-Rangsarit-Chaiyakun.jpg"
     },
     {
-      "title": "Tokenização: não é possível parar uma tecnologia que resolve problemas, diz executivo do BTG",
-      "summary": "André Portilho lembrou da iniciativa ReitBZ e falou sobre a importância de projetos práticos",
+      "title": "A renovação do refúgio secreto de Coco Chanel na Riviera Francesa",
+      "summary": "Peter Marino recupera os jardins de La Pausa, propriedade que a estilista comprou em 1928 com o dinheiro do perfume nº 5 e transformou em seu esconderijo pessoal",
       "source": "Exame",
-      "url": "https://exame.com/future-of-money/tokenizacao-nao-e-possivel-parar-uma-tecnologia-que-resolve-problemas-diz-executivo-do-btg/",
-      "time": "2026-08-11T19:18:57Z",
+      "url": "https://exame.com/casual/a-renovacao-do-refugio-secreto-de-coco-chanel-na-riviera-francesa/",
+      "time": "2026-08-12T06:38:30Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/08/Image-25.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/08/Refugio-Coco-Chanel.jpg"
     },
     {
-      "title": "Por que as ações da Migros estão caindo hoje?",
+      "title": "Vencimento do Tesouro IPCA+ libera R$ 200 bilhões: o que fazer com o dinheiro?",
+      "summary": "Duas séries irão vencer no sábado, 15. Especialistas explicam se vale a pena comprar novos títulos",
+      "source": "Exame",
+      "url": "https://exame.com/invest/onde-investir/vencimento-do-tesouro-ipca-libera-r-200-bilhoes-o-que-fazer-com-o-dinheiro/",
+      "time": "2026-08-12T06:03:40Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/porquinho-de-ferias.png"
+    },
+    {
+      "title": "Gigante de R$ 8 bilhões, Stefanini cria marca para vender tecnologia a fábricas",
+      "summary": "A antiga IHM vira Stefanini Manufacturing e será usada para levar a operação industrial a novos mercados fora do Brasil",
+      "source": "Exame",
+      "url": "https://exame.com/negocios/gigante-de-r-8-bilhoes-stefanini-cria-marca-para-vender-tecnologia-a-fabricas/",
+      "time": "2026-08-12T06:02:57Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://classic.exame.com/wp-content/uploads/2026/08/stefanini_d7d2ad.jpg"
+    },
+    {
+      "title": "Goldman Sachs eleva recomendação da SoftBank com avanço da IA",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-migros-estao-caindo-hoje-93CH-2035936",
-      "time": "2026-08-12T07:56:41Z",
+      "url": "https://br.investing.com/news/stock-market-news/goldman-sachs-eleva-recomendacao-da-softbank-com-avanco-da-ia-2036048",
+      "time": "2026-08-12T09:38:53Z",
+      "cat": "analise",
+      "tickers": [],
+      "image": "https://content-media.investing.com/news/LYNXNPEBA30AJ_M.jpg"
+    },
+    {
+      "title": "Por que as ações da Bechtle estão caindo hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-bechtle-estao-caindo-hoje-93CH-2036041",
+      "time": "2026-08-12T09:32:30Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://content-media.investing.com/news/LYNXNPEC0L0PD_L.jpg"
+    },
+    {
+      "title": "Por que as ações da DiaSorin estão caindo hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-diasorin-estao-caindo-hoje-93CH-2036035",
+      "time": "2026-08-12T09:29:08Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg"
     },
     {
-      "title": "Por que as ações da Douglas estão caindo hoje?",
+      "title": "Por que as ações da ACS estão subindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-douglas-estao-caindo-hoje-93CH-2035934",
-      "time": "2026-08-12T07:53:38Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-acs-estao-subindo-hoje-93CH-2036029",
+      "time": "2026-08-12T09:24:21Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg"
+      "image": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg"
     },
     {
-      "title": "Ações da Titon Holdings caem 10% após revisão do lucro",
+      "title": "Por que as ações da Clariant estão subindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-titon-holdings-caem-10-apos-revisao-do-lucro-93CH-2035932",
-      "time": "2026-08-12T07:49:12Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-clariant-estao-subindo-hoje-93CH-2036027",
+      "time": "2026-08-12T09:23:27Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg"
+      "image": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg"
     },
     {
-      "title": "Por que as ações da Indus Holding estão subindo hoje?",
+      "title": "Ações da ACS sobem após upgrade do Deutsche Bank para compra",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-indus-holding-estao-subindo-hoje-93CH-2035931",
-      "time": "2026-08-12T07:48:44Z",
-      "cat": "internacional",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-acs-sobem-apos-upgrade-do-deutsche-bank-para-compra-93CH-2036012",
+      "time": "2026-08-12T09:14:27Z",
+      "cat": "analise",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg"
+      "image": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg"
     },
     {
-      "title": "Por que as ações da Kingspan estão disparando hoje?",
+      "title": "Armac tem lucro líquido ajustado de R$10,1 mi no 2º tri",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-kingspan-estao-disparando-hoje-93CH-2035930",
-      "time": "2026-08-12T07:48:31Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg"
-    },
-    {
-      "title": "Por que as ações da CoreWeave estão disparando hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-coreweave-estao-disparando-hoje-93CH-2035929",
-      "time": "2026-08-12T07:47:34Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg"
-    },
-    {
-      "title": "Por que as ações da Shurgard Self Storage estão despencando hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-shurgard-self-storage-estao-despencando-hoje-93CH-2035927",
-      "time": "2026-08-12T07:42:45Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg"
-    },
-    {
-      "title": "Por que a ação da Ferronordic Machines está disparando hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-a-acao-da-ferronordic-machines-esta-disparando-hoje-93CH-2035926",
-      "time": "2026-08-12T07:41:26Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg"
-    },
-    {
-      "title": "IA previu alta de 38% em biofarmacêutica coreana antes do rali",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ia-previu-alta-de-38-em-biofarmaceutica-coreana-antes-do-rali-2035923",
-      "time": "2026-08-12T07:35:35Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXMPEB230DM_M.jpg"
-    },
-    {
-      "title": "Por que as ações da Balfour Beatty disparam hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-balfour-beatty-disparam-hoje-93CH-2035922",
-      "time": "2026-08-12T07:34:49Z",
+      "url": "https://br.investing.com/news/stock-market-news/armac-tem-lucro-liquido-ajustado-de-r101-mi-no-2o-tri-2036010",
+      "time": "2026-08-12T09:14:06Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg"
+    },
+    {
+      "title": "Ações da Ocado sobem após comentários positivos do JPMorgan",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-ocado-sobem-apos-comentarios-positivos-do-jpmorgan-93CH-2035992",
+      "time": "2026-08-12T09:08:32Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEHAM0MD_L.jpg"
     }
   ],
-  "atualizado_em": "12/08/2026 08:16"
+  "atualizado_em": "12/08/2026 10:03"
 }
