@@ -1,35 +1,19 @@
 {
   "headline": {
-    "title": "Banco do Brasil (BBAS3) pagará R$ 584,9 milhões em juros sobre o capital próprio; veja como aproveitar",
-    "source": "Money Times",
-    "url": "https://www.moneytimes.com.br/banco-do-brasil-bbas3-pagara-r-5849-milhoes-em-juros-sobre-o-capital-proprio-veja-como-aproveitar-rnda/",
-    "time": "2026-08-12T21:48:31Z",
-    "cat": "economia",
-    "tickers": [
-      "BBAS3"
-    ],
+    "title": "Ibovespa cai de novo e perde os 168 mil pontos; eleição afasta estrangeiros da Bolsa",
+    "source": "Suno",
+    "url": "https://www.suno.com.br/noticias/ibovespa-hoje-12-agosto-2026-queda-eleicoes-mt/",
+    "time": "2026-08-12T21:25:17Z",
+    "cat": "acoes",
+    "tickers": [],
     "editorial": {
-      "abertura": "Esta atualização trata de BBAS3 no contexto de economia. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-      "por_que_importa": "Dados de juros, inflação e atividade econômica afetam o custo do dinheiro e as expectativas para diferentes classes de ativos.",
-      "o_que_observar": "Observe dados oficiais, comunicados do Banco Central e revisões de expectativa antes de mudar sua estratégia.",
+      "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+      "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
+      "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
       "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
     }
   },
   "featured": [
-    {
-      "title": "Ibovespa cai de novo e perde os 168 mil pontos; eleição afasta estrangeiros da Bolsa",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-12-agosto-2026-queda-eleicoes-mt/",
-      "time": "2026-08-12T21:25:17Z",
-      "cat": "acoes",
-      "tickers": [],
-      "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
-        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
     {
       "title": "Banco Pine (PINE4) despenca mais de 7% após resultados do 2T26; entenda",
       "source": "Suno",
@@ -43,9 +27,71 @@
         "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
         "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
       }
+    },
+    {
+      "title": "Copasa (CSMG3) tem lucro líquido ajustado de R$ 275,5 mi no 2T, queda anual de 4,8%",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/copasa-csmg3-resultados-segundo-trimestre-2026/",
+      "time": "2026-08-12T23:35:00Z",
+      "cat": "acoes",
+      "tickers": [
+        "CSMG3"
+      ],
+      "editorial": {
+        "abertura": "Esta atualização trata de CSMG3 no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
+        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
+        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
+      }
     }
   ],
   "all": [
+    {
+      "title": "Copasa (CSMG3) tem lucro líquido ajustado de R$ 275,5 mi no 2T, queda anual de 4,8%",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/copasa-csmg3-resultados-segundo-trimestre-2026/",
+      "time": "2026-08-12T23:35:00Z",
+      "cat": "acoes",
+      "tickers": [
+        "CSMG3"
+      ],
+      "editorial": {
+        "abertura": "Esta atualização trata de CSMG3 no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
+        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
+        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
+      }
+    },
+    {
+      "title": "Americanas (AMER3) quase triplica prejuízo, que fica em R$ 274 mi no 2º tri",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/americanas-amer3-resultados-segundo-trimestre-2026/",
+      "time": "2026-08-12T23:28:40Z",
+      "cat": "acoes",
+      "tickers": [],
+      "editorial": {
+        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
+        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
+        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
+      }
+    },
+    {
+      "title": "Hapvida (HAPV3): lucro cai 96% no 2º tri, para R$ 12,5 mi; sinistralidade aumenta",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/hapvida-hapv3-resultados-segundo-trimestre-2026/",
+      "time": "2026-08-12T23:15:17Z",
+      "cat": "acoes",
+      "tickers": [
+        "HAPV3"
+      ],
+      "editorial": {
+        "abertura": "Esta atualização trata de HAPV3 no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
+        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
+        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
+      }
+    },
     {
       "title": "Positivo tem lucro líquido de R$ 2,6 milhões no 2T, alta anual de 14,5%",
       "source": "InfoMoney",
@@ -121,34 +167,32 @@
       }
     },
     {
-      "title": "Rede D’Or (RDOR3) tem alta de 8,5% no lucro líquido ajustado no 2T, para R$ 1,3 bi",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/rede-dor-rdor3-resultados-segundo-trimestre-2026/",
-      "time": "2026-08-12T22:28:13Z",
+      "title": "Braskem (BRKM5): Recuperação extrajudicial está a caminho e pode chegar em agosto, dizem fontes",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/braskem-brkm5-recuperacao-extrajudicial-esta-a-caminho-e-pode-chegar-em-agosto-dizem-fontes/",
+      "time": "2026-08-12T23:36:40Z",
       "cat": "acoes",
-      "tickers": [
-        "RDOR3"
-      ],
+      "tickers": [],
       "editorial": {
-        "abertura": "Esta atualização trata de RDOR3 no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
         "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
         "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
         "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
       }
     },
     {
-      "title": "Suzano (SUZB3) lucra R$ 1,8 bilhão no 2º trimestre, queda anual de 64%",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/suzano-suzb3-resultados-segundo-trimestre-2026/",
-      "time": "2026-08-12T22:15:22Z",
-      "cat": "fundos",
+      "title": "Banco do Brasil (BBSA3): O pior já passou? CFO vê mudança dando frutos",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/banco-do-brasil-bbsa3-o-pior-ja-passou-cfo-ve-mudanca-dando-frutos/",
+      "time": "2026-08-12T23:29:51Z",
+      "cat": "acoes",
       "tickers": [
-        "SUZB3"
+        "BBAS3"
       ],
       "editorial": {
-        "abertura": "Esta atualização trata de SUZB3 no contexto de fundos imobiliários. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "FIIs reagem a juros, crédito, aluguéis e decisões dos gestores. O contexto do fundo é tão importante quanto a manchete do dia.",
-        "o_que_observar": "Confira relatórios gerenciais, fatos relevantes, rendimentos e indicadores como vacância e P/VP.",
+        "abertura": "Esta atualização trata de BBAS3 no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
+        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
         "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
       }
     },
@@ -177,6 +221,22 @@
       ],
       "editorial": {
         "abertura": "Esta atualização trata de SEER3 no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
+        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
+        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
+      }
+    },
+    {
+      "title": "Rede D’Or (RDOR3) tem alta de 8,5% no lucro líquido ajustado no 2º trimestre, para R$ 1,3 bilhão",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/rede-dor-tem-alta-de-85-no-lucro-liquido-ajustado-no-2o-tri/",
+      "time": "2026-08-12T22:29:44Z",
+      "cat": "acoes",
+      "tickers": [
+        "RDOR3"
+      ],
+      "editorial": {
+        "abertura": "Esta atualização trata de RDOR3 no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
         "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
         "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
         "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
@@ -257,38 +317,6 @@
       ],
       "editorial": {
         "abertura": "Esta atualização trata de COGN3 no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
-        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "Banco do Brasil (BBAS3) pagará R$ 584,9 milhões em juros sobre o capital próprio; veja como aproveitar",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/banco-do-brasil-bbas3-pagara-r-5849-milhoes-em-juros-sobre-o-capital-proprio-veja-como-aproveitar-rnda/",
-      "time": "2026-08-12T21:48:31Z",
-      "cat": "economia",
-      "tickers": [
-        "BBAS3"
-      ],
-      "editorial": {
-        "abertura": "Esta atualização trata de BBAS3 no contexto de economia. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "Dados de juros, inflação e atividade econômica afetam o custo do dinheiro e as expectativas para diferentes classes de ativos.",
-        "o_que_observar": "Observe dados oficiais, comunicados do Banco Central e revisões de expectativa antes de mudar sua estratégia.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "Minerva (BEEF3) tem lucro de R$ 196,9 milhões no 2T26, queda de 57%",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/minerva-beef3-tem-lucro-de-r-1969-milhoes-no-2t26-queda-de-57-pads/",
-      "time": "2026-08-12T21:39:06Z",
-      "cat": "acoes",
-      "tickers": [
-        "BEEF3"
-      ],
-      "editorial": {
-        "abertura": "Esta atualização trata de BEEF3 no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
         "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
         "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
         "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
@@ -381,6 +409,20 @@
       }
     },
     {
+      "title": "Aluguel sobe dez vezes mais que a inflação em julho, segundo FipeZAP",
+      "source": "Exame",
+      "url": "https://exame.com/mercado-imobiliario/aluguel-sobe-dez-vezes-mais-que-a-inflacao-em-julho-segundo-fipezap/",
+      "time": "2026-08-12T20:30:18Z",
+      "cat": "economia",
+      "tickers": [],
+      "editorial": {
+        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de economia. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "Dados de juros, inflação e atividade econômica afetam o custo do dinheiro e as expectativas para diferentes classes de ativos.",
+        "o_que_observar": "Observe dados oficiais, comunicados do Banco Central e revisões de expectativa antes de mudar sua estratégia.",
+        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
+      }
+    },
+    {
       "title": "Banco do Brasil lucra R$ 3,9 bi no 2° trimestre e retoma alta, mas inadimplência sobe",
       "source": "Exame",
       "url": "https://exame.com/invest/mercados/banco-do-brasil-lucra-r-39-bi-no-2-trimestre-e-retoma-alta-mas-inadimplencia-sobe/",
@@ -451,16 +493,44 @@
       }
     },
     {
-      "title": "Cogna aumenta receita em 18% no 2° tri e mira dívida menor, dividendos e aquisições",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/cogna-aumenta-receita-em-18-no-2-tri-e-mira-divida-menor-dividendos-e-aquisicoes/",
-      "time": "2026-08-12T18:44:09Z",
-      "cat": "fundos",
+      "title": "IA previu alta de 38% em biofarmacêutica coreana antes do rali",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/ia-previu-alta-de-38-em-biofarmaceutica-coreana-antes-do-rali-2035923",
+      "time": "2026-08-12T23:19:07Z",
+      "cat": "internacional",
       "tickers": [],
       "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de fundos imobiliários. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "FIIs reagem a juros, crédito, aluguéis e decisões dos gestores. O contexto do fundo é tão importante quanto a manchete do dia.",
-        "o_que_observar": "Confira relatórios gerenciais, fatos relevantes, rendimentos e indicadores como vacância e P/VP.",
+        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de mercado internacional. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "O cenário externo pode influenciar câmbio, commodities, bolsas e a percepção de risco dos investidores brasileiros.",
+        "o_que_observar": "Acompanhe indicadores econômicos, decisões de bancos centrais e a reação dos principais mercados globais.",
+        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
+      }
+    },
+    {
+      "title": "Hapvida tem queda de 95,8% no lucro do 2º tri",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/hapvida-tem-queda-de-958-no-lucro-do-2o-tri-2037395",
+      "time": "2026-08-12T23:14:28Z",
+      "cat": "internacional",
+      "tickers": [],
+      "editorial": {
+        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de mercado internacional. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "O cenário externo pode influenciar câmbio, commodities, bolsas e a percepção de risco dos investidores brasileiros.",
+        "o_que_observar": "Acompanhe indicadores econômicos, decisões de bancos centrais e a reação dos principais mercados globais.",
+        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
+      }
+    },
+    {
+      "title": "Azzas 2154 tem queda de 62,5% no lucro do 2º tri",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/azzas-2154-tem-queda-de-625-no-lucro-do-2o-tri-2037390",
+      "time": "2026-08-12T23:07:07Z",
+      "cat": "internacional",
+      "tickers": [],
+      "editorial": {
+        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de mercado internacional. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "O cenário externo pode influenciar câmbio, commodities, bolsas e a percepção de risco dos investidores brasileiros.",
+        "o_que_observar": "Acompanhe indicadores econômicos, decisões de bancos centrais e a reação dos principais mercados globais.",
         "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
       }
     },
@@ -547,49 +617,7 @@
         "o_que_observar": "Acompanhe indicadores econômicos, decisões de bancos centrais e a reação dos principais mercados globais.",
         "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
       }
-    },
-    {
-      "title": "Sabesp tem recuo dentro do esperado no lucro líquido do 2º tri",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/sabesp-tem-recuo-dentro-do-esperado-no-lucro-liquido-do-2o-tri-2037338",
-      "time": "2026-08-12T21:56:08Z",
-      "cat": "internacional",
-      "tickers": [],
-      "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de mercado internacional. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "O cenário externo pode influenciar câmbio, commodities, bolsas e a percepção de risco dos investidores brasileiros.",
-        "o_que_observar": "Acompanhe indicadores econômicos, decisões de bancos centrais e a reação dos principais mercados globais.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "Minerva tem queda de 57% no lucro do 2º tri",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/minerva-tem-queda-de-57-no-lucro-do-2o-tri-2037339",
-      "time": "2026-08-12T21:56:08Z",
-      "cat": "internacional",
-      "tickers": [],
-      "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de mercado internacional. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "O cenário externo pode influenciar câmbio, commodities, bolsas e a percepção de risco dos investidores brasileiros.",
-        "o_que_observar": "Acompanhe indicadores econômicos, decisões de bancos centrais e a reação dos principais mercados globais.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "Ultrapar tem salto no lucro do 2º tri e anuncia dividendos e recompra",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ultrapar-tem-salto-no-lucro-do-2o-tri-e-anuncia-dividendos-e-recompra-2037336",
-      "time": "2026-08-12T21:56:07Z",
-      "cat": "fundos",
-      "tickers": [],
-      "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de fundos imobiliários. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "FIIs reagem a juros, crédito, aluguéis e decisões dos gestores. O contexto do fundo é tão importante quanto a manchete do dia.",
-        "o_que_observar": "Confira relatórios gerenciais, fatos relevantes, rendimentos e indicadores como vacância e P/VP.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
     }
   ],
-  "atualizado_em": "12/08/2026 23:10"
+  "atualizado_em": "12/08/2026 23:40"
 }
