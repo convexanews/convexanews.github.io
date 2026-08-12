@@ -45,6 +45,11 @@ jobs:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
 
+      - name: Gerar capas editoriais das matérias
+        run: python gerador_imagens_noticias.py
+        env:
+          GEMINI_IMAGE_API_KEY: ${{ secrets.GEMINI_IMAGE_API_KEY }}
+
       - name: Validar JSON gerado
         run: |
           python -m json.tool dados.json > /dev/null
@@ -56,6 +61,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add dados.json noticias.json materias.json
+          git add -A -- img/noticias 2>/dev/null || true
           git diff --staged --quiet || git commit -m "Atualização automática $(date +'%d/%m %H:%M UTC')"
           git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
           git push
