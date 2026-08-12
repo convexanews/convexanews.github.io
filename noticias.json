@@ -1,200 +1,184 @@
 {
   "headline": {
     "title": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta",
-    "summary": "Índices futuros dos EUA avançam antes de dados de inflação",
+    "summary": "Índices futuros dos EUA avançam após dados de inflação dentro do esperado",
     "source": "InfoMoney",
     "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-12082026/",
-    "time": "2026-08-12T11:22:35Z",
+    "time": "2026-08-12T12:33:42Z",
     "cat": "economia",
     "tickers": [],
     "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-9-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
   },
   "featured": [
     {
-      "title": "Ibovespa e dólar hoje aguardam CPI dos EUA após  sell-off com eleição",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-aguardam-cpi-dos-eua-apos--selloff-com-eleicao-2035416",
-      "time": "2026-08-12T11:32:02Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/moved_LYNXNPEI4B0P2_L.jpg"
+      "title": "Transpetro divulga edital de concurso público; inscrições para o processo seletivo da subsidiária da Petrobras (PETR4) abrem hoje (12)",
+      "summary": "A Transpetro, subsidiária de transporte e armazenamento da Petrobras (PETR4), divulgou nesta quarta-feira (12) os editais para seu concurso público de 2026. Além disso, as inscrições para o processo seletivo da Transpetr",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/transpetro-edital-concurso-publico-inscricoes-processo-seletivo-petrobras-petr4-mlem/",
+      "time": "2026-08-12T12:53:25Z",
+      "cat": "acoes",
+      "tickers": [
+        "PETR4"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/08/petrobras.jpg"
     },
     {
-      "title": "Bitcoin (BTC) aguarda dados de inflação dos Estados Unidos; veja preços das criptomoedas nesta quarta-feira (12)",
-      "summary": "O bitcoin (BTC) é negociado na casa dos US$ 64 mil na manhã desta quarta-feira (12), sem variações relevantes no preço nas últimas 24h. O mercado global de criptomoedas opera em alta, com os investidores de olho na publi",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bom-dia-bitcoin-btc-criptomoedas-preco-hoje-rens-120826/",
-      "time": "2026-08-12T10:49:57Z",
-      "cat": "cripto",
-      "tickers": [
-        "BTC"
-      ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/03/bitcoinbtc-perdido-no-deserto-imagem-copilot.png"
+      "title": "Dólar hoje recua após dados de inflação nos EUA e ganhos da véspera",
+      "summary": "Moeda norte-americana subiu mais de 1% na terça-feira",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-12082026/",
+      "time": "2026-08-12T12:39:19Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-23T223943Z_1_LYNXMPEM3M1IY_RTROPTP_4_IRAN-ECONOMY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     }
   ],
   "all": [
     {
-      "title": "Direcional aprova recompra de até 32 milhões de ações",
-      "summary": "A recompra tem por objetivo maximizar a geração de valor para o acionista por meio de uma administração eficiente da sua estrutura de capital",
+      "title": "Turbulência pré-eleições na Bolsa está só começando, alerta Dahlia",
+      "summary": "Gestora afirma que decisão do eleitorado pode estar longe de fechada para o pleito, e mantém alocação abaixo da média em ações brasileiras",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/direcional-aprova-recompra-de-ate-32-milhoes-de-acoes/",
-      "time": "2026-08-12T11:38:48Z",
+      "url": "https://www.infomoney.com.br/onde-investir/turbulencia-pre-eleicoes-na-bolsa-esta-so-comecando-alerta-dahlia/",
+      "time": "2026-08-12T13:00:00Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/dirr_1.webp?fit=300%2C159&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/Captura-de-tela-2024-08-15-092239.png?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "BBI aponta “outros motivos” para sell-off da Bolsa e vê oportunidade de compra",
+      "summary": "Correção recente foi provocada por ajuste técnico, alta dos juros futuros e migração de recursos para tecnologia global, e não por deterioração dos fundamentos",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/bbi-aponta-outros-motivos-para-sell-off-b3-bolsa-brasileira-e-ve-oportunidade-de-compra/",
+      "time": "2026-08-12T12:55:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/Captura-de-tela-2024-08-15-092426.png?fit=300%2C202&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Estoques baixos de gás na Europa são preocupação real para o inverno",
+      "summary": "Continuidade das interrupção do tráfego marítimo no Estreito de Ormuz e alto consumo de eletricidade por conta das ondas de calor em 2026 reduziram os estoques no ano",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/economia/estoques-baixos-de-gas-na-europa-sao-preocupacao-real-para-o-inverno/",
+      "time": "2026-08-12T12:44:11Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Gas-GNL-Europa.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Viral no TikTok, Anvisa proíbe 12 produtos de limpeza vendidos sem autorização",
+      "summary": "Medida atinge alvejantes, tira-manchas e produtos com percarbonato de sódio, substância que viralizou no TikTok em vídeos de limpeza doméstica",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/viral-no-tiktok-anvisa-proibe-12-produtos-de-limpeza-vendidos-sem-autorizacao/",
+      "time": "2026-08-12T12:42:36Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/178652759966648.jpg?fit=300%2C170&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Dólar hoje recua após dados de inflação nos EUA e ganhos da véspera",
+      "summary": "Moeda norte-americana subiu mais de 1% na terça-feira",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-12082026/",
+      "time": "2026-08-12T12:39:19Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-23T223943Z_1_LYNXMPEM3M1IY_RTROPTP_4_IRAN-ECONOMY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Banco do Brasil (BBAS3) antes do balanço: como chega o preço da ação?",
+      "summary": "Balanço previsto para 12/08 pode ampliar a volatilidade, enquanto BBAS3 tenta interromper a pressão vendedora",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/banco-do-brasil-bbas3-antes-do-balanco-como-chega-o-preco-da-acao/",
+      "time": "2026-08-12T12:33:58Z",
+      "cat": "acoes",
+      "tickers": [
+        "BBAS3"
+      ],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/BANCO-DO-BRASIL-BBAS3-DIARIO-12.08.2026.png?fit=300%2C137&amp;quality=70&amp;strip=all"
     },
     {
       "title": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta",
-      "summary": "Índices futuros dos EUA avançam antes de dados de inflação",
+      "summary": "Índices futuros dos EUA avançam após dados de inflação dentro do esperado",
       "source": "InfoMoney",
       "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-12082026/",
-      "time": "2026-08-12T11:22:35Z",
+      "time": "2026-08-12T12:33:42Z",
       "cat": "economia",
       "tickers": [],
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-9-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Nigéria oferece incentivos para desbloquear US$ 50 bi de investimentos em petróleo",
-      "summary": "O presidente do país, Bola Tinubu, informou que assinou uma ordem de incentivos a projetos de petróleo e gás em águas profundas",
+      "title": "CPI: Inflação ao consumidor dos EUA sobe 0,1% em julho, em linha com o esperado",
+      "summary": "Pesquisa da Reuters apontava expectativa de alta de 0,1% dos preços ao consumidor no mês passado",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mundo/nigeria-oferece-incentivos-para-desbloquear-us-50-bi-de-investimentos-em-petroleo/",
-      "time": "2026-08-12T11:21:39Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/brent.webp?fit=300%2C163&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "OMS reforça importância da vacinação infantil após Trump reduzir imunizantes",
-      "summary": "Porta-voz da OMS, Tarik Jašarevic, afirmou que há anos a organização e especialistas em saúde estudam a transmissão de doenças, a segurança das vacinas e a maneira como elas protegem pessoas em diferentes idades",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mundo/oms-reforca-importancia-da-vacinacao-infantil-apos-trump-reduzir-imunizantes/",
-      "time": "2026-08-12T11:19:32Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/460853080.jpg?fit=300%2C193&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Inflação volta à meta, mas cenário externo e El Niño preocupam economistas e BC",
-      "summary": "Impacto do fenômeno climático sobre preços de alimentos é um dos fatores que ampliam incerteza nas projeções",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/economia/inflacao-volta-a-meta-mas-cenario-externo-e-el-nino-preocupam-economistas-e-bc/",
-      "time": "2026-08-12T11:17:20Z",
+      "url": "https://www.infomoney.com.br/economia/inflacao-ao-consumidor-cpi-dos-eua-julho-2026/",
+      "time": "2026-08-12T12:31:32Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/2025-07-24T004821Z_1_LYNXMPEL6N00L_RTROPTP_4_BRAZIL-ECONOMY-SURVEY-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Captura-de-tela-2026-08-12-074918.png?fit=300%2C201&amp;quality=70&amp;strip=all"
     },
     {
-      "title": "Perda de vegetação nativa para a pecuária deixa o Brasil mais exposto ao El Niño",
-      "summary": "Dados revelam que país está mais vulnerável aos efeitos de secas e enchentes",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/economia/perda-de-vegetacao-nativa-para-a-pecuaria-deixa-o-brasil-mais-exposto-ao-el-nino/",
-      "time": "2026-08-12T11:14:18Z",
+      "title": "Transpetro divulga edital de concurso público; inscrições para o processo seletivo da subsidiária da Petrobras (PETR4) abrem hoje (12)",
+      "summary": "A Transpetro, subsidiária de transporte e armazenamento da Petrobras (PETR4), divulgou nesta quarta-feira (12) os editais para seu concurso público de 2026. Além disso, as inscrições para o processo seletivo da Transpetr",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/transpetro-edital-concurso-publico-inscricoes-processo-seletivo-petrobras-petr4-mlem/",
+      "time": "2026-08-12T12:53:25Z",
       "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/tufao-el-nino.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Brasil melhorou em 71% dos dados de desigualdade, mas concentração de renda subiu",
-      "summary": "Dados do Observatório Brasileiro das Desigualdades aponta avanços em áreas como desmatamento e insegurança alimentar, mas ganhos do 1% mais rico se ampliaram em 2025",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/economia/brasil-melhorou-em-71-dos-dados-de-desigualdade-mas-concentracao-de-renda-subiu/",
-      "time": "2026-08-12T11:12:01Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/desigualdade.jpg?fit=300%2C199&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Helbor (HBOR3) tem lucro líquido de R$ 5,3 milhões no 2T26, queda de 74%",
-      "summary": "A Helbor (HBOR3), incorporadora focada no segmento de médio e alto padrão, registrou lucro líquido consolidado de R$ 5,3 milhões no segundo trimestre de 2026 (2T26), queda de 74% em relação aos R$ 20,3 milhões apurados n",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/helbor-hbor3-tem-lucro-liquido-de-r-53-milhoes-no-2t26-queda-de-74-igdl/",
-      "time": "2026-08-12T11:40:11Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2023/04/helbor-reserva-caminhos-da-lapa.jpg"
-    },
-    {
-      "title": "Assaí (ASAI3) nega potencial combinação de negócios com o Grupo Muffato; entenda",
-      "summary": "O Assaí (ASAI3) prestou esclarecimentos ao mercado após circular na mídia uma potencial combinação de negócios entre a companhia e o Grupo Muffato. À Comissão de Valores Mobiliários (CVM), a varejista negou o andamento d",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/assai-asai3-nega-que-potencial-combinacao-de-negocios-com-o-grupo-muffato-esteja-no-radar-entenda-lmrs/",
-      "time": "2026-08-12T11:40:03Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2024/10/assai-1.jpg"
-    },
-    {
-      "title": "Bitwise corta 14% da equipe em meio a pausa do mercado de criptomoedas e aceleração da inteligência artificial nos negócios",
-      "summary": "A Bitwise Asset Management cortou 14% de sua equipe em meio à desaceleração do mercado de criptomoedas, enquanto o CEO da empresa afirmou que as demissões ainda deixam a companhia bem posicionada para crescer. O CEO da B",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bitwise-corta-14-da-equipe-em-meio-a-pausa-do-mercado-de-criptomoedas-e-aceleracao-da-inteligencia-artificial-nos-negocios-rens/",
-      "time": "2026-08-12T11:30:05Z",
-      "cat": "cripto",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/08/bitwise-gestora-de-de-produtos-relacionados-a-criptomoedas-imagem-divulgacao.png"
-    },
-    {
-      "title": "Por que os preços das commodities agrícolas acompanham cada vez mais os combustíveis?",
-      "summary": "A relação entre o mercado de energia e o agronegócio está ficando cada vez mais estreita. À medida que petróleo e biocombustíveis ganham importância na matriz energética, os preços das commodities agrícolas passam a resp",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/por-que-os-precos-das-commodities-agricolas-acompanham-cada-vez-mais-os-combustiveis-pads/",
-      "time": "2026-08-12T11:30:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/08/combustiveis-commodities-biocombustivel.jpg"
-    },
-    {
-      "title": "Mini índice entra em zona crítica após forte queda; BTG aponta próximos níveis de atenção",
-      "summary": "O mini índice (WINQ26) aprofundou o movimento de baixa e pode estender as perdas caso não consiga sustentar a região dos 168.000 pontos, segundo relatório de análise técnica do BTG Pactual divulgado nesta quarta-feira (1",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/mini-indice-entra-em-zona-critica-apos-forte-queda-btg-aponta-proximos-niveis-de-atencao/",
-      "time": "2026-08-12T11:23:43Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/mini-indice.jpg"
-    },
-    {
-      "title": "Minério de ferro fecha com leve alta na China",
-      "summary": "Os contratos futuros de minério de ferro permaneceram em uma faixa estreita nesta quarta-feira (12), já que o tufão Dolphin interrompeu dezenas de projetos de construção na região central da China, embora o aumento previ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/minerio-de-ferro-fecha-com-leve-alta-na-china/",
-      "time": "2026-08-12T11:12:11Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/07/minerio-de-ferro-commodity-commodities-mineracao.jpg"
-    },
-    {
-      "title": "Empréstimo não precisa ser sinônimo de juros altos: Conheça uma modalidade de crédito mais ‘em conta’",
-      "summary": "Uma categoria de crédito com garantia pode oferecer oportunidades melhores de juros mais baixos",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/emprestimo-nao-precisa-ser-sinonimo-de-juros-altos-conheca-uma-modalidade-de-credito-mais-em-conta-lbrdcp166/",
-      "time": "2026-08-12T11:00:00Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/08/image-27.png"
-    },
-    {
-      "title": "Bitcoin (BTC) aguarda dados de inflação dos Estados Unidos; veja preços das criptomoedas nesta quarta-feira (12)",
-      "summary": "O bitcoin (BTC) é negociado na casa dos US$ 64 mil na manhã desta quarta-feira (12), sem variações relevantes no preço nas últimas 24h. O mercado global de criptomoedas opera em alta, com os investidores de olho na publi",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bom-dia-bitcoin-btc-criptomoedas-preco-hoje-rens-120826/",
-      "time": "2026-08-12T10:49:57Z",
-      "cat": "cripto",
       "tickers": [
-        "BTC"
+        "PETR4"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/03/bitcoinbtc-perdido-no-deserto-imagem-copilot.png"
+      "image": "https://www.moneytimes.com.br/uploads/2026/08/petrobras.jpg"
     },
     {
-      "title": "Fundo imobiliário conclui venda de imóvel por R$ 1,16 milhão; IFIX aprofunda perdas",
-      "summary": "O fundo imobiliário Banrisul Novas Fronteiras (BNFS11) anunciou, por meio de fato relevante, que concluiu a venda de um imóvel comercial localizado em Sapucaia do Sul (RS), por R$ 1,166 milhão. Segundo o comunicado divul",
+      "title": "Day trade: Compre B3 (B3SA3) e venda Auren (AURE3) para ganhar até 1,47% hoje (12), segundo a Ágora",
+      "summary": "A B3 (B3SA3) é uma das recomendações de compra em day trade da Ágora Investimentos para esta quarta-feira (12). As ações da empresa fecharam a sessão da última terça-feira (11) cotadas a R$ 14,29. O potencial de ganho é ",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/fundo-imobiliario-vende-imovel-por-r-116-milhao-e-recebera-saldo-em-11-parcelas-veja-detalhes-igdl/",
-      "time": "2026-08-12T10:44:38Z",
+      "url": "https://www.moneytimes.com.br/day-trade-compre-b3-b3sa3-e-venda-auren-aure3-para-ganhar-ate-147-hoje-12-segundo-a-agora/",
+      "time": "2026-08-12T12:45:24Z",
+      "cat": "acoes",
+      "tickers": [
+        "AURE3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/06/day-trade.jpg"
+    },
+    {
+      "title": "CPI: Inflação dos EUA sobe 0,1% em julho e acumula alta anual de 3,4%",
+      "summary": "O índice de preços ao consumidor (CPI, na sigla em inglês) dos Estados Unidos (EUA) avançou 0,1% no mês de julho, informou o Departamento do Trabalho nesta quarta-feira (12). Para comparação, em maio, o índice recuou 0,4",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/cpi-inflacao-dos-eua-sobe-01-em-julho-e-acumula-alta-anual-de-34-jcav/",
+      "time": "2026-08-12T12:41:13Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/03/estados-unidos-eua-cpi-inflacao.jpg"
+    },
+    {
+      "title": "Ibovespa futuro sobe aos 168 mil pontos após dado de serviços e espera pelo CPI dos EUA",
+      "summary": "O Ibovespa futuro (INDFUT) subiu 0,16%, aos 168.610 pontos, após a abertura, às 9h (horário de Brasília), com os dados do volume de serviços domésticos e o índice de preços ao consumidor (CPI, em inglês) dos Estados Unid",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/ibovespa-futuro-12-8-26-apsa/",
+      "time": "2026-08-12T12:29:00Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/mercado-mercados-wall-street-ibovespa-ibov-bolsas-morning-1.png"
+    },
+    {
+      "title": "Fundo imobiliário do agronegócio recebe R$ 48,8 milhões por recompra de imóveis; veja os detalhes",
+      "summary": "O fundo imobiliário Riza Terrax (RZTR11) anunciou, por meio de fato relevante, que recebeu quase R$ 49 milhões após o Grupo Cereal Ouro exercer antecipadamente opções de compra de imóveis rurais que estavam previstas par",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/fundo-imobiliario-do-agronegocio-recebe-r-488-milhoes-por-recompra-de-imoveis-veja-os-detalhes-igdl/",
+      "time": "2026-08-12T12:26:13Z",
       "cat": "fundos",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/01/fiis-fundos-imobiliarios-imagem-lemon-tm-istockphoto.png"
+      "image": "https://www.moneytimes.com.br/uploads/2025/07/fiagros-dividendos-3.jpg"
+    },
+    {
+      "title": "Lucro do Banco Pine (PINE4) quase dobra no 2º trimestre, para R$ 165,7 milhões",
+      "summary": "O Banco Pine (PINE4) teve lucro líquido de R$ 165,7 milhões no segundo trimestre de 2026 (2T26), quase o dobro dos R$ 83,0 milhões de um ano antes, mostra balanço divulgado nesta quarta-feira (12). O crescimento foi de 9",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/lucro-do-banco-pine-pine4-quase-dobra-no-2o-trimestre-para-r-1657-milhoes-lmrs/",
+      "time": "2026-08-12T12:11:02Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/11/banco-pine.jpg"
     },
     {
       "title": "IFIX acompanha queda do Ibovespa e fecha terça-feira em baixa de 0,55%",
@@ -269,135 +253,75 @@
       "image": "https://files.sunoresearch.com.br/n/uploads/2026/07/thedigitalartist-ai-generated-8113893-scaled.webp"
     },
     {
-      "title": "Dona da Hello Kitty aumenta lucro em 11% no trimestre, mas ação despenca 20%",
-      "summary": "Resultado mostrou crescimento forte, mas ficou abaixo do que investidores esperavam após rali da ação",
+      "title": "Melhores cadeiras de escritório em 2026: do custo-benefício ao topo de linha",
+      "summary": "Seleção reúne oito modelos de cadeira de escritório com encosto em tela mesh, ajustes ergonômicos e preços de R$ 520 a R$ 13.600 para diferentes rotinas e orçamentos",
       "source": "Exame",
-      "url": "https://exame.com/invest/mercados/dona-da-hello-kitty-aumenta-lucro-em-11-no-trimestre-mas-acao-despenca-20/",
-      "time": "2026-08-12T07:57:33Z",
+      "url": "https://exame.com/tecnologia/examelab/melhores-cadeiras-de-escritorio-em-2026-do-custo-beneficio-ao-topo-de-linha/",
+      "time": "2026-08-12T09:55:38Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/08/108348227-1786515702994-gettyimages-2267770700-porzycki-osakadai260325_npQtq.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/08/Melhores-cadeiras-de-escritorio-em-2026_-do-custo-beneficio-ao-topo-de-linha.jpg"
     },
     {
-      "title": "Netflix mergulha na mente de Charles Mason, responsável pela morte de uma 'diva' de Hollywood",
-      "summary": "Produção em três episódios revisita a formação da Família Manson, os assassinatos de 1969 e o julgamento do líder do grupo",
+      "title": "CPI: inflação dos EUA sobe 0,1% em julho e dá novo sinal sobre juros",
+      "summary": "Índice de preços ao consumidor sobe 0,1% no mês após queda de 0,4% em junho; núcleo avança 0,2%",
       "source": "Exame",
-      "url": "https://exame.com/pop/netflix-mergulha-na-mente-de-charles-mason-responsavel-pela-morte-de-uma-diva-de-hollywood/",
-      "time": "2026-08-12T07:12:34Z",
+      "url": "https://exame.com/economia/cpi-inflacao-dos-eua-sobe-01-em-julho-e-da-novo-sinal-sobre-juros/",
+      "time": "2026-08-12T09:53:14Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/08/CharlesManson-ConversationsWithAKiller-1280x720.jpg-1.webp"
+      "image": "https://classic.exame.com/wp-content/uploads/2022/07/o-que-e-inflacao.jpg"
     },
     {
-      "title": "BofA aposta nas 'Sete Inesquecíveis' para navegar juros altos na bolsa brasileira",
-      "summary": "Segundo o Bank pf America, o grupo reúne companhias maduras, com forte geração de caixa e preços atrativos, que podem se beneficiar de um cenário de juros elevados",
+      "title": "60% do mercado considera que regulação do BC foi boa para stablecoins, diz pesquisa",
+      "summary": "Empresas que atuam com criptoativos também defenderam a necessidade de auditorias independentes",
       "source": "Exame",
-      "url": "https://exame.com/invest/mercados/bofa-aposta-nas-sete-inesqueciveis-para-navegar-juros-altos-na-bolsa-brasileira/",
-      "time": "2026-08-12T07:04:02Z",
+      "url": "https://exame.com/future-of-money/60-do-mercado-considera-que-regulacao-do-bc-foi-boa-para-stablecoins-diz-pesquisa/",
+      "time": "2026-08-12T09:34:19Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2020/11/DSC2670bx.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-14-at-10.11.16.jpeg"
     },
     {
-      "title": "Bússola & Cia: querosene sobe quase 50% e desafia mercado B2B",
-      "summary": "Alta do QAV pressiona custos, enquanto Reforma Tributária, IA, PMEs e liderança movimentam o ambiente de negócios",
-      "source": "Exame",
-      "url": "https://exame.com/bussola/bussola-cia-querosene-sobe-quase-50-e-desafia-mercado-b2b/",
-      "time": "2026-08-12T07:00:45Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/08/Querosene-subiu-Rangsarit-Chaiyakun.jpg"
-    },
-    {
-      "title": "Ibovespa e dólar hoje aguardam CPI dos EUA após  sell-off com eleição",
+      "title": "Ações da Neurocrine Biosciences caem por preocupações com segurança do Vykat",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-aguardam-cpi-dos-eua-apos--selloff-com-eleicao-2035416",
-      "time": "2026-08-12T11:32:02Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/moved_LYNXNPEI4B0P2_L.jpg"
-    },
-    {
-      "title": "Por que as ações da Global-E Online estão disparando hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-globale-online-estao-disparando-hoje-93CH-2036276",
-      "time": "2026-08-12T11:27:45Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-neurocrine-biosciences-caem-por-preocupacoes-com-seguranca-do-vykat-93CH-2036524",
+      "time": "2026-08-12T13:00:52Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/Global-eCo-foundersAmirSchlachetShaharTamariandNirDebbi_800x533_L_1621334935.jpg"
+      "image": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg"
     },
     {
-      "title": "Por que as ações da Hyliion estão disparando hoje?",
+      "title": "Melhores FIIs dos EUA: Mizuho revela novas escolhas após atualização de agosto",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-hyliion-estao-disparando-hoje-93CH-2036268",
-      "time": "2026-08-12T11:23:30Z",
+      "url": "https://br.investing.com/news/stock-market-news/melhores-fiis-dos-eua-mizuho-revela-novas-escolhas-apos-atualizacao-de-agosto-93CH-2036508",
+      "time": "2026-08-12T12:49:45Z",
+      "cat": "fundos",
+      "tickers": [],
+      "image": "https://content-media.investing.com/news/LYNXMPEB2N09U_M.jpg"
+    },
+    {
+      "title": "Por que as ações da SimilarWeb estão disparando hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-similarweb-estao-disparando-hoje-93CH-2036506",
+      "time": "2026-08-12T12:48:28Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_L.jpg"
+      "image": "https://content-media.investing.com/news/OrOfferCEOFounderatSimilarWeb_800x533_L_1620827661.jpg"
     },
     {
-      "title": "Por que as ações da United States Antimony estão caindo hoje?",
+      "title": "Arábia Saudita - Ações fecharam o pregão em alta e o Índice Tadawul All Share avançou 0,10%",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-united-states-antimony-estao-caindo-hoje-93CH-2036261",
-      "time": "2026-08-12T11:19:04Z",
+      "url": "https://br.investing.com/news/stock-market-news/arabia-saudita--acoes-fecharam-o-pregao-em-alta-e-o-indice-tadawul-all-share-avancou-010-2036494",
+      "time": "2026-08-12T12:45:20Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_L.jpg"
-    },
-    {
-      "title": "Por que as ações da Neurocrine Biosciences caem hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-neurocrine-biosciences-caem-hoje-93CH-2036247",
-      "time": "2026-08-12T11:14:16Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg"
-    },
-    {
-      "title": "Por que as ações da Riskified estão disparando hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-riskified-estao-disparando-hoje-93CH-2036245",
-      "time": "2026-08-12T11:13:20Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/EidoGalco-FounderCEOofRiskified_800x533_L_1625476794.jpg"
-    },
-    {
-      "title": "Por que a ação da T1 Energy está subindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-a-acao-da-t1-energy-esta-subindo-hoje-93CH-2036242",
-      "time": "2026-08-12T11:11:21Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEC0L0I7_M.jpg"
-    },
-    {
-      "title": "Por que as ações da Brinker International estão subindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-brinker-international-estao-subindo-hoje-93CH-2036221",
-      "time": "2026-08-12T11:09:00Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg"
-    },
-    {
-      "title": "Kepler eleva recomendação da Zehnder com demanda resiliente em ventilação",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/kepler-eleva-recomendacao-da-zehnder-com-expansao-de-margens-na-ventilacao-2036223",
-      "time": "2026-08-12T11:08:11Z",
-      "cat": "analise",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg"
+      "image": "https://content-media.investing.com/news/LYNXNPED9015J_M.jpg"
     }
   ],
-  "atualizado_em": "12/08/2026 11:44"
+  "atualizado_em": "12/08/2026 13:07"
 }
