@@ -23,14 +23,74 @@ function safeUrl(u) {
   return /^https?:\/\//i.test(u || '') ? esc(u) : '';
 }
 function newsImg(n) {
-  const url = safeUrl(n.image);
-  return url || `./img/cat-${esc(n.cat || 'geral')}.jpg`;
+  // Artes próprias por categoria: não carregamos imagens de matérias de terceiros.
+  if (n.cat === 'economia') return './img/cat-economia-editorial.png';
+  return `./img/cat-${esc(n.cat || 'geral')}.jpg`;
 }
-// Se a imagem externa falhar (hotlink bloqueado, link morto), troca pela
-// imagem da categoria em vez de mostrar o ícone de imagem quebrada.
+// Fallback para uma arte local se algum arquivo de categoria estiver ausente.
 function newsImgErr(img, cat) {
   img.onerror = null;
   img.src = `./img/cat-${esc(cat || 'geral')}.jpg`;
+}
+
+function leituraEditorial(n) {
+  if (n?.editorial) return n.editorial;
+  const base = {
+    acoes: ['O mercado acompanha empresas, resultados e expectativas para os próximos pregões.', 'Comunicados oficiais, resultados e projeções ajudam a colocar a notícia em contexto.'],
+    fundos: ['FIIs podem reagir a juros, crédito, rendimentos e decisões dos gestores.', 'Relatórios gerenciais, fatos relevantes e indicadores do fundo são pontos úteis de acompanhamento.'],
+    economia: ['Dados econômicos influenciam juros, inflação e as expectativas para os ativos.', 'Acompanhe os dados oficiais e os comunicados das autoridades antes de mudar sua estratégia.'],
+    internacional: ['O cenário externo pode influenciar câmbio, commodities e a percepção de risco.', 'Decisões de bancos centrais e dados econômicos globais ajudam a interpretar o movimento.'],
+    cripto: ['Criptoativos têm volatilidade elevada e podem reagir rapidamente a fluxos e notícias.', 'Considere liquidez, volatilidade e perfil de risco; uma notícia isolada não é recomendação.'],
+  }[n?.cat] || ['Esta atualização traz um tema acompanhado pelo mercado.', 'Consulte a fonte e os próximos dados antes de tirar conclusões.'];
+  return {
+    abertura: base[0],
+    por_que_importa: base[0],
+    o_que_observar: base[1],
+    metodologia: 'Leitura editorial informativa do Bom Dia Investidor; a fonte original permanece disponível para consulta.',
+  };
+}
+
+function ativosRelacionadosHtml(tickers) {
+  const ativos = (tickers || []).map(ticker => state.stockData[ticker]).filter(Boolean).slice(0, 4);
+  if (!ativos.length) return '';
+  return `<section class="noticia-ativos" aria-label="Ativos citados na notícia">
+    <h2>Ativos citados</h2>
+    <div class="noticia-ativos-grid">${ativos.map(s => {
+      const alta = Number(s.change || 0) >= 0;
+      const moeda = (s.type === 'us' || s.type === 'crypto') ? 'US$' : 'R$';
+      return `<a href="#" onclick="openBrapiDetail('${esc(s.stock)}');return false;">
+        <strong>${esc(s.stock)}</strong><span>${moeda} ${esc(fmtPreco(s.close))}</span>
+        <em class="${alta ? 'up' : 'down'}">${alta ? '+' : ''}${Number(s.change || 0).toFixed(2)}%</em>
+      </a>`;
+    }).join('')}</div>
+    <p>Dados de mercado têm atraso e servem apenas para informação.</p>
+  </section>`;
+}
+
+let materiasNoticiasCache = null;
+async function loadMateriasNoticias() {
+  try {
+    const resp = await fetch('./materias.json', { cache: 'no-cache' });
+    if (!resp.ok) throw new Error('materias.json indisponível');
+    materiasNoticiasCache = await resp.json();
+    if (state.currentPage === 'noticia-detalhe') {
+      const url = decodeURIComponent(location.hash.replace(/^#\/?noticia\//, ''));
+      if (url) renderNoticiaDetalhe(url);
+    }
+  } catch (_) { materiasNoticiasCache = []; }
+}
+function materiaDaNoticia(url) { return (materiasNoticiasCache || []).find(m => m.pauta_url === url); }
+function materiaCompletaHtml(materia) {
+  if (!materia) return '';
+  const corpo = String(materia.corpo || '').split(/\n\s*\n/).filter(Boolean).map(p => `<p>${esc(p)}</p>`).join('');
+  const fontes = (materia.fontes || []).map(f => {
+    const url = safeUrl(f.url);
+    return url ? `<a href="${url}" target="_blank" rel="noopener">${esc(f.nome)} ↗</a>` : esc(f.nome);
+  }).join(' · ');
+  return `<section class="materia-completa" aria-label="Matéria completa do Bom Dia Investidor">
+    <div class="noticia-leitura-kicker">Matéria completa</div><h2>${esc(materia.titulo)}</h2>
+    <div class="materia-completa-corpo">${corpo}</div>
+    <p class="materia-fontes"><strong>Fontes consultadas:</strong> ${fontes}</p></section>`;
 }
 
 // ===== FAVORITOS =====
@@ -86,6 +146,11 @@ async function loadDadosJson() {
       state.fiiData[s.stock] = s;
     });
     updateFreshness();
+    // Atualiza a leitura da notícia caso os ativos relacionados tenham carregado depois da página.
+    if (state.currentPage === 'noticia-detalhe') {
+      const url = decodeURIComponent(location.hash.replace(/^#\/?noticia\//, ''));
+      if (url) renderNoticiaDetalhe(url);
+    }
     return true;
   } catch (e) {
     console.warn('dados.json não encontrado, usando BrAPI como fallback.');
@@ -375,6 +440,7 @@ function renderNoticiaDetalhe(url) {
 
   const catLabel = (NEWS_DATA.categories.find(c => c.id === n.cat) || {}).label || 'Mercado';
   const nUrl = safeUrl(n.url);
+  const materia = materiaDaNoticia(n.url);
   const relacionadas = (NEWS_DATA.all || [])
     .filter(x => x.url && x.url !== n.url && x.cat === n.cat)
     .slice(0, 4);
@@ -386,9 +452,19 @@ function renderNoticiaDetalhe(url) {
       <span class="hero-source">${esc(n.source)}</span><span>·</span><span>${esc(tempoRelativo(n.time))}</span>
       ${(n.tickers || []).length ? `<span>·</span>${tickerTagsHtml(n.tickers)}` : ''}
     </div>
-    <img class="noticia-det-img" src="${newsImg(n)}" alt="" onerror="newsImgErr(this,'${esc(n.cat || 'geral')}')">
-    <p class="noticia-det-resumo">${esc(n.summary || '')}</p>
-    ${nUrl ? `<a class="noticia-det-fonte-btn" href="${nUrl}" target="_blank" rel="noopener">Ler matéria completa no ${esc(n.source)} ↗</a>` : ''}
+    <img class="noticia-det-img" src="${newsImg(n)}" alt="Arte editorial de ${esc(catLabel)}" onerror="newsImgErr(this,'${esc(n.cat || 'geral')}')">
+    <section class="noticia-leitura" aria-label="Leitura editorial">
+      <div class="noticia-leitura-kicker">Leitura do Bom Dia Investidor</div>
+      <p class="noticia-det-resumo">${esc(leituraEditorial(n).abertura)}</p>
+      <div class="noticia-insights">
+        <div><h2>Por que importa</h2><p>${esc(leituraEditorial(n).por_que_importa)}</p></div>
+        <div><h2>O que observar</h2><p>${esc(leituraEditorial(n).o_que_observar)}</p></div>
+      </div>
+      <p class="noticia-metodologia">${esc(leituraEditorial(n).metodologia)}</p>
+    </section>
+    ${materiaCompletaHtml(materia)}
+    ${ativosRelacionadosHtml(n.tickers)}
+    ${nUrl ? `<a class="noticia-det-fonte-btn" href="${nUrl}" target="_blank" rel="noopener">Consultar fonte original: ${esc(n.source)} ↗</a>` : ''}
     ${igCtaHtml()}
     ${relacionadas.length ? `
       <h2 class="noticia-det-rel-titulo">Notícias relacionadas</h2>
@@ -416,7 +492,7 @@ function renderNews() {
   heroTitle.innerHTML = h.url
     ? `<a class="hero-link" href="${noticiaHash(h)}">${esc(h.title)}</a>`
     : esc(h.title);
-  document.getElementById('heroSummary').textContent = h.summary || '';
+  document.getElementById('heroSummary').textContent = leituraEditorial(h).abertura;
 
   // SEO: dados estruturados da manchete (Google Notícias / rich results)
   let ld = document.getElementById('ldNews');
@@ -430,8 +506,8 @@ function renderNews() {
     '@context': 'https://schema.org',
     '@type': 'NewsArticle',
     headline: h.title,
-    description: h.summary || '',
-    image: h.image ? [h.image] : undefined,
+    description: leituraEditorial(h).abertura,
+    image: [`https://bomdiainvestidor.com.br/img/cat-${h.cat || 'geral'}.jpg`],
     datePublished: h.time,
     publisher: { '@type': 'Organization', name: 'Bom Dia Investidor', url: 'https://bomdiainvestidor.com.br/' },
   });
@@ -449,7 +525,7 @@ function renderNews() {
         ${f.exclusive ? '<span class="exclusive-badge">EXCLUSIVO</span>' : ''}
       </div>
       <div class="featured-title">${esc(f.title)}</div>
-      <div class="featured-summary">${esc(f.summary || '')}</div>
+      <div class="featured-summary">${esc(leituraEditorial(f).abertura)}</div>
       ${(f.tickers || []).length ? `<div class="featured-tickers">${tickerTagsHtml(f.tickers)}</div>` : ''}`;
     return `<div class="featured-card">${fUrl ? `<a href="${noticiaHash(f)}">${inner}</a>` : inner}</div>`;
   }).join('');
@@ -1633,6 +1709,7 @@ async function loadArtigoDetalhe(slug) {
 async function init() {
   // 1. Notícias e análises dinâmicas (JSONs gerados pelo coletor)
   loadNoticias();
+  loadMateriasNoticias();
   loadAnalises();
 
   // 2. Interações
