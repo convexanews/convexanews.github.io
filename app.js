@@ -472,7 +472,7 @@ function renderNoticiaDetalhe(url) {
       <img class="noticia-det-img" src="${newsImg(n)}" alt="Imagem da notícia sobre ${esc(catLabel)}" onerror="newsImgErr(this,'${esc(n.cat || 'geral')}')">
       <figcaption>${esc(newsImgCredit(n))}</figcaption>
     </figure>
-    <section class="noticia-leitura" aria-label="Leitura editorial">
+    ${materia ? '' : `<section class="noticia-leitura" aria-label="Leitura editorial">
       <div class="noticia-leitura-kicker">Leitura do Bom Dia Investidor</div>
       <p class="noticia-det-resumo">${esc(leituraEditorial(n).abertura)}</p>
       <div class="noticia-insights">
@@ -480,7 +480,7 @@ function renderNoticiaDetalhe(url) {
         <div><h2>O que observar</h2><p>${esc(leituraEditorial(n).o_que_observar)}</p></div>
       </div>
       <p class="noticia-metodologia">${esc(leituraEditorial(n).metodologia)}</p>
-    </section>
+    </section>`}
     ${materiaCompletaHtml(materia)}
     ${ativosRelacionadosHtml(n.tickers)}
     ${nUrl ? `<a class="noticia-det-fonte-btn" href="${nUrl}" target="_blank" rel="noopener">Consultar fonte original: ${esc(n.source)} ↗</a>` : ''}
