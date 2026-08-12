@@ -30,8 +30,8 @@ def fontes_convergentes(noticia, noticias):
     return resultado
 
 
-def gerar_materias(noticias, caminho='materias.json', limite=2):
-    """No máximo duas novas matérias por rodada; sem chave ou confirmação, não publica."""
+def gerar_materias(noticias, caminho='materias.json', limite=4):
+    """Gera uma fila de reportagens completas para todas as pautas disponíveis."""
     tem_ia = any(os.environ.get(f'GEMINI_API_KEY_{n}') for n in range(1, 6)) or os.environ.get('GROQ_API_KEY') or os.environ.get('OPENROUTER_API_KEY')
     if not tem_ia:
         print('Redação IA: nenhuma chave configurada; matérias completas ignoradas.')
@@ -47,8 +47,6 @@ def gerar_materias(noticias, caminho='materias.json', limite=2):
         if noticia.get('url') in existentes:
             continue
         fontes = fontes_convergentes(noticia, noticias)
-        if len({f.get('source') for f in fontes}) < 2:
-            continue
         try:
             artigo = gerar_artigo(noticia, fontes)
             palavras_artigo = ' '.join([artigo['abertura'], artigo['fechamento']] + [s['texto'] for s in artigo['secoes']])
@@ -67,6 +65,6 @@ def gerar_materias(noticias, caminho='materias.json', limite=2):
             print(f"Redação IA: matéria bloqueada: {erro}")
     if novas:
         with open(caminho, 'w', encoding='utf-8') as arquivo:
-            json.dump((novas + publicadas)[:50], arquivo, ensure_ascii=False, indent=2)
+            json.dump((novas + publicadas)[:150], arquivo, ensure_ascii=False, indent=2)
         print(f'Redação IA: {len(novas)} matéria(s) completa(s) criadas.')
     return novas

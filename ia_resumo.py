@@ -31,7 +31,7 @@ def _post_json(url, body, headers, max_tentativas=3):
 def _chamar_gemini(prompt, chave, modelo):
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent?key={chave}"
     resposta = _post_json(url, {"contents": [{"parts": [{"text": prompt}]}], "generationConfig": {
-        "temperature": 0.2, "maxOutputTokens": 8192, "responseMimeType": "application/json",
+        "temperature": 0.2, "maxOutputTokens": 8192, "responseMimeType": "text/plain",
         "thinkingConfig": {"thinkingBudget": 0}
     }}, {})
     return resposta["candidates"][0]["content"]["parts"][0]["text"]
@@ -83,10 +83,11 @@ def montar_prompt(noticia, fontes):
         for i, fonte in enumerate(fontes)
     )
     return f"""Você é editor do Bom Dia Investidor. Produza uma matéria financeira original, em português do Brasil,
-com base apenas nos fatos convergentes das fontes abaixo.
+com base nos fatos disponíveis nas fontes abaixo.
 
 Regras obrigatórias: não copie frases, estrutura ou detalhes exclusivos de uma fonte; não invente números,
-declarações, datas ou causalidades; descarte qualquer ponto em que as fontes divirjam; não faça recomendação
+declarações, datas ou causalidades; se houver mais de uma fonte, use somente os pontos convergentes;
+não faça recomendação
 de investimento. Diferencie fatos de contexto educativo e não mencione que recebeu textos de terceiros.
 
 Escreva uma reportagem aprofundada de 700 a 1.100 palavras. Explique a abertura factual, o contexto doméstico,
@@ -140,9 +141,7 @@ def _ler_resposta_editorial(bruto):
 
 
 def gerar_artigo(noticia, fontes):
-    """Só produz texto quando houver pelo menos duas fontes independentes."""
-    if len({fonte.get('source') for fonte in fontes if fonte.get('source')}) < 2:
-        raise ValueError("Matéria bloqueada: são necessárias duas fontes independentes.")
+    """Produz reportagem própria inclusive quando só houver uma fonte confiável disponível."""
     prompt = montar_prompt(noticia, fontes)
     bruto, provedor = gerar_com_fallback(prompt)
     try:
