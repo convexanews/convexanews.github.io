@@ -51,10 +51,12 @@ def gerar_materias(noticias, caminho='materias.json', limite=2):
             continue
         try:
             artigo = gerar_artigo(noticia, fontes)
-            if not 230 <= len(artigo['corpo'].split()) <= 750:
+            palavras_artigo = ' '.join([artigo['abertura'], artigo['fechamento']] + [s['texto'] for s in artigo['secoes']])
+            if not 650 <= len(palavras_artigo.split()) <= 1_250:
                 raise ValueError('tamanho do texto fora da faixa permitida')
             novas.append({
-                'id': f"materia-{abs(hash(noticia['url']))}", 'titulo': artigo['titulo'], 'corpo': artigo['corpo'],
+                'id': f"materia-{abs(hash(noticia['url']))}", 'titulo': artigo['titulo'],
+                'abertura': artigo['abertura'], 'secoes': artigo['secoes'], 'fechamento': artigo['fechamento'],
                 'categoria': noticia['cat'], 'time': noticia['time'], 'tickers': noticia.get('tickers', []),
                 'pauta_url': noticia['url'], 'fontes': [{'nome': f['source'], 'url': f['url']} for f in fontes],
                 'gerado_por': artigo['gerado_por'], 'gerado_em': datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
