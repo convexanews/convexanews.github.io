@@ -82,7 +82,9 @@ async function loadMateriasNoticias() {
 function materiaDaNoticia(url) { return (materiasNoticiasCache || []).find(m => m.pauta_url === url); }
 function materiaCompletaHtml(materia) {
   if (!materia) return '';
-  const corpo = String(materia.corpo || '').split(/\n\s*\n/).filter(Boolean).map(p => `<p>${esc(p)}</p>`).join('');
+  const corpoLegado = String(materia.corpo || '').split(/\n\s*\n/).filter(Boolean).map(p => `<p>${esc(p)}</p>`).join('');
+  const secoes = (materia.secoes || []).map(s => `<section class="materia-secao"><h3>${esc(s.titulo)}</h3><p>${esc(s.texto)}</p></section>`).join('');
+  const corpo = materia.abertura ? `<p class="materia-abertura">${esc(materia.abertura)}</p>${secoes}${materia.fechamento ? `<p>${esc(materia.fechamento)}</p>` : ''}` : corpoLegado;
   const fontes = (materia.fontes || []).map(f => {
     const url = safeUrl(f.url);
     return url ? `<a href="${url}" target="_blank" rel="noopener">${esc(f.nome)} ↗</a>` : esc(f.nome);

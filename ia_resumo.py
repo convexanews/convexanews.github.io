@@ -5,6 +5,7 @@ import os
 import time
 import urllib.error
 import urllib.request
+import re
 
 USER_AGENT = "Mozilla/5.0 (compatible; BomDiaInvestidor/1.0)"
 
@@ -30,7 +31,8 @@ def _post_json(url, body, headers, max_tentativas=3):
 def _chamar_gemini(prompt, chave, modelo):
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent?key={chave}"
     resposta = _post_json(url, {"contents": [{"parts": [{"text": prompt}]}], "generationConfig": {
-        "temperature": 0.3, "maxOutputTokens": 3000, "responseMimeType": "application/json"
+        "temperature": 0.2, "maxOutputTokens": 8192, "responseMimeType": "application/json",
+        "thinkingConfig": {"thinkingBudget": 0}
     }}, {})
     return resposta["candidates"][0]["content"]["parts"][0]["text"]
 
@@ -38,7 +40,7 @@ def _chamar_gemini(prompt, chave, modelo):
 def _chamar_groq(prompt, chave, modelo):
     resposta = _post_json("https://api.groq.com/openai/v1/chat/completions", {
         "model": modelo, "messages": [{"role": "user", "content": prompt}],
-        "temperature": 0.3, "max_tokens": 3000, "response_format": {"type": "json_object"}
+        "temperature": 0.2, "max_tokens": 4096
     }, {"Authorization": f"Bearer {chave}"})
     return resposta["choices"][0]["message"]["content"]
 
@@ -46,7 +48,7 @@ def _chamar_groq(prompt, chave, modelo):
 def _chamar_openrouter(prompt, chave, modelo):
     resposta = _post_json("https://openrouter.ai/api/v1/chat/completions", {
         "model": modelo, "messages": [{"role": "user", "content": prompt}],
-        "temperature": 0.3, "max_tokens": 3000, "response_format": {"type": "json_object"}
+        "temperature": 0.2, "max_tokens": 4096
     }, {"Authorization": f"Bearer {chave}"})
     return resposta["choices"][0]["message"]["content"]
 
@@ -87,8 +89,9 @@ Regras obrigatórias: não copie frases, estrutura ou detalhes exclusivos de uma
 declarações, datas ou causalidades; descarte qualquer ponto em que as fontes divirjam; não faça recomendação
 de investimento. Diferencie fatos de contexto educativo e não mencione que recebeu textos de terceiros.
 
-Estrutura: título próprio; abertura factual; contexto; impacto para o investidor; o que acompanhar; fechamento.
-Escreva 4 a 6 parágrafos, entre 280 e 650 palavras, sem markdown.
+Escreva uma reportagem aprofundada de 700 a 1.100 palavras. Explique a abertura factual, o contexto doméstico,
+o cenário externo, os ativos/setores afetados, os riscos e os próximos gatilhos. Use somente fatos presentes
+nas fontes; quando faltar um dado, explique o mecanismo de mercado sem criar informação específica.
 
 Tema: {noticia['title']}
 Categoria: {noticia['cat']}
@@ -96,13 +99,60 @@ Ativos relacionados: {', '.join(noticia.get('tickers', [])) or 'não identificad
 
 {texto_fontes}
 
-Responda em JSON com as chaves "titulo" e "corpo"."""
+Responda em TEXTO PURO e siga exatamente esta estrutura, sem markdown de código:
+TÍTULO: título próprio
+ABERTURA: parágrafo de abertura
+## Contexto
+parágrafo aprofundado
+## Mercado e ativos afetados
+parágrafo aprofundado
+## Riscos e próximos gatilhos
+parágrafo aprofundado
+## Fechamento
+parágrafo final."""
+
+
+def _ler_resposta_editorial(bruto):
+    """Lê um protocolo simples de texto, mais resistente que JSON em respostas longas."""
+    limpo = re.sub(r'^```(?:text)?\s*|\s*```$', '', bruto.strip(), flags=re.IGNORECASE)
+    linhas = limpo.splitlines()
+    titulo, abertura, secoes, atual, partes = '', '', [], None, []
+    for linha in linhas:
+        texto = linha.strip()
+        if (not titulo) and ':' in texto and not texto.startswith('#'):
+            titulo = texto.split(':', 1)[1].strip()
+        elif (not abertura) and ':' in texto and not texto.startswith('#'):
+            abertura = texto.split(':', 1)[1].strip()
+        elif texto.startswith('##'):
+            if atual and partes:
+                secoes.append({'titulo': atual, 'texto': '\n'.join(partes).strip()})
+            atual, partes = texto.lstrip('#').strip(), []
+        elif atual and texto:
+            partes.append(texto)
+    if atual and partes:
+        secoes.append({'titulo': atual, 'texto': '\n'.join(partes).strip()})
+    if not titulo or not abertura or len(secoes) < 3:
+        raise ValueError('resposta da IA fora do formato editorial')
+    fechamento = ''
+    if secoes and secoes[-1]['titulo'].lower() == 'fechamento':
+        fechamento = secoes.pop()['texto']
+    return {"titulo": titulo, "abertura": abertura, "secoes": secoes, "fechamento": fechamento}
 
 
 def gerar_artigo(noticia, fontes):
     """Só produz texto quando houver pelo menos duas fontes independentes."""
     if len({fonte.get('source') for fonte in fontes if fonte.get('source')}) < 2:
         raise ValueError("Matéria bloqueada: são necessárias duas fontes independentes.")
-    bruto, provedor = gerar_com_fallback(montar_prompt(noticia, fontes))
-    resultado = json.loads(bruto)
-    return {"titulo": resultado["titulo"].strip(), "corpo": resultado["corpo"].strip(), "gerado_por": provedor}
+    prompt = montar_prompt(noticia, fontes)
+    bruto, provedor = gerar_com_fallback(prompt)
+    try:
+        resultado = _ler_resposta_editorial(bruto)
+    except Exception:
+        bruto, provedor = gerar_com_fallback(prompt + '\nIMPORTANTE: responda no protocolo de texto completo solicitado, sem JSON e sem markdown de código.')
+        resultado = _ler_resposta_editorial(bruto)
+    secoes = [{"titulo": str(s.get("titulo", "")).strip(), "texto": str(s.get("texto", "")).strip()}
+              for s in resultado["secoes"] if isinstance(s, dict) and s.get("titulo") and s.get("texto")]
+    if len(secoes) < 3:
+        raise ValueError('resposta da IA com seções vazias')
+    return {"titulo": resultado["titulo"].strip(), "abertura": resultado["abertura"].strip(),
+            "secoes": secoes, "fechamento": str(resultado.get("fechamento", "")).strip(), "gerado_por": provedor}
