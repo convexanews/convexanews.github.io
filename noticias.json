@@ -1,37 +1,21 @@
 {
   "headline": {
-    "title": "Ibovespa Hoje Ao Vivo: Bolsa oscila e tenta se manter nos 168 mil pontos; VALE3 sobe",
-    "source": "InfoMoney",
-    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-12082026/",
-    "time": "2026-08-12T17:25:37Z",
-    "cat": "acoes",
+    "title": "‘Fundo de dividendos’: OranjeBTC (OBTC3) lança primeiro ETF de ‘Bitcoin Treasuries’; veja quando produto chega na B3",
+    "source": "Money Times",
+    "url": "https://www.moneytimes.com.br/fundo-de-dividendos-oranjebtc-obtc3-lanca-primeiro-etf-de-bitcoin-treasuries-veja-quando-produto-chega-na-b3-rens/",
+    "time": "2026-08-12T19:00:00Z",
+    "cat": "fundos",
     "tickers": [
-      "VALE3"
+      "BTC"
     ],
     "editorial": {
-      "abertura": "Esta atualização trata de VALE3 no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-      "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
-      "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
+      "abertura": "Esta atualização trata de BTC no contexto de fundos imobiliários. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+      "por_que_importa": "FIIs reagem a juros, crédito, aluguéis e decisões dos gestores. O contexto do fundo é tão importante quanto a manchete do dia.",
+      "o_que_observar": "Confira relatórios gerenciais, fatos relevantes, rendimentos e indicadores como vacância e P/VP.",
       "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
     }
   },
   "featured": [
-    {
-      "title": "‘Fundo de dividendos’: OranjeBTC (OBTC3) lança primeiro ETF de ‘Bitcoin Treasuries’; veja quando produto chega na B3",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/fundo-de-dividendos-oranjebtc-obtc3-lanca-primeiro-etf-de-bitcoin-treasuries-veja-quando-produto-chega-na-b3-rens/",
-      "time": "2026-08-12T19:00:00Z",
-      "cat": "fundos",
-      "tickers": [
-        "BTC"
-      ],
-      "editorial": {
-        "abertura": "Esta atualização trata de BTC no contexto de fundos imobiliários. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "FIIs reagem a juros, crédito, aluguéis e decisões dos gestores. O contexto do fundo é tão importante quanto a manchete do dia.",
-        "o_que_observar": "Confira relatórios gerenciais, fatos relevantes, rendimentos e indicadores como vacância e P/VP.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
     {
       "title": "OranjeBTC cria ETF de ações de compradoras de bitcoin focado em dividendos",
       "source": "Exame",
@@ -45,6 +29,20 @@
         "abertura": "Esta atualização trata de BTC no contexto de fundos imobiliários. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
         "por_que_importa": "FIIs reagem a juros, crédito, aluguéis e decisões dos gestores. O contexto do fundo é tão importante quanto a manchete do dia.",
         "o_que_observar": "Confira relatórios gerenciais, fatos relevantes, rendimentos e indicadores como vacância e P/VP.",
+        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
+      }
+    },
+    {
+      "title": "Ações da Netlist disparam após queixa contra a Micron na ITC",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-netlist-disparam-apos-queixa-contra-a-micron-na-itc-93CH-2037086",
+      "time": "2026-08-12T19:21:24Z",
+      "cat": "internacional",
+      "tickers": [],
+      "editorial": {
+        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de mercado internacional. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "O cenário externo pode influenciar câmbio, commodities, bolsas e a percepção de risco dos investidores brasileiros.",
+        "o_que_observar": "Acompanhe indicadores econômicos, decisões de bancos centrais e a reação dos principais mercados globais.",
         "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
       }
     }
@@ -79,18 +77,16 @@
       }
     },
     {
-      "title": "Ibovespa Hoje Ao Vivo: Bolsa oscila e tenta se manter nos 168 mil pontos; VALE3 sobe",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-12082026/",
-      "time": "2026-08-12T17:25:37Z",
-      "cat": "acoes",
-      "tickers": [
-        "VALE3"
-      ],
+      "title": "EUA devem colher segunda maior safra de milho da história apesar da queda na produtividade, diz USDA",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/eua-devem-colher-segunda-maior-safra-de-milho-da-historia-apesar-da-queda-na-produtividade-diz-usda-pads/",
+      "time": "2026-08-12T19:30:00Z",
+      "cat": "internacional",
+      "tickers": [],
       "editorial": {
-        "abertura": "Esta atualização trata de VALE3 no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
-        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
+        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de mercado internacional. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "O cenário externo pode influenciar câmbio, commodities, bolsas e a percepção de risco dos investidores brasileiros.",
+        "o_que_observar": "Acompanhe indicadores econômicos, decisões de bancos centrais e a reação dos principais mercados globais.",
         "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
       }
     },
@@ -165,34 +161,6 @@
         "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de mercado internacional. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
         "por_que_importa": "O cenário externo pode influenciar câmbio, commodities, bolsas e a percepção de risco dos investidores brasileiros.",
         "o_que_observar": "Acompanhe indicadores econômicos, decisões de bancos centrais e a reação dos principais mercados globais.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "Estrangeiro bate em retirada e Bolsa volta ao nível de janeiro; o que mudou no cenário para o Brasil?",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/estrangeiro-bate-em-retirada-e-bolsa-volta-ao-nivel-de-janeiro-o-que-mudou-no-cenario-para-o-brasil-lils/",
-      "time": "2026-08-12T18:46:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
-        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "Área tratada com defensivos agrícolas sobe 5% no Brasil, enquanto valor do mercado avança 11%",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/area-tratada-com-defensivos-agricolas-sobe-5-no-brasil-enquanto-valor-do-mercado-avanca-11-pads/",
-      "time": "2026-08-12T18:33:42Z",
-      "cat": "acoes",
-      "tickers": [],
-      "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
-        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
         "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
       }
     },
@@ -453,5 +421,5 @@
       }
     }
   ],
-  "atualizado_em": "12/08/2026 19:28"
+  "atualizado_em": "12/08/2026 19:44"
 }
