@@ -60,8 +60,12 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          # Outros robôs também podem atualizar os JSONs enquanto esta coleta roda.
+          # Recomeça o índice a partir do último main e aplica esta coleta por cima,
+          # evitando conflito de rebase em arquivos que são totalmente gerados.
+          git fetch origin "${GITHUB_REF_NAME}"
+          git reset --mixed "origin/${GITHUB_REF_NAME}"
           git add dados.json noticias.json materias.json
           git add -A -- img/noticias 2>/dev/null || true
           git diff --staged --quiet || git commit -m "Atualização automática $(date +'%d/%m %H:%M UTC')"
-          git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
           git push
