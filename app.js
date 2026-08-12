@@ -22,13 +22,20 @@ function esc(s) {
 function safeUrl(u) {
   return /^https?:\/\//i.test(u || '') ? esc(u) : '';
 }
+function safeImageUrl(u) {
+  return /^(https?:\/\/|\.\/img\/)/i.test(u || '') ? esc(u) : '';
+}
 function newsImg(n) {
   // Só aceita imagens próprias ou cadastradas com licença e crédito explícitos.
-  if (n?.image?.url && n.image?.licensed === true) return safeUrl(n.image.url) || `./img/cat-${esc(n.cat || 'geral')}.jpg`;
+  const imagemDaMateria = materiaDaNoticia(n?.url)?.image;
+  if (imagemDaMateria?.url && imagemDaMateria?.licensed === true) return safeImageUrl(imagemDaMateria.url) || `./img/cat-${esc(n.cat || 'geral')}.jpg`;
+  if (n?.image?.url && n.image?.licensed === true) return safeImageUrl(n.image.url) || `./img/cat-${esc(n.cat || 'geral')}.jpg`;
   if (n.cat === 'economia') return './img/cat-economia-editorial.png';
   return `./img/cat-${esc(n.cat || 'geral')}.jpg`;
 }
 function newsImgCredit(n) {
+  const imagemDaMateria = materiaDaNoticia(n?.url)?.image;
+  if (imagemDaMateria?.licensed === true && imagemDaMateria?.credit) return imagemDaMateria.credit;
   if (n?.image?.licensed === true && n.image?.credit) return `Foto: ${n.image.credit}`;
   return 'Imagem ilustrativa: Bom Dia Investidor';
 }
@@ -81,6 +88,8 @@ async function loadMateriasNoticias() {
     if (state.currentPage === 'noticia-detalhe') {
       const url = decodeURIComponent(location.hash.replace(/^#\/?noticia\//, ''));
       if (url) renderNoticiaDetalhe(url);
+    } else if (state.currentPage === 'noticias') {
+      renderNews();
     }
   } catch (_) { materiasNoticiasCache = []; }
 }
