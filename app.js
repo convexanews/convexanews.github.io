@@ -25,19 +25,29 @@ function safeUrl(u) {
 function safeImageUrl(u) {
   return /^(https?:\/\/|\.\/img\/)/i.test(u || '') ? esc(u) : '';
 }
+function capaEditorialLocal(n) {
+  const tema = `${n?.title || ''} ${(n?.tickers || []).join(' ')}`.toLowerCase();
+  if (/(fii|im[oó]vel|ifix|galp[aã]o|shopping|laje|cr[ií])/.test(tema)) return './img/noticias/capa-imoveis.png';
+  if (/(banco|bbas|ita[uú]|bradesco|financeir|cr[eé]dito)/.test(tema)) return './img/noticias/capa-bancos.png';
+  if (/(fed|eua|wall street|dow jones|nasdaq|europa|exterior|internacional|d[oó]lar)/.test(tema)) return './img/noticias/capa-internacional.png';
+  if (/(ibov|b3|bolsa|a[cç][aã]o|mercado|vale|petrobras|petr4)/.test(tema)) return './img/noticias/capa-bolsa.png';
+  const opcoes = ['./img/noticias/capa-bolsa.png', './img/noticias/capa-bancos.png', './img/noticias/capa-internacional.png', './img/noticias/capa-imoveis.png'];
+  const id = String(n?.url || n?.title || 'geral');
+  const indice = [...id].reduce((s, c) => s + c.charCodeAt(0), 0) % opcoes.length;
+  return opcoes[indice];
+}
 function newsImg(n) {
   // Só aceita imagens próprias ou cadastradas com licença e crédito explícitos.
   const imagemDaMateria = materiaDaNoticia(n?.url)?.image;
   if (imagemDaMateria?.url && imagemDaMateria?.licensed === true) return safeImageUrl(imagemDaMateria.url) || `./img/cat-${esc(n.cat || 'geral')}.jpg`;
   if (n?.image?.url && n.image?.licensed === true) return safeImageUrl(n.image.url) || `./img/cat-${esc(n.cat || 'geral')}.jpg`;
-  if (n.cat === 'economia') return './img/cat-economia-editorial.png';
-  return `./img/cat-${esc(n.cat || 'geral')}.jpg`;
+  return capaEditorialLocal(n);
 }
 function newsImgCredit(n) {
   const imagemDaMateria = materiaDaNoticia(n?.url)?.image;
   if (imagemDaMateria?.licensed === true && imagemDaMateria?.credit) return imagemDaMateria.credit;
   if (n?.image?.licensed === true && n.image?.credit) return `Foto: ${n.image.credit}`;
-  return 'Imagem ilustrativa: Bom Dia Investidor';
+  return 'Ilustração editorial original · Bom Dia Investidor';
 }
 // Fallback para uma arte local se algum arquivo de categoria estiver ausente.
 function newsImgErr(img, cat) {

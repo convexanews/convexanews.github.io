@@ -46,6 +46,9 @@ jobs:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
 
       - name: Gerar capas editoriais das matérias
+        # Ative a variável do repositório GERAR_CAPAS_IA=true somente quando a
+        # conta Gemini tiver cota de imagens. As capas locais seguem ativas.
+        if: ${{ vars.GERAR_CAPAS_IA == 'true' }}
         run: python gerador_imagens_noticias.py
         env:
           GEMINI_IMAGE_API_KEY: ${{ secrets.GEMINI_IMAGE_API_KEY }}
