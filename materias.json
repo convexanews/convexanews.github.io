@@ -1,5 +1,37 @@
 [
   {
+    "id": "materia-7002466601134310917",
+    "titulo": "Inflação Argentina Retoma Aceleração e Desafia Estabilidade Econômica",
+    "abertura": "A Argentina registrou uma nova aceleração em seu índice de preços ao consumidor no mês de julho, com a inflação mensal superando a marca de 2% após um período de três meses de desaceleração. O dado, que atingiu 2,1%, frustrou as expectativas do mercado e reacende preocupações sobre a trajetória econômica do país vizinho. No acumulado do ano, a taxa de inflação já alcança 33,8%, evidenciando a persistência de um desafio macroeconômico significativo.",
+    "secoes": [
+      {
+        "titulo": "Contexto",
+        "texto": "A retomada da aceleração inflacionária em julho, após um breve alívio nos meses anteriores, sinaliza a complexidade dos desafios econômicos enfrentados pela Argentina. A inflação é um fenômeno que reflete o aumento generalizado e contínuo dos preços de bens e serviços em uma economia, corroendo o poder de compra da moeda e impactando diretamente o custo de vida da população. Em cenários de alta inflação, as empresas enfrentam incertezas quanto aos custos de produção e à demanda futura, o que pode desestimular investimentos e a geração de empregos. Para os consumidores, a elevação dos preços significa que o mesmo montante de dinheiro compra menos produtos, exigindo ajustes no orçamento familiar e, muitas vezes, impactando a qualidade de vida. A persistência de taxas elevadas, como a observada na Argentina, pode levar a um ciclo vicioso onde as expectativas de inflação futura impulsionam novos aumentos de preços, dificultando a estabilização econômica e a retomada do crescimento sustentável. A taxa acumulada de 33,8% no ano reforça a magnitude do problema e a necessidade de políticas econômicas robustas para conter a escalada dos preços e restaurar a confiança dos agentes econômicos."
+      },
+      {
+        "titulo": "Mercado e ativos afetados",
+        "texto": "Embora a fonte não identifique ativos específicos, a aceleração da inflação na Argentina tem implicações amplas para os mercados financeiros e para a economia como um todo. Em um ambiente de inflação elevada e crescente, ativos de renda fixa denominados na moeda local podem perder valor real, uma vez que o retorno nominal pode não compensar a perda do poder de compra. Investidores tendem a buscar proteção em ativos que historicamente se mostram mais resilientes à inflação, como commodities ou ativos denominados em moedas mais fortes. Para o mercado de ações, a incerteza inflacionária pode impactar a rentabilidade das empresas, especialmente aquelas com custos de produção sensíveis à variação de preços ou com menor poder de repasse aos consumidores. Setores que dependem de importações podem sofrer com a desvalorização da moeda local, que geralmente acompanha processos inflacionários, encarecendo insumos e componentes. Bancos centrais, em resposta à inflação, podem ser levados a elevar as taxas de juros, o que encarece o crédito e pode desacelerar a atividade econômica. A percepção de risco país também tende a aumentar, impactando o custo de captação de recursos para o governo e para as empresas no mercado internacional."
+      },
+      {
+        "titulo": "Riscos e próximos gatilhos",
+        "texto": "A retomada da aceleração inflacionária em julho na Argentina eleva os riscos para a estabilidade econômica do país. Um dos principais riscos é a desancoragem das expectativas de inflação, onde a população e as empresas passam a antecipar aumentos de preços ainda maiores no futuro, o que pode retroalimentar o processo inflacionário. Isso dificulta a formulação e a eficácia das políticas monetárias e fiscais. Outro risco é a potencial pressão sobre a taxa de câmbio. Em economias com alta inflação, a moeda local tende a se desvalorizar em relação a moedas mais estáveis, o que pode encarecer as importações e, por sua vez, impulsionar ainda mais os preços internos. A capacidade do governo de financiar suas despesas também pode ser comprometida, seja pela dificuldade em emitir dívida em condições favoráveis, seja pela necessidade de recorrer à emissão monetária, o que agravaria o problema inflacionário. Os próximos gatilhos para a economia argentina estarão relacionados à divulgação de novos dados de inflação nos meses subsequentes, que indicarão se a aceleração de julho foi um evento isolado ou o início de uma nova tendência de alta. Além disso, as decisões de política monetária do Banco Central argentino, em resposta a esses dados, serão cruciais para tentar conter a escalada dos preços. Eventuais anúncios de medidas fiscais ou reformas estruturais por parte do governo também serão observados de perto pelos mercados, buscando sinais de compromisso com a estabilização econômica."
+      }
+    ],
+    "fechamento": "A aceleração da inflação argentina em julho, que superou as expectativas e rompeu um ciclo de desaceleração, sublinha a persistência de desafios econômicos complexos no país. Com uma taxa acumulada de 33,8% no ano, a Argentina enfrenta a necessidade de implementar políticas econômicas eficazes para restaurar a estabilidade de preços e mitigar os impactos sobre o poder de compra da população e o ambiente de negócios. A trajetória futura da inflação e as respostas das autoridades serão determinantes para a confiança dos mercados e para a perspectiva de recuperação econômica.",
+    "categoria": "economia",
+    "time": "2026-08-13T19:53:18Z",
+    "tickers": [],
+    "pauta_url": "https://www.infomoney.com.br/economia/inflacao-da-argentina-acelera-em-julho-e-volta-a-superar-2/",
+    "fontes": [
+      {
+        "nome": "InfoMoney",
+        "url": "https://www.infomoney.com.br/economia/inflacao-da-argentina-acelera-em-julho-e-volta-a-superar-2/"
+      }
+    ],
+    "gerado_por": "Gemini Flash (chave 1)",
+    "gerado_em": "2026-08-13T20:04:25Z"
+  },
+  {
     "id": "materia-4520283264635077314",
     "titulo": "Controvérsia política e seus reflexos no cenário de investimentos",
     "abertura": "Uma recente controvérsia envolvendo a filiação partidária do senador Flávio Bolsonaro ao partido Missão tem gerado repercussão. O partido Missão alega ter sido alvo de uma filiação fraudulenta e, em resposta, acionou a Polícia Federal. A situação se desenrola em um contexto de questionamentos sobre informações divulgadas pelo senador, adicionando camadas de incerteza ao ambiente político.",
