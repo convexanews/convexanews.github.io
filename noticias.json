@@ -1,24 +1,26 @@
 {
   "headline": {
-    "title": "Ibovespa e dólar hoje: fuga de estrangeiros derruba a bolsa pela 8ª sessão seguida",
-    "source": "Investing.com",
-    "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-fuga-de-estrangeiros-derruba-a-bolsa-pela-8a-sessao-seguida-2038718",
-    "time": "2026-08-13T21:30:02Z",
-    "cat": "economia",
-    "tickers": [],
+    "title": "Ibovespa cai pela 8ª vez seguida com saída de estrangeiros; Banco do Brasil (BBAS3) tomba",
+    "source": "Suno",
+    "url": "https://www.suno.com.br/noticias/ibovespa-hoje-13-agosto-2026-bbas3-estrangeiros-mt/",
+    "time": "2026-08-13T22:15:05Z",
+    "cat": "acoes",
+    "tickers": [
+      "BBAS3"
+    ],
     "editorial": {
-      "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de economia. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-      "por_que_importa": "Dados de juros, inflação e atividade econômica afetam o custo do dinheiro e as expectativas para diferentes classes de ativos.",
-      "o_que_observar": "Observe dados oficiais, comunicados do Banco Central e revisões de expectativa antes de mudar sua estratégia.",
+      "abertura": "Esta atualização trata de BBAS3 no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+      "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
+      "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
       "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
     }
   },
   "featured": [
     {
-      "title": "Ibovespa cai pela 8ª vez seguida, algo ocorrido só 7 vezes desde 2000; veja por quê",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-volta-a-cair-nesta-5a-mesmo-com-boas-noticias-vindas-dos-eua-o-que-explica/",
-      "time": "2026-08-13T21:24:01Z",
+      "title": "Nubank (ROXO34): Lucro dispara 49% e chega a US$ 1 bi pela primeira vez na história; ação salta 10%",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/nubank-roxo34-lucro-dispara-49-e-chega-a-us-1-bi-pela-primeira-vez-da-historia/",
+      "time": "2026-08-13T21:10:30Z",
       "cat": "acoes",
       "tickers": [],
       "editorial": {
@@ -29,21 +31,97 @@
       }
     },
     {
-      "title": "Dólar hoje sobe pela 4ª vez seguida e vai a R$ 5,19, por saída de estrangeiros",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-13082026/",
-      "time": "2026-08-13T21:12:17Z",
-      "cat": "economia",
-      "tickers": [],
+      "title": "Comunidade do bitcoin prepara rede contra ataques quânticos",
+      "source": "Exame",
+      "url": "https://exame.com/future-of-money/comunidade-do-bitcoin-prepara-rede-contra-ataques-quanticos/",
+      "time": "2026-08-13T18:32:14Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC"
+      ],
       "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de economia. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "Dados de juros, inflação e atividade econômica afetam o custo do dinheiro e as expectativas para diferentes classes de ativos.",
-        "o_que_observar": "Observe dados oficiais, comunicados do Banco Central e revisões de expectativa antes de mudar sua estratégia.",
+        "abertura": "Esta atualização trata de BTC no contexto de criptoativos. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "Criptoativos costumam ter volatilidade elevada e podem reagir rapidamente a liquidez, regulação e fluxo global.",
+        "o_que_observar": "Considere liquidez, volatilidade e o seu perfil de risco; não tome decisões apenas pela movimentação do dia.",
         "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
       }
     }
   ],
   "all": [
+    {
+      "title": "CPFL lucra R$ 1,44 bilhão, vê novo impulso de data centers no mercado da distribuição",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/cpfl-cpfe3-resultados-segundo-trimestre-2026/",
+      "time": "2026-08-13T22:54:50Z",
+      "cat": "fundos",
+      "tickers": [],
+      "editorial": {
+        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de fundos imobiliários. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "FIIs reagem a juros, crédito, aluguéis e decisões dos gestores. O contexto do fundo é tão importante quanto a manchete do dia.",
+        "o_que_observar": "Confira relatórios gerenciais, fatos relevantes, rendimentos e indicadores como vacância e P/VP.",
+        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
+      }
+    },
+    {
+      "title": "Dasa (DASA3) reduz prejuízo para R$ 35 milhões no 2º trimestre",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/dasa-dasa3-resultados-segundo-trimestre-2026/",
+      "time": "2026-08-13T22:48:37Z",
+      "cat": "acoes",
+      "tickers": [
+        "DASA3"
+      ],
+      "editorial": {
+        "abertura": "Esta atualização trata de DASA3 no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
+        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
+        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
+      }
+    },
+    {
+      "title": "Petz Cobasi (AUAU3) tem lucro líquido ajustado de R$ 70,3 mi no 2º tri, alta 8,4%",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/petz-cobasi-auau3-resultados-segundo-trimestre-2026/",
+      "time": "2026-08-13T22:20:59Z",
+      "cat": "acoes",
+      "tickers": [],
+      "editorial": {
+        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
+        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
+        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
+      }
+    },
+    {
+      "title": "MBRF (MBRF3) tem lucro líquido a R$ 69 milhões no 2º tri, uma queda de 19,6%",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/mbrf-mbrf3-resultados-segundo-trimestre-2026/",
+      "time": "2026-08-13T22:17:24Z",
+      "cat": "acoes",
+      "tickers": [
+        "MBRF3"
+      ],
+      "editorial": {
+        "abertura": "Esta atualização trata de MBRF3 no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
+        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
+        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
+      }
+    },
+    {
+      "title": "Even tem lucro líquido consolidado de R$ 30,686 milhões no 2T, queda anual de 37,2%",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/even-even3-resultados-segundo-trimestre-2026/",
+      "time": "2026-08-13T22:12:56Z",
+      "cat": "acoes",
+      "tickers": [],
+      "editorial": {
+        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
+        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
+        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
+      }
+    },
     {
       "title": "Nubank (ROXO34): lucro líquido sobe 49% no 2º trimestre e vai a US$ 1,06 bilhão",
       "source": "InfoMoney",
@@ -105,44 +183,16 @@
       }
     },
     {
-      "title": "S&P 500 supera 7.800 pontos com inflação ao produtor abaixo do esperado nos EUA",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/sp-500-supera-7-800-pontos-com-inflacao-ao-produtor-abaixo-do-esperado-nos-eua/",
-      "time": "2026-08-13T21:24:55Z",
-      "cat": "economia",
-      "tickers": [],
-      "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de economia. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "Dados de juros, inflação e atividade econômica afetam o custo do dinheiro e as expectativas para diferentes classes de ativos.",
-        "o_que_observar": "Observe dados oficiais, comunicados do Banco Central e revisões de expectativa antes de mudar sua estratégia.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "Ibovespa cai pela 8ª vez seguida, algo ocorrido só 7 vezes desde 2000; veja por quê",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-volta-a-cair-nesta-5a-mesmo-com-boas-noticias-vindas-dos-eua-o-que-explica/",
-      "time": "2026-08-13T21:24:01Z",
+      "title": "Bom pra cachorro: Petz Cobasi (AUAU3) vê lucro líquido ajustado crescer para R$ 70,3 milhões no 2T26",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/bom-pra-cachorro-petz-cobasi-auau3-ve-lucro-liquido-ajustado-crescer-para-r-703-milhoes-no-2t26-rens/",
+      "time": "2026-08-13T22:34:55Z",
       "cat": "acoes",
       "tickers": [],
       "editorial": {
         "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
         "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
         "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "Dólar hoje sobe pela 4ª vez seguida e vai a R$ 5,19, por saída de estrangeiros",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-13082026/",
-      "time": "2026-08-13T21:12:17Z",
-      "cat": "economia",
-      "tickers": [],
-      "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de economia. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "Dados de juros, inflação e atividade econômica afetam o custo do dinheiro e as expectativas para diferentes classes de ativos.",
-        "o_que_observar": "Observe dados oficiais, comunicados do Banco Central e revisões de expectativa antes de mudar sua estratégia.",
         "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
       }
     },
@@ -239,16 +289,30 @@
       }
     },
     {
-      "title": "3tentos (TTEN3): lucro e Ebitda recuam 38% no 2T26; empresa anuncia recompra de ações e atualiza projeções",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/3tentos-tten3-lucro-e-ebitda-recuam-38-no-2t26-empresa-anuncia-recompra-de-acoes-e-atualiza-projecoes/",
-      "time": "2026-08-13T20:59:14Z",
+      "title": "IFIX fecha quinta-feira em queda de 0,6% e termina aos 3.692,65 pontos",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ifix-fecha-quinta-feira-em-queda-de-06-e-termina-aos-3-69265-pontos/",
+      "time": "2026-08-13T22:15:19Z",
+      "cat": "fundos",
+      "tickers": [],
+      "editorial": {
+        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de fundos imobiliários. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "FIIs reagem a juros, crédito, aluguéis e decisões dos gestores. O contexto do fundo é tão importante quanto a manchete do dia.",
+        "o_que_observar": "Confira relatórios gerenciais, fatos relevantes, rendimentos e indicadores como vacância e P/VP.",
+        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
+      }
+    },
+    {
+      "title": "Ibovespa cai pela 8ª vez seguida com saída de estrangeiros; Banco do Brasil (BBAS3) tomba",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-13-agosto-2026-bbas3-estrangeiros-mt/",
+      "time": "2026-08-13T22:15:05Z",
       "cat": "acoes",
       "tickers": [
-        "TTEN3"
+        "BBAS3"
       ],
       "editorial": {
-        "abertura": "Esta atualização trata de TTEN3 no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "abertura": "Esta atualização trata de BBAS3 no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
         "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
         "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
         "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
@@ -329,53 +393,6 @@
       }
     },
     {
-      "title": "KNIP11, KNCR11 e outros FIIs pagam dividendos hoje (13)",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/dividendos-hoje-fundos-imobiliarios-julho/",
-      "time": "2026-08-13T13:56:06Z",
-      "cat": "fundos",
-      "tickers": [
-        "KNIP11",
-        "KNCR11"
-      ],
-      "editorial": {
-        "abertura": "Esta atualização trata de KNIP11, KNCR11 no contexto de fundos imobiliários. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "FIIs reagem a juros, crédito, aluguéis e decisões dos gestores. O contexto do fundo é tão importante quanto a manchete do dia.",
-        "o_que_observar": "Confira relatórios gerenciais, fatos relevantes, rendimentos e indicadores como vacância e P/VP.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "Bolsas americanas renovam máximas: veja como aproveitar o cenário",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/bolsas-americanas-maximas-como-investir-gpus11-gss/",
-      "time": "2026-08-13T13:51:32Z",
-      "cat": "acoes",
-      "tickers": [],
-      "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
-        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "Banco do Brasil (BBAS3) vai pagar R$ 585 milhões em JCP; veja quem recebe",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/banco-do-brasil-bbas3-jcp-584-milhoes-setembro-2026-mt/",
-      "time": "2026-08-13T13:35:00Z",
-      "cat": "acoes",
-      "tickers": [
-        "BBAS3"
-      ],
-      "editorial": {
-        "abertura": "Esta atualização trata de BBAS3 no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
-        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
       "title": "Nubank supera US$ 1 bi em lucro no 2º tri pela 1ª vez, mas inadimplência vai a 6,9%",
       "source": "Exame",
       "url": "https://exame.com/invest/mercados/nubank-supera-us-1-bi-em-lucro-no-2o-tri-pela-1a-vez-mas-inadimplencia-vai-a-69/",
@@ -406,30 +423,72 @@
       }
     },
     {
-      "title": "Ibovespa tem 8ª queda seguida, sequência vista apenas 7 vezes em mais de 20 anos",
-      "source": "Exame",
-      "url": "https://exame.com/invest/mercados/ibovespa-tem-8a-queda-seguida-sequencia-vista-apenas-7-vezes-em-mais-de-20-anos/",
-      "time": "2026-08-13T17:51:38Z",
-      "cat": "economia",
+      "title": "Dasa reduz prejuízo para R$35 mi no 2º tri",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/dasa-reduz-prejuizo-para-r35-mi-no-2o-tri-2038945",
+      "time": "2026-08-13T22:42:29Z",
+      "cat": "internacional",
       "tickers": [],
       "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de economia. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "Dados de juros, inflação e atividade econômica afetam o custo do dinheiro e as expectativas para diferentes classes de ativos.",
-        "o_que_observar": "Observe dados oficiais, comunicados do Banco Central e revisões de expectativa antes de mudar sua estratégia.",
+        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de mercado internacional. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "O cenário externo pode influenciar câmbio, commodities, bolsas e a percepção de risco dos investidores brasileiros.",
+        "o_que_observar": "Acompanhe indicadores econômicos, decisões de bancos centrais e a reação dos principais mercados globais.",
         "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
       }
     },
     {
-      "title": "Agente de inteligência artificial cobrou milhares de dólares da pessoa errada; entenda o caso",
-      "source": "Exame",
-      "url": "https://exame.com/inteligencia-artificial/agente-de-inteligencia-artificial-cobrou-milhares-de-dolares-da-pessoa-errada-entenda-o-caso/",
-      "time": "2026-08-13T17:46:02Z",
-      "cat": "economia",
+      "title": "CPFL tem alta do lucro, vê novo impulso de data centers no mercado da distribuição",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/cpfl-tem-alta-do-lucro-ve-novo-impulso-de-data-centers-no-mercado-da-distribuicao-2038944",
+      "time": "2026-08-13T22:42:28Z",
+      "cat": "internacional",
       "tickers": [],
       "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de economia. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "Dados de juros, inflação e atividade econômica afetam o custo do dinheiro e as expectativas para diferentes classes de ativos.",
-        "o_que_observar": "Observe dados oficiais, comunicados do Banco Central e revisões de expectativa antes de mudar sua estratégia.",
+        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de mercado internacional. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "O cenário externo pode influenciar câmbio, commodities, bolsas e a percepção de risco dos investidores brasileiros.",
+        "o_que_observar": "Acompanhe indicadores econômicos, decisões de bancos centrais e a reação dos principais mercados globais.",
+        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
+      }
+    },
+    {
+      "title": "Receita anualizada da OpenAI ultrapassa US$ 40 bilhões",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/receita-anualizada-da-openai-ultrapassa-us-40-bilhoes-2038925",
+      "time": "2026-08-13T22:10:09Z",
+      "cat": "internacional",
+      "tickers": [],
+      "editorial": {
+        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de mercado internacional. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "O cenário externo pode influenciar câmbio, commodities, bolsas e a percepção de risco dos investidores brasileiros.",
+        "o_que_observar": "Acompanhe indicadores econômicos, decisões de bancos centrais e a reação dos principais mercados globais.",
+        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
+      }
+    },
+    {
+      "title": "Lucro da MBRF cai quase 20% no 2º tri com pressão de resultados financeiros",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/lucro-da-mbrf-cai-para-r69-mi-no-2o-tri-2038880",
+      "time": "2026-08-13T22:07:07Z",
+      "cat": "internacional",
+      "tickers": [],
+      "editorial": {
+        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de mercado internacional. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "O cenário externo pode influenciar câmbio, commodities, bolsas e a percepção de risco dos investidores brasileiros.",
+        "o_que_observar": "Acompanhe indicadores econômicos, decisões de bancos centrais e a reação dos principais mercados globais.",
+        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
+      }
+    },
+    {
+      "title": "Lucro trimestral do Nubank supera US$1 bi pela primeira vez e ação dispara",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/lucro-trimestral-do-nubank-supera-us1-bi-pela-primeira-vez-2038856",
+      "time": "2026-08-13T22:00:38Z",
+      "cat": "internacional",
+      "tickers": [],
+      "editorial": {
+        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de mercado internacional. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "O cenário externo pode influenciar câmbio, commodities, bolsas e a percepção de risco dos investidores brasileiros.",
+        "o_que_observar": "Acompanhe indicadores econômicos, decisões de bancos centrais e a reação dos principais mercados globais.",
         "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
       }
     },
@@ -502,63 +561,7 @@
         "o_que_observar": "Acompanhe indicadores econômicos, decisões de bancos centrais e a reação dos principais mercados globais.",
         "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
       }
-    },
-    {
-      "title": "Yduqs tem queda de 54,2% no lucro do 2º tri, em resultado abaixo do esperado",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/yduqs-tem-queda-de-542-no-lucro-do-2o-tri-em-resultado-abaixo-do-esperado-2038892",
-      "time": "2026-08-13T21:35:07Z",
-      "cat": "internacional",
-      "tickers": [],
-      "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de mercado internacional. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "O cenário externo pode influenciar câmbio, commodities, bolsas e a percepção de risco dos investidores brasileiros.",
-        "o_que_observar": "Acompanhe indicadores econômicos, decisões de bancos centrais e a reação dos principais mercados globais.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "México - Ações fecharam o pregão em queda e o Índice S&P/BMV IPC recuou 1,41%",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/mexico--acoes-fecharam-o-pregao-em-queda-e-o-indice-spbmv-ipc-recuou-141-2038888",
-      "time": "2026-08-13T21:30:23Z",
-      "cat": "internacional",
-      "tickers": [],
-      "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de mercado internacional. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "O cenário externo pode influenciar câmbio, commodities, bolsas e a percepção de risco dos investidores brasileiros.",
-        "o_que_observar": "Acompanhe indicadores econômicos, decisões de bancos centrais e a reação dos principais mercados globais.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "Ibovespa e dólar hoje: fuga de estrangeiros derruba a bolsa pela 8ª sessão seguida",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-fuga-de-estrangeiros-derruba-a-bolsa-pela-8a-sessao-seguida-2038718",
-      "time": "2026-08-13T21:30:02Z",
-      "cat": "economia",
-      "tickers": [],
-      "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de economia. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "Dados de juros, inflação e atividade econômica afetam o custo do dinheiro e as expectativas para diferentes classes de ativos.",
-        "o_que_observar": "Observe dados oficiais, comunicados do Banco Central e revisões de expectativa antes de mudar sua estratégia.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "S&P rebaixa rating da Teads por disrupção de IA e fluxo de caixa fraco",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/sp-rebaixa-rating-da-teads-por-disrupcao-de-ia-e-fluxo-de-caixa-fraco-93CH-2038886",
-      "time": "2026-08-13T21:27:50Z",
-      "cat": "internacional",
-      "tickers": [],
-      "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de mercado internacional. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "O cenário externo pode influenciar câmbio, commodities, bolsas e a percepção de risco dos investidores brasileiros.",
-        "o_que_observar": "Acompanhe indicadores econômicos, decisões de bancos centrais e a reação dos principais mercados globais.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
     }
   ],
-  "atualizado_em": "13/08/2026 22:11"
+  "atualizado_em": "13/08/2026 23:11"
 }
