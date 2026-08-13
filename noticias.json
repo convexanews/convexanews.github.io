@@ -31,23 +31,49 @@
       }
     },
     {
-      "title": "Comunidade do bitcoin prepara rede contra ataques quânticos",
-      "source": "Exame",
-      "url": "https://exame.com/future-of-money/comunidade-do-bitcoin-prepara-rede-contra-ataques-quanticos/",
-      "time": "2026-08-13T18:32:14Z",
-      "cat": "cripto",
-      "tickers": [
-        "BTC"
-      ],
+      "title": "Ação do Reddit dispara no after-hours após anúncio de entrada no S&P 500",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acao-do-reddit-dispara-no-afterhours-apos-anuncio-de-entrada-no-sp-500-93CH-2038964",
+      "time": "2026-08-13T23:26:37Z",
+      "cat": "internacional",
+      "tickers": [],
       "editorial": {
-        "abertura": "Esta atualização trata de BTC no contexto de criptoativos. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "Criptoativos costumam ter volatilidade elevada e podem reagir rapidamente a liquidez, regulação e fluxo global.",
-        "o_que_observar": "Considere liquidez, volatilidade e o seu perfil de risco; não tome decisões apenas pela movimentação do dia.",
+        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de mercado internacional. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "O cenário externo pode influenciar câmbio, commodities, bolsas e a percepção de risco dos investidores brasileiros.",
+        "o_que_observar": "Acompanhe indicadores econômicos, decisões de bancos centrais e a reação dos principais mercados globais.",
         "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
       }
     }
   ],
   "all": [
+    {
+      "title": "EUA planejam operações militares em terra contra narcotraficantes na América Latina",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mundo/eua-planejam-operacoes-militares-em-terra-contra-narcotraficantes-na-america-latina/",
+      "time": "2026-08-13T23:28:25Z",
+      "cat": "internacional",
+      "tickers": [],
+      "editorial": {
+        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de mercado internacional. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "O cenário externo pode influenciar câmbio, commodities, bolsas e a percepção de risco dos investidores brasileiros.",
+        "o_que_observar": "Acompanhe indicadores econômicos, decisões de bancos centrais e a reação dos principais mercados globais.",
+        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
+      }
+    },
+    {
+      "title": "Governo Lula anuncia abertura de reciprocidade por tarifaço dos EUA",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/governo-lula-anuncia-abertura-de-reciprocidade-por-tarifaco-dos-eua/",
+      "time": "2026-08-13T23:13:33Z",
+      "cat": "internacional",
+      "tickers": [],
+      "editorial": {
+        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de mercado internacional. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "O cenário externo pode influenciar câmbio, commodities, bolsas e a percepção de risco dos investidores brasileiros.",
+        "o_que_observar": "Acompanhe indicadores econômicos, decisões de bancos centrais e a reação dos principais mercados globais.",
+        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
+      }
+    },
     {
       "title": "CPFL lucra R$ 1,44 bilhão, vê novo impulso de data centers no mercado da distribuição",
       "source": "InfoMoney",
@@ -153,36 +179,6 @@
       }
     },
     {
-      "title": "Lucro da Cyrela (CYRE3) cresce 16% e atinge R$ 452 milhões no 2º trimestre",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/cyrela-cyre3-resultados-segundo-trimestre-2026/",
-      "time": "2026-08-13T21:42:35Z",
-      "cat": "acoes",
-      "tickers": [
-        "CYRE3"
-      ],
-      "editorial": {
-        "abertura": "Esta atualização trata de CYRE3 no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
-        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "Stone tem lucro líquido ajustado de R$ 583 milhões no 2º tri, queda anual de 2,6%",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/stone-stoc34-resultados-segundo-trimestre-2026/",
-      "time": "2026-08-13T21:39:12Z",
-      "cat": "acoes",
-      "tickers": [],
-      "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
-        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
       "title": "Bom pra cachorro: Petz Cobasi (AUAU3) vê lucro líquido ajustado crescer para R$ 70,3 milhões no 2T26",
       "source": "Money Times",
       "url": "https://www.moneytimes.com.br/bom-pra-cachorro-petz-cobasi-auau3-ve-lucro-liquido-ajustado-crescer-para-r-703-milhoes-no-2t26-rens/",
@@ -271,20 +267,6 @@
         "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
         "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
         "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "Taxas dos DIs sobem em sessão marcada por dados de inflação nos EUA",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/taxas-dos-dis-sobem-em-sessao-marcada-por-dados-de-inflacao-nos-eua-lils/",
-      "time": "2026-08-13T21:06:24Z",
-      "cat": "economia",
-      "tickers": [],
-      "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de economia. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "Dados de juros, inflação e atividade econômica afetam o custo do dinheiro e as expectativas para diferentes classes de ativos.",
-        "o_que_observar": "Observe dados oficiais, comunicados do Banco Central e revisões de expectativa antes de mudar sua estratégia.",
         "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
       }
     },
@@ -407,18 +389,16 @@
       }
     },
     {
-      "title": "Comunidade do bitcoin prepara rede contra ataques quânticos",
-      "source": "Exame",
-      "url": "https://exame.com/future-of-money/comunidade-do-bitcoin-prepara-rede-contra-ataques-quanticos/",
-      "time": "2026-08-13T18:32:14Z",
-      "cat": "cripto",
-      "tickers": [
-        "BTC"
-      ],
+      "title": "Ação do Reddit dispara no after-hours após anúncio de entrada no S&P 500",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acao-do-reddit-dispara-no-afterhours-apos-anuncio-de-entrada-no-sp-500-93CH-2038964",
+      "time": "2026-08-13T23:26:37Z",
+      "cat": "internacional",
+      "tickers": [],
       "editorial": {
-        "abertura": "Esta atualização trata de BTC no contexto de criptoativos. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "Criptoativos costumam ter volatilidade elevada e podem reagir rapidamente a liquidez, regulação e fluxo global.",
-        "o_que_observar": "Considere liquidez, volatilidade e o seu perfil de risco; não tome decisões apenas pela movimentação do dia.",
+        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de mercado internacional. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "O cenário externo pode influenciar câmbio, commodities, bolsas e a percepção de risco dos investidores brasileiros.",
+        "o_que_observar": "Acompanhe indicadores econômicos, decisões de bancos centrais e a reação dos principais mercados globais.",
         "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
       }
     },
@@ -547,21 +527,7 @@
         "o_que_observar": "Acompanhe indicadores econômicos, decisões de bancos centrais e a reação dos principais mercados globais.",
         "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
       }
-    },
-    {
-      "title": "Por que as ações da TMC the metals company estão caindo hoje?",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-tmc-the-metals-company-estao-caindo-hoje-93CH-2038902",
-      "time": "2026-08-13T21:49:24Z",
-      "cat": "internacional",
-      "tickers": [],
-      "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de mercado internacional. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "O cenário externo pode influenciar câmbio, commodities, bolsas e a percepção de risco dos investidores brasileiros.",
-        "o_que_observar": "Acompanhe indicadores econômicos, decisões de bancos centrais e a reação dos principais mercados globais.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
     }
   ],
-  "atualizado_em": "13/08/2026 23:11"
+  "atualizado_em": "13/08/2026 23:39"
 }
