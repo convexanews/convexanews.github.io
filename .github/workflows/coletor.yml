@@ -37,38 +37,17 @@ jobs:
         run: python coletor.py
         env:
           BRAPI_TOKEN: ${{ secrets.BRAPI_TOKEN }}
-          GEMINI_API_KEY_1: ${{ secrets.GEMINI_API_KEY_1 }}
-          GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
-          GEMINI_API_KEY_3: ${{ secrets.GEMINI_API_KEY_3 }}
-          GEMINI_API_KEY_4: ${{ secrets.GEMINI_API_KEY_4 }}
-          GEMINI_API_KEY_5: ${{ secrets.GEMINI_API_KEY_5 }}
-          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
-
-      - name: Gerar capas editoriais das matérias
-        # Ative a variável do repositório GERAR_CAPAS_IA=true somente quando a
-        # conta Gemini tiver cota de imagens. As capas locais seguem ativas.
-        if: ${{ vars.GERAR_CAPAS_IA == 'true' }}
-        run: python gerador_imagens_noticias.py
-        env:
-          GEMINI_IMAGE_API_KEY: ${{ secrets.GEMINI_IMAGE_API_KEY }}
 
       - name: Validar JSON gerado
         run: |
           python -m json.tool dados.json > /dev/null
           python -m json.tool noticias.json > /dev/null
-          python -m json.tool materias.json > /dev/null
 
       - name: Commit e Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          # Outros robôs também podem atualizar os JSONs enquanto esta coleta roda.
-          # Recomeça o índice a partir do último main e aplica esta coleta por cima,
-          # evitando conflito de rebase em arquivos que são totalmente gerados.
-          git fetch origin "${GITHUB_REF_NAME}"
-          git reset --mixed "origin/${GITHUB_REF_NAME}"
-          git add dados.json noticias.json materias.json
-          git add -A -- img/noticias 2>/dev/null || true
+          git add dados.json noticias.json
           git diff --staged --quiet || git commit -m "Atualização automática $(date +'%d/%m %H:%M UTC')"
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
           git push

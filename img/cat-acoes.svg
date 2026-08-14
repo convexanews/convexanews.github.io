@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" fill="none">
+  <rect width="400" height="260" fill="#f0f0ef"/>
+  <path d="M80 200 L140 140 L180 170 L240 100 L300 130 L340 80" stroke="#16a34a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <circle cx="340" cy="80" r="5" fill="#16a34a"/>
+  <text x="200" y="235" text-anchor="middle" fill="#a1a1aa" font-family="sans-serif" font-size="13" font-weight="600">AÇÕES</text>
+</svg>
