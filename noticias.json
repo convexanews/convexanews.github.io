@@ -1,118 +1,210 @@
 {
   "headline": {
-    "title": "Por que o Ibovespa cai enquanto Wall Street bate recordes? 5 fatores explicam",
-    "summary": "Eleição e fiscal elevam o prêmio de risco no Brasil, enquanto inflação mais comportada, lucros e inteligência artificial sustentam SP 500 e Nasdaq",
-    "source": "InfoMoney",
-    "url": "https://www.infomoney.com.br/mercados/por-que-o-ibovespa-cai-enquanto-wall-street-bate-recordes-5-fatores-explicam/",
-    "time": "2026-08-14T08:01:00Z",
-    "cat": "internacional",
-    "tickers": [],
-    "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/NY-vs-IBOV.png?fit=300%2C169&amp;quality=70&amp;strip=all"
+    "title": "JHSF (JHSF3) tem lucro recorde de R$ 444 milhões no 2º trimestre, alta de 81%",
+    "summary": "A JHSF (JHSF3) dona do Shopping Cidade Jardim, hotéis e restaurantes Fasano, loteamento Fazenda Boa Vista e outros negócios de luxo reportou resultados recordes no seu balanço. O grupo obteve lucro líquido consolidado de",
+    "source": "Money Times",
+    "url": "https://www.moneytimes.com.br/jhsf-jhsf3-tem-lucro-recorde-de-r-444-milhoes-no-2o-trimestre-alta-de-81-fets/",
+    "time": "2026-08-14T09:29:00Z",
+    "cat": "acoes",
+    "tickers": [
+      "JHSF3"
+    ],
+    "image": "https://www.moneytimes.com.br/uploads/2024/10/jhsf-1.jpg"
   },
   "featured": [
     {
-      "title": "Ibovespa em baixa, S&P 500 e Nasdaq em alta: até onde os índices podem ir?",
-      "summary": "Gráficos semanais mostram pressão crescente sobre o índice brasileiro, enquanto SP 500 e Nasdaq preservam tendências de alta",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-em-baixa-sp-500-e-nasdaq-em-alta-ate-onde-os-indices-podem-ir/",
-      "time": "2026-08-14T08:03:00Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/IBOV-X-SP500-X-NASDAQ-AGOSTO.png?fit=300%2C137&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "“Juros vão cair”: gigantes estrangeiros rejeitam pessimismo com Brasil",
-      "summary": "Morgan Stanley, Fidelity e HSBC defendem posições em ativos brasileiros - mas não na Bolsa: eles apostam em renda fixa",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/onde-investir/juros-vao-cair-gigantes-estrangeiros-rejeitam-pessimismo-com-brasil/",
-      "time": "2026-08-14T08:00:00Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/sede-morgan-stanley-em-ny.jpg?fit=300%2C198&amp;quality=70&amp;strip=all"
-    }
-  ],
-  "all": [
-    {
-      "title": "Ibovespa em baixa, S&P 500 e Nasdaq em alta: até onde os índices podem ir?",
-      "summary": "Gráficos semanais mostram pressão crescente sobre o índice brasileiro, enquanto SP 500 e Nasdaq preservam tendências de alta",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-em-baixa-sp-500-e-nasdaq-em-alta-ate-onde-os-indices-podem-ir/",
-      "time": "2026-08-14T08:03:00Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/IBOV-X-SP500-X-NASDAQ-AGOSTO.png?fit=300%2C137&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Por que o Ibovespa cai enquanto Wall Street bate recordes? 5 fatores explicam",
-      "summary": "Eleição e fiscal elevam o prêmio de risco no Brasil, enquanto inflação mais comportada, lucros e inteligência artificial sustentam SP 500 e Nasdaq",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/por-que-o-ibovespa-cai-enquanto-wall-street-bate-recordes-5-fatores-explicam/",
-      "time": "2026-08-14T08:01:00Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/NY-vs-IBOV.png?fit=300%2C169&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Jennifer Garner criou empresa de US$ 732 milhões aos 45 e vê vantagem na idade",
-      "summary": "Atriz afirma que a experiência acumulada ao longo da carreira em Hollywood ajudou na transição para o empreendedorismo e defende que iniciar um negócio mais tarde pode trazer vantagens",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/business/global/jennifer-garner-criou-empresa-de-us-732-milhoes-aos-45-e-ve-vantagem-na-idade/",
-      "time": "2026-08-14T08:00:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/JENNIFER-GARNER-COFOUNDED-A-732-MILLION-BUSINESS-AT-45-AND-SAYS-HER-AGE-CAME-WITH-PERKS-IM-BLISSFULLY-NOT-MOTIVATED-BY-NEEDING-TO-BE-IN-CHARGE.jpg?fit=300%2C214&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "“Juros vão cair”: gigantes estrangeiros rejeitam pessimismo com Brasil",
-      "summary": "Morgan Stanley, Fidelity e HSBC defendem posições em ativos brasileiros - mas não na Bolsa: eles apostam em renda fixa",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/onde-investir/juros-vao-cair-gigantes-estrangeiros-rejeitam-pessimismo-com-brasil/",
-      "time": "2026-08-14T08:00:00Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/sede-morgan-stanley-em-ny.jpg?fit=300%2C198&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Zema diz que usará GLO contra crime organizado em ação conjunta com estados",
-      "summary": "Candidato do Novo prevê emprego das Forças Armadas para retomar territórios de facções e defende classificar organizações criminosas como terroristas",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/zema-diz-que-usara-glo-contra-crime-organizado-em-acao-conjunta-com-estados/",
-      "time": "2026-08-14T01:02:05Z",
-      "cat": "acoes",
-      "tickers": [],
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/romeu-zema-politico-novo01.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
-    },
-    {
-      "title": "Petróleo sobe após EUA ameaçarem bloqueio indefinido ao Irã",
-      "summary": "Os preços do petróleo sobem nesta sexta-feira (14) depois que os Estados Unidos ameaçaram impor um bloqueio naval indefinido ao Irã, reacendendo as preocupações com o fornecimento de petróleo bruto após a queda na sessão",
+      "title": "CPFL (CPFE3) tem crescimento de 21,3% no lucro líquido do 2º trimestre, para R$ 1,4 bilhões",
+      "summary": "A CPFL Energia (CPFE3) registrou lucro líquido consolidado de R$ 1,438 bilhão no segundo trimestre deste ano, alta de 21,3% em relação ao R$ 1,186 bilhão anotado no mesmo período do ano passado. De abril a junho, a recei",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/petroleo-sobe-apos-eua-ameacarem-bloqueio-indefinido-ao-ira-fets/",
-      "time": "2026-08-14T07:50:13Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2026/06/2026-06-25t200908z-1-lynxmpem5o1mg-rtroptp-4-global-oil-exports-scaled.jpg"
+      "url": "https://www.moneytimes.com.br/cpfl-cpfe3-tem-crescimento-de-213-no-lucro-liquido-do-2o-trimestre-para-r-14-bilhoes-fets/",
+      "time": "2026-08-14T09:17:00Z",
+      "cat": "acoes",
+      "tickers": [
+        "CPFE3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2023/10/cpfl-energia-min.jpg"
     },
     {
-      "title": "OranjeBTC (OBTC3) reduz prejuízo gerencial e melhora métricas de Bitcoin Treasury no 2T26",
-      "summary": "A OranjeBTC (B3: OBTC3/NYSE: ORNJY), a maior Bitcoin Treasury do Brasil e da América Latina, anunciou nesta sexta-feira (14) os resultados referentes ao segundo trimestre de 2026 (2T26). O documento de resultados mostrou",
+      "title": "Renan Santos quer criar reserva em bitcoin e ter o Rio de Janeiro como cidade ‘cripto friendly’",
+      "summary": "O candidato do Missão à Presidência da República, Renan Santos, afirmou nesta quinta-feira (13) que, caso eleito, pretende criar uma reserva de bitcoin no Brasil e transformar a cidade do Rio de Janeiro em uma cidade cri",
       "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/oranjebtc-obtc3-reduz-prejuizo-gerencial-e-melhora-metricas-de-bitcoin-treasury-no-2t26-rens/",
-      "time": "2026-08-14T03:01:00Z",
+      "url": "https://www.moneytimes.com.br/renan-santos-quer-criar-reserva-em-bitcoin-e-ter-o-rio-de-janeiro-como-cidade-cripto-friendly-fets/",
+      "time": "2026-08-14T08:58:00Z",
       "cat": "cripto",
       "tickers": [
         "BTC"
       ],
-      "image": "https://www.moneytimes.com.br/uploads/2026/06/logo-oranjebtc-obtc3-imagem-montagem-money-times.png"
-    },
+      "image": "https://www.moneytimes.com.br/uploads/2026/08/renan-santos-sabatina-1-e1785853887153.png"
+    }
+  ],
+  "all": [
     {
-      "title": "Bom pra cachorro: Petz Cobasi (AUAU3) vê lucro líquido ajustado crescer para R$ 70,3 milhões no 2T26",
-      "summary": "O Grupo Petz Cobasi (AUAU3) registrou lucro líquido ajustado de R$ 70,3 milhões no segundo trimestre de 2026 (2T26), crescimento de 8,4% ante igual período do ano anterior. Sem ajustes, o lucro líquido alcançou R$ 100,4 ",
-      "source": "Money Times",
-      "url": "https://www.moneytimes.com.br/bom-pra-cachorro-petz-cobasi-auau3-ve-lucro-liquido-ajustado-crescer-para-r-703-milhoes-no-2t26-rens/",
-      "time": "2026-08-13T22:34:55Z",
+      "title": "Cemig registra lucro de R$ 945,44 milhões no 2tri26, queda de 20,44% ante 2tri25",
+      "summary": "A receita líquida somou a R$ 11,5 bilhões entre abril e junho deste ano, montante 3,43% maior menor frente ao reportado em igual etapa do ano passado.",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/cemig-cmig4-resultados-segundo-trimestre-2026/",
+      "time": "2026-08-14T09:58:44Z",
       "cat": "acoes",
       "tickers": [],
-      "image": "https://www.moneytimes.com.br/uploads/2024/08/petz-cobasi.jpg"
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2023/03/UHE-Tres-Marias-Divulgacao-Cemig.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Light (LIGT3) tem prejuízo líquido de R$ 252 milhões no 2T, alta anual de 390,2%",
+      "summary": "A receita líquida, por sua vez, atingiu R$ 3,796 bilhões, alta de 9,8% na comparação anual",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/light-ligt3-resultados-segundo-trimestre-2026/",
+      "time": "2026-08-14T09:56:27Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2023/05/Anotacao-2023-05-18-140351.jpg?fit=300%2C147&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Processo de reciprocidade marca mais um capítulo negativo da relação Lula x Trump",
+      "summary": "Ao longo de um ano e meio de convivência como presidentes, os dois acumularam choques, intercalados por alguns momentos de demonstração de simpatia e aproximação.",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/economia/processo-de-reciprocidade-marca-mais-um-capitulo-negativo-da-relacao-lula-x-trump/",
+      "time": "2026-08-14T09:38:42Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/trump-lula-malasia-brasil-eua.jpg?fit=300%2C197&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Vance: EUA pressionam Irã e utilizam meios diplomáticos para estabilizar petróleo",
+      "summary": "Vance afirmou estar confiante de que o confronto terminará com os Estados Unidos \"em uma posição mais forte\"",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mundo/vance-eua-pressionam-ira-e-utilizam-meios-diplomaticos-para-estabilizar-petroleo/",
+      "time": "2026-08-14T09:32:46Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-18T162317Z_1_LYNXMPEM5H1BI_RTROPTP_4_USA-TRUMP.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Varejo nos EUA, PIB na Europa, desemprego no Brasil e mais destaques nesta sexta",
+      "summary": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta sexta-feira (14)",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/varejo-eua-pib-europa-desemprego-brasil-14082026/",
+      "time": "2026-08-14T09:12:34Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/jacek-dylag-jo8C9bt3uo8-unsplash.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "S&P 500 e Nasdaq Futuro caminham para 3ª alta semanal; Dow Jones fica para trás",
+      "summary": "Dados de inflação mais brandos nos EUA reduzem apostas em alta de juros do Fed e favorecem ações de tecnologia",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/sp-500-e-nasdaq-futuro-caminham-para-3a-alta-semanal-dow-jones-fica-para-tras/",
+      "time": "2026-08-14T08:46:20Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/2025-07-30T145953Z_455007556_RC21XFA9HG18_RTRMADP_3_USA-STOCKS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Ibovespa em baixa, S&P 500 e Nasdaq em alta: até onde os índices podem ir?",
+      "summary": "Gráficos semanais mostram pressão crescente sobre o índice brasileiro, enquanto SP 500 e Nasdaq preservam tendências de alta",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-em-baixa-sp-500-e-nasdaq-em-alta-ate-onde-os-indices-podem-ir/",
+      "time": "2026-08-14T08:03:00Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/IBOV-X-SP500-X-NASDAQ-AGOSTO.png?fit=300%2C137&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Prejuízo da Light (LIGT3) aumenta 390% e fecha 2º trimestre em R$ 252 milhões",
+      "summary": "A Light (LIGT3), distribuidora do Rio de Janeiro, registrou prejuízo líquido de R$ 252 milhões no segundo trimestre deste ano, 390,2% acima do prejuízo de R$ 51 milhões visto no mesmo trimestre do ano passado. Consideran",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/prejuizo-da-light-ligt3-aumenta-390-e-fecha-2o-trimestre-em-r-252-milhoes-fets/",
+      "time": "2026-08-14T09:52:00Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2023/02/moodys-reafirma-rating-da-light-ligt3-em-ba3.jpg"
+    },
+    {
+      "title": "Cemig (CMIG4) registra lucro líquido de R$ 945,44 milhões no 2º trimestre, queda de 20,44%",
+      "summary": "A Cemig (CMIG4) registrou lucro líquido de R$ 945,44 milhões no segundo trimestre de 2026, queda de 20,44% ante igual etapa de 2025. A receita líquida somou a R$ 11,5 bilhões entre abril e junho deste ano, montante 3,43%",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/cemig-cmig4-registra-lucro-liquido-de-r-94544-milhoes-no-2o-trimestre-queda-de-2044-fets/",
+      "time": "2026-08-14T09:41:00Z",
+      "cat": "acoes",
+      "tickers": [
+        "CMIG4"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2024/12/cemig-3.jpg"
+    },
+    {
+      "title": "Agenda econômica: PIB da Zona do Euro e vendas no varejo dos EUA são destaques desta sexta-feira (14); confira os horários",
+      "summary": "A agenda econômica desta sexta-feira (14) traz como destaques indicadores importantes da atividade econômica na Europa e nos Estados Unidos (EUA). Às 6h, a Zona do Euro divulga os dados do Produto Interno Bruto (PIB) e d",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/agenda-economica-pib-da-zona-do-euro-e-vendas-no-varejo-dos-eua-sao-destaques-desta-quinta-feira-13-confira-os-horarios-jvka/",
+      "time": "2026-08-14T09:31:00Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/05/varejo-eua.jpg"
+    },
+    {
+      "title": "JHSF (JHSF3) tem lucro recorde de R$ 444 milhões no 2º trimestre, alta de 81%",
+      "summary": "A JHSF (JHSF3) dona do Shopping Cidade Jardim, hotéis e restaurantes Fasano, loteamento Fazenda Boa Vista e outros negócios de luxo reportou resultados recordes no seu balanço. O grupo obteve lucro líquido consolidado de",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/jhsf-jhsf3-tem-lucro-recorde-de-r-444-milhoes-no-2o-trimestre-alta-de-81-fets/",
+      "time": "2026-08-14T09:29:00Z",
+      "cat": "acoes",
+      "tickers": [
+        "JHSF3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2024/10/jhsf-1.jpg"
+    },
+    {
+      "title": "CPFL (CPFE3) tem crescimento de 21,3% no lucro líquido do 2º trimestre, para R$ 1,4 bilhões",
+      "summary": "A CPFL Energia (CPFE3) registrou lucro líquido consolidado de R$ 1,438 bilhão no segundo trimestre deste ano, alta de 21,3% em relação ao R$ 1,186 bilhão anotado no mesmo período do ano passado. De abril a junho, a recei",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/cpfl-cpfe3-tem-crescimento-de-213-no-lucro-liquido-do-2o-trimestre-para-r-14-bilhoes-fets/",
+      "time": "2026-08-14T09:17:00Z",
+      "cat": "acoes",
+      "tickers": [
+        "CPFE3"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2023/10/cpfl-energia-min.jpg"
+    },
+    {
+      "title": "Bolsas da Ásia fecham sem direção única; Kospi e Nikkei sobem com tecnologia",
+      "summary": "As bolsas asiáticas fecharam sem direção única nesta sexta-feira (14), com ações de tecnologia na Coreia do Sul e no Japão acompanhando a alta do setor em Nova York na véspera. O índice sul-coreano Kospi avançou 2,42% em",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/bolsas-da-asia-fecham-sem-direcao-unica-kospi-e-nikkei-sobem-com-tecnologia-fets/",
+      "time": "2026-08-14T09:09:29Z",
+      "cat": "acoes",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2023/06/bolsas-asiaticas-fecham.jpg"
+    },
+    {
+      "title": "Tempo real: Ibovespa fecha semana de olho no PIB da zona do euro e varejo dos EUA",
+      "summary": "Resumo: O Ibovespa (IBOV) encerra a semana acompanhando a divulgação do PIB e da balança comercial da zona do euro, além dos dados de vendas no varejo dos Estados Unidos. Destaques: Confira os principais temas do Ibovesp",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/tempo-real-ibovespa-hoje-mercado-ao-vivo-14-08-2026-jals-lils-apsa/",
+      "time": "2026-08-14T09:00:00Z",
+      "cat": "economia",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2026/07/ibovespa-acoes.png"
+    },
+    {
+      "title": "Renan Santos quer criar reserva em bitcoin e ter o Rio de Janeiro como cidade ‘cripto friendly’",
+      "summary": "O candidato do Missão à Presidência da República, Renan Santos, afirmou nesta quinta-feira (13) que, caso eleito, pretende criar uma reserva de bitcoin no Brasil e transformar a cidade do Rio de Janeiro em uma cidade cri",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/renan-santos-quer-criar-reserva-em-bitcoin-e-ter-o-rio-de-janeiro-como-cidade-cripto-friendly-fets/",
+      "time": "2026-08-14T08:58:00Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC"
+      ],
+      "image": "https://www.moneytimes.com.br/uploads/2026/08/renan-santos-sabatina-1-e1785853887153.png"
+    },
+    {
+      "title": "Governo Trump promete respeitar resultado de eleição no Brasil desde que ‘livre e justa’",
+      "summary": "Acusado de tentar uma interferência nas eleições presidenciais do Brasil pelo governo Luiz Inácio Lula da Silva, o Departamento de Estado dos Estados Unidos negou que tenha como objetivo interferir na disputa e indicou q",
+      "source": "Money Times",
+      "url": "https://www.moneytimes.com.br/governo-trump-promete-respeitar-resultado-de-eleicao-no-brasil-desde-que-livre-e-justa-fets/",
+      "time": "2026-08-14T08:46:00Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://www.moneytimes.com.br/uploads/2025/10/brasil-eua-.jpg"
     },
     {
       "title": "SNEL11: Brasil lidera buscas por energia solar residencial; o que isso sinaliza para o fundo",
@@ -199,135 +291,135 @@
       "image": "http://files.sunoresearch.com.br/n/uploads/2026/02/kathyb-photos-sugar-4982660_1920-jpg.webp"
     },
     {
-      "title": "'Nova' Americanas aposta em eficiência para se reconstruir, mas balanço aponta novo prejuízo",
-      "summary": "Analistas veem acerto na estratégia da companhia, mas apontam que o desafio agora é fazer a operação melhorar mais rápido que o custo da dívida",
+      "title": "Quanto eu teria hoje se tivesse investido R$ 10 mil em ações do Mercado Livre há 5 anos",
+      "summary": "A ação da varejista argentina listada nos EUA teve retorno negativo no período recente, mas acumula alta relevante em prazos maiores",
       "source": "Exame",
-      "url": "https://exame.com/invest/mercados/nova-americanas-aposta-em-eficiencia-para-se-reconstruir-mas-balanco-aponta-novo-prejuizo/",
-      "time": "2026-08-14T05:04:32Z",
+      "url": "https://exame.com/invest/mercados/quanto-eu-teria-hoje-se-tivesse-investido-r-10-mil-em-acoes-do-mercado-livre-ha-5-anos/",
+      "time": "2026-08-14T06:03:15Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2022/05/Americanas-Foto-2021-Credito-Divulgacao-2.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2025/05/INI1026.jpg"
     },
     {
-      "title": "Alucinação em cascata: o que acontece quando um erro da IA vira base para o próximo e como resolver",
-      "summary": "Uma informação incorreta pode passar despercebida na primeira resposta e influenciar todas as seguintes. Entenda por que isso acontece e quais comandos ajudam a interromper o ciclo",
+      "title": "'Nações Desunidas': por que o próximo líder da ONU herdará entidade fragmentada",
+      "summary": "Em meio à perda de influência, conflitos internos e crises de relevância, a ONU vive o que pode ser seu pior momento desde a Guerra Fria",
       "source": "Exame",
-      "url": "https://exame.com/inteligencia-artificial/alucinacao-em-cascata-o-que-acontece-quando-um-erro-da-ia-vira-base-para-o-proximo-e-como-resolver/",
-      "time": "2026-08-14T05:02:51Z",
+      "url": "https://exame.com/mundo/nacoes-desunidas-proximo-lider-da-onu-herdara-entidade-fragmentada/",
+      "time": "2026-08-14T06:00:58Z",
       "cat": "economia",
       "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2025/10/Aplicacoes-de-inteligencia-artificial-personalizada-foram-chave-no-processo-desenhado-pela-CIT.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2024/10/000_36L49KT.jpg"
     },
     {
-      "title": "Cientistas criam 'arco-íris de som' mais completo da história em chip de silício",
-      "summary": "Dispositivos inovadores conseguem separar e aprisionar ondas sonoras por frequência, abrindo caminho para novas tecnologias de sensores e energia",
+      "title": "Europa tenta frear chinesas, mas elas podem chegar a 30% do mercado",
+      "summary": "Analistas do grupo Citi fazem previsão em novo levantamento, e os números não parecem bons para marcas europeias",
       "source": "Exame",
-      "url": "https://exame.com/ciencia/cientistas-criam-arco-iris-de-som-mais-completo-da-historia-em-chip-de-silicio/",
-      "time": "2026-08-13T20:51:45Z",
-      "cat": "economia",
-      "tickers": [],
-      "image": "https://classic.exame.com/wp-content/uploads/2026/08/arco-iris-sonoro.jpg"
-    },
-    {
-      "title": "Por que as ações da CK Asset estão caindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-ck-asset-estao-caindo-hoje-93CH-2039220",
-      "time": "2026-08-14T08:03:53Z",
+      "url": "https://exame.com/mundo/ate-2035-carros-chineses-podem-ocupar-de-15-a-30-do-mercado-europeu/",
+      "time": "2026-08-14T06:00:54Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_S.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2025/03/BYD_Dolphin_White_DCW52001.jpg"
     },
     {
-      "title": "Ações da Valneva disparam ao maior nível desde maio após validação da EMA",
+      "title": "Barclays rebaixa Polypeptide após rali no 1º semestre e oferta da Samsung",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-valneva-disparam-ao-maior-nivel-desde-maio-apos-validacao-da-ema-2039219",
-      "time": "2026-08-14T08:02:05Z",
+      "url": "https://br.investing.com/news/stock-market-news/barclays-rebaixa-polypeptide-apos-rali-no-1o-semestre-e-oferta-da-samsung-2039293",
+      "time": "2026-08-14T09:25:19Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXMPEB230DM_M.jpg"
+      "image": "https://content-media.investing.com/news/Samsung_M_1440049589.jpg"
     },
     {
-      "title": "Ações de software europeias disparam com rumores de aquisição da Workday pela Silver Lake",
+      "title": "Por que as ações da HelloFresh estão caindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-de-software-europeias-disparam-com-rumores-de-aquisicao-da-workday-pela-silver-lake-2039223",
-      "time": "2026-08-14T08:00:03Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXMPEA8I09H_M.jpg"
-    },
-    {
-      "title": "Por que as ações da CK Hutchison estão caindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-ck-hutchison-estao-caindo-hoje-93CH-2039215",
-      "time": "2026-08-14T07:55:46Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-hellofresh-estao-caindo-hoje-93CH-2039286",
+      "time": "2026-08-14T09:15:57Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg"
     },
     {
-      "title": "Tivoli registra crescimento de 6% na receita no primeiro semestre de 2026",
+      "title": "Por que as ações da SanDisk estão em alta hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/tivoli-registra-crescimento-de-6-na-receita-no-primeiro-semestre-de-2026-93CH-2039214",
-      "time": "2026-08-14T07:53:23Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-sandisk-estao-em-alta-hoje-93CH-2039278",
+      "time": "2026-08-14T09:09:39Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg"
+      "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
     },
     {
-      "title": "Por que as ações da Valneva estão disparando hoje?",
+      "title": "Por que as ações da PSK Holdings estão subindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-valneva-estao-disparando-hoje-93CH-2039211",
-      "time": "2026-08-14T07:48:00Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-psk-holdings-estao-subindo-hoje-93CH-2039277",
+      "time": "2026-08-14T09:08:05Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg"
+      "image": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg"
     },
     {
-      "title": "Por que as ações da Adesso estão subindo hoje?",
+      "title": "HelloFresh cai 5% após Barclays rebaixar recomendação por preocupações com receita",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-adesso-estao-subindo-hoje-93CH-2039208",
-      "time": "2026-08-14T07:46:39Z",
-      "cat": "internacional",
+      "url": "https://br.investing.com/news/stock-market-news/hellofresh-cai-5-apos-barclays-rebaixar-recomendacao-por-preocupacoes-com-receita-2039272",
+      "time": "2026-08-14T08:59:25Z",
+      "cat": "analise",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg"
+      "image": "https://content-media.investing.com/news/LYNXNPEB65083_M.jpg"
     },
     {
-      "title": "Por que as ações da Schouw & Co. estão disparando hoje?",
+      "title": "Por que as ações da Birkenstock estão caindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-schouw--co-estao-disparando-hoje-93CH-2039204",
-      "time": "2026-08-14T07:44:11Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-birkenstock-estao-caindo-hoje-93CH-2039269",
+      "time": "2026-08-14T08:59:12Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg"
+      "image": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg"
     },
     {
-      "title": "Por que as ações da STRATEC Biomedical estão disparando hoje?",
+      "title": "Por que as ações da Swarmer estão caindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-stratec-biomedical-estao-disparando-hoje-93CH-2039203",
-      "time": "2026-08-14T07:42:17Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-swarmer-estao-caindo-hoje-93CH-2039262",
+      "time": "2026-08-14T08:49:35Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg"
+      "image": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg"
     },
     {
-      "title": "Por que as ações da Talanx estão subindo hoje?",
+      "title": "Por que as ações da Globant estão despencando hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-talanx-estao-subindo-hoje-93CH-2039201",
-      "time": "2026-08-14T07:41:34Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-globant-estao-despencando-hoje-93CH-2039259",
+      "time": "2026-08-14T08:47:26Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg"
+      "image": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg"
+    },
+    {
+      "title": "Ações da Fox disparam após upgrade do JPMorgan e resultados sólidos",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-fox-disparam-apos-upgrade-do-jpmorgan-e-resultados-solidos-93CH-2039257",
+      "time": "2026-08-14T08:45:36Z",
+      "cat": "analise",
+      "tickers": [],
+      "image": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg"
+    },
+    {
+      "title": "Por que as ações do Reddit estão disparando hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-do-reddit-estao-disparando-hoje-93CH-2039255",
+      "time": "2026-08-14T08:44:27Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
     }
   ],
-  "atualizado_em": "14/08/2026 08:14"
+  "atualizado_em": "14/08/2026 10:00"
 }
