@@ -13,16 +13,6 @@
   },
   "featured": [
     {
-      "title": "Ações da SMIC disparam após resultados recordes no 2º tri",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-smic-disparam-apos-resultados-recordes-no-2o-tri-93CH-2039041",
-      "time": "2026-08-14T01:59:39Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg"
-    },
-    {
       "title": "Renan Santos propõe criar reserva de bitcoin e tornar Rio ‘cripto friendly’",
       "summary": "Candidato do Missão diz que Brasil pode ser um centro global da economia cripto e defende menos regulação para o setor",
       "source": "InfoMoney",
@@ -33,6 +23,16 @@
         "BTC"
       ],
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/renan-santos-convencao-missao.jpg?fit=300%2C173&amp;quality=70&amp;strip=all"
+    },
+    {
+      "title": "Por que as ações da China Gold International Resources estão disparando hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-china-gold-international-resources-estao-disparando-hoje-93CH-2039111",
+      "time": "2026-08-14T05:28:26Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://content-media.investing.com/news/gold_2_M_1440047838.jpg"
     }
   ],
   "all": [
@@ -253,75 +253,65 @@
       "image": "https://classic.exame.com/wp-content/uploads/2026/08/arco-iris-sonoro.jpg"
     },
     {
-      "title": "Ações da SMIC disparam após resultados sólidos no 2º tri",
+      "title": "Por que as ações da China Gold International Resources estão disparando hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-smic-disparam-apos-resultados-solidos-no-2o-tri-2039076",
-      "time": "2026-08-14T03:35:48Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-china-gold-international-resources-estao-disparando-hoje-93CH-2039111",
+      "time": "2026-08-14T05:28:26Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXMPEB1Q06W_M.jpg"
+      "image": "https://content-media.investing.com/news/gold_2_M_1440047838.jpg"
     },
     {
-      "title": "Por que as ações da Alibaba estão caindo hoje?",
+      "title": "Por que as ações da Samsonite estão caindo hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-alibaba-estao-caindo-hoje-93CH-2039064",
-      "time": "2026-08-14T03:11:35Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-samsonite-estao-caindo-hoje-93CH-2039110",
+      "time": "2026-08-14T05:26:25Z",
       "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEAAA04Q_M.jpg"
+      "image": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg"
     },
     {
-      "title": "Por que as ações de JD.com em Hong Kong caem hoje?",
+      "title": "Por que as ações de GDS Holdings em Hong Kong estão disparando hoje?",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-de-jdcom-em-hong-kong-caem-hoje-93CH-2039049",
-      "time": "2026-08-14T02:14:44Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg"
-    },
-    {
-      "title": "Por que as ações da QBE Insurance estão caindo hoje?",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-qbe-insurance-estao-caindo-hoje-93CH-2039047",
-      "time": "2026-08-14T02:10:29Z",
-      "cat": "internacional",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg"
-    },
-    {
-      "title": "Intuitive Machines: Stifel eleva recomendação para \"compra\" com alta no backlog",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/intuitive-machines-stifel-eleva-recomendacao-para-compra-com-alta-no-backlog-2039048",
-      "time": "2026-08-14T02:08:25Z",
-      "cat": "analise",
-      "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
-    },
-    {
-      "title": "Ações da SMIC disparam após resultados recordes no 2º tri",
-      "summary": "",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-smic-disparam-apos-resultados-recordes-no-2o-tri-93CH-2039041",
-      "time": "2026-08-14T01:59:39Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-de-gds-holdings-em-hong-kong-estao-disparando-hoje-93CH-2039109",
+      "time": "2026-08-14T05:26:04Z",
       "cat": "internacional",
       "tickers": [],
       "image": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg"
     },
     {
-      "title": "Baby Bunting registra aumento de 33,9% no lucro do ano fiscal de 2026",
+      "title": "JP Morgan encerrou relação bancária com Polymarket por temores regulatórios",
       "summary": "",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/baby-bunting-registra-aumento-de-339-no-lucro-do-ano-fiscal-de-2026-93CH-2039038",
-      "time": "2026-08-14T01:51:24Z",
-      "cat": "economia",
+      "url": "https://br.investing.com/news/stock-market-news/jp-morgan-encerrou-relacao-bancaria-com-polymarket-por-temores-regulatorios-2039096",
+      "time": "2026-08-14T04:38:51Z",
+      "cat": "internacional",
       "tickers": [],
-      "image": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg"
+      "image": "https://content-media.investing.com/news/LYNXMPEB1Q06W_M.jpg"
+    },
+    {
+      "title": "Por que as ações da Nintendo estão disparando hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-nintendo-estao-disparando-hoje-93CH-2039086",
+      "time": "2026-08-14T04:07:36Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg"
+    },
+    {
+      "title": "Por que as ações da LG estão subindo hoje?",
+      "summary": "",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-lg-estao-subindo-hoje-93CH-2039082",
+      "time": "2026-08-14T03:53:04Z",
+      "cat": "internacional",
+      "tickers": [],
+      "image": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg"
     }
   ],
-  "atualizado_em": "14/08/2026 04:07"
+  "atualizado_em": "14/08/2026 06:12"
 }
