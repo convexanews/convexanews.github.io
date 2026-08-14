@@ -265,6 +265,13 @@ RSS_FEEDS = [
     {'url': 'https://br.investing.com/rss/news_25.rss', 'source': 'Investing.com', 'default_cat': 'internacional'},
 ]
 
+PALAVRAS_EXCLUSAO = [
+    'netflix', 'big brother', 'bbb', 'loteria', 'mega-sena', 'mega sena',
+    'futebol', 'copa do mundo', 'eliminatórias', 'libertadores',
+    'campeonato brasileiro', 'série a', 'série b', 'nba', 'fórmula 1',
+    'oscar', 'grammy', 'reality show', 'big fone', 'paredão',
+]
+
 PALAVRAS_CATEGORIA = {
     'fundos': ['fii', 'fundo imobiliário', 'fundo imobiliario', 'dividendo', 'dy ', 'cota', 'ifix', 'tijolo', 'papel cri', 'lci', 'lca', 'cri ', 'cra '],
     'cripto': ['bitcoin', 'btc', 'ethereum', 'eth', 'cripto', 'crypto', 'blockchain', 'solana', 'xrp', 'cardano', 'binance', 'altcoin'],
@@ -289,8 +296,11 @@ PALAVRAS_FINANCEIRAS = [
 ]
 
 def eh_noticia_financeira(title):
-    tl = title.lower()
-    return any(p in tl for p in PALAVRAS_FINANCEIRAS)
+    texto_lower = title.lower()
+    for palavra in PALAVRAS_EXCLUSAO:
+        if palavra in texto_lower:
+            return False
+    return any(p in texto_lower for p in PALAVRAS_FINANCEIRAS)
 
 # Tickers conhecidos (para vincular notícia <-> ativo)
 TICKERS_CONHECIDOS = set(ATIVOS_BR) | set(FIIS) | set(ETFS)
@@ -386,7 +396,7 @@ def extrair_imagem(entry, summary_raw):
             return url
     return None
 
-def limpar_html(texto):
+def limpar_html(texto, titulo=''):
     if not texto: return ''
     texto = re.sub(r'<[^>]+>', '', texto)
     texto = re.sub(r'The post .{0,120} appeared first on .+?\.?$', '', texto, flags=re.IGNORECASE)
@@ -394,8 +404,13 @@ def limpar_html(texto):
     texto = re.sub(r'&amp;', '&', texto)
     texto = re.sub(r'&lt;', '<', texto)
     texto = re.sub(r'&gt;', '>', texto)
-    texto = re.sub(r'\s+', ' ', texto).strip()
-    return texto[:220]
+    resultado = re.sub(r'\s+', ' ', texto).strip()
+    if titulo and resultado.lower().startswith(titulo.lower()):
+        resultado = resultado[len(titulo):].lstrip(' -–—:.|')
+    if len(resultado) > 300:
+        cut = resultado.rfind('. ', 0, 300)
+        resultado = resultado[:cut + 1] if cut > 100 else resultado[:300] + '…'
+    return resultado
 
 def buscar_og_image(url):
     """Busca og:image da página da notícia como fallback quando o feed não traz imagem."""
@@ -431,7 +446,7 @@ def coletar_noticias():
                     continue
                 url = entry.get('link', '')
                 summary_raw = entry.get('summary', entry.get('description', ''))
-                summary = limpar_html(summary_raw)
+                summary = limpar_html(summary_raw, title)
                 published = entry.get('published_parsed', entry.get('updated_parsed'))
                 cat = classificar_noticia(title, feed_info['default_cat'])
                 pub_iso = publicacao_iso(published) if published else datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
@@ -890,15 +905,54 @@ if noticias_raw:
     com_img = sum(1 for n in ordenadas if n.get('image'))
     print(f"  {com_img}/{len(ordenadas)} notícias com imagem")
 
+    headline = ordenadas[0]
+    featured = ordenadas[1:3]
+
+    # Deduplicate: remove featured/headline URLs from all news
+    featured_urls = set()
+    if headline.get('url'):
+        featured_urls.add(headline['url'])
+    for f in featured:
+        if f.get('url'):
+            featured_urls.add(f['url'])
+    all_deduped = [n for n in noticias_raw if n.get('url') not in featured_urls]
+
     noticias_json = {
-        'headline': ordenadas[0],
-        'featured': ordenadas[1:3],
-        'all': noticias_raw,
+        'headline': headline,
+        'featured': featured,
+        'all': all_deduped,
         'atualizado_em': datetime.now().strftime('%d/%m/%Y %H:%M'),
     }
     with open('noticias.json', 'w', encoding='utf-8') as f:
         json.dump(noticias_json, f, ensure_ascii=False, indent=2)
-    print(f"noticias.json salvo — {len(noticias_raw)} noticias")
+    print(f"noticias.json salvo — {len(all_deduped)} noticias")
+
+    # Generate RSS feed
+    rss_items = []
+    top_news = (ordenadas[:20] if len(ordenadas) >= 20 else ordenadas)
+    for n in top_news:
+        rss_items.append(f'''  <item>
+    <title><![CDATA[{n.get('title','')}]]></title>
+    <link>{n.get('url','')}</link>
+    <description><![CDATA[{n.get('summary','')}]]></description>
+    <pubDate>{n.get('time','')}</pubDate>
+    <source>{n.get('source','')}</source>
+  </item>''')
+
+    rss = f'''<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Bom Dia Investidor — Notícias</title>
+  <link>https://bomdiainvestidor.com.br/</link>
+  <description>Notícias do mercado financeiro brasileiro</description>
+  <language>pt-BR</language>
+{''.join(rss_items)}
+</channel>
+</rss>'''
+
+    with open('feed.xml', 'w', encoding='utf-8') as f:
+        f.write(rss)
+    print("feed.xml gerado")
 else:
     print("Nenhuma noticia coletada.")
 

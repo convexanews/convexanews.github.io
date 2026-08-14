@@ -11,6 +11,8 @@ const state = {
   fiiData: {},
 };
 
+let newsShowCount = 12;
+
 const VALID_PAGES = ['noticias', 'acoes', 'fiis', 'etfs', 'internacional', 'cripto', 'indicadores', 'analises', 'artigos', 'artigo-detalhe'];
 
 // ===== SEGURANÇA: escape de conteúdo vindo de feeds externos =====
@@ -24,13 +26,13 @@ function safeUrl(u) {
 }
 function newsImg(n) {
   const url = safeUrl(n.image);
-  return url || `./img/cat-${esc(n.cat || 'geral')}.jpg`;
+  return url || `./img/cat-${esc(n.cat || 'geral')}.svg`;
 }
 // Se a imagem externa falhar (hotlink bloqueado, link morto), troca pela
 // imagem da categoria em vez de mostrar o ícone de imagem quebrada.
 function newsImgErr(img, cat) {
   img.onerror = null;
-  img.src = `./img/cat-${esc(cat || 'geral')}.jpg`;
+  img.src = `./img/cat-${esc(cat || 'geral')}.svg`;
 }
 
 // ===== FAVORITOS =====
@@ -140,7 +142,9 @@ function tempoRelativo(isoOrText) {
     if (mins < 60) return `${mins} min`;
     const hrs = Math.floor(mins / 60);
     if (hrs < 24) return `${hrs}h`;
-    return `${Math.floor(hrs / 24)}d`;
+    const d = pub;
+    const meses = ['jan','fev','mar','abr','mai','jun','jul','ago','set','out','nov','dez'];
+    return d.getDate() + '/' + meses[d.getMonth()] + ' ' + String(d.getHours()).padStart(2,'0') + ':' + String(d.getMinutes()).padStart(2,'0');
   } catch { return isoOrText; }
 }
 
@@ -187,11 +191,13 @@ window.addEventListener('hashchange', () => {
 
 // ===== RELÓGIO / STATUS DO MERCADO =====
 function updateClock() {
-  const now = new Date();
-  document.getElementById('tickerClock').textContent =
-    now.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' });
-  const h = now.getUTCHours() - 3;
-  const isOpen = h >= 10 && h < 17 && now.getUTCDay() > 0 && now.getUTCDay() < 6;
+  const fmt = new Intl.DateTimeFormat('pt-BR', { hour: '2-digit', minute: '2-digit', timeZone: 'America/Sao_Paulo' });
+  document.getElementById('tickerClock').textContent = fmt.format(new Date());
+  const hFmt = new Intl.DateTimeFormat('en-US', { hour: 'numeric', hour12: false, timeZone: 'America/Sao_Paulo' });
+  const dFmt = new Intl.DateTimeFormat('en-US', { weekday: 'short', timeZone: 'America/Sao_Paulo' });
+  const h = parseInt(hFmt.format(new Date()), 10);
+  const day = dFmt.format(new Date());
+  const isOpen = h >= 10 && h < 17 && !['Sat','Sun'].includes(day);
   document.getElementById('marketStatus').textContent = isOpen ? 'Aberto' : 'Fechado';
 }
 setInterval(updateClock, 1000);
@@ -319,6 +325,36 @@ function tickerTagsHtml(tickers) {
   return (tickers || []).map(t => `<span class="ticker-tag">${esc(t)}</span>`).join('');
 }
 
+function cleanSummary(title, summary) {
+  if (!summary) return '';
+  let s = summary;
+  // Remove title from start of summary
+  if (title && s.toLowerCase().startsWith(title.toLowerCase())) {
+    s = s.slice(title.length).replace(/^[\s\-–—:.|]+/, '');
+  }
+  // Truncate at sentence boundary within 300 chars
+  if (s.length > 300) {
+    const cut = s.lastIndexOf('. ', 300);
+    s = cut > 100 ? s.slice(0, cut + 1) : s.slice(0, 300) + '…';
+  }
+  return s;
+}
+
+function isRelevantNews(n) {
+  const txt = ((n.title || '') + ' ' + (n.summary || '')).toLowerCase();
+  const block = ['netflix','big brother','bbb','loteria','mega-sena','futebol','copa do mundo','eliminatórias','libertadores','campeonato brasileiro','série a','série b','nba','fórmula 1','f1 ','oscar','grammy','reality show','big fone','paredão'];
+  return !block.some(w => txt.includes(w));
+}
+
+function corrigirCategoria(n) {
+  const txt = ((n.title || '') + ' ' + (n.summary || '')).toLowerCase();
+  const politica = ['governo','congresso','senado','câmara','deputado','senador','ministro','planalto','lula','bolsonaro','presidente da república','medida provisória','projeto de lei','reforma tributária','reforma administrativa','stf','supremo'];
+  if (n.category === 'acoes' && politica.some(w => txt.includes(w))) {
+    n.category = 'economia';
+  }
+  return n;
+}
+
 // Link interno da notícia (mantém o leitor no site em vez de mandar direto pro portal)
 function noticiaHash(n) {
   return n && n.url ? '#/noticia/' + encodeURIComponent(n.url) : '';
@@ -377,7 +413,7 @@ function renderNoticiaDetalhe(url) {
   const nUrl = safeUrl(n.url);
   const relacionadas = (NEWS_DATA.all || [])
     .filter(x => x.url && x.url !== n.url && x.cat === n.cat)
-    .slice(0, 4);
+    .slice(0, 6);
 
   el.innerHTML = `
     <div class="noticia-det-cat">${esc(catLabel)}</div>
@@ -387,7 +423,7 @@ function renderNoticiaDetalhe(url) {
       ${(n.tickers || []).length ? `<span>·</span>${tickerTagsHtml(n.tickers)}` : ''}
     </div>
     <img class="noticia-det-img" src="${newsImg(n)}" alt="" onerror="newsImgErr(this,'${esc(n.cat || 'geral')}')">
-    <p class="noticia-det-resumo">${esc(n.summary || '')}</p>
+    <p class="noticia-det-resumo">${esc(cleanSummary(n.title, n.summary))}</p>
     ${nUrl ? `<a class="noticia-det-fonte-btn" href="${nUrl}" target="_blank" rel="noopener">Ler matéria completa no ${esc(n.source)} ↗</a>` : ''}
     ${igCtaHtml()}
     ${relacionadas.length ? `
@@ -416,7 +452,7 @@ function renderNews() {
   heroTitle.innerHTML = h.url
     ? `<a class="hero-link" href="${noticiaHash(h)}">${esc(h.title)}</a>`
     : esc(h.title);
-  document.getElementById('heroSummary').textContent = h.summary || '';
+  document.getElementById('heroSummary').textContent = cleanSummary(h.title, h.summary);
 
   // SEO: dados estruturados da manchete (Google Notícias / rich results)
   let ld = document.getElementById('ldNews');
@@ -449,7 +485,7 @@ function renderNews() {
         ${f.exclusive ? '<span class="exclusive-badge">EXCLUSIVO</span>' : ''}
       </div>
       <div class="featured-title">${esc(f.title)}</div>
-      <div class="featured-summary">${esc(f.summary || '')}</div>
+      <div class="featured-summary">${esc(cleanSummary(f.title, f.summary))}</div>
       ${(f.tickers || []).length ? `<div class="featured-tickers">${tickerTagsHtml(f.tickers)}</div>` : ''}`;
     return `<div class="featured-card">${fUrl ? `<a href="${noticiaHash(f)}">${inner}</a>` : inner}</div>`;
   }).join('');
@@ -474,9 +510,29 @@ function filterNews(cat) {
 }
 
 function renderNewsList() {
+  // Deduplicate: remove featured/headline URLs from all news
+  const featuredUrls = new Set();
+  if (NEWS_DATA.headline && NEWS_DATA.headline.url) featuredUrls.add(NEWS_DATA.headline.url);
+  (NEWS_DATA.featured || []).forEach(f => { if (f.url) featuredUrls.add(f.url); });
+
+  let allNews = (NEWS_DATA.all || []).filter(n => !featuredUrls.has(n.url));
+  allNews = allNews.filter(isRelevantNews).map(corrigirCategoria);
+
   const items = state.newsCategory === 'todas'
-    ? NEWS_DATA.all
-    : NEWS_DATA.all.filter(n => n.cat === state.newsCategory);
+    ? allNews
+    : allNews.filter(n => n.cat === state.newsCategory);
+
+  // Stale data warning
+  const staleEl = document.getElementById('staleWarning');
+  if (staleEl) {
+    const newest = items.length ? Math.max(...items.map(n => new Date(n.time || 0).getTime())) : 0;
+    const ageMins = newest ? (Date.now() - newest) / 60000 : Infinity;
+    if (ageMins > 120) {
+      staleEl.innerHTML = '<div class="stale-warning">⚠️ Dados com mais de 2 horas. O coletor pode estar pausado.</div>';
+    } else {
+      staleEl.innerHTML = '';
+    }
+  }
 
   if (!items.length) {
     document.getElementById('newsGrid').innerHTML =
@@ -484,7 +540,9 @@ function renderNewsList() {
     return;
   }
 
-  const htmlItems = items.map(n => {
+  const visible = items.slice(0, newsShowCount);
+
+  const htmlItems = visible.map(n => {
     const nUrl = safeUrl(n.url);
     const inner = `
       <img class="news-item-thumb" src="${newsImg(n)}" alt="" loading="lazy" onerror="newsImgErr(this,'${esc(n.cat || 'geral')}')">
@@ -503,7 +561,7 @@ function renderNewsList() {
     return `<div class="news-item">${nUrl ? `<a href="${noticiaHash(n)}">${inner}</a>` : inner}</div>`;
   });
 
-  // Card "Siga no Instagram" no meio da lista de notícias
+  // Card "Siga no Instagram" at end of list
   const igCard = `
     <div class="news-item ig-follow-card"><a href="${IG_URL}" target="_blank" rel="noopener">
       <div class="ig-follow-inner">
@@ -516,10 +574,15 @@ function renderNewsList() {
         </div>
       </div>
     </a></div>`;
-  const pos = Math.min(6, htmlItems.length);
-  htmlItems.splice(pos, 0, igCard);
+  htmlItems.push(igCard);
 
-  document.getElementById('newsGrid').innerHTML = htmlItems.join('');
+  // "Carregar mais" button
+  let loadMoreHtml = '';
+  if (newsShowCount < items.length) {
+    loadMoreHtml = `<div class="load-more-wrap" style="grid-column:1/-1;"><button class="load-more-btn" onclick="newsShowCount+=12;renderNewsList();">Carregar mais</button></div>`;
+  }
+
+  document.getElementById('newsGrid').innerHTML = htmlItems.join('') + loadMoreHtml;
 }
 
 // ===== LISTAS DE ATIVOS (fallback BrAPI) =====
@@ -1451,13 +1514,7 @@ function renderAnalysesData(list) {
 }
 
 function renderAnalyses() {
-  renderAnalysesData([
-    { source: 'BTG Pactual', date: 'Junho 2026', title: 'Carteira Recomendada de Ações — Junho 2026', summary: 'Top picks: PETR4, ITUB4, WEGE3, VALE3, BBAS3. Setor financeiro deve se beneficiar com queda de juros.', tickers: ['PETR4', 'ITUB4', 'WEGE3', 'VALE3', 'BBAS3'], rec: 'buy', url: '' },
-    { source: 'XP Investimentos', date: 'Junho 2026', title: 'Top 10 Ações para Junho — Ibovespa a caminho dos 145k', summary: 'Preferência por empresas com forte geração de caixa. Destaques: RENT3, LREN3 e AXIA3.', tickers: ['RENT3', 'LREN3', 'AXIA3'], rec: 'buy', url: '' },
-    { source: 'BTG Pactual', date: 'Junho 2026', title: 'Carteira de FIIs — Melhores Fundos para o Mês', summary: 'Recomendação de FIIs de tijolo com desconto sobre VP. HGLG11, XPLG11 e VISC11 como apostas.', tickers: ['HGLG11', 'XPLG11', 'VISC11'], rec: 'buy', url: '' },
-    { source: 'Goldman Sachs', date: 'Maio 2026', title: 'Dólar pode cair para R$ 4,70 até o fim do ano', summary: 'Fluxo estrangeiro e política monetária dovish nos EUA devem pressionar moeda americana.', tickers: [], rec: 'hold', url: '' },
-    { source: 'Suno Research', date: 'Junho 2026', title: 'FIIs de Papel vs Tijolo: O que comprar agora?', summary: 'Com queda da Selic, FIIs de tijolo ganham atratividade. Migração gradual de CRIs para galpões e shoppings.', tickers: ['MXRF11', 'IRDM11', 'XPML11'], rec: 'buy', url: '' },
-  ]);
+  document.getElementById('analysisCards').innerHTML = '<div style="text-align:center;padding:40px;color:var(--text-secondary)">Nenhuma análise disponível no momento.</div>';
 }
 
 // ===== LOGIN GATE (captação de leads) =====
