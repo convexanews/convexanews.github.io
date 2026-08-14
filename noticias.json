@@ -1,21 +1,37 @@
 {
   "headline": {
-    "title": "Ibovespa cai pela 8ª vez seguida com saída de estrangeiros; Banco do Brasil (BBAS3) tomba",
-    "source": "Suno",
-    "url": "https://www.suno.com.br/noticias/ibovespa-hoje-13-agosto-2026-bbas3-estrangeiros-mt/",
-    "time": "2026-08-13T22:15:05Z",
-    "cat": "acoes",
+    "title": "Renan Santos propõe criar reserva de bitcoin e tornar Rio ‘cripto friendly’",
+    "source": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/renan-santos-propoe-criar-reserva-de-bitcoin-e-tornar-rio-cripto-friendly/",
+    "time": "2026-08-14T00:53:10Z",
+    "cat": "cripto",
     "tickers": [
-      "BBAS3"
+      "BTC"
     ],
     "editorial": {
-      "abertura": "Esta atualização trata de BBAS3 no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-      "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
-      "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
+      "abertura": "Esta atualização trata de BTC no contexto de criptoativos. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+      "por_que_importa": "Criptoativos costumam ter volatilidade elevada e podem reagir rapidamente a liquidez, regulação e fluxo global.",
+      "o_que_observar": "Considere liquidez, volatilidade e o seu perfil de risco; não tome decisões apenas pela movimentação do dia.",
       "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
     }
   },
   "featured": [
+    {
+      "title": "Ibovespa cai pela 8ª vez seguida com saída de estrangeiros; Banco do Brasil (BBAS3) tomba",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-13-agosto-2026-bbas3-estrangeiros-mt/",
+      "time": "2026-08-13T22:15:05Z",
+      "cat": "acoes",
+      "tickers": [
+        "BBAS3"
+      ],
+      "editorial": {
+        "abertura": "Esta atualização trata de BBAS3 no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
+        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
+        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
+      }
+    },
     {
       "title": "Nubank (ROXO34): Lucro dispara 49% e chega a US$ 1 bi pela primeira vez na história; ação salta 10%",
       "source": "Money Times",
@@ -29,28 +45,58 @@
         "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
         "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
       }
-    },
-    {
-      "title": "Ação do Reddit dispara no after-hours após anúncio de entrada no S&P 500",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acao-do-reddit-dispara-no-afterhours-apos-anuncio-de-entrada-no-sp-500-93CH-2038964",
-      "time": "2026-08-13T23:26:37Z",
-      "cat": "internacional",
-      "tickers": [],
-      "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de mercado internacional. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "O cenário externo pode influenciar câmbio, commodities, bolsas e a percepção de risco dos investidores brasileiros.",
-        "o_que_observar": "Acompanhe indicadores econômicos, decisões de bancos centrais e a reação dos principais mercados globais.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
     }
   ],
   "all": [
     {
-      "title": "EUA planejam operações militares em terra contra narcotraficantes na América Latina",
+      "title": "Zema diz que usará GLO contra crime organizado em ação conjunta com estados",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mundo/eua-planejam-operacoes-militares-em-terra-contra-narcotraficantes-na-america-latina/",
-      "time": "2026-08-13T23:28:25Z",
+      "url": "https://www.infomoney.com.br/politica/zema-diz-que-usara-glo-contra-crime-organizado-em-acao-conjunta-com-estados/",
+      "time": "2026-08-14T01:02:05Z",
+      "cat": "acoes",
+      "tickers": [],
+      "editorial": {
+        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
+        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
+        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
+      }
+    },
+    {
+      "title": "Renan Santos propõe criar reserva de bitcoin e tornar Rio ‘cripto friendly’",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/renan-santos-propoe-criar-reserva-de-bitcoin-e-tornar-rio-cripto-friendly/",
+      "time": "2026-08-14T00:53:10Z",
+      "cat": "cripto",
+      "tickers": [
+        "BTC"
+      ],
+      "editorial": {
+        "abertura": "Esta atualização trata de BTC no contexto de criptoativos. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "Criptoativos costumam ter volatilidade elevada e podem reagir rapidamente a liquidez, regulação e fluxo global.",
+        "o_que_observar": "Considere liquidez, volatilidade e o seu perfil de risco; não tome decisões apenas pela movimentação do dia.",
+        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
+      }
+    },
+    {
+      "title": "Flávio Bolsonaro propõe tirar do STF julgamento criminal de deputados e senadores",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/flavio-bolsonaro-propoe-tirar-do-stf-julgamento-criminal-de-deputados-e-senadores/",
+      "time": "2026-08-14T00:43:24Z",
+      "cat": "acoes",
+      "tickers": [],
+      "editorial": {
+        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
+        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
+        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
+      }
+    },
+    {
+      "title": "EUA prometem respeitar resultado de eleição no Brasil desde que ‘livre e justa’",
+      "source": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mundo/eua-prometem-respeitar-resultado-de-eleicao-no-brasil-desde-que-livre-e-justa/",
+      "time": "2026-08-14T00:36:41Z",
       "cat": "internacional",
       "tickers": [],
       "editorial": {
@@ -61,118 +107,14 @@
       }
     },
     {
-      "title": "Governo Lula anuncia abertura de reciprocidade por tarifaço dos EUA",
+      "title": "Quina hoje, concurso 7091: confira o resultado sorteado nesta quinta-feira (13)",
       "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/politica/governo-lula-anuncia-abertura-de-reciprocidade-por-tarifaco-dos-eua/",
-      "time": "2026-08-13T23:13:33Z",
-      "cat": "internacional",
-      "tickers": [],
-      "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de mercado internacional. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "O cenário externo pode influenciar câmbio, commodities, bolsas e a percepção de risco dos investidores brasileiros.",
-        "o_que_observar": "Acompanhe indicadores econômicos, decisões de bancos centrais e a reação dos principais mercados globais.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "CPFL lucra R$ 1,44 bilhão, vê novo impulso de data centers no mercado da distribuição",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/cpfl-cpfe3-resultados-segundo-trimestre-2026/",
-      "time": "2026-08-13T22:54:50Z",
-      "cat": "fundos",
-      "tickers": [],
-      "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de fundos imobiliários. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "FIIs reagem a juros, crédito, aluguéis e decisões dos gestores. O contexto do fundo é tão importante quanto a manchete do dia.",
-        "o_que_observar": "Confira relatórios gerenciais, fatos relevantes, rendimentos e indicadores como vacância e P/VP.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "Dasa (DASA3) reduz prejuízo para R$ 35 milhões no 2º trimestre",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/dasa-dasa3-resultados-segundo-trimestre-2026/",
-      "time": "2026-08-13T22:48:37Z",
-      "cat": "acoes",
-      "tickers": [
-        "DASA3"
-      ],
-      "editorial": {
-        "abertura": "Esta atualização trata de DASA3 no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
-        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "Petz Cobasi (AUAU3) tem lucro líquido ajustado de R$ 70,3 mi no 2º tri, alta 8,4%",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/petz-cobasi-auau3-resultados-segundo-trimestre-2026/",
-      "time": "2026-08-13T22:20:59Z",
+      "url": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7091-confira-o-resultado-sorteado-nesta-quinta-feira-13/",
+      "time": "2026-08-14T00:09:04Z",
       "cat": "acoes",
       "tickers": [],
       "editorial": {
         "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
-        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "MBRF (MBRF3) tem lucro líquido a R$ 69 milhões no 2º tri, uma queda de 19,6%",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/mbrf-mbrf3-resultados-segundo-trimestre-2026/",
-      "time": "2026-08-13T22:17:24Z",
-      "cat": "acoes",
-      "tickers": [
-        "MBRF3"
-      ],
-      "editorial": {
-        "abertura": "Esta atualização trata de MBRF3 no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
-        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "Even tem lucro líquido consolidado de R$ 30,686 milhões no 2T, queda anual de 37,2%",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/even-even3-resultados-segundo-trimestre-2026/",
-      "time": "2026-08-13T22:12:56Z",
-      "cat": "acoes",
-      "tickers": [],
-      "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
-        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "Nubank (ROXO34): lucro líquido sobe 49% no 2º trimestre e vai a US$ 1,06 bilhão",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/nubank-roxo34-resultados-segundo-trimestre-2026/",
-      "time": "2026-08-13T21:55:59Z",
-      "cat": "acoes",
-      "tickers": [],
-      "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
-        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "Yduqs (YDUQ3) tem queda de 54,2% no lucro do 2º tri, em resultado abaixo do esperado",
-      "source": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/yduqs-yduq3-resultados-segundo-trimestre-2026/",
-      "time": "2026-08-13T21:48:43Z",
-      "cat": "acoes",
-      "tickers": [
-        "YDUQ3"
-      ],
-      "editorial": {
-        "abertura": "Esta atualização trata de YDUQ3 no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
         "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
         "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
         "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
@@ -271,6 +213,20 @@
       }
     },
     {
+      "title": "EXES11 supera o IFIX em mais de 200%; saiba mais sobre o FII",
+      "source": "Suno",
+      "url": "https://www.suno.com.br/noticias/exes11-supera-o-ifix-em-mais-de-200-saiba-mais-sobre-o-fii/",
+      "time": "2026-08-14T01:35:05Z",
+      "cat": "fundos",
+      "tickers": [],
+      "editorial": {
+        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de fundos imobiliários. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "FIIs reagem a juros, crédito, aluguéis e decisões dos gestores. O contexto do fundo é tão importante quanto a manchete do dia.",
+        "o_que_observar": "Confira relatórios gerenciais, fatos relevantes, rendimentos e indicadores como vacância e P/VP.",
+        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
+      }
+    },
+    {
       "title": "IFIX fecha quinta-feira em queda de 0,6% e termina aos 3.692,65 pontos",
       "source": "Suno",
       "url": "https://www.suno.com.br/noticias/ifix-fecha-quinta-feira-em-queda-de-06-e-termina-aos-3-69265-pontos/",
@@ -361,24 +317,10 @@
       }
     },
     {
-      "title": "PagBank (PAGS34) mantém lucro no 2T26, mas Safra vê sinais de cautela",
-      "source": "Suno",
-      "url": "https://www.suno.com.br/noticias/pagbank-pags34-resultado-2t26-lucro-safra-mt/",
-      "time": "2026-08-13T16:30:00Z",
-      "cat": "acoes",
-      "tickers": [],
-      "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de ações. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "Resultados, projeções e movimentos de empresas podem influenciar expectativas do mercado, mas uma notícia isolada não define uma tese de investimento.",
-        "o_que_observar": "Acompanhe comunicados oficiais, resultados, guidance e a reação do mercado nos próximos pregões.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "Nubank supera US$ 1 bi em lucro no 2º tri pela 1ª vez, mas inadimplência vai a 6,9%",
+      "title": "Cientistas criam 'arco-íris de som' mais completo da história em chip de silício",
       "source": "Exame",
-      "url": "https://exame.com/invest/mercados/nubank-supera-us-1-bi-em-lucro-no-2o-tri-pela-1a-vez-mas-inadimplencia-vai-a-69/",
-      "time": "2026-08-13T19:05:22Z",
+      "url": "https://exame.com/ciencia/cientistas-criam-arco-iris-de-som-mais-completo-da-historia-em-chip-de-silicio/",
+      "time": "2026-08-13T20:51:45Z",
       "cat": "economia",
       "tickers": [],
       "editorial": {
@@ -389,10 +331,10 @@
       }
     },
     {
-      "title": "Ação do Reddit dispara no after-hours após anúncio de entrada no S&P 500",
+      "title": "Futuros de Wall St estáveis após S&P 500 atingir recorde com PPI fraco",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acao-do-reddit-dispara-no-afterhours-apos-anuncio-de-entrada-no-sp-500-93CH-2038964",
-      "time": "2026-08-13T23:26:37Z",
+      "url": "https://br.investing.com/news/stock-market-news/futuros-de-wall-st-estaveis-apos-sp-500-atingir-recorde-com-ppi-fraco-2039026",
+      "time": "2026-08-14T00:53:29Z",
       "cat": "internacional",
       "tickers": [],
       "editorial": {
@@ -403,10 +345,10 @@
       }
     },
     {
-      "title": "Dasa reduz prejuízo para R$35 mi no 2º tri",
+      "title": "Por que as ações da Baby Bunting estão disparando hoje?",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/dasa-reduz-prejuizo-para-r35-mi-no-2o-tri-2038945",
-      "time": "2026-08-13T22:42:29Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-baby-bunting-estao-disparando-hoje-93CH-2039021",
+      "time": "2026-08-14T00:49:17Z",
       "cat": "internacional",
       "tickers": [],
       "editorial": {
@@ -417,38 +359,10 @@
       }
     },
     {
-      "title": "CPFL tem alta do lucro, vê novo impulso de data centers no mercado da distribuição",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/cpfl-tem-alta-do-lucro-ve-novo-impulso-de-data-centers-no-mercado-da-distribuicao-2038944",
-      "time": "2026-08-13T22:42:28Z",
-      "cat": "internacional",
-      "tickers": [],
-      "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de mercado internacional. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "O cenário externo pode influenciar câmbio, commodities, bolsas e a percepção de risco dos investidores brasileiros.",
-        "o_que_observar": "Acompanhe indicadores econômicos, decisões de bancos centrais e a reação dos principais mercados globais.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "Receita anualizada da OpenAI ultrapassa US$ 40 bilhões",
-      "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/receita-anualizada-da-openai-ultrapassa-us-40-bilhoes-2038925",
-      "time": "2026-08-13T22:10:09Z",
-      "cat": "internacional",
-      "tickers": [],
-      "editorial": {
-        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de mercado internacional. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
-        "por_que_importa": "O cenário externo pode influenciar câmbio, commodities, bolsas e a percepção de risco dos investidores brasileiros.",
-        "o_que_observar": "Acompanhe indicadores econômicos, decisões de bancos centrais e a reação dos principais mercados globais.",
-        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
-      }
-    },
-    {
-      "title": "Lucro da MBRF cai quase 20% no 2º tri com pressão de resultados financeiros",
+      "title": "Lucro da MBRF cai quase 20% no 2º tri em meio a consumo \"relevante\" de capital de giro",
       "source": "Investing.com",
       "url": "https://br.investing.com/news/stock-market-news/lucro-da-mbrf-cai-para-r69-mi-no-2o-tri-2038880",
-      "time": "2026-08-13T22:07:07Z",
+      "time": "2026-08-14T00:21:27Z",
       "cat": "internacional",
       "tickers": [],
       "editorial": {
@@ -459,10 +373,10 @@
       }
     },
     {
-      "title": "Lucro trimestral do Nubank supera US$1 bi pela primeira vez e ação dispara",
+      "title": "Nubank tem lucro acima de US$1 bi pela primeira vez, acima das projeções; ação salta",
       "source": "Investing.com",
       "url": "https://br.investing.com/news/stock-market-news/lucro-trimestral-do-nubank-supera-us1-bi-pela-primeira-vez-2038856",
-      "time": "2026-08-13T22:00:38Z",
+      "time": "2026-08-14T00:14:30Z",
       "cat": "internacional",
       "tickers": [],
       "editorial": {
@@ -473,10 +387,10 @@
       }
     },
     {
-      "title": "Ações da BridgeBio caem após KKR lançar oferta secundária",
+      "title": "Grupo Petz Cobasi tem lucro líquido de R$70,3 mi no 2º tri",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/acoes-da-bridgebio-caem-apos-kkr-lancar-oferta-secundaria-93CH-2038909",
-      "time": "2026-08-13T21:54:39Z",
+      "url": "https://br.investing.com/news/stock-market-news/grupo-petz-cobasi-tem-lucro-liquido-de-r703-mi-no-2o-tri-2038983",
+      "time": "2026-08-14T00:07:06Z",
       "cat": "internacional",
       "tickers": [],
       "editorial": {
@@ -487,10 +401,24 @@
       }
     },
     {
-      "title": "Por que as ações da StoneCo estão caindo hoje?",
+      "title": "Ações da Hertz caem após saída da Pershing Square e rebaixamento de crédito",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-stoneco-estao-caindo-hoje-93CH-2038906",
-      "time": "2026-08-13T21:52:48Z",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-hertz-caem-apos-saida-da-pershing-square-e-rebaixamento-de-credito-93CH-2038978",
+      "time": "2026-08-13T23:49:42Z",
+      "cat": "analise",
+      "tickers": [],
+      "editorial": {
+        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de análises de mercado. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "Relatórios e projeções são opiniões baseadas em premissas. Eles ajudam a estudar um ativo, mas não substituem análise própria.",
+        "o_que_observar": "Verifique premissas, horizonte de análise, conflitos de interesse e as fontes usadas no relatório.",
+        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
+      }
+    },
+    {
+      "title": "Raízen reduz prejuízo para R$1,64 bi no 1º tri do ano-safra",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/raizen-reduz-prejuizo-para-r164-bi-no-1o-tri-do-anosafra-2038977",
+      "time": "2026-08-13T23:49:28Z",
       "cat": "internacional",
       "tickers": [],
       "editorial": {
@@ -501,10 +429,10 @@
       }
     },
     {
-      "title": "Por que as ações da Eton Pharmaceuticals disparam hoje?",
+      "title": "Lucro da JHSF cresce 81% no 2º tri",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-eton-pharmaceuticals-disparam-hoje-93CH-2038905",
-      "time": "2026-08-13T21:51:19Z",
+      "url": "https://br.investing.com/news/stock-market-news/lucro-da-jhsf-cresce-81-no-2o-tri-2038972",
+      "time": "2026-08-13T23:42:09Z",
       "cat": "internacional",
       "tickers": [],
       "editorial": {
@@ -515,10 +443,24 @@
       }
     },
     {
-      "title": "Por que a ação da Heartflow está disparando hoje?",
+      "title": "Por que as ações da Gemini Space Station estão caindo hoje?",
       "source": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/por-que-a-acao-da-heartflow-esta-disparando-hoje-93CH-2038903",
-      "time": "2026-08-13T21:49:43Z",
+      "url": "https://br.investing.com/news/stock-market-news/por-que-as-acoes-da-gemini-space-station-estao-caindo-hoje-93CH-2038970",
+      "time": "2026-08-13T23:36:02Z",
+      "cat": "internacional",
+      "tickers": [],
+      "editorial": {
+        "abertura": "Esta atualização trata de os indicadores ligados ao tema no contexto de mercado internacional. O Bom Dia Investidor apresenta abaixo uma leitura educativa baseada no tema, sem reproduzir a matéria original.",
+        "por_que_importa": "O cenário externo pode influenciar câmbio, commodities, bolsas e a percepção de risco dos investidores brasileiros.",
+        "o_que_observar": "Acompanhe indicadores econômicos, decisões de bancos centrais e a reação dos principais mercados globais.",
+        "metodologia": "Conteúdo editorial de caráter informativo. Para os fatos completos, consulte a fonte indicada e, quando houver, os comunicados oficiais."
+      }
+    },
+    {
+      "title": "Ações da York Space Systems despencam após revisão de guidance",
+      "source": "Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/acoes-da-york-space-systems-despencam-apos-revisao-de-guidance-93CH-2038969",
+      "time": "2026-08-13T23:36:01Z",
       "cat": "internacional",
       "tickers": [],
       "editorial": {
@@ -529,5 +471,5 @@
       }
     }
   ],
-  "atualizado_em": "13/08/2026 23:39"
+  "atualizado_em": "14/08/2026 01:51"
 }
