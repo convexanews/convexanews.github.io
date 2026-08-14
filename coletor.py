@@ -432,6 +432,121 @@ def buscar_og_image(url):
         pass
     return None
 
+
+def _buscar_og_description(html):
+    """Extrai og:description do HTML da página."""
+    try:
+        m = re.search(r'<meta[^>]+property=["\']og:description["\'][^>]+content=["\']([^"\']+)["\']', html, re.I)
+        if not m:
+            m = re.search(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:description["\']', html, re.I)
+        if m:
+            desc = m.group(1).strip()
+            if len(desc) > 40:
+                return desc
+    except Exception:
+        pass
+    return ''
+
+
+# Seletores de conteúdo por fonte (ordem de prioridade)
+_SOURCE_SELECTORS = {
+    'infomoney': [r'<div[^>]+class="[^"]*im-article-body[^"]*"[^>]*>(.*?)</div>', r'<div[^>]+class="[^"]*article-content[^"]*"[^>]*>(.*?)</div>'],
+    'money times': [r'<div[^>]+class="[^"]*single-post-content[^"]*"[^>]*>(.*?)</div>', r'<div[^>]+class="[^"]*post-content[^"]*"[^>]*>(.*?)</div>'],
+    'suno': [r'<div[^>]+class="[^"]*post-content[^"]*"[^>]*>(.*?)</div>'],
+    'exame': [r'<div[^>]+class="[^"]*content-text[^"]*"[^>]*>(.*?)</div>'],
+    'cnn brasil': [r'<div[^>]+class="[^"]*post__content[^"]*"[^>]*>(.*?)</div>'],
+    'investing': [r'<div[^>]+class="[^"]*articlePage[^"]*"[^>]*>(.*?)</div>'],
+}
+
+# Padrões genéricos de conteúdo
+_GENERIC_SELECTORS = [
+    r'<article[^>]*>(.*?)</article>',
+    r'<div[^>]+class="[^"]*(?:article|content|post|body)[^"]*"[^>]*>(.*?)</div>',
+]
+
+# Texto boilerplate a remover
+_BOILERPLATE_RE = re.compile(
+    r'(?:Leia\s+também|Saiba\s+mais|Assine\s+|Compartilh|Siga\s+o\s+|Newsletter|'
+    r'Inscreva-se|cookie|PUBLICIDADE|Receba\s+noss|Acompanhe\s+|Telegram|WhatsApp\s+group|'
+    r'Baixe\s+o\s+app|Clique\s+aqui\s+para).*',
+    re.I
+)
+
+
+def extrair_conteudo_completo(url, source=''):
+    """Busca e extrai o corpo textual de um artigo de notícia.
+
+    Retorna o conteúdo em texto puro (parágrafos separados por \\n\\n)
+    ou string vazia em caso de falha. Nunca levanta exceção.
+    """
+    if not HAS_REQUESTS or not url:
+        return ''
+    try:
+        resp = requests.get(url, headers=BROWSER_HEADERS, timeout=12, allow_redirects=True)
+        html = resp.text[:500000]
+
+        content = ''
+
+        # Tenta seletores específicos da fonte primeiro
+        src_lower = source.lower()
+        for src_key, patterns in _SOURCE_SELECTORS.items():
+            if src_key in src_lower:
+                for pat in patterns:
+                    m = re.search(pat, html, re.S | re.I)
+                    if m:
+                        content = m.group(1)
+                        break
+                if content:
+                    break
+
+        # Fallback: seletores genéricos
+        if not content:
+            for pat in _GENERIC_SELECTORS:
+                m = re.search(pat, html, re.S | re.I)
+                if m:
+                    content = m.group(1)
+                    break
+
+        if not content:
+            return ''
+
+        # Preserva quebras de parágrafo antes de remover tags
+        content = re.sub(r'</p>', '\n\n', content, flags=re.I)
+        content = re.sub(r'<br\s*/?>', '\n\n', content, flags=re.I)
+
+        # Remove tags HTML
+        content = re.sub(r'<[^>]+>', ' ', content)
+
+        # Decodifica entidades HTML comuns
+        content = content.replace('&amp;', '&').replace('&lt;', '<').replace('&gt;', '>')
+        content = content.replace('&quot;', '"').replace('&#39;', "'").replace('&nbsp;', ' ')
+
+        # Limpa espaços excessivos dentro de cada linha
+        lines = content.split('\n')
+        lines = [re.sub(r'[ \t]+', ' ', l).strip() for l in lines]
+        content = '\n'.join(lines)
+
+        # Recolapsa quebras múltiplas em dupla
+        content = re.sub(r'\n{3,}', '\n\n', content).strip()
+
+        # Remove linhas de boilerplate
+        paragraphs = content.split('\n\n')
+        paragraphs = [p for p in paragraphs if p.strip() and not _BOILERPLATE_RE.search(p)]
+
+        content = '\n\n'.join(paragraphs)
+
+        # Limite de ~3000 caracteres, cortando no fim de parágrafo
+        if len(content) > 3000:
+            cut = content.rfind('\n\n', 0, 3000)
+            if cut > 500:
+                content = content[:cut]
+            else:
+                content = content[:3000]
+
+        return content
+    except Exception:
+        return ''
+
 def coletar_noticias():
     if not HAS_FEEDPARSER:
         return []
@@ -452,6 +567,7 @@ def coletar_noticias():
                 pub_iso = publicacao_iso(published) if published else datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
                 todas.append({
                     'title': title, 'summary': summary,
+                    'content': '',
                     'source': feed_info['source'], 'url': url,
                     'time': pub_iso,
                     'cat': cat, 'tickers': extrair_tickers(title + ' ' + summary),
@@ -466,6 +582,26 @@ def coletar_noticias():
         if key not in seen:
             seen.add(key)
             unicas.append(n)
+
+    # Extrai conteúdo completo dos artigos em paralelo (I/O bound)
+    if HAS_REQUESTS and unicas:
+        print(f"  Extraindo conteúdo completo de {len(unicas)} artigos...")
+        def _fetch_content(noticia):
+            noticia['content'] = extrair_conteudo_completo(noticia.get('url', ''), noticia.get('source', ''))
+            # Também tenta melhorar o summary via og:description
+            if noticia.get('url') and (not noticia.get('summary') or len(noticia.get('summary', '')) < 60):
+                try:
+                    resp = requests.get(noticia['url'], headers=BROWSER_HEADERS, timeout=10, allow_redirects=True)
+                    og_desc = _buscar_og_description(resp.text[:300000])
+                    if og_desc:
+                        noticia['summary'] = og_desc
+                except Exception:
+                    pass
+        with ThreadPoolExecutor(max_workers=5) as executor:
+            executor.map(_fetch_content, unicas)
+        extracted = sum(1 for n in unicas if n.get('content'))
+        print(f"  Conteúdo extraído: {extracted}/{len(unicas)} artigos")
+
     return unicas
 
 # ==================== NOMES COMPLETOS BR ====================

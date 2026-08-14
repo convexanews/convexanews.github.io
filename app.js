@@ -411,33 +411,89 @@ function renderNoticiaDetalhe(url) {
 
   const catLabel = (NEWS_DATA.categories.find(c => c.id === n.cat) || {}).label || 'Mercado';
   const nUrl = safeUrl(n.url);
+
+  // Build article body - use full content if available, fall back to summary
+  const articleContent = n.content || n.summary || '';
+  const paragraphs = articleContent.split(/\n\n+/).filter(p => p.trim().length > 0);
+  const bodyHtml = paragraphs.length > 1
+    ? paragraphs.map(p => `<p class="article-paragraph">${esc(p.trim())}</p>`).join('')
+    : `<p class="article-paragraph">${esc(articleContent)}</p>`;
+
+  // Reading time estimate
+  const wordCount = articleContent.split(/\s+/).length;
+  const readingTime = Math.max(1, Math.ceil(wordCount / 200));
+
+  // Ticker market cards
+  const tickerCards = (n.tickers || []).map(t => {
+    const dados = window.DADOS || {};
+    const acoes = dados.acoes || [];
+    const fiis = dados.fiis || [];
+    const all = [...acoes, ...fiis];
+    const ativo = all.find(a => a.ticker === t);
+    if (!ativo) return `<span class="article-ticker-tag">${esc(t)}</span>`;
+    const changeClass = ativo.change >= 0 ? 'up' : 'down';
+    const sign = ativo.change >= 0 ? '+' : '';
+    return `<div class="noticia-market-card">
+      <span class="ticker">${esc(t)}</span>
+      <span class="price">R$ ${ativo.price ? ativo.price.toFixed(2) : '—'}</span>
+      <span class="change ${changeClass}">${sign}${ativo.change ? ativo.change.toFixed(2) : '0.00'}%</span>
+    </div>`;
+  }).join('');
+
   const relacionadas = (NEWS_DATA.all || [])
     .filter(x => x.url && x.url !== n.url && x.cat === n.cat)
     .slice(0, 6);
 
   el.innerHTML = `
-    <div class="noticia-det-cat">${esc(catLabel)}</div>
-    <h1 class="noticia-det-titulo">${esc(n.title)}</h1>
-    <div class="noticia-det-meta">
-      <span class="hero-source">${esc(n.source)}</span><span>·</span><span>${esc(tempoRelativo(n.time))}</span>
-      ${(n.tickers || []).length ? `<span>·</span>${tickerTagsHtml(n.tickers)}` : ''}
-    </div>
-    <img class="noticia-det-img" src="${newsImg(n)}" alt="" onerror="newsImgErr(this,'${esc(n.cat || 'geral')}')">
-    <p class="noticia-det-resumo">${esc(cleanSummary(n.title, n.summary))}</p>
-    ${nUrl ? `<a class="noticia-det-fonte-btn" href="${nUrl}" target="_blank" rel="noopener">Ler matéria completa no ${esc(n.source)} ↗</a>` : ''}
+    <article class="article-full">
+      <header class="article-header">
+        <div class="article-cat-badge">${esc(catLabel)}</div>
+        <h1 class="article-title">${esc(n.title)}</h1>
+        <div class="article-meta">
+          <div class="article-meta-left">
+            <span class="article-source-badge">${esc(n.source)}</span>
+            <span class="article-date">${esc(tempoRelativo(n.time))}</span>
+            <span class="article-reading-time">· ${readingTime} min de leitura</span>
+          </div>
+          <div class="article-share">
+            <button class="article-share-btn" onclick="navigator.clipboard.writeText(location.href).then(()=>this.textContent='✓ Copiado').catch(()=>{})" title="Copiar link">🔗 Compartilhar</button>
+          </div>
+        </div>
+      </header>
+
+      <figure class="article-hero-fig">
+        <img class="article-hero-img" src="${newsImg(n)}" alt="" onerror="newsImgErr(this,'${esc(n.cat || 'geral')}')">
+      </figure>
+
+      ${tickerCards ? `<div class="article-tickers">${tickerCards}</div>` : ''}
+
+      <div class="article-body">
+        ${bodyHtml}
+      </div>
+
+      <footer class="article-footer">
+        ${nUrl ? `<a class="article-source-link" href="${nUrl}" target="_blank" rel="noopener">
+          <span>📰</span> Fonte original: ${esc(n.source)} ↗
+        </a>` : ''}
+      </footer>
+    </article>
+
     ${igCtaHtml()}
+
     ${relacionadas.length ? `
-      <h2 class="noticia-det-rel-titulo">Notícias relacionadas</h2>
-      <div class="news-grid noticia-det-rel">
-        ${relacionadas.map(r => `
-          <div class="news-item"><a href="${noticiaHash(r)}">
-            <img class="news-item-thumb" src="${newsImg(r)}" alt="" loading="lazy" onerror="newsImgErr(this,'${esc(r.cat || 'geral')}')">
-            <div class="news-item-body">
-              <div class="news-item-meta"><span class="news-item-source">${esc(r.source)}</span><span>·</span><span>⏱ ${esc(tempoRelativo(r.time))}</span></div>
-              <div class="news-item-title"><span>${esc(r.title)}</span><span class="news-arrow">→</span></div>
-            </div>
-          </a></div>`).join('')}
-      </div>` : ''}
+      <section class="article-related">
+        <h2 class="article-related-title">Continue lendo</h2>
+        <div class="news-grid noticia-det-rel">
+          ${relacionadas.map(r => `
+            <div class="news-item"><a href="${noticiaHash(r)}">
+              <img class="news-item-thumb" src="${newsImg(r)}" alt="" loading="lazy" onerror="newsImgErr(this,'${esc(r.cat || 'geral')}')">
+              <div class="news-item-body">
+                <div class="news-item-meta"><span class="news-item-source">${esc(r.source)}</span><span>·</span><span>⏱ ${esc(tempoRelativo(r.time))}</span></div>
+                <div class="news-item-title"><span>${esc(r.title)}</span><span class="news-arrow">→</span></div>
+              </div>
+            </a></div>`).join('')}
+        </div>
+      </section>` : ''}
   `;
 }
 
