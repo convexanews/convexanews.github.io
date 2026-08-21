@@ -3,17 +3,17 @@
     "PETR4": {
       "stock": "PETR4",
       "name": "Petrobras PN",
-      "close": 44.25,
-      "change": -0.16,
-      "volume": 34237100,
+      "close": 44.49,
+      "change": 0.38,
+      "volume": 38985900,
       "market_cap": 603115978244,
       "sector": "Energy",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": 3.92,
-      "perf_3m": 1.16,
-      "perf_6m": 20.68,
+      "perf_1m": 4.49,
+      "perf_3m": 1.71,
+      "perf_6m": 21.33,
       "perf_12m": null,
       "spark": [
         27.84,
@@ -45,23 +45,23 @@
         37.77,
         40.9,
         42.0,
-        44.25
+        44.49
       ]
     },
     "PETR3": {
       "stock": "PETR3",
       "name": "Petrobras ON",
-      "close": 49.22,
-      "change": -0.38,
-      "volume": 3306000,
+      "close": 49.59,
+      "change": 0.36,
+      "volume": 3900000,
       "market_cap": 603115978244,
       "sector": "Energy",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": 2.76,
-      "perf_3m": -0.38,
-      "perf_6m": 22.84,
+      "perf_1m": 3.53,
+      "perf_3m": 0.37,
+      "perf_6m": 23.76,
       "perf_12m": null,
       "spark": [
         30.21,
@@ -93,23 +93,23 @@
         41.85,
         45.81,
         47.51,
-        49.22
+        49.59
       ]
     },
     "PRIO3": {
       "stock": "PRIO3",
       "name": "PetroRio",
-      "close": 62.51,
-      "change": 0.76,
-      "volume": 3591400,
+      "close": 62.83,
+      "change": 1.27,
+      "volume": 3958500,
       "market_cap": 51705232611,
       "sector": "Energy",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": 4.58,
-      "perf_3m": -8.61,
-      "perf_6m": 13.8,
+      "perf_1m": 5.12,
+      "perf_3m": -8.14,
+      "perf_6m": 14.38,
       "perf_12m": null,
       "spark": [
         37.5,
@@ -141,23 +141,23 @@
         53.57,
         57.85,
         58.41,
-        62.51
+        62.83
       ]
     },
     "RECV3": {
       "stock": "RECV3",
       "name": "Recôncavo",
-      "close": 10.5,
-      "change": -0.66,
-      "volume": 1107200,
+      "close": 10.53,
+      "change": -0.38,
+      "volume": 1263500,
       "market_cap": 3101551062,
       "sector": "Energy",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -0.42,
-      "perf_3m": -12.19,
-      "perf_6m": -4.63,
+      "perf_1m": -0.13,
+      "perf_3m": -11.94,
+      "perf_6m": -4.36,
       "perf_12m": null,
       "spark": [
         10.62,
@@ -189,23 +189,23 @@
         9.3,
         9.96,
         10.21,
-        10.5
+        10.53
       ]
     },
     "CSAN3": {
       "stock": "CSAN3",
       "name": "Cosan",
-      "close": 3.57,
-      "change": 5.93,
-      "volume": 22817800,
+      "close": 3.6,
+      "change": 6.82,
+      "volume": 25465700,
       "market_cap": 13340738575,
       "sector": "Energy",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -8.93,
-      "perf_3m": -16.78,
-      "perf_6m": -44.22,
+      "perf_1m": -8.16,
+      "perf_3m": -16.08,
+      "perf_6m": -43.75,
       "perf_12m": null,
       "spark": [
         5.22,
@@ -237,23 +237,23 @@
         3.84,
         3.84,
         3.89,
-        3.57
+        3.6
       ]
     },
     "UGPA3": {
       "stock": "UGPA3",
       "name": "Ultrapar",
-      "close": 34.89,
-      "change": 1.66,
-      "volume": 9638000,
+      "close": 34.74,
+      "change": 1.22,
+      "volume": 10091100,
       "market_cap": 37446902743,
       "sector": "Energy",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": 6.27,
-      "perf_3m": 21.57,
-      "perf_6m": 26.87,
+      "perf_1m": 5.82,
+      "perf_3m": 21.05,
+      "perf_6m": 26.33,
       "perf_12m": null,
       "spark": [
         16.7,
@@ -285,23 +285,23 @@
         27.94,
         32.07,
         32.0,
-        34.89
+        34.74
       ]
     },
     "VBBR3": {
       "stock": "VBBR3",
       "name": "Vibra Energia",
-      "close": 34.64,
-      "change": 0.49,
-      "volume": 4899000,
+      "close": 34.65,
+      "change": 0.52,
+      "volume": 5587900,
       "market_cap": 39587660306,
       "sector": "Energy",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -0.97,
-      "perf_3m": 7.48,
-      "perf_6m": 12.68,
+      "perf_1m": -0.94,
+      "perf_3m": 7.51,
+      "perf_6m": 12.71,
       "perf_12m": null,
       "spark": [
         18.16,
@@ -333,23 +333,23 @@
         30.12,
         34.92,
         34.6,
-        34.64
+        34.65
       ]
     },
     "BRAV3": {
       "stock": "BRAV3",
       "name": "Brava Energia",
-      "close": 18.79,
-      "change": -0.05,
-      "volume": 1919600,
+      "close": 18.82,
+      "change": 0.11,
+      "volume": 2085400,
       "market_cap": 8733676538,
       "sector": "Energy",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -7.76,
-      "perf_3m": -5.01,
-      "perf_6m": 0.88,
+      "perf_1m": -7.61,
+      "perf_3m": -4.85,
+      "perf_6m": 1.04,
       "perf_12m": null,
       "spark": [
         18.65,
@@ -381,23 +381,23 @@
         18.5,
         19.57,
         20.82,
-        18.79
+        18.82
       ]
     },
     "BRAP4": {
       "stock": "BRAP4",
       "name": "Bradespar",
-      "close": 20.85,
-      "change": 2.11,
-      "volume": 795600,
+      "close": 20.96,
+      "change": 2.64,
+      "volume": 939100,
       "market_cap": 7702756393,
       "sector": "Basic Materials",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -3.65,
-      "perf_3m": -10.01,
-      "perf_6m": -10.48,
+      "perf_1m": -3.14,
+      "perf_3m": -9.54,
+      "perf_6m": -10.0,
       "perf_12m": null,
       "spark": [
         14.04,
@@ -429,23 +429,23 @@
         22.24,
         21.19,
         21.66,
-        20.85
+        20.96
       ]
     },
     "VALE3": {
       "stock": "VALE3",
       "name": "Vale",
-      "close": 74.92,
-      "change": 1.22,
-      "volume": 19008500,
+      "close": 74.99,
+      "change": 1.31,
+      "volume": 19847800,
       "market_cap": 308584270790,
       "sector": "Basic Materials",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": 2.56,
-      "perf_3m": -7.31,
-      "perf_6m": -7.71,
+      "perf_1m": 2.66,
+      "perf_3m": -7.23,
+      "perf_6m": -7.63,
       "perf_12m": null,
       "spark": [
         49.4,
@@ -477,23 +477,23 @@
         75.67,
         70.95,
         73.0,
-        74.92
+        74.99
       ]
     },
     "CSNA3": {
       "stock": "CSNA3",
       "name": "CSN",
-      "close": 4.72,
-      "change": 6.07,
-      "volume": 11864700,
+      "close": 4.73,
+      "change": 6.29,
+      "volume": 12644600,
       "market_cap": 5868145543,
       "sector": "Basic Materials",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -12.27,
-      "perf_3m": -29.87,
-      "perf_6m": -44.67,
+      "perf_1m": -12.08,
+      "perf_3m": -29.72,
+      "perf_6m": -44.55,
       "perf_12m": null,
       "spark": [
         6.83,
@@ -525,23 +525,23 @@
         4.76,
         5.05,
         5.2,
-        4.72
+        4.73
       ]
     },
     "GGBR4": {
       "stock": "GGBR4",
       "name": "Gerdau PN",
-      "close": 22.19,
-      "change": 0.18,
-      "volume": 9162600,
+      "close": 22.21,
+      "change": 0.27,
+      "volume": 9635800,
       "market_cap": 41001852439,
       "sector": "Basic Materials",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -6.84,
-      "perf_3m": -6.64,
-      "perf_6m": 5.52,
+      "perf_1m": -6.75,
+      "perf_3m": -6.56,
+      "perf_6m": 5.62,
       "perf_12m": null,
       "spark": [
         15.39,
@@ -573,23 +573,23 @@
         21.62,
         23.8,
         24.54,
-        22.19
+        22.21
       ]
     },
     "USIM5": {
       "stock": "USIM5",
       "name": "Usiminas",
-      "close": 6.5,
-      "change": 7.08,
-      "volume": 7485400,
+      "close": 6.48,
+      "change": 6.75,
+      "volume": 8186600,
       "market_cap": 6985039256,
       "sector": "Basic Materials",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -24.86,
-      "perf_3m": -37.2,
-      "perf_6m": 4.5,
+      "perf_1m": -25.09,
+      "perf_3m": -37.39,
+      "perf_6m": 4.18,
       "perf_12m": null,
       "spark": [
         4.0,
@@ -621,23 +621,23 @@
         8.71,
         8.23,
         8.32,
-        6.5
+        6.48
       ]
     },
     "CMIN3": {
       "stock": "CMIN3",
       "name": "CSN Mineração",
-      "close": 5.83,
-      "change": 3.55,
-      "volume": 4369500,
+      "close": 5.85,
+      "change": 3.91,
+      "volume": 4762900,
       "market_cap": 30412433162,
       "sector": "Basic Materials",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -0.17,
-      "perf_3m": 30.13,
-      "perf_6m": 12.59,
+      "perf_1m": 0.17,
+      "perf_3m": 30.58,
+      "perf_6m": 12.98,
       "perf_12m": null,
       "spark": [
         4.44,
@@ -669,23 +669,23 @@
         4.33,
         5.33,
         5.98,
-        5.83
+        5.85
       ]
     },
     "GOAU4": {
       "stock": "GOAU4",
       "name": "Metalúrgica Gerdau",
-      "close": 9.83,
-      "change": -1.01,
-      "volume": 7496400,
+      "close": 9.85,
+      "change": -0.81,
+      "volume": 8425900,
       "market_cap": 12653498039,
       "sector": "Basic Materials",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -5.65,
-      "perf_3m": -4.65,
-      "perf_6m": 3.74,
+      "perf_1m": -5.45,
+      "perf_3m": -4.46,
+      "perf_6m": 3.95,
       "perf_12m": null,
       "spark": [
         6.41,
@@ -717,23 +717,23 @@
         9.52,
         10.37,
         10.66,
-        9.83
+        9.85
       ]
     },
     "ITUB4": {
       "stock": "ITUB4",
       "name": "Itaú Unibanco PN",
-      "close": 38.49,
-      "change": 2.61,
-      "volume": 15965500,
+      "close": 38.69,
+      "change": 3.15,
+      "volume": 21351100,
       "market_cap": 428550354197,
       "sector": "Financial Services",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -10.24,
-      "perf_3m": -1.37,
-      "perf_6m": -19.14,
+      "perf_1m": -9.78,
+      "perf_3m": -0.86,
+      "perf_6m": -18.72,
       "perf_12m": null,
       "spark": [
         32.66,
@@ -765,23 +765,23 @@
         42.54,
         41.94,
         41.8,
-        38.49
+        38.69
       ]
     },
     "ITUB3": {
       "stock": "ITUB3",
       "name": "Itaú Unibanco ON",
-      "close": 41.23,
-      "change": 2.23,
-      "volume": 714500,
+      "close": 41.42,
+      "change": 2.7,
+      "volume": 837600,
       "market_cap": 428550354197,
       "sector": "Financial Services",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -9.35,
-      "perf_3m": 3.42,
-      "perf_6m": -7.27,
+      "perf_1m": -8.93,
+      "perf_3m": 3.9,
+      "perf_6m": -6.85,
       "perf_12m": null,
       "spark": [
         29.15,
@@ -813,23 +813,23 @@
         44.49,
         44.76,
         44.24,
-        41.23
+        41.42
       ]
     },
     "BBDC4": {
       "stock": "BBDC4",
       "name": "Bradesco PN",
-      "close": 16.22,
-      "change": 2.98,
-      "volume": 21202000,
+      "close": 16.26,
+      "change": 3.24,
+      "volume": 22628800,
       "market_cap": 165730985134,
       "sector": "Financial Services",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -14.41,
-      "perf_3m": -5.87,
-      "perf_6m": -20.8,
+      "perf_1m": -14.2,
+      "perf_3m": -5.64,
+      "perf_6m": -20.61,
       "perf_12m": null,
       "spark": [
         14.51,
@@ -861,23 +861,23 @@
         17.9,
         18.27,
         18.3,
-        16.22
+        16.26
       ]
     },
     "BBDC3": {
       "stock": "BBDC3",
       "name": "Bradesco ON",
-      "close": 14.32,
-      "change": 2.8,
-      "volume": 3098900,
+      "close": 14.35,
+      "change": 3.02,
+      "volume": 3344700,
       "market_cap": 165730985134,
       "sector": "Financial Services",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -13.22,
-      "perf_3m": -4.94,
-      "perf_6m": -18.62,
+      "perf_1m": -13.04,
+      "perf_3m": -4.74,
+      "perf_6m": -18.45,
       "perf_12m": null,
       "spark": [
         12.4,
@@ -909,7 +909,7 @@
         15.53,
         15.92,
         15.99,
-        14.32
+        14.35
       ]
     },
     "BBAS3": {
@@ -917,7 +917,7 @@
       "name": "Banco do Brasil",
       "close": 18.43,
       "change": 2.16,
-      "volume": 30302400,
+      "volume": 38403100,
       "market_cap": 103167453204,
       "sector": "Financial Services",
       "type": "stock",
@@ -963,17 +963,17 @@
     "SANB11": {
       "stock": "SANB11",
       "name": "Santander BR",
-      "close": 29.38,
-      "change": 1.42,
-      "volume": 2441700,
+      "close": 29.5,
+      "change": 1.83,
+      "volume": 2641300,
       "market_cap": 0,
       "sector": "Financial Services",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": 10.33,
-      "perf_3m": 8.43,
-      "perf_6m": -16.94,
+      "perf_1m": 10.78,
+      "perf_3m": 8.87,
+      "perf_6m": -16.6,
       "perf_12m": null,
       "spark": [
         24.55,
@@ -1005,23 +1005,23 @@
         25.5,
         26.13,
         25.25,
-        29.38
+        29.5
       ]
     },
     "BPAC11": {
       "stock": "BPAC11",
       "name": "BTG Pactual",
-      "close": 52.07,
-      "change": 4.43,
-      "volume": 9161000,
+      "close": 52.11,
+      "change": 4.51,
+      "volume": 10374000,
       "market_cap": 0,
       "sector": "Financial Services",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -6.16,
-      "perf_3m": -5.49,
-      "perf_6m": -15.03,
+      "perf_1m": -6.09,
+      "perf_3m": -5.42,
+      "perf_6m": -14.97,
       "perf_12m": null,
       "spark": [
         41.48,
@@ -1053,23 +1053,23 @@
         53.76,
         55.37,
         55.8,
-        52.07
+        52.11
       ]
     },
     "BRSR6": {
       "stock": "BRSR6",
       "name": "Banrisul",
-      "close": 13.37,
-      "change": 1.83,
-      "volume": 764800,
+      "close": 13.46,
+      "change": 2.51,
+      "volume": 904400,
       "market_cap": 6108603643,
       "sector": "Financial Services",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -7.47,
-      "perf_3m": -7.37,
-      "perf_6m": -26.92,
+      "perf_1m": -6.85,
+      "perf_3m": -6.75,
+      "perf_6m": -26.43,
       "perf_12m": null,
       "spark": [
         10.09,
@@ -1101,23 +1101,23 @@
         14.05,
         13.81,
         13.92,
-        13.37
+        13.46
       ]
     },
     "BMGB4": {
       "stock": "BMGB4",
       "name": "Banco BMG",
-      "close": 5.11,
-      "change": 2.82,
-      "volume": 562500,
+      "close": 5.1,
+      "change": 2.62,
+      "volume": 649300,
       "market_cap": 1162020583,
       "sector": "Financial Services",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -4.66,
-      "perf_3m": -1.16,
-      "perf_6m": 6.22,
+      "perf_1m": -4.85,
+      "perf_3m": -1.35,
+      "perf_6m": 6.01,
       "perf_12m": null,
       "spark": [
         3.25,
@@ -1149,23 +1149,23 @@
         5.29,
         5.13,
         5.23,
-        5.11
+        5.1
       ]
     },
     "B3SA3": {
       "stock": "B3SA3",
       "name": "B3",
-      "close": 15.01,
-      "change": 4.67,
-      "volume": 27578500,
+      "close": 15.06,
+      "change": 5.02,
+      "volume": 31738600,
       "market_cap": 69670792714,
       "sector": "Financial Services",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -5.6,
-      "perf_3m": -8.56,
-      "perf_6m": -13.83,
+      "perf_1m": -5.28,
+      "perf_3m": -8.25,
+      "perf_6m": -13.54,
       "perf_12m": null,
       "spark": [
         11.62,
@@ -1197,23 +1197,23 @@
         14.58,
         15.2,
         15.32,
-        15.01
+        15.06
       ]
     },
     "IRBR3": {
       "stock": "IRBR3",
       "name": "IRB Brasil",
-      "close": 49.73,
-      "change": 0.46,
-      "volume": 230700,
+      "close": 50.01,
+      "change": 1.03,
+      "volume": 342500,
       "market_cap": 4009630340,
       "sector": "Financial Services",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -11.87,
-      "perf_3m": -3.67,
-      "perf_6m": -13.41,
+      "perf_1m": -11.38,
+      "perf_3m": -3.13,
+      "perf_6m": -12.92,
       "perf_12m": null,
       "spark": [
         44.93,
@@ -1245,7 +1245,7 @@
         54.86,
         57.0,
         53.32,
-        49.73
+        50.01
       ]
     },
     "TRAD3": {
@@ -1294,17 +1294,17 @@
     "BBSE3": {
       "stock": "BBSE3",
       "name": "BB Seguridade",
-      "close": 37.23,
-      "change": 1.86,
-      "volume": 13586400,
+      "close": 37.21,
+      "change": 1.81,
+      "volume": 14229800,
       "market_cap": 70837061845,
       "sector": "Financial Services",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -8.12,
-      "perf_3m": 13.5,
-      "perf_6m": 16.51,
+      "perf_1m": -8.16,
+      "perf_3m": 13.44,
+      "perf_6m": 16.45,
       "perf_12m": null,
       "spark": [
         28.02,
@@ -1336,23 +1336,23 @@
         36.84,
         39.13,
         38.94,
-        37.23
+        37.21
       ]
     },
     "PSSA3": {
       "stock": "PSSA3",
       "name": "Porto Seguro",
-      "close": 46.9,
-      "change": 0.8,
-      "volume": 1063400,
+      "close": 46.99,
+      "change": 0.99,
+      "volume": 1122900,
       "market_cap": 29882781289,
       "sector": "Financial Services",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -15.01,
-      "perf_3m": -3.83,
-      "perf_6m": -6.01,
+      "perf_1m": -14.84,
+      "perf_3m": -3.64,
+      "perf_6m": -5.82,
       "perf_12m": null,
       "spark": [
         47.82,
@@ -1384,23 +1384,23 @@
         51.5,
         55.14,
         54.35,
-        46.9
+        46.99
       ]
     },
     "AXIA3": {
       "stock": "AXIA3",
       "name": "Axia Energia ON",
-      "close": 52.07,
-      "change": 1.86,
-      "volume": 6141800,
+      "close": 52.12,
+      "change": 1.96,
+      "volume": 7010600,
       "market_cap": 117311860908,
       "sector": "Utilities",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": 0.75,
-      "perf_3m": -3.57,
-      "perf_6m": -14.89,
+      "perf_1m": 0.85,
+      "perf_3m": -3.48,
+      "perf_6m": -14.81,
       "perf_12m": null,
       "spark": [
         41.11,
@@ -1432,23 +1432,23 @@
         53.54,
         50.2,
         51.13,
-        52.07
+        52.12
       ]
     },
     "CPFE3": {
       "stock": "CPFE3",
       "name": "CPFL Energia",
-      "close": 42.65,
-      "change": 0.95,
-      "volume": 539700,
+      "close": 42.67,
+      "change": 0.99,
+      "volume": 603500,
       "market_cap": 48682753326,
       "sector": "Utilities",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -8.69,
-      "perf_3m": -1.52,
-      "perf_6m": -7.95,
+      "perf_1m": -8.65,
+      "perf_3m": -1.48,
+      "perf_6m": -7.9,
       "perf_12m": null,
       "spark": [
         35.99,
@@ -1480,23 +1480,23 @@
         44.88,
         46.87,
         44.79,
-        42.65
+        42.67
       ]
     },
     "ENGI11": {
       "stock": "ENGI11",
       "name": "Energisa",
-      "close": 44.88,
-      "change": 2.68,
-      "volume": 1284500,
+      "close": 44.93,
+      "change": 2.79,
+      "volume": 1562500,
       "market_cap": 0,
       "sector": "Utilities",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -9.25,
-      "perf_3m": -7.3,
-      "perf_6m": -14.85,
+      "perf_1m": -9.14,
+      "perf_3m": -7.2,
+      "perf_6m": -14.75,
       "perf_12m": null,
       "spark": [
         41.02,
@@ -1528,23 +1528,23 @@
         48.03,
         48.71,
         49.07,
-        44.88
+        44.93
       ]
     },
     "EGIE3": {
       "stock": "EGIE3",
       "name": "Engie Brasil",
-      "close": 27.8,
-      "change": 1.92,
-      "volume": 1583800,
+      "close": 27.81,
+      "change": 1.96,
+      "volume": 1851900,
       "market_cap": 39403732056,
       "sector": "Utilities",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -6.42,
-      "perf_3m": -12.24,
-      "perf_6m": -14.74,
+      "perf_1m": -6.39,
+      "perf_3m": -12.21,
+      "perf_6m": -14.71,
       "perf_12m": null,
       "spark": [
         27.01,
@@ -1576,23 +1576,23 @@
         31.51,
         29.38,
         28.72,
-        27.8
+        27.81
       ]
     },
     "TAEE11": {
       "stock": "TAEE11",
       "name": "Taesa",
-      "close": 37.82,
-      "change": 0.99,
-      "volume": 1163300,
+      "close": 37.93,
+      "change": 1.28,
+      "volume": 1314600,
       "market_cap": 0,
       "sector": "Utilities",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -7.22,
-      "perf_3m": -2.74,
-      "perf_6m": -11.57,
+      "perf_1m": -6.95,
+      "perf_3m": -2.46,
+      "perf_6m": -11.31,
       "perf_12m": null,
       "spark": [
         30.9,
@@ -1624,23 +1624,23 @@
         39.76,
         40.24,
         39.24,
-        37.82
+        37.93
       ]
     },
     "ENEV3": {
       "stock": "ENEV3",
       "name": "Eneva",
-      "close": 25.45,
-      "change": 2.13,
-      "volume": 7664100,
+      "close": 25.6,
+      "change": 2.73,
+      "volume": 8567000,
       "market_cap": 47558664189,
       "sector": "Utilities",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -2.0,
-      "perf_3m": 1.96,
-      "perf_6m": 16.21,
+      "perf_1m": -1.42,
+      "perf_3m": 2.56,
+      "perf_6m": 16.89,
       "perf_12m": null,
       "spark": [
         14.0,
@@ -1672,23 +1672,23 @@
         26.1,
         25.68,
         25.87,
-        25.45
+        25.6
       ]
     },
     "CMIG4": {
       "stock": "CMIG4",
       "name": "Cemig PN",
-      "close": 10.11,
-      "change": 1.61,
-      "volume": 8650700,
+      "close": 10.1,
+      "change": 1.51,
+      "volume": 9968500,
       "market_cap": 33289525789,
       "sector": "Utilities",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -9.81,
-      "perf_3m": -8.05,
-      "perf_6m": -9.73,
+      "perf_1m": -9.9,
+      "perf_3m": -8.14,
+      "perf_6m": -9.82,
       "perf_12m": null,
       "spark": [
         9.5,
@@ -1720,23 +1720,23 @@
         10.88,
         11.12,
         11.0,
-        10.11
+        10.1
       ]
     },
     "AURE3": {
       "stock": "AURE3",
       "name": "Auren Energia",
-      "close": 10.28,
-      "change": 1.78,
-      "volume": 1323200,
+      "close": 10.29,
+      "change": 1.88,
+      "volume": 1426400,
       "market_cap": 10608818723,
       "sector": "Utilities",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -11.0,
-      "perf_3m": -17.43,
-      "perf_6m": -12.66,
+      "perf_1m": -10.91,
+      "perf_3m": -17.35,
+      "perf_6m": -12.57,
       "perf_12m": null,
       "spark": [
         10.5,
@@ -1768,7 +1768,7 @@
         12.24,
         11.59,
         11.11,
-        10.28
+        10.29
       ]
     },
     "ALUP11": {
@@ -1776,7 +1776,7 @@
       "name": "Alupar",
       "close": 32.15,
       "change": 3.51,
-      "volume": 635200,
+      "volume": 764400,
       "market_cap": 0,
       "sector": "Utilities",
       "type": "stock",
@@ -1822,17 +1822,17 @@
     "EQTL3": {
       "stock": "EQTL3",
       "name": "Equatorial Energia",
-      "close": 36.03,
-      "change": 3.03,
-      "volume": 9518300,
+      "close": 36.05,
+      "change": 3.09,
+      "volume": 10539200,
       "market_cap": 43031179865,
       "sector": "Utilities",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -8.44,
-      "perf_3m": -4.35,
-      "perf_6m": -12.7,
+      "perf_1m": -8.39,
+      "perf_3m": -4.3,
+      "perf_6m": -12.65,
       "perf_12m": null,
       "spark": [
         33.29,
@@ -1864,23 +1864,23 @@
         39.06,
         39.5,
         37.82,
-        36.03
+        36.05
       ]
     },
     "SBSP3": {
       "stock": "SBSP3",
       "name": "Sabesp",
-      "close": 23.78,
-      "change": 2.02,
-      "volume": 18116200,
+      "close": 23.86,
+      "change": 2.36,
+      "volume": 21624200,
       "market_cap": 82156884155,
       "sector": "Utilities",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -18.81,
-      "perf_3m": -16.44,
-      "perf_6m": -22.01,
+      "perf_1m": -18.54,
+      "perf_3m": -16.16,
+      "perf_6m": -21.74,
       "perf_12m": null,
       "spark": [
         22.05,
@@ -1912,23 +1912,23 @@
         29.71,
         29.22,
         26.61,
-        23.78
+        23.86
       ]
     },
     "CSMG3": {
       "stock": "CSMG3",
       "name": "Copasa",
-      "close": 54.6,
-      "change": 2.38,
-      "volume": 2542900,
+      "close": 54.56,
+      "change": 2.31,
+      "volume": 2834000,
       "market_cap": 20221726666,
       "sector": "Utilities",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -14.69,
-      "perf_3m": 5.09,
-      "perf_6m": -4.69,
+      "perf_1m": -14.75,
+      "perf_3m": 5.01,
+      "perf_6m": -4.76,
       "perf_12m": null,
       "spark": [
         25.86,
@@ -1960,23 +1960,23 @@
         62.5,
         63.56,
         61.82,
-        54.6
+        54.56
       ]
     },
     "VIVT3": {
       "stock": "VIVT3",
       "name": "Vivo (Telefônica)",
-      "close": 29.58,
-      "change": 1.02,
-      "volume": 3633100,
+      "close": 29.63,
+      "change": 1.2,
+      "volume": 4077700,
       "market_cap": 94131613692,
       "sector": "Communication Services",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -16.03,
-      "perf_3m": -10.79,
-      "perf_6m": -23.54,
+      "perf_1m": -15.89,
+      "perf_3m": -10.64,
+      "perf_6m": -23.41,
       "perf_12m": null,
       "spark": [
         31.72,
@@ -2008,23 +2008,23 @@
         34.35,
         35.37,
         32.54,
-        29.58
+        29.63
       ]
     },
     "TIMS3": {
       "stock": "TIMS3",
       "name": "TIM",
-      "close": 18.3,
-      "change": 0.38,
-      "volume": 5598000,
+      "close": 18.37,
+      "change": 0.77,
+      "volume": 6221000,
       "market_cap": 43608232924,
       "sector": "Communication Services",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -17.27,
-      "perf_3m": -18.05,
-      "perf_6m": -31.34,
+      "perf_1m": -16.95,
+      "perf_3m": -17.73,
+      "perf_6m": -31.08,
       "perf_12m": null,
       "spark": [
         21.09,
@@ -2056,23 +2056,23 @@
         22.5,
         22.6,
         19.48,
-        18.3
+        18.37
       ]
     },
     "MGLU3": {
       "stock": "MGLU3",
       "name": "Magazine Luiza",
-      "close": 4.13,
-      "change": 6.44,
-      "volume": 25883400,
+      "close": 4.1,
+      "change": 5.67,
+      "volume": 27287400,
       "market_cap": 2734859666,
       "sector": "Consumer Cyclical",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -15.89,
-      "perf_3m": -37.71,
-      "perf_6m": -60.6,
+      "perf_1m": -16.5,
+      "perf_3m": -38.16,
+      "perf_6m": -60.88,
       "perf_12m": null,
       "spark": [
         6.3,
@@ -2104,23 +2104,23 @@
         4.35,
         4.92,
         4.76,
-        4.13
+        4.1
       ]
     },
     "LREN3": {
       "stock": "LREN3",
       "name": "Lojas Renner",
-      "close": 10.92,
-      "change": 4.0,
-      "volume": 13721600,
+      "close": 10.94,
+      "change": 4.19,
+      "volume": 15024200,
       "market_cap": 10538701447,
       "sector": "Consumer Cyclical",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -19.35,
-      "perf_3m": -26.38,
-      "perf_6m": -27.81,
+      "perf_1m": -19.2,
+      "perf_3m": -26.24,
+      "perf_6m": -27.68,
       "perf_12m": null,
       "spark": [
         14.53,
@@ -2152,23 +2152,23 @@
         14.09,
         13.42,
         13.36,
-        10.92
+        10.94
       ]
     },
     "AZZA3": {
       "stock": "AZZA3",
       "name": "Azzas 2154",
-      "close": 15.18,
-      "change": 1.13,
-      "volume": 2322400,
+      "close": 15.25,
+      "change": 1.6,
+      "volume": 2779800,
       "market_cap": 3097087582,
       "sector": "Consumer Cyclical",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -14.77,
-      "perf_3m": -26.74,
-      "perf_6m": -40.28,
+      "perf_1m": -14.37,
+      "perf_3m": -26.4,
+      "perf_6m": -40.01,
       "perf_12m": null,
       "spark": [
         28.43,
@@ -2200,23 +2200,23 @@
         17.45,
         18.59,
         16.15,
-        15.18
+        15.25
       ]
     },
     "NATU3": {
       "stock": "NATU3",
       "name": "Natura",
-      "close": 7.79,
-      "change": 2.23,
-      "volume": 2482600,
+      "close": 7.82,
+      "change": 2.62,
+      "volume": 3138400,
       "market_cap": 10472656417,
       "sector": "Consumer Cyclical",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -10.25,
-      "perf_3m": -22.87,
-      "perf_6m": -16.68,
+      "perf_1m": -9.91,
+      "perf_3m": -22.57,
+      "perf_6m": -16.36,
       "perf_12m": null,
       "spark": [
         8.44,
@@ -2248,7 +2248,7 @@
         8.31,
         8.55,
         8.27,
-        7.79
+        7.82
       ]
     },
     "AMAR3": {
@@ -2256,7 +2256,7 @@
       "name": "Marisa",
       "close": 0.61,
       "change": -3.17,
-      "volume": 713700,
+      "volume": 745100,
       "market_cap": 323506805,
       "sector": "Consumer Cyclical",
       "type": "stock",
@@ -2302,17 +2302,17 @@
     "CEAB3": {
       "stock": "CEAB3",
       "name": "C&A",
-      "close": 7.56,
-      "change": 3.85,
-      "volume": 8117400,
+      "close": 7.58,
+      "change": 4.12,
+      "volume": 8852600,
       "market_cap": 2244024073,
       "sector": "Consumer Cyclical",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -21.58,
-      "perf_3m": -32.44,
-      "perf_6m": -43.12,
+      "perf_1m": -21.37,
+      "perf_3m": -32.26,
+      "perf_6m": -42.96,
       "perf_12m": null,
       "spark": [
         15.08,
@@ -2344,23 +2344,23 @@
         10.66,
         9.75,
         9.12,
-        7.56
+        7.58
       ]
     },
     "GMAT3": {
       "stock": "GMAT3",
       "name": "Grupo Mateus",
-      "close": 4.14,
-      "change": 4.02,
-      "volume": 4999300,
+      "close": 4.16,
+      "change": 4.52,
+      "volume": 5382200,
       "market_cap": 9168695728,
       "sector": "Consumer Cyclical",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": 5.88,
-      "perf_3m": -5.69,
-      "perf_6m": -25.81,
+      "perf_1m": 6.39,
+      "perf_3m": -5.24,
+      "perf_6m": -25.45,
       "perf_12m": null,
       "spark": [
         6.64,
@@ -2392,23 +2392,23 @@
         3.66,
         3.88,
         3.89,
-        4.14
+        4.16
       ]
     },
     "SBFG3": {
       "stock": "SBFG3",
       "name": "SBF Group (Centauro)",
-      "close": 8.1,
-      "change": 1.76,
-      "volume": 1183300,
+      "close": 8.21,
+      "change": 3.14,
+      "volume": 1574200,
       "market_cap": 1836085460,
       "sector": "Consumer Cyclical",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -15.54,
-      "perf_3m": -25.69,
-      "perf_6m": -32.38,
+      "perf_1m": -14.39,
+      "perf_3m": -24.68,
+      "perf_6m": -31.46,
       "perf_12m": null,
       "spark": [
         9.66,
@@ -2440,23 +2440,23 @@
         9.99,
         9.71,
         9.32,
-        8.1
+        8.21
       ]
     },
     "ABEV3": {
       "stock": "ABEV3",
       "name": "Ambev",
-      "close": 14.97,
-      "change": 0.47,
-      "volume": 11004400,
+      "close": 15.01,
+      "change": 0.74,
+      "volume": 11878100,
       "market_cap": 230657436087,
       "sector": "Consumer Defensive",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -5.97,
-      "perf_3m": -8.47,
-      "perf_6m": -6.35,
+      "perf_1m": -5.72,
+      "perf_3m": -8.22,
+      "perf_6m": -6.1,
       "perf_12m": null,
       "spark": [
         11.4,
@@ -2488,23 +2488,23 @@
         15.61,
         15.63,
         15.96,
-        14.97
+        15.01
       ]
     },
     "JBSS32": {
       "stock": "JBSS32",
       "name": "JBS (BDR)",
-      "close": 70.91,
-      "change": 0.42,
-      "volume": 564493,
+      "close": 71.0,
+      "change": 0.55,
+      "volume": 579338,
       "market_cap": 75539247699.11505,
       "sector": "Consumer Defensive",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": 14.74,
-      "perf_3m": 7.05,
-      "perf_6m": -10.45,
+      "perf_1m": 14.89,
+      "perf_3m": 7.19,
+      "perf_6m": -10.33,
       "perf_12m": null,
       "spark": [
         78.25,
@@ -2536,23 +2536,23 @@
         62.0,
         60.2,
         72.38,
-        70.91
+        71.0
       ]
     },
     "MBRF3": {
       "stock": "MBRF3",
       "name": "MBRF Global Foods",
-      "close": 18.79,
-      "change": 2.85,
-      "volume": 3319500,
+      "close": 19.01,
+      "change": 4.05,
+      "volume": 4372900,
       "market_cap": 25209665656,
       "sector": "Consumer Defensive",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": 17.22,
-      "perf_3m": 13.19,
-      "perf_6m": 0.16,
+      "perf_1m": 18.59,
+      "perf_3m": 14.52,
+      "perf_6m": 1.33,
       "perf_12m": null,
       "spark": [
         22.23,
@@ -2584,23 +2584,23 @@
         16.41,
         15.03,
         16.66,
-        18.79
+        19.01
       ]
     },
     "BEEF3": {
       "stock": "BEEF3",
       "name": "Minerva Foods",
-      "close": 3.93,
-      "change": 2.88,
-      "volume": 15944500,
+      "close": 3.96,
+      "change": 3.66,
+      "volume": 17052100,
       "market_cap": 3749648890,
       "sector": "Consumer Defensive",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": 8.86,
-      "perf_3m": 3.97,
-      "perf_6m": -30.01,
+      "perf_1m": 9.7,
+      "perf_3m": 4.76,
+      "perf_6m": -29.48,
       "perf_12m": null,
       "spark": [
         5.18,
@@ -2632,23 +2632,23 @@
         3.51,
         3.6,
         3.47,
-        3.93
+        3.96
       ]
     },
     "SLCE3": {
       "stock": "SLCE3",
       "name": "SLC Agrícola",
-      "close": 15.55,
-      "change": 2.64,
-      "volume": 3233900,
+      "close": 15.75,
+      "change": 3.96,
+      "volume": 3775600,
       "market_cap": 7500842115,
       "sector": "Consumer Defensive",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": 11.39,
-      "perf_3m": -3.24,
-      "perf_6m": -3.72,
+      "perf_1m": 12.82,
+      "perf_3m": -1.99,
+      "perf_6m": -2.48,
       "perf_12m": null,
       "spark": [
         14.24,
@@ -2680,7 +2680,7 @@
         12.8,
         13.53,
         13.09,
-        15.55
+        15.75
       ]
     },
     "AGRO3": {
@@ -2688,7 +2688,7 @@
       "name": "Brasilagro",
       "close": 18.96,
       "change": 0.85,
-      "volume": 80000,
+      "volume": 93500,
       "market_cap": 1863310535,
       "sector": "Consumer Defensive",
       "type": "stock",
@@ -2734,17 +2734,17 @@
     "SMTO3": {
       "stock": "SMTO3",
       "name": "São Martinho",
-      "close": 17.73,
-      "change": -0.39,
-      "volume": 2495600,
+      "close": 18.38,
+      "change": 3.26,
+      "volume": 2913400,
       "market_cap": 5781424325,
       "sector": "Consumer Defensive",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": 10.47,
-      "perf_3m": 2.16,
-      "perf_6m": 14.16,
+      "perf_1m": 14.52,
+      "perf_3m": 5.91,
+      "perf_6m": 18.35,
       "perf_12m": null,
       "spark": [
         16.25,
@@ -2776,23 +2776,23 @@
         14.96,
         15.45,
         14.27,
-        17.73
+        18.38
       ]
     },
     "TTEN3": {
       "stock": "TTEN3",
       "name": "Terra Santa Agro",
-      "close": 11.13,
-      "change": 2.49,
-      "volume": 1172700,
+      "close": 11.31,
+      "change": 4.14,
+      "volume": 1407900,
       "market_cap": 5438010934,
       "sector": "Consumer Defensive",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -27.25,
-      "perf_3m": -29.38,
-      "perf_6m": -33.07,
+      "perf_1m": -26.08,
+      "perf_3m": -28.24,
+      "perf_6m": -31.99,
       "perf_12m": null,
       "spark": [
         14.01,
@@ -2824,23 +2824,23 @@
         15.05,
         15.57,
         12.3,
-        11.13
+        11.31
       ]
     },
     "RDOR3": {
       "stock": "RDOR3",
       "name": "Rede D'Or",
-      "close": 34.07,
-      "change": 0.95,
-      "volume": 14142100,
+      "close": 34.18,
+      "change": 1.27,
+      "volume": 14649900,
       "market_cap": 74296529846,
       "sector": "Healthcare",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -1.22,
-      "perf_3m": 0.53,
-      "perf_6m": -22.95,
+      "perf_1m": -0.9,
+      "perf_3m": 0.86,
+      "perf_6m": -22.7,
       "perf_12m": null,
       "spark": [
         33.72,
@@ -2872,23 +2872,23 @@
         35.0,
         35.78,
         33.85,
-        34.07
+        34.18
       ]
     },
     "HAPV3": {
       "stock": "HAPV3",
       "name": "Hapvida",
-      "close": 6.3,
-      "change": 3.45,
-      "volume": 11054800,
+      "close": 6.5,
+      "change": 6.73,
+      "volume": 14538600,
       "market_cap": 3029836593,
       "sector": "Healthcare",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -44.69,
-      "perf_3m": -47.72,
-      "perf_6m": -41.61,
+      "perf_1m": -42.93,
+      "perf_3m": -46.06,
+      "perf_6m": -39.76,
       "perf_12m": null,
       "spark": [
         36.85,
@@ -2920,23 +2920,23 @@
         10.38,
         11.38,
         10.55,
-        6.3
+        6.5
       ]
     },
     "FLRY3": {
       "stock": "FLRY3",
       "name": "Fleury",
-      "close": 18.54,
-      "change": 2.26,
-      "volume": 6884200,
+      "close": 18.62,
+      "change": 2.7,
+      "volume": 7220500,
       "market_cap": 9902892364,
       "sector": "Healthcare",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": 13.8,
-      "perf_3m": 20.77,
-      "perf_6m": 5.56,
+      "perf_1m": 14.3,
+      "perf_3m": 21.29,
+      "perf_6m": 6.02,
       "perf_12m": null,
       "spark": [
         12.84,
@@ -2968,7 +2968,7 @@
         15.31,
         16.23,
         16.47,
-        18.54
+        18.62
       ]
     },
     "DASA3": {
@@ -2976,7 +2976,7 @@
       "name": "Dasa",
       "close": 2.55,
       "change": 11.35,
-      "volume": 1311600,
+      "volume": 1421100,
       "market_cap": 2861687606,
       "sector": "Healthcare",
       "type": "stock",
@@ -3022,17 +3022,17 @@
     "RADL3": {
       "stock": "RADL3",
       "name": "Raia Drogasil",
-      "close": 18.53,
-      "change": 5.46,
-      "volume": 6458300,
+      "close": 18.52,
+      "change": 5.41,
+      "volume": 7495200,
       "market_cap": 30705279563,
       "sector": "Healthcare",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": 1.31,
-      "perf_3m": 2.56,
-      "perf_6m": -29.08,
+      "perf_1m": 1.26,
+      "perf_3m": 2.51,
+      "perf_6m": -29.12,
       "perf_12m": null,
       "spark": [
         17.51,
@@ -3064,23 +3064,23 @@
         17.44,
         18.55,
         17.76,
-        18.53
+        18.52
       ]
     },
     "CYRE3": {
       "stock": "CYRE3",
       "name": "Cyrela",
-      "close": 23.09,
-      "change": 2.3,
-      "volume": 5795100,
+      "close": 22.96,
+      "change": 1.73,
+      "volume": 6863500,
       "market_cap": 9773931573,
       "sector": "Real Estate",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": 8.51,
-      "perf_3m": 8.66,
-      "perf_6m": -27.11,
+      "perf_1m": 7.89,
+      "perf_3m": 8.05,
+      "perf_6m": -27.53,
       "perf_12m": null,
       "spark": [
         22.57,
@@ -3112,7 +3112,7 @@
         22.59,
         21.63,
         20.77,
-        23.09
+        22.96
       ]
     },
     "MRVE3": {
@@ -3120,7 +3120,7 @@
       "name": "MRV Engenharia",
       "close": 5.06,
       "change": 3.05,
-      "volume": 8196400,
+      "volume": 9148500,
       "market_cap": 2763516875,
       "sector": "Real Estate",
       "type": "stock",
@@ -3166,17 +3166,17 @@
     "EZTC3": {
       "stock": "EZTC3",
       "name": "EZTEC",
-      "close": 11.2,
-      "change": 6.57,
-      "volume": 2878800,
+      "close": 11.27,
+      "change": 7.23,
+      "volume": 3683000,
       "market_cap": 2897779749,
       "sector": "Real Estate",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": 0.27,
-      "perf_3m": -14.97,
-      "perf_6m": -29.09,
+      "perf_1m": 0.9,
+      "perf_3m": -14.44,
+      "perf_6m": -28.65,
       "perf_12m": null,
       "spark": [
         9.84,
@@ -3208,23 +3208,23 @@
         12.57,
         11.9,
         11.39,
-        11.2
+        11.27
       ]
     },
     "JHSF3": {
       "stock": "JHSF3",
       "name": "JHSF",
-      "close": 10.23,
-      "change": 2.4,
-      "volume": 1781300,
+      "close": 10.24,
+      "change": 2.5,
+      "volume": 2071800,
       "market_cap": 6782771441,
       "sector": "Real Estate",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -9.79,
-      "perf_3m": -1.29,
-      "perf_6m": 7.01,
+      "perf_1m": -9.7,
+      "perf_3m": -1.2,
+      "perf_6m": 7.11,
       "perf_12m": null,
       "spark": [
         4.95,
@@ -3256,23 +3256,23 @@
         10.57,
         10.86,
         10.51,
-        10.23
+        10.24
       ]
     },
     "MDNE3": {
       "stock": "MDNE3",
       "name": "Modenese",
-      "close": 23.51,
-      "change": 3.52,
-      "volume": 447400,
+      "close": 23.49,
+      "change": 3.43,
+      "volume": 485000,
       "market_cap": 2359296743,
       "sector": "Real Estate",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -5.77,
-      "perf_3m": -16.42,
-      "perf_6m": -31.42,
+      "perf_1m": -5.85,
+      "perf_3m": -16.49,
+      "perf_6m": -31.48,
       "perf_12m": null,
       "spark": [
         19.63,
@@ -3304,23 +3304,23 @@
         27.28,
         24.74,
         24.72,
-        23.51
+        23.49
       ]
     },
     "DIRR3": {
       "stock": "DIRR3",
       "name": "Direcional",
-      "close": 10.49,
-      "change": 0.77,
-      "volume": 16192100,
+      "close": 10.51,
+      "change": 0.96,
+      "volume": 17222000,
       "market_cap": 5413335891,
       "sector": "Real Estate",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -10.34,
-      "perf_3m": -18.17,
-      "perf_6m": -37.45,
+      "perf_1m": -10.17,
+      "perf_3m": -18.02,
+      "perf_6m": -37.33,
       "perf_12m": null,
       "spark": [
         12.65,
@@ -3352,7 +3352,7 @@
         13.88,
         12.04,
         11.09,
-        10.49
+        10.51
       ]
     },
     "TEND3": {
@@ -3360,7 +3360,7 @@
       "name": "Tenda",
       "close": 31.16,
       "change": 0.87,
-      "volume": 1718900,
+      "volume": 2091400,
       "market_cap": 3535303303,
       "sector": "Real Estate",
       "type": "stock",
@@ -3406,17 +3406,17 @@
     "LAVV3": {
       "stock": "LAVV3",
       "name": "Lavvi",
-      "close": 9.81,
-      "change": 2.19,
-      "volume": 191100,
+      "close": 9.77,
+      "change": 1.77,
+      "volume": 251200,
       "market_cap": 1860209986,
       "sector": "Real Estate",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -5.03,
-      "perf_3m": -14.77,
-      "perf_6m": -47.48,
+      "perf_1m": -5.42,
+      "perf_3m": -15.12,
+      "perf_6m": -47.7,
       "perf_12m": null,
       "spark": [
         10.51,
@@ -3448,23 +3448,23 @@
         11.21,
         11.06,
         9.98,
-        9.81
+        9.77
       ]
     },
     "MULT3": {
       "stock": "MULT3",
       "name": "Multiplan",
-      "close": 26.78,
-      "change": 1.63,
-      "volume": 2974300,
+      "close": 26.77,
+      "change": 1.59,
+      "volume": 3298200,
       "market_cap": 7947361310,
       "sector": "Real Estate",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -5.8,
-      "perf_3m": -11.01,
-      "perf_6m": -20.04,
+      "perf_1m": -5.84,
+      "perf_3m": -11.05,
+      "perf_6m": -20.07,
       "perf_12m": null,
       "spark": [
         25.22,
@@ -3496,23 +3496,23 @@
         28.62,
         28.53,
         28.23,
-        26.78
+        26.77
       ]
     },
     "IGTI11": {
       "stock": "IGTI11",
       "name": "Iguatemi",
-      "close": 23.39,
-      "change": 3.63,
-      "volume": 993700,
+      "close": 23.42,
+      "change": 3.77,
+      "volume": 1115300,
       "market_cap": 0,
       "sector": "Real Estate",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -5.42,
-      "perf_3m": -11.77,
-      "perf_6m": -19.2,
+      "perf_1m": -5.3,
+      "perf_3m": -11.66,
+      "perf_6m": -19.1,
       "perf_12m": null,
       "spark": [
         21.77,
@@ -3544,23 +3544,23 @@
         24.77,
         25.22,
         25.11,
-        23.39
+        23.42
       ]
     },
     "RAIL3": {
       "stock": "RAIL3",
       "name": "Rumo",
-      "close": 14.36,
-      "change": 3.38,
-      "volume": 6267000,
+      "close": 14.37,
+      "change": 3.46,
+      "volume": 6688700,
       "market_cap": 25806959371,
       "sector": "Industrials",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": 2.87,
-      "perf_3m": 0.0,
-      "perf_6m": -12.41,
+      "perf_1m": 2.94,
+      "perf_3m": 0.07,
+      "perf_6m": -12.35,
       "perf_12m": null,
       "spark": [
         14.58,
@@ -3592,7 +3592,7 @@
         13.5,
         13.7,
         14.28,
-        14.36
+        14.37
       ]
     },
     "ECOR3": {
@@ -3600,7 +3600,7 @@
       "name": "Ecorodovias",
       "close": 6.71,
       "change": 7.53,
-      "volume": 5752000,
+      "volume": 6661700,
       "market_cap": 4340676608,
       "sector": "Industrials",
       "type": "stock",
@@ -3646,17 +3646,17 @@
     "POMO4": {
       "stock": "POMO4",
       "name": "Marcopolo",
-      "close": 4.48,
-      "change": 0.67,
-      "volume": 10123400,
+      "close": 4.49,
+      "change": 0.9,
+      "volume": 11292400,
       "market_cap": 5384694855,
       "sector": "Industrials",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -14.99,
-      "perf_3m": -24.45,
-      "perf_6m": -30.51,
+      "perf_1m": -14.8,
+      "perf_3m": -24.28,
+      "perf_6m": -30.36,
       "perf_12m": null,
       "spark": [
         7.15,
@@ -3688,23 +3688,23 @@
         5.74,
         5.24,
         5.31,
-        4.48
+        4.49
       ]
     },
     "TGMA3": {
       "stock": "TGMA3",
       "name": "Tegma",
-      "close": 34.06,
-      "change": 0.77,
-      "volume": 133000,
+      "close": 34.32,
+      "change": 1.54,
+      "volume": 159400,
       "market_cap": 2228696733,
       "sector": "Industrials",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": 12.08,
-      "perf_3m": 12.04,
-      "perf_6m": -12.81,
+      "perf_1m": 12.93,
+      "perf_3m": 12.9,
+      "perf_6m": -12.14,
       "perf_12m": null,
       "spark": [
         32.71,
@@ -3736,7 +3736,7 @@
         28.78,
         30.45,
         29.32,
-        34.06
+        34.32
       ]
     },
     "LOGN3": {
@@ -3790,17 +3790,17 @@
     "EMBJ3": {
       "stock": "EMBJ3",
       "name": "Embraer",
-      "close": 98.0,
-      "change": -0.26,
-      "volume": 2738800,
+      "close": 97.97,
+      "change": -0.3,
+      "volume": 3007000,
       "market_cap": 71018999835,
       "sector": "Industrials",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": 16.96,
-      "perf_3m": 35.97,
-      "perf_6m": 3.95,
+      "perf_1m": 16.92,
+      "perf_3m": 35.93,
+      "perf_6m": 3.92,
       "perf_12m": null,
       "spark": [
         76.07,
@@ -3832,23 +3832,23 @@
         86.29,
         81.75,
         86.09,
-        98.0
+        97.97
       ]
     },
     "RENT3": {
       "stock": "RENT3",
       "name": "Localiza",
-      "close": 33.95,
-      "change": 5.99,
-      "volume": 8874100,
+      "close": 33.87,
+      "change": 5.74,
+      "volume": 11241400,
       "market_cap": 34475339827,
       "sector": "Industrials",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -8.59,
-      "perf_3m": -20.7,
-      "perf_6m": -33.67,
+      "perf_1m": -8.8,
+      "perf_3m": -20.89,
+      "perf_6m": -33.82,
       "perf_12m": null,
       "spark": [
         31.14,
@@ -3880,23 +3880,23 @@
         40.32,
         38.23,
         37.44,
-        33.95
+        33.87
       ]
     },
     "MOVI3": {
       "stock": "MOVI3",
       "name": "Movida",
-      "close": 7.02,
-      "change": 8.0,
-      "volume": 4670400,
+      "close": 7.04,
+      "change": 8.31,
+      "volume": 5071100,
       "market_cap": 2763490433,
       "sector": "Industrials",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -12.8,
-      "perf_3m": -25.71,
-      "perf_6m": -47.49,
+      "perf_1m": -12.55,
+      "perf_3m": -25.5,
+      "perf_6m": -47.34,
       "perf_12m": null,
       "spark": [
         6.1,
@@ -3928,7 +3928,7 @@
         9.15,
         8.67,
         7.85,
-        7.02
+        7.04
       ]
     },
     "HBSA3": {
@@ -3936,7 +3936,7 @@
       "name": "Hidrovias do Brasil",
       "close": 3.46,
       "change": 2.37,
-      "volume": 1700300,
+      "volume": 1801900,
       "market_cap": 4598093237,
       "sector": "Industrials",
       "type": "stock",
@@ -3982,17 +3982,17 @@
     "SUZB3": {
       "stock": "SUZB3",
       "name": "Suzano",
-      "close": 44.64,
-      "change": 1.09,
-      "volume": 7803800,
+      "close": 45.14,
+      "change": 2.22,
+      "volume": 10529300,
       "market_cap": 55291661996,
       "sector": "Basic Materials",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": 4.64,
-      "perf_3m": 7.05,
-      "perf_6m": -21.85,
+      "perf_1m": 5.81,
+      "perf_3m": 8.25,
+      "perf_6m": -20.98,
       "perf_12m": null,
       "spark": [
         51.19,
@@ -4024,23 +4024,23 @@
         40.72,
         41.93,
         42.3,
-        44.64
+        45.14
       ]
     },
     "KLBN11": {
       "stock": "KLBN11",
       "name": "Klabin",
-      "close": 18.36,
-      "change": 0.16,
-      "volume": 3172300,
+      "close": 18.56,
+      "change": 1.25,
+      "volume": 3935300,
       "market_cap": 0,
       "sector": "Basic Materials",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": 3.96,
-      "perf_3m": 10.94,
-      "perf_6m": -8.66,
+      "perf_1m": 5.1,
+      "perf_3m": 12.15,
+      "perf_6m": -7.66,
       "perf_12m": null,
       "spark": [
         16.67,
@@ -4072,23 +4072,23 @@
         17.17,
         17.58,
         18.05,
-        18.36
+        18.56
       ]
     },
     "TOTS3": {
       "stock": "TOTS3",
       "name": "Totvs",
-      "close": 32.35,
-      "change": 3.39,
-      "volume": 1538500,
+      "close": 32.22,
+      "change": 2.97,
+      "volume": 1772600,
       "market_cap": 18470384030,
       "sector": "Technology",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": 11.98,
-      "perf_3m": 3.36,
-      "perf_6m": -16.0,
+      "perf_1m": 11.53,
+      "perf_3m": 2.95,
+      "perf_6m": -16.34,
       "perf_12m": null,
       "spark": [
         40.29,
@@ -4120,23 +4120,23 @@
         28.51,
         29.19,
         29.44,
-        32.35
+        32.22
       ]
     },
     "LWSA3": {
       "stock": "LWSA3",
       "name": "Locaweb",
-      "close": 4.03,
-      "change": 3.07,
-      "volume": 1331000,
+      "close": 4.04,
+      "change": 3.32,
+      "volume": 1480800,
       "market_cap": 2221681188,
       "sector": "Technology",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": 7.24,
-      "perf_3m": 11.34,
-      "perf_6m": 12.88,
+      "perf_1m": 7.5,
+      "perf_3m": 11.61,
+      "perf_6m": 13.16,
       "perf_12m": null,
       "spark": [
         3.65,
@@ -4168,23 +4168,23 @@
         4.0,
         3.88,
         3.68,
-        4.03
+        4.04
       ]
     },
     "CASH3": {
       "stock": "CASH3",
       "name": "Méliuz",
-      "close": 5.69,
-      "change": 5.37,
-      "volume": 2336800,
+      "close": 5.74,
+      "change": 6.3,
+      "volume": 2544200,
       "market_cap": 561996095,
       "sector": "Technology",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": 29.02,
-      "perf_3m": 42.25,
-      "perf_6m": 63.51,
+      "perf_1m": 30.16,
+      "perf_3m": 43.5,
+      "perf_6m": 64.94,
       "perf_12m": null,
       "spark": [
         4.9,
@@ -4216,23 +4216,23 @@
         4.24,
         4.32,
         4.32,
-        5.69
+        5.74
       ]
     },
     "INTB3": {
       "stock": "INTB3",
       "name": "Intelbras",
-      "close": 13.93,
-      "change": 6.91,
-      "volume": 1643600,
+      "close": 13.95,
+      "change": 7.06,
+      "volume": 1768600,
       "market_cap": 4268772734,
       "sector": "Technology",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": 4.85,
-      "perf_3m": 0.19,
-      "perf_6m": 9.28,
+      "perf_1m": 5.0,
+      "perf_3m": 0.33,
+      "perf_6m": 9.44,
       "perf_12m": null,
       "spark": [
         10.95,
@@ -4264,7 +4264,7 @@
         12.6,
         13.09,
         14.24,
-        13.93
+        13.95
       ]
     },
     "MLAS3": {
@@ -4272,7 +4272,7 @@
       "name": "Multilaser",
       "close": 1.78,
       "change": 5.33,
-      "volume": 779200,
+      "volume": 869500,
       "market_cap": 1373374049,
       "sector": "Technology",
       "type": "stock",
@@ -4320,7 +4320,7 @@
       "name": "Cogna",
       "close": 2.11,
       "change": 3.43,
-      "volume": 18963900,
+      "volume": 29071400,
       "market_cap": 4204928505,
       "sector": "Consumer Cyclical",
       "type": "stock",
@@ -4366,17 +4366,17 @@
     "YDUQ3": {
       "stock": "YDUQ3",
       "name": "Yduqs",
-      "close": 7.83,
-      "change": 5.24,
-      "volume": 3264300,
+      "close": 7.88,
+      "change": 5.91,
+      "volume": 3680200,
       "market_cap": 1934617984,
       "sector": "Consumer Cyclical",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": 0.77,
-      "perf_3m": -18.18,
-      "perf_6m": -41.22,
+      "perf_1m": 1.42,
+      "perf_3m": -17.66,
+      "perf_6m": -40.84,
       "perf_12m": null,
       "spark": [
         11.6,
@@ -4408,23 +4408,23 @@
         8.69,
         8.61,
         8.14,
-        7.83
+        7.88
       ]
     },
     "SEER3": {
       "stock": "SEER3",
       "name": "SER Educacional",
-      "close": 11.11,
-      "change": 8.28,
-      "volume": 997500,
+      "close": 11.1,
+      "change": 8.19,
+      "volume": 1069600,
       "market_cap": 1320683211,
       "sector": "Consumer Cyclical",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": -5.53,
-      "perf_3m": -5.04,
-      "perf_6m": -10.51,
+      "perf_1m": -5.61,
+      "perf_3m": -5.13,
+      "perf_6m": -10.59,
       "perf_12m": null,
       "spark": [
         7.9,
@@ -4456,23 +4456,23 @@
         11.71,
         11.89,
         12.07,
-        11.11
+        11.1
       ]
     },
     "WEGE3": {
       "stock": "WEGE3",
       "name": "WEG",
-      "close": 49.34,
-      "change": 1.94,
-      "volume": 4650800,
+      "close": 49.25,
+      "change": 1.76,
+      "volume": 5143400,
       "market_cap": 203086973590,
       "sector": "Industrials",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": 5.56,
-      "perf_3m": 15.74,
-      "perf_6m": -3.52,
+      "perf_1m": 5.37,
+      "perf_3m": 15.53,
+      "perf_6m": -3.69,
       "perf_12m": null,
       "spark": [
         34.4,
@@ -4504,7 +4504,7 @@
         46.26,
         43.63,
         45.64,
-        49.34
+        49.25
       ]
     },
     "RAIZ4": {
@@ -4512,7 +4512,7 @@
       "name": "Raízen",
       "close": 0.24,
       "change": 4.35,
-      "volume": 6460100,
+      "volume": 6727200,
       "market_cap": 2381077222,
       "sector": "Industrials",
       "type": "stock",
@@ -4558,15 +4558,15 @@
     "SPCX34": {
       "stock": "SPCX34",
       "name": "SpaceX (BDR)",
-      "close": 46.84,
-      "change": 1.17,
-      "volume": 1253472,
+      "close": 46.52,
+      "change": 0.48,
+      "volume": 1372865,
       "market_cap": 9466544945502.342,
       "sector": "Industrials",
       "type": "stock",
       "dy": null,
       "pvp": null,
-      "perf_1m": 16.6,
+      "perf_1m": 15.81,
       "perf_3m": null,
       "perf_6m": null,
       "perf_12m": null,
@@ -4600,7 +4600,7 @@
         48.74,
         48.7,
         49.76,
-        46.84
+        46.52
       ]
     }
   },
@@ -4608,17 +4608,17 @@
     "HGLG11": {
       "stock": "HGLG11",
       "name": "CGHG Logística",
-      "close": 146.95,
-      "change": 1.21,
-      "volume": 59986,
+      "close": 147.14,
+      "change": 1.34,
+      "volume": 68851,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
       "dy": 8.21,
       "pvp": 0.87,
-      "perf_1m": 0.22,
-      "perf_3m": -3.24,
-      "perf_6m": -2.25,
+      "perf_1m": 0.35,
+      "perf_3m": -3.11,
+      "perf_6m": -2.12,
       "perf_12m": null,
       "spark": [
         139.13,
@@ -4650,23 +4650,23 @@
         147.82,
         147.74,
         145.73,
-        146.95
+        147.14
       ]
     },
     "XPLG11": {
       "stock": "XPLG11",
       "name": "XP Log",
-      "close": 90.11,
-      "change": 1.45,
-      "volume": 49154,
+      "close": 89.95,
+      "change": 1.27,
+      "volume": 62041,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
       "dy": 9.98,
       "pvp": 0.84,
-      "perf_1m": 0.26,
-      "perf_3m": -5.1,
-      "perf_6m": -6.98,
+      "perf_1m": 0.08,
+      "perf_3m": -5.27,
+      "perf_6m": -7.15,
       "perf_12m": null,
       "spark": [
         88.78,
@@ -4698,23 +4698,23 @@
         91.51,
         90.47,
         90.94,
-        90.11
+        89.95
       ]
     },
     "VILG11": {
       "stock": "VILG11",
       "name": "Vinci Logística",
-      "close": 90.4,
-      "change": 1.01,
-      "volume": 14347,
+      "close": 90.86,
+      "change": 1.52,
+      "volume": 16144,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
       "dy": 9.35,
       "pvp": 0.8,
-      "perf_1m": -1.83,
-      "perf_3m": -5.54,
-      "perf_6m": -6.21,
+      "perf_1m": -1.33,
+      "perf_3m": -5.06,
+      "perf_6m": -5.74,
       "perf_12m": null,
       "spark": [
         73.1,
@@ -4746,23 +4746,23 @@
         92.1,
         93.4,
         92.4,
-        90.4
+        90.86
       ]
     },
     "BRCO11": {
       "stock": "BRCO11",
       "name": "Bresco Logística",
-      "close": 111.68,
-      "change": 1.57,
-      "volume": 37751,
+      "close": 111.67,
+      "change": 1.56,
+      "volume": 40100,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
       "dy": 8.96,
       "pvp": 0.95,
       "perf_1m": -0.56,
-      "perf_3m": -2.11,
-      "perf_6m": -1.05,
+      "perf_3m": -2.12,
+      "perf_6m": -1.06,
       "perf_12m": null,
       "spark": [
         99.07,
@@ -4794,7 +4794,7 @@
         113.44,
         113.34,
         112.82,
-        111.68
+        111.67
       ]
     },
     "GLOG11": {
@@ -4850,7 +4850,7 @@
       "name": "Alianza Trust",
       "close": 9.96,
       "change": 1.63,
-      "volume": 220498,
+      "volume": 284093,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
@@ -4896,17 +4896,17 @@
     "LVBI11": {
       "stock": "LVBI11",
       "name": "LivBras",
-      "close": 97.77,
-      "change": 0.82,
-      "volume": 21808,
+      "close": 98.08,
+      "change": 1.14,
+      "volume": 24062,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
       "dy": 8.38,
       "pvp": 0.81,
-      "perf_1m": -4.98,
-      "perf_3m": -7.9,
-      "perf_6m": -7.5,
+      "perf_1m": -4.68,
+      "perf_3m": -7.61,
+      "perf_6m": -7.21,
       "perf_12m": null,
       "spark": [
         94.03,
@@ -4938,23 +4938,23 @@
         102.49,
         103.91,
         101.96,
-        97.77
+        98.08
       ]
     },
     "GGRC11": {
       "stock": "GGRC11",
       "name": "GGR Covepi",
-      "close": 9.07,
-      "change": 0.0,
-      "volume": 1631635,
+      "close": 9.05,
+      "change": -0.22,
+      "volume": 1788947,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
       "dy": 12.96,
       "pvp": 0.82,
-      "perf_1m": -7.27,
-      "perf_3m": -7.53,
-      "perf_6m": -4.03,
+      "perf_1m": -7.47,
+      "perf_3m": -7.73,
+      "perf_6m": -4.24,
       "perf_12m": null,
       "spark": [
         8.57,
@@ -4986,7 +4986,7 @@
         9.58,
         9.82,
         9.8,
-        9.07
+        9.05
       ]
     },
     "PATL11": {
@@ -5040,17 +5040,17 @@
     "BTLG11": {
       "stock": "BTLG11",
       "name": "BTG Logística",
-      "close": 98.2,
-      "change": 0.82,
-      "volume": 112974,
+      "close": 98.31,
+      "change": 0.93,
+      "volume": 127185,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
       "dy": 8.76,
       "pvp": 0.95,
-      "perf_1m": -2.04,
-      "perf_3m": -2.82,
-      "perf_6m": 0.4,
+      "perf_1m": -1.93,
+      "perf_3m": -2.71,
+      "perf_6m": 0.51,
       "perf_12m": null,
       "spark": [
         90.17,
@@ -5082,23 +5082,23 @@
         100.85,
         101.7,
         99.4,
-        98.2
+        98.31
       ]
     },
     "VGIP11": {
       "stock": "VGIP11",
       "name": "Valora CRI",
-      "close": 74.0,
-      "change": 0.19,
-      "volume": 16852,
+      "close": 73.89,
+      "change": 0.04,
+      "volume": 21155,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
       "dy": 11.5,
       "pvp": 0.81,
-      "perf_1m": -4.93,
-      "perf_3m": -4.86,
-      "perf_6m": -1.43,
+      "perf_1m": -5.07,
+      "perf_3m": -5.0,
+      "perf_6m": -1.57,
       "perf_12m": null,
       "spark": [
         70.94,
@@ -5130,23 +5130,23 @@
         78.08,
         78.48,
         77.48,
-        74.0
+        73.89
       ]
     },
     "TRXF11": {
       "stock": "TRXF11",
       "name": "TRX Real Estate",
-      "close": 70.96,
-      "change": -4.11,
-      "volume": 890428,
+      "close": 71.34,
+      "change": -3.59,
+      "volume": 981822,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
       "dy": 14.38,
       "pvp": 0.75,
-      "perf_1m": -21.22,
-      "perf_3m": -19.76,
-      "perf_6m": -18.38,
+      "perf_1m": -20.8,
+      "perf_3m": -19.33,
+      "perf_6m": -17.95,
       "perf_12m": null,
       "spark": [
         86.47,
@@ -5178,23 +5178,23 @@
         90.47,
         90.5,
         90.17,
-        70.96
+        71.34
       ]
     },
     "VISC11": {
       "stock": "VISC11",
       "name": "Vinci Shopping Centers",
-      "close": 101.8,
-      "change": 0.3,
-      "volume": 35426,
+      "close": 101.76,
+      "change": 0.26,
+      "volume": 39280,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
       "dy": 8.81,
       "pvp": 0.88,
-      "perf_1m": -1.54,
-      "perf_3m": -3.46,
-      "perf_6m": -2.68,
+      "perf_1m": -1.58,
+      "perf_3m": -3.5,
+      "perf_6m": -2.71,
       "perf_12m": null,
       "spark": [
         93.84,
@@ -5226,23 +5226,23 @@
         104.16,
         105.36,
         104.5,
-        101.8
+        101.76
       ]
     },
     "XPML11": {
       "stock": "XPML11",
       "name": "XP Malls",
-      "close": 98.69,
-      "change": 0.82,
-      "volume": 150986,
+      "close": 98.63,
+      "change": 0.76,
+      "volume": 169045,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
       "dy": 10.06,
       "pvp": 0.89,
-      "perf_1m": -4.76,
-      "perf_3m": -5.28,
-      "perf_6m": -6.76,
+      "perf_1m": -4.82,
+      "perf_3m": -5.34,
+      "perf_6m": -6.82,
       "perf_12m": null,
       "spark": [
         12.15,
@@ -5274,23 +5274,23 @@
         102.95,
         104.98,
         103.88,
-        98.69
+        98.63
       ]
     },
     "HSML11": {
       "stock": "HSML11",
       "name": "HSI Malls",
-      "close": 83.03,
-      "change": 0.92,
-      "volume": 68274,
+      "close": 83.29,
+      "change": 1.24,
+      "volume": 71192,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
       "dy": 9.28,
       "pvp": 0.79,
-      "perf_1m": -3.68,
-      "perf_3m": -3.34,
-      "perf_6m": -5.25,
+      "perf_1m": -3.38,
+      "perf_3m": -3.04,
+      "perf_6m": -4.95,
       "perf_12m": null,
       "spark": [
         72.73,
@@ -5322,23 +5322,23 @@
         85.1,
         86.77,
         85.39,
-        83.03
+        83.29
       ]
     },
     "BPML11": {
       "stock": "BPML11",
       "name": "BPM Logística",
-      "close": 82.1,
-      "change": -0.89,
-      "volume": 5569,
+      "close": 82.27,
+      "change": -0.69,
+      "volume": 7665,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
       "dy": 13.05,
       "pvp": 0.67,
-      "perf_1m": -2.22,
-      "perf_3m": -3.21,
-      "perf_6m": -6.45,
+      "perf_1m": -2.02,
+      "perf_3m": -3.01,
+      "perf_6m": -6.26,
       "perf_12m": null,
       "spark": [
         68.47,
@@ -5370,7 +5370,7 @@
         83.62,
         83.69,
         83.6,
-        82.1
+        82.27
       ]
     },
     "ATSA11": {
@@ -5424,17 +5424,17 @@
     "FVPQ11": {
       "stock": "FVPQ11",
       "name": "Fundo Vale Paraíba",
-      "close": 52.57,
-      "change": 0.13,
-      "volume": 312,
+      "close": 52.99,
+      "change": 0.93,
+      "volume": 354,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
       "dy": 6.01,
       "pvp": 0.57,
-      "perf_1m": -1.97,
-      "perf_3m": -18.24,
-      "perf_6m": -20.63,
+      "perf_1m": -1.19,
+      "perf_3m": -17.59,
+      "perf_6m": -20.0,
       "perf_12m": null,
       "spark": [
         66.21,
@@ -5466,23 +5466,23 @@
         56.56,
         54.81,
         51.85,
-        52.57
+        52.99
       ]
     },
     "HGRE11": {
       "stock": "HGRE11",
       "name": "CSHG Real Estate",
-      "close": 116.4,
-      "change": 2.32,
-      "volume": 12850,
+      "close": 115.94,
+      "change": 1.92,
+      "volume": 14263,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
       "dy": 9.21,
       "pvp": 0.77,
-      "perf_1m": -2.17,
-      "perf_3m": -7.73,
-      "perf_6m": -2.53,
+      "perf_1m": -2.55,
+      "perf_3m": -8.1,
+      "perf_6m": -2.92,
       "perf_12m": null,
       "spark": [
         100.82,
@@ -5514,23 +5514,23 @@
         121.43,
         122.72,
         117.68,
-        116.4
+        115.94
       ]
     },
     "BRCR11": {
       "stock": "BRCR11",
       "name": "BC Fund",
-      "close": 39.14,
-      "change": 0.13,
-      "volume": 16375,
+      "close": 38.99,
+      "change": -0.26,
+      "volume": 20892,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
       "dy": 11.2,
       "pvp": 0.48,
-      "perf_1m": -1.81,
-      "perf_3m": -9.25,
-      "perf_6m": -15.05,
+      "perf_1m": -2.19,
+      "perf_3m": -9.6,
+      "perf_6m": -15.37,
       "perf_12m": null,
       "spark": [
         36.13,
@@ -5562,23 +5562,23 @@
         41.26,
         40.56,
         39.68,
-        39.14
+        38.99
       ]
     },
     "RCRB11": {
       "stock": "RCRB11",
       "name": "Rio Bravo Renda Corporativa",
-      "close": 128.88,
-      "change": -0.3,
-      "volume": 4548,
+      "close": 128.8,
+      "change": -0.36,
+      "volume": 4827,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
       "dy": 8.46,
       "pvp": 0.65,
-      "perf_1m": -6.06,
-      "perf_3m": -6.34,
-      "perf_6m": -3.86,
+      "perf_1m": -6.12,
+      "perf_3m": -6.4,
+      "perf_6m": -3.92,
       "perf_12m": null,
       "spark": [
         114.48,
@@ -5610,7 +5610,7 @@
         134.83,
         136.16,
         135.51,
-        128.88
+        128.8
       ]
     },
     "PATC11": {
@@ -5664,17 +5664,17 @@
     "PVBI11": {
       "stock": "PVBI11",
       "name": "VBI Prime Properties",
-      "close": 65.81,
-      "change": 1.87,
-      "volume": 34939,
+      "close": 66.08,
+      "change": 2.29,
+      "volume": 43338,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
       "dy": 7.27,
       "pvp": 0.6,
-      "perf_1m": -6.1,
-      "perf_3m": -11.29,
-      "perf_6m": -14.23,
+      "perf_1m": -5.72,
+      "perf_3m": -10.93,
+      "perf_6m": -13.88,
       "perf_12m": null,
       "spark": [
         69.65,
@@ -5706,23 +5706,23 @@
         71.65,
         71.59,
         68.91,
-        65.81
+        66.08
       ]
     },
     "VINO11": {
       "stock": "VINO11",
       "name": "Vinci Offices",
-      "close": 4.29,
-      "change": 2.39,
-      "volume": 73214,
+      "close": 4.21,
+      "change": 0.48,
+      "volume": 98579,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
       "dy": 11.64,
       "pvp": 0.43,
-      "perf_1m": -5.88,
-      "perf_3m": -11.02,
-      "perf_6m": -18.5,
+      "perf_1m": -7.63,
+      "perf_3m": -12.68,
+      "perf_6m": -20.02,
       "perf_12m": null,
       "spark": [
         4.38,
@@ -5754,23 +5754,23 @@
         4.62,
         4.66,
         4.55,
-        4.29
+        4.21
       ]
     },
     "JSRE11": {
       "stock": "JSRE11",
       "name": "JS Real Estate",
-      "close": 57.48,
-      "change": 1.61,
-      "volume": 41314,
+      "close": 57.54,
+      "change": 1.71,
+      "volume": 52341,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
       "dy": 9.18,
       "pvp": 0.55,
-      "perf_1m": -2.48,
-      "perf_3m": -3.14,
-      "perf_6m": -11.11,
+      "perf_1m": -2.37,
+      "perf_3m": -3.04,
+      "perf_6m": -11.01,
       "perf_12m": null,
       "spark": [
         57.35,
@@ -5802,23 +5802,23 @@
         57.5,
         60.39,
         58.43,
-        57.48
+        57.54
       ]
     },
     "TGAR11": {
       "stock": "TGAR11",
       "name": "TG Ativo Real",
-      "close": 43.75,
-      "change": 1.74,
-      "volume": 69375,
+      "close": 43.61,
+      "change": 1.42,
+      "volume": 76896,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
       "dy": 21.09,
       "pvp": 0.4,
-      "perf_1m": -12.12,
-      "perf_3m": -24.75,
-      "perf_6m": -42.16,
+      "perf_1m": -12.4,
+      "perf_3m": -24.99,
+      "perf_6m": -42.34,
       "perf_12m": null,
       "spark": [
         73.61,
@@ -5850,23 +5850,23 @@
         51.06,
         50.04,
         49.58,
-        43.75
+        43.61
       ]
     },
     "MXRF11": {
       "stock": "MXRF11",
       "name": "Maxi Renda",
-      "close": 9.29,
-      "change": 0.76,
-      "volume": 1219080,
+      "close": 9.27,
+      "change": 0.54,
+      "volume": 1388232,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
       "dy": 12.7,
       "pvp": 0.98,
-      "perf_1m": -3.02,
-      "perf_3m": -3.32,
-      "perf_6m": 0.82,
+      "perf_1m": -3.23,
+      "perf_3m": -3.53,
+      "perf_6m": 0.6,
       "perf_12m": null,
       "spark": [
         8.42,
@@ -5898,7 +5898,7 @@
         9.6,
         9.63,
         9.53,
-        9.29
+        9.27
       ]
     },
     "IRDM11": {
@@ -5923,17 +5923,17 @@
     "KNCR11": {
       "stock": "KNCR11",
       "name": "Kinea Recebíveis",
-      "close": 107.39,
-      "change": 1.31,
-      "volume": 121626,
+      "close": 107.19,
+      "change": 1.12,
+      "volume": 138027,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
       "dy": 12.06,
       "pvp": 1.04,
-      "perf_1m": 1.38,
-      "perf_3m": 5.52,
-      "perf_6m": 7.86,
+      "perf_1m": 1.19,
+      "perf_3m": 5.33,
+      "perf_6m": 7.66,
       "perf_12m": null,
       "spark": [
         90.54,
@@ -5965,23 +5965,23 @@
         106.55,
         107.25,
         105.62,
-        107.39
+        107.19
       ]
     },
     "KNHY11": {
       "stock": "KNHY11",
       "name": "Kinea High Yield",
-      "close": 95.67,
-      "change": 1.17,
-      "volume": 18728,
+      "close": 95.6,
+      "change": 1.1,
+      "volume": 22919,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
       "dy": 9.9,
       "pvp": 0.96,
-      "perf_1m": -3.05,
-      "perf_3m": -0.56,
-      "perf_6m": 2.35,
+      "perf_1m": -3.12,
+      "perf_3m": -0.63,
+      "perf_6m": 2.27,
       "perf_12m": null,
       "spark": [
         89.14,
@@ -6013,23 +6013,23 @@
         97.97,
         99.19,
         98.57,
-        95.67
+        95.6
       ]
     },
     "MCCI11": {
       "stock": "MCCI11",
       "name": "Mauá Capital",
-      "close": 93.67,
-      "change": 1.14,
-      "volume": 39502,
+      "close": 93.62,
+      "change": 1.09,
+      "volume": 45306,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
       "dy": 11.49,
       "pvp": 0.98,
-      "perf_1m": 0.36,
-      "perf_3m": 0.58,
-      "perf_6m": 6.71,
+      "perf_1m": 0.31,
+      "perf_3m": 0.52,
+      "perf_6m": 6.65,
       "perf_12m": null,
       "spark": [
         74.02,
@@ -6061,23 +6061,23 @@
         92.69,
         93.96,
         93.21,
-        93.67
+        93.62
       ]
     },
     "VRTA11": {
       "stock": "VRTA11",
       "name": "Fator Verita",
-      "close": 69.25,
-      "change": 1.54,
-      "volume": 20800,
+      "close": 69.4,
+      "change": 1.76,
+      "volume": 22712,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
       "dy": 13.39,
       "pvp": 0.81,
-      "perf_1m": -3.29,
-      "perf_3m": -7.25,
-      "perf_6m": -6.62,
+      "perf_1m": -3.08,
+      "perf_3m": -7.05,
+      "perf_6m": -6.41,
       "perf_12m": null,
       "spark": [
         66.3,
@@ -6109,7 +6109,7 @@
         70.4,
         73.14,
         72.64,
-        69.25
+        69.4
       ]
     },
     "HABT11": {
@@ -6117,7 +6117,7 @@
       "name": "Habitat II",
       "close": 65.37,
       "change": 1.35,
-      "volume": 10367,
+      "volume": 13880,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
@@ -6163,17 +6163,17 @@
     "RECR11": {
       "stock": "RECR11",
       "name": "REC Recebíveis",
-      "close": 75.62,
-      "change": 1.12,
-      "volume": 21505,
+      "close": 75.61,
+      "change": 1.11,
+      "volume": 24816,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
       "dy": 12.43,
       "pvp": 0.85,
-      "perf_1m": -4.53,
-      "perf_3m": -2.67,
-      "perf_6m": 1.92,
+      "perf_1m": -4.54,
+      "perf_3m": -2.68,
+      "perf_6m": 1.91,
       "perf_12m": null,
       "spark": [
         71.53,
@@ -6205,7 +6205,7 @@
         80.57,
         79.18,
         78.75,
-        75.62
+        75.61
       ]
     },
     "VGIR11": {
@@ -6213,7 +6213,7 @@
       "name": "Valora RE",
       "close": 9.42,
       "change": 1.73,
-      "volume": 199412,
+      "volume": 259363,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
@@ -6261,7 +6261,7 @@
       "name": "Capitânia Securities",
       "close": 7.38,
       "change": 1.65,
-      "volume": 1348552,
+      "volume": 1396976,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
@@ -6307,17 +6307,17 @@
     "KNIP11": {
       "stock": "KNIP11",
       "name": "Kinea Índice de Preços",
-      "close": 89.79,
-      "change": 1.32,
-      "volume": 31109,
+      "close": 89.55,
+      "change": 1.05,
+      "volume": 37951,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
       "dy": 10.18,
       "pvp": 0.95,
-      "perf_1m": 0.0,
-      "perf_3m": 0.59,
-      "perf_6m": 4.6,
+      "perf_1m": -0.27,
+      "perf_3m": 0.32,
+      "perf_6m": 4.32,
       "perf_12m": null,
       "spark": [
         77.57,
@@ -6349,23 +6349,23 @@
         91.59,
         91.06,
         89.87,
-        89.79
+        89.55
       ]
     },
     "RBRR11": {
       "stock": "RBRR11",
       "name": "RBR Rendimento",
-      "close": 74.95,
-      "change": 1.42,
-      "volume": 37432,
+      "close": 75.06,
+      "change": 1.57,
+      "volume": 45746,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
       "dy": 11.7,
       "pvp": 0.79,
-      "perf_1m": -0.02,
-      "perf_3m": -7.34,
-      "perf_6m": -7.8,
+      "perf_1m": 0.13,
+      "perf_3m": -7.2,
+      "perf_6m": -7.67,
       "perf_12m": null,
       "spark": [
         76.82,
@@ -6397,23 +6397,23 @@
         75.53,
         76.77,
         74.72,
-        74.95
+        75.06
       ]
     },
     "OUJP11": {
       "stock": "OUJP11",
       "name": "Ourinvest JPP",
-      "close": 66.85,
-      "change": 0.12,
-      "volume": 2497,
+      "close": 66.84,
+      "change": 0.1,
+      "volume": 3561,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
       "dy": 18.53,
       "pvp": 0.67,
-      "perf_1m": -7.13,
-      "perf_3m": -18.82,
-      "perf_6m": -14.13,
+      "perf_1m": -7.15,
+      "perf_3m": -18.83,
+      "perf_6m": -14.14,
       "perf_12m": null,
       "spark": [
         64.66,
@@ -6445,7 +6445,7 @@
         69.92,
         70.76,
         71.89,
-        66.85
+        66.84
       ]
     },
     "HCTR11": {
@@ -6453,7 +6453,7 @@
       "name": "Hectare CE",
       "close": 13.72,
       "change": -1.01,
-      "volume": 28804,
+      "volume": 31610,
       "market_cap": 316872864,
       "sector": "",
       "type": "fii",
@@ -6499,17 +6499,17 @@
     "BTHF11": {
       "stock": "BTHF11",
       "name": "BTG Hedge FoF",
-      "close": 8.46,
-      "change": 0.71,
-      "volume": 277913,
+      "close": 8.47,
+      "change": 0.83,
+      "volume": 387729,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
       "dy": 12.32,
       "pvp": 0.84,
-      "perf_1m": -3.64,
-      "perf_3m": -5.62,
-      "perf_6m": -4.79,
+      "perf_1m": -3.53,
+      "perf_3m": -5.51,
+      "perf_6m": -4.68,
       "perf_12m": null,
       "spark": [
         7.17,
@@ -6541,23 +6541,23 @@
         8.92,
         8.92,
         8.73,
-        8.46
+        8.47
       ]
     },
     "HFOF11": {
       "stock": "HFOF11",
       "name": "Hedge Top FoF",
-      "close": 6.15,
-      "change": 1.32,
-      "volume": 141591,
+      "close": 6.14,
+      "change": 1.15,
+      "volume": 159195,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
       "dy": 10.35,
       "pvp": 0.78,
-      "perf_1m": -2.08,
-      "perf_3m": -4.36,
-      "perf_6m": -6.37,
+      "perf_1m": -2.24,
+      "perf_3m": -4.51,
+      "perf_6m": -6.52,
       "perf_12m": null,
       "spark": [
         5.25,
@@ -6589,7 +6589,7 @@
         6.23,
         6.3,
         6.33,
-        6.15
+        6.14
       ]
     },
     "TFOF11": {
@@ -6614,17 +6614,17 @@
     "BLMG11": {
       "stock": "BLMG11",
       "name": "Bluemacaw Logística",
-      "close": 30.94,
-      "change": 1.54,
-      "volume": 4445,
+      "close": 30.85,
+      "change": 1.25,
+      "volume": 6483,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
       "dy": 13.4,
       "pvp": 0.65,
-      "perf_1m": 1.43,
-      "perf_3m": 2.9,
-      "perf_6m": -4.88,
+      "perf_1m": 1.13,
+      "perf_3m": 2.6,
+      "perf_6m": -5.16,
       "perf_12m": null,
       "spark": [
         27.64,
@@ -6656,23 +6656,23 @@
         30.74,
         30.23,
         34.31,
-        30.94
+        30.85
       ]
     },
     "RBVA11": {
       "stock": "RBVA11",
       "name": "Rio Bravo Vacâncias",
-      "close": 8.67,
-      "change": 0.23,
-      "volume": 625969,
+      "close": 8.71,
+      "change": 0.69,
+      "volume": 677154,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
       "dy": 11.22,
       "pvp": 0.81,
-      "perf_1m": -2.58,
-      "perf_3m": -6.7,
-      "perf_6m": -7.59,
+      "perf_1m": -2.13,
+      "perf_3m": -6.27,
+      "perf_6m": -7.16,
       "perf_12m": null,
       "spark": [
         7.62,
@@ -6704,23 +6704,23 @@
         8.89,
         9.06,
         8.81,
-        8.67
+        8.71
       ]
     },
     "RZAK11": {
       "stock": "RZAK11",
       "name": "Riza Akin",
-      "close": 75.94,
-      "change": 1.35,
-      "volume": 9266,
+      "close": 76.1,
+      "change": 1.56,
+      "volume": 17355,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
       "dy": 15.5,
       "pvp": 0.85,
-      "perf_1m": -2.9,
-      "perf_3m": -5.1,
-      "perf_6m": -3.46,
+      "perf_1m": -2.69,
+      "perf_3m": -4.9,
+      "perf_6m": -3.25,
       "perf_12m": null,
       "spark": [
         69.39,
@@ -6752,23 +6752,23 @@
         79.09,
         79.2,
         77.63,
-        75.94
+        76.1
       ]
     },
     "KNRI11": {
       "stock": "KNRI11",
       "name": "Kinea Renda Imobiliária",
-      "close": 155.3,
-      "change": 0.86,
-      "volume": 30140,
+      "close": 155.74,
+      "change": 1.15,
+      "volume": 35720,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
       "dy": 7.62,
       "pvp": 0.94,
-      "perf_1m": 1.3,
-      "perf_3m": 0.08,
-      "perf_6m": -1.91,
+      "perf_1m": 1.59,
+      "perf_3m": 0.37,
+      "perf_6m": -1.63,
       "perf_12m": null,
       "spark": [
         126.17,
@@ -6800,7 +6800,7 @@
         154.21,
         154.91,
         154.75,
-        155.3
+        155.74
       ]
     },
     "HGPO11": {
@@ -6854,17 +6854,17 @@
     "BTRA11": {
       "stock": "BTRA11",
       "name": "Btg Pactual Terras",
-      "close": 71.46,
-      "change": 1.85,
-      "volume": 1545,
+      "close": 70.62,
+      "change": 0.66,
+      "volume": 1584,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
       "dy": 3.52,
       "pvp": 0.62,
-      "perf_1m": 11.81,
-      "perf_3m": 16.68,
-      "perf_6m": 10.04,
+      "perf_1m": 10.49,
+      "perf_3m": 15.31,
+      "perf_6m": 8.75,
       "perf_12m": null,
       "spark": [
         44.7,
@@ -6896,23 +6896,23 @@
         62.62,
         64.19,
         65.97,
-        71.46
+        70.62
       ]
     },
     "RBRP11": {
       "stock": "RBRP11",
       "name": "RBR Properties",
-      "close": 42.91,
-      "change": 1.95,
-      "volume": 15349,
+      "close": 42.96,
+      "change": 2.07,
+      "volume": 16797,
       "market_cap": 0,
       "sector": "",
       "type": "fii",
       "dy": 10.2,
       "pvp": 0.52,
-      "perf_1m": -5.74,
-      "perf_3m": -13.92,
-      "perf_6m": -16.69,
+      "perf_1m": -5.63,
+      "perf_3m": -13.82,
+      "perf_6m": -16.59,
       "perf_12m": null,
       "spark": [
         45.46,
@@ -6944,7 +6944,7 @@
         47.19,
         47.69,
         45.52,
-        42.91
+        42.96
       ]
     },
     "VVPR11": {
@@ -6971,17 +6971,17 @@
     "BOVA11": {
       "stock": "BOVA11",
       "name": "BOVA11",
-      "close": 168.19,
-      "change": 1.93,
-      "volume": 2974289,
+      "close": 168.55,
+      "change": 2.15,
+      "volume": 3149527,
       "market_cap": 0,
       "sector": "",
       "type": "etf",
       "dy": null,
       "pvp": null,
-      "perf_1m": -3.73,
-      "perf_3m": -2.95,
-      "perf_6m": -9.08,
+      "perf_1m": -3.52,
+      "perf_3m": -2.74,
+      "perf_6m": -8.89,
       "perf_12m": null,
       "spark": [
         131.63,
@@ -7013,23 +7013,23 @@
         169.25,
         170.63,
         170.55,
-        168.19
+        168.55
       ]
     },
     "SMAL11": {
       "stock": "SMAL11",
       "name": "SMAL11",
-      "close": 101.88,
-      "change": 1.94,
-      "volume": 2845045,
+      "close": 102.12,
+      "change": 2.18,
+      "volume": 3103202,
       "market_cap": 0,
       "sector": "",
       "type": "etf",
       "dy": null,
       "pvp": null,
-      "perf_1m": -5.23,
-      "perf_3m": -8.63,
-      "perf_6m": -20.13,
+      "perf_1m": -5.0,
+      "perf_3m": -8.41,
+      "perf_6m": -19.94,
       "perf_12m": null,
       "spark": [
         101.33,
@@ -7061,23 +7061,23 @@
         107.4,
         107.43,
         105.1,
-        101.88
+        102.12
       ]
     },
     "BOVV11": {
       "stock": "BOVV11",
       "name": "BOVV11",
-      "close": 176.48,
-      "change": 1.79,
-      "volume": 63637,
+      "close": 176.87,
+      "change": 2.01,
+      "volume": 64839,
       "market_cap": 0,
       "sector": "",
       "type": "etf",
       "dy": null,
       "pvp": null,
-      "perf_1m": -3.55,
-      "perf_3m": -2.85,
-      "perf_6m": -9.07,
+      "perf_1m": -3.33,
+      "perf_3m": -2.63,
+      "perf_6m": -8.87,
       "perf_12m": null,
       "spark": [
         138.02,
@@ -7109,23 +7109,23 @@
         177.72,
         179.09,
         179.4,
-        176.48
+        176.87
       ]
     },
     "DIVO11": {
       "stock": "DIVO11",
       "name": "DIVO11",
-      "close": 121.97,
-      "change": 1.21,
-      "volume": 79061,
+      "close": 122.3,
+      "change": 1.49,
+      "volume": 84488,
       "market_cap": 0,
       "sector": "",
       "type": "etf",
       "dy": null,
       "pvp": null,
-      "perf_1m": -4.49,
-      "perf_3m": -2.2,
-      "perf_6m": -8.95,
+      "perf_1m": -4.23,
+      "perf_3m": -1.93,
+      "perf_6m": -8.7,
       "perf_12m": null,
       "spark": [
         99.4,
@@ -7157,23 +7157,23 @@
         125.03,
         127.23,
         126.42,
-        121.97
+        122.3
       ]
     },
     "FIND11": {
       "stock": "FIND11",
       "name": "FIND11",
-      "close": 166.3,
-      "change": 2.07,
-      "volume": 27083,
+      "close": 166.46,
+      "change": 2.17,
+      "volume": 27115,
       "market_cap": 0,
       "sector": "",
       "type": "etf",
       "dy": null,
       "pvp": null,
-      "perf_1m": -7.63,
-      "perf_3m": -4.12,
-      "perf_6m": -16.68,
+      "perf_1m": -7.54,
+      "perf_3m": -4.02,
+      "perf_6m": -16.6,
       "perf_12m": null,
       "spark": [
         141.48,
@@ -7205,7 +7205,7 @@
         175.15,
         178.91,
         178.39,
-        166.3
+        166.46
       ]
     },
     "FNAM11": {
@@ -7213,7 +7213,7 @@
       "name": "FNAM11",
       "close": 0.36,
       "change": 99900.0,
-      "volume": 2207000,
+      "volume": 2011000,
       "market_cap": 0,
       "sector": "",
       "type": "etf",
@@ -7259,17 +7259,17 @@
     "BBSD11": {
       "stock": "BBSD11",
       "name": "BBSD11",
-      "close": 126.39,
-      "change": 2.56,
-      "volume": 5,
+      "close": 126.25,
+      "change": 2.44,
+      "volume": 55,
       "market_cap": 0,
       "sector": "",
       "type": "etf",
       "dy": null,
       "pvp": null,
-      "perf_1m": -5.0,
-      "perf_3m": -3.85,
-      "perf_6m": -15.62,
+      "perf_1m": -5.1,
+      "perf_3m": -3.96,
+      "perf_6m": -15.72,
       "perf_12m": null,
       "spark": [
         111.45,
@@ -7301,7 +7301,7 @@
         134.8,
         133.36,
         130.35,
-        126.39
+        126.25
       ]
     },
     "ISUS11": {
@@ -7403,17 +7403,17 @@
     "IVVB11": {
       "stock": "IVVB11",
       "name": "IVVB11",
-      "close": 445.88,
-      "change": -0.98,
-      "volume": 95340,
+      "close": 445.37,
+      "change": -1.09,
+      "volume": 109011,
       "market_cap": 0,
       "sector": "",
       "type": "etf",
       "dy": null,
       "pvp": null,
-      "perf_1m": 3.97,
-      "perf_3m": 5.38,
-      "perf_6m": 10.72,
+      "perf_1m": 3.85,
+      "perf_3m": 5.26,
+      "perf_6m": 10.6,
       "perf_12m": null,
       "spark": [
         392.08,
@@ -7445,23 +7445,23 @@
         436.28,
         429.12,
         421.56,
-        445.88
+        445.37
       ]
     },
     "NASD11": {
       "stock": "NASD11",
       "name": "NASD11",
-      "close": 21.03,
-      "change": -1.08,
-      "volume": 261182,
+      "close": 20.96,
+      "change": -1.41,
+      "volume": 330330,
       "market_cap": 0,
       "sector": "",
       "type": "etf",
       "dy": null,
       "pvp": null,
-      "perf_1m": 2.24,
-      "perf_3m": 1.94,
-      "perf_6m": 16.64,
+      "perf_1m": 1.9,
+      "perf_3m": 1.6,
+      "perf_6m": 16.25,
       "perf_12m": null,
       "spark": [
         17.69,
@@ -7493,23 +7493,23 @@
         21.25,
         20.32,
         19.41,
-        21.03
+        20.96
       ]
     },
     "SPXI11": {
       "stock": "SPXI11",
       "name": "SPXI11",
-      "close": 54.2,
-      "change": -0.9,
-      "volume": 25558,
+      "close": 54.14,
+      "change": -1.01,
+      "volume": 32815,
       "market_cap": 0,
       "sector": "",
       "type": "etf",
       "dy": null,
       "pvp": null,
-      "perf_1m": 3.36,
-      "perf_3m": 5.49,
-      "perf_6m": 10.7,
+      "perf_1m": 3.24,
+      "perf_3m": 5.37,
+      "perf_6m": 10.58,
       "perf_12m": null,
       "spark": [
         381.11,
@@ -7541,23 +7541,23 @@
         53.08,
         52.39,
         51.2,
-        54.2
+        54.14
       ]
     },
     "ACWI11": {
       "stock": "ACWI11",
       "name": "ACWI11",
-      "close": 17.45,
-      "change": -0.63,
-      "volume": 9272,
+      "close": 17.43,
+      "change": -0.74,
+      "volume": 9406,
       "market_cap": 0,
       "sector": "",
       "type": "etf",
       "dy": null,
       "pvp": null,
-      "perf_1m": 4.55,
-      "perf_3m": 5.95,
-      "perf_6m": 8.93,
+      "perf_1m": 4.43,
+      "perf_3m": 5.83,
+      "perf_6m": 8.8,
       "perf_12m": null,
       "spark": [
         15.15,
@@ -7589,23 +7589,23 @@
         17.11,
         16.71,
         16.46,
-        17.45
+        17.43
       ]
     },
     "HASH11": {
       "stock": "HASH11",
       "name": "HASH11",
-      "close": 51.68,
-      "change": 12.47,
-      "volume": 323337,
+      "close": 51.79,
+      "change": 12.71,
+      "volume": 359902,
       "market_cap": 0,
       "sector": "",
       "type": "etf",
       "dy": null,
       "pvp": null,
-      "perf_1m": 19.91,
-      "perf_3m": 5.69,
-      "perf_6m": 11.79,
+      "perf_1m": 20.16,
+      "perf_3m": 5.91,
+      "perf_6m": 12.03,
       "perf_12m": null,
       "spark": [
         87.75,
@@ -7637,23 +7637,23 @@
         42.28,
         42.49,
         41.76,
-        51.68
+        51.79
       ]
     },
     "GOLD11": {
       "stock": "GOLD11",
       "name": "GOLD11",
-      "close": 24.75,
-      "change": 1.85,
-      "volume": 657575,
+      "close": 24.72,
+      "change": 1.73,
+      "volume": 714461,
       "market_cap": 0,
       "sector": "",
       "type": "etf",
       "dy": null,
       "pvp": null,
-      "perf_1m": 14.06,
-      "perf_3m": 5.18,
-      "perf_6m": -8.94,
+      "perf_1m": 13.92,
+      "perf_3m": 5.06,
+      "perf_6m": -9.05,
       "perf_12m": null,
       "spark": [
         19.11,
@@ -7685,7 +7685,7 @@
         22.18,
         21.3,
         21.53,
-        24.75
+        24.72
       ]
     },
     "MATB11": {
@@ -7739,17 +7739,17 @@
     "TECK11": {
       "stock": "TECK11",
       "name": "TECK11",
-      "close": 122.54,
-      "change": -0.91,
-      "volume": 16928,
+      "close": 122.25,
+      "change": -1.15,
+      "volume": 17348,
       "market_cap": 0,
       "sector": "",
       "type": "etf",
       "dy": null,
       "pvp": null,
-      "perf_1m": 7.77,
-      "perf_3m": 9.6,
-      "perf_6m": 25.58,
+      "perf_1m": 7.52,
+      "perf_3m": 9.34,
+      "perf_6m": 25.28,
       "perf_12m": null,
       "spark": [
         106.78,
@@ -7781,7 +7781,7 @@
         115.42,
         113.51,
         108.97,
-        122.54
+        122.25
       ]
     },
     "AGRI11": {
@@ -7835,17 +7835,17 @@
     "IMAB11": {
       "stock": "IMAB11",
       "name": "IMAB11",
-      "close": 115.49,
+      "close": 115.48,
       "change": 0.37,
-      "volume": 13627,
+      "volume": 15954,
       "market_cap": 0,
       "sector": "",
       "type": "etf",
       "dy": null,
       "pvp": null,
-      "perf_1m": 2.08,
-      "perf_3m": 1.88,
-      "perf_6m": 5.23,
+      "perf_1m": 2.07,
+      "perf_3m": 1.87,
+      "perf_6m": 5.22,
       "perf_12m": null,
       "spark": [
         79.5,
@@ -7877,23 +7877,23 @@
         113.19,
         113.82,
         112.89,
-        115.49
+        115.48
       ]
     },
     "IRFM11": {
       "stock": "IRFM11",
       "name": "IRFM11",
-      "close": 103.31,
-      "change": 0.22,
-      "volume": 26111,
+      "close": 103.36,
+      "change": 0.27,
+      "volume": 27400,
       "market_cap": 0,
       "sector": "",
       "type": "etf",
       "dy": null,
       "pvp": null,
-      "perf_1m": 1.76,
-      "perf_3m": 2.68,
-      "perf_6m": 4.06,
+      "perf_1m": 1.81,
+      "perf_3m": 2.73,
+      "perf_6m": 4.11,
       "perf_12m": null,
       "spark": [
         63.63,
@@ -7925,23 +7925,23 @@
         101.63,
         101.74,
         102.22,
-        103.31
+        103.36
       ]
     },
     "B5P211": {
       "stock": "B5P211",
       "name": "B5P211",
-      "close": 110.67,
-      "change": 0.14,
-      "volume": 30865,
+      "close": 110.71,
+      "change": 0.18,
+      "volume": 59257,
       "market_cap": 0,
       "sector": "",
       "type": "etf",
       "dy": null,
       "pvp": null,
-      "perf_1m": 1.72,
-      "perf_3m": 2.76,
-      "perf_6m": 6.8,
+      "perf_1m": 1.76,
+      "perf_3m": 2.79,
+      "perf_6m": 6.84,
       "perf_12m": null,
       "spark": [
         71.25,
@@ -7973,23 +7973,23 @@
         108.29,
         108.92,
         109.08,
-        110.67
+        110.71
       ]
     },
     "FIXA11": {
       "stock": "FIXA11",
       "name": "FIXA11",
-      "close": 19.53,
-      "change": 0.1,
-      "volume": 9328,
+      "close": 19.54,
+      "change": 0.15,
+      "volume": 10633,
       "market_cap": 0,
       "sector": "",
       "type": "etf",
       "dy": null,
       "pvp": null,
-      "perf_1m": 1.77,
-      "perf_3m": 2.3,
-      "perf_6m": 2.41,
+      "perf_1m": 1.82,
+      "perf_3m": 2.36,
+      "perf_6m": 2.46,
       "perf_12m": null,
       "spark": [
         12.3,
@@ -8021,23 +8021,23 @@
         19.22,
         19.33,
         19.33,
-        19.53
+        19.54
       ]
     },
     "XFIX11": {
       "stock": "XFIX11",
       "name": "XFIX11",
-      "close": 12.98,
-      "change": -0.15,
-      "volume": 14864,
+      "close": 13.01,
+      "change": 0.08,
+      "volume": 27892,
       "market_cap": 0,
       "sector": "",
       "type": "etf",
       "dy": null,
       "pvp": null,
-      "perf_1m": -3.78,
-      "perf_3m": -4.49,
-      "perf_6m": -4.28,
+      "perf_1m": -3.56,
+      "perf_3m": -4.27,
+      "perf_6m": -4.06,
       "perf_12m": null,
       "spark": [
         12.16,
@@ -8069,7 +8069,7 @@
         13.52,
         13.56,
         13.41,
-        12.98
+        13.01
       ]
     }
   },
@@ -8077,17 +8077,17 @@
     "AAPL": {
       "stock": "AAPL",
       "name": "Apple",
-      "close": 309.64,
-      "change": -0.53,
-      "volume": 28335925,
-      "market_cap": 4519087747924,
+      "close": 308.82,
+      "change": -0.8,
+      "volume": 30910331,
+      "market_cap": 4506945379475,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": -3.65,
-      "perf_3m": 1.61,
-      "perf_6m": 17.24,
+      "perf_1m": -3.91,
+      "perf_3m": 1.34,
+      "perf_6m": 16.93,
       "perf_12m": null,
       "spark": [
         224.07,
@@ -8119,23 +8119,23 @@
         310.39,
         333.45,
         333.14,
-        309.64
+        308.82
       ]
     },
     "MSFT": {
       "stock": "MSFT",
       "name": "Microsoft",
-      "close": 481.97,
-      "change": 0.17,
-      "volume": 13422964,
-      "market_cap": 3578741740031,
+      "close": 481.54,
+      "change": 0.08,
+      "volume": 14142381,
+      "market_cap": 3575960786226,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": 26.55,
-      "perf_3m": 15.22,
-      "perf_6m": 21.82,
+      "perf_1m": 26.43,
+      "perf_3m": 15.12,
+      "perf_6m": 21.72,
       "perf_12m": null,
       "spark": [
         500.13,
@@ -8167,23 +8167,23 @@
         388.11,
         393.08,
         450.25,
-        481.97
+        481.54
       ]
     },
     "NVDA": {
       "stock": "NVDA",
       "name": "Nvidia",
-      "close": 215.86,
-      "change": -0.46,
-      "volume": 64074013,
-      "market_cap": 5228345074783,
+      "close": 215.13,
+      "change": -0.79,
+      "volume": 68545669,
+      "market_cap": 5210421401733,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": 3.4,
-      "perf_3m": -1.55,
-      "perf_6m": 13.86,
+      "perf_1m": 3.05,
+      "perf_3m": -1.88,
+      "perf_6m": 13.47,
       "perf_12m": null,
       "spark": [
         174.75,
@@ -8215,23 +8215,23 @@
         196.93,
         202.81,
         195.04,
-        215.86
+        215.13
       ]
     },
     "GOOGL": {
       "stock": "GOOGL",
       "name": "Alphabet (Google)",
-      "close": 344.93,
-      "change": 1.25,
-      "volume": 11279232,
-      "market_cap": 4218838214797,
+      "close": 344.74,
+      "change": 1.19,
+      "volume": 11991170,
+      "market_cap": 4216270032987,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": 8.58,
-      "perf_3m": -10.97,
-      "perf_6m": 9.65,
+      "perf_1m": 8.51,
+      "perf_3m": -11.02,
+      "perf_6m": 9.59,
       "perf_12m": null,
       "spark": [
         199.18,
@@ -8263,23 +8263,23 @@
         367.03,
         346.77,
         333.66,
-        344.93
+        344.74
       ]
     },
     "AMZN": {
       "stock": "AMZN",
       "name": "Amazon",
-      "close": 258.47,
-      "change": -0.63,
-      "volume": 23466550,
-      "market_cap": 2787722874352,
+      "close": 258.38,
+      "change": -0.67,
+      "volume": 24927287,
+      "market_cap": 2786751816459,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": 10.62,
-      "perf_3m": -3.72,
-      "perf_6m": 23.02,
+      "perf_1m": 10.58,
+      "perf_3m": -3.75,
+      "perf_6m": 22.97,
       "perf_12m": null,
       "spark": [
         221.95,
@@ -8311,23 +8311,23 @@
         245.98,
         247.23,
         235.5,
-        258.47
+        258.38
       ]
     },
     "META": {
       "stock": "META",
       "name": "Meta Platforms",
-      "close": 549.76,
-      "change": 0.72,
-      "volume": 7963016,
-      "market_cap": 1400644391347,
+      "close": 549.23,
+      "change": 0.62,
+      "volume": 8628771,
+      "market_cap": 1398963105653,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": -9.3,
-      "perf_3m": -9.4,
-      "perf_6m": -16.0,
+      "perf_1m": -9.38,
+      "perf_3m": -9.49,
+      "perf_6m": -16.08,
       "perf_12m": null,
       "spark": [
         736.69,
@@ -8359,23 +8359,23 @@
         615.58,
         646.01,
         539.03,
-        549.76
+        549.23
       ]
     },
     "TSLA": {
       "stock": "TSLA",
       "name": "Tesla",
-      "close": 363.25,
-      "change": 5.25,
-      "volume": 40805853,
-      "market_cap": 1434850873536,
+      "close": 364.36,
+      "change": 5.57,
+      "volume": 43183204,
+      "market_cap": 1439254580311,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": 13.63,
-      "perf_3m": -13.07,
-      "perf_6m": -11.79,
+      "perf_1m": 13.97,
+      "perf_3m": -12.8,
+      "perf_6m": -11.52,
       "perf_12m": null,
       "spark": [
         320.11,
@@ -8407,23 +8407,23 @@
         402.9,
         380.84,
         308.85,
-        363.25
+        364.36
       ]
     },
     "AMD": {
       "stock": "AMD",
       "name": "AMD",
-      "close": 471.5,
-      "change": 0.43,
-      "volume": 9894531,
-      "market_cap": 769793586127,
+      "close": 470.92,
+      "change": 0.31,
+      "volume": 10790355,
+      "market_cap": 768732487313,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": -12.64,
-      "perf_3m": 4.87,
-      "perf_6m": 135.57,
+      "perf_1m": -12.74,
+      "perf_3m": 4.74,
+      "perf_6m": 135.28,
       "perf_12m": null,
       "spark": [
         163.71,
@@ -8455,23 +8455,23 @@
         516.11,
         495.76,
         485.39,
-        471.5
+        470.92
       ]
     },
     "INTC": {
       "stock": "INTC",
       "name": "Intel",
-      "close": 90.35,
-      "change": -1.93,
-      "volume": 67656416,
-      "market_cap": 477599602355,
+      "close": 90.24,
+      "change": -2.06,
+      "volume": 71156272,
+      "market_cap": 476991711542,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": -9.86,
-      "perf_3m": -23.76,
-      "perf_6m": 104.83,
+      "perf_1m": -9.97,
+      "perf_3m": -23.85,
+      "perf_6m": 104.57,
       "perf_12m": null,
       "spark": [
         23.5,
@@ -8503,23 +8503,23 @@
         110.39,
         95.04,
         91.13,
-        90.35
+        90.24
       ]
     },
     "AVGO": {
       "stock": "AVGO",
       "name": "Broadcom",
-      "close": 366.77,
-      "change": 0.75,
-      "volume": 11350741,
-      "market_cap": 1744961448083,
+      "close": 365.73,
+      "change": 0.47,
+      "volume": 12570450,
+      "market_cap": 1739918424688,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": -6.55,
-      "perf_3m": -11.39,
-      "perf_6m": 10.66,
+      "perf_1m": -6.81,
+      "perf_3m": -11.64,
+      "perf_6m": 10.35,
       "perf_12m": null,
       "spark": [
         287.49,
@@ -8551,23 +8551,23 @@
         370.78,
         370.83,
         387.84,
-        366.77
+        365.73
       ]
     },
     "QCOM": {
       "stock": "QCOM",
       "name": "Qualcomm",
-      "close": 161.0,
-      "change": 0.16,
-      "volume": 3542093,
-      "market_cap": 169087661281,
+      "close": 160.29,
+      "change": -0.28,
+      "volume": 3986900,
+      "market_cap": 168331491575,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": -5.91,
-      "perf_3m": -24.28,
-      "perf_6m": 13.82,
+      "perf_1m": -6.32,
+      "perf_3m": -24.61,
+      "perf_6m": 13.32,
       "perf_12m": null,
       "spark": [
         150.95,
@@ -8599,23 +8599,23 @@
         182.97,
         171.78,
         151.6,
-        161.0
+        160.29
       ]
     },
     "TSM": {
       "stock": "TSM",
       "name": "Taiwan Semiconductor",
-      "close": 419.58,
-      "change": 0.86,
-      "volume": 5569146,
-      "market_cap": 2176814963678,
+      "close": 419.01,
+      "change": 0.72,
+      "volume": 6185336,
+      "market_cap": 2173028938947,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": 0.96,
-      "perf_3m": 3.29,
-      "perf_6m": 13.82,
+      "perf_1m": 0.82,
+      "perf_3m": 3.15,
+      "perf_6m": 13.66,
       "perf_12m": null,
       "spark": [
         224.84,
@@ -8647,23 +8647,23 @@
         432.57,
         398.37,
         403.31,
-        419.58
+        419.01
       ]
     },
     "MU": {
       "stock": "MU",
       "name": "Micron Technology",
-      "close": 967.56,
-      "change": -0.69,
-      "volume": 15346533,
-      "market_cap": 1093009720310,
+      "close": 966.47,
+      "change": -0.81,
+      "volume": 16113416,
+      "market_cap": 1091552827961,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": -2.29,
-      "perf_3m": 26.98,
-      "perf_6m": 126.11,
+      "perf_1m": -2.4,
+      "perf_3m": 26.84,
+      "perf_6m": 125.85,
       "perf_12m": null,
       "spark": [
         115.6,
@@ -8695,23 +8695,23 @@
         938.38,
         848.95,
         874.66,
-        967.56
+        966.47
       ]
     },
     "ARM": {
       "stock": "ARM",
       "name": "Arm Holdings",
-      "close": 244.24,
-      "change": -2.59,
-      "volume": 2383324,
-      "market_cap": 260741169983,
+      "close": 243.45,
+      "change": -2.9,
+      "volume": 2557760,
+      "market_cap": 260153767511,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": -13.71,
-      "perf_3m": -18.11,
-      "perf_6m": 94.49,
+      "perf_1m": -13.99,
+      "perf_3m": -18.37,
+      "perf_6m": 93.86,
       "perf_12m": null,
       "spark": [
         133.28,
@@ -8743,23 +8743,23 @@
         300.43,
         267.19,
         241.54,
-        244.24
+        243.45
       ]
     },
     "ORCL": {
       "stock": "ORCL",
       "name": "Oracle",
-      "close": 146.39,
-      "change": 3.04,
-      "volume": 12520740,
-      "market_cap": 421628942625,
+      "close": 146.1,
+      "change": 2.84,
+      "volume": 13575467,
+      "market_cap": 420836830680,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": 21.95,
-      "perf_3m": -22.59,
-      "perf_6m": -0.45,
+      "perf_1m": 21.71,
+      "perf_3m": -22.74,
+      "perf_6m": -0.65,
       "perf_12m": null,
       "spark": [
         230.53,
@@ -8791,23 +8791,23 @@
         141.11,
         126.41,
         127.56,
-        146.39
+        146.1
       ]
     },
     "CRM": {
       "stock": "CRM",
       "name": "Salesforce",
-      "close": 207.93,
-      "change": 1.21,
-      "volume": 5810279,
-      "market_cap": 170282379501,
+      "close": 207.66,
+      "change": 1.09,
+      "volume": 6317305,
+      "market_cap": 170089914001,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": 32.5,
-      "perf_3m": 18.24,
-      "perf_6m": 12.87,
+      "perf_1m": 32.33,
+      "perf_3m": 18.09,
+      "perf_6m": 12.72,
       "perf_12m": null,
       "spark": [
         243.77,
@@ -8839,23 +8839,23 @@
         169.52,
         170.77,
         180.71,
-        207.93
+        207.66
       ]
     },
     "ADBE": {
       "stock": "ADBE",
       "name": "Adobe",
-      "close": 273.33,
+      "close": 273.35,
       "change": 0.41,
-      "volume": 2311203,
-      "market_cap": 108656627426,
+      "volume": 2608954,
+      "market_cap": 108654637985,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
       "perf_1m": 28.83,
-      "perf_3m": 11.97,
-      "perf_6m": 5.69,
+      "perf_3m": 11.98,
+      "perf_6m": 5.7,
       "perf_12m": null,
       "spark": [
         353.43,
@@ -8887,23 +8887,23 @@
         221.54,
         237.25,
         247.9,
-        273.33
+        273.35
       ]
     },
     "NOW": {
       "stock": "NOW",
       "name": "ServiceNow",
-      "close": 128.47,
-      "change": -0.99,
-      "volume": 6785419,
-      "market_cap": 132820252402,
+      "close": 128.12,
+      "change": -1.26,
+      "volume": 7817274,
+      "market_cap": 132437728510,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": 39.73,
-      "perf_3m": 28.87,
-      "perf_6m": 23.21,
+      "perf_1m": 39.35,
+      "perf_3m": 28.52,
+      "perf_6m": 22.87,
       "perf_12m": null,
       "spark": [
         175.39,
@@ -8935,23 +8935,23 @@
         110.73,
         103.24,
         110.07,
-        128.47
+        128.12
       ]
     },
     "SNOW": {
       "stock": "SNOW",
       "name": "Snowflake",
-      "close": 325.66,
-      "change": 1.36,
-      "volume": 1688075,
-      "market_cap": 112956937884,
+      "close": 326.48,
+      "change": 1.62,
+      "volume": 1978700,
+      "market_cap": 113157971807,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": 22.83,
-      "perf_3m": 96.73,
-      "perf_6m": 88.79,
+      "perf_1m": 23.14,
+      "perf_3m": 97.22,
+      "perf_6m": 89.26,
       "perf_12m": null,
       "spark": [
         194.68,
@@ -8983,23 +8983,23 @@
         262.74,
         268.9,
         298.1,
-        325.66
+        326.48
       ]
     },
     "PLTR": {
       "stock": "PLTR",
       "name": "Palantir",
-      "close": 179.4,
-      "change": 3.13,
-      "volume": 26571534,
-      "market_cap": 431348740485,
+      "close": 179.1,
+      "change": 2.95,
+      "volume": 28703860,
+      "market_cap": 430399778793,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": 45.42,
-      "perf_3m": 30.56,
-      "perf_6m": 32.66,
+      "perf_1m": 45.17,
+      "perf_3m": 30.33,
+      "perf_6m": 32.43,
       "perf_12m": null,
       "spark": [
         156.18,
@@ -9031,23 +9031,23 @@
         134.37,
         132.38,
         122.26,
-        179.4
+        179.1
       ]
     },
     "UBER": {
       "stock": "UBER",
       "name": "Uber",
-      "close": 78.86,
-      "change": 0.39,
-      "volume": 7788847,
-      "market_cap": 161076292388,
+      "close": 78.54,
+      "change": -0.01,
+      "volume": 8407215,
+      "market_cap": 160412045828,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": 14.44,
-      "perf_3m": 7.13,
-      "perf_6m": 6.77,
+      "perf_1m": 13.97,
+      "perf_3m": 6.7,
+      "perf_6m": 6.34,
       "perf_12m": null,
       "spark": [
         94.23,
@@ -9079,23 +9079,23 @@
         74.33,
         72.46,
         70.37,
-        78.86
+        78.54
       ]
     },
     "JPM": {
       "stock": "JPM",
       "name": "JPMorgan Chase",
-      "close": 351.34,
-      "change": -0.06,
-      "volume": 4146698,
-      "market_cap": 933927128016,
+      "close": 352.04,
+      "change": 0.14,
+      "volume": 4464938,
+      "market_cap": 935774586891,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": 0.41,
-      "perf_3m": 16.48,
-      "perf_6m": 14.14,
+      "perf_1m": 0.61,
+      "perf_3m": 16.71,
+      "perf_6m": 14.36,
       "perf_12m": null,
       "spark": [
         286.0,
@@ -9127,23 +9127,23 @@
         339.22,
         341.1,
         350.85,
-        351.34
+        352.04
       ]
     },
     "BAC": {
       "stock": "BAC",
       "name": "Bank of America",
-      "close": 61.65,
-      "change": -0.33,
-      "volume": 15579628,
-      "market_cap": 431137891908,
+      "close": 61.81,
+      "change": -0.09,
+      "volume": 17391869,
+      "market_cap": 432186814832,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": 0.61,
-      "perf_3m": 20.36,
-      "perf_6m": 17.46,
+      "perf_1m": 0.86,
+      "perf_3m": 20.66,
+      "perf_6m": 17.75,
       "perf_12m": null,
       "spark": [
         47.23,
@@ -9175,23 +9175,23 @@
         59.86,
         61.27,
         61.73,
-        61.65
+        61.81
       ]
     },
     "GS": {
       "stock": "GS",
       "name": "Goldman Sachs",
-      "close": 1027.8,
-      "change": 2.58,
-      "volume": 926726,
-      "market_cap": 299264530080,
+      "close": 1035.67,
+      "change": 3.37,
+      "volume": 1171145,
+      "market_cap": 301400260984,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": -4.37,
-      "perf_3m": 4.47,
-      "perf_6m": 12.53,
+      "perf_1m": -3.63,
+      "perf_3m": 5.27,
+      "perf_6m": 13.39,
       "perf_12m": null,
       "spark": [
         701.82,
@@ -9223,23 +9223,23 @@
         1042.98,
         1065.22,
         1024.86,
-        1027.8
+        1035.67
       ]
     },
     "MS": {
       "stock": "MS",
       "name": "Morgan Stanley",
-      "close": 212.01,
-      "change": 2.2,
-      "volume": 1980921,
-      "market_cap": 332975750939,
+      "close": 213.29,
+      "change": 2.82,
+      "volume": 2181598,
+      "market_cap": 335033212912,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": -0.93,
-      "perf_3m": 6.32,
-      "perf_6m": 22.18,
+      "perf_1m": -0.33,
+      "perf_3m": 6.96,
+      "perf_6m": 22.92,
       "perf_12m": null,
       "spark": [
         140.85,
@@ -9271,23 +9271,23 @@
         220.82,
         214.32,
         208.91,
-        212.01
+        213.29
       ]
     },
     "V": {
       "stock": "V",
       "name": "Visa",
-      "close": 369.86,
-      "change": 1.13,
-      "volume": 3267535,
-      "market_cap": 690536784489,
+      "close": 370.04,
+      "change": 1.18,
+      "volume": 3517306,
+      "market_cap": 690770165396,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": 5.39,
-      "perf_3m": 11.91,
-      "perf_6m": 15.69,
+      "perf_1m": 5.44,
+      "perf_3m": 11.96,
+      "perf_6m": 15.75,
       "perf_12m": null,
       "spark": [
         340.96,
@@ -9319,16 +9319,16 @@
         351.55,
         357.9,
         365.59,
-        369.86
+        370.04
       ]
     },
     "MA": {
       "stock": "MA",
       "name": "Mastercard",
-      "close": 579.29,
+      "close": 579.3,
       "change": 0.95,
-      "volume": 996396,
-      "market_cap": 507463778894,
+      "volume": 1109681,
+      "market_cap": 507476931875,
       "sector": "",
       "type": "us",
       "dy": null,
@@ -9367,23 +9367,23 @@
         530.73,
         543.6,
         577.35,
-        579.29
+        579.3
       ]
     },
     "AXP": {
       "stock": "AXP",
       "name": "American Express",
-      "close": 333.77,
-      "change": 0.79,
-      "volume": 1416181,
-      "market_cap": 225428553551,
+      "close": 334.92,
+      "change": 1.14,
+      "volume": 1530785,
+      "market_cap": 226205155737,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": -2.07,
-      "perf_3m": 8.07,
-      "perf_6m": -3.02,
+      "perf_1m": -1.74,
+      "perf_3m": 8.44,
+      "perf_6m": -2.68,
       "perf_12m": null,
       "spark": [
         304.91,
@@ -9415,23 +9415,23 @@
         349.58,
         355.35,
         337.52,
-        333.77
+        334.92
       ]
     },
     "BRK-B": {
       "stock": "BRK-B",
       "name": "Berkshire Hathaway",
-      "close": 497.02,
-      "change": 0.03,
-      "volume": 2680042,
-      "market_cap": 1063975558295,
+      "close": 497.7,
+      "change": 0.17,
+      "volume": 3019735,
+      "market_cap": 1065506157958,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": 1.26,
-      "perf_3m": 3.55,
-      "perf_6m": -0.24,
+      "perf_1m": 1.39,
+      "perf_3m": 3.69,
+      "perf_6m": -0.1,
       "perf_12m": null,
       "spark": [
         488.59,
@@ -9463,23 +9463,23 @@
         504.0,
         490.91,
         509.68,
-        497.02
+        497.7
       ]
     },
     "JNJ": {
       "stock": "JNJ",
       "name": "Johnson & Johnson",
-      "close": 270.84,
-      "change": 1.3,
-      "volume": 2712324,
-      "market_cap": 652696927186,
+      "close": 271.42,
+      "change": 1.52,
+      "volume": 2899795,
+      "market_cap": 654094709557,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": 4.46,
-      "perf_3m": 17.55,
-      "perf_6m": 12.93,
+      "perf_1m": 4.69,
+      "perf_3m": 17.8,
+      "perf_6m": 13.17,
       "perf_12m": null,
       "spark": [
         174.57,
@@ -9511,23 +9511,23 @@
         267.24,
         253.04,
         255.82,
-        270.84
+        271.42
       ]
     },
     "UNH": {
       "stock": "UNH",
       "name": "UnitedHealth",
-      "close": 389.95,
-      "change": 1.32,
-      "volume": 2192251,
-      "market_cap": 350012629187,
+      "close": 390.86,
+      "change": 1.56,
+      "volume": 2374426,
+      "market_cap": 350838401107,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": -7.94,
-      "perf_3m": 2.53,
-      "perf_6m": 36.28,
+      "perf_1m": -7.72,
+      "perf_3m": 2.78,
+      "perf_6m": 36.6,
       "perf_12m": null,
       "spark": [
         295.44,
@@ -9559,23 +9559,23 @@
         428.19,
         426.09,
         421.47,
-        389.95
+        390.86
       ]
     },
     "PFE": {
       "stock": "PFE",
       "name": "Pfizer",
-      "close": 27.98,
-      "change": 0.68,
-      "volume": 18445658,
-      "market_cap": 159533862451,
+      "close": 27.96,
+      "change": 0.62,
+      "volume": 23345763,
+      "market_cap": 159391372786,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": 13.83,
-      "perf_3m": 9.71,
-      "perf_6m": 8.59,
+      "perf_1m": 13.76,
+      "perf_3m": 9.64,
+      "perf_6m": 8.52,
       "perf_12m": null,
       "spark": [
         24.05,
@@ -9607,23 +9607,23 @@
         23.66,
         24.62,
         24.91,
-        27.98
+        27.96
       ]
     },
     "ABBV": {
       "stock": "ABBV",
       "name": "AbbVie",
-      "close": 265.33,
-      "change": 1.34,
-      "volume": 2780040,
-      "market_cap": 468869205500,
+      "close": 265.81,
+      "change": 1.52,
+      "volume": 2980238,
+      "market_cap": 469717441211,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": 3.27,
-      "perf_3m": 24.58,
-      "perf_6m": 19.85,
+      "perf_1m": 3.46,
+      "perf_3m": 24.8,
+      "perf_6m": 20.07,
       "perf_12m": null,
       "spark": [
         203.2,
@@ -9655,23 +9655,23 @@
         252.85,
         254.49,
         257.41,
-        265.33
+        265.81
       ]
     },
     "MRK": {
       "stock": "MRK",
       "name": "Merck",
-      "close": 151.96,
-      "change": 1.99,
-      "volume": 8660603,
-      "market_cap": 374899070769,
+      "close": 152.13,
+      "change": 2.11,
+      "volume": 9194624,
+      "market_cap": 375343407116,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": 16.46,
-      "perf_3m": 32.07,
-      "perf_6m": 26.11,
+      "perf_1m": 16.6,
+      "perf_3m": 32.23,
+      "perf_6m": 26.26,
       "perf_12m": null,
       "spark": [
         83.3,
@@ -9703,23 +9703,23 @@
         128.86,
         127.5,
         129.79,
-        151.96
+        152.13
       ]
     },
     "LLY": {
       "stock": "LLY",
       "name": "Eli Lilly",
-      "close": 1263.44,
-      "change": 1.53,
-      "volume": 1286435,
-      "market_cap": 1125823525075,
+      "close": 1258.22,
+      "change": 1.11,
+      "volume": 1418127,
+      "market_cap": 1122015880709,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": 6.69,
-      "perf_3m": 21.47,
-      "perf_6m": 25.55,
+      "perf_1m": 6.25,
+      "perf_3m": 20.96,
+      "perf_6m": 25.03,
       "perf_12m": null,
       "spark": [
         705.37,
@@ -9751,23 +9751,23 @@
         1233.79,
         1177.42,
         1153.32,
-        1263.44
+        1258.22
       ]
     },
     "AMGN": {
       "stock": "AMGN",
       "name": "Amgen",
-      "close": 438.15,
-      "change": 1.02,
-      "volume": 973288,
-      "market_cap": 236473176958,
+      "close": 437.59,
+      "change": 0.89,
+      "volume": 1057813,
+      "market_cap": 236172671055,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": 17.94,
-      "perf_3m": 29.85,
-      "perf_6m": 17.8,
+      "perf_1m": 17.79,
+      "perf_3m": 29.69,
+      "perf_6m": 17.65,
       "perf_12m": null,
       "spark": [
         287.13,
@@ -9799,23 +9799,23 @@
         368.1,
         366.29,
         387.64,
-        438.15
+        437.59
       ]
     },
     "XOM": {
       "stock": "XOM",
       "name": "Exxon Mobil",
-      "close": 164.88,
-      "change": -0.76,
-      "volume": 6512620,
-      "market_cap": 677972064042,
+      "close": 165.14,
+      "change": -0.61,
+      "volume": 7474076,
+      "market_cap": 679041138564,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": 5.77,
-      "perf_3m": 6.86,
-      "perf_6m": 13.44,
+      "perf_1m": 5.94,
+      "perf_3m": 7.03,
+      "perf_6m": 13.62,
       "perf_12m": null,
       "spark": [
         106.15,
@@ -9847,23 +9847,23 @@
         140.78,
         146.41,
         155.96,
-        164.88
+        165.14
       ]
     },
     "CVX": {
       "stock": "CVX",
       "name": "Chevron",
-      "close": 205.35,
-      "change": -0.2,
-      "volume": 3598869,
-      "market_cap": 402795609099,
+      "close": 205.52,
+      "change": -0.12,
+      "volume": 4053516,
+      "market_cap": 403109472807,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": 6.54,
-      "perf_3m": 8.45,
-      "perf_6m": 13.65,
+      "perf_1m": 6.63,
+      "perf_3m": 8.54,
+      "perf_6m": 13.75,
       "perf_12m": null,
       "spark": [
         149.65,
@@ -9895,23 +9895,23 @@
         172.5,
         185.76,
         190.65,
-        205.35
+        205.52
       ]
     },
     "WMT": {
       "stock": "WMT",
       "name": "Walmart",
-      "close": 102.93,
-      "change": -0.88,
-      "volume": 28455610,
-      "market_cap": 819085321314,
+      "close": 102.96,
+      "change": -0.85,
+      "volume": 30811565,
+      "market_cap": 819324053974,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": -5.05,
-      "perf_3m": -15.18,
-      "perf_6m": -15.98,
+      "perf_1m": -5.02,
+      "perf_3m": -15.15,
+      "perf_6m": -15.96,
       "perf_12m": null,
       "spark": [
         97.37,
@@ -9943,23 +9943,23 @@
         111.54,
         114.24,
         111.1,
-        102.93
+        102.96
       ]
     },
     "COST": {
       "stock": "COST",
       "name": "Costco",
-      "close": 948.4,
-      "change": 1.59,
-      "volume": 1184594,
-      "market_cap": 420526556333,
+      "close": 947.23,
+      "change": 1.47,
+      "volume": 1303526,
+      "market_cap": 420032081797,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": 2.57,
-      "perf_3m": -9.57,
-      "perf_6m": -3.45,
+      "perf_1m": 2.45,
+      "perf_3m": -9.68,
+      "perf_6m": -3.57,
       "perf_12m": null,
       "spark": [
         964.06,
@@ -9991,23 +9991,23 @@
         946.0,
         939.38,
         954.17,
-        948.4
+        947.23
       ]
     },
     "KO": {
       "stock": "KO",
       "name": "Coca-Cola",
-      "close": 90.72,
-      "change": 0.24,
-      "volume": 7197303,
-      "market_cap": 390350513275,
+      "close": 90.79,
+      "change": 0.31,
+      "volume": 7823735,
+      "market_cap": 390606948782,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": 11.77,
-      "perf_3m": 12.49,
-      "perf_6m": 15.15,
+      "perf_1m": 11.85,
+      "perf_3m": 12.57,
+      "perf_6m": 15.23,
       "perf_12m": null,
       "spark": [
         68.71,
@@ -10039,23 +10039,23 @@
         84.05,
         81.56,
         88.49,
-        90.72
+        90.79
       ]
     },
     "PEP": {
       "stock": "PEP",
       "name": "PepsiCo",
-      "close": 143.02,
-      "change": 0.66,
-      "volume": 2801477,
-      "market_cap": 195179492794,
+      "close": 143.12,
+      "change": 0.73,
+      "volume": 3043340,
+      "market_cap": 195343273116,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": 5.98,
-      "perf_3m": -2.91,
-      "perf_6m": -11.59,
+      "perf_1m": 6.05,
+      "perf_3m": -2.84,
+      "perf_6m": -11.53,
       "perf_12m": null,
       "spark": [
         143.31,
@@ -10087,23 +10087,23 @@
         144.98,
         137.12,
         140.2,
-        143.02
+        143.12
       ]
     },
     "MCD": {
       "stock": "MCD",
       "name": "McDonald's",
-      "close": 270.48,
-      "change": 0.5,
-      "volume": 1747076,
-      "market_cap": 191402889079,
+      "close": 270.68,
+      "change": 0.58,
+      "volume": 1915277,
+      "market_cap": 191540862765,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": 2.92,
-      "perf_3m": -4.18,
-      "perf_6m": -16.83,
+      "perf_1m": 3.0,
+      "perf_3m": -4.1,
+      "perf_6m": -16.76,
       "perf_12m": null,
       "spark": [
         305.8,
@@ -10135,23 +10135,23 @@
         282.21,
         267.71,
         268.44,
-        270.48
+        270.68
       ]
     },
     "DIS": {
       "stock": "DIS",
       "name": "Disney",
-      "close": 107.16,
-      "change": -0.15,
-      "volume": 2913234,
-      "market_cap": 185031774741,
+      "close": 107.39,
+      "change": 0.07,
+      "volume": 3310271,
+      "market_cap": 185437534043,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": 15.44,
-      "perf_3m": 4.25,
-      "perf_6m": 2.27,
+      "perf_1m": 15.69,
+      "perf_3m": 4.48,
+      "perf_6m": 2.5,
       "perf_12m": null,
       "spark": [
         114.55,
@@ -10161,7 +10161,7 @@
         110.29,
         112.67,
         111.01,
-        114.99,
+        114.98,
         101.84,
         106.09,
         110.39,
@@ -10183,23 +10183,23 @@
         97.48,
         97.67,
         96.16,
-        107.16
+        107.39
       ]
     },
     "SBUX": {
       "stock": "SBUX",
       "name": "Starbucks",
-      "close": 106.13,
-      "change": 2.06,
-      "volume": 2793153,
-      "market_cap": 121011001739,
+      "close": 106.21,
+      "change": 2.13,
+      "volume": 3033937,
+      "market_cap": 121079512023,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": 3.42,
-      "perf_3m": 2.51,
-      "perf_6m": 10.13,
+      "perf_1m": 3.5,
+      "perf_3m": 2.58,
+      "perf_6m": 10.21,
       "perf_12m": null,
       "spark": [
         86.36,
@@ -10231,7 +10231,7 @@
         103.02,
         104.89,
         105.25,
-        106.13
+        106.21
       ]
     },
     "NKE": {
@@ -10239,7 +10239,7 @@
       "name": "Nike",
       "close": 40.71,
       "change": 1.24,
-      "volume": 8050809,
+      "volume": 8888846,
       "market_cap": 60286909757,
       "sector": "",
       "type": "us",
@@ -10285,16 +10285,16 @@
     "HD": {
       "stock": "HD",
       "name": "Home Depot",
-      "close": 335.66,
+      "close": 335.65,
       "change": 0.35,
-      "volume": 1515965,
+      "volume": 1668348,
       "market_cap": 334692189131,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
       "perf_1m": 3.37,
-      "perf_3m": 7.78,
+      "perf_3m": 7.77,
       "perf_6m": -10.94,
       "perf_12m": null,
       "spark": [
@@ -10327,23 +10327,23 @@
         345.21,
         338.87,
         333.35,
-        335.66
+        335.65
       ]
     },
     "NFLX": {
       "stock": "NFLX",
       "name": "Netflix",
-      "close": 79.75,
-      "change": -0.49,
-      "volume": 13650610,
-      "market_cap": 332073776172,
+      "close": 79.65,
+      "change": -0.61,
+      "volume": 14680960,
+      "market_cap": 331699449838,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": 15.76,
-      "perf_3m": -10.7,
-      "perf_6m": 1.37,
+      "perf_1m": 15.63,
+      "perf_3m": -10.8,
+      "perf_6m": 1.25,
       "perf_12m": null,
       "spark": [
         120.62,
@@ -10375,23 +10375,23 @@
         76.18,
         68.95,
         73.17,
-        79.75
+        79.65
       ]
     },
     "CAT": {
       "stock": "CAT",
       "name": "Caterpillar",
-      "close": 830.0,
-      "change": 1.79,
-      "volume": 1521225,
-      "market_cap": 381530157870,
+      "close": 829.51,
+      "change": 1.73,
+      "volume": 1668339,
+      "market_cap": 381380757919,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": -7.21,
-      "perf_3m": -3.97,
-      "perf_6m": 9.66,
+      "perf_1m": -7.27,
+      "perf_3m": -4.03,
+      "perf_6m": 9.59,
       "perf_12m": null,
       "spark": [
         414.16,
@@ -10423,23 +10423,23 @@
         938.38,
         878.65,
         809.14,
-        830.0
+        829.51
       ]
     },
     "BA": {
       "stock": "BA",
       "name": "Boeing",
-      "close": 214.17,
-      "change": -0.43,
-      "volume": 4197669,
-      "market_cap": 169289356513,
+      "close": 213.78,
+      "change": -0.61,
+      "volume": 4480745,
+      "market_cap": 168965301910,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": 2.36,
-      "perf_3m": -2.48,
-      "perf_6m": -7.7,
+      "perf_1m": 2.17,
+      "perf_3m": -2.65,
+      "perf_6m": -7.87,
       "perf_12m": null,
       "spark": [
         224.46,
@@ -10471,23 +10471,23 @@
         231.68,
         214.03,
         220.9,
-        214.17
+        213.78
       ]
     },
     "GE": {
       "stock": "GE",
       "name": "General Electric",
-      "close": 349.86,
-      "change": 1.52,
-      "volume": 1990805,
-      "market_cap": 363006798478,
+      "close": 350.21,
+      "change": 1.62,
+      "volume": 2148908,
+      "market_cap": 363416655935,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": 0.25,
-      "perf_3m": 16.09,
-      "perf_6m": 2.21,
+      "perf_1m": 0.35,
+      "perf_3m": 16.2,
+      "perf_6m": 2.31,
       "perf_12m": null,
       "spark": [
         267.35,
@@ -10519,23 +10519,23 @@
         366.98,
         348.83,
         355.04,
-        349.86
+        350.21
       ]
     },
     "RTX": {
       "stock": "RTX",
       "name": "RTX Corporation",
-      "close": 210.74,
-      "change": -0.73,
-      "volume": 2550560,
-      "market_cap": 284019813298,
+      "close": 210.56,
+      "change": -0.81,
+      "volume": 2900465,
+      "market_cap": 283938951100,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": 1.09,
-      "perf_3m": 20.65,
-      "perf_6m": 3.61,
+      "perf_1m": 1.0,
+      "perf_3m": 20.55,
+      "perf_6m": 3.52,
       "perf_12m": null,
       "spark": [
         154.03,
@@ -10567,23 +10567,23 @@
         200.18,
         192.87,
         213.67,
-        210.74
+        210.56
       ]
     },
     "DE": {
       "stock": "DE",
       "name": "Deere & Company",
-      "close": 640.27,
-      "change": 3.11,
-      "volume": 1220710,
-      "market_cap": 172940242866,
+      "close": 641.81,
+      "change": 3.36,
+      "volume": 1364845,
+      "market_cap": 173357554000,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": 4.96,
-      "perf_3m": 20.81,
-      "perf_6m": -2.82,
+      "perf_1m": 5.21,
+      "perf_3m": 21.1,
+      "perf_6m": -2.59,
       "perf_12m": null,
       "spark": [
         480.74,
@@ -10615,23 +10615,23 @@
         603.61,
         597.24,
         599.47,
-        640.27
+        641.81
       ]
     },
     "VZ": {
       "stock": "VZ",
       "name": "Verizon",
-      "close": 49.29,
-      "change": 0.21,
-      "volume": 7578503,
-      "market_cap": 204829178050,
+      "close": 49.44,
+      "change": 0.51,
+      "volume": 8142163,
+      "market_cap": 205412080281,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": 12.49,
-      "perf_3m": 3.86,
-      "perf_6m": 3.33,
+      "perf_1m": 12.83,
+      "perf_3m": 4.17,
+      "perf_6m": 3.63,
       "perf_12m": null,
       "spark": [
         42.15,
@@ -10663,23 +10663,23 @@
         41.88,
         43.59,
         46.11,
-        49.29
+        49.44
       ]
     },
     "T": {
       "stock": "T",
       "name": "AT&T",
-      "close": 25.33,
-      "change": 0.7,
-      "volume": 15394073,
-      "market_cap": 173536671814,
+      "close": 25.35,
+      "change": 0.82,
+      "volume": 16670862,
+      "market_cap": 173742235018,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": 10.3,
-      "perf_3m": 1.28,
-      "perf_6m": -7.32,
+      "perf_1m": 10.43,
+      "perf_3m": 1.4,
+      "perf_6m": -7.21,
       "perf_12m": null,
       "spark": [
         28.11,
@@ -10711,21 +10711,21 @@
         20.81,
         21.81,
         23.21,
-        25.33
+        25.35
       ]
     },
     "SPCX": {
       "stock": "SPCX",
       "name": "SpaceX",
-      "close": 135.42,
-      "change": 1.06,
-      "volume": 57824957,
-      "market_cap": 1785010642751,
+      "close": 136.0,
+      "change": 1.49,
+      "volume": 61686474,
+      "market_cap": 1792590327130,
       "sector": "",
       "type": "us",
       "dy": null,
       "pvp": null,
-      "perf_1m": 14.53,
+      "perf_1m": 15.02,
       "perf_3m": null,
       "perf_6m": null,
       "perf_12m": null,
@@ -10759,7 +10759,7 @@
         141.29,
         146.23,
         143.34,
-        135.42
+        136.0
       ]
     }
   },
@@ -10767,18 +10767,18 @@
     "BTC": {
       "stock": "BTC",
       "name": "BTC",
-      "close": 77409.95,
-      "change": 5.99,
-      "volume": 70771990528,
+      "close": 77148.72,
+      "change": 5.64,
+      "volume": 70138388480,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
       "dy": null,
       "pvp": null,
-      "perf_1m": 23.24,
-      "perf_3m": 21.83,
-      "perf_6m": 0.37,
-      "perf_12m": -14.25,
+      "perf_1m": 22.82,
+      "perf_3m": 21.42,
+      "perf_6m": 0.03,
+      "perf_12m": -14.54,
       "spark": [
         112419.03,
         111200.59,
@@ -10809,24 +10809,24 @@
         63088.3,
         63789.28,
         63871.36,
-        77409.95
+        77148.72
       ]
     },
     "ETH": {
       "stock": "ETH",
       "name": "ETH",
-      "close": 2425.39,
-      "change": 4.26,
-      "volume": 29527785472,
+      "close": 2417.79,
+      "change": 3.93,
+      "volume": 29194119168,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
       "dy": null,
       "pvp": null,
-      "perf_1m": 30.37,
-      "perf_3m": 41.75,
-      "perf_6m": 0.18,
-      "perf_12m": -21.36,
+      "perf_1m": 29.96,
+      "perf_3m": 41.31,
+      "perf_6m": -0.14,
+      "perf_12m": -21.61,
       "spark": [
         4223.21,
         4325.37,
@@ -10857,24 +10857,24 @@
         1779.03,
         1863.19,
         1919.95,
-        2425.39
+        2417.79
       ]
     },
     "SOL": {
       "stock": "SOL",
       "name": "SOL",
-      "close": 91.85,
-      "change": 4.81,
-      "volume": 6383468032,
+      "close": 91.86,
+      "change": 4.82,
+      "volume": 6333784064,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
       "dy": null,
       "pvp": null,
-      "perf_1m": 26.19,
-      "perf_3m": 31.74,
-      "perf_6m": 3.35,
-      "perf_12m": -30.59,
+      "perf_1m": 26.2,
+      "perf_3m": 31.75,
+      "perf_6m": 3.36,
+      "perf_12m": -30.58,
       "spark": [
         180.28,
         209.48,
@@ -10905,24 +10905,24 @@
         81.65,
         75.27,
         73.7,
-        91.85
+        91.86
       ]
     },
     "ADA": {
       "stock": "ADA",
       "name": "ADA",
       "close": 0.22,
-      "change": 10.38,
-      "volume": 1034808192,
+      "change": 9.54,
+      "volume": 1010118400,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
       "dy": null,
       "pvp": null,
-      "perf_1m": 30.81,
-      "perf_3m": 35.54,
-      "perf_6m": -15.12,
-      "perf_12m": -46.3,
+      "perf_1m": 29.81,
+      "perf_3m": 34.51,
+      "perf_6m": -15.77,
+      "perf_12m": -46.71,
       "spark": [
         0.85,
         0.83,
@@ -10960,17 +10960,17 @@
       "stock": "XRP",
       "name": "XRP",
       "close": 1.39,
-      "change": 9.49,
-      "volume": 9607791616,
+      "change": 9.24,
+      "volume": 9153252352,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
       "dy": null,
       "pvp": null,
-      "perf_1m": 30.95,
-      "perf_3m": 22.21,
-      "perf_6m": -5.97,
-      "perf_12m": -30.88,
+      "perf_1m": 30.65,
+      "perf_3m": 21.93,
+      "perf_6m": -6.19,
+      "perf_12m": -31.04,
       "spark": [
         2.85,
         2.86,
@@ -11007,18 +11007,18 @@
     "BNB": {
       "stock": "BNB",
       "name": "BNB",
-      "close": 679.72,
-      "change": 3.79,
-      "volume": 2668240896,
+      "close": 676.85,
+      "change": 3.35,
+      "volume": 2659318016,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
       "dy": null,
       "pvp": null,
-      "perf_1m": 15.91,
-      "perf_3m": 16.96,
-      "perf_6m": 5.64,
-      "perf_12m": -22.92,
+      "perf_1m": 15.42,
+      "perf_3m": 16.46,
+      "perf_6m": 5.19,
+      "perf_12m": -23.25,
       "spark": [
         839.04,
         851.78,
@@ -11049,24 +11049,24 @@
         574.97,
         572.19,
         570.49,
-        679.72
+        676.85
       ]
     },
     "DOGE": {
       "stock": "DOGE",
       "name": "DOGE",
       "close": 0.08,
-      "change": 5.17,
-      "volume": 1691388416,
+      "change": 5.23,
+      "volume": 1645136000,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
       "dy": null,
       "pvp": null,
-      "perf_1m": 21.66,
-      "perf_3m": 1.26,
-      "perf_6m": -15.03,
-      "perf_12m": -38.24,
+      "perf_1m": 21.73,
+      "perf_3m": 1.32,
+      "perf_6m": -14.98,
+      "perf_12m": -38.2,
       "spark": [
         0.21,
         0.21,
@@ -11104,35 +11104,35 @@
   "indices": {
     "IBOV": {
       "stock": "IBOV",
-      "close": 170964.39,
-      "change": 1.81
+      "close": 171404.59,
+      "change": 2.07
     },
     "SP500": {
       "stock": "SP500",
-      "close": 7674.06,
-      "change": 0.43
+      "close": 7670.37,
+      "change": 0.38
     },
     "NASDAQ": {
       "stock": "NASDAQ",
-      "close": 26176.38,
-      "change": 0.42
+      "close": 26148.84,
+      "change": 0.31
     },
     "DOW": {
       "stock": "DOW",
-      "close": 53194.76,
-      "change": 0.83
+      "close": 53238.83,
+      "change": 0.91
     }
   },
   "dolar": {
     "stock": "USD/BRL",
-    "close": 5.1461,
-    "change": -0.59
+    "close": 5.1332,
+    "change": -0.84
   },
-  "atualizado_em": "21/08/2026 17:57",
+  "atualizado_em": "21/08/2026 18:39",
   "euro": {
     "stock": "EUR/BRL",
-    "close": 6.0098,
-    "change": -0.48
+    "close": 5.9978,
+    "change": -0.68
   },
   "di_futuro": [
     {
@@ -11152,42 +11152,42 @@
     {
       "symb": "DI1F27",
       "venc": "2027-01-04",
-      "taxa": 13.71,
+      "taxa": 13.705,
       "ant": 13.725,
       "contratos": 6872045
     },
     {
       "symb": "DI1F28",
       "venc": "2028-01-03",
-      "taxa": 13.87,
+      "taxa": 13.855,
       "ant": 13.941,
       "contratos": 4795234
     },
     {
       "symb": "DI1F29",
       "venc": "2029-01-02",
-      "taxa": 14.17,
+      "taxa": 14.15,
       "ant": 14.274,
       "contratos": 3222220
     },
     {
       "symb": "DI1F30",
       "venc": "2030-01-02",
-      "taxa": 14.365,
+      "taxa": 14.34,
       "ant": 14.487,
       "contratos": 1531608
     },
     {
       "symb": "DI1F31",
       "venc": "2031-01-02",
-      "taxa": 14.455,
+      "taxa": 14.425,
       "ant": 14.59,
       "contratos": 2627777
     },
     {
       "symb": "DI1F32",
       "venc": "2032-01-02",
-      "taxa": 14.535,
+      "taxa": 14.51,
       "ant": 14.674,
       "contratos": 1434911
     }
@@ -11195,32 +11195,32 @@
   "commodities": {
     "OURO": {
       "stock": "Ouro",
-      "close": 4676.3,
-      "change": 3.54,
+      "close": 4683.3,
+      "change": 3.7,
       "unidade": "US$/onça"
     },
     "PRATA": {
       "stock": "Prata",
-      "close": 69.58,
-      "change": 2.28,
+      "close": 69.69,
+      "change": 2.45,
       "unidade": "US$/onça"
     },
     "BRENT": {
       "stock": "Petróleo Brent",
-      "close": 94.5,
-      "change": 0.77,
+      "close": 94.34,
+      "change": 0.6,
       "unidade": "US$/barril"
     },
     "WTI": {
       "stock": "Petróleo WTI",
-      "close": 87.29,
-      "change": -0.61,
+      "close": 87.01,
+      "change": -0.93,
       "unidade": "US$/barril"
     },
     "GAS": {
       "stock": "Gás Natural",
-      "close": 2.8,
-      "change": 2.45,
+      "close": 2.81,
+      "change": 2.82,
       "unidade": "US$/MMBtu"
     },
     "COBRE": {
@@ -11237,14 +11237,14 @@
     },
     "SOJA": {
       "stock": "Soja",
-      "close": 1238.5,
-      "change": 1.45,
+      "close": 1240.25,
+      "change": 1.6,
       "unidade": "¢/bushel"
     },
     "MILHO": {
       "stock": "Milho",
-      "close": 507.5,
-      "change": 6.01,
+      "close": 508.25,
+      "change": 6.16,
       "unidade": "¢/bushel"
     },
     "CAFE": {
@@ -11260,5 +11260,5 @@
       "unidade": "¢/libra"
     }
   },
-  "atualizado_iso": "2026-08-21T17:57:13Z"
+  "atualizado_iso": "2026-08-21T18:39:45Z"
 }
