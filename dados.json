@@ -1296,54 +1296,6 @@
         36.99
       ]
     },
-    "PSSA3": {
-      "stock": "PSSA3",
-      "name": "Porto Seguro",
-      "close": 43.96,
-      "change": -1.57,
-      "volume": 1963600,
-      "market_cap": 28232260318,
-      "sector": "Financial Services",
-      "type": "stock",
-      "dy": null,
-      "pvp": null,
-      "perf_1m": -16.46,
-      "perf_3m": -4.43,
-      "perf_6m": -9.27,
-      "perf_12m": null,
-      "spark": [
-        42.6,
-        45.23,
-        46.53,
-        45.09,
-        44.82,
-        46.26,
-        49.26,
-        48.55,
-        49.32,
-        46.59,
-        46.64,
-        49.22,
-        53.2,
-        48.78,
-        47.35,
-        47.89,
-        46.91,
-        51.41,
-        52.35,
-        53.46,
-        54.58,
-        53.66,
-        46.08,
-        47.82,
-        50.25,
-        48.92,
-        47.66,
-        52.74,
-        48.1,
-        43.96
-      ]
-    },
     "AXIA3": {
       "stock": "AXIA3",
       "name": "Axia Energia ON",
@@ -10667,18 +10619,18 @@
     "BTC": {
       "stock": "BTC",
       "name": "BTC",
-      "close": 61174.54,
-      "change": 1.8,
-      "volume": 29092833280,
+      "close": 60752.14,
+      "change": 1.1,
+      "volume": 26179844096,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
       "dy": null,
       "pvp": null,
-      "perf_1m": -21.82,
-      "perf_3m": -24.61,
-      "perf_6m": -5.44,
-      "perf_12m": -15.96,
+      "perf_1m": -22.36,
+      "perf_3m": -25.13,
+      "perf_6m": -6.09,
+      "perf_12m": -16.54,
       "spark": [
         84648.36,
         92141.62,
@@ -10709,24 +10661,24 @@
         85786.59,
         81382.15,
         77775.11,
-        61174.54
+        60752.14
       ]
     },
     "ETH": {
       "stock": "ETH",
       "name": "ETH",
-      "close": 1719.1,
-      "change": 2.19,
-      "volume": 8520563712,
+      "close": 1713.57,
+      "change": 1.86,
+      "volume": 8209603072,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
       "dy": null,
       "pvp": null,
-      "perf_1m": -24.37,
-      "perf_3m": -34.96,
-      "perf_6m": -8.14,
-      "perf_12m": -21.05,
+      "perf_1m": -24.61,
+      "perf_3m": -35.17,
+      "perf_6m": -8.44,
+      "perf_12m": -21.3,
       "spark": [
         2767.61,
         3134.32,
@@ -10757,24 +10709,24 @@
         2711.03,
         2399.8,
         2249.5,
-        1719.1
+        1713.57
       ]
     },
     "SOL": {
       "stock": "SOL",
       "name": "SOL",
-      "close": 70.5,
-      "change": 0.41,
-      "volume": 1934814848,
+      "close": 70.17,
+      "change": -0.06,
+      "volume": 1906575232,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
       "dy": null,
       "pvp": null,
-      "perf_1m": -25.36,
-      "perf_3m": -36.56,
-      "perf_6m": -7.67,
-      "perf_12m": -23.58,
+      "perf_1m": -25.71,
+      "perf_3m": -36.86,
+      "perf_6m": -8.1,
+      "perf_12m": -23.94,
       "spark": [
         127.55,
         139.01,
@@ -10805,24 +10757,24 @@
         120.75,
         103.31,
         95.49,
-        70.5
+        70.17
       ]
     },
     "ADA": {
       "stock": "ADA",
       "name": "ADA",
-      "close": 0.15,
-      "change": 0.56,
-      "volume": 216715696,
+      "close": 0.14,
+      "change": -0.23,
+      "volume": 197370912,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
       "dy": null,
       "pvp": null,
-      "perf_1m": -24.78,
-      "perf_3m": -36.37,
-      "perf_6m": -12.61,
-      "perf_12m": -46.24,
+      "perf_1m": -25.37,
+      "perf_3m": -36.86,
+      "perf_6m": -13.29,
+      "perf_12m": -46.66,
       "spark": [
         0.4,
         0.44,
@@ -10853,24 +10805,24 @@
         0.27,
         0.22,
         0.19,
-        0.15
+        0.14
       ]
     },
     "XRP": {
       "stock": "XRP",
       "name": "XRP",
-      "close": 0.93,
-      "change": -0.25,
-      "volume": 1355439488,
+      "close": 0.92,
+      "change": -0.93,
+      "volume": 1284557440,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
       "dy": null,
       "pvp": null,
-      "perf_1m": -25.67,
-      "perf_3m": -34.11,
-      "perf_6m": -15.23,
-      "perf_12m": -35.82,
+      "perf_1m": -26.18,
+      "perf_3m": -34.55,
+      "perf_6m": -15.81,
+      "perf_12m": -36.26,
       "spark": [
         1.95,
         2.1,
@@ -10901,24 +10853,24 @@
         1.51,
         1.29,
         1.23,
-        0.93
+        0.92
       ]
     },
     "BNB": {
       "stock": "BNB",
       "name": "BNB",
-      "close": 558.57,
-      "change": 2.02,
-      "volume": 744924608,
+      "close": 555.69,
+      "change": 1.49,
+      "volume": 771240896,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
       "dy": null,
       "pvp": null,
-      "perf_1m": -21.54,
-      "perf_3m": -27.68,
-      "perf_6m": -2.07,
-      "perf_12m": -17.09,
+      "perf_1m": -21.94,
+      "perf_3m": -28.05,
+      "perf_6m": -2.58,
+      "perf_12m": -17.52,
       "spark": [
         833.35,
         900.07,
@@ -10949,24 +10901,24 @@
         786.81,
         717.04,
         697.69,
-        558.57
+        555.69
       ]
     },
     "DOGE": {
       "stock": "DOGE",
       "name": "DOGE",
       "close": 0.06,
-      "change": 0.19,
-      "volume": 406698976,
+      "change": -0.3,
+      "volume": 399402688,
       "market_cap": 0,
       "sector": "",
       "type": "crypto",
       "dy": null,
       "pvp": null,
-      "perf_1m": -26.73,
-      "perf_3m": -36.65,
-      "perf_6m": -23.54,
-      "perf_12m": -43.23,
+      "perf_1m": -27.09,
+      "perf_3m": -36.96,
+      "perf_6m": -23.91,
+      "perf_12m": -43.51,
       "spark": [
         0.14,
         0.15,
@@ -11025,14 +10977,14 @@
   },
   "dolar": {
     "stock": "USD/BRL",
-    "close": 5.9488,
-    "change": 0.26
+    "close": 5.9074,
+    "change": -0.44
   },
-  "atualizado_em": "22/11/2026 16:51",
+  "atualizado_em": "22/11/2026 23:09",
   "euro": {
     "stock": "EUR/BRL",
-    "close": 6.502,
-    "change": 0.85
+    "close": 6.4894,
+    "change": -0.19
   },
   "di_futuro": [
     {
@@ -11160,5 +11112,5 @@
       "unidade": "¢/libra"
     }
   },
-  "atualizado_iso": "2026-11-22T16:51:54Z"
+  "atualizado_iso": "2026-11-22T23:09:55Z"
 }
